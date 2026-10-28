@@ -4,10 +4,11 @@ Repozytorium do technicznego rozpoznawania, tłumaczenia, testowania i przygotow
 
 > **Zasada nadrzędna:** najpierw rozpoznajemy konkretną kopię gry i jej zasoby, dopiero potem wybieramy narzędzia oraz sposób pracy. Nie modyfikujemy instalacji użytkownika podczas inwentaryzacji.
 
-## Aktywny projekt
+## Projekty i kandydaci
 
-- [The Genesis Order](games/the-genesis-order/README.md) — przygotowany pierwszy, tylko do odczytu pakiet inwentaryzacyjny; czekamy na raport z Windowsa, aby ustalić format i wskazać minimalny zestaw plików do kolejnego etapu.
-- [Lista projektów i ich status](PROJECTS.md).
+- [The Genesis Order](games/the-genesis-order/README.md) — pierwszy kandydat; pakiet inwentaryzacyjny czeka na wynik z Windowsa.
+- [Being a DIK](games/being-a-dik/README.md) — drugi kandydat; wstępna analiza potwierdziła wysoką osiągalność techniczną dla przesłanej edycji Season 1, ale użytkownik nie wybrał jeszcze tytułu.
+- [Lista projektów i ich status](PROJECTS.md) oraz [porównanie kandydatów](docs/CANDIDATE_COMPARISON.md).
 
 ## Sposób pracy
 

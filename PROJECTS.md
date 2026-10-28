@@ -1,10 +1,11 @@
-# Projekty
+# Projekty i kandydaci
 
-Jedna visual novel = jeden samodzielny katalog w `games/`. Statusy mówią o dowodach dostępnych w repo, nie o domysłach.
+Każda visual novel ma własny katalog `games/<slug>/`. Statusy opisują wyłącznie dowody dostępne dla danego wydania; nie oznaczają, że właściciel wybrał już tytuł do tłumaczenia.
 
 | Tytuł | Slug | Status | Następny krok |
 |---|---|---|---|
-| The Genesis Order | [`the-genesis-order`](games/the-genesis-order/README.md) | **Inwentaryzacja przygotowana; raport użytkownika oczekiwany** | Użytkownik uruchamia pakiet na Windowsie i udostępnia wynikowy ZIP przez Drive; potem rozpoznajemy zasoby i planujemy celowaną próbkę. |
+| The Genesis Order | [`the-genesis-order`](games/the-genesis-order/README.md) | **Inwentaryzacja przygotowana; raport użytkownika oczekiwany** | Użytkownik uruchamia pakiet na Windowsie i udostępnia wynikowy ZIP; potem analizujemy strukturę i wybieramy minimalną próbkę. |
+| Being a DIK | [`being-a-dik`](games/being-a-dik/README.md) | **Wstępna analiza: technicznie osiągalne; kandydat niezatwierdzony** | Ustalić, czy wybieramy ten tytuł i czy początkowym zakresem ma być Season 1 (dostępny w aktualnych plikach Drive), czy szersza całość. |
 
 ## Dodanie kolejnego tytułu
 

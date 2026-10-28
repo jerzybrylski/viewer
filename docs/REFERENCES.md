@@ -8,6 +8,12 @@ Podstawą organizacji są sprawdzone procesy z projektów dostępnych w repozyto
 - [SRW OE: metoda](https://github.com/szybkoiwyraznie-rgb/mtgcrawler/blob/main/srw-oe-translation/docs/METHOD.md) — najpierw korzystać z dowodów, a nie powtarzać niepotrzebne eksperymenty;
 - [SRW Y: instrukcje projektu](https://github.com/szybkoiwyraznie-rgb/mtgcrawler/blob/main/srw-y-translation/AGENTS.md) i [README](https://github.com/szybkoiwyraznie-rgb/mtgcrawler/blob/main/srw-y-translation/README.md) — raporty lokalne, minimalne zbiory wejściowe, hashe/Drive IDs, bogaty kontekst i jawny status niezweryfikowanych testów.
 
+## Dodatkowy punkt odniesienia dla Ren'Py / Being a DIK
+
+Przy badaniu Ren'Py sprawdzono także [Waiyakorn1879/for-the-plot](https://github.com/Waiyakorn1879/for-the-plot), commit [`879b9b863032a09e6a27cdca67c6582a573e3819`](https://github.com/Waiyakorn1879/for-the-plot/commit/879b9b863032a09e6a27cdca67c6582a573e3819). Repo opisuje pipeline Ren'Py oraz przykład profilu dla *Being a DIK* → Thai. To wiedza techniczna, nie źródło polskiego przekładu. **Nie kopiujemy** tłumaczenia, przykładów ani game-specific danych — korzystamy z dokumentacji o formacie, ekstrakcji i QA tylko jako z technicznego prior art.
+
+Do lokalnego testu parsowania skompilowanych skryptów użyto [CensoredUsername/unrpyc](https://github.com/CensoredUsername/unrpyc), v2.0.3, Git HEAD `3ae8334ed71a05535927dcc559663d3aca51215b`. Dwa wybrane skrypty zakończyły dekompilację pomyślnie; jeden wynik zawierał ostrzeżenie o Ren'Py 7. Szczegóły i ograniczenie próby zapisano w raporcie Being a DIK.
+
 ## Co przenosimy
 
 - iteracyjne BAT/PowerShell → ZIP → Drive dla wejść z Windowsa;
