@@ -1,0 +1,23 @@
+THE GENESIS ORDER — PAKIET PRÓBKI ETAP 2
+Wersja 1.0.0
+
+PO CO TEN PAKIET
+Pierwszy raport wskazuje na RPG Maker MV/NW.js. Ten etap zbiera małą próbkę potrzebną do potwierdzenia wersji, listy aktywnych wtyczek i formatu zdarzeń.
+
+BEZPIECZEŃSTWO I ZAKRES
+- Uruchom pakiet tylko na instalacji, do której masz uprawniony dostęp.
+- Skrypt niczego nie zmienia w grze; wyłącznie odczytuje i kopiuje jawnie wskazane pliki.
+- Do ZIP trafiają: package.json (jeśli istnieje), RPG Maker core rpg_core.js, konfiguracja wtyczek plugins.js, System.json, MapInfos.json oraz tylko mapa startowa wskazana przez System.json.
+- Nie kopiuje katalogu gry, CommonEvents.json, pozostałych map, plugin source files, filmów, obrazów, audio, zapisów ani ustawień użytkownika.
+- ZIP zawiera niewielką próbkę kodu/danych gry i może zawierać fragmenty tekstów. Udostępnij go wyłącznie do analizy tego projektu, nie publikuj go.
+- Do repozytorium Git trafiają wyłącznie narzędzia i dokumentacja, nigdy ZIP z assetami.
+
+JAK URUCHOMIĆ
+1. Rozpakuj ZIP z pakietem do zwykłego folderu.
+2. Kliknij dwukrotnie URUCHOM_ETAP2.bat.
+3. Wklej ścieżkę do głównego katalogu instalacji (folder zawierający podfolder www), np. D:\Games\The Genesis Order.
+4. Po zakończeniu znajdź na Pulpicie plik TGO_STAGE2_SAMPLE_*.zip.
+5. Prześlij wyłącznie ten ZIP na folder TGO na Google Drive.
+
+Wynik zawiera manifest plików z rozmiarami i SHA-256, bez pełnej ścieżki instalacji, nazwy konta ani nazwy komputera.
+Jeśli System.json lub MapInfos.json nie istnieją, skrypt przerwie działanie bez modyfikowania gry.

@@ -31,8 +31,8 @@ Pole `possibleTextResourceCount=17625` oraz CSV „possible text resources” s�
 
 ## Pochodzenie kopii — do wyjaśnienia przed kolejnym transferem plików
 
-- Inwentarz zawiera `_Redist\fitgirl.md5`. To silny sygnał, że badana instalacja może pochodzić z repacka FitGirl; sama nazwa pliku nie rozstrzyga pochodzenia ani licencji.
-- Nie wysyłamy teraz próbek danych/skryptów tej instalacji dalej i nie przygotowujemy patcha, dopóki użytkownik nie potwierdzi autoryzowanego źródła kopii. Jeśli użytkownik ma legalną kopię ze sklepu, dalszą próbkę należy zebrać z tej oficjalnej instalacji.
+- Inwentarz zawiera `_Redist\fitgirl.md5`. Użytkownik wyjaśnia, że to pozostałość niezwiązana z projektem; sama nazwa pliku ani ta odpowiedź nie potwierdzają sklepu, wydania ani statusu licencji.
+- Pakiet próbkowy etap 2 nie zawiera danych gry. Uruchamiać go należy wyłącznie na kopii, do której użytkownik ma autoryzowany dostęp. Żadnego assetu z tej kopii nie przesłano do repo ani Drive w tym etapie.
 
 ## Kolejny etap po potwierdzeniu źródła
 

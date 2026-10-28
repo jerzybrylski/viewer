@@ -4,7 +4,7 @@ Każda visual novel ma własny katalog `games/<slug>/`. Statusy opisują wyłąc
 
 | Tytuł | Slug | Status | Następny krok |
 |---|---|---|---|
-| The Genesis Order | [`the-genesis-order`](games/the-genesis-order/README.md) | **Inwentaryzacja odebrana; źródło kopii do potwierdzenia** | Po potwierdzeniu legalnej kopii przygotować pakiet #2: minimalny, wskazany zestaw JS/JSON bez mediów i bez modyfikacji gry. |
+| The Genesis Order | [`the-genesis-order`](games/the-genesis-order/README.md) | **Inwentaryzacja odebrana; pakiet próbki #2 udostępniony** | Użytkownik uruchamia BAT/PS1 na kopii, do której ma autoryzowany dostęp, i przesyła wynikowy mały ZIP z JS/JSON. |
 | Being a DIK | [`being-a-dik`](games/being-a-dik/README.md) | **Wstępna analiza: technicznie osiągalne; kandydat niezatwierdzony** | Ustalić, czy wybieramy ten tytuł i czy początkowym zakresem ma być Season 1 (dostępny w aktualnych plikach Drive), czy szersza całość. |
 
 ## Dodanie kolejnego tytułu
