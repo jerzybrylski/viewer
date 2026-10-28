@@ -6,13 +6,13 @@ Przeczytaj `../../AGENTS.md`, `../../ENVIRONMENT.md`, `README.md`, `docs/STATUS.
 
 ## Bieżący etap
 
-Pierwsza inwentaryzacja Windows została odebrana. Układ plików silnie sugeruje RPG Maker MV + NW.js, ale wersja/build i język źródłowy nie są potwierdzone. Użytkownik twierdzi, że wpis `_Redist\fitgirl.md5` to pozostałość niezwiązana z projektem; nie traktuj tego jako samodzielnego potwierdzenia źródła/licencji. Pakiet próbkowy etap 2 został przygotowany i umieszczony w Drive; uruchamiać go wyłącznie na kopii, do której użytkownik ma autoryzowany dostęp.
+Użytkownik przesłał `www/data/` i `www/js/` bez multimediów. Silnik potwierdzono jako RPG Maker MV 1.6.1 + NW.js. Pobieraj tylko konkretne pliki potrzebne do analizy; pozostałe nadal są na Drive. Folder fontów `www/fonts/` jest kolejną potrzebną małą próbką.
 
 ## Zasady dla TGO
 
-- Nie proś o całą instalację. Drugi pakiet kopiuje tylko jawnie wskazaną allowlistę konfiguracyjnych plików JS/JSON i mapę startową. Nie dodawaj do niego filmów, audio, obrazów ani całego `www`.
-- Nie wykonuj kodu gry ani skryptów użytkownika. Nie nadpisuj oryginałów, zapisów ani ustawień. Zbiór próbki ma być nieinwazyjny.
-- Raport „possible text resources” to szeroki filtr obejmujący media, nie licznik dialogów/stringów.
-- Dziennikuj każdy wynik z Drive ID, nazwą, rozmiarem i SHA-256. Zachowuj rozdział: potwierdzone / wniosek / nieznane.
-- Nie kopiuj do repo treści gry ani danych osobowych z transcriptu (nazwa konta/komputera). Wspominaj tylko metadane potrzebne do analizy.
-- Projekt tłumaczeniowy nie jest jeszcze rozpoczęty. Najpierw potwierdź wersję i język na podstawie próbki, potem zaplanuj ekstrakcję.
+- Nie proś o całą instalację ani media. Do renderowania potrzebne są wyłącznie `.ttf` i `.otf` z `www/fonts/`.
+- Nie uruchamiaj kodu gry ani skryptów JS z instalacji; czytaj JSON bezpiecznym parserem, a JS analizuj statycznie. Nie nadpisuj oryginałów, zapisów ani ustawień.
+- Dane eventów zawierają natywne wiadomości, ale też wiele plugin/script commandów. Nie utożsamiaj surowej liczby tekstów/kodów z liczbą lokalizowalnych stringów.
+- Dziennikuj wyniki z Drive ID, nazwą, rozmiarem i SHA-256. Rozdzielaj potwierdzone / wnioski / niewiadome.
+- Nie kopiuj do repo treści gry ani danych osobowych z transcriptu. Assety lokalne pozostają w ignorowanym `google_drive/`.
+- Tłumaczenie nie jest rozpoczęte. Najpierw zbuduj i zwaliduj pełny eksport tekstów, strukturę kontekstu i tokenów; patch dopiero po decyzji o zakresie.

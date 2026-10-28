@@ -4,12 +4,12 @@ Stan na 2026-10-28. Porównanie dotyczy dowodów technicznych, nie jakości fabu
 
 | Kryterium | The Genesis Order | Being a DIK (przesłane GOG Season 1) |
 |---|---|---|
-| Pliki od użytkownika | Otrzymana inwentaryzacja metadanych z Windowsa; mała próbka JS/JSON została przygotowana do etapu 2 | Dostępne archiwa, fonty i manifest GOG w Drive |
-| Silnik / format | Mocny wniosek: RPG Maker MV + NW.js; wersja/build niepotwierdzone | Ren'Py 7.4.10.2178; RPA-3.0; 158 indeksowanych `.rpyc` |
+| Pliki od użytkownika | Raport metadanych plus `www/data/` i `www/js/`; pobrano wybraną próbkę | Dostępne archiwa, fonty i manifest GOG w Drive |
+| Silnik / format | RPG Maker MV 1.6.1 + NW.js; 305 JSON w `www/data`, 78 JS w `www/js` | Ren'Py 7.4.10.2178; RPA-3.0; 158 indeksowanych `.rpyc` |
 | Źródło tekstu | Język źródłowy niepotwierdzony | English `en-US` według manifestu GOG |
 | Priory art | Nie oceniano dla konkretnej wersji | Repo autora deklaruje workflow Ren'Py i worked example Thai dla tej samej gry; nie odtworzono niezależnie patcha |
-| Następny test | Uruchomić pakiet 2 na kopii z autoryzowanym dostępem i przeanalizować wynik | Dwa krótkie `.rpyc` przeszły test `unrpyc`; jeden wynik zawiera ostrzeżenie Ren'Py 7, całość 158 plików niezweryfikowana |
-| Główne ryzyko zakresu | 17,85 GiB, z czego przeważają filmy i zasoby `.rpgmvp`/`.rpgmvo`; źródło/build niepotwierdzone | Tytuł jest duży; telefon/UI i Season 2/3 mogą wymagać dodatkowego zakresu; obecny manifest obejmuje Season 1 |
+| Następny test | Dosłać fonty `.ttf`/`.otf`, następnie zwalidować pełny eksport tekstu z JSON-ów | Dwa krótkie `.rpyc` przeszły test `unrpyc`; jeden wynik zawiera ostrzeżenie Ren'Py 7, całość 158 plików niezweryfikowana |
+| Główne ryzyko zakresu | 17,85 GiB, z czego przeważają filmy i zasoby `.rpgmvp`/`.rpgmvo`; w eventach są tysiące poleceń skryptowych/pluginowych | Tytuł jest duży; telefon/UI i Season 2/3 mogą wymagać dodatkowego zakresu; obecny manifest obejmuje Season 1 |
 
 ## Wniosek roboczy
 

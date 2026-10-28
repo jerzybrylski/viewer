@@ -1,22 +1,24 @@
 # Status — The Genesis Order
 
-**Stan: etap 1 zakończony; celowany pakiet 2 przygotowany i udostępniony.** Aktualizacja: 2026-10-28.
+**Stan: silnik i format potwierdzone; analiza tekstu rozpoczęta na próbce.** Aktualizacja: 2026-10-28.
 
 ## Potwierdzone
 
-- Użytkownik uruchomił pakiet inwentaryzacyjny na Windowsie i przesłał wynik na Drive.
-- Raport obejmuje 17 694 pliki / 17,85 GiB, bez ostrzeżeń skanowania; raport nie zawiera plików gry.
-- Układ `www/js/rpg_*.js`, `www/data/*.json`, `.rpgmvp` / `.rpgmvo` i runtime `nw.dll` / `node.dll` mocno wskazuje na RPG Maker MV + NW.js; dokładna wersja niepotwierdzona.
-- W inwentarzu znajduje się `_Redist\fitgirl.md5`. Użytkownik wyjaśnia, że to pozostałość niezwiązana z projektem. Źródło/sklep kopii nadal nie są zapisane.
-- Pakiet 2 kopiuje tylko allowlistę małych plików konfiguracyjnych/engine oraz mapę startową wskazaną w `System.json`; nie kopiuje mediów ani pełnego katalogu.
+- Raport Windows: 17 694 pliki / 17,85 GiB, bez ostrzeżeń; brak assetów w samym raporcie.
+- Użytkownik wrzucił na Drive `www/data/` i `www/js/` oraz główny `package.json`; nie ma tam mediów. Lokalnie pobrano wybrane JSON-y i skrypty JS do statycznej analizy.
+- Silnik: **RPG Maker MV 1.6.1 + NW.js** (marker wersji w `rpg_core.js`, entry point w `package.json`).
+- `System.json` ustawia mapę startową 38; `MapInfos.json` opisuje 291 map. `CommonEvents.json` ma 500 zdarzeń i ponad 139 tys. poleceń eventów.
+- 56 wpisów pluginów, 53 aktywne. Wiadomości korzystają m.in. z YEP MessageCore, custom-font managerów, zawijania tekstu i wtyczek ustawiających format wiadomości.
+- Aktywny plugin fontowy wymienia 10 plików czcionek w `www/fonts/`. Tego katalogu nie ma w obecnym uploadzie.
+- Użytkownik wyjaśnia, że `_Redist\\fitgirl.md5` to pozostałość; źródło i build kopii nadal nie są potwierdzone. Nie wpływa to na identyfikację formatu plików.
 
 ## Nieznane / niezweryfikowane
 
-- Sklep/źródło, wydanie, build i kompletność kopii; dokładna wersja RPG Maker MV.
-- Język źródłowy, teksty w plikach danych i zachowanie wtyczek.
-- Liczba lokalizowalnych stringów; `possibleTextResourceCount=17625` jest szerokim filtrem obejmującym media, nie licznikiem tekstu.
-- Bezpieczny sposób budowania i instalowania patcha bez naruszenia oryginałów/zapisów.
+- Język źródłowy, dokładny build/produkt i kompletność kopii.
+- Liczba wszystkich unikalnych tekstów: próbka `CommonEvents.json` zawiera wiele natywnych pól dialogu, ale również dziesiątki tysięcy poleceń skryptowych/pluginowych, a pozostałe mapy nie zostały jeszcze przetworzone.
+- Pokrycie polskich znaków w fontach oraz wygląd polskiego tekstu w runtime.
+- Bezpieczny patch, save migration, osiągnięcia i test Windows.
 
 ## Następny krok
 
-Pobrać `TGO_STAGE2_REQUEST_v1.0.0.zip` z folderu TGO na Drive, rozpakować, uruchomić `URUCHOM_ETAP2.bat` na kopii, do której użytkownik ma autoryzowany dostęp, a wynikowy `TGO_STAGE2_SAMPLE_*.zip` przesłać na Drive. Pakiet jest tylko do odczytu; nie uruchamia gry ani nie zmienia instalacji.
+Użytkownik dosyła wyłącznie `www/fonts/` (pliki `.ttf` i `.otf`, bez innych mediów). Następnie można przygotować bezpieczny parser/raport tekstów z JSON-ów, rozdzielając dialog, wybory, nazwy/opisy baz danych i pola skryptowe. Dotychczas nie uruchamiano gry ani nie budowano patcha.

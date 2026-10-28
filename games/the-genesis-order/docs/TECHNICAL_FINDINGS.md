@@ -1,39 +1,41 @@
 # Ustalenia techniczne — The Genesis Order
 
-Źródła i dokładne wykonane kroki są w [`EXPERIMENT_LOG.md`](EXPERIMENT_LOG.md). Oznaczenia: **potwierdzone** = widać w raporcie inwentaryzacyjnym; **wniosek** = silna wskazówka z nazw/układu plików, jeszcze nie zweryfikowana zawartością.
+Daty, źródła i hashe plików znajdują się w [`EXPERIMENT_LOG.md`](EXPERIMENT_LOG.md). Rozróżniamy fakty z raportu/plików, wnioski oraz niewiadome. Nie kopiujemy do dokumentacji dialogów ani treści gry.
 
-## Potwierdzone z raportu Windows (2026-10-28)
+## Inwentaryzacja Windows (2026-10-28)
 
-- Skan objął `D:\Games\The Genesis Order`; raport podaje Windows 10 build `10.0.16299`, PowerShell `5.1.16299.98` i zero błędów skanowania. Nazwa konta ani nazwa komputera z logu nie są kopiowane do dokumentacji.
-- Inwentarz: **17 694 pliki**, 19 169 362 931 B (17,85 GiB). Folder `www` zawiera 17 564 pliki i ok. 19,0 GB.
-- Główne grupy rozszerzeń:
+- Raport obejmuje 17 694 pliki / 19 169 362 931 B (17,85 GiB), bez ostrzeżeń skanowania. Nie zawiera bajtów plików gry.
+- Użytkownik wyjaśnia, że `_Redist\fitgirl.md5` to pozostałość niezwiązana z projektem; źródło/sklep/build kopii nadal nie są potwierdzone.
+- Największe grupy: 7 352 `.mp4` (16,79 GB), 6 808 `.rpgmvp` (2,01 GB), 2 992 `.rpgmvo` (136,6 MB). Nie są potrzebne do analizy tekstu.
+- `possibleTextResourceCount=17625` to szeroki filtr obejmujący również media; nie oznacza liczby dialogów/stringów.
 
-| Rozszerzenie | Liczba | Łączny rozmiar | Interpretacja wstępna |
-|---|---:|---:|---|
-| `.mp4` | 7 352 | 16 785 208 166 B | dominujące filmy; niepotrzebne do pierwszej próbki tekstu |
-| `.rpgmvp` | 6 808 | 2 008 136 905 B | prawdopodobnie zasoby graficzne RPG Maker w formacie/encryption extension |
-| `.rpgmvo` | 2 992 | 136 578 987 B | prawdopodobnie zasoby audio RPG Maker |
-| `.json` | 307 | 52 703 413 B | prawdopodobne dane gry, w tym `www/data/` |
-| `.js` | 78 | 7 727 711 B | silnik i wtyczki JavaScript |
-| `.ttf` / `.otf` | 11 | 2 534 176 B | fonty; trzeba sprawdzić cmap i przypisania dopiero na wybranej, autoryzowanej kopii |
+## Potwierdzone z plików JS/JSON z Drive
 
-- Raport nie zawiera plików gry; zawiera CSV ścieżek/rozmiarów/czasów, podsumowanie, metadane EXE i log. Nie otwierano ani nie uruchamiano plików z instalacji.
+- Struktura `www/js/rpg_*.js`, `www/data/*.json`, rozszerzenia `.rpgmvp`/`.rpgmvo` i runtime NW.js potwierdzają **RPG Maker MV + NW.js**.
+- Marker w `www/js/rpg_core.js` podaje **RPG Maker MV 1.6.1**. To wersja silnika, nie numer wydania/build gry.
+- Główny `package.json` ustawia `main` na `www/index.html`. `System.json` podaje start map ID 38 i `versionId=96719260` (wewnętrzny identyfikator projektu, nie potwierdzony numer produktu/builda). `MapInfos.json` zawiera 291 wpisów map.
+- Na Drive użytkownik przesłał `www/data/` (305 JSON + `Credits.txt`) i `www/js/`; lokalnie pobrano tylko próbkę potrzebną do pierwszej analizy, nie cały zestaw. Folder `www/data` ma około 52,7 MB, a wszystkie `.js` w `www/js` około 7,7 MB według inwentarza.
 
-## Silnik — mocny wniosek z nazw i układu, jeszcze nie potwierdzenie wersji
+### Pierwsza próbka struktury tekstu
 
-- Układ zawiera `www/js/rpg_core.js`, `rpg_managers.js`, `rpg_objects.js`, `rpg_scenes.js`, `rpg_sprites.js`, `rpg_windows.js`, katalog `www/data/` z plikami `Map###.json` i typowe rozszerzenia `.rpgmvp` / `.rpgmvo`.
-- Obok są pliki runtime NW.js (`nw.dll`, `node.dll`, `resources.pak`); to mocno wskazuje na **RPG Maker MV uruchamiany przez NW.js**, prawdopodobnie z licznymi modyfikacjami/wtyczkami.
-- Dokładna wersja RPG Makera, wersja gry, sklep/build i język źródłowy **nie są ustalone**. `Game.exe` nie ma w raporcie numeru FileVersion ani ProductVersion. Potwierdzenie wymaga minimalnej próbki konkretnych plików tekstowych/configuracyjnych.
+- Przetestowano poprawność JSON dla `System.json`, `MapInfos.json`, `CommonEvents.json`, map 001/002/003 oraz mapy startowej 038.
+- `CommonEvents.json`: 500 wspólnych zdarzeń i 139 144 polecenia RPG Maker; wykryto 602 nagłówki Show Text (kod 101), 746 linii tekstu (401) i 202 bloki wyborów (102). Detektor znalazł 1 427 niepustych pól tekstu/wyborów o łącznej długości ok. 30 tys. znaków. To wyłącznie Common Events, nie liczba unikalnych stringów całej gry.
+- Wspólne zdarzenia zawierają też dziesiątki tysięcy linii skryptowych/pluginowych (kody 355/655) oraz polecenia pluginów. Część tekstów może być tworzona dynamicznie, więc zwykły eksport kodów 101/401 nie zapewni kompletności.
+- Próbne mapy potwierdzają, że dialogi i wybory są zapisane bezpośrednio w JSON. Mapa startowa 038 ma niewielką liczbę pól dialogowych; dalsze mapy nie zostały jeszcze przeanalizowane.
 
-## Ważne ograniczenie licznika
+## Wtyczki, fonty i układ tekstu
 
-Pole `possibleTextResourceCount=17625` oraz CSV „possible text resources” są szerokim filtrem nazw/rozszerzeń. Lista zawiera również tysiące `.mp4`, `.rpgmvp` i `.rpgmvo`; **nie jest** liczbą plików zawierających dialogi ani liczbą stringów do tłumaczenia. Na tym etapie nie znamy liczby tekstów.
+- `plugins.js` ma 56 wpisów, z czego 53 są włączone.
+- Aktywne wtyczki wpływające na lokalizację/renderowanie obejmują m.in. `YEP_MessageCore`, `YEP_LoadCustomFonts`, `Eli_FontManager`, `RS_MessageAlign`, `TSR_TextColorAddOn`, `YEP_X_MessageSpeedOpt` i `Choices`.
+- Konfiguracja YEP_MessageCore ma word wrapping włączony, domyślną szerokość okna 810 px, 4 wiersze, `GameFont` 32 px i obrys 4 px. Wtyczki fontowe używają dodatkowych rodzin; faktyczny wygląd polskich znaków trzeba testować.
+- Aktywny YEP_LoadCustomFonts odwołuje się do 10 plików fontów z `www/fonts/`. Inwentarz wykazał 11 fontów `.ttf`/`.otf` (ok. 2,53 MB), ale folderu fontów nie ma w obecnym uploadzie. Do analizy pokrycia Unicode i przypisań przyda się sam katalog `www/fonts/` — tylko `.ttf`/`.otf`.
 
-## Pochodzenie kopii — do wyjaśnienia przed kolejnym transferem plików
+## Nieznane / kolejne prace
 
-- Inwentarz zawiera `_Redist\fitgirl.md5`. Użytkownik wyjaśnia, że to pozostałość niezwiązana z projektem; sama nazwa pliku ani ta odpowiedź nie potwierdzają sklepu, wydania ani statusu licencji.
-- Pakiet próbkowy etap 2 nie zawiera danych gry. Uruchamiać go należy wyłącznie na kopii, do której użytkownik ma autoryzowany dostęp. Żadnego assetu z tej kopii nie przesłano do repo ani Drive w tym etapie.
+- Język źródłowy, dokładne wydanie/build i kompletność instalacji.
+- Całkowita liczba unikalnych tekstów ze wszystkich 291 map i bazowych JSON-ów; pełne JS/JSON nie zostały jeszcze przetworzone.
+- Teksty w skryptach/plugin commands, ustawieniach wtyczek i treściach tworzonych dynamicznie; kompletność ekstrakcji.
+- Polskie cmap fontów, mapowanie stylów i renderowanie/łamanie tekstu w grze.
+- Bezpieczna metoda patchowania, zapisy, osiągnięcia i test Windows.
 
-## Kolejny etap po potwierdzeniu źródła
-
-Przygotować drugi, wąsko zakrojony pakiet, który skopiuje tylko wskazane pliki JavaScript/JSON potrzebne do identyfikacji wersji, wtyczek i małej próbki map/zdarzeń. Nie zbierać filmów, obrazów, audio ani całego katalogu `www`; nadal nie modyfikować gry. Dokładną listę ustalić po potwierdzeniu autoryzowanej kopii.
+Przetwarzanie dotychczasowych plików było statyczne: JSON parsowano, JS przeszukiwano jako tekst; nie uruchamiano gry ani kodu z jej plików. Assety i pobrane pliki pozostają poza Git w ignorowanym `google_drive/`.
