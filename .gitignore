@@ -1,0 +1,43 @@
+# Prywatne kopie gry, próbki i rezultaty lokalne — nigdy nie publikuj.
+**/local/
+**/build/
+**/cache/
+**/extracted/
+**/received/
+*.log
+
+# Typowe pliki gry i użytkownika (dodatkowa ochrona; nie zastępuje przeglądu zmian).
+*.sav
+*.save
+*.bak
+*.iso
+*.bin
+*.pak
+*.xp3
+*.arc
+*.rpa
+*.rpyc
+*.rpgmvp
+*.rpgmvo
+*.rpgmvm
+*.assets
+*.bundle
+*.dll
+*.exe
+*.app
+*.dmg
+*.apk
+*.obb
+*.psarc
+*.cpk
+*.edat
+*.pbp
+*.rom
+*.dat
+
+# Python/tooling caches
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
