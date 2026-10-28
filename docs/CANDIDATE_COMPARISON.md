@@ -4,15 +4,15 @@ Stan na 2026-10-28. Porównanie dotyczy dowodów technicznych, nie jakości fabu
 
 | Kryterium | The Genesis Order | Being a DIK (przesłane GOG Season 1) |
 |---|---|---|
-| Pliki od użytkownika | Jeszcze brak raportu inwentaryzacji | Dostępne archiwa, fonty i manifest GOG w Drive |
-| Silnik / format | Nieznane do czasu raportu | Ren'Py 7.4.10.2178; RPA-3.0; 158 indeksowanych `.rpyc` |
-| Źródło tekstu | Do potwierdzenia | English `en-US` według manifestu GOG |
-| Priory art | Brak potwierdzonego workflow dla dokładnej kopii | Repo autora deklaruje workflow Ren'Py i worked example Thai dla tej samej gry; nie odtworzono niezależnie patcha |
-| Test dekompilacji | Nie rozpoczęto — czekamy na inwentaryzację | Dwa krótkie `.rpyc` przeszły test `unrpyc`; jeden wynik zawiera ostrzeżenie Ren'Py 7, całość 158 plików niezweryfikowana |
-| Główne ryzyko zakresu | Nieznane | Tytuł jest duży; telefon/UI i Season 2/3 mogą wymagać dodatkowego zakresu; obecny manifest obejmuje Season 1 |
+| Pliki od użytkownika | Otrzymana inwentaryzacja metadanych z Windowsa; bez plików gry | Dostępne archiwa, fonty i manifest GOG w Drive |
+| Silnik / format | Mocny wniosek: RPG Maker MV + NW.js; wersja/build niepotwierdzone | Ren'Py 7.4.10.2178; RPA-3.0; 158 indeksowanych `.rpyc` |
+| Źródło tekstu | Język źródłowy niepotwierdzony | English `en-US` według manifestu GOG |
+| Priory art | Nie oceniano dla konkretnej wersji | Repo autora deklaruje workflow Ren'Py i worked example Thai dla tej samej gry; nie odtworzono niezależnie patcha |
+| Następny test | Potwierdzić autoryzowane źródło kopii; następnie zebrać minimalną próbkę JS/JSON | Dwa krótkie `.rpyc` przeszły test `unrpyc`; jeden wynik zawiera ostrzeżenie Ren'Py 7, całość 158 plików niezweryfikowana |
+| Główne ryzyko zakresu | 17,85 GiB, z czego przeważają filmy i zasoby `.rpgmvp`/`.rpgmvo`; inwentarz zawiera `_Redist\fitgirl.md5`, co wymaga wyjaśnienia | Tytuł jest duży; telefon/UI i Season 2/3 mogą wymagać dodatkowego zakresu; obecny manifest obejmuje Season 1 |
 
 ## Wniosek roboczy
 
-Jeśli priorytetem jest **najmniejsze ryzyko techniczne pierwszego pilota**, *Being a DIK* jest obecnie lepiej rozpoznany: istnieją dokładne pliki Season 1 oraz prior art dla Ren'Py na tej samej grze. Zalecany pilot to Episode 1, nie od razu cały tytuł.
+Jeśli priorytetem jest **najmniejsze ryzyko techniczne pierwszego pilota**, *Being a DIK* jest obecnie lepiej rozpoznany: istnieją dokładne pliki Season 1, próbnie zdekompilowane skrypty i prior art dla Ren'Py na tej samej grze. *The Genesis Order* ma już silnie rozpoznany prawdopodobny silnik, ale etap pobrania nawet minimalnej próbki wstrzymano do wyjaśnienia pochodzenia kopii.
 
-Jeśli priorytetem jest **mniejsza skala lub osobiste zainteresowanie TGO**, nie da się jeszcze uczciwie porównać rozmiaru ani trudności TGO — czekamy na jego inwentaryzację. Ostatecznego wyboru nie dokonano.
+Ostatecznego wyboru nie dokonano. Rozmiar danych TGO nie równa się rozmiarowi tłumaczenia — dominują media, a liczby tekstu jeszcze nie znamy.

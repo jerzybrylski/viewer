@@ -6,7 +6,7 @@ Repozytorium do technicznego rozpoznawania, tłumaczenia, testowania i przygotow
 
 ## Projekty i kandydaci
 
-- [The Genesis Order](games/the-genesis-order/README.md) — pierwszy kandydat; pakiet inwentaryzacyjny czeka na wynik z Windowsa.
+- [The Genesis Order](games/the-genesis-order/README.md) — inwentaryzacja z Windowsa otrzymana; układ wskazuje na RPG Maker MV/NW.js, ale przed próbką plików trzeba wyjaśnić pochodzenie kopii.
 - [Being a DIK](games/being-a-dik/README.md) — drugi kandydat; wstępna analiza potwierdziła wysoką osiągalność techniczną dla przesłanej edycji Season 1, ale użytkownik nie wybrał jeszcze tytułu.
 - [Lista projektów i ich status](PROJECTS.md) oraz [porównanie kandydatów](docs/CANDIDATE_COMPARISON.md).
 
