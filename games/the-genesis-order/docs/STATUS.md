@@ -1,24 +1,24 @@
 # Status — The Genesis Order
 
-**Stan: silnik i format potwierdzone; analiza tekstu rozpoczęta na próbce.** Aktualizacja: 2026-10-28.
+**Stan: silnik i format potwierdzone; przed tłumaczeniem przechodzimy do pełnej inwentaryzacji tekstów.** Aktualizacja: 2026-10-28.
 
 ## Potwierdzone
 
-- Raport Windows: 17 694 pliki / 17,85 GiB, bez ostrzeżeń; brak assetów w samym raporcie.
-- Użytkownik wrzucił na Drive `www/data/` i `www/js/` oraz główny `package.json`; nie ma tam mediów. Lokalnie pobrano wybrane JSON-y i skrypty JS do statycznej analizy.
-- Silnik: **RPG Maker MV 1.6.1 + NW.js** (marker wersji w `rpg_core.js`, entry point w `package.json`).
-- `System.json` ustawia mapę startową 38; `MapInfos.json` opisuje 291 map. `CommonEvents.json` ma 500 zdarzeń i ponad 139 tys. poleceń eventów.
-- 56 wpisów pluginów, 53 aktywne. Wiadomości korzystają m.in. z YEP MessageCore, custom-font managerów, zawijania tekstu i wtyczek ustawiających format wiadomości.
-- Aktywny plugin fontowy wymienia 10 plików czcionek w `www/fonts/`. Tego katalogu nie ma w obecnym uploadzie.
-- Użytkownik wyjaśnia, że `_Redist\\fitgirl.md5` to pozostałość; źródło i build kopii nadal nie są potwierdzone. Nie wpływa to na identyfikację formatu plików.
+- Raport Windows: 17 694 pliki / 17,85 GiB, bez ostrzeżeń; raport nie zawierał assetów.
+- Użytkownik przesłał `www/data/`, `www/js/`, główny `package.json` oraz `www/fonts/`; brak filmów, obrazów i audio. Pobrano do statycznej analizy wybrany podzbiór JSON/JS/fontów; nic nie dodano do Git.
+- Silnik: **RPG Maker MV 1.6.1 + NW.js**.
+- `System.json` wskazuje mapę startową 38; `MapInfos.json` opisuje 291 map. `CommonEvents.json` zawiera 500 zdarzeń i ponad 139 tys. event commands.
+- 56 wpisów pluginów, 53 aktywne. Wtyczki rozszerzają okno wiadomości, fonty, zawijanie i wybory.
+- Sprawdzono cmap 11 fontów: siedem ma komplet polskich liter, trzy tylko `óÓ`, jeden nie ma żadnej z 18 badanych liter. Domyślne `GameFont` wskazuje na JosefinSans-SemiBold, który ma tylko `óÓ`; runtime fallback nie był testowany.
+- Użytkownik wyjaśnia, że `_Redist\fitgirl.md5` to pozostałość; źródło i build kopii nadal nie są potwierdzone.
 
 ## Nieznane / niezweryfikowane
 
-- Język źródłowy, dokładny build/produkt i kompletność kopii.
-- Liczba wszystkich unikalnych tekstów: próbka `CommonEvents.json` zawiera wiele natywnych pól dialogu, ale również dziesiątki tysięcy poleceń skryptowych/pluginowych, a pozostałe mapy nie zostały jeszcze przetworzone.
-- Pokrycie polskich znaków w fontach oraz wygląd polskiego tekstu w runtime.
+- Łączna liczba lokalizowalnych linii/dialogów/wyborów w TGO; dokładny licznik jest obecnie tylko dla `CommonEvents.json` (611 niepustych linii dialogu, 816 opcji), bez deduplikacji i bez pozostałych map/plików.
+- Teksty i warunki w pozostałych mapach, plugin commands i skryptach dynamicznych; jeszcze nie przetworzono całego zbioru.
+- Rzeczywiste wyświetlanie polskich znaków, fallback, długości i łamanie tekstu w runtime.
 - Bezpieczny patch, save migration, osiągnięcia i test Windows.
 
 ## Następny krok
 
-Użytkownik dosyła wyłącznie `www/fonts/` (pliki `.ttf` i `.otf`, bez innych mediów). Następnie można przygotować bezpieczny parser/raport tekstów z JSON-ów, rozdzielając dialog, wybory, nazwy/opisy baz danych i pola skryptowe. Dotychczas nie uruchamiano gry ani nie budowano patcha.
+Zbudować pełny licznik treści z JSON-ów (dialog, kontynuacje, wybory, nazwy/opisy baz danych i osobne pola skryptowe), z jasnym podziałem na pewne i niepewne teksty. Przygotować Czytankę jako strukturę chronologiczną z rozgałęzieniami, nie zakładając jednego kanonicznego wyboru. Dopiero potem decydować o tłumaczeniu i formacie wdrożenia.

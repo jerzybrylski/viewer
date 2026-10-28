@@ -19,7 +19,7 @@ Daty, źródła i hashe plików znajdują się w [`EXPERIMENT_LOG.md`](EXPERIMEN
 ### Pierwsza próbka struktury tekstu
 
 - Przetestowano poprawność JSON dla `System.json`, `MapInfos.json`, `CommonEvents.json`, map 001/002/003 oraz mapy startowej 038.
-- `CommonEvents.json`: 500 wspólnych zdarzeń i 139 144 polecenia RPG Maker; wykryto 602 nagłówki Show Text (kod 101), 746 linii tekstu (401) i 202 bloki wyborów (102). Detektor znalazł 1 427 niepustych pól tekstu/wyborów o łącznej długości ok. 30 tys. znaków. To wyłącznie Common Events, nie liczba unikalnych stringów całej gry.
+- `CommonEvents.json`: 500 wspólnych zdarzeń i 139 144 polecenia RPG Maker; wykryto 602 bloki Show Text (kod 101), 746 poleceń kontynuacji (401), z których 611 zawiera niepuste linie tekstu, oraz 202 bloki wyborów (102) z 816 opcjami. Łącznie to 1 427 niepustych pól tekstowych (611 linii dialogu + 816 opcji), 30 143 znaki źródłowe. To pełne liczenie tego jednego pliku, nie całej gry, i nie jest liczbą unikalnych stringów po deduplikacji.
 - Wspólne zdarzenia zawierają też dziesiątki tysięcy linii skryptowych/pluginowych (kody 355/655) oraz polecenia pluginów. Część tekstów może być tworzona dynamicznie, więc zwykły eksport kodów 101/401 nie zapewni kompletności.
 - Próbne mapy potwierdzają, że dialogi i wybory są zapisane bezpośrednio w JSON. Mapa startowa 038 ma niewielką liczbę pól dialogowych; dalsze mapy nie zostały jeszcze przeanalizowane.
 
@@ -28,14 +28,17 @@ Daty, źródła i hashe plików znajdują się w [`EXPERIMENT_LOG.md`](EXPERIMEN
 - `plugins.js` ma 56 wpisów, z czego 53 są włączone.
 - Aktywne wtyczki wpływające na lokalizację/renderowanie obejmują m.in. `YEP_MessageCore`, `YEP_LoadCustomFonts`, `Eli_FontManager`, `RS_MessageAlign`, `TSR_TextColorAddOn`, `YEP_X_MessageSpeedOpt` i `Choices`.
 - Konfiguracja YEP_MessageCore ma word wrapping włączony, domyślną szerokość okna 810 px, 4 wiersze, `GameFont` 32 px i obrys 4 px. Wtyczki fontowe używają dodatkowych rodzin; faktyczny wygląd polskich znaków trzeba testować.
-- Aktywny YEP_LoadCustomFonts odwołuje się do 10 plików fontów z `www/fonts/`. Inwentarz wykazał 11 fontów `.ttf`/`.otf` (ok. 2,53 MB), ale folderu fontów nie ma w obecnym uploadzie. Do analizy pokrycia Unicode i przypisań przyda się sam katalog `www/fonts/` — tylko `.ttf`/`.otf`.
+- Aktywny YEP_LoadCustomFonts odwołuje się do 10 plików fontów z `www/fonts/`; użytkownik przesłał ten katalog i 11 fontów `.ttf`/`.otf` (ok. 2,53 MB) zostały sprawdzone statycznie.
+- Cmap 18 polskich liter (`ąćęłńóśźżĄĆĘŁŃÓŚŹŻ`): pełne 18/18 mają Akong_agi, Chapbook-Regular, Cinzel-Black, Cinzel-Regular, SpecialElite, mplus-1m-regular i texgyreadventor-regular; tylko `óÓ` (2/18) mają JosefinSans-Regular, JosefinSans-SemiBold i underworld; UglyTypist ma 0/18.
+- `gamefont.css` mapuje rodzinę `GameFont` na `JosefinSans-SemiBold.ttf`, której cmap zawiera tylko `óÓ`. YEP_MessageCore domyślnie używa `GameFont`; to ryzyko brakujących polskich znaków, ale przeglądarkowy fallback/runtime nie był testowany. `mplus-1m-regular.ttf` ma komplet glifów, lecz nie pojawia się na liście plików YEP_LoadCustomFonts.
+- Tytułowa `TitleFont` jest przypisana przez Eli_FontManager do Cinzel-Regular (18/18). Cmap potwierdza glify, nie wygląd, fallback, metryki ani łamanie wierszy.
 
 ## Nieznane / kolejne prace
 
 - Język źródłowy, dokładne wydanie/build i kompletność instalacji.
 - Całkowita liczba unikalnych tekstów ze wszystkich 291 map i bazowych JSON-ów; pełne JS/JSON nie zostały jeszcze przetworzone.
 - Teksty w skryptach/plugin commands, ustawieniach wtyczek i treściach tworzonych dynamicznie; kompletność ekstrakcji.
-- Polskie cmap fontów, mapowanie stylów i renderowanie/łamanie tekstu w grze.
+- Rzeczywiste renderowanie/fallback polskich liter, pomiary długości tekstu i testy okien w grze; cmap nie zastępuje testu runtime.
 - Bezpieczna metoda patchowania, zapisy, osiągnięcia i test Windows.
 
 Przetwarzanie dotychczasowych plików było statyczne: JSON parsowano, JS przeszukiwano jako tekst; nie uruchamiano gry ani kodu z jej plików. Assety i pobrane pliki pozostają poza Git w ignorowanym `google_drive/`.

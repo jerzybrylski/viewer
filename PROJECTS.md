@@ -4,8 +4,8 @@ Każda visual novel ma własny katalog `games/<slug>/`. Statusy opisują wyłąc
 
 | Tytuł | Slug | Status | Następny krok |
 |---|---|---|---|
-| The Genesis Order | [`the-genesis-order`](games/the-genesis-order/README.md) | **RPG Maker MV 1.6.1 potwierdzone; analiza JSON/JS w toku** | Dosłać tylko `www/fonts/` (`.ttf`/`.otf`), potem przygotować pełniejszy, walidowany eksport tekstów z JSON-ów. |
-| Being a DIK | [`being-a-dik`](games/being-a-dik/README.md) | **Wstępna analiza: technicznie osiągalne; kandydat niezatwierdzony** | Ustalić, czy wybieramy ten tytuł i czy początkowym zakresem ma być Season 1 (dostępny w aktualnych plikach Drive), czy szersza całość. |
+| The Genesis Order | [`the-genesis-order`](games/the-genesis-order/README.md) | **RPG Maker MV 1.6.1 i fonty potwierdzone; pełne liczenie tekstów w toku** | Przygotować porównywalne liczniki zakresu oraz próbkę branch-aware Czytanki dla TGO i Being a DIK. |
+| Being a DIK | [`being-a-dik`](games/being-a-dik/README.md) | **Wstępna analiza: technicznie osiągalne; kandydat niezatwierdzony** | Przed tłumaczeniem zdekompilować i policzyć treści, przygotować próbkę branch-aware Czytanki, a potem porównać zakres z TGO. |
 
 ## Dodanie kolejnego tytułu
 

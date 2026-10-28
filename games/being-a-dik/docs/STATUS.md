@@ -23,6 +23,6 @@ Tłumaczenie polskie jest **technicznie osiągalne z wysokim prawdopodobieństwe
 - Instalacja i cofnięcie patcha, zgodność z zapisami/osiągnięciami, runtime na komputerze właściciela.
 - Zakres Season 2/3 — nie potwierdzono tych plików w przekazanym GOG manifeście.
 
-## Decyzja właściciela
+## Następny etap przed tłumaczeniem
 
-Nie wybrano jeszcze Being a DIK jako pierwszego tytułu. Zalecany pilot po wyborze: Episode 1, następnie automatyczny QA oraz test na kopii gry.
+Właściciel chce najpierw porównywalnego licznika dialogów/wyborów dla Being a DIK i TGO oraz Czytanek z oznaczeniem scen, mówiących i wyborów. W tej kopii nie policzono jeszcze wszystkich 158 skryptów; dwa skrypty przeszły próbę dekompilacji. Należy zachować odgałęzienia i warunki, a nie sprowadzać grę do jednej kanonicznej ścieżki. Nie rozpoczęto tłumaczenia. Being a DIK nie został wybrany jako pierwszy tytuł.

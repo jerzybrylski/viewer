@@ -8,7 +8,7 @@ Stan na 2026-10-28. Porównanie dotyczy dowodów technicznych, nie jakości fabu
 | Silnik / format | RPG Maker MV 1.6.1 + NW.js; 305 JSON w `www/data`, 78 JS w `www/js` | Ren'Py 7.4.10.2178; RPA-3.0; 158 indeksowanych `.rpyc` |
 | Źródło tekstu | Język źródłowy niepotwierdzony | English `en-US` według manifestu GOG |
 | Priory art | Nie oceniano dla konkretnej wersji | Repo autora deklaruje workflow Ren'Py i worked example Thai dla tej samej gry; nie odtworzono niezależnie patcha |
-| Następny test | Dosłać fonty `.ttf`/`.otf`, następnie zwalidować pełny eksport tekstu z JSON-ów | Dwa krótkie `.rpyc` przeszły test `unrpyc`; jeden wynik zawiera ostrzeżenie Ren'Py 7, całość 158 plików niezweryfikowana |
+| Następny test | Pełny licznik tekstów/wyborów i Czytanka; częściowy licznik `CommonEvents.json`: 611 niepustych linii dialogu, 816 opcji w 202 blokach; sprawdzić font fallback | Pełny licznik 158 skryptów `.rpyc` i Czytanka; obecnie zdekompilowano tylko dwa skrypty |
 | Główne ryzyko zakresu | 17,85 GiB, z czego przeważają filmy i zasoby `.rpgmvp`/`.rpgmvo`; w eventach są tysiące poleceń skryptowych/pluginowych | Tytuł jest duży; telefon/UI i Season 2/3 mogą wymagać dodatkowego zakresu; obecny manifest obejmuje Season 1 |
 
 ## Wniosek roboczy

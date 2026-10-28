@@ -6,13 +6,13 @@ Przeczytaj `../../AGENTS.md`, `../../ENVIRONMENT.md`, `README.md`, `docs/STATUS.
 
 ## Bieżący etap
 
-Użytkownik przesłał `www/data/` i `www/js/` bez multimediów. Silnik potwierdzono jako RPG Maker MV 1.6.1 + NW.js. Pobieraj tylko konkretne pliki potrzebne do analizy; pozostałe nadal są na Drive. Folder fontów `www/fonts/` jest kolejną potrzebną małą próbką.
+Użytkownik przesłał `www/data/`, `www/js/` i `www/fonts/` bez multimediów. Silnik potwierdzono jako RPG Maker MV 1.6.1 + NW.js. Przed tłumaczeniem użytkownik chce rzetelnego oszacowania zakresu dla TGO i Being a DIK oraz chronologicznych Czytanek z oznaczeniem scen, mówiących i wyborów.
 
 ## Zasady dla TGO
 
-- Nie proś o całą instalację ani media. Do renderowania potrzebne są wyłącznie `.ttf` i `.otf` z `www/fonts/`.
+- Nie proś o całą instalację ani media. Użytkownik przesłał już tekstowe dane, JS i fonty.
 - Nie uruchamiaj kodu gry ani skryptów JS z instalacji; czytaj JSON bezpiecznym parserem, a JS analizuj statycznie. Nie nadpisuj oryginałów, zapisów ani ustawień.
-- Dane eventów zawierają natywne wiadomości, ale też wiele plugin/script commandów. Nie utożsamiaj surowej liczby tekstów/kodów z liczbą lokalizowalnych stringów.
-- Dziennikuj wyniki z Drive ID, nazwą, rozmiarem i SHA-256. Rozdzielaj potwierdzone / wnioski / niewiadome.
-- Nie kopiuj do repo treści gry ani danych osobowych z transcriptu. Assety lokalne pozostają w ignorowanym `google_drive/`.
-- Tłumaczenie nie jest rozpoczęte. Najpierw zbuduj i zwaliduj pełny eksport tekstów, strukturę kontekstu i tokenów; patch dopiero po decyzji o zakresie.
+- Licz osobno bloki dialogów, linie kontynuacji, opcje wyboru, UI/bazy danych i teksty w skryptach/pluginach. Nie sumuj ich bez wyjaśnienia i nie traktuj każdej linii skryptu jako tekstu do tłumaczenia.
+- Czytanka musi zachować mapę/label, identyfikator sceny, mówiącego, kolejność, wybory, warunki i wywołania common events. RPG Maker jest rozgałęziony; nie zakładaj jednej kanonicznej chronologii. Oznacz gałęzie i warunki zamiast zgadywać.
+- Zapisuj niepewność, duplikaty, dynamiczne stringi i miejsca wymagające testu. Nie zaczynaj tłumaczenia przed akceptacją zakresu.
+- Dziennikuj wyniki z Drive ID, nazwą, rozmiarem i SHA-256. Nie kopiuj dialogów ani assetów do Git; lokalne pliki pozostają w ignorowanym `google_drive/`.
