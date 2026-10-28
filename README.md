@@ -6,7 +6,7 @@ Repozytorium do technicznego rozpoznawania, tłumaczenia, testowania i przygotow
 
 ## Projekty i kandydaci
 
-- [The Genesis Order](games/the-genesis-order/README.md) — potwierdzono RPG Maker MV 1.6.1 i fonty; pełny census tekstów/map jeszcze w toku.
+- [The Genesis Order](games/the-genesis-order/README.md) — pełny statyczny census dialogów/wyborów ze wszystkich 291 map i 500 common events; UI/dynamika pozostają osobnym zakresem.
 - [Being a DIK](games/being-a-dik/README.md) — wstępna analiza przesłanej edycji Season 1; pełny licznik treści jeszcze niegotowy.
 - [Undercover with Nora](games/undercover-with-nora/README.md) — potwierdzono Ren'Py 8.3.3; przygotowano pełny statyczny licznik jawnych dialogów dla przesłanej kopii v1.0.0.
 - [Lista projektów i ich status](PROJECTS.md) oraz [porównanie kandydatów](docs/CANDIDATE_COMPARISON.md).

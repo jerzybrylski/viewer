@@ -14,14 +14,14 @@ Daty, źródła i hashe plików znajdują się w [`EXPERIMENT_LOG.md`](EXPERIMEN
 - Struktura `www/js/rpg_*.js`, `www/data/*.json`, rozszerzenia `.rpgmvp`/`.rpgmvo` i runtime NW.js potwierdzają **RPG Maker MV + NW.js**.
 - Marker w `www/js/rpg_core.js` podaje **RPG Maker MV 1.6.1**. To wersja silnika, nie numer wydania/build gry.
 - Główny `package.json` ustawia `main` na `www/index.html`. `System.json` podaje start map ID 38 i `versionId=96719260` (wewnętrzny identyfikator projektu, nie potwierdzony numer produktu/builda). `MapInfos.json` zawiera 291 wpisów map.
-- Na Drive użytkownik przesłał `www/data/` (305 JSON + `Credits.txt`) i `www/js/`; lokalnie pobrano tylko próbkę potrzebną do pierwszej analizy, nie cały zestaw. Folder `www/data` ma około 52,7 MB, a wszystkie `.js` w `www/js` około 7,7 MB według inwentarza.
+- Użytkownik przesłał pełne `www/data/` w `data.zip`: 305 JSON + `Credits.txt`, w tym wszystkie 291 map. ZIP został zweryfikowany i statycznie przetworzony; `www/js` pozostaje poza pełnym tekstowym censussem. Folder `www/data` ma około 52,7 MB, a wszystkie `.js` w `www/js` około 7,7 MB według inwentarza.
 
 ### Pierwsza próbka struktury tekstu
 
 - Przetestowano poprawność JSON dla `System.json`, `MapInfos.json`, `CommonEvents.json`, map 001/002/003 oraz mapy startowej 038.
 - `CommonEvents.json`: 500 wspólnych zdarzeń i 139 144 polecenia RPG Maker; wykryto 602 bloki Show Text (kod 101), 746 poleceń kontynuacji (401), z których 611 zawiera niepuste linie tekstu, oraz 202 bloki wyborów (102) z 816 opcjami. Łącznie to 1 427 niepustych pól tekstowych (611 linii dialogu + 816 opcji), 30 143 znaki źródłowe. To pełne liczenie tego jednego pliku, nie całej gry, i nie jest liczbą unikalnych stringów po deduplikacji.
 - Wspólne zdarzenia zawierają też dziesiątki tysięcy linii skryptowych/pluginowych (kody 355/655) oraz polecenia pluginów. Część tekstów może być tworzona dynamicznie, więc zwykły eksport kodów 101/401 nie zapewni kompletności.
-- Próbne mapy potwierdzają, że dialogi i wybory są zapisane bezpośrednio w JSON. Mapa startowa 038 ma niewielką liczbę pól dialogowych; dalsze mapy nie zostały jeszcze przeanalizowane.
+- Pełny census wszystkich map i common events: 1 521 niepustych komend tekstowych `401` (766 różnych surowych tekstów), 695 grup wyborów `102` i 2 110 tekstowych opcji (376 różnych etykiet). Wszystkie 291 map i 500 common events zostały przetworzone, a wszystkie zapisane warunki/odnogi uwzględniono bez ich ewaluowania. Dokładne wyniki i oddzielny census pól UI/baz danych: [`COUNT_REPORT.md`](COUNT_REPORT.md); per mapa/per common event: [`COUNT_BY_MAP.csv`](COUNT_BY_MAP.csv), [`COUNT_BY_COMMON_EVENT.csv`](COUNT_BY_COMMON_EVENT.csv).
 
 ## Wtyczki, fonty i układ tekstu
 
@@ -36,8 +36,7 @@ Daty, źródła i hashe plików znajdują się w [`EXPERIMENT_LOG.md`](EXPERIMEN
 ## Nieznane / kolejne prace
 
 - Język źródłowy, dokładne wydanie/build i kompletność instalacji.
-- Całkowita liczba unikalnych tekstów ze wszystkich 291 map i bazowych JSON-ów; pełne JS/JSON nie zostały jeszcze przetworzone.
-- Teksty w skryptach/plugin commands, ustawieniach wtyczek i treściach tworzonych dynamicznie; kompletność ekstrakcji.
+- Teksty lokalizowalne w komendach skryptowych/pluginowych, ustawieniach wtyczek, JavaScript i treściach tworzonych dynamicznie; pełne pokrycie lokalizacyjne jest szersze niż census dialogów/wyborów.
 - Rzeczywiste renderowanie/fallback polskich liter, pomiary długości tekstu i testy okien w grze; cmap nie zastępuje testu runtime.
 - Bezpieczna metoda patchowania, zapisy, osiągnięcia i test Windows.
 

@@ -1,24 +1,25 @@
 # Status — The Genesis Order
 
-**Stan: silnik i format potwierdzone; przed tłumaczeniem przechodzimy do pełnej inwentaryzacji tekstów.** Aktualizacja: 2026-10-28.
+**Stan: pełny statyczny census eventowych dialogów i standardowych wyborów dla przekazanego `www/data/` gotowy; projekt pozostaje kandydatem.** Aktualizacja: 2026-10-28.
 
 ## Potwierdzone
 
-- Raport Windows: 17 694 pliki / 17,85 GiB, bez ostrzeżeń; raport nie zawierał assetów.
-- Użytkownik przesłał `www/data/`, `www/js/`, główny `package.json` oraz `www/fonts/`; brak filmów, obrazów i audio. Pobrano do statycznej analizy wybrany podzbiór JSON/JS/fontów; nic nie dodano do Git.
-- Silnik: **RPG Maker MV 1.6.1 + NW.js**.
-- `System.json` wskazuje mapę startową 38; `MapInfos.json` opisuje 291 map. `CommonEvents.json` zawiera 500 zdarzeń i ponad 139 tys. event commands.
-- 56 wpisów pluginów, 53 aktywne. Wtyczki rozszerzają okno wiadomości, fonty, zawijanie i wybory.
-- Sprawdzono cmap 11 fontów: siedem ma komplet polskich liter, trzy tylko `óÓ`, jeden nie ma żadnej z 18 badanych liter. Domyślne `GameFont` wskazuje na JosefinSans-SemiBold, który ma tylko `óÓ`; runtime fallback nie był testowany.
-- Użytkownik wyjaśnia, że `_Redist\fitgirl.md5` to pozostałość; źródło i build kopii nadal nie są potwierdzone.
+- Dostarczony `data.zip` zawiera 305 poprawnych JSON-ów i `Credits.txt`; zweryfikowano CRC i komplet map `Map001.json`–`Map291.json` bez przerw w ID.
+- Silnik: RPG Maker MV 1.6.1 + NW.js. `MapInfos.json` opisuje 291 map, `CommonEvents.json` zawiera 500 zdarzeń. `System.json` podaje `versionId=96719260`, wewnętrzny identyfikator projektu, nie produktowy numer wydania.
+- Statyczny census wszystkich map i common events: 1 521 niepustych wierszy dialogu (766 różnych surowych tekstów), 695 bloków wyboru i 2 110 opcji (376 różnych tekstów). Rozgałęzienia i warunki są uwzględnione.
+- Pola UI/baz danych raportowane są oddzielnie; skryptowe i pluginowe event commands wymagają osobnego przeglądu.
+- W cmap 11 fontów: 7 zawiera wszystkie 18 badanych polskich liter. Domyślny `GameFont` wskazuje na JosefinSans-SemiBold, który ma tylko `óÓ`; runtime fallback nie był testowany.
+- `_Redist\\fitgirl.md5` to według użytkownika pozostałość niezwiązana z projektem; źródło i build kopii nie są potwierdzone.
 
 ## Nieznane / niezweryfikowane
 
-- Łączna liczba lokalizowalnych linii/dialogów/wyborów w TGO; dokładny licznik jest obecnie tylko dla `CommonEvents.json` (611 niepustych linii dialogu, 816 opcji), bez deduplikacji i bez pozostałych map/plików.
-- Teksty i warunki w pozostałych mapach, plugin commands i skryptach dynamicznych; jeszcze nie przetworzono całego zbioru.
-- Rzeczywiste wyświetlanie polskich znaków, fallback, długości i łamanie tekstu w runtime.
+- Teksty lokalizowalne zakodowane w 72 623 komendach skryptowych (`355`/`655`) oraz 1 570 komendach pluginowych (`356`); nie uruchamiano ani nie interpretowano kodu.
+- Pełny zakres UI z pluginów i JavaScriptu, wiadomości generowane dynamicznie oraz teksty w mediach.
+- Rzeczywiste renderowanie polskich znaków, fallback, długości i łamanie tekstu w runtime.
 - Bezpieczny patch, save migration, osiągnięcia i test Windows.
 
-## Następny krok
+## Następny krok przed tłumaczeniem
 
-Dokończyć bezpośredni upload tekstowych danych jako jednego ZIP-a zawierającego `Map001.json`–`Map291.json` oraz `CommonEvents.json` (opcjonalnie `MapInfos.json`; bez mediów i bez BAT/PS1). Następnie policzyć pełny census JSON-ów (dialog, kontynuacje, wybory i tekstowe pola skryptowe) z jasnym podziałem na pewne i niepewne teksty. Przygotować Czytankę jako strukturę chronologiczną z rozgałęzieniami, nie zakładając jednego kanonicznego wyboru. Dopiero potem decydować o tłumaczeniu i formacie wdrożenia.
+Przejrzeć potencjalne teksty z komend skryptowych/pluginowych oraz UI jako osobną kategorię; następnie przygotować branch-aware Czytankę z ID mapy/eventu, mówiącym, tekstem, warunkami i wyborami. Nie ma jednej kanonicznej trasy. Dopiero po porównaniu zakresów decydować o tytule i formacie wdrożenia. Tłumaczenia nie rozpoczęto.
+
+Szczegółowe wyniki w [`COUNT_REPORT.md`](COUNT_REPORT.md); liczniki per mapa i common event znajdują się w [`COUNT_BY_MAP.csv`](COUNT_BY_MAP.csv) i [`COUNT_BY_COMMON_EVENT.csv`](COUNT_BY_COMMON_EVENT.csv).
