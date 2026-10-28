@@ -1,6 +1,6 @@
 # Status — Being a DIK
 
-**Stan: kandydat; wstępne badanie techniczne zakończone.** Aktualizacja: 2026-10-28.
+**Stan: kandydat; pełny statyczny census archiwum `scripts.rpa` dla Season 1 gotowy, przed tłumaczeniem wymagane porównanie i osobna inwentaryzacja UI.** Aktualizacja: 2026-10-28.
 
 ## Wniosek
 
@@ -19,10 +19,10 @@ Tłumaczenie polskie jest **technicznie osiągalne z wysokim prawdopodobieństwe
 - Czy folder zawiera wszystkie pliki Season 1 i dokładnie jaki jest content revision poza GOG build ID.
 - Ekstrakcja i dekompilacja każdego skryptu z tej kopii; liczba unikalnych tekstów do polskiego przekładu.
 - Przypisania fontów do poszczególnych stylów, renderowanie polskich liter i długości w oknach.
-- Kompletność tekstów z telefonu, feedów, UI i minigier w standardowej ekstrakcji.
+- Kompletność etykiet i opisów GUI/ekranów telefonu, profili i części tekstów UI/minigier; census wiadomości i wyborów telefonicznych jest dostępny osobno w raporcie.
 - Instalacja i cofnięcie patcha, zgodność z zapisami/osiągnięciami, runtime na komputerze właściciela.
 - Zakres Season 2/3 — nie potwierdzono tych plików w przekazanym GOG manifeście.
 
 ## Następny etap przed tłumaczeniem
 
-Właściciel chce najpierw porównywalnego licznika dialogów/wyborów dla Being a DIK i TGO oraz Czytanek z oznaczeniem scen, mówiących i wyborów. W tej kopii nie policzono jeszcze wszystkich 158 skryptów; dwa skrypty przeszły próbę dekompilacji. Należy zachować odgałęzienia i warunki, a nie sprowadzać grę do jednej kanonicznej ścieżki. Nie rozpoczęto tłumaczenia. Being a DIK nie został wybrany jako pierwszy tytuł.
+Właściciel chce najpierw porównywalnego licznika dialogów/wyborów dla Being a DIK i TGO oraz Czytanek z oznaczeniem scen, mówiących i wyborów. Dla BAD gotowy jest pełny census wszystkich 158 skryptów; TGO wymaga jeszcze dostarczenia pełnego pakietu tekstowych JSON-ów, by przetworzyć 291 map. Należy zachować odgałęzienia i warunki, a nie sprowadzać grę do jednej kanonicznej ścieżki. Nie rozpoczęto tłumaczenia. Being a DIK nie został wybrany jako pierwszy tytuł.

@@ -32,3 +32,10 @@ RPA/fonty pobrano do wyłączonego z Git katalogu tymczasowego `google_drive/`. 
 ### Ograniczenia wyniku
 
 To test dwóch skryptów, nie całego zestawu 158 `.rpyc`; nie policzono unikalnych tekstów, nie zbudowano ani nie uruchomiono patcha. Cmap nie potwierdza renderowania. Nie było testu w Windowsowej kopii użytkownika.
+
+## 2026-10-28 — pełny statyczny census skryptów Season 1
+
+- `scripts.rpa` pobrano do ignorowanego `google_drive/scripts.rpa`; SHA-256 `c9ba7ef3801f482df157afc39a662c7c0e0cbf6455e74657ecc8b2f46d24d86f`. `unrpa` wyodrębnił 158 `.rpyc`; `unrpyc` v2.0.3 zdekompilował wszystkie 158/158. 133 pliki wygenerowały ostrzeżenie zgodności Ren’Py 7/8, zero błędów dekompilacji.
+- Przejście po AST policzyło 16 669 węzłów `Say` (16 510 z jawnym mówiącym, 159 bez mówiącego), 14 650 różnych surowych tekstów, 521 `menu` i 1 266 tekstowych opcji (776 różnych etykiet). Każda gałąź w skompilowanym AST została policzona statycznie, bez ewaluowania warunków.
+- Dodatkowa analiza AST bloków Python w telefonie: 487 stałych/wzorcowych wpisów wiadomości i feedu (439 unikalnych wzorców; 424 literalne, 63 formatowane) oraz 400 wariantów odpowiedzi gracza w tablicach telefonu/Swypera (386 unikalnych etykiet). 23 dopisania dynamiczne odnotowano, ale nie liczono ich jako odrębnego tekstu źródłowego.
+- Zapisano `docs/COUNT_REPORT.md`; zakres UI, podpisów profili, wszystkich ekranów telefonu i tekstów generowanych wyłącznie w runtime pozostaje osobny. Nie uruchamiano gry ani jej kodu i nie budowano patcha.

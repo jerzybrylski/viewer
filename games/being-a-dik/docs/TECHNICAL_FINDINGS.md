@@ -36,8 +36,8 @@ To mierzy obecność glifów, a nie to, który krój dany widok faktycznie wybie
 
 ## Niewiadome / testy do wykonania
 
-- Czy dekompilator prawidłowo obsłuży wszystkie 158 skryptów; sprawdzono tylko dwa przykłady, a jeden wygenerował ostrzeżenie o Ren'Py 7.
-- Liczba unikalnych stringów oraz kompletność text/UI/phone domains w użytkowej instalacji.
+- Niezależna semantyczna walidacja starszego bytecode’u pozostaje niewykonana. `unrpyc` zgłosił ostrzeżenie Ren’Py 7 dla 133 plików, choć wszystkie 158 AST załadowały się bez błędu.
+- Pełny census skryptów znajduje się w `docs/COUNT_REPORT.md`; kompletność UI/etykiet i wszystkich domen telefonu w użytkowej instalacji wymaga osobnego przeglądu.
 - Realne font/style mapowanie, łamanie linii i rozmiary okien.
 - Zgodność patcha, save migration i osiągnięć; runtime na docelowym Windowsie.
 - Czy użytkownik ma Season 2/3 poza przesłanym manifestem Season 1.

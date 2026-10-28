@@ -4,8 +4,8 @@ Każda visual novel ma własny katalog `games/<slug>/`. Statusy opisują wyłąc
 
 | Tytuł | Slug | Status | Następny krok |
 |---|---|---|---|
-| The Genesis Order | [`the-genesis-order`](games/the-genesis-order/README.md) | **RPG Maker MV 1.6.1 i fonty potwierdzone; pełny census tekstu w toku** | Policzyć wszystkie mapy i zasoby tekstowe, sprawdzić font fallback, przygotować branch-aware Czytankę. |
-| Being a DIK | [`being-a-dik`](games/being-a-dik/README.md) | **Wstępna analiza: technicznie osiągalne; kandydat niezatwierdzony** | Zdekompilować i policzyć wszystkie 158 `.rpyc`, przygotować branch-aware Czytankę i porównać zakresy. |
+| The Genesis Order | [`the-genesis-order`](games/the-genesis-order/README.md) | **RPG Maker MV 1.6.1 i fonty potwierdzone; pełny census tekstu w toku** | Uzyskać jeden pakiet tekstowych JSON-ów map, policzyć wszystkie 291 map, sprawdzić font fallback i przygotować branch-aware Czytankę. |
+| Being a DIK | [`being-a-dik`](games/being-a-dik/README.md) | **Pełny statyczny census 158 skryptów `scripts.rpa` (Season 1) gotowy; kandydat niezatwierdzony** | Osobno zinwentaryzować UI/pozostałe teksty telefonu, przygotować branch-aware Czytankę i porównać zakresy. |
 | Undercover with Nora | [`undercover-with-nora`](games/undercover-with-nora/README.md) | **Statyczny licznik dialogów gotowy dla przesłanej kopii v1.0.0; kandydat niezatwierdzony** | Osobno zinwentaryzować UI/screeny, a w razie wyboru przygotować branch-aware Czytankę i QA zakresu. |
 
 ## Dodanie kolejnego tytułu

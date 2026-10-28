@@ -21,4 +21,4 @@
 
 ## Następny krok
 
-Zbudować pełny licznik treści z JSON-ów (dialog, kontynuacje, wybory, nazwy/opisy baz danych i osobne pola skryptowe), z jasnym podziałem na pewne i niepewne teksty. Przygotować Czytankę jako strukturę chronologiczną z rozgałęzieniami, nie zakładając jednego kanonicznego wyboru. Dopiero potem decydować o tłumaczeniu i formacie wdrożenia.
+Dokończyć bezpośredni upload tekstowych danych jako jednego ZIP-a zawierającego `Map001.json`–`Map291.json` oraz `CommonEvents.json` (opcjonalnie `MapInfos.json`; bez mediów i bez BAT/PS1). Następnie policzyć pełny census JSON-ów (dialog, kontynuacje, wybory i tekstowe pola skryptowe) z jasnym podziałem na pewne i niepewne teksty. Przygotować Czytankę jako strukturę chronologiczną z rozgałęzieniami, nie zakładając jednego kanonicznego wyboru. Dopiero potem decydować o tłumaczeniu i formacie wdrożenia.

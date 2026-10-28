@@ -13,5 +13,5 @@
 - Sandbox: Linux, Python 3.11.2; brak Ren'Py runtime, brak PowerShell i brak lokalnej kompletnej gry.
 - RPA indeksy odczytano bez uruchamiania gry ani modułów z jej plików; do odczytu font cmap użyto FontTools 4.68.0.
 - Indeksy RPA-3.0 odczytano własnym statycznym parserem; skrypty do testu wyekstrahowano w `/tmp` bez uruchamiania gry.
-- `unrpyc` v2.0.3 (Git HEAD `3ae8334ed71a05535927dcc559663d3aca51215b`) zdekompilował testowo `math_test2.rpyc` i `chat_replies_magnar.rpyc`; przy pierwszym pojawiło się ostrzeżenie narzędzia, że plik wygląda na Ren'Py 7, podczas gdy ta wersja dekompilatora targetuje Ren'Py 8. Nie testowano jeszcze całego archiwum ani odtwarzania gry.
+- `unrpyc` v2.0.3 (Git HEAD `3ae8334ed71a05535927dcc559663d3aca51215b`) statycznie przetworzył 158/158 `.rpyc` i pozwolił bez błędu odczytać wszystkie węzły AST. 133 pliki zgłosiły ostrzeżenie o starszym bytecode Ren'Py 7 wobec targetu Ren'Py 8; wyniki AST są kompletne technicznie, ale semantyczna zgodność starszych plików nie była niezależnie potwierdzana. Nie uruchamiano gry.
 - Nie testowano patcha ani wyświetlania na Windowsie.
