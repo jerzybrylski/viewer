@@ -8,7 +8,7 @@ Wstępna ocena: **technicznie bardzo osiągalne dla przesłanej edycji GOG Seaso
 - Log gry podaje Ren'Py `7.4.10.2178`; `script_version.txt` zawiera `(7, 4, 10)`.
 - W `game/scripts.rpa` znaleziono 158 indeksowanych skompilowanych skryptów `.rpyc`.
 - Kilka dołączonych fontów zawiera wszystkie 18 polskich liter: Museo 500, Redressed, Candara oraz Century Gothic Regular/Bold. Konkretne przypisanie fontów do dialogów wymaga dalszej analizy i testu w grze.
-- Do badań technicznych istnieje wcześniejszy, działający punkt odniesienia Ren'Py dla tego samego tytułu: projekt Thai obejmujący odcinki 1–8 i osobny zakres telefonu. Nie używamy jego tekstu jako źródła ani nie kopiujemy przekładu.
+- Publiczne repo Ren'Py dla tego samego tytułu deklaruje fanowski projekt Thai dla Episodes 1–8 i osobny zakres telefonu. To prior art opisany przez autora, nie niezależnie zweryfikowany patch; nie używamy jego tekstu jako źródła ani nie kopiujemy przekładu.
 
 Szczegółowa [ocena osiągalności](docs/FEASIBILITY.md), [ustalenia](docs/TECHNICAL_FINDINGS.md) i [dziennik analizy plików](docs/EXPERIMENT_LOG.md).
 

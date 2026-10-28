@@ -6,7 +6,7 @@
 
 - Nie znalazłem wiarygodnego polskiego patcha/spolszczenia. Wyszukiwałem warianty `Being a DIK` + `spolszczenie`, `po polsku`, `Polish translation/patch` oraz wyniki forów i repozytoriów. To ograniczony wynik wyszukiwania, nie dowód, że nigdzie nie istnieje prywatny patch.
 - Badana [oficjalna karta Steam dla Season 1](https://store.steampowered.com/sub/382492/) wskazuje język English; plik manifestu GOG przesłany przez użytkownika również deklaruje `en-US`.
-- Mocny techniczny prior art: publiczne repo [for-the-plot](https://github.com/Waiyakorn1879/for-the-plot) opisuje działającą fanowską translację Thai dla *Being a DIK*, zaczynając od 2,638 stringów w Episode 1, rozwiniętą do ok. 36 tys. stringów w Episodes 1–8; repo zaznacza też osobny podprojekt dla czatów telefonu oraz dalsze prace nad Season 3. To dowód, że gra i jej tekst są obsługiwalne przez tłumaczeniowy workflow Ren'Py — nie dowód, że dowolny patch działa na wersji z Drive.
+- Mocny techniczny prior art: publiczne repo [for-the-plot](https://github.com/Waiyakorn1879/for-the-plot) deklaruje, że jego pipeline wykorzystano do fanowskiej translacji Thai dla *Being a DIK*: zaczęto od 2,638 stringów w Episode 1, następnie objęto ok. 36 tys. stringów w Episodes 1–8; repo wspomina też osobny zakres czatów telefonu oraz dalsze prace nad Season 3. To deklaracja autora repo, nie niezależnie zweryfikowany przez nas działający patch; stanowi techniczny prior art, nie dowód, że dowolny patch działa na wersji z Drive.
 
 ## Co potwierdza kopia użytkownika
 
