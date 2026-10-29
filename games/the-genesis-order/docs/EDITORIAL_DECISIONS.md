@@ -176,3 +176,5 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 - **Źródło rodzaju:** pierwsza osoba → płeć mówcy z `custom_header`; druga osoba → płeć adresata, przyjmowana wyłącznie przy jednoznacznej obsadzie sceny; trzecia osoba → tylko gdy imię wprost rządzi czasownikiem.
 - **Czego nie robimy:** nie zgadujemy płci przy kwestiach bez mówcy, w scenach mieszanych ani przy „sam/sama”. Te przypadki są w `GENDER_AUDIT.md` jako materiał do QA, nie do automatycznej zmiany.
 - **Status:** [POTWIERDZONE] 593 rekordy poprawione, 0 przeciwnych form w znanych rolach, idempotencja; [NIEZWERYFIKOWANE] odbiór całości w grze — do sprawdzenia przy pełnym przejściu.
+
+- **Uzupełnienie 2026-10-30:** tryb warunkowy (`bym/byś` + czasownik) traktowany jak zwykła 1./2. osoba; „sam/sama” podmieniane wyłącznie w zdaniu mówcy (inaczej rodzaj zależy od podmiotu); złożenia `we-`/`ze-` mają jawną tabelę tematów (`weszła ↔ wszedł`).

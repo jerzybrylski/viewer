@@ -473,3 +473,14 @@
 - **Artefakty przebudowane:** patch `ba13f529…` (3 748 029 B, payload `726bb261…`), Czytanka `32d3469a…` (3 312 715 B, 4 394 epizody). Sidecary `.sha256`, manifest, `reading/v1`, audyty i raporty odświeżone.
 - **Testy:** nowe `tests/test_gender_fix.py` (23 testy: mapa mówców zgodna z Czytanką, tematy nieregularne, rzeczowniki w narzędniku, łańcuch orzecznika, reguła sceny, blokady, idempotencja). Razem **147/147 OK**.
 - **Potwierdzenie właściciela (2026-10-30):** po wgraniu paczki „wszystko pięknie działa” — polskie znaki się wyświetlają, opcje są po polsku, tekst dobrze się zawija. R-11 potwierdzone ponownie.
+
+## 2026-10-30 (2) — domknięcie rodzaju: tryb warunkowy, tematy złożone, „sam/sama” w zdaniu mówcy
+
+- **Zgłoszenia z klastra przeglądu (wszystkie naprawione):**
+  - `Może gdybym był silniejsza` — orzecznik po czasowniku warunkowym nie przyjmował płci mówcy. Winna była nazwa kategorii: łańcuch orzecznika sprawdzał `pierwsza_osoba_*`/`druga_osoba_*`, a warunkowe wpisy powstawały jako `1_osoba_warunkowy`/`2_osoba_warunkowy`. Teraz oba prefiksy są rozpoznawane.
+  - `sama bym tam weszedł` — „sam/sama” w zdaniu mówcy. Reguła wróciła **tylko w węższej postaci**: podmiana działa wyłącznie w obrębie zdania, w którym zmieniono czasownik mówcy, i nie rusza konstrukcji `ta sama`/`ten sam`. Efekt: `Gdybym była młodsza, sama bym tam weszła` → `Gdybym był młodszy, sam bym tam wszedł` (Brian).
+  - `weszedł` zamiast `wszedł` — ogólna reguła `-szła → -szedł` psuła złożenia z `we-`/`ze-`. Dodano jawną tabelę (`weszła ↔ wszedł`, `zeszła ↔ zszedł`, także 1. i 2. osoba) stosowaną **przed** regułą ogólną; pozostałe złożenia (`przyszła ↔ przyszedł`, `doszła ↔ doszedł`, `odeszła ↔ odszedł`) zostają na regule ogólnej.
+- **Liczby po domknięciu:** `zaimek_sam` 1, `2_osoba_warunkowy` 5 (było 4), reszta bez zmian — razem 646 form w 593 rekordach. Drugi przebieg: 0 zmian.
+- **Testy:** `tests/test_gender_fix.py` — 23 (dodane: `we-/ze-` w 1. osobie i w tabeli 3. osoby). Cały pakiet **147/147 OK**.
+- **Audyt w Czytance (grep po scalonym skrypcie):** „Judy: … Nigdy czegoś takiego nie widziałam” (linia 46 804), „David: Bylebym nie musiał opuszczać biura” (6 079 i 6 515), „Mox: Gdybym był młodszy…”, „Brian: Gdybym był młodszy, sam bym tam wszedł…”. Zera fałszywych form po przebiegu: 0 kwestii kobiecych z męską 1. osobą, 0 męskich z żeńską.
+- **Artefakty po domknięciu:** patch `ba13f529…` (3 748 029 B, payload `726bb261…`), Czytanka `32d3469a…` (3 312 715 B). Manifest `patch_manifest_v0.1.1.json`, sidecary i `reading/v1` odświeżone; `dash_em 92`, reszta audytów 0.

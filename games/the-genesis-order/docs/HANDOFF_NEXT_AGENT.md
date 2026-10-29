@@ -1,6 +1,6 @@
 # Handoff — The Genesis Order PL
 
-Stan: 2026-10-29. Statyczne tłumaczenie wszystkich kwalifikujących się rekordów oraz oba wskazane milestone’y są zbudowane. Patch **działa w grze** (POTWIERDZONE przez właściciela 2026-10-29: polskie znaki, opcje PL, poprawne zawijanie). To nadal proof of concept w zakresie QA treści: nie ma pełnego przejścia gry, testu save/load ani weryfikacji na innych buildach. Nie uruchamiać kodu gry ani nie nadpisywać instalacji użytkownika.
+Stan: 2026-10-30. Statyczne tłumaczenie wszystkich kwalifikujących się rekordów oraz oba wskazane milestone’y są zbudowane. Patch **działa w grze** (POTWIERDZONE przez właściciela 2026-10-29 i ponownie 2026-10-30 na bieżącej paczce: polskie znaki, opcje PL, poprawne zawijanie). To nadal proof of concept w zakresie QA treści: nie ma pełnego przejścia gry, testu save/load ani weryfikacji na innych buildach. Nie uruchamiać kodu gry ani nie nadpisywać instalacji użytkownika.
 
 > **Najpierw przeczytaj [`RECOVERY_2026-10-29.md`](RECOVERY_2026-10-29.md).** Praca poprzedniego agenta nie była w Git i została odzyskana z patcha i ZIP-ów; tam jest metoda, hashe i dowody spójności. Nie powtarzaj odzyskiwania.
 
@@ -8,9 +8,15 @@ Stan: 2026-10-29. Statyczne tłumaczenie wszystkich kwalifikujących się rekord
 
 - Kanoniczny eksport `translation/export-v1/`: **45 229** rekordów; pozostaje źródłem i nie jest modyfikowany przez merge.
 - Wszystkie **427** partii draftów scalają się bez konfliktów: **39 917** niepustych tłumaczeń, **131** jawnie chronionych wartości, **5 181** zachowane rekordy nielokalizowalne, **0** nierozstrzygniętych tłumaczalnych rekordów.
-- Pełne testy: `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **124/124 OK**.
+- Pełne testy: `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **147/147 OK**.
 - Scalenie draftów odtwarza bajt w bajt `payload/translations.jsonl` z patcha POC (SHA-256 `726bb26127b23e15ff0ea8bbfcd81d8bdca58ec4b4cc4f2cdeb6b23d18c57a33`) — nic nie istnieje tylko w ZIP-ie.
 - Tekst wtopiony w obrazy/wideo pozostaje poza zakresem. Zachowuj stabilne ID, source, kontekst, tokeny i `keep_source_value`; tłumaczenia słownikowe/statystyczne są zabronione — stosuj kontekst sceny i ADR projektu.
+
+## Rodzaj gramatyczny (2026-10-30)
+
+Właściciel zgłosił z gry, że „tłumaczenie nie trzyma rodzajów”: Judy mówi o sobie po męsku, bohater mówi o niej po męsku. To był skutek metody — drafty powstawały bez wiedzy o mówcy. `tools/fix_grammatical_gender.py` ustawia rodzaj i jest już **wykonany na korpusie**: **593 rekordy / 646 form / 224 pliki** (450 + 21 form 1. osoby, 116 + 5 form 2. osoby, 1 „sam/sama”); drugi przebieg daje 0 zmian. Stan: **0** kwestii kobiecych z męską pierwszą osobą i **0** męskich z żeńską.
+
+Zasady, których nie wolno „poprawiać” w drugą stronę: pierwsza osoba bierze płeć mówcy z `custom_header`; druga osoba — płeć adresata, ale tylko przy jednoznacznej obsadzie sceny; narrator i mówca nieznany nie są adresatami; trzecia osoba nie jest ruszana automatycznie (coreferencja). Reszta jest w `translation/reports/gender_fix_v1.json` → `residual` i w [`GENDER_AUDIT.md`](GENDER_AUDIT.md): 143 kwestie bez mówcy z 1. osobą, 589 z 2. osobą bez jednoznacznego adresata, 130 „sam/sama”, 20 próbek 3. osoby. To materiał do QA w grze, nie do automatycznej zmiany.
 
 ## Gotowe artefakty
 
@@ -34,7 +40,7 @@ Szczegółowy zakres i ograniczenia: `STATUS.md`, `ROADMAP_TRANSLATION.md`, `COU
 
 ## Następne zadania (w tej kolejności)
 
-> **Wszystkie decyzje redakcyjne są zamknięte** (R-01…R-11 w [`EDITORIAL_DECISIONS.md`](EDITORIAL_DECISIONS.md)). Właściciel uznał pozostałe uwagi redakcyjne za nieistotne i **nie chce już zmian w treści korpusu**. Nie zaczynaj kolejnej redakcji korpusu bez jego wyraźnego polecenia.
+> **Wszystkie decyzje redakcyjne są zamknięte** (R-01…R-11 w [`EDITORIAL_DECISIONS.md`](EDITORIAL_DECISIONS.md)). Właściciel uznał pozostałe uwagi redakcyjne za nieistotne i **nie chce już zmian w treści korpusu**; jedyny dopuszczony wyjątek (rodzaj gramatyczny) został wykonany 2026-10-30. Nie zaczynaj kolejnej redakcji korpusu bez jego wyraźnego polecenia.
 
 1. **QA treści w grze** — pełne przejście z patchem, test save/load, najdłuższe kwestie w wąskich okienkach UI, wybory i komunikaty błędów. To jedyny otwarty zakres jakości; raportuj właścicielowi konkretne zdania zamiast zmieniać je „na wyczucie”.
 2. **Zgłoszenia właściciela po grze** — każdą poprawkę dostarczaj jako nowy batch draftów pod stabilnym `id`, potem przebuduj oba artefakty (niżej) i podbij hashe.

@@ -31,7 +31,9 @@ Pełne listy są w `translation/reports/gender_fix_v1.json` w sekcji `residual`.
 
 - **Pierwsza osoba** — forma przyjmuje płeć mówcy z `custom_header` (ta sama mapa kodów co w Czytance).
 - **Druga osoba** — forma przyjmuje płeć adresata tylko wtedy, gdy wszyscy pozostali mówcy sceny o znanej płci są jednej płci.
+- **Tryb warunkowy** — `bym/byś` + czasownik przyjmuje płeć mówcy (1. os.) albo adresata (2. os.); formy 2. osoby nie są nigdy liczone płcią mówcy.
 - **Trzecia osoba** — nie ruszana automatycznie: podmiot bywa domyślny, a zgadywanie coreferencji wprowadzałoby błędy. Wymaga przeglądu w grze.
+- **„sam/sama”** — tylko w tym samym zdaniu, w którym zmieniono czasownik mówcy; samodzielnie rodzaj zależy od podmiotu, nie od mówcy (`ten sam problem`, `sama pani komisarz`).
 - Rzeczowniki w narzędniku (`kościołem`, `ciałem`) i czas teraźniejszy (`działam`) są wyłączone z podmiany.
 
 ## Pełny dziennik
