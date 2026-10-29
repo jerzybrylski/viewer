@@ -1,0 +1,157 @@
+import json
+from pathlib import Path
+ROOT=Path('games/the-genesis-order/translation')
+CANON=ROOT/'export-v1/custom_dialogue.jsonl'
+MERGED=Path('google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step3.jsonl')
+DRAFTS=ROOT/'drafts'
+MAPS={
+30:{
+'Picking up condoms?':'Kupujesz prezerwatywy?',
+'Enjoying your stay on Earth?':'Podoba ci się pobyt na Ziemi?',
+'Have you found the key yet?':'Znalazłeś już klucz?',
+'What, worried you’ll make the mother of humanity pregnant?':'Co, boisz się, że zapłodnisz matkę ludzkości?',
+'Your world is a beautiful place, 1Hero.':'Twój świat jest piękny, 1Hero.',
+'Not yet. I’ll be back with it soon.':'Jeszcze nie. Wkrótce wrócę z kluczem.',
+'That doesn’t sound so bad.':'To nie brzmi tak źle.',
+'Not going back to Hell?':'Nie wracasz do piekła?',
+'Remember, it’s near the altar in Hell.':'Pamiętaj, że jest przy ołtarzu w piekle.',
+'While that sounds like fun, I can’t get pregnant.':'Choć brzmi to kusząco, nie mogę zajść w ciążę.',
+'I knew I could count on you, 1Hero.':'Wiedziałam, że mogę na ciebie liczyć, 1Hero.',
+'But maybe some lucky lady at the party will.':'Ale może któraś szczęściara na imprezie zajdzie w ciążę.',
+'So… what’s the key for?':'Więc… do czego służy klucz?',
+'I… I can’t. Not yet.':'Ja… Nie mogę. Jeszcze nie.',
+'Sorry, but some things have to remain a mystery…':'Przykro mi, ale niektóre rzeczy muszą pozostać tajemnicą…',
+'I will return in time.':'Wrócę, gdy nadejdzie pora.',
+'And this is one of those times, detective.':'A teraz właśnie nadeszła ta pora, pani detektyw.',
+'What do you plan to do?':'Co zamierzasz zrobić?',
+'For so long I strove to use such vile means.':'Tak długo próbowałam posługiwać się tak podłymi metodami.',
+'And almost led everything to the opposite end from what I wanted.':'I niemal doprowadziłam do skutku odwrotnego od zamierzonego.',
+'At least we avoided disaster.':'Przynajmniej uniknęliśmy katastrofy.',
+'Yet it was a near thing, too much so.':'Ale było naprawdę blisko. Zdecydowanie za blisko.',
+'Maybe life just has to be this way. Pain is just a part of how things are.':'Może takie właśnie jest życie. Cierpienie jest jego częścią.',
+'Hmm…':'Hmm…',
+'No, it doesn’t.':'Nie, wcale nie.',
+'I can’t accept that!':'Nie mogę się z tym pogodzić!',
+'Woah, Lillian.':'Chwila, Lillian.',
+'I’m sorry, 1Hero, but you don’t comprehend the reality of things.':'Przykro mi, 1Hero, ale nie rozumiesz, jak naprawdę wygląda świat.',
+'If you knew what they’re really like… the Empyrean is not what you think.':'Gdybyś wiedział, jacy oni naprawdę są… Empyreum nie jest tym, za co je uważasz.',
+'They’re so much more petty than you would believe.':'Są o wiele bardziej małostkowi, niż mógłbyś przypuszczać.',
+'Sorry, Lillian, but I don’t like to leave mysteries unsolved.':'Przykro mi, Lillian, ale nie lubię zostawiać zagadek bez rozwiązania.',
+'If He were to take an interest, He could change it all easily.':'Gdyby tylko się tym zainteresował, mógłby z łatwością wszystko zmienić.',
+"I have to do it myself. I can't let my children continue to suffer. All of creation deserves better.":'Muszę zrobić to sama. Nie mogę pozwolić, by moje dzieci nadal cierpiały. Całe stworzenie zasługuje na coś lepszego.',
+'Using the Toma is out of the question.':'Użycie Tomy nie wchodzi w grę.',
+'It is.':'Tak.',
+'So… It’s over.':'Czyli… To koniec.',
+'I cannot accept all the suffering around me.':'Nie mogę pogodzić się z cierpieniem, które mnie otacza.',
+'There are other ways for me to save my children.':'Są inne sposoby, bym ocaliła swoje dzieci.',
+'Other ways?':'Jakie sposoby?',
+'I hope they don’t involve more people getting hurt.':'Oby nie oznaczały skrzywdzenia kolejnych ludzi.',
+'Something is happening in your world, but I do not know the source…':'Coś dzieje się w twoim świecie, ale nie znam źródła…',
+'A window of opportunity has opened up.':'Otworzyło się okno możliwości.',
+'What’s your plan?':'Jaki masz plan?',
+'To bring about a utopia for those who suffer from His failures.':'Chcę stworzyć utopię dla tych, którzy cierpią przez Jego błędy.',
+'That kind of motivation usually doesn’t end well.':'Takie pobudki rzadko prowadzą do dobrego końca.',
+'I may be the only person alive on Earth that knows the root of true evil…':'Może jestem jedyną osobą na Ziemi, która zna źródło prawdziwego zła…',
+'With a little help, I can change this world for the better.':'Z niewielką pomocą mogę zmienić ten świat na lepsze.',
+'You can count on me.':'Możesz na mnie liczyć.',
+'Appreciated, 1Hero. I was hoping you would say that.':'Doceniam to, 1Hero. Miałam nadzieję, że tak powiesz.',
+'What do you need?':'Czego potrzebujesz?',
+'A key is buried in Hell, under a layer of molten rock.':'Klucz jest zakopany w piekle, pod warstwą płynnej skały.',
+'A key? What kind of key?':'Klucz? Jaki klucz?',
+'A special Hell key, for a special chest.':'Specjalny klucz z piekła do specjalnej skrzyni.',
+'What’s in the chest?':'Co jest w skrzyni?',
+'It holds something dear to me, and I’d like to acquire it.':'Jest w niej coś, co jest mi drogie i chciałabym to odzyskać.',
+'I’ll see if I can dig it up.':'Spróbuję to wykopać.',
+'Hold on, 1Hero. You’ll need this…':'Zaczekaj, 1Hero. Będzie ci potrzebne…',
+'This is a pretty serious shovel.':'Ale konkretna łopata.',
+'You’ll need it if you’re going to dig into molten rock.':'Przyda ci się, jeśli zamierzasz kopać w płynnej skale.',
+'The key is buried by the altar in Hell. I’m sure you remember the place.':'Klucz jest zakopany przy ołtarzu w piekle. Na pewno pamiętasz to miejsce.',
+'Right, I know the place.':'Racja, wiem, gdzie to jest.',
+'I know I can count on you, 1Hero.':'Wiem, że mogę na ciebie liczyć, 1Hero.',
+},
+15:{
+'So, I’m supposed to trust you?':'Mam ci zaufać?',
+'1Hero?':'1Hero?',
+'Nellie!?':'Nellie!?',
+'You know each other?':'Znacie się?',
+'What’s it going to be, 1Hero? Should I make my exit?':'Jak będzie, 1Hero? Mam już iść?',
+'This is Nellie… She… is… a… uhh… spy.':'To Nellie… Ona… jest… eee… szpiegiem.',
+'Shit.':'Cholera.',
+'Wow! Really!?':'Wow! Naprawdę!?',
+'A spy? Who ya spying on?':'Szpiegiem? Kogo szpiegujesz?',
+'Don’t listen to 1Hero. He doesn’t know me as well as he thinks he does.':'Nie słuchaj 1Hero. Wcale nie zna mnie tak dobrze, jak mu się wydaje.',
+'This is my mom. I assume you two are 1Hero’s lesbian parents.':'To moja mama. Zakładam, że wy dwie jesteście lesbijkami, które wychowują 1Hero.',
+'Hahaha!':'Hahaha!',
+'Oh, my!':'Ojej!',
+'We’re not lovers, little lady. We’re just here with 1Hero looking for some excitement.':'Nie jesteśmy parą, młoda damo. Przyszłyśmy tu z 1Hero poszukać wrażeń.',
+'If you know 1Hero, then you’ve got all the excitement you need.':'Skoro znasz 1Hero, masz już dość wrażeń.',
+'I think I know what’s going on here.':'Chyba wiem, co tu się dzieje.',
+'Tell me, Nellie. You and 1Hero ever… hook up?':'Powiedz, Nellie… Ty i 1Hero kiedyś… ten tego?',
+'What!?':'Co!?',
+'I’m afraid not. He’s just too young for a woman like me.':'Niestety nie. Jest po prostu za młody dla takiej kobiety jak ja.',
+'Are you kidding me? Look at that gorgeous face!':'Żartujesz? Spójrz tylko na tę piękną twarz!',
+'You horny moms going to buy something or just here to make fun of your boy toy?':'Napalona mamuśko, kupisz coś, czy przyszłaś tylko nabijać się ze swojego chłopca-zabawki?',
+'Well, I hate to interrupt your one-on-one time with your mother.':'Nie chcę przerywać wam chwili sam na sam z matką.',
+'What do you say, 1Hero? Should I buy a toy?':'Co ty na to, 1Hero? Mam kupić zabawkę?',
+'Maybe you should go to Dick’s.':'Może powinnaś zajrzeć do Dicka.',
+'A dick sounds good right about now.':'Kutas brzmi teraz całkiem kusząco.',
+'Heather!':'Heather!',
+'Haha. Come on, Heather. Let’s not tease the boy any longer…':'Haha. Chodź, Heather. Nie dręczmy już chłopaka…',
+'Besides, I’m getting mighty hungry.':'Poza tym jestem strasznie głodna.',
+'Saved by Carol’s stomach.':'Uratował cię głód Carol.',
+'Have fun at lunch.':'Smacznego.',
+'Head on over to Heather’s tonight if you want to watch the news broadcast with us.':'Wpadnij dziś wieczorem do Heather, jeśli chcesz obejrzeć z nami wiadomości.',
+'Yeah, 1Hero. We’d love to have some company.':'Tak, 1Hero. Chętnie spędzimy z tobą czas.',
+'Maybe. I should check up on Chloe and Hannah.':'Może. Powinienem sprawdzić, co u Chloe i Hannah.',
+'Of course. Spend some time with those girls, 1Hero. It’s good for them.':'Oczywiście. Spędź trochę czasu z tymi dziewczynami, 1Hero. Dobrze im to zrobi.',
+'Come on, Heather. Let’s eat.':'Chodź, Heather. Zjedzmy coś.',
+'See ya around, 1Hero.':'Do zobaczenia, 1Hero.',
+'A spy? Really?':'Szpiegiem? Naprawdę?',
+'Either you’re a spy working for Andrea, or I’m arresting you right now.':'Albo pracujesz jako szpieg dla Andrei, albo zaraz cię aresztuję.',
+'Are you dumb? If you’re so sure I’m a spy, then why are you telling the world?':'Zgłupiałeś? Jeśli jesteś pewien, że jestem szpiegiem, to po co rozpowiadasz to wszystkim?',
+'Did I call your bluff?':'Przejrzałem cię?',
+'If you work for the police, shouldn’t you already know my mom’s a spy?':'Jeśli pracujesz dla policji, nie powinieneś już wiedzieć, że moja mama jest szpiegiem?',
+'So, she is?':'Czyli jednak jest?',
+'Fuck.':'Kurwa.',
+'You don’t know shit, 1Hero. You have to stay out of this and stop following me around.':'Gówno wiesz, 1Hero. Trzymaj się od tego z daleka i przestań za mną łazić.',
+'I’m not following you around.':'Wcale za tobą nie łaziłem.',
+'You just so happen to keep running into me? You expect me to believe that?':'Tak się przypadkiem na mnie ciągle natykasz? Mam w to uwierzyć?',
+'I’m trying to solve a mystery, and you seem to be smack dab in the middle of it.':'Próbuję rozwiązać zagadkę, a ty jesteś w samym jej środku.',
+'Do your job, 1Hero.':'Wykonuj swoją robotę, 1Hero.',
+'This is my job.':'Właśnie to robię.',
+'What’s your angle, 1Hero? What are you really trying to do?':'O co ci chodzi, 1Hero? Co tak naprawdę próbujesz zrobić?',
+'There is Guild activity in North Santiva and now it’s my job on the line if anything happens.':'Gildia działa w North Santiva, a jeśli coś się stanie, to ja stracę pracę.',
+'It’s your job on the line if the public suspects anything is happening.':'To ty stracisz pracę, jeśli ludzie zaczną coś podejrzewać.',
+'How do you know that?':'Skąd to wiesz?',
+'Tell me, 1Hero. Why do you spend so much time at the Wilkes mansion?':'Powiedz mi, 1Hero. Czemu tak często bywasz w rezydencji Wilkesów?',
+'You’re watching me?':'Obserwujesz mnie?',
+'I’m watching the mansion.':'Obserwuję rezydencję.',
+'I should arrest you right now.':'Powinienem cię teraz aresztować.',
+'Try it. See what happens.':'Spróbuj. Zobaczymy, co się stanie.',
+'That’s what I thought.':'Tak właśnie myślałem.',
+'Leave her alone, 1Hero.':'Zostaw ją w spokoju, 1Hero.',
+'For all I know, she’s a criminal.':'Z tego, co wiem, może być przestępczynią.',
+'She’s not a criminal. She was let out of prison for a reason.':'Nie jest przestępczynią. Wypuszczono ją z więzienia z jakiegoś powodu.',
+'I don’t like this one bit.':'Ani trochę mi się to nie podoba.',
+},
+}
+known=set()
+for line in MERGED.read_text(encoding='utf8').splitlines():
+ row=json.loads(line)
+ if row['translation'].strip(): known.add(row['id'])
+all_rows=[json.loads(line) for line in CANON.read_text(encoding='utf8').splitlines()]
+for eid,mapping in MAPS.items():
+ out=DRAFTS/f'custom-dialogue-map31-event-{eid}-01.jsonl'
+ if out.exists(): raise SystemExit(f'Refusing to overwrite {out}')
+ rows=[]; missing=set()
+ for row in all_rows:
+  c=row['context']
+  if c.get('source_kind')!='map' or c.get('map_id')!=31 or c.get('event_id')!=eid or row['id'] in known: continue
+  source=row['source_text'].strip()
+  if source in {'…','...','..'} or source.startswith('/'): continue
+  target=mapping.get(source)
+  if target is None: missing.add(source); continue
+  row['translation']=target; rows.append(row)
+ if missing: raise SystemExit(f'Unmapped map 31 event {eid} strings: '+repr(sorted(missing)))
+ out.write_text(''.join(json.dumps(r,ensure_ascii=False,sort_keys=True)+'\n' for r in rows),encoding='utf8',newline='\n')
+ print(f'Wrote map 31 event {eid}: {len(rows)} records from {len(mapping)} strings')
