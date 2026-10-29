@@ -41,6 +41,16 @@ class MarkdownTranslationTests(unittest.TestCase):
     def tearDown(self):
         self.temp.cleanup()
 
+    def test_tracked_translation_output_and_export_protection(self):
+        with patch.object(markdown, "REPO_ROOT", self.root):
+            tracked = self.root / "games/the-genesis-order/translation"
+            self.assertEqual(markdown.checked_translation_output(tracked / "drafts/out.jsonl"),
+                             (tracked / "drafts/out.jsonl").resolve())
+            with self.assertRaisesRegex(ValueError, "canonical source export"):
+                markdown.checked_translation_output(tracked / "export-v1/changed.jsonl")
+            with self.assertRaisesRegex(ValueError, "translation workspace"):
+                markdown.checked_translation_output(self.root / "out.jsonl")
+
     def test_build_and_import_changes_only_translation_by_id(self):
         with patch.object(markdown, "REPO_ROOT", self.root):
             manifest = markdown.build_markdown(self.input, self.out)
@@ -79,12 +89,34 @@ class MarkdownTranslationTests(unittest.TestCase):
             markdown.build_markdown(self.input, self.out)
             doc = self.out / "maps" / "Map001.md"
             text = doc.read_text(encoding="utf-8")
+            # A protected source value intentionally needs no translation.
+            markdown.import_markdown(self.input, self.out, self.import_out,
+                                     require_complete=True, check_only=True)
             text = text.replace(
                 "TGO-TRANSLATION: \"\"",
                 "TGO-TRANSLATION: " + json.dumps("$600"),
             )
             doc.write_text(text, encoding="utf-8")
             with self.assertRaisesRegex(ValueError, "Protected source value changed"):
+                markdown.import_markdown(self.input, self.out, self.import_out, check_only=True)
+
+    def test_import_rejects_loss_of_positional_and_punctuation_controls(self):
+        row = exporter.record(
+            category="custom_dialogue", status="confirmed_dialogue",
+            text=r"\>Value %1\!", source_file="data/Map001.json", source_hash="a" * 64,
+            locator={"file": "data/Map001.json", "event_id": 7, "page_number": 2,
+                     "command_index": 9, "json_path": "/list/9/parameters/0"},
+            context={"source_kind": "map", "map_id": 1, "event_id": 7, "page_number": 2},
+            structure={"command_code": 401},
+        )
+        self.input.write_text(json.dumps(row) + "\n", encoding="utf-8")
+        with patch.object(markdown, "REPO_ROOT", self.root):
+            markdown.build_markdown(self.input, self.out)
+            doc = self.out / "maps" / "Map001.md"
+            text = doc.read_text(encoding="utf-8")
+            doc.write_text(text.replace('TGO-TRANSLATION: ""',
+                'TGO-TRANSLATION: ' + json.dumps(r"\>Wartość\!")), encoding="utf-8")
+            with self.assertRaisesRegex(ValueError, "Additional control"):
                 markdown.import_markdown(self.input, self.out, self.import_out, check_only=True)
 
     def test_import_rejects_changed_hash_and_token_loss(self):

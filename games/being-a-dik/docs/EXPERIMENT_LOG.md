@@ -1,5 +1,7 @@
 # Dziennik analizy — Being a DIK
 
+> **Aktualna decyzja właściciela:** wcześniejsze wzmianki o pozostawianiu tekstów lub tłumaczeń poza Git opisują ówczesny stan, nie obowiązującą zasadę. Wszystkie tekstowe dane projektu, narzędzia i robocze tłumaczenia śledzimy w Git; poza Git pozostają binarne assety gry.
+
 ## 2026-10-28 — rekonesans web + Drive
 
 ### Źródła z Drive

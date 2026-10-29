@@ -14,7 +14,8 @@ games/<slug>/
 │   ├── TRANSLATION_POLICY.md
 │   └── GLOSSARY.md
 ├── tools/                 # tylko narzędzia dla tego tytułu
-└── local/                 # wyłączone z Git: wejścia, ekstrakty i zwrotki
+├── translation/           # śledzone teksty źródłowe i wszystkie zwrotki
+└── local/                 # tymczasowe kopie i binarne assety poza Git
 ```
 
 ## README.md

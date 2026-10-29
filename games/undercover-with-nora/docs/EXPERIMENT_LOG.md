@@ -1,5 +1,7 @@
 # Dziennik eksperymentów — Undercover with Nora
 
+> **Aktualna decyzja właściciela:** wcześniejsze wzmianki o pozostawianiu tekstów lub tłumaczeń poza Git opisują ówczesny stan, nie obowiązującą zasadę. Wszystkie tekstowe dane projektu, narzędzia i robocze tłumaczenia śledzimy w Git; poza Git pozostają binarne assety gry.
+
 ## 2026-10-28 — inwentaryzacja i statyczny licznik
 
 ### Wejścia z Google Drive

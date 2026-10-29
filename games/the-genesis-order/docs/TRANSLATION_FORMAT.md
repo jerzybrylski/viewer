@@ -8,7 +8,7 @@ Kanoniczny eksport tekstów źródłowych jest śledzony w Git na jawne poleceni
 games/the-genesis-order/translation/export-v1/
 ```
 
-Zawiera **45 229 rekordów** w JSONL oraz `export_manifest.json`. Oryginalne assety gry (`www/data/`, `www/js/`, media i archiwum wejściowe), robocze wyniki skanów zawierające surowe kopie oraz tłumaczenia/importy pozostają poza Gitem w ignorowanym `google_drive/`. Markdown dla wygody pracy jest regenerowalny i również pozostaje w `google_drive/the-genesis-order/translation/markdown-draft-v1/` (ok. 83 MB; nie kopiować go do repo).
+Zawiera **45 229 rekordów** w JSONL oraz `export_manifest.json`. Binarne assety gry pozostają poza Gitem. Tekstowe dane źródłowe, narzędzia oraz wszystkie robocze i gotowe tłumaczenia (w tym JSONL i używane Markdown) śledzimy w Git. Aktualne partie są w `translation/drafts/`; `google_drive/` służy jako dodatkowy warsztat i kopia, nie jedyne miejsce przechowywania.
 
 Eksport zawiera tekst z RPG Maker MV JSON/Credits, potwierdzone statyczne UI JS oraz statyczne wartości zmiennych, dla których istnieje dowód przepływu przez `\\V[...]` do widocznego komunikatu, wyboru lub tekstu przewijanego. Source ZIP v1 jest śledzony w `games/the-genesis-order/translation/packages/` i publikowany na Google Drive; to pakiet źródłowy, nie przetłumaczona gra.
 
@@ -51,3 +51,9 @@ Stabilne ID obowiązuje przy niezmienionym locatorze. Przesunięcie źródła zm
 - Zgodnie z decyzją właściciela nie tłumaczymy tekstu wtopionego w obrazy i wideo. Dynamiczne dane runtime pochodzące z urządzeń/użytkowników są poza statycznym zakresem; oryginalne źródła JS/data i fonty nie są kopiowane do repo.
 
 Eksport można odtworzyć z dostarczonych oryginalnych assetów poleceniem `python3 games/the-genesis-order/tools/export_translation.py`. Oczekuje ono lokalnych, ignorowanych danych w `google_drive/the-genesis-order/` oraz kuratorowanego pliku JS `translation/export-v1/reviewed_js_ui.jsonl`.
+
+## Robocze partie i uzupełniająca walidacja
+
+`tools/merge_translation_batches.py` łączy niepełne zwrotki z całym źródłowym eksportem po ID. Weryfikuje niezmienność wszystkich pozostałych pól, tokeny oraz konflikty, zapisuje tylko nowy plik pod `translation/` lub `google_drive/` i raportuje nieprzetłumaczone rekordy (chronione liczone oddzielnie). Nie czyta oryginalnych assetów i nie zastępuje `apply_translation.py --check`.
+
+Sygnatura `markup_tokens` eksportu v1 pozostaje bez zmian dla zgodności. Import Markdown i `apply_translation.py` dodatkowo porównują RPG Maker escape’y interpunkcyjne oraz parametry pozycyjne `%1`, `%2` itd., których wcześniejsza sygnatura nie uwzględniała. `--require-complete` dopuszcza puste chronione wartości `keep_source_value`, ale działa tylko na dostarczonych rekordach: samo sprawdzenie niepełnej partii nie dowodzi kompletności całego eksportu.

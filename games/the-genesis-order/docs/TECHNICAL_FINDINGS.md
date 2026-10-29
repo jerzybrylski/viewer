@@ -41,4 +41,4 @@ Daty, źródła i hashe plików znajdują się w [`EXPERIMENT_LOG.md`](EXPERIMEN
 - Nie zbudowano patchera Windows, migracji save'ów ani obsługi osiągnięć; to późniejszy etap po tłumaczeniu i zatwierdzeniu scope.
 - Tekst osadzony w obrazach/audio/wideo oraz wartości dostarczane dynamicznie przez urządzenia/użytkownika nie są statycznym tekstem źródłowym.
 
-Przetwarzanie jest statyczne: JSON parsowano, JS skanowano jako tekst; nie uruchamiano gry ani kodu z jej plików. Oryginalne assety i robocze stagingi pozostają poza Git w ignorowanym `google_drive/`; jawnie wyodrębnione JSONL są śledzone w `games/the-genesis-order/translation/export-v1/` na polecenie właściciela.
+Przetwarzanie jest statyczne: JSON parsowano, JS skanowano jako tekst; nie uruchamiano gry ani kodu z jej plików. Binarne assety gry pozostają poza Git; tekstowe dane i narzędzia podlegają śledzeniu w Git. Aktualny eksport znajduje się w `games/the-genesis-order/translation/export-v1/`.

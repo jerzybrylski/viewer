@@ -1,6 +1,6 @@
 # Status — The Genesis Order
 
-**Stan: audyt statycznych powierzchni i kanoniczny eksport zakończone; źródłowy ZIP v1 został utworzony i sprawdzony.** To nie jest patch gry ani przetłumaczona dystrybucja. Aktualizacja: 2026-10-29.
+**Stan: audyt i eksport zakończone; rozpoczęto robocze tłumaczenie UI.** To nie jest patch gry ani przetłumaczona dystrybucja. Aktualizacja: 2026-10-29.
 
 ## Wynik bieżący
 
@@ -9,7 +9,7 @@
 - Markdown: **497 dokumentów / 45 229 rekordów**. Source ZIP: `games/the-genesis-order/translation/packages/TGO_source_translation_package_v1.zip`; archiwum jest śledzone w Git i publikowane na Google Drive w `TGO/translation/packages/`. ZIP nie zawiera assetów źródłowych ani kodu gry.
 - Pakiet obejmuje canonical JSONL, kontekstowy Markdown, instrukcję PL, manifest, glossary/politykę i raport zakresu. To pełny zatwierdzony pakiet statycznych tekstów źródłowych do tłumaczenia, nie patch ani gotowa polska dystrybucja.
 - Pełne testy: **27/27 passed**; builder sprawdza zgodność rekordów, coverage flag i integralność ZIP-a.
-- Pola `translation` są puste. Nie rozpoczęto tłumaczenia, nie zbudowano patchera Windows i nie uruchamiano gry/runtime.
+- Kanoniczny eksport i source ZIP pozostają źródłowe. Robocza partia UI w `translation/drafts/`: 130 rekordów, 127 niepustych pól, 3 chronione wartości puste; dodatkowo 100 roboczych wskazówek. Łącznie 227 niepustych pól, 44 871 tłumaczalnych pól oczekuje na przekład; wymagana redakcja i testy. Patchera Windows nie zbudowano, gry/runtime nie uruchamiano.
 
 ## Pokrycie
 
@@ -38,10 +38,10 @@ Pozostałe kategorie obejmują 239 niepustych linii Credits, 291 nazw map, 28 na
 
 ## Zakres i dalsze prace
 
-- Wszystkie **1 122** nie-rendererowe wiersze `401` i **1 930** opcji są pełnoprawnymi tekstami widocznymi dla gracza i w całości należą do zakresu tłumaczenia.
+- Wszystkie **1 122** nie-rendererowe wiersze `401` i **2 110** opcji są pełnoprawnymi tekstami widocznymi dla gracza i w całości należą do zakresu tłumaczenia.
 - Tekst wtopiony w obrazy i wideo jest poza zakresem na wyraźną decyzję właściciela. Runtime’owe nazwy urządzeń/użytkowników i obliczane liczby są danymi dynamicznymi, nie statycznymi źródłami lokalizacyjnymi.
-- Źródłowy język i konkretny build nie są formalnie potwierdzone. Nie ma polskiej zwrotki, testów fontów/łamania w runtime, instalatora ani patcha.
-- ZIP v1 to source package; nie zmienia gry i nie jest finalną paczką spolszczenia. Oryginalne assety/staging pozostają ignorowane; JSONL, dokumentacja i narzędzia są śledzone w Git.
+- Źródłowy język i konkretny build nie są formalnie potwierdzone. Nie ma kompletnej polskiej zwrotki, testów fontów/łamania w runtime, instalatora ani patcha.
+- ZIP v1 to source package; nie zmienia gry i nie jest finalną paczką spolszczenia. Binarne assety gry pozostają poza Git; tekstowe dane, robocze tłumaczenia, dokumentacja i narzędzia są śledzone w Git.
 
 ## Odtwarzanie
 

@@ -64,7 +64,7 @@ Ostrzeżenia dotyczą tego, że narzędzie targetuje Ren’Py 8, a część byte
 ## Artefakty źródłowe / powtarzalność
 
 - RPA: `scripts.rpa`, 9 526 870 B, SHA-256 `c9ba7ef3801f482df157afc39a662c7c0e0cbf6455e74657ecc8b2f46d24d86f`.
-- Wyodrębnione i zdekompilowane pliki są w ignorowanym katalogu `google_drive/being-a-dik/raw/`; nie trafiają do repozytorium.
+- Wyodrębnione pliki są obecnie w `google_drive/being-a-dik/raw/`; tekstowe dane projektu należy śledzić w Git, binarne assety gry pozostają poza Git.
 - Log dekompilacji: `/tmp/badik-unrpyc.log`. Skrypt tymczasowy licznika AST: `/tmp/badik_ast_count.py` (nie jest częścią produktu ani gry).
 - Zdekompilowane źródła pozostają materiałem statycznej analizy; nie należy ich kopiować do publicznych materiałów ani traktować jako zgody na redystrybucję treści.
 

@@ -104,6 +104,7 @@ class ApplyTranslationTests(unittest.TestCase):
             context={"translation_policy": "keep_source_value"}, structure={},
         )
         self.assertIsNone(applier.validate_record(row, False))
+        self.assertIsNone(applier.validate_record(row, True))
         row["translation"] = "Komputer"
         with self.assertRaisesRegex(ValueError, "protected from translation"):
             applier.validate_record(row, False)
@@ -143,9 +144,26 @@ class ApplyTranslationTests(unittest.TestCase):
             text=r"Item \N[1]", source_file="data/Items.json",
             source_hash="0" * 64, locator=locator, context={}, structure={},
         )
+        with self.assertRaisesRegex(ValueError, "Translation is empty"):
+            applier.validate_record(row, True)
         row["translation"] = "Item"
         with self.assertRaisesRegex(ValueError, "Markup/token mismatch"):
             applier.validate_record(row, False)
+
+    def test_positional_and_punctuation_controls_are_preserved_with_v1_signature(self):
+        locator = {"file": "data/Items.json", "json_path": "/1/name"}
+        row = exporter.record(
+            category="database.items.name", status="confirmed_text_surface",
+            text=r"\>Value %1 then %2\!", source_file="data/Items.json",
+            source_hash="0" * 64, locator=locator, context={}, structure={},
+        )
+        self.assertEqual(row["markup_tokens"], [])  # legacy v1 signature
+        row["translation"] = r"\>Wartość %1, potem %2\!"
+        self.assertEqual(applier.validate_record(row, False), row["translation"])
+        for bad in (r"Wartość %1, potem %2\!", r"\>Wartość %2, potem %1\!", r"\>Wartość %1\!"):
+            row["translation"] = bad
+            with self.subTest(bad=bad), self.assertRaisesRegex(ValueError, "Additional control"):
+                applier.validate_record(row, False)
 
     def test_static_js_literals_are_patched_in_staging_copy_only(self):
         rel = "www/js/plugins/Labels.js"

@@ -33,6 +33,8 @@ ASSIGNMENT_RE = re.compile(
 TOKEN_RE = re.compile(
     r"\\[A-Za-z]+(?:\[[^\]]*\])?|\\[{}]|<[^>]+>|%\d*(?:\$)?[sdif]"
 )
+# Additional control sequences absent from the immutable v1 markup signature.
+EXTRA_CONTROL_RE = re.compile(r"\\[.!|><^$\\]|%[1-9][0-9]*(?![0-9$sdif])")
 POINTER_ESCAPE = str.maketrans({"~": "~0", "/": "~1"})
 
 # Explicitly chosen display-language fields. Editor notes, asset names, map labels
