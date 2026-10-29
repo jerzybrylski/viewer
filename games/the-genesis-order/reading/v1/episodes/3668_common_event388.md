@@ -19,7 +19,7 @@
 **Erica:** Mój tyłek… Jest w moim tyłku.  
 **Mox:** Zawsze chętnie dam ci swojego kutasa.  
 **Lillian:** Grzeczny chłopiec. Chcę was oboje.  
-**Erica:** Tak, Lillian… Jestem twój.  
+**Erica:** Tak, Lillian… Jestem twoja.  
 **Mox:** Mmmf!  
 **Erica:** Jezu, Lillian. Naprawdę się w to wkręciłaś.  
 **Lillian:** Spójrz, jaki jest bezradny… Smakuje twój tyłek… Jest niewolnikiem własnych żądz.  

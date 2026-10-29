@@ -6,7 +6,7 @@
 **Mox:** Haha, niektórzy powiedzieliby, że jestem człowiekiem kultury. A może po prostu zgadłem.  
 **Andrea:** Bardzo lubię balet. To chyba moje ulubione dzieło.  
 **Mox:** Tańczysz balet?  
-**Andrea:** Ha, nie. Niestety nie jestem aż tak rozciągnięty. W moim wieku jest już na to za późno.  
+**Andrea:** Ha, nie. Niestety nie jestem aż tak rozciągnięta. W moim wieku jest już na to za późno.  
 **Andrea:** Może dlatego tak je uwielbiam i stawiam w centrum uwagi. Zachwyca mnie młodzieńczy wigor i wdzięk.  
 **Andrea:** Cechy, które z czasem zanikają.  
 **Mox:** Nie powiedziałbym. Uważam, że masz naturalny wdzięk silnej, dojrzałej kobiety.  

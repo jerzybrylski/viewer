@@ -96,7 +96,7 @@
 **Mox:** Twoja cipka jest mokra…  
 **Mox:** Czujesz to łaskotanie?  
 **Erica:** Mam ochotę na kutasa w cipce.  
-**Mox:** Jestem cała twoja, kochanie.  
+**Mox:** Jestem cały twój, kochanie.  
 **Erica:** Och! Ale dobrze.  
 **Mox:** Jesteś ciasna, Erico.  
 **Erica:** A ty jesteś twardy jak skała.  

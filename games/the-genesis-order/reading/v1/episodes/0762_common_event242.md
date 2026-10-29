@@ -24,7 +24,7 @@
 > **Ścieżka warunkowa:** wybór «Porozmawiaj z Jonem» → Heather Comes in: wyłączony → Erica Quest over: wyłączony → Erica went to Farm: wyłączony → Courtroom Scene Over: wyłączony.
 
 **Jon:** Jeszcze raz gratuluję, Mox.  
-**Jon:** A tak przy okazji, jestem otwarta na interesy, jeśli wiesz, co mam na myśli.  
+**Jon:** A tak przy okazji, jestem otwarty na interesy, jeśli wiesz, co mam na myśli.  
 **Mox:** Haha, będę o tym pamiętał, Jon.  
 
 > **Ścieżka warunkowa:** wybór «Porozmawiaj z Jonem» → Heather Comes in: wyłączony → Erica Quest over: wyłączony → Erica went to Farm: wyłączony → Courtroom Scene Over: wyłączony → Daemalius Over: wyłączony.

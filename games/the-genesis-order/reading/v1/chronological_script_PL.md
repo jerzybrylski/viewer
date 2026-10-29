@@ -386,7 +386,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 3.
 
-**Andrea:** Jestem ci wdzięczny za pomoc.  
+**Andrea:** Jestem ci wdzięczna za pomoc.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 
@@ -1080,7 +1080,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 2.
 
-**Ella:** Nie jestem tego taki pewien.  
+**Ella:** Nie jestem tego taka pewna.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 3.
 
@@ -1288,7 +1288,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 3.
 
-**Erica:** Nie jestem tego pewien.  
+**Erica:** Nie jestem tego pewna.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 
@@ -2318,7 +2318,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 3.
 
-**Judy:** Jestem ci wdzięczny.  
+**Judy:** Jestem ci wdzięczna.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 4.
 
@@ -13215,7 +13215,7 @@
 
 ## Mapa 006 — Kościół / event 38 / strona 1
 
-**Judy:** Nie jestem tego pewien.  
+**Judy:** Nie jestem tego pewna.  
 **Hannah:** Zaufaj mi! Będzie fajnie.  
 **Mox:** Co porabiacie, panie?  
 **Chloe:** Hannah próbuje nauczyć siostrę Judy grać w piłkę nożną.  
@@ -17207,7 +17207,7 @@
 **Mox:** Twoja cipka jest mokra…  
 **Mox:** Czujesz to łaskotanie?  
 **Erica:** Mam ochotę na kutasa w cipce.  
-**Mox:** Jestem cała twoja, kochanie.  
+**Mox:** Jestem cały twój, kochanie.  
 **Erica:** Och! Ale dobrze.  
 **Mox:** Jesteś ciasna, Erico.  
 **Erica:** A ty jesteś twardy jak skała.  
@@ -18430,7 +18430,7 @@
 **Mox:** Co!? Nie… Rozmawiałem z właścicielką sklepu…  
 **Mox:** Zna Madalyn.  
 **Erica:** Pracujesz w weekend?  
-**Mox:** Można powiedzieć, że jestem pracoholiczką.  
+**Mox:** Można powiedzieć, że jestem pracoholikiem.  
 **Erica:** To ci nie służy, Mox.  
 **Mox:** Co cię sprowadza do North Santiva?  
 **Erica:** Zawsze tu mieszkałam. Łączy mnie z tym miejscem wyjątkowa więź.  
@@ -19212,7 +19212,7 @@
 > **Ścieżka warunkowa:** wybór «Porozmawiaj z Jonem» → Heather Comes in: wyłączony → Erica Quest over: wyłączony → Erica went to Farm: wyłączony → Courtroom Scene Over: wyłączony.
 
 **Jon:** Jeszcze raz gratuluję, Mox.  
-**Jon:** A tak przy okazji, jestem otwarta na interesy, jeśli wiesz, co mam na myśli.  
+**Jon:** A tak przy okazji, jestem otwarty na interesy, jeśli wiesz, co mam na myśli.  
 **Mox:** Haha, będę o tym pamiętał, Jon.  
 
 > **Ścieżka warunkowa:** wybór «Porozmawiaj z Jonem» → Heather Comes in: wyłączony → Erica Quest over: wyłączony → Erica went to Farm: wyłączony → Courtroom Scene Over: wyłączony → Daemalius Over: wyłączony.
@@ -20225,7 +20225,7 @@
 **Carol:** Pozwoliłabym jej.  
 **Mox:** Carol!  
 **Carol:** Przestań być taką pruderyjną świętoszką.  
-**Mox:** Nie jestem pruderyjna! Po prostu zachowałem zdrowy rozsądek.  
+**Mox:** Nie jestem pruderyjny! Po prostu zachowałem zdrowy rozsądek.  
 **Carol:** Nie ma co się wyzywać.  
 **Mox:** Przepraszam, Carol. Ale czy możesz mi pomóc?  
 **Carol:** Dobrze. Rozumiem. Zobaczę, co da się zrobić.  
@@ -27641,7 +27641,7 @@
 **Mox:** Jak mija pierwszy dzień aresztu domowego?  
 **Andrea:** Zwariuję tu… Ale przynajmniej lepiej niż w więzieniu…  
 **Andrea:** Wiesz… Przydałby mi się taki gość jak ty do drobnej roboty.  
-**Mox:** Jestem ci winna, Andreo. Ale nie będę łamać prawa.  
+**Mox:** Jestem ci winien, Andreo. Ale nie będę łamać prawa.  
 **Andrea:** Nie będziesz musieć łamać prawa… mam nadzieję.  
 **Mox:** Czego potrzebujesz?  
 **Andrea:** Sporo kasy kosztowało wyciągnięcie mnie i Nellie z kłopotów… Ty też nie byłeś tani, Mox.  
@@ -28275,7 +28275,7 @@
 **Mox:** Łóżko jest małe, ale dadzą sobie radę.  
 **Carol:** Podejrzewasz nocne odwiedziny?  
 **Mox:** Judy by tego nie zrobiła.  
-**Carol:** Nie jestem tego taki pewien.  
+**Carol:** Nie jestem tego taka pewna.  
 **Mox:** Jest zakonnicą.  
 **Carol:** Ale jest też kobietą.  
 **Mox:** Carol…  
@@ -31745,7 +31745,7 @@
 **Mox:** /greet  
 **Ella:** /greet  
 **Ella:** Jak dotąd wszystko wydaje się tu bezpieczne.  
-**Mox:** Demony, Gildia i aligatory. Nie jestem tego taka pewna.  
+**Mox:** Demony, Gildia i aligatory. Nie jestem tego taki pewien.  
 **Ella:** Hej, wciąż stoję.  
 
 ---
@@ -32964,7 +32964,7 @@
 **Tasha:** Opowieści, które mógłabym ci zdradzić o Madalyn, zwaliłyby cię z nóg.  
 **Mox:** Zaczynam się zastanawiać, czy mogę ci ufać.  
 **Tasha:** Nie wierzysz w zjawiska nadprzyrodzone, prawda?  
-**Mox:** Jestem detektywką. Nie wierzę w nic, na co nie mam dowodów.  
+**Mox:** Jestem detektywem. Nie wierzę w nic, na co nie mam dowodów.  
 **Tasha:** Jeśli zamierzasz dopaść Madalyn, może czas zmienić poglądy.  
 **Mox:** Zaspokój moją ciekawość. Dlaczego myślisz, że jest demonem?  
 
@@ -33531,9 +33531,9 @@
 **Alia:** Co?! Nie!  
 **Hannah:** To co, do cholery, potrafisz?  
 **Tasha:** Dobrze radzi sobie ze znajdowaniem skarbów.  
-**Alia:** Nie jestem tego pewien.  
+**Alia:** Nie jestem tego pewna.  
 **Hannah:** Jak się zastanowić, wyglądasz trochę cherlawo.  
-**Alia:** No właśnie! Jestem cherlawy…  
+**Alia:** No właśnie! Jestem cherlawa…  
 **Mox:** Nie bądź niegrzeczna, Hannah.  
 **Hannah:** Nie martw się, Alio. Mogę cię wytrenować.  
 **Alia:** Wytrenować?  
@@ -34308,7 +34308,7 @@
 **Tasha:** Wiesz, dziś ma przyjść dostawa eliksirów miłosnych.  
 **Ella:** Mam ją zrecenzować?  
 **Tasha:** Nie mogę zamknąć sklepu i po nią pojechać, ale jeśli skoczysz do magazynu i odbierzesz ją za mnie, może coś dziś wieczorem razem zrobimy.  
-**Ella:** Eee… Nie mogę. Jestem dziś po południu zajęty.  
+**Ella:** Eee… Nie mogę. Jestem dziś po południu zajęta.  
 **Mox:** Znam Jona z magazynu. Mogę ją dla ciebie odebrać.  
 **Tasha:** Naprawdę?  
 **Mox:** Tak, dam sobie z tym radę.  
@@ -39229,7 +39229,7 @@
 **Carol:** Teraz tylko musimy…  
 **Carol:** Cholera. Zapomniałam o worku z nawozem.  
 **Heather:** Zapomniałeś?  
-**Carol:** Byłam trochę rozkojarzony. Wyleciało mi z głowy.  
+**Carol:** Byłam trochę rozkojarzona. Wyleciało mi z głowy.  
 
 > **Ścieżka warunkowa:** warunek przedmiotu [118].
 
@@ -40077,7 +40077,7 @@
 ## Mapa 054 — Podwórko / event 75 / strona 1
 
 **Hannah:** Tak! Chodźmy do kościoła pograć w piłkę!  
-**Judy:** Nie jestem tego pewien.  
+**Judy:** Nie jestem tego pewna.  
 **Ella:** Jest tam co robić?  
 **Chloe:** Za kościołem jest piękny las.  
 **Mox:** Nie wiem, czy powinnaś iść do kościoła, Ello.  
@@ -40653,7 +40653,7 @@
 **Judy:** Tak, zrób to! Chcę poczuć twoją gorącą spermę na tyłku!  
 **Kimberly:** Słyszałeś zakonnicę. Pokaż nam, co dla nas masz.  
 **Mox:** Aaaach, kurwa. To było niesamowite.  
-**Mox:** Jestem kompletnie wykończona.  
+**Mox:** Jestem kompletnie wykończony.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
 
@@ -41386,7 +41386,7 @@
 **Mox:** Haha, niektórzy powiedzieliby, że jestem człowiekiem kultury. A może po prostu zgadłem.  
 **Andrea:** Bardzo lubię balet. To chyba moje ulubione dzieło.  
 **Mox:** Tańczysz balet?  
-**Andrea:** Ha, nie. Niestety nie jestem aż tak rozciągnięty. W moim wieku jest już na to za późno.  
+**Andrea:** Ha, nie. Niestety nie jestem aż tak rozciągnięta. W moim wieku jest już na to za późno.  
 **Andrea:** Może dlatego tak je uwielbiam i stawiam w centrum uwagi. Zachwyca mnie młodzieńczy wigor i wdzięk.  
 **Andrea:** Cechy, które z czasem zanikają.  
 **Mox:** Nie powiedziałbym. Uważam, że masz naturalny wdzięk silnej, dojrzałej kobiety.  
@@ -49621,7 +49621,7 @@
 **Brian:** /greet  
 **Brian:** Krzyże podziałały na demony.  
 **Mox:** Myślałem, że wiedziałaś, że tak się stanie.  
-**Brian:** Cóż… Nie byłem całkiem pewna.  
+**Brian:** Cóż… Nie byłem całkiem pewien.  
 **Mox:** …  
 
 ---
@@ -49632,7 +49632,7 @@
 **Brian:** /greet  
 **Brian:** Krzyże podziałały na demony.  
 **Mox:** Myślałem, że wiedziałaś, że tak się stanie.  
-**Brian:** Cóż… Nie byłem całkiem pewna.  
+**Brian:** Cóż… Nie byłem całkiem pewien.  
 **Mox:** …  
 
 ---
@@ -53438,7 +53438,7 @@
 **Mox:** Chociaż…  
 **Mox:** Założę się, że nie miałaby nic przeciwko, gdybym wparował do niej…  
 **Mox:** Ale co jeśli ktoś nas zobaczy?  
-**Mox:** Cholera… Nagle robię się napalona.  
+**Mox:** Cholera… Nagle robię się napalony.  
 **Mox:** Cholera. Idę na to.  
 
 ---
@@ -56337,7 +56337,7 @@
 **Mox:** Nie… Jeśli mamy odkryć, co ukrywają na dole, muszę znaleźć sposób, by dostać się głębiej.  
 **Erica:** Jak to zrobisz?  
 **Mox:** To miejsce roi się od tych trędowatych typów. Nie będzie łatwo.  
-**Erica:** Mam tylko nadzieję, że nie jestem przeznaczony na jakąś ofiarę dla Szatana.  
+**Erica:** Mam tylko nadzieję, że nie jestem przeznaczona na jakąś ofiarę dla Szatana.  
 **Mox:** Wygląda na to, że fragmenty Tomy są częścią jakiegoś rytuału.  
 **Erica:** Nie wiem, co to może być, ale spróbuję się dowiedzieć.  
 **Mox:** Myślisz, że to rytuał Casula?  
@@ -61116,7 +61116,7 @@
 **Carol:** Haha. Nie wstydźcie się tak, oboje. To tylko zabawa.  
 **Chloe:** Ty i mama strasznie ze sobą flirtujecie, Mox.  
 **Carol:** Kiedy będziesz w naszym wieku, sama będziesz podrywać przystojniaków. Zaufaj mi, mała.  
-**Chloe:** Nie jestem tego pewien.  
+**Chloe:** Nie jestem tego pewna.  
 **Carol:** Jesteś młoda. Wszystko jest dla ciebie nowe…  
 **Carol:** Kiedy będziesz w moim wieku, seks będzie jak koszenie trawnika.  
 **Mox:** Nie powiedziałbym, że jest aż tak nudny.  
@@ -61860,7 +61860,7 @@
 **Carol:** Ja pierdolę! Pieprzy mnie!  
 **Heather:** Nie! Pieprzy mnie!  
 **Mox:** Nie wiem, którą z was pieprzę, ale jest cudownie!  
-**Mox:** Ja pierdolę! Jestem zbyt wrażliwa… Zaraz dojdę.  
+**Mox:** Ja pierdolę! Jestem zbyt wrażliwy… Zaraz dojdę.  
 **Carol:** Dojdź razem ze mną, kochanie!  
 **Heather:** Daj nam!  
 **Mox:** Chyba już wiem, gdzie podział się mój kutas.  
@@ -62431,7 +62431,7 @@
 **Lillian:** To nie są nadajniki policyjne. Okłamujesz mnie.  
 **Kimberly:** Udowodnij to w sądzie, kobieto!  
 **Lillian:** Wystawiła cię, Mox. Wiem, że jesteś w to zamieszany.  
-**Mox:** Jestem detektywką, Lillian… I coś przede mną ukryłaś.  
+**Mox:** Jestem detektywem, Lillian… I coś przede mną ukryłaś.  
 **Lillian:** Już nie jesteś.  
 **Lillian:** Może kobieta z takim zapałem mogłaby się przydać.  
 **Mox:** Nie musi się w to mieszać.  
@@ -65704,7 +65704,7 @@
 **Erica:** Mój tyłek… Jest w moim tyłku.  
 **Mox:** Zawsze chętnie dam ci swojego kutasa.  
 **Lillian:** Grzeczny chłopiec. Chcę was oboje.  
-**Erica:** Tak, Lillian… Jestem twój.  
+**Erica:** Tak, Lillian… Jestem twoja.  
 **Mox:** Mmmf!  
 **Erica:** Jezu, Lillian. Naprawdę się w to wkręciłaś.  
 **Lillian:** Spójrz, jaki jest bezradny… Smakuje twój tyłek… Jest niewolnikiem własnych żądz.  
@@ -66015,7 +66015,7 @@
 **Brian:** Proszę, uważaj.  
 **Melissa:** Czy Andrea mówi ci coś, co ukrywa przede mną?  
 **Mox:** Wydobycie informacji od kogokolwiek to jak rwanie zębów.  
-**Mox:** Po prostu jestem spostrzegawcza.  
+**Mox:** Po prostu jestem spostrzegawczy.  
 **Melissa:** Gówno prawda.  
 **Mox:** /order  
 **Melissa:** Aaargh!  

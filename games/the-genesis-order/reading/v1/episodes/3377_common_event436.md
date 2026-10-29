@@ -63,7 +63,7 @@
 **Carol:** Ja pierdolę! Pieprzy mnie!  
 **Heather:** Nie! Pieprzy mnie!  
 **Mox:** Nie wiem, którą z was pieprzę, ale jest cudownie!  
-**Mox:** Ja pierdolę! Jestem zbyt wrażliwa… Zaraz dojdę.  
+**Mox:** Ja pierdolę! Jestem zbyt wrażliwy… Zaraz dojdę.  
 **Carol:** Dojdź razem ze mną, kochanie!  
 **Heather:** Daj nam!  
 **Mox:** Chyba już wiem, gdzie podział się mój kutas.  

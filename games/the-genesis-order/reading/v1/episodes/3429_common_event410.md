@@ -9,7 +9,7 @@
 **Lillian:** To nie są nadajniki policyjne. Okłamujesz mnie.  
 **Kimberly:** Udowodnij to w sądzie, kobieto!  
 **Lillian:** Wystawiła cię, Mox. Wiem, że jesteś w to zamieszany.  
-**Mox:** Jestem detektywką, Lillian… I coś przede mną ukryłaś.  
+**Mox:** Jestem detektywem, Lillian… I coś przede mną ukryłaś.  
 **Lillian:** Już nie jesteś.  
 **Lillian:** Może kobieta z takim zapałem mogłaby się przydać.  
 **Mox:** Nie musi się w to mieszać.  

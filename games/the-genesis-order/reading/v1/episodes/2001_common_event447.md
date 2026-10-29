@@ -75,7 +75,7 @@
 **Judy:** Tak, zrób to! Chcę poczuć twoją gorącą spermę na tyłku!  
 **Kimberly:** Słyszałeś zakonnicę. Pokaż nam, co dla nas masz.  
 **Mox:** Aaaach, kurwa. To było niesamowite.  
-**Mox:** Jestem kompletnie wykończona.  
+**Mox:** Jestem kompletnie wykończony.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
 

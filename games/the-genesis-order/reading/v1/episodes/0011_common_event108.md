@@ -174,7 +174,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 3.
 
-**Erica:** Nie jestem tego pewien.  
+**Erica:** Nie jestem tego pewna.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 

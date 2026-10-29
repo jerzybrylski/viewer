@@ -4,7 +4,7 @@
 **Mox:** Co!? Nie… Rozmawiałem z właścicielką sklepu…  
 **Mox:** Zna Madalyn.  
 **Erica:** Pracujesz w weekend?  
-**Mox:** Można powiedzieć, że jestem pracoholiczką.  
+**Mox:** Można powiedzieć, że jestem pracoholikiem.  
 **Erica:** To ci nie służy, Mox.  
 **Mox:** Co cię sprowadza do North Santiva?  
 **Erica:** Zawsze tu mieszkałam. Łączy mnie z tym miejscem wyjątkowa więź.  
