@@ -18,7 +18,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any, Iterable
 
-from export_translation import REPO_ROOT, SOURCE_ROOT, canonical_id, tokens
+from export_translation import EXTRA_CONTROL_RE, REPO_ROOT, SOURCE_ROOT, canonical_id, tokens
 
 DEFAULT_INPUT = REPO_ROOT / "games" / "the-genesis-order" / "translation" / "export-v1"
 DEFAULT_MARKDOWN = SOURCE_ROOT / "translation" / "markdown-draft-v1"
@@ -366,10 +366,13 @@ def import_markdown(input_path: Path, markdown_root: Path, out: Path,
             raise ValueError(f"Source hash mismatch in Markdown for {record_id}")
         if target and tokens(target) != row["markup_tokens"]:
             raise ValueError(f"Markup/token mismatch in Markdown translation for {record_id}")
+        if target and EXTRA_CONTROL_RE.findall(target) != EXTRA_CONTROL_RE.findall(row["source_text"]):
+            raise ValueError(f"Additional control/placeholder mismatch in Markdown translation for {record_id}")
         if ((row.get("context") or {}).get("translation_policy") == "keep_source_value"
                 and target.strip() and target != row["source_text"]):
             raise ValueError(f"Protected source value changed in Markdown for {record_id}")
-        if not target and require_complete:
+        protected = (row.get("context") or {}).get("translation_policy") == "keep_source_value"
+        if not target.strip() and require_complete and not protected:
             raise ValueError(f"Empty translation in Markdown for {record_id}")
         row["translation"] = target
         translated_count += bool(target.strip())
@@ -377,7 +380,8 @@ def import_markdown(input_path: Path, markdown_root: Path, out: Path,
         missing = sorted(set(by_id) - set(translated))
         if missing:
             raise ValueError(f"Markdown is missing {len(missing)} canonical records")
-        blank = [row["id"] for row in rows if not row["translation"].strip()]
+        blank = [row["id"] for row in rows if not row["translation"].strip()
+                 and (row.get("context") or {}).get("translation_policy") != "keep_source_value"]
         if blank:
             raise ValueError(f"{len(blank)} canonical records have empty translations")
     output_digest = hashlib.sha256()

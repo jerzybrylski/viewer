@@ -2,7 +2,7 @@
 
 ## Stan
 
-Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-v1/`. Wszystkie pola `translation` są puste; **nie rozpoczęto tłumaczenia**. Source ZIP v1 jest śledzony w `games/the-genesis-order/translation/packages/` i dostępny na Google Drive; patcher nie został zbudowany.
+Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-v1/`. Kanoniczny eksport źródłowy pozostaje bez zmian. Rozpoczęto roboczą partię UI poza Gitem: 127 niepustych pól w 130 rekordach; 3 chronione wartości pozostają puste. Source ZIP v1 jest śledzony w `games/the-genesis-order/translation/packages/` i dostępny na Google Drive; patcher nie został zbudowany.
 
 ## Zasady wejściowe
 
@@ -19,6 +19,6 @@ Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-
 - Przed stagingiem uruchomić testy i `apply_translation.py --check`. Import/patch trafia do nowej kopii pod ignorowanym `google_drive/`; nigdy nie nadpisuje assetów wejściowych.
 - Nie uruchamiać gry ani JS przez narzędzia ekstrakcji/importu. Test renderingu i polskich fontów wymaga osobnej zgody oraz kopii gry.
 - Wszystkie nie-rendererowe wiersze `401` i wszystkie opcje `102` są pełnoprawnym tekstem gracza do tłumaczenia, bez filtrowania według dialog/UI. To zatwierdzona decyzja zakresowa. Tekst wtopiony w obrazy i wideo pozostaje poza zakresem na decyzję właściciela.
-- Source ZIP v1 zawiera pełny zatwierdzony statyczny zakres, ale pola `translation` są puste: to paczka źródłowa do tłumaczenia, nie polskie tłumaczenie ani patch gry.
+- Source ZIP v1 zawiera pełny zatwierdzony statyczny zakres, a jego pola `translation` są puste: to nieaktualizowana paczka źródłowa, nie polskie tłumaczenie ani patch gry. Osobna robocza partia UI jest przechowywana poza Gitem.
 
 Nie kopiować tekstów SRW ani założeń o silniku/limitach SRW do TGO. Przenosić można jedynie ogólne rozwiązania organizacyjne i walidacyjne.

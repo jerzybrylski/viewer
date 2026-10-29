@@ -1,16 +1,16 @@
 # Handoff dla kolejnego agenta — The Genesis Order
 
-Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Tłumaczenia i patcha gry jeszcze nie ma.
+Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Istnieje pierwsza robocza partia UI, ale patcha gry jeszcze nie ma.
 
 ## Stan repo i artefaktów
 
-- Pracuj tylko na `arena/df0bbe3f-viewer` (PR #1 otwarty); nie zmieniaj gałęzi.
+- Pracuj na gałęzi bieżącej sesji Arena; nie zmieniaj gałęzi.
 - Kanoniczny eksport: `games/the-genesis-order/translation/export-v1/`, 45 229 rekordów, 25 JSONL + manifest. Wszystkie wiersze `401` poza rendererami oraz wszystkie opcje `102` są zatwierdzone jako pełnoprawny tekst gracza do tłumaczenia.
 - Source ZIP v1: `games/the-genesis-order/translation/packages/TGO_source_translation_package_v1.zip`; ZIP i `.sha256` są śledzone w Git. Identyczny ZIP umieszczono na Google Drive w `TGO/translation/packages/`.
 - ZIP obejmuje canonical JSONL, kontekstowy Markdown (497 dokumentów), instrukcję PL, manifest, glossary/politykę i raport zakresu. Nie zawiera oryginalnych assetów ani kodu gry.
 - Oryginalne źródła są dostępne na Google Drive: folder `TGO/www/data/` zawiera 306 plików, w tym `CommonEvents.json`. W bieżącym workspace źródła nie są zsynchronizowane do lokalnego ignorowanego `google_drive/`; nie prosić właściciela o ponowny upload. Przy potrzebie ponownego hashowania źródeł pobrać/synchronizować je z Drive.
 - Pełne `unittest`: 27/27; Markdown import-check: 45 229 rekordów, 0 brakujących ID; builder source ZIP sprawdza manifest coverage, zgodność liczby rekordów, unikalność ID i integralność archiwum.
-- Nie uruchamiano gry ani kodu gry. Pola `translation` pozostają puste.
+- Nie uruchamiano gry ani kodu gry. W source ZIP i kanonicznym eksporcie pola `translation` są puste; pierwsza zwrotka robocza jest osobna.
 
 ## Zatwierdzony zakres i liczniki
 
@@ -23,7 +23,7 @@ Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Tłum
 
 ## Następne zadania
 
-1. Uzgodnić/uzupełnić polską terminologię i glossary, następnie rozpocząć tłumaczenie pełnego zatwierdzonego eksportu po stabilnym `id`.
+1. Kontynuować polską terminologię i tłumaczenie pełnego zatwierdzonego eksportu po stabilnym `id`. Robocza partia UI 01 (130 rekordów, 127 niepustych pól, 3 chronione puste) jest w `google_drive/the-genesis-order/translation/draft-ui-v1/` i [na Drive](https://drive.google.com/file/d/192Umg5H5xVGzoAtyMN8fDJ6HSrreO1A7/view?usp=drivesdk). Druga partia to 65 wskazówek: [Drive](https://drive.google.com/file/d/1n2r4gLCZMwkbzqpCenDJNJOF-AbKn-OM/view?usp=drivesdk). Kolejne 35 wskazówek: [Drive](https://drive.google.com/file/d/1Sd5I5LLJeRX217dSIc-cNuWVNWIcrjk-/view?usp=drivesdk). Lokalny pełny zbiór po scaleniu: `google_drive/the-genesis-order/translation/merged-ui-hints-02-2026-10-29.jsonl`, 227 niepustych, 131 chronionych i 44 871 tłumaczalnych oczekujących. Używać `tools/merge_translation_batches.py` do wykrywania konfliktów, nie nadpisywać istniejącej pracy.
 2. Nie zmieniać ID, locatorów, source hashes, `source_text` ani tokenów. Zachować wszystkie rekordy `keep_source_value` dokładnie.
 3. Po tłumaczeniu uruchomić Markdown import-check i `apply_translation.py --check`; rozliczyć braki, duplikaty, tokeny i konflikty.
 4. Ustalić docelowy build/layout i zaprojektować patcher Windows z backupem/rollbackiem; testować najpierw na kopiach syntetycznych.

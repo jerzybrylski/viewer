@@ -7,7 +7,7 @@ Wybrany projekt lokalizacyjny. Potwierdzono RPG Maker MV 1.6.1 + NW.js. Praca ob
 - Kanoniczne JSONL ze stabilnymi ID: [`translation/export-v1/`](translation/export-v1/), **45 229 rekordów**, wszystkie kontrolne liczniki pokrycia przechodzą.
 - Statyczny JS audit: 78 plików, 563 kandydatury, 35 potwierdzonych statycznych powierzchni UI, 528 wykluczeń z jawnym powodem, 0 otwartych.
 - Wszystkie nie-rendererowe wiersze `401` oraz wszystkie opcje `102` są pełnoprawnym tekstem gracza do tłumaczenia, zgodnie z decyzją właściciela. Szczegółowe liczniki znajdują się w [`docs/STATUS.md`](docs/STATUS.md) i [`docs/COUNT_REPORT.md`](docs/COUNT_REPORT.md).
-- Source ZIP v1 zawiera pełny zatwierdzony statyczny zakres i jest śledzony w Git; kopia jest publikowana na Google Drive. Nie uruchomiono gry ani kodu gry; tłumaczenia ani patcha jeszcze nie ma.
+- Source ZIP v1 zawiera pełny zatwierdzony statyczny zakres i jest śledzony w Git; kopia jest publikowana na Google Drive. Nie uruchomiono gry ani kodu gry; istnieją robocze partie tłumaczenia; patcha jeszcze nie ma.
 
 ## Dane i granice Gita
 

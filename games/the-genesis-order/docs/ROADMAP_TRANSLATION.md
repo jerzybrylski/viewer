@@ -2,7 +2,7 @@
 
 **Cel:** przygotować bezpieczny pipeline od zweryfikowanych źródeł RPG Maker MV, przez tłumaczenie z kontekstem, po lokalny patcher Windows. Tekstów SRW nie kopiujemy do TGO; przenoszone są wyłącznie ogólne praktyki: stabilne ID, JSONL, walidacja placeholderów, branch-aware Markdown i staging bez nadpisywania oryginału.
 
-**Aktualny gate:** statyczne skanowanie i eksport są zakończone. Właściciel zatwierdził wszystkie nie-rendererowe wiersze `401` i wszystkie opcje `102` jako pełnoprawny tekst do tłumaczenia. Source ZIP v1 jest śledzony w repozytorium i udostępniony na Google Drive. Tekst wtopiony w obrazy i wideo jest poza zakresem na decyzję właściciela. Nie ma jeszcze tłumaczenia ani patcha gry.
+**Aktualny gate:** statyczne skanowanie i eksport są zakończone. Właściciel zatwierdził wszystkie nie-rendererowe wiersze `401` i wszystkie opcje `102` jako pełnoprawny tekst do tłumaczenia. Source ZIP v1 jest śledzony w repozytorium i udostępniony na Google Drive. Tekst wtopiony w obrazy i wideo jest poza zakresem na decyzję właściciela. Rozpoczęto robocze tłumaczenie UI; patcha gry jeszcze nie ma.
 
 ## Kanoniczny przepływ
 
@@ -26,8 +26,8 @@ Repozytorium zawiera narzędzia, dokumentację, testy, jawnie zatwierdzone tekst
 | 3. Kanoniczny eksport | JSONL ze stabilnym ID, hashami, locatorami, kontekstem i tokenami | **45 229 rekordów; wszystkie kontrole pokrycia przeszły** |
 | 4. Round-trip | walidator i safe write-back do kopii; testy syntetyczne | **Gotowe statycznie**; `--check` weryfikuje 45 229 rekordów / 238 źródeł |
 | 5. Kontekst/pakiet źródłowy | JSONL, instrukcje, glossary/polityka, raport, manifest i Markdown źródłowy | **ZIP v1 wygenerowany i sprawdzony**: 45 229 rekordów / 497 dokumentów; archiwum śledzone w Git i wysyłane na Google Drive |
-| 6. Rozpoczęcie tłumaczenia | zatwierdzone zasady językowe, glosariusz, partie i kontrola terminologii | **Nie rozpoczęto**; tłumaczenia puste |
-| 7. Import tłumaczenia | walidacja ID, tokenów, braków, nadmiarów i konfliktów | **Parser i walidator istnieją**; brak zwrotki do sprawdzenia |
+| 6. Rozpoczęcie tłumaczenia | zatwierdzone zasady językowe, glosariusz, partie i kontrola terminologii | **W toku**; roboczy glosariusz i partie UI i wskazówek (227 niepustych pola) poza Gitem; dalsza redakcja i testy potrzebne |
+| 7. Import tłumaczenia | walidacja ID, tokenów, braków, nadmiarów i konfliktów | **Częściowo**: partie scalono po ID i sprawdzono względem eksportu i walidatorem rekordów; pełna weryfikacja źródeł wymaga ich lokalnego pobrania |
 | 8. Patcher Windows | wykrycie kopii/builda, backup, atomowy staging, raport/rollback, testy syntetyczne | **Nie rozpoczęto**; wymaga tłumaczenia i docelowego layoutu |
 | 9. Finalny patch / polska dystrybucja | przetłumaczony tekst i instalowalny patch | **Nie istnieją**; osobna bramka po tłumaczeniu/QA |
 

@@ -51,3 +51,9 @@ Stabilne ID obowiązuje przy niezmienionym locatorze. Przesunięcie źródła zm
 - Zgodnie z decyzją właściciela nie tłumaczymy tekstu wtopionego w obrazy i wideo. Dynamiczne dane runtime pochodzące z urządzeń/użytkowników są poza statycznym zakresem; oryginalne źródła JS/data i fonty nie są kopiowane do repo.
 
 Eksport można odtworzyć z dostarczonych oryginalnych assetów poleceniem `python3 games/the-genesis-order/tools/export_translation.py`. Oczekuje ono lokalnych, ignorowanych danych w `google_drive/the-genesis-order/` oraz kuratorowanego pliku JS `translation/export-v1/reviewed_js_ui.jsonl`.
+
+## Robocze partie i uzupełniająca walidacja
+
+`tools/merge_translation_batches.py` łączy niepełne zwrotki z całym źródłowym eksportem po ID. Weryfikuje niezmienność wszystkich pozostałych pól, tokeny oraz konflikty, zapisuje tylko nowy plik pod ignorowanym `google_drive/` i raportuje nieprzetłumaczone rekordy (chronione liczone oddzielnie). Nie czyta oryginalnych assetów i nie zastępuje `apply_translation.py --check`.
+
+Sygnatura `markup_tokens` eksportu v1 pozostaje bez zmian dla zgodności. Import Markdown i `apply_translation.py` dodatkowo porównują RPG Maker escape’y interpunkcyjne oraz parametry pozycyjne `%1`, `%2` itd., których wcześniejsza sygnatura nie uwzględniała. `--require-complete` dopuszcza puste chronione wartości `keep_source_value`, ale działa tylko na dostarczonych rekordach: samo sprawdzenie niepełnej partii nie dowodzi kompletności całego eksportu.
