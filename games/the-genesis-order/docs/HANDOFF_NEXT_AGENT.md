@@ -1,49 +1,50 @@
-# Handoff dla kolejnego agenta — The Genesis Order
+# Handoff — The Genesis Order PL
 
-Stan: 2026-10-29, po odzyskaniu pracy poprzedniego agenta. **Wszystko, co było warte odzyskania, jest w Git** i sprawdzone niezależnie od twierdzeń poprzednika — raport: [`RECOVERY_2026-10-29.md`](RECOVERY_2026-10-29.md).
+Stan: 2026-10-29. Statyczne tłumaczenie wszystkich kwalifikujących się rekordów oraz oba wskazane milestone’y są zbudowane. To nadal proof of concept: gra, instalator Windows, glify/łamanie tekstu i działanie w runtime nie były testowane. Nie uruchamiać kodu gry ani nie nadpisywać instalacji użytkownika.
 
-**POTWIERDZONE liczby:** 45 229 rekordów kanonicznych, **427** partii draftów, **39 926** niepustych tłumaczeń, **131** jawnie chronionych `keep_source_value`, **5 172** świadomie zachowanych w źródle, **0** nierozstrzygniętych, **0** konfliktów. Bramka `tools/audit_translation_coverage.py` → `status: complete`. Kubełki pustych rekordów: [`COVERAGE_AUDIT.md`](COVERAGE_AUDIT.md).
+> **Najpierw przeczytaj [`RECOVERY_2026-10-29.md`](RECOVERY_2026-10-29.md).** Praca poprzedniego agenta nie była w Git i została odzyskana z patcha i ZIP-ów; tam jest metoda, hashe i dowody spójności. Nie powtarzaj odzyskiwania.
 
-**Nie zaczynaj od tłumaczenia nowych rzeczy.** Statyczna proza widoczna dla gracza jest wyczerpana. Następna wartość jest w redakcji, testach i decyzjach właściciela.
+## Stan i liczby
 
-## Stan repo i artefaktów
+- Kanoniczny eksport `translation/export-v1/`: **45 229** rekordów; pozostaje źródłem i nie jest modyfikowany przez merge.
+- Wszystkie **427** partii draftów scalają się bez konfliktów: **39 926** niepustych tłumaczeń, **131** jawnie chronionych wartości, **5 172** zachowane rekordy nielokalizowalne, **0** nierozstrzygniętych tłumaczalnych rekordów.
+- Pełne testy: `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **60/60 OK**.
+- Scalenie draftów odtwarza bajt w bajt `payload/translations.jsonl` z patcha POC (SHA-256 `e2898d6f33399779f3703831287488293f32ec0cec64a06acfb37c68d154311e`) — nic nie istnieje tylko w ZIP-ie.
+- Tekst wtopiony w obrazy/wideo pozostaje poza zakresem. Zachowuj stabilne ID, source, kontekst, tokeny i `keep_source_value`; tłumaczenia słownikowe/statystyczne są zabronione — stosuj kontekst sceny i ADR projektu.
 
-- Pracuj na gałęzi bieżącej sesji Arena; nie zmieniaj gałęzi. Commit i push po każdym zamkniętym etapie — poprzedni agent stracił pracę, bo tego nie robił.
-- Kanoniczny eksport: `translation/export-v1/`, 45 229 rekordów, 25 JSONL + manifest. Wszystkie wiersze `401` poza rendererami oraz wszystkie opcje `102` są zatwierdzone jako pełnoprawny tekst gracza.
-- Partie: `translation/drafts/` (427 plików, także podkatalogi — czytaj **rekurencyjnie**), buildery `.build-*.py` (259) w `translation/`.
-- Source ZIP v1: `translation/packages/TGO_source_translation_package_v1.zip` (+ `.sha256`), publikowany też na Drive.
-- Patch POC: `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip` (+ `.sha256`), 39 926 tłumaczeń, 238 fingerprintów, backup/rollback. Jego `payload/translations.jsonl` odtwarza się **bajt w bajt** ze scalenia draftów (`e2898d6f…`).
-- Czytanka PL v1: `reading/v1/` (4 394 epizody, 55 mówców, 291 lokacji, 221 osiągalnych statycznie) + ZIP `TGO_readalong_PL_v1.zip`.
-- Oryginały gry: Google Drive `TGO/www/data/` (306 plików). Lokalnie brak — brak pliku nie oznacza braku uploadu; nie proś właściciela o ponowny upload.
-- **Nie uruchamiaj gry ani jej kodu** (JS ani `.exe`). JSONL czytaj bezpiecznymi parserami. Nie nadpisuj cudzych zmian.
-- Polecenia weryfikacyjne:
+## Gotowe artefakty
+
+1. **Standalone patch POC:** `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`, SHA-256 `4dc807024466582b68a59e129d212dc2aa52e0bcf4dcd81c3445576b8d84513b`. Zawiera 39 926 tłumaczeń, fingerprinty 238 źródeł, backup/restore i one-click patcher; nie zawiera plików gry. ZIP/CRC i testy syntetyczne przechodzą. **Nie testowano Windows ani gry.**
+2. **Czytanka PL v1:** katalog `reading/v1/`, standalone ZIP `translation/packages/TGO_readalong_PL_v1.zip`, SHA-256 `3239527786f1ac28064920fb45c2273941b0914cb8ed636b1c68d2975b0eb244`. Zawiera pełny skrypt, **4 394** osobne epizody i `reading_order.tsv` (4 134 map/event/page + 260 Common Events), a także indeks 55 mówców i 291 lokacji. Uwzględnia statycznie rozpoznanych mówców, warunki, rozgałęzienia, wybory i jawne placeholders dla danych dynamicznych. Mówcy niepewni są oznaczeni, nigdy zgadywani.
+3. **Ograniczenie chronologii:** BFS od mapy startowej 38 znajduje potencjalne ścieżki do **221/291** map, bez ewaluacji warunków/przełączników/runtime. Common Events sortowane są według pierwszego statycznego wywołania. README Czytanki ostrzega, że kolejność jest przybliżona, a nie kanoniczna; sceny opcjonalne mogą być poza kolejnością pojedynczego przejścia.
+
+## Źródła / odtwarzanie
+
+Statyczne źródła gry są w ignorowanym `google_drive/tgo_source/`; drafty i canonical export są śledzone w repo. Nie zmieniaj `export-v1/` i nie zapisuj merge nad draftami. Patcher i Czytankę odtwarzaj do pustych ścieżek (narzędzia celowo odmawiają nadpisywania):
 
 ```bash
-python3 -m unittest discover -s games/the-genesis-order/tests -q
+python3 -m unittest discover -s games/the-genesis-order/tests -v
 python3 games/the-genesis-order/tools/audit_translation_coverage.py
-python3 games/the-genesis-order/tools/audit_draft_coverage.py --quiet --markdown-out games/the-genesis-order/docs/COVERAGE_AUDIT.md
-python3 games/the-genesis-order/tools/markdown_translation.py import --check
-python3 games/the-genesis-order/tools/apply_translation.py --input games/the-genesis-order/translation/export-v1 --check
+python3 games/the-genesis-order/tools/audit_draft_coverage.py --markdown-out games/the-genesis-order/docs/COVERAGE_AUDIT.md
+python3 games/the-genesis-order/tools/build_standalone_patch.py
+python3 games/the-genesis-order/tools/build_readalong.py
 ```
 
-## Reguły, których nie wolno łamać
-
-- ADR 001: **żadnego automatycznego MT** poza LLM w kontekście sceny. Każdy builder zawiera ręczne tłumaczenia; filtr `known` + `keep_source_value` + `/^` + `noalpha`, `len==exact`, `validate 0`, `py_compile OK`, pełny zielony zestaw testów, odmowa nadpisania istniejącego pliku.
-- ADR 002 (wariant B, przyjęty): `translation_tokens_match()` normalizuje kody czcionek bez argumentu (`\fb`, `\fi`, `\fr`) gdy następuje po nich litera. **Nie zmieniaj `export-v1/`**, żeby „naprawić” tokeny — to już niepotrzebne.
-- Nigdy nie uruchamiaj `.build-*.py` na istniejącym pliku wyjściowym. Test determinizmu rób na kopii katalogu draftów.
+Szczegółowy zakres i ograniczenia: `STATUS.md`, `ROADMAP_TRANSLATION.md`, `COUNT_REPORT.md` i `TRANSLATION_POLICY.md`.
 
 ## Następne zadania (w tej kolejności)
 
-1. **Decyzje redakcyjne właściciela** — [`EDITORIAL_DECISIONS.md`](EDITORIAL_DECISIONS.md), 11 pozycji z rekomendacjami. Najpilniejsze: tytuł gry („Zakon Genesis” vs oryginał), `Channel 4`, `TEXT`/`TEKST` (ryzyko klucza w kodzie gry), placeholdery TEST MAP.
-2. **Testy fontów i instalacji** (największe ryzyko projektu): czy czcionki gry mają polskie glify, jak łamie się długi tekst, czy patcher działa na kopii buildu Windows. Bez tego reszta jest teoretyczna.
-3. **Redakcja językowa 39 926 draftów** po stabilnym `id`: spójność z glosariuszem (Toma/Anachorismos/Daemalius/Lilith zachowane), długości linii, powtarzalne powiedzenia, odmiana. Audyt wykazuje 617 tłumaczeń identycznych ze źródłem — po odfiltrowaniu imion i wykrzyknień zostaje 37 wielowyrazowych, wszystkie to nazwy własne i linki.
-4. **31 rekordów w kubełku `needs_review`** (28 w audycie draftów + 3 nazwy z odzyskanych partii) — przejrzeć po jednym, nie tłumaczyć hurtem.
-5. **Ponowna budowa artefaktów po redakcji**: `build_standalone_patch.py`, `build_readalong.py` (ok. 9 s), aktualizacja `.sha256` i wpis w `EXPERIMENT_LOG.md`.
-6. Dopiero potem: publikacja/dystrybucja. Source ZIP i patch POC to nie jest zatwierdzona dystrybucja.
+1. **Decyzje redakcyjne właściciela** — [`EDITORIAL_DECISIONS.md`](EDITORIAL_DECISIONS.md), 11 pozycji z rekomendacjami. Najpilniejsze: tytuł gry („Zakon Genesis” vs oryginał), `Channel 4`, `TEXT`/`TEKST` (możliwy klucz w kodzie gry), placeholdery TEST MAP.
+2. **Redakcja językowa 39 926 draftów** po stabilnym `id`: spójność z glosariuszem, długości linii, powtarzalne powiedzenia. **Największy konkretny dług: odmiana imion** — imiona na `-a` są odmienione tylko w 21–50% wystąpień (Erica 140/318, Andrea 108/294, Ella 88/263), więc w korpusie obok siebie stoją „sypialni Andrei” i „z Andrea”. Tabela i decyzja: R-09 w `EDITORIAL_DECISIONS.md`. Audyt wskazuje też 617 tłumaczeń identycznych ze źródłem — po odfiltrowaniu imion i wykrzyknień zostaje 37 wielowyrazowych, wszystkie to nazwy własne, pseudonimy i linki.
+3. **28 rekordów w kubełku `needs_review`** — 24 opcje wyboru, które są samym imieniem z `\c[n]\v[n]`, oraz 4 wartości telefonu/natywne: `Madalyn.`, `Morgan #142`, `Morgan.`, `Amulet K.` ([`COVERAGE_AUDIT.md`](COVERAGE_AUDIT.md)). Przejrzeć pojedynczo i zdecydować, czy zostają w źródle, nie tłumaczyć hurtem.
+4. **Przebudowa artefaktów po redakcji:** `build_standalone_patch.py`, `build_readalong.py` (ok. 9 s przy dostępnych źródłach), aktualizacja `.sha256` i wpis w `EXPERIMENT_LOG.md`.
+5. **Testy patchera na kopii wspieranego builda Windows:** sprawdzić backup/restore, placeholdery, glify, UI i niezmienność oryginału. Nie publikować POC jako zatwierdzonego spolszczenia przed tym QA.
 
-## Czego nie robić
+## Zasady i pułapki
 
-- Nie odtwarzać ponownie odzyskiwania z patcha/ZIP-ów — zrobione i udowodnione (`RECOVERY_2026-10-29.md`).
-- Nie wracać do `translation/pending/` ani `tools/markup_signature.py` — usunięte, zastąpione regułą walidatora.
-- Nie scalać draftów na dysk bez potrzeby: pełny merge to plik 57 MB, który jest w pełni odtwarzalny.
-- Nie dopisywać do `EXPERIMENT_LOG.md` historii wstecz — nowe wpisy dopisuj na końcu.
+- ADR 001: żadnego automatycznego MT poza LLM w kontekście sceny; każdy builder ma ręczne tłumaczenia, filtr `known` + `keep_source_value` + `/^` + `noalpha`, `len==exact`, `validate 0`, `py_compile`, pełny zielony zestaw testów i odmowę nadpisania pliku.
+- ADR 002 (**przyjęty, wariant B**): `translation_tokens_match()` normalizuje kody czcionek bez argumentu (`\fb`, `\fi`, `\fr`), gdy następuje po nich litera. **Nie twórz `export-v2`** i nie zmieniaj `export-v1/`, żeby „naprawić” tokeny.
+- `translation/pending/` i `tools/markup_signature.py` **nie istnieją** — usunięte wraz z przyjęciem ADR 002. Nie odtwarzaj ich.
+- Drafty czytaj **rekurencyjnie** (`rglob`); partie leżą też w `hints/`, `ui-01/` i `follow-ups/`.
+- Nigdy nie uruchamiaj `.build-*.py` na istniejącym pliku wyjściowym; determinizm sprawdzaj na kopii katalogu.
+- Commit i push po każdym zamkniętym etapie. Poprzedni agent stracił całą pracę przez brak pusha.

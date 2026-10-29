@@ -2,22 +2,44 @@
 
 Stan na 2026-10-29 (po odzyskaniu pracy). Wszystkie pliki w tym katalogu są **roboczymi zwrotkami** po stabilnych ID. Wymagają redakcji i kontroli terminologii; nie są zatwierdzonym przekładem, patchem ani dystrybucją gry. Kanoniczny eksport `../export-v1/` i source ZIP v1 pozostają niezmienione.
 
-## Pomiar z 2026-10-29 (odzyskany korpus, nadrzędny wobec historycznych projekcji)
+## Stan bieżący (427 partii, po odzyskaniu 2026-10-29)
 
-`tools/audit_draft_coverage.py` czyta **wszystkie 427 plików** tego katalogu, także z podkatalogów `hints/`, `ui-01/` i `follow-ups/`, i porównuje je z kanonicznym eksportem. Wynik jest odtwarzalny jedną komendą:
+`tools/audit_draft_coverage.py` czyta wszystkie pliki tego katalogu **rekurencyjnie** (także `hints/`, `ui-01/` i `follow-ups/`) i porównuje je z kanonicznym eksportem:
 
-- **39 926** unikalnych ID z niepustym tłumaczeniem,
+- **39 926** unikalnych ID z niepustym tłumaczeniem w **427** plikach,
 - **5 172** rekordów świadomie zachowanych w źródle + **131** chronionych `keep_source_value`,
 - **0** konfliktów niepustych wariantów i **0** nierozstrzygniętych rekordów,
 - **617** tłumaczeń identycznych ze źródłem, z czego wielowyrazowe to wyłącznie nazwy własne, pseudonimy i linki.
 
-Pełne tabele i listy: [`../../docs/COVERAGE_AUDIT.md`](../../docs/COVERAGE_AUDIT.md). Bramka [`tools/audit_translation_coverage.py`](../../tools/audit_translation_coverage.py) raportuje `status: complete`, a scalony payload odtwarza się bajt w bajt do `payload/translations.jsonl` w patchu POC. Dalsze partie map nie mają już czego pokrywać; następnym etapem jest redakcja i QA istniejących draftów, a nie dobijanie licznika.
+Scalenie draftów odtwarza bajt w bajt `payload/translations.jsonl` z patcha POC (SHA-256 `e2898d6f33399779f3703831287488293f32ec0cec64a06acfb37c68d154311e`), więc nic nie istnieje tylko w ZIP-ie. Bramka [`tools/audit_translation_coverage.py`](../../tools/audit_translation_coverage.py) raportuje `status: complete`. Pełne tabele: [`../../docs/COVERAGE_AUDIT.md`](../../docs/COVERAGE_AUDIT.md). Metoda odzyskania korpusu: [`../../docs/RECOVERY_2026-10-29.md`](../../docs/RECOVERY_2026-10-29.md). Otwarte decyzje redakcyjne: [`../../docs/EDITORIAL_DECISIONS.md`](../../docs/EDITORIAL_DECISIONS.md).
 
-## Skąd pochodzi ten korpus
+Poniższe sekcje są zapisem wcześniejszych audytów (wtedy 425–426 plików) i pozostają jako historia pomiarów.
 
-Poprzedni agent nie wypchnął pracy do Git; została odzyskana z patcha i ZIP-ów i sprawdzona niezależnie — [`../../docs/RECOVERY_2026-10-29.md`](../../docs/RECOVERY_2026-10-29.md). Historyczny plik scalony `merged-tgo-working-2026-10-29-step11.jsonl` (20 610 niepustych tłumaczeń) był stanem pośrednim i nie jest już potrzebny: aktualny stan odtwarza się wyłącznie ze śledzonych draftów.
+## Aktualny scalony stan
 
-## Aktualnie używane partie
+Ponowne, odtwarzalne scalenie wszystkich **426 plików** draftów dało **45 229 rekordów**, **39 923 unikalne niepuste tłumaczenia**, **131 rekordów chronionych** i **5 175 pustych pól niechronionych**. Od poprzedniego audytu dodano 94 tłumaczenia UI craftingu z Map 46 (47 wystąpień każdego z dwóch promptów) oraz 9 pozostałych, widocznych tekstów UI: placeholder wiadomości TEST MAP, fragment rozmowy telefonicznej i etykietę „TEXT” w kanale telefonu. Audyt reszty pustych rekordów po kategorii nie wykazał dalszych zwykłych angielskich fraz gracza do tłumaczenia: pozostają m.in. kontrolne slash-strings i wielokropki, markup/renderery, nazwy własne i nazwy użytkowników, kody/liczby, dynamiczne wartości, symbol waluty, tytuł gry, skrót „ECU” oraz etykieta mapy z `MapInfos` (pole edytora, nie runtime UI). Tekst wtopiony w grafikę/wideo nadal pozostaje poza zakresem. Nie znaleziono konfliktów niepustych tłumaczeń; stare warianty 40 etykiet map uzgodniono według nowszego batcha `inventory-names-02.jsonl`, a `map-labels-01.jsonl` pozostaje jego zduplikowanym podzbiorem. Wcześniejsza projekcja **39 931** zawyżała stan sprzed tej pracy o **111 ID** z powodu nakładających się wpisów. Drafty i ich jakość nadal wymagają redakcji oraz testów w grze; eksport kanoniczny i source ZIP nie zostały zmienione.
+
+### Puste, niechronione rekordy po scaleniu
+
+| Kategoria | Liczba | Klasyfikacja reszty |
+|---|---:|---|
+| `choice_option` | 514 | Ikony/liczby, dynamiczne wartości, nazwiska lub litery/kody; bez zwykłych zdań. |
+| `credits` | 237 | Nazwy osób, handle i znaczniki formatowania. |
+| `custom_dialogue` | 3 924 | 3 742 slash-prefixed sterujące stringi + 182 wielokropki/interpunkcja. |
+| `database.actors.name` | 28 | Nazwy aktorów, cyfry i symbole. |
+| `database.items.name` | 2 | Nazwa własna Arianna. |
+| `image_caption` | 68 | Podpisy/imiona postaci; bez prozy w tych rekordach. |
+| `item_found_label` | 1 | Skrót `ECU`. |
+| `map_label` | 1 | `WoNoChurch` w polu `MapInfos.name` (nazwa edytora, nie runtime UI). |
+| `native_message` | 329 | Tokeny/formatowanie, imiona, identyfikatory i liczby; naturalne frazy UI zostały uzupełnione. |
+| `phone_contact_ui` | 26 | Imiona lub wyłącznie tokeny/layout. |
+| `phone_text` | 3 | Pozostałe rekordy to wyłącznie tokeny/renderery; `TEXT` zostało przetłumaczone. |
+| `system.currencyUnit`, `system.gameTitle` | 2 | Symbol `G` i oficjalny tytuł gry. |
+| `ui.variable_value` | 27 | Imiona i nierozstrzygnięty dynamiczny marker `???`. |
+| `ui_choice` | 13 | Wartości zmiennych renderowane dynamicznie. |
+| **Suma** | **5 175** | W tym przeglądzie nie znaleziono dalszej zwykłej angielskiej prozy do tłumaczenia. |
+
+## Historyczne zestawienie wybranych partii (niepełne; nie sumuj jako aktualnego stanu)
 
 | Zakres | Plik(i) | Rekordy z niepustym tłumaczeniem |
 |---|---|---:|
@@ -42,8 +64,7 @@ Poprzedni agent nie wypchnął pracy do Git; została odzyskana z patcha i ZIP-�
 | Teksty telefonu i wartości zmiennych | `phone-and-vars-01.jsonl` | 133 |
 | Typy systemowe | `system-types-01.jsonl` | 34 |
 | Napisy końcowe | `credits-01.jsonl` | 2 |
-| Fragment wiadomości telefonu (ostatnia proza) | `phone-select-item-fragment-01.jsonl` | 1 |
-| **Łącznie w aktualnym scaleniu** |  | **20 610** |
+| **Suma tego historycznego zestawienia** |  | **20 610** |
 
 ## Pierwszy przyrost po step11 — 10 140 draftów, jeszcze niescalony
 
@@ -120,7 +141,7 @@ Po osiągnięciu pierwszego przyrostu dodano jeszcze cztery partie Common Events
 | Map 203 — courtroom, 8 eventów | `custom-dialogue-map203-courtroom-followups-01.jsonl` | 171 |
 | **Suma dalszych partii** | **15 osobnych plików** | **2 521** |
 
-Łącznie po step11 jest teraz **19 321 świeżych, unikalnych ID w 259 plikach**, co daje projekcję **39 931** niepustych tłumaczeń (poprzednio 39 888 przed Map170/133/152/182/199/205/74/118/148/180/193/214/216/218/258/39/112/123/161/164/188). Test sprawdza zgodność wszystkich 2 521 nowych rekordów z eksportem kanonicznym, kompletność, tokeny/placeholdery, brak slash-prefixed komend, brak ID chronionych oraz brak duplikatów i nakładania z wcześniejszymi draftami. Wszystkie 792 zinwentaryzowane wiersze naturalnego tekstu Common Events są już opracowane. Z wcześniejszego roboczego podzbioru map pozostało **0** wierszy po odjęciu Map 6 (137), Map 41 (130), Map 44 (125), Map 96 (126), Map 51 (119), Map 60 (119), Map 200 (129), Map 202 (123), Map 55 (118), Map 121 (118), Map 57 (116), Map 104 (117), Map 108 (116), Map 81 (106), Map 85 (102), Map 24 (101), Map 115 (101), Map 17 (100), Map 35 (100), Map 79 (100), Map 5 (97), Map 56 (95), Map 100 (95), Map 63 (92), Map 83 (90), Map 98 (88), Map 128 (85), Map 158 (85), Map 183 (85), Map 42 (83), Map 70 (83), Map 18 (82), Map 53 (82), Map 120 (81), Map 73 (79), Map 137 (79), Map 257 (77), Map 59 (75), Map 102 (75), Map 43 (74), Map 48 (73), Map 77 (68), Map 47 (67), Map 124 (67), Map 72 (66), Map 240 (66), Map 140 (61), Map 116 (60), Map 153 (58), Map 190 (57), Map 245 (54), Map 109 (51), Map 86 (49), Map 99 (49), Map 204 (48), Map 159 (47), Map 22 (46), Map 217 (46), Map 119 (45), Map 145 (45), Map 105 (44), Map 291 (43), Map 206 (42), Map 7 (41), Map 149 (41), Map 160 (40), Map 132 (39), Map 58 (38), Map 162 (38), Map 267 (38), Map 97 (37), Map 106 (37), Map 64 (36), Map 147 (35), Map 84 (33), Map 127 (33), Map 65 (32), Map 166 (32), Map 107 (31), Map 134 (30), Map 69 (28), Map 95 (26), Map 246 (26), Map 45 (24), Map 122 (24), Map 10 (23), Map 168 (23), Map 179 (23), Map 129 (22), Map 150 (21), Map 185 (20), Map 230 (20), Map 14 (19), Map 103 (18), Map 142 (17), Map 252 (17), Map 126 (16), Map 130 (16), Map 277 (16), Map 139 (15), Map 143 (15), Map 67 (14), Map 172 (14), Map 275 (14), Map 276 (14), Map 131 (13), Map 135 (12), Map 146 (11), Map 136 (10), Map 174 (10), Map 215 (10), Map 24 (111), Map 66 (9), Map 186 (9), Map 282 (9), Map 29 (8), Map 113 (8), Map 68 (7), Map 155 (7), Map 167 (7), Map 181 (7), Map 274 (7), Map 154 (6), Map 169 (6), Map 176 (5), Map 117 (4), Map 156 (4), Map 165 (4), Map 170 (4), Map 133 (3), Map 152 (3), Map 182 (3), Map 199 (3), Map 205 (3), Map 74 (2), Map 118 (2), Map 148 (2), Map 180 (2), Map 193 (2), Map 214 (2), Map 216 (2), Map 218 (2), Map 258 (2), Map 39 (1), Map 112 (1), Map 123 (1), Map 161 (1), Map 164 (1), Map 188 (1) oraz Map 12 (140), Map 19 (185), Map 25 (148), Map 34 (143), Map 52 (135), Map 61 (156), Map 94 (139), Map 101 (142), Map 114 (178), Map 151 (192) i Map 203 (171) — to liczba kandydatów, nie gwarancja, że każdy jest tekstem widocznym dla gracza. Kontynuować tylko faktyczny tekst gracza; nie wypełniać technicznych etykiet ani tokenów sterujących, nawet jeśli końcowy licznik pozostanie poniżej 45 000. Partie wymagają redakcji, są niescalone, a kanoniczny eksport i source ZIP v1 pozostają bez zmian.
+To zestawienie batchy jest historyczne. Audyt 424 plików z tego etapu (przed dodaniem dwóch obecnych batchy) wykazał 39 820 niepustych tłumaczeń; wcześniejsza projekcja 39 931 zawyżała tamten wynik o 111 powtórzonych ID. Obecny wynik i klasyfikację pustych pól podano na początku tego pliku. Nie ma konfliktów między niepustymi wersjami. Wszystkie 792 zinwentaryzowane naturalne wiersze Common Events są opracowane.
 
 ### Kolejne partie — Map 6, 41, 44, 96, 51, 60, 200 i 202 (1 008 draftów)
 
@@ -277,7 +298,7 @@ Po osiągnięciu pierwszego przyrostu dodano jeszcze cztery partie Common Events
 | Map 188 — outside sound, 10 eventów | `custom-dialogue-map188-followups-01.jsonl` | 1 |
 | **Suma nowych partii** | **149 plików** | **6 660** |
 
-Nowe 6 660 ID (885 + 123 + 236 + 349 + 106 + 102 + 202 + 397 + 95 + 95 + 270 + 338 + 83 + 245 + 158 + 152 + 222 + 202 + 253 + 169 + 197 + 184 + 174 + 161 + 151 + 174 + 153 + 146 + 125 + 100 + 86 + 66 + 111 + 50 + 28 + 29 + 43) przeszły audyt zgodności z kanonicznym eksportem, kompletności, tokenów i braku overlapu; buildery odmawiają nadpisania i przechodzą `py_compile`. Projekcja po tych partiach wynosi 39 931 (zweryfikowano 34 156→39 931). Tłumaczenia Map 202/55/121/57/104/108/81/85/24/115/17/35/79/5/56/100/63/83/98/128/158/183/42/70/18/53/120/73/137/257/59/102/43/48/77/47/124/72/240/140/116/153/190/245/109/86/99/204/159/22/217/119/145/105/291/206/7/149/160/132/58/162/267/97/106/64/147/84/127/65/166/107/134/69/95/246/45/122/10/168/179/129/150/185/230/14/103/142/252/126/130/277/139/143/67/172/275/276/131/135/146/136/174/215/24/66/186/282/29/113/68/155/167/181/274/154/169/176/117/156/165/170/133/152/182/199/205/74/118/148/180/193/214/216/218/258/39/112/123/161/164/188 wykonane w pełni LLM-owo w kontekście, z korektą tonu i terminologii, bez automatów.
+Nowe 6 660 ID (885 + 123 + 236 + 349 + 106 + 102 + 202 + 397 + 95 + 95 + 270 + 338 + 83 + 245 + 158 + 152 + 222 + 202 + 253 + 169 + 197 + 184 + 174 + 161 + 151 + 174 + 153 + 146 + 125 + 100 + 86 + 66 + 111 + 50 + 28 + 29 + 43) przeszły audyt zgodności z kanonicznym eksportem, kompletności, tokenów i braku overlapu; buildery odmawiają nadpisania i przechodzą `py_compile`. Późniejszy pełny audyt skorygował projekcję tych partii do 39 820 niepustych tłumaczeń po ID. Tłumaczenia Map 202/55/121/57/104/108/81/85/24/115/17/35/79/5/56/100/63/83/98/128/158/183/42/70/18/53/120/73/137/257/59/102/43/48/77/47/124/72/240/140/116/153/190/245/109/86/99/204/159/22/217/119/145/105/291/206/7/149/160/132/58/162/267/97/106/64/147/84/127/65/166/107/134/69/95/246/45/122/10/168/179/129/150/185/230/14/103/142/252/126/130/277/139/143/67/172/275/276/131/135/146/136/174/215/24/66/186/282/29/113/68/155/167/181/274/154/169/176/117/156/165/170/133/152/182/199/205/74/118/148/180/193/214/216/218/258/39/112/123/161/164/188 wykonane w pełni LLM-owo w kontekście, z korektą tonu i terminologii, bez automatów.
 
 Wcześniejsze wersje partii pozostają dla historii, ale nie należy ich scalać razem z nowszymi zamiennikami: używaj `inventory-names-02`, `native-messages-03` i `phone-contact-ui-02`, nie ich wcześniejszych wariantów. Batch `map-labels-01.jsonl` został już uwzględniony w `inventory-names-02.jsonl`. Sceny obejmują 13 wcześniejszych i 7 kolejnych plików; aktualny zestaw zawiera Common Event 25, 15 scen Common Events ze step10 oraz 50 follow-upów Common Events ze step11 (2 730 wierszy), a także dialog Map 20/31, eventy Map 3 (22, 31, 37, 39, 41, 45, 47, 56; sensowny dialog Map 3 jest pokryty) i follow-upy Map 23/24/9/116, pierwsze partie Map 41/55/44/82/54/6/26 i 57 Common Events oraz 21 nowszych partii map wyszczególnionych powyżej. Wszystkie partie pozostają do redakcji; znaczniki komend/statusów nie są tłumaczone na ślepo.
 

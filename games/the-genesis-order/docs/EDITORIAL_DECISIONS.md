@@ -17,21 +17,23 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 - **Stan:** w `drafts/visible-name-l10n-01.jsonl` tytuł (`system.gameTitle`) to **„Zakon Genesis”**. Wcześniejszy glosariusz roboczo zakładał zachowanie oryginału jako nazwy marki.
 - **Uzasadnienie tłumaczenia:** „the Genesis Order” to w fabule nazwa zakonu (organizacji), nie tylko tytuł produktu — więc tłumaczenie jest merytorycznie obronne.
 - **Ryzyko:** tytuł widoczny na oknie gry i w menu; gracze szukają gry po angielskiej nazwie. Część wydawców zostawia tytuł, część tłumaczy.
-- **Do decyzji:** A) „Zakon Genesis” (stan obecny), B) „The Genesis Order” bez zmian, C) hybryda „The Genesis Order — Zakon Genesis” (wymaga sprawdzenia, czy pole mieści taki tekst).
-- **Koszt zmiany:** jeden rekord + przebudowa patcha i Czytanki (~10 s każda, deterministyczne).
+- **Niespójność w korpusie (POTWIERDZONE):** w scenie „SCN - Ending” zdanie `The Genesis Order will continue being updated on the 2nd and 15th…` zostaje z angielską nazwą („The Genesis Order będzie nadal otrzymywać aktualizacje…”). Jeśli zostaje „Zakon Genesis”, ta linia jest jedynym miejscem, gdzie tytuł nadal brzmi po angielsku — trzeba ją zmienić razem z `gameTitle`.
+- **Do decyzji:** A) „Zakon Genesis” + poprawka zdania z „SCN - Ending”, B) „The Genesis Order” bez zmian (spójne z tą linią i z decyzją R-02 o marce), C) hybryda „The Genesis Order — Zakon Genesis” (wymaga sprawdzenia, czy pole mieści taki tekst).
+- **Koszt zmiany:** 1–2 rekordy + przebudowa patcha i Czytanki (deterministyczna, ~10 s każda przy dostępnych źródłach).
 
 ## R-02 — `Channel 4` jako marka
 
-- **Stan:** POTWIERDZONE — nowsze partie zostawiają `Channel 4` bez zmian; starsza wersja miała „Kanał 4”. Uzgodnione na wersji bez tłumaczenia, konfliktów brak.
-- **Uzasadnienie:** to w świecie gry nazwa stacji telewizyjnej, prawdopodobnie nawiązanie do realnego kanału; tłumaczenie gubi aluzję.
-- **Do decyzji:** potwierdzić `Channel 4` (stan obecny) albo przywrócić „Kanał 4”.
-- **Uwaga:** ta sama nazwa może występować w dialogach jako tekst mówiony — wtedy odmiana przez przypadki wymagałaby formy „na Kanale 4” itd. Sprawdzone: w korpusie nie ma odmienionych wystąpień.
+- **Stan (POTWIERDZONE, sprawdzone w korpusie):** we **wszystkich** 63 przetłumaczonych wystąpieniach zostaje `Channel 4` (np. „Musisz iść do wieżowca Channel 4.”), a etykieta mapy to dosłownie `Channel 4`. W plikach draftów **nie ma już ani jednego** „Kanał 4” — starszy wariant z `inventory-names-01.jsonl` został zastąpiony podczas uzgodnienia 40 etykiet.
+- **Uzasadnienie:** to nazwa stacji telewizyjnej w świecie gry, prawdopodobnie nawiązanie do realnego kanału; tłumaczenie gubi aluzję.
+- **Do decyzji:** potwierdzić `Channel 4` (stan obecny) albo przywrócić „Kanał 4” (wtedy trzeba też poprawić 63 zdania, gdzie nazwa pełni funkcję rzeczownika).
+- **Uwaga:** nazwa wchodzi do polskich zdań w formie nieodmienionej („w wieżowcu Channel 4”, nie „w wieżowcu Kanale 4”). To spójne z decyzją R-09 o formach bazowych, ale jest odczuwalne stylistycznie.
 
-## R-03 — 40 etykiet map (`map_label`)
+## R-03 — Etykiety map (wszystkie 291, w tym 40 przepisanych)
 
-- **Stan:** POTWIERDZONE — `drafts/inventory-names-01.jsonl` zawiera 40 przepisanych etykiet (bajt w bajt zgodnych z PR #5), m.in. `PRE TITLE` → „PRZED EKRANEM TYTUŁOWYM”, `MC Home` → „Dom bohatera”, `Strip Center` → „Centrum handlowe”, `Foyer` → „Hol wejściowy”, `Storage` → „Magazyn”, `Police Station` → „Komisariat policji”.
-- **Charakter:** etykiety widać w grze na ekranie mapy/przejść, więc to tekst gracza; ale część z nich to nazwy robocze dewelopera (`PRE TITLE`, `TEST MAP`), których gracz może nigdy nie zobaczyć.
-- **Do decyzji:** A) zostawić tłumaczenia wszystkich 40 (stan obecny), B) przywrócić robocze nazwy tam, gdzie mapa jest nieosiągalna, C) punktowo — właściciel wskazuje, które mapy są widoczne.
+- **Stan (POTWIERDZONE):** `drafts/inventory-names-01.jsonl` zawiera **wszystkie 291** etykiet map: **288** przetłumaczonych, **3** bez zmian (`Channel 4`, `START`, `Test`). W ostatnim uzgodnieniu przepisano **40** etykiet — plik jest bajt w bajt zgodny z wersją z PR #5.
+- **Przykłady przepisanych:** `PRE TITLE` → „PRZED EKRANEM TYTUŁOWYM”, `MC Home` → „Dom bohatera”, `Strip Center` → „Centrum handlowe”, `Foyer` → „Hol wejściowy”, `Storage` → „Magazyn”, `Police Station` → „Komisariat policji”.
+- **Charakter:** etykiety widać na ekranie mapy/przejść, więc to tekst gracza; ale część z nich to nazwy robocze dewelopera (`PRE TITLE`, `TEST MAP` → „MAPA TESTOWA”), których gracz może nigdy nie zobaczyć.
+- **Do decyzji:** A) zostawić wszystkie 288 tłumaczeń (stan obecny), B) przywrócić robocze nazwy tam, gdzie mapa jest nieosiągalna, C) punktowo — właściciel wskazuje mapy widoczne w grze.
 - **Uwaga:** 70 z 291 map jest nieosiągalnych w statycznym BFS od startu (`reading/v1/README_PL.md`), więc część etykiet może być martwa — ale BFS jest przybliżony, nie dowodem.
 
 ## R-04 — „Craft this item?”: „Wytworzyć ten przedmiot?” czy „Wytworzyć przedmiot?”
@@ -50,28 +52,41 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 
 ## R-06 — `He’s going to be` → „Będzie”
 
-- **Stan:** POTWIERDZONE — fragment zdania telefonu, kontynuacja wcześniejszej linii „Wkurzony, kumasz?”; w korpusie „Będzie”.
+- **Stan (POTWIERDZONE, kolejność sprawdzona w evencie):** to **pierwsza** z dwóch linii wiadomości w wątku `M. Deluna` — kolejno „He’s going to be<br>” → **„Będzie<br>”** i „pissed, ya know?” → „Wkurzony, kumasz?”. Razem czytają się jako „Będzie wkurzony, kumasz?”.
 - **Alternatywa:** „On będzie” (bliżej składni angielskiej, ale w polskim zaimka się nie powtarza).
 - **Do decyzji:** A) „Będzie” (stan obecny), B) „On będzie”.
-- **Uwaga:** linia jest dzielona między dwa rekordy — przy zmianie trzeba zachować spójność z poprzednim fragmentem.
+- **Uwaga:** linia jest dzielona między dwa rekordy — przy zmianie trzeba zachować spójność z **następnym** fragmentem („Wkurzony, kumasz?”), bo razem tworzą jedno zdanie.
 
 ## R-07 — Placeholdery mapy testowej
 
-- **Stan:** 7 × `Text goes here<br>…` → „Tekst w tym miejscu<br>…”. To jawnie renderowane wypełniacze z TEST MAP.
+- **Stan (POTWIERDZONE):** 7 rekordów `native_message` z **TEST MAP, EV001**, każdy `Text goes here<br>` → „Tekst w tym miejscu<br>”. To jawnie renderowane wypełniacze dewelopera.
 - **Dylemat:** tłumaczenie placeholdera dewelopera to praca bez wartości gracza; z drugiej strony jeśli mapa jest osiągalna, gracz zobaczy polski tekst.
 - **Do decyzji:** A) zostawić tłumaczenie (stan obecny), B) przywrócić angielskie wypełniacze, C) zostawić tylko tam, gdzie mapa jest osiągalna.
 
-## R-08 — `TEXT` → „TEKST” w kanale telefonu
+## R-08 — `TEXT` → „TEKST” (mapa TEST MAP)
 
-- **Stan:** dosłowny literał kanału telefonu przetłumaczony.
-- **Ryzyko (HIPOTEZA):** jeśli ten literał jest kluczem dopasowywanym przez kod gry (a nie tylko etykietą), zmiana może zepsuć logikę. Nie ma lokalnie kodu gry, więc tego nie sprawdzono.
-- **Do decyzji:** A) zostawić „TEKST”, B) przywrócić `TEXT` z ostrożności, C) sprawdzić w runtime na kopii gry i wrócić do tematu.
+- **Stan (POTWIERDZONE):** literał `TEXT` to `phone_text` z **TEST MAP, EV021** — czyli stub mapy testowej, nie element produkcyjnego UI. Przetłumaczony na „TEKST”.
+- **Ryzyko (HIPOTEZA, niskie):** gdyby ten literał był kluczem dopasowywanym przez kod gry, zmiana mogłaby zepsuć logikę testową. Kod gry nie jest lokalnie dostępny, więc nie sprawdzono; skoro to mapa testowa, skutek byłby ograniczony.
+- **Do decyzji:** A) zostawić „TEKST”, B) przywrócić `TEXT` razem z R-07 (oba są stubami TEST MAP), C) sprawdzić w runtime i wrócić do tematu.
 
-## R-09 — Odmiana imion i nazw własnych
+## R-09 — Odmiana imion: **korpus jest niespójny** (największy dług redakcyjny)
 
-- **Stan:** imiona pozostają w formie bazowej (`Erica`, `Arianna`, `Toma`, `Lilith`, `Daemalius`, `Anachorismos`), zgodnie z glosariuszem.
-- **Konsekwencja:** w polskich zdaniach pojawiają się formy nieodmienione („z Erica”, „do Lilith”). To świadomy kompromis — odmiana wymagałaby ręcznej redakcji każdego zdania i rodzi ryzyko niespójności w 39 tysiącach rekordów.
-- **Do decyzji:** A) zostawić formy bazowe (stan obecny), B) wprowadzić odmianę w dialogach (duży nakład, ryzyko regresji), C) odmieniać tylko w narracji Czytanki, nie w grze.
+- **Stan (POTWIERDZONE, policzone w korpusie):** imiona zakończone na `-a` są odmieniane **tylko w części** wystąpień — reszta zostaje w mianowniku. To nie jest decyzja, a skutek pracy w partiach.
+
+| Imię | Wystąpień | Mianownik | Odmienione | % odmienionych |
+|---|---:|---:|---:|---:|
+| Erica | 318 | 178 | 140 | 44% |
+| Andrea | 294 | 186 | 108 | 37% |
+| Ella | 263 | 175 | 88 | 33% |
+| Melissa | 185 | 139 | 46 | 25% |
+| Arianna | 87 | 61 | 26 | 30% |
+| Toma | 176 | 88 | 88 | 50% |
+| Diana | 53 | 42 | 11 | 21% |
+
+- **Konsekwencja:** w korpusie występują obok siebie „Klucz do głównej sypialni **Andrei**” i „z **Andrea**”, „Zgubiony telefon **Elli**” i „do **Ella**”. Dla gracza to odczuwalna niekonsekwencja.
+- **Imiona bez odmiany:** `Chloe`, `Lilith`, `Carol`, `Hannah`, `Judy` — **0** form odmienionych (449/106/325/606/514 wystąpień). Dla żeńskich imion na spółgłoskę to poprawna polszczyzna; dla `Hannah` możliwa jest forma „Hanny”, ale nie jest wymagana.
+- **Do decyzji:** A) ujednolicić mianownik wszędzie (mechanicznie, tanio, ale brzmi obco w 30–50% zdań), B) ujednolicić odmianę imion na `-a` (poprawna polszczyzna, wymaga przejrzenia ~1 400 wystąpień), C) zostawić jak jest i potraktować jako znane ograniczenie POC.
+- **Rekomendacja agenta:** B. Zakres jest policzalny (tabela wyżej), a to najbardziej rzucająca się w oczy wada istniejącego przekładu — nie wymaga ponownego tłumaczenia, tylko redakcji form.
 
 ## R-10 — `WoNoChurch` → „WoNo — kościół”
 
@@ -91,14 +106,14 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 
 | ID | Temat | Rekomendacja agenta |
 |---|---|---|
-| R-01 | Tytuł gry | wariant B lub C — tytuł to marka, ale nazwa zakonu jest fabularna |
+| R-01 | Tytuł gry | wariant B (oryginał) — spójny z R-02 i z linią „SCN - Ending”; jeśli A, to poprawić też tę linię |
 | R-02 | `Channel 4` | zostawić markę |
 | R-03 | 40 etykiet map | zostawić, potem punktowo wyciszyć martwe mapy |
 | R-04 | Crafting — pytanie | „Wytworzyć przedmiot?” (krótsze) |
 | R-05 | Crafting — błąd | stan obecny |
 | R-06 | Telefon | „Będzie” |
 | R-07 | Placeholdery | przywrócić angielskie (brak wartości gracza) |
-| R-08 | `TEXT`/`TEKST` | sprawdzić w runtime przed zmianą |
-| R-09 | Odmiana imion | formy bazowe |
+| R-08 | `TEXT`/`TEKST` (TEST MAP) | przywrócić `TEXT` razem z R-07 — to stuby mapy testowej |
+| R-09 | Odmiana imion | **ujednolicić odmianę imion na `-a`** (dziś 21–50% form odmienionych, reszta w mianowniku) |
 | R-10 | `WoNoChurch` | „Kościół WoNo” |
 | R-11 | Fonty | **zbadać przed publikacją** — blokuje sens całości |
