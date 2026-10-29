@@ -24,6 +24,10 @@ Zasady, których nie wolno „poprawiać” w drugą stronę: pierwsza osoba bie
 2. **Czytanka PL v1:** katalog `reading/v1/`, standalone ZIP `translation/packages/TGO_readalong_PL_v1.zip`, SHA-256 `ea11cdeb56f014e970a7d871cd01fb28f595f4610012ed06be21c5ca834c3085`. Zawiera pełny skrypt, **4 394** osobne epizody i `reading_order.tsv` (4 134 map/event/page + 260 Common Events), a także indeks 55 mówców i 291 lokacji. Uwzględnia statycznie rozpoznanych mówców, warunki, rozgałęzienia, wybory i jawne placeholders dla danych dynamicznych. Mówcy niepewni są oznaczeni, nigdy zgadywani.
 3. **Ograniczenie chronologii:** BFS od mapy startowej 38 znajduje potencjalne ścieżki do **221/291** map, bez ewaluacji warunków/przełączników/runtime. Common Events sortowane są według pierwszego statycznego wywołania. README Czytanki ostrzega, że kolejność jest przybliżona, a nie kanoniczna; sceny opcjonalne mogą być poza kolejnością pojedynczego przejścia.
 
+## Publikacja na Google Drive
+
+Folder `TGO/translation/packages/` (`1FYzfQsDJKBaI_GBjlA8qhtS9I9h5_5KM`): patch `1I_IAEk7lqvXTlBbWWiHKIJJHbA12VF6L` (MD5 `f334eb89…`) + sidecar `1t3ppvwrEAy5pzP7TyO7sfwaUCpIqNfdg`, Czytanka `1eUuZTR2LM1ZJtmYkUpQPecI4iwKjr_mv` (MD5 `939a1646…`) + sidecar `1gE35EpQ8eGtz94oElvNXjYDpFjN3fHO_`. MD5 na Drive zgadzają się z plikami w Git; poprzednie wydania są w koszu. Przy każdej przebudowie paczek **podmień też sidecar** — stary `.sha256` obok nowego ZIP-a jest gorszy niż brak pliku.
+
 ## Źródła / odtwarzanie
 
 Statyczne źródła gry są w ignorowanym `google_drive/tgo_source/`; drafty i canonical export są śledzone w repo. Nie zmieniaj `export-v1/` i nie zapisuj merge nad draftami. Patcher i Czytankę odtwarzaj do pustych ścieżek (narzędzia celowo odmawiają nadpisywania):

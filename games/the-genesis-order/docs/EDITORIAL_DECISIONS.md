@@ -175,6 +175,7 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 - **Zasada:** kobieta mówi o sobie po żeńsku, mężczyzna po męsku; o kobiecie mówi się po żeńsku. To nie styl, tylko poprawność gramatyczna — nie podlega redakcyjnemu „widzimisię”.
 - **Źródło rodzaju:** pierwsza osoba → płeć mówcy z `custom_header`; druga osoba → płeć adresata, przyjmowana wyłącznie przy jednoznacznej obsadzie sceny; trzecia osoba → tylko gdy imię wprost rządzi czasownikiem.
 - **Czego nie robimy:** nie zgadujemy płci przy kwestiach bez mówcy, w scenach mieszanych ani przy „sam/sama”. Te przypadki są w `GENDER_AUDIT.md` jako materiał do QA, nie do automatycznej zmiany.
+- **Uzupełnienie 2026-10-30 (orzeczniki przymiotnikowe):** „Jestem pewien/pewna” idzie za mówcą; przymiotnik podporządkowany rzeczownikowi zostaje („jedyną osobą”); adresata drugiej osoby bierzemy tylko z dowodu w zdaniu (wołacz, `1Hero`), nigdy z obsady sceny.
 - **Status:** [POTWIERDZONE] 618 rekordów / 679 form poprawionych (m.in. Judy „Nie jestem tego pewna”), 0 przeciwnych form w znanych rolach, idempotencja; [NIEZWERYFIKOWANE] odbiór całości w grze — do sprawdzenia przy pełnym przejściu.
 - **Uzupełnienie 2026-10-30 (orzeczniki):** przymiotnik po `jestem/jesteś/będę/czuję się` bierze rodzaj mówcy (lub adresata), ale **tylko** gdy nie rządzi nim rzeczownik — „jestem jedyną osobą” zostaje, bo „osoba” jest żeńska niezależnie od mówcy. Pary przymiotnikowe są zamkniętą, przejrzaną listą.
 
