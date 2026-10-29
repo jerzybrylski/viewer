@@ -346,11 +346,11 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 1.
 
-**Andrea:** Nie widzisz, że jestem zajęty?  
+**Andrea:** Nie widzisz, że jestem zajęta?  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 2.
 
-**Andrea:** Odejdź! Jestem zajęty.  
+**Andrea:** Odejdź! Jestem zajęta.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 3.
 
@@ -358,7 +358,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 1.
 
-**Andrea:** Jestem zajęty. Wróć później.  
+**Andrea:** Jestem zajęta. Wróć później.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 2.
 
@@ -1368,7 +1368,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 2.
 
-**Brian:** Jestem zajęta. Wróć później.  
+**Brian:** Jestem zajęty. Wróć później.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 
@@ -1693,7 +1693,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 1.
 
-**Heather:** Nie teraz. Jestem zajęty.  
+**Heather:** Nie teraz. Jestem zajęta.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 2.
 
@@ -1889,7 +1889,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 1.
 
-**Melissa:** Wróć później. Jestem teraz zajęty.  
+**Melissa:** Wróć później. Jestem teraz zajęta.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 2.
 
@@ -2290,7 +2290,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 2.
 
-**Judy:** Jestem teraz zajęty. Możesz wrócić później?  
+**Judy:** Jestem teraz zajęta. Możesz wrócić później?  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 
@@ -2478,7 +2478,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 3.
 
-**Nellie:** Nie teraz! Jestem zajęty.  
+**Nellie:** Nie teraz! Jestem zajęta.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 4.
 
@@ -2486,7 +2486,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 1.
 
-**Nellie:** Wróć później. Jestem teraz zajęty.  
+**Nellie:** Wróć później. Jestem teraz zajęta.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 2.
 
@@ -2666,7 +2666,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 3.
 
-**Kimberly:** Nie teraz! Jestem zajęty.  
+**Kimberly:** Nie teraz! Jestem zajęta.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 1.
 
@@ -3057,7 +3057,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 3.
 
-**Tasha:** Nie teraz. Jestem zajęty.  
+**Tasha:** Nie teraz. Jestem zajęta.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 1.
 
@@ -4454,7 +4454,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 4.
 
-**Alia:** Nie teraz. Jestem zajęty.  
+**Alia:** Nie teraz. Jestem zajęta.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 1.
 
@@ -6076,7 +6076,7 @@
 **Mox:** Co dokładnie się stało, gdy policja przeszukała rezydencję?  
 **David:** Nie wiem dokładnie. Wygląda jednak na to, że prawnicy Charlesa wyciągnęli go z tarapatów.  
 **Mox:** Jeśli jest coś jeszcze, zadzwoń bezpośrednio do mnie. Chcę mieć jak najwięcej informacji.  
-**David:** Bylebym nie musiała opuszczać biura.  
+**David:** Bylebym nie musiał opuszczać biura.  
 
 ---
 
@@ -6390,7 +6390,7 @@
 ## Mapa 033 — Wschodnie skrzydło / event 45 / strona 1
 
 **Melissa:** W samą porę.  
-**Mox:** Nie mów, że powiedziałeś Andrei.  
+**Mox:** Nie mów, że powiedziałaś Andrei.  
 **Melissa:** Nie będziemy niczego ukrywać przed panią komisarz.  
 **Melissa:** Pani Kimura.  
 **Andrea:** /order  
@@ -6402,7 +6402,7 @@
 
 **Melissa:** Tym razem naprawdę spieprzyłeś sprawę, Mox.  
 **Mox:** Nie musisz mi tego wypominać… Andrea mnie zwolniła.  
-**Melissa:** Szczerze mówiąc, spodziewałem się, że ci odpuści.  
+**Melissa:** Szczerze mówiąc, spodziewałam się, że ci odpuści.  
 **David:** Przez ciebie muszę dziś iść do Channel 4 i udzielić wywiadu.  
 **Mox:** Od początku to była twoja sprawa. Nie powinieneś się cieszyć?  
 **David:** Nie, jeśli oznacza to więcej pracy.  
@@ -6512,7 +6512,7 @@
 **Mox:** Ma pewne kłopoty i musi zostać w bezpiecznym miejscu.  
 **David:** Tak nie działa program ochrony świadków.  
 **Mox:** I tak nigdy nie wychodzisz z biura… Po prostu zostań tu z nią.  
-**David:** Bylebym nie musiała opuszczać biura.  
+**David:** Bylebym nie musiał opuszczać biura.  
 **Judy:** Przepraszam, że sprawiam kłopot.  
 **Mox:** David jest zrzędliwy, ale przeżyje.  
 **David:** Witaj, Judy.  
@@ -6705,7 +6705,7 @@
 **Arianna:** Półdemon? Takie istoty wciąż istnieją na Ziemi?  
 **Mox:** Najwyraźniej. Widziałem, jak się teleportowała.  
 **Arianna:** To niezwykle rzadkie. Półdemony potrzebują naczyń.  
-**Arianna:** Nie miałem pojęcia, że takie istoty wciąż istnieją.  
+**Arianna:** Nie miałam pojęcia, że takie istoty wciąż istnieją.  
 **Mox:** Czym jest takie naczynie?  
 **Arianna:** Potomstwo demona i człowieka rodzi się bez duszy.  
 **Arianna:** Dawno temu demoniczne idole wysysały dusze z bezbronnych ludzi, umożliwiając armii demonów swobodne chodzenie po ziemi.  
@@ -9653,7 +9653,7 @@
 **Melissa:** Mówiłeś, że ją widziałeś, prawda?  
 **Mox:** Tak, po prostu nie sądziłem, że potraktujesz to poważnie.  
 **Melissa:** Co to, do cholery, ma znaczyć?  
-**Mox:** Po prostu powiedz, czego się dowiedziałeś.  
+**Mox:** Po prostu powiedz, czego się dowiedziałaś.  
 **Melissa:** Zephaniah może mieć związek z Madalyn.  
 **Mox:** Kto?  
 **Melissa:** Były ksiądz z katedry w Eve.  
@@ -9714,7 +9714,7 @@
 **Arianna:** Masz wielką charyzmę, ale pewność siebie sprowadzi cię na manowce.  
 **Mox:** Tak myślisz?  
 **Arianna:** Mam nosa do takich rzeczy.  
-**Mox:** Cholera… Tak skupiłam się na rozpracowaniu Gildii, że mogłam nadepnąć Andrei na odcisk.  
+**Mox:** Cholera… Tak skupiłem się na rozpracowaniu Gildii, że mogłem nadepnąć Andrei na odcisk.  
 **Arianna:** Czasem warto się zatrzymać i spojrzeć na las, a nie tylko drzewa.  
 **Mox:** Trudno bezczynnie siedzieć i nic nie robić.  
 **Arianna:** Poszukiwanie jasności nie jest stratą czasu, Mox.  
@@ -9752,7 +9752,7 @@
 
 **Mox:** Ktoś dzwoni…  
 **Mox:** Halo?  
-**Erica:** Mox, chyba coś znalazłem.  
+**Erica:** Mox, chyba coś znalazłam.  
 **Mox:** O co chodzi?  
 **Erica:** Sprzątałam kuchnię i z jednej ze ścian dobiegał bardzo dziwny dźwięk.  
 **Mox:** To kuchnia. Może to rury, a nie ściana?  
@@ -9783,7 +9783,7 @@
 **Arianna:** Raczej nie. Demony nie mogą tak po prostu przenieść się na Ziemię…  
 **Arianna:** Potrzebowałyby naczyń, które mogłyby opętać.  
 **Mox:** Jak to działa?  
-**Arianna:** Nie martwiłbym się tym. W twoim świecie nie ma już naczyń…  
+**Arianna:** Nie martwiłabym się tym. W twoim świecie nie ma już naczyń…  
 **Arianna:** Cóż… Z wyjątkiem Madalyn.  
 **Mox:** Czy możesz stworzyć więcej naczyń?  
 **Arianna:** To nie takie proste, Mox. O ile wiem, to niemożliwe.  
@@ -9819,7 +9819,7 @@
 **Arianna:** To nie anioł, Mox! To demon!  
 **Mox:** Widziałem to we śnie. Widziałem kawałek Tomy.  
 **Arianna:** Ludzkie umysły łatwo ulegają zepsuciu. Ale jak demon mógł wpłynąć na twój sen?...  
-**Mox:** Ja też słyszałam głosy w rezydencji… Brzmiało to naprawdę upiornie.  
+**Mox:** Ja też słyszałem głosy w rezydencji… Brzmiało to naprawdę upiornie.  
 **Arianna:** To wszystko jest dla mnie bardzo zagmatwane. Zasady w twoim świecie są zupełnie inne niż w moim.  
 **Mox:** Jak myślisz, co to wszystko oznacza?  
 **Arianna:** Wygląda na to, że znalazłeś się pod wpływem demona…  
@@ -9840,7 +9840,7 @@
 **Narrator / mówca nieustalony:** Połączenie przychodzące  
 **Mox:** Andrea? W weekend?  
 **Mox:** Halo?  
-**Andrea:** Paula? Widziałaś Paula?  
+**Andrea:** Paula? Widziałeś Paula?  
 **Mox:** Panno Kimura. Ja i drugi funkcjonariusz skonfrontowaliśmy go w rezydencji.  
 **Andrea:** Czemu nie zadzwoniłeś do mojego biura?  
 **Mox:** Ja…  
@@ -9979,7 +9979,7 @@
 **Mox:** Tak.  
 **Arianna:** Mox! To symbol satanizmu!  
 **Mox:** Naprawdę cię to dziwi? Rezydencją rządzi półdemon.  
-**Arianna:** A już myślałem, że masz jakieś dobre wieści.  
+**Arianna:** A już myślałam, że masz jakieś dobre wieści.  
 **Mox:** Jak myślisz, co to znaczy?  
 **Arianna:** To znaczy, że demon chce użyć tych kawałków Tomy w jakimś satanistycznym rytuale.  
 **Mox:** Masz jakiś pomysł, do czego posłuży ten rytuał?  
@@ -10069,7 +10069,7 @@
 **Mox:** Do tego sprawy z Kimberly się komplikują.  
 **Arianna:** Nie zbaczaj z drogi, Mox. Pan cię poprowadzi.  
 **Mox:** Arianno… Kto jest matką ludzkości?  
-**Arianna:** Słyszałem, że matką ludzkości jest Ewa.  
+**Arianna:** Słyszałam, że matką ludzkości jest Ewa.  
 **Mox:** Lillian twierdzi, że jest matką wszystkich.  
 **Arianna:** Jeśli nie jest Ewą, kłamie. Tylko Ewa może nosić ten tytuł.  
 **Mox:** Jest w tej sprawie uparta jak diabli… i oczarowuje każdego, kogo spotyka.  
@@ -10368,7 +10368,7 @@
 **Arianna:** Ma armię?  
 **Mox:** Są uwięzieni w piekle… Ale…  
 **Mox:** Lillian to Lilith!  
-**Arianna:** Nie wiedziałaś?  
+**Arianna:** Nie wiedziałeś?  
 **Mox:** Oczywiście, że nie wiedziałem! Przecież to demon!  
 **Arianna:** Ma na imię Lillian. To nie było oczywiste?  
 **Mox:** Co!? Oczywiste?... Skąd miałem to wiedzieć!  
@@ -10753,7 +10753,7 @@
 **Erica:** Mox! Rezydencja została przeczesana.  
 **Mox:** Tak, wiem. Nic ci nie jest?  
 **Erica:** Nic mi nie jest, ale wygląda na to, że znowu mnie przesłuchują…  
-**Erica:** I Lillian… Zniknęła. Nie widziałem jej.  
+**Erica:** I Lillian… Zniknęła. Nie widziałam jej.  
 **Funkcjonariusz B:** Spadaj stąd, Mox. Nie jesteś już detektywem.  
 **Mox:** Erica… Ojciec Solomon potrzebuje twojej pomocy.  
 **Erica:** Hę?  
@@ -11351,7 +11351,7 @@
 **Mox:** Brzmi jak dobry plan.  
 **Mox:** Andreo!?  
 **Andrea:** Mox? Co ty tu, do cholery, robisz?  
-**Mox:** Sprawdzałam, jak idą przesłuchania.  
+**Mox:** Sprawdzałem, jak idą przesłuchania.  
 **Andrea:** Muszę z tobą porozmawiać. Natychmiast!  
 **Mox:** Eee… dobrze.  
 **Andrea:** /order  
@@ -11410,7 +11410,7 @@
 
 **Melissa:** Puścili cię?  
 **Mox:** Bobby za mnie poręczył.  
-**Melissa:** Nie spodziewałbym się tego.  
+**Melissa:** Nie spodziewałabym się tego.  
 **Mox:** Widziałaś Henry’ego… Albo Dianę?  
 **Melissa:** Musieli jakoś uciec.  
 **Mox:** Miejmy nadzieję.  
@@ -11708,7 +11708,7 @@
 **Melissa:** Co?! Dosłownie spuściłeś się na kobiecie w pokoju przesłuchań!  
 **Mox:** A ty robiłaś sobie dobrze, myśląc o podwładnym!  
 **Melissa:** Nic takiego nie robiłam!  
-**Mox:** Widziałem wszystko! Nie kłam!  
+**Mox:** Widziałem wszystko! Nie kłem!  
 **Melissa:** Idę do domu.  
 **Mox:** Teraz, kiedy doszłaś?  
 **Melissa:** Argh!!  
@@ -11757,7 +11757,7 @@
 **Andrea:** Najlepsza rada, jakiej mogę udzielić tobie i twoim znajomym, brzmi: trzymajcie się z daleka… bardzo daleka.  
 **Melissa:** Tak, panno Kimura. Rozumiemy.  
 **Andrea:** Jesteś na cienkim lodzie, Mox.  
-**Mox:** Po co, do cholery, jej o tym powiedziałeś?  
+**Mox:** Po co, do cholery, jej o tym powiedziałaś?  
 **Melissa:** Nie będę ryzykować pracy, żebyś mógł bawić się w bohatera w sprawie, która do ciebie nie należy.  
 **Mox:** Po prostu chronię niewinnych ludzi.  
 **Melissa:** Bzdura. Chodzi tylko o ciebie.  
@@ -11781,7 +11781,7 @@
 **Mox:** Myślę, że od bardzo dawna współpracuje z Gildią.  
 **Melissa:** I jednocześnie jest komisarzem policji? Uważasz, że to możliwe?  
 **Mox:** Duncan Helmer powiedział mi, że nazywa się Vayne.  
-**Melissa:** Już słyszałem to nazwisko. Czy w tajnych aktach Charlesa Wilkesa nie było czegoś o Vayne Stone?  
+**Melissa:** Już słyszałam to nazwisko. Czy w tajnych aktach Charlesa Wilkesa nie było czegoś o Vayne Stone?  
 **Mox:** Możesz sprawdzić, co da się znaleźć?  
 **Melissa:** Nie tutaj… Namierzą, że to ja.  
 **Mox:** Mamy pendrive Andrei… Możesz to sprawdzić u siebie?  
@@ -12425,7 +12425,7 @@
 **Jon:** Nie martw się. Potrzebuję tylko dobrego zwiadowcy… Spójrz na to…  
 **Mox:** To rzeka… i strumień przy farmie Carol.  
 **Jon:** Rozpoznajesz to miejsce?  
-**Mox:** To znaczy… Może… Nie jestem pewna.  
+**Mox:** To znaczy… Może… Nie jestem pewien.  
 **Erica:** Zobaczmy, co uda nam się znaleźć.  
 **Mox:** My?  
 **Erica:** Nie chcesz tego sprawdzić?  
@@ -12672,7 +12672,7 @@
 
 **Ella:** /greet  
 **Mox:** /greet  
-**Ella:** Nie widziałem jeszcze nic podejrzanego.  
+**Ella:** Nie widziałam jeszcze nic podejrzanego.  
 
 ---
 
@@ -12861,7 +12861,7 @@
 **Chloe:** Co u ciebie, Mox? Pracujesz w niedzielę?  
 **Mox:** Przyznaję się.  
 **Judy:** Chloe opowiedziała mi o twojej sprawie.  
-**Chloe:** Siostro Judy! Mówiłem, żebyś nic nie mówiła.  
+**Chloe:** Siostro Judy! Mówiłam, żebyś nic nie mówiła.  
 **Judy:** Przepraszam. Nie potrafię kłamać.  
 **Mox:** W porządku. Ufam wam obojgu.  
 **Judy:** Wiesz, Mox, kiedy studiowałam na Saint Dame University, byłam blisko z Madalyn.  
@@ -12952,11 +12952,11 @@
 **Chloe:** Mox. Może możesz nam pomóc.  
 **Mox:** Co się stało?  
 **Brian:** Chodzi o siostrę Judy.  
-**Brian:** Wróciłam z zakupów i wygląda na to, że zniknęła.  
+**Brian:** Wróciłem z zakupów i wygląda na to, że zniknęła.  
 **Chloe:** Nie sądzisz, że grozi jej niebezpieczeństwo?  
 **Brian:** Nie wyciągajmy pochopnych wniosków.  
 **Mox:** Sprawdziłaś już cały kościół?  
-**Brian:** Sprawdziłam. Ale poszukam jeszcze raz.  
+**Brian:** Sprawdziłem. Ale poszukam jeszcze raz.  
 **Mox:** Pomogę ci jej szukać.  
 **Chloe:** Proszę, znajdź ją.  
 **Mox:** /solve  
@@ -13280,7 +13280,7 @@
 **Mox:** /showsolve  
 **Brian:** /thanks  
 **Brian:** Świetnie rozwiązujesz problemy.  
-**Chloe:** Wiedziałem, że znajdziesz sposób, żeby to naprawić.  
+**Chloe:** Wiedziałam, że znajdziesz sposób, żeby to naprawić.  
 **Brian:** Chodź, Mox. Pomogę ci to zamontować.  
 
 ---
@@ -13345,7 +13345,7 @@
 
 **Mox:** Nellie? Co tu robisz?  
 **Nellie:** Tylko mam na ciebie oko.  
-**Mox:** Przyszedłeś tu za mną?  
+**Mox:** Przyszłaś tu za mną?  
 **Nellie:** Jaki ładny kościół. Nie spodziewałam się, że facet taki jak ty spędza czas w takim miejscu.  
 **Mox:** Do czego zmierzasz?  
 **Nellie:** Co tu robisz, Mox? Rozwiązujesz sprawę?  
@@ -13504,7 +13504,7 @@
 
 **Hannah:** Mox! Przyszedłeś zagrać z nami w piłkę?  
 **Chloe:** Nie gramy w piłkę! Zbijesz kolejne okno.  
-**Judy:** Chciałbym pokazać Heather kościół.  
+**Judy:** Chciałabym pokazać Heather kościół.  
 **Ella:** Wygląda imponująco.  
 **Mox:** Nie oddalaj się.  
 **Hannah:** Nie jest tak niebezpiecznie. Poradzimy sobie.  
@@ -13632,7 +13632,7 @@
 **Melissa:** /greet  
 **Mox:** /greet  
 **Melissa:** Co tu robisz?  
-**Mox:** Po prostu cieszyłam się ładną pogodą.  
+**Mox:** Po prostu cieszyłem się ładną pogodą.  
 **Melissa:** Nie przychodzisz mnie odwiedzić, co?  
 **Mox:** Bez pracy w niedzielę, obiecuję.  
 **Melissa:** Miłego weekendu. Do zobaczenia jutro rano.  
@@ -14191,7 +14191,7 @@
 **Mox:** Zapowiada się późna noc?  
 **Carol:** Przynajmniej pogoda na razie dopisuje…  
 **Carol:** Poza tym dobrze dać dziewczynom trochę prywatności.  
-**Mox:** Chętnie dotrzymałabym ci towarzystwa, ale muszę lecieć.  
+**Mox:** Chętnie dotrzymałbym ci towarzystwa, ale muszę lecieć.  
 **Carol:** Aww, szkoda. Miło byłoby spędzić trochę czasu z prawdziwym mężczyzną.  
 **Mox:** Znowu się ze mną droczysz?  
 **Carol:** Wiesz, Hannah ostatnio o tobie mówiła.  
@@ -14260,7 +14260,7 @@
 **Mox:** Och, eee… Trzeba naprawić traktor.  
 **Hannah:** I ty go naprawisz?  
 **Mox:** Co wy tu robicie?  
-**Chloe:** Jest jeszcze wcześnie. Chciałem zobaczyć jaskinię Hannah.  
+**Chloe:** Jest jeszcze wcześnie. Chciałam zobaczyć jaskinię Hannah.  
 **Mox:** Jaskinię?  
 **Hannah:** Bawiłam się na polu i odsunęłam kamień od zbocza.  
 **Hannah:** Odkryłam jaskinię.  
@@ -14433,7 +14433,7 @@
 
 **Carol:** /greet  
 **Mox:** /greet  
-**Carol:** Myślałem, że będziesz z dziewczynami.  
+**Carol:** Myślałam, że będziesz z dziewczynami.  
 **Mox:** Wszyscy poszli do kościoła. Pomyślałem, że wpadnę.  
 **Carol:** Chcesz posiedzieć ze starszymi paniami?  
 **Mox:** Chciałem tylko rozejrzeć się w lesie.  
@@ -14666,9 +14666,9 @@
 ## Mapa 009 — Farma / event 97 / strona 2
 
 **Hannah:** /curse  
-**Carol:** A nie mówiłem!  
+**Carol:** A nie mówiłam!  
 **Hannah:** Hej! To Mox i Heather!  
-**Heather:** Wpadłem pomóc twojej mamie przygotować kolację.  
+**Heather:** Wpadłam pomóc twojej mamie przygotować kolację.  
 **Hannah:** O rany! Co będzie na kolację?  
 **Mox:** Jeśli masz ochotę, urządzamy dziś przyjęcie z Chloe i Judy.  
 **Hannah:** Urządzacie przyjęcie?  
@@ -14693,7 +14693,7 @@
 
 ## Mapa 009 — Farma / event 101 / strona 1
 
-**Mox:** Na drzewie jest smakowite jabłko. Ciekawe, czy zdołam je czymś strącić.  
+**Mox:** Na drzewie jest smakowite jabłko. Ciekawe, czy zdołem je czymś strącić.  
 
 ---
 
@@ -14705,7 +14705,7 @@
 
 ## Mapa 009 — Farma / event 103 / strona 1
 
-**Mox:** Na drzewie jest smakowite jabłko. Ciekawe, czy zdołam je czymś strącić.  
+**Mox:** Na drzewie jest smakowite jabłko. Ciekawe, czy zdołem je czymś strącić.  
 
 ---
 
@@ -14767,7 +14767,7 @@
 **Duncan:** Wychodź natychmiast!  
 **Ella:** Duncan! Zaczekaj!  
 **Duncan:** Po co tu przyszedłeś?  
-**Ella:** Chciałem odzyskać amulet. Potrzebowałem tylko więcej czasu.  
+**Ella:** Chciałam odzyskać amulet. Potrzebowałam tylko więcej czasu.  
 **Duncan:** Charles nie żyje. Chcesz do niego dołączyć w piekle?  
 **Duncan:** Nie uciekniesz!  
 **Drab:** Odsuń się. Wyważę drzwi.  
@@ -14838,7 +14838,7 @@
 **Carol:** Znałam go dawno temu.  
 **Mox:** Jak dawno temu?  
 **Carol:** Dwadzieścia siedem lat temu.  
-**Hannah:** Cholera! Zanim się urodziłem.  
+**Hannah:** Cholera! Zanim się urodziłam.  
 **Mox:** Carol?  
 **Carol:** Przykro mi, Mox… Nie wiem, jak ci to powiedzieć.  
 **Mox:** Kim jest Duncan?  
@@ -15092,7 +15092,7 @@
 **Chloe:** /greet  
 **Mox:** /greet  
 **Chloe:** Miałeś rację, Mox. Nie zajdziemy daleko. Nie ma ścieżki.  
-**Hannah:** Wiedziałem, że wszystko zarosło. Mówię ci, musimy poczekać do jesieni.  
+**Hannah:** Wiedziałam, że wszystko zarosło. Mówię ci, musimy poczekać do jesieni.  
 **Mox:** Może uda mi się znaleźć przejście.  
 
 ---
@@ -15165,7 +15165,7 @@
 
 **Hannah:** /greet  
 **Mox:** /greet  
-**Hannah:** Wiedziałem, że wszystko zarosło. Mówię ci, musimy poczekać do jesieni.  
+**Hannah:** Wiedziałam, że wszystko zarosło. Mówię ci, musimy poczekać do jesieni.  
 **Mox:** Może uda mi się znaleźć przejście.  
 
 ---
@@ -15268,7 +15268,7 @@
 **Mox:** Ja? Nie… Jestem tu umówiony z kimś.  
 **Ella:** Widziałeś gdzieś tutaj telefon komórkowy?  
 **Mox:** Dopiero co przyszedłem. Nie widziałem żadnego telefonu.  
-**Ella:** Cholera. Zgubiłem telefon.  
+**Ella:** Cholera. Zgubiłam telefon.  
 **Mox:** Mam na niego zadzwonić? Możesz nasłuchiwać dzwonka.  
 **Ella:** Ja… yyy… Nie podaję swojego numeru telefonu.  
 **Mox:** Dobrze… Przepraszam, ale nie wiem, jak inaczej mógłbym pomóc.  
@@ -15351,7 +15351,7 @@
 
 **Larry:** /greet  
 **Mox:** /greet  
-**Larry:** Znalazłeś jakieś baterie?  
+**Larry:** Znalazłaś jakieś baterie?  
 **Mox:** /show  
 **Larry:** /thanks  
 **Larry:** Zaraz je naprawię.  
@@ -15507,7 +15507,7 @@
 **Mox:** Przysięgam, jestem w formie.  
 **Heather:** Oczywiście. Masz przecież takie wielkie mięśnie.  
 **Heather:** Ale dawno nie musiałeś gonić podejrzanego, prawda?  
-**Mox:** Jak zgadłeś?  
+**Mox:** Jak zgadłaś?  
 **Heather:** Poczuj, jak palą, Mox.  
 **Heather:** Właśnie tak. W górę, do samego końca. Napnij brzuch.  
 **Mox:** Kończą mi się siły.  
@@ -15518,7 +15518,7 @@
 **Heather:** Złap mnie za nogi, kochanie.  
 **Mox:** A ty nawet się nie spociłaś.  
 **Heather:** Widzisz? Ćwiczenia ze starszą panią nie są takie trudne, prawda?  
-**Mox:** Gdybym cię nie znała, pomyślałabym, że próbujesz mi zaimponować.  
+**Mox:** Gdybym cię nie znała, pomyślałbym, że próbujesz mi zaimponować.  
 **Heather:** Nie pogardzę komplementem.  
 **Mox:** Nie trać koncentracji, młoda damo.  
 **Heather:** Tak, proszę pana.  
@@ -15868,7 +15868,7 @@
 **Diana:** No dalej.  
 **Ella:** Mówiłam, że sama sobie poradzę.  
 **Tasha:** Szczęśliwy traf!  
-**Diana:** Nieźle. Nie spodziewałem się tego.  
+**Diana:** Nieźle. Nie spodziewałam się tego.  
 **Mox:** No już, Tasho. Nie złość się. Ona dużo trenowała.  
 **Diana:** Może zmierzysz się z kimś, kto ma trochę… doświadczenia.  
 **Ella:** No to dawaj, staruszko.  
@@ -16043,7 +16043,7 @@
 **Heather:** Oczywiście, kochanie. Jesteś moim dużym chłopcem.  
 **Heather:** O! Ale masz mięśnie!  
 **Mox:** Cholera! Nie oszczędzasz się, co?  
-**Heather:** Powiedziałbym, że całkiem dobrze o siebie dbam. Co ty na to?  
+**Heather:** Powiedziałabym, że całkiem dobrze o siebie dbam. Co ty na to?  
 **Mox:** Jak zawsze piękny.  
 **Heather:** To mój chłopak.  
 
@@ -16130,7 +16130,7 @@
 **Mox:** /greet  
 **Arianna:** /greet  
 **Mox:** Czujesz się jak u siebie?  
-**Arianna:** Mógłbym się do tego przyzwyczaić.  
+**Arianna:** Mógłabym się do tego przyzwyczaić.  
 
 ---
 
@@ -16150,7 +16150,7 @@
 **Mox:** /greet  
 **Arianna:** /greet  
 **Mox:** Czujesz się jak u siebie?  
-**Arianna:** Mógłbym się do tego przyzwyczaić.  
+**Arianna:** Mógłabym się do tego przyzwyczaić.  
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony.
 
@@ -16174,7 +16174,7 @@
 **Arianna:** W każdej chwili to uczucie może przejąć kontrolę.  
 **Arianna:** Boję się, co się wtedy stanie.  
 **Mox:** Mogę pomóc ci je zaspokoić, kiedy wróci. Wiesz, że zawsze chętnie pomogę.  
-**Arianna:** Tego jestem pewien.  
+**Arianna:** Tego jestem pewna.  
 **Arianna:** Na krótką metę może pomóc…  
 **Arianna:** Ale nawet wtedy… co, jeśli stanę się bardziej agresywna albo nieokiełznana?  
 **Arianna:** Nie mogłabym sobie wybaczyć, gdybym cię skrzywdziła.  
@@ -16186,7 +16186,7 @@
 **Arianna:** Potrzebuję odpowiedzi, Mox.  
 **Mox:** Piekło to niebezpieczne miejsce, a demony nie są aniołkami.  
 **Arianna:** Pora, żebym pogodziła się z innymi demonami.  
-**Mox:** Nie chcę, żebyś stał się taki jak oni.  
+**Mox:** Nie chcę, żebyś stała się taka jak oni.  
 **Arianna:** Stałam się demonem, ale w sercu wciąż jestem aniołem.  
 **Mox:** Pozwól mi pójść z tobą. Dodatkowa pomoc nie zaszkodzi, jeśli zrobi się gorąco.  
 **Arianna:** Doceniam twoją propozycję, ale chciałabym zrobić to sama.  
@@ -16209,7 +16209,7 @@
 **Mox:** Eee…  
 **Arianna:** Co się dzieje? Czemu nie powiedziałeś mi, jak działa ziemska miłość?  
 **Mox:** Jesteś aniołem. Myślałem, że takie rzeczy już znasz.  
-**Mox:** Zwłaszcza że już tyle razy mi pomogłeś.  
+**Mox:** Zwłaszcza że już tyle razy mi pomogłaś.  
 **Arianna:** Empyreum potrafi być surowym miejscem. Wiem tylko tyle, na ile mi pozwolono.  
 **Mox:** Arianno, miłość nie jest niczym złym…  
 **Arianna:** To ciągłe tęsknienie ma być czymś dobrym?  
@@ -16244,7 +16244,7 @@
 **Arianna:** /greet  
 **Arianna:** Piękny dziś dzień, nie sądzisz?  
 **Mox:** Ktoś ma dziś dobry humor.  
-**Arianna:** Hahaha, oczywiście! Jestem zakochany i bardzo się z tego cieszę.  
+**Arianna:** Hahaha, oczywiście! Jestem zakochana i bardzo się z tego cieszę.  
 
 ---
 
@@ -16256,7 +16256,7 @@
 **Arianna:** /greet  
 **Arianna:** Piękny dziś dzień, nie sądzisz?  
 **Mox:** Ktoś ma dziś dobry humor.  
-**Arianna:** Hahaha, oczywiście! Jestem zakochany i bardzo się z tego cieszę.  
+**Arianna:** Hahaha, oczywiście! Jestem zakochana i bardzo się z tego cieszę.  
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony.
 
@@ -16275,7 +16275,7 @@
 **Arianna:** W czym potrzebujesz pomocy, Mox?  
 **Diana:** Musimy zniszczyć dowody.  
 **Arianna:** Och! Dzięki Bogu. Strasznie się tu nudzę.  
-**Diana:** Poszło łatwiej, niż myślałem.  
+**Diana:** Poszło łatwiej, niż myślałam.  
 **Mox:** Dowody są w miejscu, do którego nie możemy się dostać.  
 **Mox:** Tu przyda się twoja zdolność teleportacji.  
 **Arianna:** Dokąd mam się teleportować?  
@@ -16315,7 +16315,7 @@
 **Mox:** Proszę. Zaprogramuję go tak, żebyś mogła zadzwonić do nas jednym przyciskiem…  
 **Mox:** Gotowe. Naciśnij ten przycisk, a połączysz się z nami.  
 **Arianna:** Ale zgrany z nas zespół!  
-**Diana:** Nigdy nie byłem skłonny do modlitwy, ale chyba teraz warto zacząć.  
+**Diana:** Nigdy nie byłam skłonny do modlitwy, ale chyba teraz warto zacząć.  
 **Arianna:** Nie zaszkodzi!  
 **Mox:** Wszystko będzie dobrze.  
 **Mox:** Powodzenia.  
@@ -16346,7 +16346,7 @@
 **Heather:** Mam nadzieję. Wiesz, jaka ona jest.  
 **Heather:** Może zaprosisz Hannah? Wtedy Chloe może zostanie na dłużej.  
 **Mox:** Mam sporo pracy, ale chyba mogę do niej zajrzeć.  
-**Mox:** Widziałam dziś Chloe w kościele.  
+**Mox:** Widziałem dziś Chloe w kościele.  
 **Heather:** W kościele?  
 **Mox:** W Katedrze Ewy. Odwiedziła siostrę Judy.  
 **Heather:** Nie kojarzę. Kim jest siostra Judy?  
@@ -16429,12 +16429,12 @@
 **Erica:** /greet  
 **Mox:** Widzę, że bez problemu trafiłaś.  
 **Erica:** To niedaleko. Ale na dworze robi się ciemno.  
-**Mox:** No więc… O czym chciałeś porozmawiać?  
+**Mox:** No więc… O czym chciałaś porozmawiać?  
 **Erica:** Od razu do rzeczy?  
 **Mox:** Cóż… To znaczy…  
-**Erica:** Coś dla nas przyniosłem.  
+**Erica:** Coś dla nas przyniosłam.  
 **Mox:** Naprawdę?  
-**Erica:** Przyniosłem coś do picia…  
+**Erica:** Przyniosłam coś do picia…  
 **Erica:** Gdzie możemy się napić?... Trochę tu pusto.  
 **Mox:** Och, yyy. Znam miejsce, gdzie możemy usiąść…  
 **Mox:** /order  
@@ -16922,7 +16922,7 @@
 
 > **Ścieżka warunkowa:** Ella - Strapped: włączony → Ella - Pound Town: włączony → Ella - Double Penetration: włączony → Ella - Lapdance Fuck: włączony → Ella - Sixty Nine: włączony.
 
-**Ella:** Mógłbym teraz robić wiele innych rzeczy. Jaki masz plan?  
+**Ella:** Mógłabym teraz robić wiele innych rzeczy. Jaki masz plan?  
 
 *〔Wskazówka: Nie masz żadnych stron Kamasutry. Potrzebujesz przynajmniej jednej, żeby zabawić gości.〕*
 
@@ -17124,7 +17124,7 @@
 **Erica:** Poza tym, że tryskała do szklanki?  
 **Mox:** Eee… Tak.  
 **Erica:** Niezbyt. Nie widziałam jej, odkąd wyszedłeś.  
-**Mox:** To było szalone. Nigdy nie widziałam, żeby ktoś tak zareagował.  
+**Mox:** To było szalone. Nigdy nie widziałem, żeby ktoś tak zareagował.  
 **Erica:** Czyli uważasz, że Lillian i ja zaraziłyśmy się wirusem seksu?  
 **Mox:** Jeśli naprawdę istnieje… To by miało sens.  
 **Mox:** Powiedz, co czujesz?  
@@ -17145,7 +17145,7 @@
 **Erica:** Odpuść na jeden wieczór, Mox. Jutro rano znów możesz iść do pracy.  
 **Mox:** Dobrze… Czyli to randka?  
 **Erica:** Dwoje ludzi rozmawia, ty głupi robocie.  
-**Mox:** Wiesz, opowiadałam o tobie koleżance.  
+**Mox:** Wiesz, opowiadałem o tobie koleżance.  
 **Erica:** Mam nadzieję, że same dobre rzeczy?  
 **Mox:** Martwi się, że możesz mieć niegrzeczne zamiary.  
 **Erica:** Masz dziewczynę, prawda?  
@@ -17184,7 +17184,7 @@
 **Erica:** Mój tyłek!  
 **Mox:** Twój tyłek?  
 **Erica:** Jesteś taki słodki. Popatrz tylko na siebie.  
-**Mox:** Dobrze, na pewno jesteś pijany. Może zrób sobie przerwę.  
+**Mox:** Dobrze, na pewno jesteś pijana. Może zrób sobie przerwę.  
 **Erica:** Pieprzyć przerwę!  
 **Mox:** Połóż się, Erico.  
 **Erica:** Zerżniesz mnie porządnie, przystojniaku?  
@@ -17657,7 +17657,7 @@
 **Judy:** Mox! Ale dużo spermy!  
 **Mox:** Cholera, siostro. To było intensywne.  
 **Judy:** Dobrze mi poszło?  
-**Mox:** Bycie tak blisko seksu… Było bardziej ekscytujące, niż myślałam.  
+**Mox:** Bycie tak blisko seksu… Było bardziej ekscytujące, niż myślałem.  
 **Judy:** Czuję się o wiele lepiej… A do tego nie musieliśmy grzeszyć przeciw Bogu.  
 **Mox:** Trudno zbliżyć się bardziej.  
 **Judy:** Dobrze zrobiłam, ufając ci, Mox. Jesteś dżentelmenem.  
@@ -18150,7 +18150,7 @@
 **Arianna:** Masz całkowitą rację!  
 **Arianna:** Potrzebuję… ciebie!  
 **Mox:** Achhh, to… wow.  
-**Mox:** Zaraz, kiedy nauczyłeś się…  
+**Mox:** Zaraz, kiedy nauczyłaś się…  
 **Mox:** Kurwa, Arianno, cokolwiek robisz językiem, działa.  
 **Mox:** Jeśli będziesz tak dalej…  
 **Mox:** Cholera, Arianno! Ale z ciebie dzikuska!  
@@ -18254,7 +18254,7 @@
 **Mox:** Trudno pieprzyć w ten sposób.  
 **Ella:** To takie przyjemne!  
 **Tasha:** Nie bądź delikatny, Mox. To nie taka zabawka.  
-**Mox:** Cholera. Gdyby to było jeszcze intensywniejsze, nie dałabym rady.  
+**Mox:** Cholera. Gdyby to było jeszcze intensywniejsze, nie dałbym rady.  
 **Tasha:** Przyłóż się!  
 **Ella:** W porządku, Mox. Pieprz mnie mocno.  
 **Ella:** Ach! Kurwa!  
@@ -18309,7 +18309,7 @@
 **Mox:** W każdy piątek wieczorem jest tak samo.  
 **Chloe:** Hannah? Chodź tu!  
 **Hannah:** Nie mam ochoty iść do Dick’s Grill.  
-**Mox:** Myślałam, że masz ochotę na deser.  
+**Mox:** Myślałem, że masz ochotę na deser.  
 **Hannah:** Zachowajmy się niegrzecznie.  
 **Chloe:** /shock  
 **Chloe:** Nie ma mowy! Nie wejdę do sklepu z pornografią!  
@@ -18427,7 +18427,7 @@
 ## Common Event 313 — SCN - Erica Diner
 
 **Erica:** To jak często kupujesz porno?  
-**Mox:** Co!? Nie… Rozmawiałam z właścicielką sklepu…  
+**Mox:** Co!? Nie… Rozmawiałem z właścicielką sklepu…  
 **Mox:** Zna Madalyn.  
 **Erica:** Pracujesz w weekend?  
 **Mox:** Można powiedzieć, że jestem pracoholiczką.  
@@ -18460,7 +18460,7 @@
 **Erica:** Długo mi się przyglądał… Tak samo Madalyn. Wydaje mi się, że łączyło ich coś seksualnego. Ale nie wiem…  
 **Erica:** Z Charlesem było coś nie tak. Jakby był marionetką sterowaną przez Madalyn…  
 **Erica:** Jakby tkwiła w nim zupełnie inna osoba.  
-**Mox:** Z tego, co słyszałam, to Madalyn była opętana.  
+**Mox:** Z tego, co słyszałem, to Madalyn była opętana.  
 **Erica:** Co masz na myśli?  
 **Mox:** Podobno ma duszę demona.  
 **Erica:** Co!? Mówisz poważnie?  
@@ -18681,8 +18681,8 @@
 **Erica:** Cześć, Mox. Witajcie, panie. Oglądałam sobie niegrzeczne rzeczy. Byłyście tam?  
 **Hannah:** Jasne! Uwielbiamy sklep z porno.  
 **Mox:** To nieprawda, Hannah.  
-**Chloe:** Nie wiedziałem, że tu będzie.  
-**Mox:** Tak, zaprosiłam ją.  
+**Chloe:** Nie wiedziałam, że tu będzie.  
+**Mox:** Tak, zaprosiłem ją.  
 **Erica:** Nie powiedziałaś im, że przyjdę?  
 **Mox:** Co? Przecież wszystkie się przyjaźnimy.  
 **Judy:** Witaj, Erico. Jestem siostrą Judy.  
@@ -18800,7 +18800,7 @@
 **Mox:** Wygląda na to, że zaczyna się otwierać.  
 **Chloe:** Po tym, co wydarzyło się w kościele, chyba potrzebuje kogoś do rozmowy.  
 **Mox:** Och… Chodzi ci o tych zbirów, którzy przyszli?  
-**Chloe:** Tak… O czym innym miałbym mówić?  
+**Chloe:** Tak… O czym innym miałabym mówić?  
 **Mox:** Zrobię wszystko, co w mojej mocy, żeby zakończyć tę sprawę. Obiecuję.  
 **Chloe:** Po prostu… Uważaj na siebie, Mox. Nie chcemy, żeby coś ci się stało.  
 **Mox:** Zrobię to.  
@@ -19039,7 +19039,7 @@
 **Larry:** Jasne! Bierz moje fajerwerki.  
 **Larry:** /thanks  
 **Larry:** /fail  
-**Larry:** Ugh! Nie jestem zainteresowana.  
+**Larry:** Ugh! Nie jestem zainteresowany.  
 
 ---
 
@@ -19149,7 +19149,7 @@
 **Mox:** Wy się znacie?  
 **Tasha:** Jestem tu służbowo.  
 **Jon:** A ciebie to nie obchodzi, Mox.  
-**Tasha:** Przyszedłem odebrać chińskie gadżety erotyczne.  
+**Tasha:** Przyszłam odebrać chińskie gadżety erotyczne.  
 **Jon:** Hej! Nie musisz rozgłaszać tego całemu światu, młoda damo.  
 **Mox:** Powinienem się tym martwić?  
 **Tasha:** Nie jesteś zbyt ufny, co, Jon?  
@@ -19798,7 +19798,7 @@
 **Mox:** Niezupełnie. Ale chyba uda mi się namówić go, żeby pokazał mi ten tajny magazyn…  
 **Mox:** Może prowadzi do bunkra.  
 **Melissa:** Nie martwisz się Andreą?  
-**Mox:** Sam mówiłeś, że chcesz działać…  
+**Mox:** Sam mówiłaś, że chcesz działać…  
 **Mox:** Zróbmy to razem i zachowajmy to w tajemnicy.  
 **Melissa:** Nie jedyny sekret, jaki ukrywamy.  
 **Mox:** No i?  
@@ -19854,7 +19854,7 @@
 **Mox:** Hej!  
 **Bobby:** Co ty tu, u diabła, robisz?  
 **Funkcjonariusz A:** Myślałem, że cię zwolnili.  
-**Diana:** Nic nie zrobiłem.  
+**Diana:** Nic nie zrobiłam.  
 **Jon:** Próbowała włamać się do mojego magazynu!  
 **Mox:** Co ty, do cholery, robisz?  
 **Bobby:** Wynoś się stąd, Mox.  
@@ -19891,7 +19891,7 @@
 **Jon:** Zgadza się…  
 **Jon:** To gdzie on jest? Masz paczkę?  
 **Mox:** Eee… Jeszcze nie.  
-**Diana:** Chciałem tylko sprawdzić, jakie ma wymiary.  
+**Diana:** Chciałam tylko sprawdzić, jakie ma wymiary.  
 **Jon:** Mam miejsce. Nie martw się.  
 **Melissa:** Nie zawracajmy mu już głowy. Jak na jeden dzień było tu wystarczająco dużo zamieszania.  
 **Jon:** Uważaj, Mox. Tu wszystko musi chodzić jak w zegarku. Nie pozwolę, żebyś ty albo ktokolwiek inny to spieprzył.  
@@ -19899,7 +19899,7 @@
 **Diana:** Dzięki, że to zrobiłeś.  
 **Melissa:** Ryzykuję dla ciebie własną skórą. Lepiej, żebyś się przydał.  
 **Mox:** Co się, u licha, stało? Wszedłem do bunkra i uruchomiła się pułapka.  
-**Diana:** Nie mogłem przechytrzyć Jona… Cholera… Starzeję się?  
+**Diana:** Nie mogłam przechytrzyć Jona… Cholera… Starzeję się?  
 **Melissa:** Twój człowiek… Nadal jest tam uwięziony?  
 **Diana:** Zgadza się. Miał zabić Duncana i się stamtąd wydostać… Mam tylko nadzieję, że jeszcze żyje.  
 **Melissa:** Masz jakieś wieści od Andrei?  
@@ -20104,7 +20104,7 @@
 
 **Heather:** /greet  
 **Mox:** /greet  
-**Heather:** Nie spodziewałem się, że cię dziś rano zobaczę.  
+**Heather:** Nie spodziewałam się, że cię dziś rano zobaczę.  
 **Mox:** Wpadłem tylko sprawdzić, co u was. Zgłoszono, że ktoś zagląda do cudzych domów.  
 **Heather:** Ojej. Złodzieje?  
 **Mox:** Podglądacze.  
@@ -20141,7 +20141,7 @@
 **Chloe:** Co to był za oblech?  
 **Mox:** To pewnie ten podglądacz, którego szuka policja.  
 **Chloe:** Wiesz, kim on jest?  
-**Mox:** Poznałam go na siłowni. Ciągle tam przesiaduje.  
+**Mox:** Poznałem go na siłowni. Ciągle tam przesiaduje.  
 **Heather:** Chloe? Nadal tu jesteś?  
 **Chloe:** Przeszkadzam ci?  
 **Heather:** No chodź, kochanie. Nie gniewaj się.  
@@ -20199,7 +20199,7 @@
 **Carol:** Nikt nie patrzy. Szybko skończyliśmy.  
 **Heather:** W ogóle naprawiliście ciężarówkę?  
 **Carol:** Oczywiście! Po prostu… świętujemy.  
-**Heather:** Carol! Nie miałem pojęcia…  
+**Heather:** Carol! Nie miałam pojęcia…  
 **Mox:** Heather… Nie wiem, co powiedzieć.  
 **Heather:** Nie wierzę, że to zrobiłeś, Mox…  
 **Carol:** Dlaczego?  
@@ -20222,10 +20222,10 @@
 **Mox:** Na litość boską, Heather zmieniała mi pieluchy.  
 **Carol:** Jest od ciebie starsza o dobre osiemnaście lat. Czego się spodziewasz?  
 **Mox:** Jak możesz tego nie widzieć? A gdyby Chloe chciała się z tobą zabawić?  
-**Carol:** Pozwoliłbym jej.  
+**Carol:** Pozwoliłabym jej.  
 **Mox:** Carol!  
 **Carol:** Przestań być taką pruderyjną świętoszką.  
-**Mox:** Nie jestem pruderyjna! Po prostu zachowałam zdrowy rozsądek.  
+**Mox:** Nie jestem pruderyjna! Po prostu zachowałem zdrowy rozsądek.  
 **Carol:** Nie ma co się wyzywać.  
 **Mox:** Przepraszam, Carol. Ale czy możesz mi pomóc?  
 **Carol:** Dobrze. Rozumiem. Zobaczę, co da się zrobić.  
@@ -20315,7 +20315,7 @@
 **Carol:** Tak. To oś.  
 **Heather:** Mox?  
 **Mox:** Coś nie tak z ciężarówką?  
-**Carol:** Odwiedzałem Heather przed powrotem do domu, kiedy ta przeklęta oś pękła. Chyba ta ciężarówka w końcu się zestarzała.  
+**Carol:** Odwiedzałam Heather przed powrotem do domu, kiedy ta przeklęta oś pękła. Chyba ta ciężarówka w końcu się zestarzała.  
 **Heather:** Daj spokój. Jest w waszej rodzinie od dawna, ale nadal świetnie się prezentuje.  
 **Carol:** Już takich nie produkują.  
 **Mox:** Możesz to naprawić?  
@@ -20423,8 +20423,8 @@
 **Judy:** Dobrze… Mam nadzieję, że wkrótce znów się spotkamy.  
 **Mox:** Oczywiście, siostro.  
 **Chloe:** Na razie, Mox.  
-**Mox:** Czuję się okropnie. O czym ja myślałam?  
-**Mox:** Mam nadzieję, że nie zdenerwowałam Judy.  
+**Mox:** Czuję się okropnie. O czym ja myślałem?  
+**Mox:** Mam nadzieję, że nie zdenerwowałem Judy.  
 
 ---
 
@@ -20464,7 +20464,7 @@
 **Ella:** Oto on!  
 **Mox:** Wybaczcie, panie. Zatrzymała mnie sprawa na farmie.  
 **Hannah:** Zaczynajmy imprezę!  
-**Erica:** Chętnie napiłbym się czegoś.  
+**Erica:** Chętnie napiłabym się czegoś.  
 **Hannah:** /excited  
 **Hannah:** Chodźcie! Znajdźmy coś do picia.  
 **Chloe:** Chyba mama nie ma żadnego alkoholu.  
@@ -20705,7 +20705,7 @@
 **Mox:** Lubię ryzyko, Erico. Nie widzisz tego?  
 **Erica:** Och! Ale jesteśmy niegrzeczne!  
 **Mox:** Mów ciszej. Ktoś przechodzący obok może nas usłyszeć.  
-**Erica:** Myślałem, że lubisz ryzyko.  
+**Erica:** Myślałam, że lubisz ryzyko.  
 **Mox:** Chcesz, żeby nas przyłapano? To sprawi, że dojdziesz mocniej?  
 **Erica:** Och, Mox, sama myśl doprowadza mnie do szaleństwa!  
 **Erica:** Chcę, żebyś zerżnął mnie w tyłek.  
@@ -20817,7 +20817,7 @@
 **Nellie:** Kiedyś uciekłam z więzienia Sanibel. Ale teraz jestem wolną kobietą.  
 **Mox:** A, tak. Byłaś w wiadomościach. Pamiętam cię.  
 **Nellie:** Onieśmielony, Mox?  
-**Mox:** Mam uwierzyć, że znalazłeś skradziony artefakt i nie wiedziałeś, że handlujesz trefnym towarem?  
+**Mox:** Mam uwierzyć, że znalazłaś skradziony artefakt i nie wiedziałaś, że handlujesz trefnym towarem?  
 **Nellie:** Nie oczekuję, że w cokolwiek uwierzysz. Zaufaj mi, Mox…  
 **Nellie:** Po prostu wyjdę z tego komisariatu.  
 **Mox:** Bardzo wierzysz w swoje umiejętności.  
@@ -20828,7 +20828,7 @@
 **Nellie:** Nie ma mowy.  
 **Mox:** Co łączyło Charlesa Wilkesa z Gildią Zaćmienia?  
 **Nellie:** A dlaczego miałbyś sądzić, że wiem cokolwiek o hierarchii Gildii Zaćmienia?  
-**Mox:** Gdybym miała zgadywać… a zwykle dobrze mi to wychodzi…  
+**Mox:** Gdybym miał zgadywać… a zwykle dobrze mi to wychodzi…  
 **Mox:** Sama należysz do Gildii Zaćmienia. Może jesteś złodziejką do wynajęcia?  
 **Nellie:** Nie. Spróbuj jeszcze raz.  
 
@@ -21070,7 +21070,7 @@
 
 **Melissa:** Jak poszedł test?  
 **Mox:** Zdałem celująco.  
-**Melissa:** Heh. Myślałem, że Bobby z zasady cię uwali.  
+**Melissa:** Heh. Myślałam, że Bobby z zasady cię uwali.  
 **Mox:** Melissa… Może potrzebuję pomocy.  
 **Melissa:** Ty? Potrzebujesz pomocy?  
 **Mox:** Wybieram się gdzieś z księdzem z katedry Eve.  
@@ -21098,9 +21098,9 @@
 ## Mapa 059 — Lewe wejście / event 28 / strona 2
 
 **Mox:** To gniazdko dziwnie trzeszczy. Ciekawe, czy obwód jest przeciążony.  
-**Mox:** Co by się stało, gdybym użyła paralizatora na tym?  
+**Mox:** Co by się stało, gdybym użył paralizatora na tym?  
 **Funkcjonariusz A:** Hej!? Co jest, do cholery!?  
-**Mox:** Ups! Przeciążyłam obwód. Teraz nic nie widzę…  
+**Mox:** Ups! Przeciążyłem obwód. Teraz nic nie widzę…  
 **Mox:** Jak mam się stąd wydostać?  
 
 ---
@@ -21169,7 +21169,7 @@
 **Melissa:** Czemu nie możecie się dogadać?  
 **Bobby:** Mox musi nauczyć się szacunku.  
 **Mox:** Bobby musi nauczyć się nie być dupkiem.  
-**Melissa:** Choć chętnie obejrzałbym wasze przepychanki, muszę iść pod prysznic.  
+**Melissa:** Choć chętnie obejrzałabym wasze przepychanki, muszę iść pod prysznic.  
 **Bobby:** Zabawne, że o tym mówisz, bo Mox wyzwał mnie na walkę bokserską.  
 **Mox:** Co!? Nie, nie wyzwałem!  
 **Melissa:** Nic dziwnego.  
@@ -21226,7 +21226,7 @@
 **Mox:** Prawie się nie spociłem.  
 **Bobby:** Tak. Wytrzymał tylko kilka sekund.  
 **Mox:** Aaargh!  
-**Bobby:** Nie przejmuj się, Mox. Jestem pewna, że Melissa odpuści ci dziś po południu po tym laniu.  
+**Bobby:** Nie przejmuj się, Mox. Jestem pewien, że Melissa odpuści ci dziś po południu po tym laniu.  
 **Mox:** To był szczęśliwy cios!  
 
 ---
@@ -21295,7 +21295,7 @@
 
 ## Common Event 356 — SCN - Andrea Melissa Yoga
 
-**Mox:** Minęło kilka dni, odkąd porządnie się rozciągałam.  
+**Mox:** Minęło kilka dni, odkąd porządnie się rozciągałem.  
 **Andrea:** Ach, znów być młodą.  
 **Andrea:** Korzystaj, póki możesz, Mox.  
 **Mox:** Świetna forma, panno Kimura.  
@@ -21443,7 +21443,7 @@
 **Melissa:** To ty oberwiesz.  
 **Mox:** Auć!  
 **Melissa:** Za wolno, Mox?  
-**Mox:** Oszukiwałeś! Falstart!  
+**Mox:** Oszukiwałaś! Falstart!  
 **Melissa:** Podnoś tyłek i szykuj się do obrony.  
 **Mox:** Och, teraz poznasz mój prawdziwy gniew.  
 **Melissa:** Dawaj!  
@@ -21475,7 +21475,7 @@
 > **Warunek strony:** przełącznik lokalny B musi być włączony.
 
 **Melissa:** Bądź u mnie jutro rano. Mam spory bałagan do posprzątania.  
-**Mox:** Hej! Nie wygrałeś!  
+**Mox:** Hej! Nie wygrałaś!  
 
 ---
 
@@ -21484,7 +21484,7 @@
 > **Ścieżka warunkowa:** MC HP ≤ 0.
 
 **Melissa:** Masz dość, Mox?  
-**Mox:** Miałeś szczęście. Jeszcze raz.  
+**Mox:** Miałaś szczęście. Jeszcze raz.  
 
 ---
 
@@ -21560,7 +21560,7 @@
 **Mox:** /greet  
 **Andrea:** /greetback  
 **Andrea:** Mox, co za miła niespodzianka.  
-**Mox:** Słyszałam, że mnie szukałeś, komisarz Kimura. Chodzi o nową sprawę?  
+**Mox:** Słyszałem, że mnie szukałaś, komisarz Kimura. Chodzi o nową sprawę?  
 **Andrea:** Coś w tym stylu.  
 **Andrea:** Więc gdzie byłeś? Twój współpracownik mówił, że wyszedłeś, ale nie wiedział dlaczego.  
 **Mox:** Och, yyy, prowadziłem sprawę.  
@@ -21705,7 +21705,7 @@
 **Mox:** Tak. Wyglądał całkiem nieźle.  
 **Andrea:** Był idealny. Spisałeś się świetnie.  
 **Mox:** Cieszę się… ale…  
-**Andrea:** Słyszałem o tym, co stało się w rezydencji Wilkesów.  
+**Andrea:** Słyszałam o tym, co stało się w rezydencji Wilkesów.  
 **Mox:** Więc… Co mówimy opinii publicznej?  
 **Andrea:** Musimy zachować to w tajemnicy.  
 **Mox:** Wielu funkcjonariuszy było świadkami tego, co się wydarzyło.  
@@ -21922,7 +21922,7 @@
 **Andrea:** My? Dałeś się złapać?  
 **Mox:** Wiesz, że Duncan tam jest. Powiedz mi, co się dzieje.  
 **Andrea:** Co ty sobie, do cholery, myślałeś?  
-**Mox:** Czego się spodziewałeś? Musieliśmy odnaleźć Lillian.  
+**Mox:** Czego się spodziewałaś? Musieliśmy odnaleźć Lillian.  
 **Andrea:** Ta kobieta zniknęła. Pewnie nawet nie ma jej w rezydencji.  
 **Mox:** To nieprawda. Ukrywała się.  
 **Andrea:** Znaleźliście ją?  
@@ -21942,7 +21942,7 @@
 **Mox:** …  
 **Andrea:** Idź dalej, Mox. Mam inne sprawy.  
 **Mox:** Ojciec Solomon czegoś od nas oczekuje.  
-**Andrea:** Mówiłem ci: spotkam się z nim osobiście.  
+**Andrea:** Mówiłam ci: spotkam się z nim osobiście.  
 **Mox:** Dobrze.  
 
 ---
@@ -21952,7 +21952,7 @@
 **Mox:** /greet  
 **Andrea:** /greet  
 **Mox:** Ojciec Solomon czegoś od nas oczekuje.  
-**Andrea:** Mówiłem ci: spotkam się z nim osobiście.  
+**Andrea:** Mówiłam ci: spotkam się z nim osobiście.  
 **Mox:** Dobrze.  
 
 ---
@@ -22008,7 +22008,7 @@
 **Funkcjonariusz A:** Oto ona, pani komisarz.  
 **Andrea:** Zostaw nas.  
 **Funkcjonariusz A:** Tak, proszę pani.  
-**Nellie:** Gliniarze się zjawili! Strzelałem do nich, ale…  
+**Nellie:** Gliniarze się zjawili! Strzelałam do nich, ale…  
 **Andrea:** Wciąż żyją!  
 **Mox:** Zostali aresztowani. Co innego mogliśmy zrobić?  
 **Andrea:** Co, do cholery, robiła Bhatt w magazynie?  
@@ -22110,7 +22110,7 @@
 **Lillian:** Masz całkowitą rację.  
 **Melissa:** Ciii!  
 **Nellie:** Nie wiem, co powiedzieć, Andreo…  
-**Andrea:** Dotrzymałem swojej części umowy.  
+**Andrea:** Dotrzymałam swojej części umowy.  
 **Brian:** Dziękuję, panno Kimura.  
 **David:** Nie wiem, jak ty to robisz, Mox… Zawsze znajdujesz sposób, żeby wygrać.  
 **Mox:** Cóż mogę powiedzieć?  
@@ -22291,7 +22291,7 @@
 **Mox:** Widzisz? Wszystko dobrze się skończyło.  
 **Carol:** Tylko dzięki tobie, Mox.  
 **Carol:** Gdyby wszystko zależało od tego sędziego, nie wiem, co by się stało.  
-**Mox:** Jestem pewna, że i tak znalazłbyś jakieś wyjście.  
+**Mox:** Jestem pewien, że i tak znalazłabyś jakieś wyjście.  
 **Carol:** Tak myślisz?  
 **Carol:** Skoro jesteśmy tu sami, może trochę się zabawimy…  
 **Carol:** …i zobaczymy, jak by się to potoczyło?  
@@ -22674,7 +22674,7 @@
 **Erica:** Poddajemy się?  
 **Mox:** Zachowaj to w tajemnicy, Eriko… To jeszcze dalekie od końca.  
 **Erica:** Będę bezpieczna, Mox. Muszę porozmawiać z Kimberly.  
-**Mox:** Daj jej znać, że nie chciałam, by do tego doszło.  
+**Mox:** Daj jej znać, że nie chciałem, by do tego doszło.  
 **Erica:** Przekażę… Rozumiem.  
 **Mox:** /curse  
 **Mox:** Cóż, chyba tak można to załatwić…  
@@ -22744,13 +22744,13 @@
 **Mox:** Nellie… Duncan nie kłamie…  
 **Nellie:** Cholera… Jesteś jego synem.  
 **Mox:** Nie mam pojęcia jak… Ale to prawda.  
-**Nellie:** Myślałem, że to tylko jego chore brednie.  
+**Nellie:** Myślałam, że to tylko jego chore brednie.  
 **Mox:** Carol i Heather… Znały go, gdy były znacznie młodsze.  
 **Nellie:** Nie wiem, co ci powiedzieć, Mox… Ale mamy problem.  
 **Mox:** Można i tak powiedzieć.  
 **Nellie:** Jeśli masz jakieś pomysły, słucham…  
-**Nellie:** Ale oboje wiemy, że okłamałem Andreę…  
-**Nellie:** Gdybym chciał dorwać Duncana, mógłbym. Ufa mi.  
+**Nellie:** Ale oboje wiemy, że okłamałam Andreę…  
+**Nellie:** Gdybym chciała dorwać Duncana, mógłabym. Ufa mi.  
 **Mox:** Daj mi trochę czasu, Nellie.  
 **Nellie:** Chyba nie mamy go wiele.  
 **Jon:** Problemy z dziewczynami?  
@@ -22785,7 +22785,7 @@
 **Mox:** Heather?  
 **Heather:** Mox?  
 **Mox:** Co tu robisz?  
-**Heather:** Chciałem zapytać cię o to samo.  
+**Heather:** Chciałam zapytać cię o to samo.  
 **Mox:** Zastanawiałem się nad powiększeniem domu, ale da się go powiększyć tylko do pewnego stopnia.  
 **Mox:** Więc rozważam kupno nowego domu.  
 **Heather:** Nowy dom? Więc myślałeś o kupnie tej rezydencji?  
@@ -22837,7 +22837,7 @@
 **Melissa:** Nie spiesz się, Mox.  
 **Mox:** Wszystko w porządku, to był tylko kot.  
 **Melissa:** Wiele jeszcze musisz się nauczyć.  
-**Mox:** Wiedziałeś, że ta sprawa była lipna. Co cię dziwi?  
+**Mox:** Wiedziałaś, że ta sprawa była lipna. Co cię dziwi?  
 **Melissa:** Trzymaj, do cholery, język za zębami.  
 **Mox:** Muszę wracać do biura?  
 **Melissa:** Rób, co mówię, i po prostu słuchaj.  
@@ -22853,7 +22853,7 @@
 **Lillian:** Wiem, że ma pan zadanie do wykonania, ale proszę uszanować mój czas.  
 **Lillian:** Śmierć mojego ojca była trudna dla mnie i całej rodziny.  
 **Melissa:** Proszę przyjąć moje kondolencje, panno Wilkes.  
-**Melissa:** Chciałem zadać pani kilka pytań.  
+**Melissa:** Chciałam zadać pani kilka pytań.  
 **Lillian:** Pomogę, jak tylko będę mogła.  
 **Melissa:** Nie udało nam się znaleźć wielu informacji o pani ojcu poza zapisami o datkach na cele charytatywne i osobach przebywających w rezydencji.  
 **Lillian:** Coś się stało?  
@@ -23011,7 +23011,7 @@
 **Melissa:** David porównał to z planami rezydencji i wiemy już, gdzie szukać.  
 **Melissa:** Jeśli moje podejrzenia są słuszne, Charles mógł być przywódcą Gildii, a Lillian może kontynuować rodzinny interes.  
 **Mox:** Więc jak dostać się do schronu?  
-**Melissa:** Jeszcze tego nie ustaliłem. Liczyłem, że zauważę coś oczywistego.  
+**Melissa:** Jeszcze tego nie ustaliłam. Liczyłam, że zauważę coś oczywistego.  
 **Melissa:** Rozejrzyj się. Sprawdź, czy coś nie wygląda podejrzanie.  
 
 ---
@@ -23445,9 +23445,9 @@
 ## Common Event 456 — SCN - Daemalis vs Lillian
 
 **Lillian:** Zostaw ich, Daemalius!  
-**Erica:** Siostro… Nie widziałem tej twarzy od dziesięcioleci.  
+**Erica:** Siostro… Nie widziałam tej twarzy od dziesięcioleci.  
 **Lillian:** Nie da się tego załatwić pokojowo… prawda?  
-**Erica:** Oddałem ci duszę, a ty wykorzystałeś ją, by sprowadzić Lilith na ten świat? Gdzie twoja lojalność?  
+**Erica:** Oddałam ci duszę, a ty wykorzystałeś ją, by sprowadzić Lilith na ten świat? Gdzie twoja lojalność?  
 **Lillian:** Byłeś wybrańcem. I co z tego? Dlaczego miałoby ci się cokolwiek należeć?  
 **Erica:** Mieliśmy działać razem! Miałeś moją duszę! Dlaczego uwięziłeś mnie w tym kamieniu?  
 **Lillian:** Żeby zrobić miejsce dla kogoś znacznie lepszego od ciebie.  
@@ -23461,7 +23461,7 @@
 **Carol:** Puść ją!  
 **Chloe:** Mamo!  
 **Heather:** O cholera!  
-**Erica:** Och, Heather… Odkąd cię zobaczyłem, marzę, żeby dotknąć twojego ciała.  
+**Erica:** Och, Heather… Odkąd cię zobaczyłam, marzę, żeby dotknąć twojego ciała.  
 **Heather:** Eriko?  
 **Erica:** Aaargh!  
 **Erica:** Och, Carol! Ależ masz seksowne ciało mamusi!...  
@@ -23469,7 +23469,7 @@
 **Mox:** Cholera! Carol!  
 **Lillian:** Puść ją! To sprawa między nami!  
 **Erica:** Bardziej zależy ci na człowieku niż na twoich pobratymcach!  
-**Lillian:** Nie przybyłem tu, żeby zniszczyć ich świat!  
+**Lillian:** Nie przybyłam tu, żeby zniszczyć ich świat!  
 **Erica:** Myślisz, że jesteś prawdziwą matką ludzkości? Oni mają cię gdzieś! Zawsze tak było!  
 **Lillian:** Uciekajcie! Do szczeliny!  
 **Mox:** Potrzebujemy ciała Eriki!  
@@ -23762,7 +23762,7 @@
 
 **Erica:** Fajny wystrój.  
 **Ella:** Cieszę się, że ci się podoba.  
-**Mox:** Nie spodziewałam się, że będę tu dziś wieczorem.  
+**Mox:** Nie spodziewałem się, że będę tu dziś wieczorem.  
 **Erica:** Jak dobrze się znacie?  
 **Ella:** Mox to mój ochroniarz.  
 **Mox:** Pomagam jej od czasu do czasu.  
@@ -24041,9 +24041,9 @@
 **Hannah:** Oczywiście, że zjemy, tępaku! Co innego byśmy z tym zrobili?  
 **Mox:** Rozchorujemy się.  
 **Hannah:** Co powiedziałeś?  
-**Mox:** Mówiłam, że pokochamy to.  
+**Mox:** Mówiłem, że pokochamy to.  
 **Hannah:** Jest słodkie!  
-**Mox:** Jestem pewna, że jest.  
+**Mox:** Jestem pewien, że jest.  
 
 ---
 
@@ -24078,7 +24078,7 @@
 **Judy:** Dziękuję ci bardzo, Jon.  
 **Jon:** Gdzie wszystkie twoje rzeczy? Tylko jedna torba?  
 **Judy:** Och… Nie mam wiele.  
-**Mox:** Jestem pewna, że będzie się świetnie bawić, urządzając to miejsce.  
+**Mox:** Jestem pewien, że będzie się świetnie bawić, urządzając to miejsce.  
 **Jon:** Tylko uważaj, by nie zrobić za wielu dziur w ścianach, wieszając obrazy.  
 **Judy:** Muszę robić więcej zdjęć!  
 **Mox:** Będziesz miał na nią oko, prawda, Jon?  
@@ -24088,7 +24088,7 @@
 **Mox:** Myślę, że Judy się do tego nadaje.  
 **Judy:** Wiem, że dam radę.  
 **Jon:** To duch… Powodzenia.  
-**Judy:** A! Widziałaś to!?  
+**Judy:** A! Widziałeś to!?  
 **Mox:** Hę?  
 **Judy:** Widziałam psa!  
 **Mox:** To… niemożliwe.  
@@ -24190,7 +24190,7 @@
 
 ## Mapa 081 — Hol / event 11 / strona 1
 
-**Mox:** Paul! Widziałam Kimberly.  
+**Mox:** Paul! Widziałem Kimberly.  
 **Paul:** Gdzie?  
 **Mox:** Wyszła z budynku zaledwie chwilę temu.  
 **Ochrona:** Chodź! Znajdźmy ją.  
@@ -24294,7 +24294,7 @@
 **Paul:** Nie to robiłem.  
 **Andrea:** Czego dokładnie spodziewasz się znaleźć? Jeśli chcesz się czegoś dowiedzieć o rezydencji, przyjdź do nas.  
 **Paul:** Bez urazy, pani komisarz, ale pani wie równie dobrze jak ja, że tak to nie działa.  
-**Andrea:** Współpracowałem z waszą organizacją. Nie ufa mi pani?  
+**Andrea:** Współpracowałam z waszą organizacją. Nie ufa mi pani?  
 **Kimberly:** Co ty, do cholery, zrobiłeś, Paul?  
 **Mox:** Został przyłapany na szpiegowaniu wokół rezydencji w nocy.  
 **Kimberly:** Naprawdę?  
@@ -24332,7 +24332,7 @@
 **Mox:** Świetnie. Melissa będzie naprawdę szczęśliwa, widząc mnie w sobotę.  
 **Mox:** Mam nadzieję, że jej numer biurowy przekierowuje na komórkę.  
 **Mox:** Cholera. Brak odpowiedzi.  
-**Mox:** Mogłabym odwiedzić ją w domu.  
+**Mox:** Mogłbym odwiedzić ją w domu.  
 **Mox:** Ten dzień staje się coraz lepszy.  
 
 ---
@@ -24361,7 +24361,7 @@
 
 **Erica:** /greet  
 **Mox:** /greet  
-**Erica:** Znalazłaś Kimberly?  
+**Erica:** Znalazłeś Kimberly?  
 **Mox:** Pracuję nad tym.  
 
 ---
@@ -24466,9 +24466,9 @@
 **Brian:** Zephaniah miał skrajne poglądy, przez które wierni odchodzili z kościoła.  
 **Brian:** Wyprał mózgi wszystkim zakonnicom…  
 **Brian:** Wszyscy odeszli, z wyjątkiem Judy.  
-**Judy:** Nie znałem dobrze ojca Zephaniaha. Niedawno się tu przeprowadziłem, po tym jak zniszczono mój poprzedni kościół.  
+**Judy:** Nie znałam dobrze ojca Zephaniaha. Niedawno się tu przeprowadziłam, po tym jak zniszczono mój poprzedni kościół.  
 **Mox:** Wygląda na to, że wiele przeszedłeś.  
-**Judy:** Od dawna nie czułem się jak w domu.  
+**Judy:** Od dawna nie czułam się jak w domu.  
 **Brian:** Jesteśmy tu tylko we dwoje, więc Judy boi się, że przyciągamy uwagę złodziei.  
 **Mox:** Co o tym sądzisz, ojcze Solomon?  
 **Brian:** Podejrzewam, że złodziej może mieć cztery łapy.  
@@ -24986,7 +24986,7 @@
 
 **Hannah:** /greet  
 **Mox:** /greet  
-**Hannah:** Przybiegłaś tu w deszczu!?  
+**Hannah:** Przybiegłeś tu w deszczu!?  
 **Mox:** Nie jest tam aż tak źle.  
 **Hannah:** Nie będę wracać pieszo. Gdzie jest mama?  
 
@@ -25031,7 +25031,7 @@
 ## Mapa 020 — Hol wejściowy / event 44 / strona 1
 
 **Mox:** Ach. Tutaj jest znacznie cieplej.  
-**Judy:** Nie przypuszczałem, że zobaczę twoją byłą żonę. To naprawdę zaskakujące.  
+**Judy:** Nie przypuszczałam, że zobaczę twoją byłą żonę. To naprawdę zaskakujące.  
 **Nellie:** Chyba nasze drogi naprawdę się rozeszły.  
 **Chloe:** Nie rozumiem. Dlaczego do niego wróciłaś?  
 **Nellie:** Nie przyjechałam tu dla Briana. Mam własne powody, by wrócić do North Santiva.  
@@ -25057,7 +25057,7 @@
 **Mox:** Nie mogę uwierzyć, że znasz Nellie.  
 **Brian:** To ta kobieta, Mox. Moja była żona.  
 **Brian:** Chociaż nasz związek nie był typowy.  
-**Chloe:** Nie wygląda na kobietę, z którą wyobrażałbym sobie ciebie.  
+**Chloe:** Nie wygląda na kobietę, z którą wyobrażałabym sobie ciebie.  
 **Brian:** Nie znałeś mnie dwadzieścia lat temu.  
 **Chloe:** Cóż, przynajmniej wiemy już, że to nie była Madalyn.  
 **Brian:** Chyba wolałbym już zobaczyć demona.  
@@ -25070,7 +25070,7 @@
 **Mox:** Dzięki, siostro Judy.  
 **Brian:** Chodź, Chloe. Odprowadzę cię do domu, a Mox się ogarnie.  
 **Chloe:** Dzięki, ojcze.  
-**Brian:** Mox, nie pozwól jej odejść, póki nie wrócę. Jeszcze z nią nie skończyłam.  
+**Brian:** Mox, nie pozwól jej odejść, póki nie wrócę. Jeszcze z nią nie skończyłem.  
 **Mox:** Oczywiście, ojcze.  
 
 ---
@@ -25101,7 +25101,7 @@
 **Brian:** To dokładnie coś, co zrobiłaby Nellie.  
 **Judy:** Masz córkę tutaj, w North Santiva? Nie mogę w to uwierzyć.  
 **Brian:** Nie… To niemożliwe. Ona miesza mi w głowie.  
-**Mox:** Widziałam ją. Tasha naprawdę istnieje.  
+**Mox:** Widziałem ją. Tasha naprawdę istnieje.  
 **Brian:** Ta kobieta nie urodziła mojego dziecka. To niemożliwe.  
 **Judy:** Ojcze?  
 **Mox:** To chyba nie jest najlepsza pora na rozmowę z ojcem Solomonem.  
@@ -25238,7 +25238,7 @@
 **Mox:** Ale gdzieś może leżeć kod. Możemy przynajmniej poszukać.  
 **Melissa:** Spróbujcie.  
 **Melissa:** Dziękuję, ojcze Solomonie, że pozwolił nam pan szukać rzeczy Zephaniaha.  
-**Brian:** Przyznam, że Madalyn mnie przeraża. Chciałabym wiedzieć, czego chce.  
+**Brian:** Przyznam, że Madalyn mnie przeraża. Chciałbym wiedzieć, czego chce.  
 **Melissa:** Mogę postarać się o posterunek policji przed budynkiem.  
 **Brian:** Możesz to załatwić?  
 **Melissa:** Musimy wykazać, że istnieje zagrożenie…  
@@ -25455,7 +25455,7 @@
 **Mox:** Przyszedłem coś odebrać.  
 **Bobby:** Zostań na noc. Jadę do rezydencji.  
 **Mox:** Co!? Miałeś tu zostać.  
-**Bobby:** Wysłałabym inny patrol, ale jest piątkowy wieczór.  
+**Bobby:** Wysłałbym inny patrol, ale jest piątkowy wieczór.  
 **Mox:** Co się dzieje w rezydencji?  
 **Bobby:** Ktoś kręcił się tam podejrzanie… Nie będę ryzykować. Muszę tam jechać.  
 **Mox:** Zostań tu i pilnuj, żeby nikt nie wszedł do kościoła. Ja pojadę do rezydencji.  
@@ -25523,8 +25523,8 @@
 **Brian:** Co się dzieje?  
 **Nellie:** Pojawiła się znikąd i mnie porwała… a w naszej kryjówce narobiła niezłego bałaganu.  
 **Brian:** Mam ci uwierzyć?  
-**Mox:** Mówi prawdę. Byłam tam…  
-**Mox:** Madalyn się pojawiła. Użyłam na niej wody święconej, ale po kilku minutach musiała odzyskać moce, bo zniknęła.  
+**Mox:** Mówi prawdę. Byłem tam…  
+**Mox:** Madalyn się pojawiła. Użyłem na niej wody święconej, ale po kilku minutach musiała odzyskać moce, bo zniknęła.  
 **Nellie:** Rozwala nam wszystko. Musisz pomóc nam ją powstrzymać.  
 **Brian:** Uważaj na język, kobieto. Jesteś w kościele.  
 **Nellie:** Tym razem nie możesz mnie odprawić, Brianie. Potrzebuję cię.  
@@ -25584,7 +25584,7 @@
 **Brian:** Chodź, Nellie. Porozmawiamy w mojej sypialni.  
 **Nellie:** Ech. Dobra!  
 **Judy:** Co się dzieje? Gdzie jest funkcjonariusz Bobby?  
-**Mox:** Musiał wyjść, ale zostałam, żeby dopilnować, czy wszystko w porządku.  
+**Mox:** Musiał wyjść, ale zostałem, żeby dopilnować, czy wszystko w porządku.  
 **Judy:** To była Nellie?  
 **Mox:** Widzieliśmy Madalyn… Zaatakowała Nellie.  
 **Judy:** /worry  
@@ -25663,7 +25663,7 @@
 **Mox:** Nie ma za co.  
 **Judy:** Mox! Udało ci się przyjść.  
 **Chloe:** Gdzie jest Hannah?  
-**Mox:** Nie wiem, czy przyjdzie. Kiedy wychodziłam, wciąż była w samej bieliźnie.  
+**Mox:** Nie wiem, czy przyjdzie. Kiedy wychodziłem, wciąż była w samej bieliźnie.  
 **Judy:** Zaraz zacznie się msza.  
 **Judy:** /order  
 
@@ -25752,7 +25752,7 @@
 ## Mapa 020 — Hol wejściowy / event 89 / strona 1
 
 **Brian:** Tasho?  
-**Mox:** Ojcze, przyprowadziłam Ericę.  
+**Mox:** Ojcze, przyprowadziłem Ericę.  
 **Judy:** Całe szczęście. Niczego jeszcze nie ustaliliśmy.  
 **Tasha:** Gdzie jest Nellie?  
 **Brian:** Nie mam pojęcia, gdzie jest twoja matka.  
@@ -25799,7 +25799,7 @@
 **Mox:** Wpadnę później.  
 **Ella:** Chyba farma jest równie bezpieczna jak każde inne miejsce.  
 **Mox:** Nie martw się. Myślę, że dasz sobie radę z Hannah.  
-**Mox:** Heather… Śledztwo, nad którym pracowałam… Dziś je zakończyliśmy.  
+**Mox:** Heather… Śledztwo, nad którym pracowałem… Dziś je zakończyliśmy.  
 **Heather:** To wspaniała wiadomość, kochanie.  
 **Mox:** Jest tylko jeden drobny problem.  
 **Heather:** O co chodzi?  
@@ -26017,7 +26017,7 @@
 **Nellie:** Co ty, do cholery, planujesz?  
 **Brian:** Zgaduję, że jeszcze nie raz trafimy do tej sekretnej piwnicy w rezydencji.  
 **Judy:** Ojej. Mam nadzieję, że niebezpieczeństwo już minęło.  
-**Tasha:** Nie liczyłbym na to.  
+**Tasha:** Nie liczyłabym na to.  
 **Nellie:** Oczekujesz, że znowu przemycę cię do rezydencji?  
 **Brian:** Chodź, Nellie. Wyjaśnię ci, co wiemy.  
 **Mox:** Nie pomożesz im w nauce?  
@@ -26028,7 +26028,7 @@
 **Judy:** A jednak nie mogę przestać o tobie myśleć.  
 **Hannah:** Macie ochotę na przygodę?  
 **Chloe:** Nie wybieramy się na żadną przygodę.  
-**Mox:** Jestem trochę zajęta.  
+**Mox:** Jestem trochę zajęty.  
 **Judy:** Tak. Jesteśmy bardzo zajęte.  
 **Hannah:** Czym?  
 **Judy:** Nauką.  
@@ -26298,7 +26298,7 @@
 **Mox:** Wszystko naprawimy.  
 **Henry:** Jestem żywym dowodem na to, że można wrócić z Otchłani… Wiem, że nam się uda.  
 **Brian:** Podoba mi się twój zapał.  
-**Andrea:** Nie spodziewałem się, że tu spędzę noc. Ale to chyba lepsze niż warunki, jakie miał Jon.  
+**Andrea:** Nie spodziewałam się, że tu spędzę noc. Ale to chyba lepsze niż warunki, jakie miał Jon.  
 **Carol:** Ktoś chce spać ze mną w drugiej sypialni?  
 **Heather:** Ja!  
 **Hannah:** Nie ma mowy!  
@@ -26511,7 +26511,7 @@
 **Judy:** Ojej. To zbyt niebezpieczne.  
 **Brian:** Jeśli szybko tego nie załatamy, naprawa szkód będzie bardzo kosztowna.  
 **Mox:** Coś wymyślę.  
-**Brian:** Gdybym była młodsza, sama bym tam weszła. Ale w moim wieku upadek z wysokości około dwunastu metrów mógłby mnie zabić.  
+**Brian:** Gdybym był młodszy, sam bym tam wszedł. Ale w moim wieku upadek z wysokości około dwunastu metrów mógłby mnie zabić.  
 **Melissa:** Z tak twardą głową Mox odbije się od ziemi.  
 **Mox:** Dzięki za troskę.  
 **Brian:** Masz, Mox. Tym zatkasz dziurę, jeśli uda ci się wejść na dach.  
@@ -27107,11 +27107,11 @@
 ## Mapa 121 — Wschód, 2. piętro / event 36 / strona 2
 
 **Mox:** Arianno!  
-**Arianna:** Mox… Znalazłem Ericę.  
+**Arianna:** Mox… Znalazłam Ericę.  
 **Mox:** Nadal była w Limbo?  
-**Arianna:** Dałem jej relikwię… Wciąż jest szansa.  
-**Mox:** Powiedziałeś jej, co ma z nią zrobić?  
-**Arianna:** Ja… Powiedziałem jej tylko to, co musiała wiedzieć, by dokonać wyboru…  
+**Arianna:** Dałam jej relikwię… Wciąż jest szansa.  
+**Mox:** Powiedziałaś jej, co ma z nią zrobić?  
+**Arianna:** Ja… Powiedziałam jej tylko to, co musiała wiedzieć, by dokonać wyboru…  
 **Arianna:** Ale, Mox… Nie wiesz, jak jest w Limbo… Nie wiesz, jak to jest umrzeć.  
 **Mox:** Co masz na myśli?  
 **Arianna:** Erica wybiera między życiem wiecznym a wiecznym potępieniem.  
@@ -27150,7 +27150,7 @@
 **Mox:** Stracił ważność w zeszłym roku. Nie wiem, jak trafił do kuchni Wilkesów, chyba że należy do jednego z tych upiornych trędowatych.  
 **Melissa:** Sprawdźmy to nazwisko.  
 **Mox:** Twój komputer jest podłączony do sieci komisariatu?  
-**Melissa:** Jestem pewien, że dostaniesz takie uprawnienia, gdy Andrea cię awansuje.  
+**Melissa:** Jestem pewna, że dostaniesz takie uprawnienia, gdy Andrea cię awansuje.  
 **Mox:** Myślisz, że dostanę awans?  
 **Melissa:** Nie mam pojęcia, co ty i ona planujecie.  
 **Melissa:** Mamy dopasowanie.  
@@ -27198,7 +27198,7 @@
 **Melissa:** Co robisz?  
 **Mox:** Napatrz się, Melisso. Właśnie tego chciałaś, prawda?  
 **Melissa:** Mox!  
-**Mox:** Oblałeś mi krocze gorącą kawą. Czego się spodziewałeś?  
+**Mox:** Oblałaś mi krocze gorącą kawą. Czego się spodziewałaś?  
 **Melissa:** Ty dupku!  
 **Mox:** Skończmy z tym… Chodź tu i obciągnij mi.  
 **Melissa:** Aaargh!  
@@ -27264,7 +27264,7 @@
 
 ## Mapa 114 — Wejście do apartamentu Melissy / event 5 / strona 1
 
-**Mox:** Ale chciałeś tego?  
+**Mox:** Ale chciałaś tego?  
 **Melissa:** Aaargh!  
 **Mox:** Czy uśmiech od czasu do czasu tak bardzo by ci zaszkodził?  
 **Melissa:** Nigdy w życiu jedna osoba nie doprowadzała mnie do takiego szału.  
@@ -27304,7 +27304,7 @@
 **Melissa:** /shock  
 **Mox:** Użyła swoich mocy, żeby się teleportować!  
 **Melissa:** To szaleństwo!  
-**Mox:** Mówiłeś, że to miejsce jest nawiedzone. Nie byłeś tak daleki od prawdy, jak myślałem.  
+**Mox:** Mówiłaś, że to miejsce jest nawiedzone. Nie byłaś tak daleki od prawdy, jak myślałem.  
 **Melissa:** Demon?... Co tu się dzieje?  
 **Mox:** Cholera! Erica!  
 **Melissa:** Eriko?  
@@ -27493,7 +27493,7 @@
 **Melissa:** Znasz tych ludzi, Mox?  
 **Mox:** To wrogowie Gildii i ludzie, którzy planują zamach na Duncana.  
 **Diana:** Cóż, plan się nie powiódł.  
-**Mox:** Widziałam Henry’ego w bunkrze… Nieświadomie uratował mi życie.  
+**Mox:** Widziałem Henry’ego w bunkrze… Nieświadomie uratował mi życie.  
 **Diana:** Wiem, że możemy za to trafić do więzienia, ale nie mam wyboru.  
 **Mox:** Nie służę już w policji. Chyba że Melissa cię aresztuje…  
 **Melissa:** Możesz nam pomóc?...  
@@ -27580,7 +27580,7 @@
 
 **Mox:** A co z prawdziwą pracą?...  
 **Mox:** Pewnie potrzebujesz przerwy.  
-**Mox:** Nie żebym narzekała…  
+**Mox:** Nie żebym narzekał…  
 **Mox:** Och, tak… Twoje usta zawsze są mile widziane na moim kutasie.  
 **Melissa:** Boże, tak bardzo potrzebowałam tego kutasa!  
 **Mox:** Co w ciebie wstąpiło, Melisso?...  
@@ -27632,7 +27632,7 @@
 **Andrea:** Może. Myślałam, by tym razem przejąć stery.  
 **Mox:** Przejąć stery?  
 **Andrea:** Cipkowe facefucking.  
-**Mox:** Może Hannah ma na mnie gorszy wpływ, niż myślałam.  
+**Mox:** Może Hannah ma na mnie gorszy wpływ, niż myślałem.  
 
 ---
 
@@ -27688,7 +27688,7 @@
 **Andrea:** Dobre wieści, Mox!  
 **Andrea:** Mox!? Nie masz na sobie ubrań?  
 **Mox:** Andreo, o co chodzi!? Skąd masz kawałek Tomy?  
-**Andrea:** Ja… miałem dodatkowe zlecenie od Morgana… Ale nie martw się. Wszystko w porządku.  
+**Andrea:** Ja… miałam dodatkowe zlecenie od Morgana… Ale nie martw się. Wszystko w porządku.  
 **Mox:** Co to za kawałek?...  
 **Mox:** Aaargh!  
 **Andrea:** Mox!?  
@@ -27707,7 +27707,7 @@
 **Andrea:** Dobre wieści, Mox!  
 **Andrea:** Mox!? Nie masz na sobie ubrań?  
 **Mox:** Andreo, o co chodzi!? Skąd masz kawałek Tomy?  
-**Andrea:** Ja… miałem dodatkowe zlecenie od Morgana… Ale nie martw się. Wszystko w porządku.  
+**Andrea:** Ja… miałam dodatkowe zlecenie od Morgana… Ale nie martw się. Wszystko w porządku.  
 **Mox:** Co to za kawałek?...  
 **Mox:** Aaargh!  
 **Andrea:** Mox!?  
@@ -27779,7 +27779,7 @@
 
 **Mox:** Musi być ciężko wprowadzać takie życiowe zmiany.  
 **Andrea:** Potrzebowałam takiego faceta jak ty w życiu, Mox… Szkoda, że nie znałam cię dwadzieścia lat temu.  
-**Mox:** Gdy miałam siedem lat?  
+**Mox:** Gdy miałem siedem lat?  
 **Andrea:** Nie o to mi chodziło, mądralo.  
 **Mox:** Do zobaczenia wkrótce, Andreo.  
 **Andrea:** Nie pozwól mi być zbyt samotną, Mox.  
@@ -27876,7 +27876,7 @@
 **Hannah:** Co?! Ja też chcę iść do Heather!  
 **Mox:** Tylko o to chciałem zapytać. Nie musisz się na mnie wyżywać.  
 **Hannah:** Biedny Mox. Uraziłam twoje uczucia?  
-**Mox:** Wiesz, kupiłam ten dom, o którym ci opowiadałam.  
+**Mox:** Wiesz, kupiłem ten dom, o którym ci opowiadałem.  
 **Hannah:** /excited  
 **Hannah:** Czas na imprezę!  
 **Mox:** Na razie nie wygląda najlepiej. Muszę go wyremontować.  
@@ -28149,7 +28149,7 @@
 **Heather:** /greet  
 **Mox:** /greet  
 **Heather:** Co robisz na dworze? Przeziębisz się.  
-**Mox:** Och, eee… Szukałam tego kozła.  
+**Mox:** Och, eee… Szukałem tego kozła.  
 **Heather:** Mam nadzieję, że nic mu nie jest.  
 **Mox:** Znajdę go.  
 **Mox:** Aaargh!  
@@ -28264,7 +28264,7 @@
 
 ## Mapa 023 — Dom na farmie / event 14 / strona 9
 
-**Mox:** Rozmawiałeś z Heather?  
+**Mox:** Rozmawiałaś z Heather?  
 **Carol:** Wszystko w porządku.  
 **Mox:** Nic nie powiedziała?  
 **Carol:** Miałaby mi coś do powiedzenia?  
@@ -28336,7 +28336,7 @@
 **Carol:** Wszystko w porządku, skarbie.  
 **Mox:** Carol?  
 **Carol:** Najlepiej przytulasz.  
-**Mox:** Zszedłeś tu tylko po przytulasa?  
+**Mox:** Zeszłaś tu tylko po przytulasa?  
 **Carol:** Co o tym myślisz?  
 **Mox:** Carol! A co z dziewczynami?  
 **Carol:** Śpią, prawda?  
@@ -28495,7 +28495,7 @@
 **Carol:** Po prostu się siłujemy, siostro.  
 **Judy:** Ojej. Przepraszam, że wam przeszkodziłam.  
 **Mox:** Judy, zaczekaj!...  
-**Mox:** Myślałam o jutrze…  
+**Mox:** Myślałem o jutrze…  
 **Mox:** Chcę pójść z tobą do kościoła.  
 **Judy:** Wspaniale.  
 **Carol:** Chcesz coś przekąsić, skoro już nie śpisz?  
@@ -28517,7 +28517,7 @@
 **Mox:** I tak muszę pilnować tego miejsca. Byle tylko nie zasnąć…  
 **Mox:** W kościele jest tak nudno.  
 **Mox:** Cholera. Muszę się przespać.  
-**Mox:** Jestem pierwsza na nogach?  
+**Mox:** Jestem pierwszy na nogach?  
 **Mox:** Mam nadzieję, że siostra Judy się nie spóźni.  
 **Arianna:** Mox… To nie twój dom.  
 **Mox:** W nocy była kiepska pogoda, więc zostałem z dziewczynami u Carol.  
@@ -28923,7 +28923,7 @@
 
 **Hannah:** Nie zamierzasz tego naprawdę zrobić, prawda?  
 **Ella:** Jak powiedziała tamta kobieta… To twoja ostatnia szansa.  
-**Mox:** Haha… Mówiłam, żeby nie lekceważyć Elli.  
+**Mox:** Haha… Mówiłem, żeby nie lekceważyć Elli.  
 **Carol:** No to dawaj. Zobaczmy.  
 **Carol:** Tak właśnie robisz przed kamerą?  
 **Ella:** Och! Zgadza się.  
@@ -28960,7 +28960,7 @@
 **Mox:** Słyszałaś, Carol. Daj Elli coś do zjedzenia.  
 **Carol:** O mój Boże!  
 **Mox:** Cholera!  
-**Hannah:** Nie to miałem na myśli!  
+**Hannah:** Nie to miałam na myśli!  
 **Hannah:** Mox nigdy nie dojdzie, kiedy jesteś na dole. Wskakuj z powrotem i dokończ robotę.  
 **Mox:** Chyba jest zbyt zajęta.  
 **Hannah:** /curse  
@@ -29197,7 +29197,7 @@
 **Hannah:** Dobrze! W terenie też będziesz musiała strzelać pod presją.  
 **Mox:** To nieprawda.  
 **Hannah:** Hej! Nie pomagasz.  
-**Mox:** Dosłownie zrobiłam ten łuk i strzały.  
+**Mox:** Dosłownie zrobiłem ten łuk i strzały.  
 **Hannah:** Daj spokój, Alio… Poćwiczmy.  
 **Hannah:** Teraz… Chcę, żebyś zrobiła…  
 **Mox:** Ach!  
@@ -29334,7 +29334,7 @@
 **Hannah:** Znajdujemy je tu cały czas.  
 **Chloe:** Czy to cenne?  
 **Carol:** Pewnie nie. Ale słyszałam, że w tych okolicach trafiają się złote.  
-**Mox:** Masz rację. Niektóre potrafią być drogie. Tak słyszałam.  
+**Mox:** Masz rację. Niektóre potrafią być drogie. Tak słyszałem.  
 **Chloe:** Wow! Poszukajmy złotych!  
 **Carol:** Spokojnie, Chloe. Potrzebujemy licencji, żeby zbierać te stare zabawki.  
 **Hannah:** Więcej zarobimy na warzywach i zbożu. Ale skoro tak ci się podoba, możesz to mieć, Mox.  
@@ -29526,7 +29526,7 @@
 **Chloe:** Hannah!  
 **Mox:** Serio? Teraz się rozbieramy?  
 **Hannah:** To gospodarstwo, Mox. Zdejmij tę cholerną koszulkę i wracaj do roboty.  
-**Chloe:** Chyba myślałem, że będzie zabawniej.  
+**Chloe:** Chyba myślałam, że będzie zabawniej.  
 **Mox:** Skończmy to wreszcie, żeby móc się czegoś napić.  
 **Mox:** W sumie… Tak jest chłodniej.  
 **Chloe:** /shock  
@@ -29680,7 +29680,7 @@
 ## Mapa 041 — Stodoła / event 35 / strona 1
 
 **Mox:** To worek nawozu, ale jest za ciężki, żebym go nosiła…  
-**Mox:** Może gdybym była silniejsza, dałabym radę go wziąć.  
+**Mox:** Może gdybym był silniejszy, dałbym radę go wziąć.  
 
 ---
 
@@ -29722,7 +29722,7 @@
 **Mox:** /greet  
 **Carol:** Chyba trochę się spóźniłeś, Mox.  
 **Mox:** Co się stało?  
-**Carol:** Musiałem zdjąć wał napędowy z traktora…  
+**Carol:** Musiałam zdjąć wał napędowy z traktora…  
 **Carol:** Okazało się, że jest zepsuty.  
 **Mox:** Możesz to naprawić?  
 **Carol:** Potrzebuję części, których nie mam. Równie dobrze mogę skończyć na dziś.  
@@ -29892,7 +29892,7 @@
 **Carol:** Lepiej wrócę do środka i dopilnuję, by Hannah nie broiła.  
 **Carol:** Może jutro w końcu uda mi się przestawić ten traktor.  
 **Mox:** Jeśli będę mieć czas, może ci pomogę.  
-**Carol:** Nigdy nie odmówiłbym pomocy od ciebie, Mox.  
+**Carol:** Nigdy nie odmówiłabym pomocy od ciebie, Mox.  
 **Carol:** Do zobaczenia jutro.  
 **Mox:** Dobranoc, Carol.  
 
@@ -29936,7 +29936,7 @@
 
 **Hannah:** I tylko tyle zrobiłaś!? Stać cię na więcej, dziewczyno!  
 **Judy:** Mox!  
-**Hannah:** Myślałem, że rozmawiasz z mamą.  
+**Hannah:** Myślałam, że rozmawiasz z mamą.  
 **Mox:** Czegoś szukam.  
 **Hannah:** Dziewczyny mówiły, że się zabawialiście.  
 **Chloe:** Wcale tak nie mówiłyśmy!  
@@ -30045,7 +30045,7 @@
 **Judy:** Ma taką miękką skórę.  
 **Hannah:** Może i jestem dziewczyną ze wsi, ale mam tyłek księżniczki. Tak mówi mama.  
 **Chloe:** Naprawdę?  
-**Mox:** Jesteś gotowy?  
+**Mox:** Jesteś gotowa?  
 **Hannah:** Jestem nasmarowana i gotowa! Wkładaj!  
 **Hannah:** O rany!  
 **Judy:** Wygląda, jakby bolało.  
@@ -30237,7 +30237,7 @@
 **Hannah:** Przecież jest tutaj!  
 **Mox:** Jest za ciemno.  
 **Hannah:** /curse  
-**Hannah:** Zostawiłem latarnię na kuchennym stole.  
+**Hannah:** Zostawiłam latarnię na kuchennym stole.  
 **Chloe:** Chyba musimy wrócić.  
 **Hannah:** Mox! Idź po nią.  
 **Mox:** Mam was zostawić tutaj, same, po ciemku?  
@@ -30282,7 +30282,7 @@
 
 **Hannah:** /greet  
 **Mox:** /greet  
-**Hannah:** Zostawiłem latarnię na kuchennym stole. Idź po nią.  
+**Hannah:** Zostawiłam latarnię na kuchennym stole. Idź po nią.  
 
 ---
 
@@ -30338,7 +30338,7 @@
 **Hannah:** Jest naprawdę ogromna!  
 **Mox:** Jest niesamowita.  
 **Chloe:** Tak, panno Ray. Nie spadła na nas ani jedna kropla deszczu.  
-**Hannah:** Ja trochę zmokłem.  
+**Hannah:** Ja trochę zmokłam.  
 **Mox:** O rany.  
 **Carol:** Robi się późno. Zostajesz na noc, Mox?  
 **Mox:** Muszę wracać do domu. Jutro rano wcześnie zaczynam pracę.  
@@ -30666,7 +30666,7 @@
 **Carol:** Żartujesz.  
 **Ella:** Wygląda… na wyboistą.  
 **Hannah:** Oczywiście, że jest wyboista! Przecież tam są ziarenka!  
-**Ella:** Przychodzi mi do głowy coś, co chciałbym zrobić z tą kukurydzą, poza ugotowaniem jej.  
+**Ella:** Przychodzi mi do głowy coś, co chciałabym zrobić z tą kukurydzą, poza ugotowaniem jej.  
 **Carol:** Hahahahaha! Och, Ello, ale z ciebie żartownisia!  
 **Mox:** Haha! Chętnie bym to zobaczyła.  
 **Ella:** Lepiej uważaj. Mogę ci zrobić niezłe przedstawienie.  
@@ -30783,7 +30783,7 @@
 
 **Mox:** /greet  
 **Ella:** /greet  
-**Ella:** Nie przywykłem do takiego otoczenia… Ale jest tu spokojnie.  
+**Ella:** Nie przywykłam do takiego otoczenia… Ale jest tu spokojnie.  
 
 ---
 
@@ -30998,7 +30998,7 @@
 
 ## Mapa 053 — Wodospad / event 36 / strona 1
 
-**Mox:** Przysięgam, widziałam, jak coś tędy przeszło. Powinnam ostrzec ojca Solomona, że widziałam coś w pobliżu.  
+**Mox:** Przysięgam, widziałem, jak coś tędy przeszło. Powinnam ostrzec ojca Solomona, że widziałem coś w pobliżu.  
 
 ---
 
@@ -31038,9 +31038,9 @@
 **Chloe:** Nie ma mowy!  
 **Mox:** O kurwa!  
 **Brian:** Znowu mnie stalkujesz?  
-**Nellie:** Nigdy cię nie stalkowałem, dupku.  
+**Nellie:** Nigdy cię nie stalkowałam, dupku.  
 **Brian:** Zaczyna się od nowa.  
-**Nellie:** Skąd miałem wiedzieć, że masz kościół w North Santiva?  
+**Nellie:** Skąd miałam wiedzieć, że masz kościół w North Santiva?  
 **Brian:** Jasne, Nellie. Tak się akurat składa, że szpiegujesz kościół, którego jestem częścią.  
 **Nellie:** Przestań sobie schlebiać.  
 **Mox:** Wszyscy, spokój.  
@@ -31251,7 +31251,7 @@
 **Diana:** To było poprzednie życie…  
 **Mox:** I teraz jesteście tu, by zabić Duncana.  
 **Chloe:** Co się dzieje?  
-**Judy:** Jest tu demoniczna obecność. Miałem jej wizje.  
+**Judy:** Jest tu demoniczna obecność. Miałam jej wizje.  
 **Brian:** Cokolwiek tu jest, próbowało zrobić pranie mózgu siostrze Judy.  
 **Judy:** To musi być prawda. Ojciec Parker… Był potworem.  
 **Henry:** Ksiądz, którego myślałaś, że znasz, był demonem o imieniu Daemalius.  
@@ -31764,7 +31764,7 @@
 
 **Mox:** /greet  
 **Heather:** /greet  
-**Mox:** Myślisz, że Carol byłaby zła, gdyby dowiedziała się, że bawiłeś się z jej córką?  
+**Mox:** Myślisz, że Carol byłaby zła, gdyby dowiedziała się, że bawiłaś się z jej córką?  
 **Heather:** Wiesz… Pewnie sama opowiem jej wszystkie soczyste szczegóły.  
 **Mox:** Cholera! Chciałbym być muchą na ścianie przy tej rozmowie.  
 
@@ -31774,7 +31774,7 @@
 
 **Mox:** /greet  
 **Hannah:** /greet  
-**Hannah:** Myślisz, że mógłbym polizać cipkę Heather?  
+**Hannah:** Myślisz, że mógłabym polizać cipkę Heather?  
 **Mox:** Hę?  
 **Hannah:** Nie mogę przestać myśleć o jej cipce!  
 **Mox:** Co w tobie odblokowaliśmy, Hannah?  
@@ -31902,7 +31902,7 @@
 **Ella:** Jestem zazdrosna.  
 **Mox:** Zazdrosna? O umiejętności walki Diany?  
 **Ella:** Nie. Martwię się, że prześpisz się z tymi dziewczynami.  
-**Mox:** Huh? Nie brałam cię za zazdrosną.  
+**Mox:** Huh? Nie brałem cię za zazdrosną.  
 **Ella:** Po prostu… Zapomnij. Nieważne.  
 **Mox:** Nie współpracuję z nią, Ello. Walczę przeciw Gildii Eclipse.  
 
@@ -32020,7 +32020,7 @@
 **Mox:** Czyli jesteś modelką?  
 **Ella:** Coś w tym stylu.  
 **Mox:** Może jestem nie na czasie, ale nigdy wcześniej o tobie nie słyszałem.  
-**Ella:** Naprawdę? Jesteś taka młoda. Nie masz konta na Lustagramie?  
+**Ella:** Naprawdę? Jesteś taki młody. Nie masz konta na Lustagramie?  
 **Mox:** Do dziś nawet nie wiedziałem, co to jest.  
 **Ella:** Haha. Ale zabawne.  
 **Mox:** Nie spodziewałbym się, że dziewczyna taka jak ty osiądzie w North Santiva.  
@@ -32243,8 +32243,8 @@
 
 ## Mapa 030 — Restauracja / event 24 / strona 1
 
-**Erica:** Ale się najadłem.  
-**Hannah:** Zjadłbym jeszcze, ale musimy zdążyć do sklepu erotycznego, zanim go zamkną.  
+**Erica:** Ale się najadłam.  
+**Hannah:** Zjadłabym jeszcze, ale musimy zdążyć do sklepu erotycznego, zanim go zamkną.  
 **Chloe:** Wciąż o tym mówisz?  
 **Erica:** Założę się, że dotrę tam pierwsza!  
 **Hannah:** Nie masz ze mną szans! Jestem dziewczyną ze wsi!  
@@ -32252,7 +32252,7 @@
 **Judy:** Zabierasz ją do siebie?  
 **Mox:** Hę?  
 **Chloe:** Może zaproszenie Hannah było błędem.  
-**Judy:** Nie. To wspaniała osoba. Chciałbym lepiej poznać je obie.  
+**Judy:** Nie. To wspaniała osoba. Chciałabym lepiej poznać je obie.  
 **Mox:** Chcesz iść?  
 **Judy:** Chcę iść z tobą, Mox.  
 **Chloe:** Na pewno sobie z tym poradzisz?  
@@ -32285,7 +32285,7 @@
 ## Mapa 030 — Restauracja / event 29 / strona 3
 
 **Funkcjonariusz A:** Spóźnię się, a moje bezglutenowe danie robią całą wieczność!  
-**Mox:** Co zamówiłeś?  
+**Mox:** Co zamówiłaś?  
 **Funkcjonariusz A:** Też masz przerwę, detektywie? Czy marnujesz pieniądze podatników?  
 **Mox:** …  
 
@@ -32338,7 +32338,7 @@
 ## Mapa 030 — Restauracja / event 33 / strona 1
 
 **Melissa:** Mox?  
-**Mox:** Byłeś na siłowni?  
+**Mox:** Byłaś na siłowni?  
 **Melissa:** Co tu robisz?  
 **Mox:** Szukam cię. Nie odbierasz telefonu.  
 **Melissa:** Jest sobota. To nie może zaczekać?  
@@ -32417,7 +32417,7 @@
 ## Common Event 400 — SCN - Chloe Ella Drinks
 
 **Chloe:** Jak długo się znacie?  
-**Mox:** Niedługo. Poznałam ją w zeszłym tygodniu.  
+**Mox:** Niedługo. Poznałem ją w zeszłym tygodniu.  
 **Ella:** Mox jest moim ochroniarzem.  
 **Chloe:** Wow! Potrzebujesz ochroniarza?  
 **Ella:** W branży kamerek nie brakuje obleśnych prześladowców. Trzeba uważać.  
@@ -32470,7 +32470,7 @@
 **Chloe:** Co było na tym nagraniu?  
 **Ella:** Włożyłam sobie wibrator w tyłek, a potem Mox zerżnął mnie w cipkę.  
 **Chloe:** /shock  
-**Mox:** Recenzowałam nową zabawkę erotyczną. Nie miałam być nagrywana.  
+**Mox:** Recenzowałem nową zabawkę erotyczną. Nie miałem być nagrywana.  
 **Chloe:** Jak duży był ten wibrator?  
 **Ella:** Może odrobinę mniejszy niż Mox. Dałam sobie z nim radę.  
 **Chloe:** Nie bolało?  
@@ -32731,7 +32731,7 @@
 **Mox:** Szeroko otwórz usta. Nadlatuje obiad!  
 **Mox:** Czyj to telefon?  
 **Mox:** Co do cholery?!  
-**Simon:** Wróciłam po telefon…  
+**Simon:** Wróciłem po telefon…  
 **Simon:** Hej! Gdzie masz spodnie?...  
 **Simon:** Co to ma znaczyć?  
 **Mox:** Eee… Niczego nie widziałaś.  
@@ -32961,7 +32961,7 @@
 
 **Tasha:** /greet  
 **Mox:** Półdemon? Naprawdę?  
-**Tasha:** Opowieści, które mógłbym ci zdradzić o Madalyn, zwaliłyby cię z nóg.  
+**Tasha:** Opowieści, które mógłabym ci zdradzić o Madalyn, zwaliłyby cię z nóg.  
 **Mox:** Zaczynam się zastanawiać, czy mogę ci ufać.  
 **Tasha:** Nie wierzysz w zjawiska nadprzyrodzone, prawda?  
 **Mox:** Jestem detektywką. Nie wierzę w nic, na co nie mam dowodów.  
@@ -33018,14 +33018,14 @@
 **Nellie:** Tasho!  
 **Tasha:** Co ty, do cholery, tutaj robisz? Powinnaś siedzieć w więzieniu!  
 **Mox:** Zaraz… Jesteś matką Tashy?  
-**Nellie:** Myślałem, że jesteś w Cape Vedra.  
+**Nellie:** Myślałam, że jesteś w Cape Vedra.  
 **Tasha:** Przeprowadziłam się.  
 **Tasha:** Znowu uciekłaś z więzienia?  
 **Nellie:** Tym razem nie.  
 **Tasha:** Wypuścili cię? Nie rozumiem.  
 **Mox:** Tak. Może wyjaśnisz to nam obojgu.  
 **Tasha:** I skąd, do cholery, znasz moją mamę?  
-**Mox:** Przesłuchałam ją po tym, jak ukradła artefakt.  
+**Mox:** Przesłuchałem ją po tym, jak ukradła artefakt.  
 **Nellie:** Nic nie ukradłam!  
 **Tasha:** To nieprawda.  
 **Nellie:** Nie ukradłam żadnego NOWEGO gówna.  
@@ -33034,12 +33034,12 @@
 **Nellie:** Wiesz, czym jest Gildia?  
 **Mox:** Jej znajomi też pracują dla Gildii.  
 **Tasha:** Co!? To nieprawda!  
-**Mox:** Sprawdziłam akta Gildii na posterunku. Wiem, że Diana jest złodziejką.  
+**Mox:** Sprawdziłem akta Gildii na posterunku. Wiem, że Diana jest złodziejką.  
 **Tasha:** Mylisz się! Próbuje zabić Duncana.  
 **Nellie:** /shock  
 **Nellie:** Kim właściwie są ci twoi znajomi, Tasho?  
 **Tasha:** Są poszukiwaczami skarbów. Nie pracują dla Gildii Eclipse.  
-**Mox:** Widziałam akta. Nie kłam.  
+**Mox:** Widziałem akta. Nie kłem.  
 **Tasha:** Diana już z nimi nie współpracuje. Duncan próbował ją zabić.  
 **Nellie:** Trzymaj się z dala od Gildii, do cholery. Słyszysz, Tasho?  
 **Tasha:** Nagle zaczęło ci na mnie zależeć?  
@@ -33283,7 +33283,7 @@
 **Tasha:** Nie wyrośnie ci od tego kutas, proszę pani. Zaufaj mi.  
 **Mox:** Heather?  
 **Heather:** Mox!?...  
-**Heather:** Ja tylko… Rozglądałem się.  
+**Heather:** Ja tylko… Rozglądałam się.  
 **Mox:** Chloe cię szukała.  
 **Heather:** Już wróciły do domu?  
 **Mox:** Judy nie chciała wracać zbyt późno.  
@@ -33329,7 +33329,7 @@
 **Mox:** To co to jest?  
 **Tasha:** Chcesz to dildo, czy nie?  
 **Melissa:** Uważaj na słowa!  
-**Tasha:** Co ja takiego, u licha, powiedziałem?  
+**Tasha:** Co ja takiego, u licha, powiedziałam?  
 **Melissa:** A ty po co tu, u diabła, przyszedłeś, Mox?  
 **Mox:** Przyszedłem przesłuchać Tashę.  
 **Tasha:** W jakiej sprawie?  
@@ -33338,9 +33338,9 @@
 **Mox:** Duncan mnie porwał. Ledwo uciekłem dzięki znajomemu Taszy, który szuka skarbów.  
 **Melissa:** Co ty, na Boga, wyprawiałeś?  
 **Mox:** Wpakowałem się w kłopoty przez Andreę.  
-**Tasha:** Mówiłem ci. Mamy plan i Duncan długo już nie pożyje.  
+**Tasha:** Mówiłam ci. Mamy plan i Duncan długo już nie pożyje.  
 **Mox:** Jaki jest plan?  
-**Tasha:** Szczerze… Nie wiem… Od jakiegoś czasu nie widziałem ani Diany, ani Henry’ego.  
+**Tasha:** Szczerze… Nie wiem… Od jakiegoś czasu nie widziałam ani Diany, ani Henry’ego.  
 **Melissa:** Czyli wiesz, gdzie jest Duncan?  
 **Tasha:** Wiem, gdzie jest jego bunkier.  
 **Mox:** Skąd wiesz?  
@@ -33370,7 +33370,7 @@
 **Mox:** Może.  
 **Melissa:** Aaargh!  
 **Tasha:** Zgadza się. Niech złodzieje wykonują waszą robotę. Wracajcie na posterunek i trzymajcie się z dala od magazynu.  
-**Mox:** Co powiedziałeś?  
+**Mox:** Co powiedziałaś?  
 **Tasha:** Ups.  
 **Melissa:** Magazyn to kryjówka?  
 **Tasha:** Nie!... To u ciebie jest kryjówka! Suko!  
@@ -33461,13 +33461,13 @@
 **Mox:** Zjednaj sobie opinię publiczną, Nellie. Ujawnij, że byłaś tajną agentką…  
 **Mox:** Opowiedz swoją historię, zanim Andrea zdąży cię powstrzymać.  
 **Nellie:** Niepotrzebnie to komplikujesz. Wybieram prostsze rozwiązanie i radzę ci zrobić to samo.  
-**Nellie:** Weź tę amunicję. Użyj broni, którą ci dałem, a nikt nie powiąże tego z policją.  
+**Nellie:** Weź tę amunicję. Użyj broni, którą ci dałam, a nikt nie powiąże tego z policją.  
 **Mox:** Nie musimy tego robić.  
 **Nellie:** Muszę iść. Mam rozkazy do wykonania.  
 **Tasha:** Nie powstrzymasz jej. Nikt nie da rady.  
 **Diana:** Niezależnie od tego, jaką drogę wybierzecie, wejdę tajnym wejściem.  
 **Diana:** Nie pozwolę, żeby Henry trafił do więzienia.  
-**Mox:** Przepraszam, Diano. Wcześniej nie mogłam ci pomóc. Ale muszę to zrobić.  
+**Mox:** Przepraszam, Diano. Wcześniej nie mogłem ci pomóc. Ale muszę to zrobić.  
 **Diana:** Nie jesteś morderczynią. To godne szacunku.  
 **Mox:** Jeśli chcesz się zakraść do środka, bądź za dwie godziny przy tylnym wejściu…  
 **Mox:** Jeśli to, co mówisz o systemie bezpieczeństwa, jest prawdą, drzwi się otworzą.  
@@ -33552,7 +33552,7 @@
 **Hannah:** No jasne! Na pewno wszystko pójdzie jak z płatka…  
 **Hannah:** /order  
 **Alia:** Och… Dobrze…  
-**Mox:** Nie jestem taka pewna, czy będzie dobrze.  
+**Mox:** Nie jestem taki pewien, czy będzie dobrze.  
 **Tasha:** Hę?  
 **Mox:** Alia… Może sobie nie poradzić z Hannah.  
 **Tasha:** A, tak, pewnie… Chcesz coś kupić?  
@@ -34146,7 +34146,7 @@
 **Mox:** Powinienem cię teraz aresztować.  
 **Nellie:** Spróbuj. Zobaczymy, co się stanie.  
 **Mox:** …  
-**Nellie:** Tak właśnie myślałem.  
+**Nellie:** Tak właśnie myślałam.  
 **Tasha:** Zostaw ją w spokoju, Mox.  
 **Mox:** Z tego, co wiem, może być przestępczynią.  
 **Tasha:** Nie jest przestępczynią. Wypuszczono ją z więzienia z jakiegoś powodu.  
@@ -34348,7 +34348,7 @@
 **Alia:** Nie! Miałam dwanaście książek! Przysięgam.  
 **Mox:** Pewnie je zgubiła.  
 **Alia:** Po przyjeździe sporo się tu kręciłam.  
-**Tasha:** O Boże. Czemu powierzyłem ci cokolwiek?  
+**Tasha:** O Boże. Czemu powierzyłam ci cokolwiek?  
 **Alia:** Cóż… Mamy dziewięć ksiąg. To lepsze niż żadna.  
 **Tasha:** Idź poszukaj zaginionych książek. Ja zacznę czytać.  
 **Mox:** To ty teraz prowadzisz sklep porno, Alio?  
@@ -34432,7 +34432,7 @@
 
 ## Mapa 031 — Sklep XXX / event 25 / strona 4
 
-**Mox:** Znalazłam zaginione księgi.  
+**Mox:** Znalazłem zaginione księgi.  
 **Alia:** /thanks  
 **Tasha:** Musimy zanieść je tacie.  
 **Alia:** Chcę poznać twojego tatę!  
@@ -34583,7 +34583,7 @@
 
 **Mox:** /greet  
 **Nellie:** /greet  
-**Nellie:** Znalazłaś już skarb?  
+**Nellie:** Znalazłeś już skarb?  
 **Mox:** Wciąż nad tym pracuję.  
 
 ---
@@ -34605,8 +34605,8 @@
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?».
 
-**Mox:** Co robiłeś tuż przed przyjściem tutaj?  
-**Alia:** Rzucałem kamieniami.  
+**Mox:** Co robiłaś tuż przed przyjściem tutaj?  
+**Alia:** Rzucałam kamieniami.  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?».
 
@@ -34621,7 +34621,7 @@
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
-**Alia:** Rozmawiałem z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
+**Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1.
 
@@ -34645,18 +34645,18 @@
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?».
 
-**Mox:** Co robiłeś po lunchu?  
-**Alia:** Miałem trochę pieniędzy, więc poszedłem na zakupy.  
+**Mox:** Co robiłaś po lunchu?  
+**Alia:** Miałam trochę pieniędzy, więc poszłam na zakupy.  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?».
 
-**Mox:** Jakim samochodem przyjechałeś?  
+**Mox:** Jakim samochodem przyjechałaś?  
 **Alia:** Czarnym samochodem!  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?».
 
-**Mox:** Co robiłeś tuż przed przyjściem tutaj?  
-**Alia:** Rzucałem kamieniami.  
+**Mox:** Co robiłaś tuż przed przyjściem tutaj?  
+**Alia:** Rzucałam kamieniami.  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2.
 
@@ -34670,23 +34670,23 @@
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?».
 
-**Mox:** Gdzie rzucałeś kamieniami?  
+**Mox:** Gdzie rzucałaś kamieniami?  
 **Alia:** Oczywiście do jeziora.  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
-**Alia:** Rozmawiałem z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
+**Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?».
 
-**Mox:** Jakim samochodem przyjechałeś?  
+**Mox:** Jakim samochodem przyjechałaś?  
 **Alia:** Czarnym samochodem!  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?».
 
-**Mox:** Co robiłeś tuż przed przyjściem tutaj?  
-**Alia:** Rzucałem kamieniami.  
+**Mox:** Co robiłaś tuż przed przyjściem tutaj?  
+**Alia:** Rzucałam kamieniami.  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?».
 
@@ -34711,7 +34711,7 @@
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
-**Alia:** Rozmawiałem z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
+**Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?».
 
@@ -34725,7 +34725,7 @@
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?».
 
-**Mox:** Jakim samochodem przyjechałeś?  
+**Mox:** Jakim samochodem przyjechałaś?  
 **Alia:** Czarnym samochodem!  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4.
@@ -34740,13 +34740,13 @@
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4 → wybór «Co robiłeś po przyjściu tutaj?».
 
-**Mox:** Co robiłeś tuż przed przyjściem tutaj?  
-**Alia:** Rzucałem kamieniami.  
+**Mox:** Co robiłaś tuż przed przyjściem tutaj?  
+**Alia:** Rzucałam kamieniami.  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
-**Alia:** Rozmawiałem z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
+**Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?».
 
@@ -34760,7 +34760,7 @@
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?».
 
-**Mox:** Jakim samochodem przyjechałeś?  
+**Mox:** Jakim samochodem przyjechałaś?  
 **Alia:** Czarnym samochodem!  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 5.
@@ -34784,8 +34784,8 @@
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?».
 
-**Mox:** Co robiłeś po lunchu?  
-**Alia:** Miałem trochę pieniędzy, więc poszedłem na zakupy.  
+**Mox:** Co robiłaś po lunchu?  
+**Alia:** Miałam trochę pieniędzy, więc poszłam na zakupy.  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?».
 
@@ -34795,7 +34795,7 @@
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
-**Alia:** Rozmawiałem z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
+**Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?».
 
@@ -34814,8 +34814,8 @@
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?».
 
-**Mox:** Co robiłeś tuż przed przyjściem tutaj?  
-**Alia:** Rzucałem kamieniami.  
+**Mox:** Co robiłaś tuż przed przyjściem tutaj?  
+**Alia:** Rzucałam kamieniami.  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?».
 
@@ -34825,7 +34825,7 @@
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
-**Alia:** Rozmawiałem z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
+**Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?».
 
@@ -34834,7 +34834,7 @@
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?».
 
-**Mox:** Jakim samochodem przyjechałeś?  
+**Mox:** Jakim samochodem przyjechałaś?  
 **Alia:** Czarnym samochodem!  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8.
@@ -34849,13 +34849,13 @@
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8 → wybór «Gdzie rzucałeś kamieniami?».
 
-**Mox:** Gdzie rzucałeś kamieniami?  
+**Mox:** Gdzie rzucałaś kamieniami?  
 **Alia:** Oczywiście do jeziora.  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
-**Alia:** Rozmawiałem z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
+**Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?».
 
@@ -34864,8 +34864,8 @@
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Co robiłeś po lunchu?».
 
-**Mox:** Co robiłeś po lunchu?  
-**Alia:** Miałem trochę pieniędzy, więc poszedłem na zakupy.  
+**Mox:** Co robiłaś po lunchu?  
+**Alia:** Miałam trochę pieniędzy, więc poszłam na zakupy.  
 
 > **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?».
 
@@ -34998,7 +34998,7 @@
 
 **Mox:** /greet  
 **Lillian:** /greet  
-**Mox:** Widziałeś Tashę albo Nellie?  
+**Mox:** Widziałaś Tashę albo Nellie?  
 **Lillian:** Poszły na zaplecze.  
 **Mox:** Dzięki.  
 **Lillian:** Kiedy tylko chcesz, Mox. Ostrzegam tylko, że są trochę zajęte.  
@@ -36918,13 +36918,13 @@
 **Mox:** Nic, kurwa, nie widzę.  
 **Melissa:** Potrzebujesz latarki?  
 **Mox:** Hej! To nie moja wina, że Andrea nie wtajemnicza cię w sprawę. Nie wyżywaj się na mnie.  
-**Melissa:** Czemu jesteś taki wściekły? Myślałem, że taka akcja uspokoiłaby taką beksę jak ty.  
+**Melissa:** Czemu jesteś taki wściekły? Myślałam, że taka akcja uspokoiłaby taką beksę jak ty.  
 **Mox:** Chcesz zobaczyć trochę akcji?...  
 **Mox:** Właśnie o taką akcję ci chodzi, prawda?  
 **Melissa:** Hej! Czas ucieka.  
 **Mox:** Nie chcesz?  
 **Melissa:** Pospiesz się, mistrzu.  
-**Mox:** Od dawna tego chciałeś. Widzę to.  
+**Mox:** Od dawna tego chciałaś. Widzę to.  
 **Melissa:** Kurwa, ale z ciebie dziwak!  
 **Mox:** Podoba ci się, brudna dziwko!  
 **Melissa:** Boże, Mox! Tak!  
@@ -37341,7 +37341,7 @@
 **Kimberly:** Został jeszcze ktoś? Są jakieś inne powiązania, o których warto wspomnieć?  
 **Mox:** No cóż… eee…  
 **Melissa:** Ich przywódcą był Charles Wilkes. Bez niego cała organizacja się rozpada.  
-**Nellie:** O, cholera… Nie miałem pojęcia, że Wilkes był z tym powiązany. Cóż za zabawny zbieg okoliczności!  
+**Nellie:** O, cholera… Nie miałam pojęcia, że Wilkes był z tym powiązany. Cóż za zabawny zbieg okoliczności!  
 **Kimberly:** Wygląda na to, że Gildia działa tu od dawna.  
 **Paul:** Cięcie!  
 **Paul:** Co z wami, do cholery, jest nie tak? Powiedzcie coś ciekawego!  
@@ -37799,8 +37799,8 @@
 **Mox:** Ale dopiero, gdy będzie gotowe.  
 **Heather:** Kolacja gotowa.  
 **Hannah:** /excited  
-**Chloe:** Nie powiedziałaś jej, że byłem w kościele, prawda?  
-**Mox:** Nie. Nic nie mówiłam Hannah.  
+**Chloe:** Nie powiedziałaś jej, że byłam w kościele, prawda?  
+**Mox:** Nie. Nic nie mówiłem Hannah.  
 **Mox:** Spotykasz się z siostrą Judy?  
 **Chloe:** Po prostu… Ufam jej.  
 **Mox:** Wiesz, możesz do mnie przyjść, jeśli będziesz potrzebować pomocy.  
@@ -37817,7 +37817,7 @@
 **Mox:** Heather, dziękuję, że pomogłaś mi znaleźć mój pierwszy dom.  
 **Carol:** No więc, o co chodzi? Dostałeś podwyżkę, Mox?  
 **Mox:** Nie, żadnej podwyżki…  
-**Heather:** Mieliśmy szczęście. Bank musiał pozbyć się tej nieruchomości, a ja jako pierwszy zauważyłem okazję.  
+**Heather:** Mieliśmy szczęście. Bank musiał pozbyć się tej nieruchomości, a ja jako pierwszy zauważyłam okazję.  
 **Hannah:** A może znajdziesz też dom dla mnie?  
 **Carol:** A jak zamierzasz za to zapłacić, młoda damo?  
 **Chloe:** Może złożymy się razem na mieszkanie w centrum.  
@@ -37850,10 +37850,10 @@
 **Carol:** Rzadko słyszy się o morderczyni.  
 **Chloe:** Nie tylko mordowała — porywała ludzi.  
 **Heather:** Ta kobieta… Była przełożoną zakonnic przy kościele.  
-**Chloe:** Tak. Poznałem ją, kiedy studiowałem na SDU. Miałem szczęście, że udało mi się stamtąd wydostać.  
+**Chloe:** Tak. Poznałam ją, kiedy studiowałam na SDU. Miałam szczęście, że udało mi się stamtąd wydostać.  
 **Hannah:** Chętnie zobaczyłabym, jak ta kobieta próbuje mnie porwać. Dałabym jej niezły wycisk!  
-**Mox:** Nie miałam pojęcia, że spotkałeś Madalyn. Chodziłeś do kaplicy na zajęcia z ekonomii?  
-**Chloe:** To nic takiego. Po prostu ją widziałem, tyle.  
+**Mox:** Nie miałem pojęcia, że spotkałaś Madalyn. Chodziłaś do kaplicy na zajęcia z ekonomii?  
+**Chloe:** To nic takiego. Po prostu ją widziałam, tyle.  
 **Carol:** Po skandalu seksualnym na Uniwersytecie East State i morderstwach na Saint Dame zaczynam się zastanawiać, co się dzieje z naszym systemem edukacji.  
 **Hannah:** Dlatego mówię: niech diabli wezmą studia.  
 **Carol:** Jaki masz plan, Hannah? Poślubić bogacza?  
@@ -37923,7 +37923,7 @@
 **Mox:** I do tego superseksowną mamą.  
 **Heather:** Ojej, przystojniaku. Może dziś po kolacji ta mamusia pokaże ci, jaka naprawdę jest seksowna.  
 **Mox:** Czyli przyjdziesz na kolację?  
-**Heather:** Nie opuściłbym jej za żadne skarby, kochanie.  
+**Heather:** Nie opuściłabym jej za żadne skarby, kochanie.  
 **Heather:** W takim razie do zobaczenia.  
 **Mox:** Już się nie mogę doczekać.  
 
@@ -38087,7 +38087,7 @@
 **Hannah:** Mox tu jest!  
 **Chloe:** Udało ci się dotrzeć.  
 **Carol:** Wyglądacie świetnie, dziewczyny.  
-**Mox:** Tak, wyszłam z pracy trochę wcześniej.  
+**Mox:** Tak, wyszedłem z pracy trochę wcześniej.  
 **Hannah:** Chodźmy się zabawić!  
 **Mox:** Dobrze ci w tym bikini, Chloe.  
 **Chloe:** Dzięki, Mox! Cieszę się, że ci się podoba.  
@@ -38180,7 +38180,7 @@
 **Chloe:** /greet  
 **Mox:** /greet  
 **Chloe:** Odwiedziłeś Judy wczoraj wieczorem?  
-**Mox:** Tak. Przepraszam, jeśli ci dokuczałam.  
+**Mox:** Tak. Przepraszam, jeśli ci dokuczałem.  
 **Chloe:** W porządku. Lubię z tobą rozmawiać, Mox.  
 
 ---
@@ -38361,7 +38361,7 @@
 **Heather:** Właśnie wychodzisz, Mox?  
 **Mox:** Wciąż nie śpisz?  
 **Heather:** Kanapa nie jest najwygodniejszym miejscem do spania.  
-**Mox:** To miłe z twojej strony, że pozwoliłeś Judy spać w swojej sypialni.  
+**Mox:** To miłe z twojej strony, że pozwoliłaś Judy spać w swojej sypialni.  
 **Heather:** Z tego, co słyszałam, ty też byłeś dla niej bardzo miły.  
 **Mox:** Co słyszałaś?  
 **Heather:** Bawisz się uczuciami zakonnicy, Mox?  
@@ -38446,7 +38446,7 @@
 ## Mapa 024 — Przedsionek / event 39 / strona 1
 
 **Chloe:** Wracasz do pracy?  
-**Mox:** Zmieniłam zdanie. Popływam z wami, dziewczyny.  
+**Mox:** Zmieniłem zdanie. Popływam z wami, dziewczyny.  
 **Chloe:** Judy będzie zachwycona, słysząc to.  
 **Mox:** Gdzie ona jest?  
 **Chloe:** Przebiera się na górze.  
@@ -38512,8 +38512,8 @@
 **Mox:** Myślałem, że jest tutaj.  
 **Judy:** Może poszła coś zjeść w restauracji.  
 **Chloe:** Zwykle nie jada poza domem.  
-**Mox:** Może jest na siłowni. Powiedziałeś jej, że wracasz do domu?  
-**Chloe:** Nie. Myślałem, że po prostu tu będzie.  
+**Mox:** Może jest na siłowni. Powiedziałaś jej, że wracasz do domu?  
+**Chloe:** Nie. Myślałam, że po prostu tu będzie.  
 **Mox:** Spróbuję ją znaleźć.  
 **Chloe:** Jestem taka głodna… Może pójdziemy do Hannah.  
 **Judy:** Ma coś do jedzenia?  
@@ -38557,7 +38557,7 @@
 **Mox:** Wyraźnie coś mi się w tym ujęciu podobało.  
 **Heather:** Teraz to ty się ze mnie droczysz.  
 **Heather:** To moje ulubione wspólne zdjęcie. Ależ to był wspaniały dzień.  
-**Mox:** Miałam szczęście, że byłeś obok. Zawsze świetnie się razem bawiliśmy.  
+**Mox:** Miałem szczęście, że byłaś obok. Zawsze świetnie się razem bawiliśmy.  
 **Heather:** Chyba byliśmy sobie potrzebni…  
 **Heather:** Samotne macierzyństwo nie jest łatwe.  
 
@@ -38826,7 +38826,7 @@
 **Hannah:** Nie ma w tobie żadnej mazi!  
 **Erica:** Przyjrzyj się uważniej.  
 **Hannah:** /curse  
-**Mox:** Ostrzegałam cię.  
+**Mox:** Ostrzegałem cię.  
 **Erica:** Hahahaha!  
 **Ella:** Było fajnie!  
 
@@ -38963,9 +38963,9 @@
 ## Mapa 024 — Przedsionek / event 61 / strona 1
 
 **Heather:** Och! Hannah znów jest naga.  
-**Hannah:** Hej, Heather! Chyba zdążyłem na imprezę przy basenie.  
+**Hannah:** Hej, Heather! Chyba zdążyłam na imprezę przy basenie.  
 **Heather:** Zdążyłeś. Naprawdę zamierzasz tak pływać?  
-**Hannah:** Zawsze jestem przygotowany. No dalej, dziewczyny! Skończmy już rozmawiać o mojej bieliźnie.  
+**Hannah:** Zawsze jestem przygotowana. No dalej, dziewczyny! Skończmy już rozmawiać o mojej bieliźnie.  
 **Ella:** No dalej! Chcę zobaczyć, co zrobi.  
 **Judy:** Hej! Uważajcie na niedźwiedzie!  
 **Heather:** Wiem, że wcześniej trochę się zabawiliście na dworze. Ale jeśli Hannah potrzebuje towarzystwa, mogę z nią popływać.  
@@ -38973,14 +38973,14 @@
 **Chloe:** W makijażu?  
 **Mox:** I w jednej z sukienek Carol.  
 **Heather:** Hannah w sukience!?  
-**Mox:** Też byłam w szoku.  
+**Mox:** Też byłem w szoku.  
 **Chloe:** Po co, do cholery, Hannah miałaby dobrowolnie założyć sukienkę i makijaż?  
 **Heather:** Wygląda na to, że chciała komuś zaimponować.  
 **Mox:** W… Wątpię.  
 **Heather:** Która nie chciałaby uszczknąć czegoś dla siebie, skoro jesteś takim przystojniakiem?  
 **Chloe:** Wystarczy, mamo.  
 **Heather:** Hej, jeśli używacie mojego podwórka do baraszkowania, nie dziwcie się, że trochę z wami flirtuję.  
-**Chloe:** Wcale nie baraszkowałem!  
+**Chloe:** Wcale nie baraszkowałam!  
 **Mox:** Trzeba przyznać… Ella zachęcała siostrę Judy.  
 **Heather:** Ty… odebrałeś jej dziewictwo?  
 **Mox:** Nie!...  
@@ -39227,13 +39227,13 @@
 **Carol:** Dobra robota!  
 **Heather:** /thanks  
 **Carol:** Teraz tylko musimy…  
-**Carol:** Cholera. Zapomniałem o worku z nawozem.  
+**Carol:** Cholera. Zapomniałam o worku z nawozem.  
 **Heather:** Zapomniałeś?  
-**Carol:** Byłem trochę rozkojarzony. Wyleciało mi z głowy.  
+**Carol:** Byłam trochę rozkojarzony. Wyleciało mi z głowy.  
 
 > **Ścieżka warunkowa:** warunek przedmiotu [118].
 
-**Mox:** Spokojnie. Poszłam po niego.  
+**Mox:** Spokojnie. Poszedłem po niego.  
 **Heather:** Masz nawóz?  
 **Mox:** Pewnie, że mam.  
 **Carol:** Czyli raczej nie będę mieć okazji spędzić chwili sam na sam z Heather.  
@@ -39349,7 +39349,7 @@
 **Mox:** Obie jesteście piękne. Cóż mogę powiedzieć?  
 **Heather:** Skoro zabawa się skończyła, wracajmy do pracy…  
 **Heather:** Pójdę po łopaty do garażu.  
-**Mox:** Po co powiedziałeś Heather?  
+**Mox:** Po co powiedziałaś Heather?  
 **Carol:** Przepraszam, Mox. Nie mogłam się powstrzymać.  
 **Mox:** Teraz myśli, że jestem zboczeńcem.  
 **Carol:** Nie bądź dla siebie taki surowy. Uważałam, że to urocze.  
@@ -39615,7 +39615,7 @@
 **Chloe:** Chyba mi też już wystarczy.  
 **Heather:** Zaraz do was dołączę.  
 **Chloe:** Dzięki, że spędziłeś ze mną czas, Mox.  
-**Hannah:** Wygląda na to, że tylko ja dziś poćwiczyłem.  
+**Hannah:** Wygląda na to, że tylko ja dziś poćwiczyłam.  
 **Mox:** Czujesz się silniejsza, Hannah?  
 **Hannah:** Chyba urosły mi mięśnie nóg.  
 **Chloe:** Uważaj, żeby nie przesadzić z mięśniami.  
@@ -39800,7 +39800,7 @@
 **Judy:** Ale Heather ma mądrość, którą daje wiek. Na pewno ceni ją bardziej niż wygląd.  
 **Ella:** Hahahaha! Jesteś taka urocza, siostro Judy.  
 **Judy:** Och… Dziękuję.  
-**Ella:** Słyszałem plotkę o was, panie.  
+**Ella:** Słyszałam plotkę o was, panie.  
 **Chloe:** Ello!  
 **Judy:** Plotkę?  
 **Mox:** Mogłyśmy zdradzić Elli kilka sekretów.  
@@ -39944,7 +39944,7 @@
 **Chloe:** Teraz zazdroszczę.  
 **Judy:** Och, nie bądź zazdrosna.  
 **Ella:** Droczę się z tobą, kochana. Byłaś doskonała.  
-**Heather:** Wróciłem. Coś mnie ominęło?  
+**Heather:** Wróciłam. Coś mnie ominęło?  
 **Chloe:** Mamo!  
 **Mox:** Cześć, Heather.  
 **Judy:** Przepraszam, panno Heather. Powinnam się ubrać.  
@@ -40567,7 +40567,7 @@
 **Mox:** Wszyscy?  
 **Judy:** Sama rozkosz do końca naszych dni!  
 **Mox:** Judy, zaczynam się ciebie bać. To do ciebie niepodobne.  
-**Mox:** Przepraszam, jeśli doprowadziłam cię do kryzysu wiary…  
+**Mox:** Przepraszam, jeśli doprowadziłem cię do kryzysu wiary…  
 **Mox:** Ale Lilith nie rozwiąże naszych problemów.  
 **Judy:** Wiedziałam, że tak powiesz.  
 **Judy:** Na szczęście ktoś tu jest, żeby pomóc mi cię przekonać.  
@@ -40599,7 +40599,7 @@
 **Kimberly:** Który facet nie lubi gorącej sceny pod prysznicem z dwiema pięknymi kobietami?  
 **Mox:** Zaczekaj! Mam na sobie ubranie!  
 **Kimberly:** Trzeba było o tym pomyśleć, zanim założyłaś kajdanki.  
-**Mox:** To nie ja założyłam kajdanki!  
+**Mox:** To nie ja założyłem kajdanki!  
 **Judy:** Biedny Mox.  
 **Mox:** Cholera! Moja kurtka!  
 **Kimberly:** Masz takie seksowne ciało, siostro!  
@@ -40632,10 +40632,10 @@
 **Judy:** Nic na to nie poradzę!  
 **Kimberly:** Chodź… Pokażę ci, jak to się robi.  
 **Kimberly:** Właśnie tak, kochanie! Daj mi porządnie!  
-**Mox:** O Boże, jak mogłabym się temu oprzeć?  
+**Mox:** O Boże, jak mogłbym się temu oprzeć?  
 **Kimberly:** Ulegnij swoim pragnieniom i pokaż mi, jakim jesteś mężczyzną!  
 **Mox:** O tak, kurwa!  
-**Kimberly:** Jestem taki niegrzeczny, deprawuję zakonnicę.  
+**Kimberly:** Jestem taka niegrzeczna, deprawuję zakonnicę.  
 **Mox:** Jesteś niegrzeczną dziewczynką, Kimberly.  
 **Kimberly:** Ukarz mnie, Mox!  
 **Judy:** Tak! Ukarz tę grzeszną cipkę!  
@@ -40690,7 +40690,7 @@
 **Mox:** Ha, ha, Bobby. Śmiej się, póki możesz.  
 **Mox:** Może spróbujesz zdjąć te kajdanki?  
 **Bobby:** Z takim nastawieniem? A niby dlaczego?  
-**Bobby:** Lepiej zawołam wszystkich, żeby obejrzeli przedstawienie.  
+**Bobby:** Lepiej zawołem wszystkich, żeby obejrzeli przedstawienie.  
 **Mox:** A ja opowiem całemu światu, że podglądałeś przez wizjer.  
 **Bobby:** Słuchaj, Canmore. Masz tupet.  
 **Mox:** Bobby!  
@@ -40890,12 +40890,12 @@
 **Smithfield:** Cholera!  
 **Mox:** Co się stało, komisarzu?  
 **Smithfield:** Mój portfel! Zniknął!  
-**Mox:** Jestem pewna, że się znajdzie. Pewnie go gdzieś upuściłeś.  
+**Mox:** Jestem pewien, że się znajdzie. Pewnie go gdzieś upuściłeś.  
 **Smithfield:** Nie sądzę… Nie jestem aż tak zapominalski.  
 **Mox:** Dobra. Gdzie myślisz, że się podział?  
 **Smithfield:** Wyglądam na detektywa? To twoja robota.  
 **Mox:** Yyy… jasne. Zaraz się tym zajmę.  
-**Mox:** Jestem pewna, że musi być gdzieś tu na komendzie.  
+**Mox:** Jestem pewien, że musi być gdzieś tu na komendzie.  
 
 ---
 
@@ -41170,7 +41170,7 @@
 **Mox:** Co masz na myśli?  
 **Melissa:** Masz ochotę wejść ze mną na ring?  
 **Mox:** Żartujesz…  
-**Melissa:** Trenowałem. Ty obijałeś się. Pokonam cię bez problemu.  
+**Melissa:** Trenowałam. Ty obijałeś się. Pokonam cię bez problemu.  
 **Mox:** Jesteś o połowę mniejszy ode mnie.  
 **Melissa:** Nie przesadzaj.  
 **Mox:** Dobra… Rozstrzygniemy remis sparingiem.  
@@ -41390,7 +41390,7 @@
 **Andrea:** Może dlatego tak je uwielbiam i stawiam w centrum uwagi. Zachwyca mnie młodzieńczy wigor i wdzięk.  
 **Andrea:** Cechy, które z czasem zanikają.  
 **Mox:** Nie powiedziałbym. Uważam, że masz naturalny wdzięk silnej, dojrzałej kobiety.  
-**Mox:** Jestem pewna, że w odpowiednich okolicznościach także potrafiłbyś wykazać się wigorem.  
+**Mox:** Jestem pewien, że w odpowiednich okolicznościach także potrafiłabyś wykazać się wigorem.  
 **Andrea:** Widać, że wciąż jesteś młody.  
 **Andrea:** Będę musiała mieć na ciebie oko.  
 **Mox:** Ty tu rządzisz.  
@@ -41458,7 +41458,7 @@
 **Mox:** …  
 **Mox:** Oczywiście.  
 **Mox:** Chętnie pomogę służyć interesowi publicznemu.  
-**Andrea:** I to chciałem usłyszeć, Mox.  
+**Andrea:** I to chciałam usłyszeć, Mox.  
 **Andrea:** Jeśli dobrze pójdzie, kto wie — może wyniknie z tego coś więcej.  
 **Mox:** Coś więcej?  
 **Andrea:** Masz potencjał, Mox. To może być dopiero początek długiej kariery.  
@@ -41558,7 +41558,7 @@
 
 **Andrea:** Mox. Miło, że do nas dołączyłeś.  
 **Melissa:** Przeanalizowaliśmy wszystkie ustalenia. Powiązania z Gildią nie da się podważyć.  
-**Andrea:** Tego właśnie się obawiałem.  
+**Andrea:** Tego właśnie się obawiałam.  
 **Mox:** Jeśli Wilkes nie był przywódcą Gildii, to przynajmniej był z nią blisko powiązany…  
 **Mox:** Moim zdaniem cała ta rezydencja to kryjówka Gildii… przejęta przez coś nowego.  
 **Melissa:** To tylko spekulacje.  
@@ -41569,11 +41569,11 @@
 ## Mapa 076 — Przedsionek / event 15 / strona 1
 
 **Andrea:** Mox. W samą porę.  
-**Kimberly:** Wszystko jej powiedziałem. Musimy opublikować tę historię.  
+**Kimberly:** Wszystko jej powiedziałam. Musimy opublikować tę historię.  
 **Erica:** Ja też mogę to potwierdzić… Cóż… przynajmniej część.  
-**Mox:** Co jej powiedziałeś?  
+**Mox:** Co jej powiedziałaś?  
 **Andrea:** Wygląda na to, że pod rezydencją Wilkesów są demony.  
-**Kimberly:** Przepraszam, że wtargnąłem na posesję, ale musisz mi uwierzyć.  
+**Kimberly:** Przepraszam, że wtargnęłam na posesję, ale musisz mi uwierzyć.  
 **Andrea:** Spokojnie, kochanie. Usiądźmy i porozmawiajmy.  
 **Kimberly:** Tak, oczywiście. Jest o czym mówić.  
 
@@ -41606,7 +41606,7 @@
 **Kimberly:** Ty suko!  
 **Andrea:** Pora iść, panno Foxx.  
 **Kimberly:** Mox?  
-**Mox:** Nie wiedziałam… Przepraszam.  
+**Mox:** Nie wiedziałem… Przepraszam.  
 **Erica:** Szantażujesz ją!  
 **Paul:** Powiedz mi, czego nie wiem.  
 **Kimberly:** Wychodzimy, Paul…  
@@ -41634,21 +41634,21 @@
 **Mox:** Spójrz na moją uroczą przyszłą mamę.  
 **Erica:** Przestań, hahaha.  
 **Judy:** Erica jest taka piękna. Dobrze to znosi.  
-**Judy:** Och, prawie zapomniałem — musimy jeszcze dokończyć coś ważnego.  
+**Judy:** Och, prawie zapomniałam — musimy jeszcze dokończyć coś ważnego.  
 
 > **Ścieżka warunkowa:** CAME INSIDE JUDY: wyłączony → ERICA CAME OUSIDE???: wyłączony.
 
 **Mox:** Spójrz na moją uroczą przyszłą mamę.  
 **Erica:** Aż promienieje.  
 **Judy:** Och, ale się cieszę.  
-**Judy:** Och, prawie zapomniałem — musimy jeszcze dokończyć coś ważnego.  
+**Judy:** Och, prawie zapomniałam — musimy jeszcze dokończyć coś ważnego.  
 
 > **Ścieżka warunkowa:** ERICA CAME OUSIDE???: włączony → CAME INSIDE JUDY: wyłączony.
 
 **Mox:** Spójrzcie na moje dwie przyszłe mamusie.  
 **Erica:** Och, jakie to wspaniałe.  
 **Judy:** Codziennie myślę o tym, ile radości wkrótce pojawi się w naszym życiu.  
-**Judy:** Och, prawie zapomniałem — musimy jeszcze dokończyć coś ważnego.  
+**Judy:** Och, prawie zapomniałam — musimy jeszcze dokończyć coś ważnego.  
 **Judy:** Naprawdę przydałaby nam się twoja pomoc.  
 **Erica:** Judy ma rację, jest mnóstwo do zrobienia.  
 **Mox:** Jezu, nie mogę dostać choć paru minut, żeby odpocząć po długim dniu?  
@@ -41794,7 +41794,7 @@
 **Andrea:** Na przykład takim domu.  
 **Melissa:** Hmm…  
 **Melissa:** Rzeczywiście, ładna rezydencja.  
-**Mox:** Pokazywałam ci już jacuzzi?  
+**Mox:** Pokazywałem ci już jacuzzi?  
 **Nellie:** Jest niesamowite.  
 **Melissa:** Jacuzzi brzmi kusząco…  
 **Andrea:** Pewnego dnia bez trudu zdobędziesz własną rezydencję i jacuzzi.  
@@ -41901,7 +41901,7 @@
 **Kimberly:** Czyli jednak istnieje jakieś powiązanie?  
 **Mox:** Nie ma żadnego powiązania. Ale wiem, że podejrzewasz, że może być.  
 **Kimberly:** Charles był przywódcą Gildii. Po prostu się przyznaj.  
-**Mox:** Gdybym to wiedziała, powiedziałabym ci.  
+**Mox:** Gdybym to wiedziała, powiedziałbym ci.  
 **Kimberly:** Naprawdę?  
 **Mox:** Nie za darmo.  
 **Kimberly:** Aha, czyli szukasz łapówki?  
@@ -41922,7 +41922,7 @@
 **Kimberly:** Nie pochlebiaj sobie, mięczaku.  
 **Mox:** Nie powiedziałbym, że teraz jestem miękki.  
 **Kimberly:** Oho. Zaczynasz przesadzać, co?  
-**Kimberly:** Ups. Chyba o czymś zapomniałem.  
+**Kimberly:** Ups. Chyba o czymś zapomniałam.  
 **Mox:** Nie boisz się, że Kimura wróci?  
 **Kimberly:** Zostawiła nas samych nie bez powodu. Chyba chciałaby, żebyśmy poznali się bliżej… osobiście.  
 **Mox:** Podoba mi się, dokąd to zmierza.  
@@ -41968,7 +41968,7 @@
 **Andrea:** Za daleko posunęliście się w swoich gierkach!  
 **Melissa:** Ludzie wiedzą, że to my powstrzymaliśmy Gildię. Po wszystkim.  
 **Andrea:** Planowaliście to za moimi plecami.  
-**Mox:** Chyba przesadzasz. Uratowałeś sytuację. Ludzie właśnie to zobaczą.  
+**Mox:** Chyba przesadzasz. Uratowałaś sytuację. Ludzie właśnie to zobaczą.  
 **Andrea:** Nie masz pojęcia, co zobaczą ludzie…  
 **Andrea:** Foxx rozdmucha tę sprawę do granic możliwości, a ja wyjdę na czarny charakter.  
 **Mox:** Może jednak nie.  
@@ -41994,7 +41994,7 @@
 **Melissa:** Wystarczy?  
 **Andrea:** Jeszcze z wami nie skończyłam.  
 **Mox:** Auć! To boli!  
-**Melissa:** Nie podejrzewałem, że cię na to stać, Kimura.  
+**Melissa:** Nie podejrzewałam, że cię na to stać, Kimura.  
 **Andrea:** Wciąż nie wiesz, kiedy trzymać język za zębami… Może chcesz zostać ukarany.  
 **Melissa:** Spróbuj.  
 **Melissa:** O kurwa!  
@@ -42048,7 +42048,7 @@
 **Andrea:** Jeśli chodzi o zatrzymanych przez ciebie podejrzanych, przesłuchają ich moi funkcjonariusze.  
 **Melissa:** Jak sobie życzysz.  
 **Andrea:** To twoje ostatnie ostrzeżenie.  
-**Melissa:** Zrozumiałem.  
+**Melissa:** Zrozumiałam.  
 **Andrea:** Wracaj do domu, Melisso. Miłego wieczoru.  
 **Melissa:** Mox wrócił do służby?  
 **Andrea:** Wracaj do domu.  
@@ -42209,7 +42209,7 @@
 **Andrea:** Oczywiście, że to zbadamy.  
 **Kimberly:** Dziękuję! Mój producent uważa, że zwariowałam. Ale jesteście jednymi z nielicznych osób, które też to widziały.  
 **Andrea:** Gdzie moje maniery? Przyniosę wam coś do picia.  
-**Erica:** Chętnie napiłbym się czegoś.  
+**Erica:** Chętnie napiłabym się czegoś.  
 **Kimberly:** Dziękuję, panno Kimura.  
 **Mox:** Andrea ma gdzieś tę szczelinę. Wchodzisz jej w drogę.  
 **Kimberly:** /shock  
@@ -42257,7 +42257,7 @@
 **Andrea:** Nie zawiedź moich gości, Mox… Nasza przyszłość od tego zależy.  
 **Mox:** Co ty, do cholery, planujesz?  
 **Kimberly:** Pieprz mnie, Mox!  
-**Erica:** Panno Kimura… Nie spodziewałem się tego po pani.  
+**Erica:** Panno Kimura… Nie spodziewałam się tego po pani.  
 **Andrea:** Podoba ci się?  
 **Erica:** Tak! Bardzo!  
 **Mox:** Jesteś bardzo niegrzeczna, Kimberly.  
@@ -42378,7 +42378,7 @@
 **Mox:** Stałem się swego rodzaju celebrytą.  
 **Ella:** Miałam w tym swój udział.  
 **Kimberly:** Ja też.  
-**Tasha:** Też się do tego przyczyniłem.  
+**Tasha:** Też się do tego przyczyniłam.  
 **Mox:** Nawet się wzbogaciłem.  
 **Andrea:** Ciężka praca popłaca.  
 **Nellie:** Coś o tym wiem.  
@@ -42472,9 +42472,9 @@
 
 ## Common Event 408 — SCN - Andrea Nellie Tub
 
-**Mox:** Och… To coś, co dostałam od koleżanki.  
+**Mox:** Och… To coś, co dostałem od koleżanki.  
 **Andrea:** To eliksir miłosny.  
-**Mox:** Widziałeś już kiedyś taki?  
+**Mox:** Widziałaś już kiedyś taki?  
 **Andrea:** Jak myślisz, jak sprawiłam, że ty i Kimberly się zeszliście?  
 **Mox:** O czym ty mówisz?  
 **Andrea:** Ten napój z kolacji, na której spotkaliśmy się we trójkę…  
@@ -42728,7 +42728,7 @@
 **Mox:** Nie. A powinienem?  
 **Nellie:** Cóż, jeśli dzięki temu znowu znajdziemy się w takiej sytuacji…  
 **Mox:** Och, eee… przepraszam.  
-**Nellie:** Powiedziałbym coś o kolacji, ale deser masz już za sobą.  
+**Nellie:** Powiedziałabym coś o kolacji, ale deser masz już za sobą.  
 **Mox:** Nellie, tak poważnie, co ty tu robisz?  
 **Nellie:** Nie mogę ci powiedzieć, ale musisz odejść, zanim on…  
 **Nellie:** Są tu niebezpieczni ludzie, Mox.  
@@ -42742,7 +42742,7 @@
 **Nellie:** Każ im odejść! Wynoś się stąd.  
 **Mox:** Nie! Nie pozwolę ci skrzywdzić Lillian.  
 **Nellie:** Odwołaj to. Po prostu odejdź.  
-**Mox:** Chyba śnisz! Zwariowałeś?  
+**Mox:** Chyba śnisz! Zwariowałaś?  
 **Nellie:** Proszę, Mox. Odejdź, zanim Duncan cię znajdzie.  
 **Mox:** Duncan?! Duncan Helmer tu jest?  
 **Mox:** Nellie, musimy…  
@@ -42872,7 +42872,7 @@
 **Nellie:** Proszę, po prostu wyjdź, zanim Duncan cię znajdzie.  
 **Mox:** Musisz mi powiedzieć, co się dzieje.  
 **Nellie:** Ja pierdolę!...  
-**Nellie:** Nie mów, że cię nie ostrzegałem.  
+**Nellie:** Nie mów, że cię nie ostrzegałam.  
 **Erica:** Mox, kim do cholery była ta?  
 **Mox:** Yyy… Nazywa się Nellie.  
 **Erica:** Znasz ją?  
@@ -43137,7 +43137,7 @@
 **Duncan:** Nie pouczaj mnie, jak mam dowodzić moimi ludźmi.  
 **Andrea:** To nie są twoi ludzie.  
 **Duncan:** Teraz już są.  
-**Andrea:** Nie zapominaj, co dla ciebie zrobiłem. Gildia jest twoja, ale ja tu wydaję rozkazy.  
+**Andrea:** Nie zapominaj, co dla ciebie zrobiłam. Gildia jest twoja, ale ja tu wydaję rozkazy.  
 **Duncan:** Oczywiście, wasza wysokość.  
 **Andrea:** Nie pyskuj, Duncan.  
 **Kimberly:** Psst. Mox.  
@@ -43146,13 +43146,13 @@
 **Andrea:** Trzymaj się z dala od Morgan. Puść ją. I na miłość boską, nie zbliżaj się do księdza.  
 **Duncan:** Mówiłem ci — zaczęli tu węszyć.  
 **Andrea:** To ich odeślij…  
-**Andrea:** Już się zająłem księdzem…  
+**Andrea:** Już się zajęłam księdzem…  
 **Andrea:** Głośno się zachowujesz, Duncan… Spróbuj dla odmiany siedzieć cicho.  
 **Duncan:** Prowadzę interesy. Może zajmij się swoimi.  
 **Andrea:** Jeśli tak dalej pójdzie, nic ci nie zostanie.  
 **Duncan:** Hmph.  
 **Mox:** Co ty tu, do cholery, robisz, Kimberly?  
-**Kimberly:** Mówiłem ci. Próbuję znaleźć Lillian.  
+**Kimberly:** Mówiłam ci. Próbuję znaleźć Lillian.  
 **Mox:** Nie widzisz, że roi się tu od ludzi z Gildii?  
 **Kimberly:** Wygląda na to, że twoja sprawa jeszcze się nie skończyła.  
 **Mox:** Nie powinnaś nic o tym wiedzieć…  
@@ -43228,7 +43228,7 @@
 **Duncan:** Czas zakończyć to nieplanowane spotkanie.  
 **Nellie:** Duncan, musimy się zbierać. Nadjeżdża więcej policjantów.  
 **Duncan:** Wątpię, moja wytatuowana gołąbeczko.  
-**Erica:** Mówiłem ci, że ona jest z nimi, Mox.  
+**Erica:** Mówiłam ci, że ona jest z nimi, Mox.  
 **Postać niezależna:** Stój, panienko!  
 **David:** Świetnie, Bobby. Idzie ci doskonale.  
 **Duncan:** Może ich zabijemy, a potem znajdziemy skarbiec Charlesa?  
@@ -43334,7 +43334,7 @@
 **Erica:** No to jaki jest plan?  
 **Mox:** Wejdź tam i spraw, żeby odeszli od korytarza przy kuchni.  
 **Erica:** Jak?  
-**Mox:** Nie pomyślałam tak daleko… Po prostu… Pokręć tyłkiem.  
+**Mox:** Nie pomyślałem tak daleko… Po prostu… Pokręć tyłkiem.  
 **Erica:** To nie zadziała.  
 **Mox:** Po prostu coś spróbuj.  
 **Erica:** Dobrze.  
@@ -43353,7 +43353,7 @@
 **Mox:** Mówią o kwiecie akacji… Jego olejki są wysoce łatwopalne.  
 **Erica:** Więc… jak nam to pomoże?  
 **Mox:** Wznieć ogień.  
-**Erica:** Zwariowałaś!?  
+**Erica:** Zwariowałeś!?  
 **Mox:** Tylko mały. Będą musieli zareagować.  
 **Erica:** To wywoła spore zamieszanie.  
 **Mox:** Potrzebujemy tylko małego ognia. Wy troje dacie radę.  
@@ -43600,10 +43600,10 @@
 **Duncan:** Dorwać tego pierdolonego reportera! Już!  
 **Drab:** Tak jest, proszę pana!  
 **Andrea:** Nie powinno cię tu być, Melisso.  
-**Melissa:** Mógłbym powiedzieć to samo.  
+**Melissa:** Mógłabym powiedzieć to samo.  
 **Duncan:** Nikomu nie pozwólcie wyjść.  
 **Andrea:** Uważaj na pannę Foxx.  
-**Duncan:** Nie jestem głupia.  
+**Duncan:** Nie jestem głupi.  
 **Mox:** Andrea! Potrzebujemy ojca Solomona!  
 **Andrea:** O czym ty mówisz?  
 **Melissa:** Nie mogę uwierzyć, że tym się zajmowałaś… Pomagałaś Gildii.  
@@ -43623,7 +43623,7 @@
 
 **Melissa:** /greet  
 **Mox:** /greet  
-**Melissa:** Zdawało mi się, że słyszałem szamotaninę.  
+**Melissa:** Zdawało mi się, że słyszałam szamotaninę.  
 **Mox:** Nic nie słyszałem… Ale będę miał oko.  
 
 ---
@@ -43896,7 +43896,7 @@
 **Mox:** Może od początku chodziło o pieniądze.  
 **Erica:** Nie widzę wiele z rezydencji, ale gdzie mogę, będę mieć oczy otwarte.  
 **Mox:** Dzięki, Eriko.  
-**Mox:** Lepiej już pójdę. Podejrzewam, że Lillian nie spodobałoby się, gdybym się tu kręciła.  
+**Mox:** Lepiej już pójdę. Podejrzewam, że Lillian nie spodobałoby się, gdybym się tu kręcił.  
 
 ---
 
@@ -44025,7 +44025,7 @@
 **Lillian:** Jakie to uczucie?  
 **Mox:** Niesamowite. Masz fantastyczną cipkę!  
 **Lillian:** Poddanie się tobie jest ekscytujące.  
-**Lillian:** Mógłbym się do tego przyzwyczaić.  
+**Lillian:** Mógłabym się do tego przyzwyczaić.  
 **Mox:** Naprawdę wiesz, jak obchodzić się z kutasem…  
 **Mox:** Twoje mięśnie zaciskają się w odpowiednich momentach.  
 **Lillian:** Minęło dużo czasu, ale wciąż wiem, jak zadowolić mężczyznę.  
@@ -44171,7 +44171,7 @@
 **Erica:** Szpiegowałam Lillian cały tydzień. Nigdy nie zauważyłam Madalyn ani niczego dziwnego.  
 **Mox:** Miej uszy otwarte. Muszę sprawdzić jaskinię.  
 **Erica:** Jaka jaskinia?  
-**Mox:** Madalyn szuka bunkra Gildii. Widziałam go, ale nie wiem, jak daleko sięga.  
+**Mox:** Madalyn szuka bunkra Gildii. Widziałem go, ale nie wiem, jak daleko sięga.  
 **Erica:** Zamierzasz przeszukać jaskinie Casula?  
 **Mox:** Zaufaj mi. Jeśli wydarzy się coś podejrzanego, zadzwoń.  
 **Erica:** Będę mieć oko, ale nie zostawiaj mnie na lodzie. Jeśli coś znajdziesz, powiedz mi.  
@@ -44476,9 +44476,9 @@
 **Erica:** Przepraszam, Mox. Nie wiem, co we mnie wstąpiło.  
 **Mox:** To ja powinienem przeprosić. Nie wiedziałem, co robić.  
 **Erica:** Miałam przytłaczającą ochotę na… seks.  
-**Mox:** Oglądałeś wiadomości?  
+**Mox:** Oglądałaś wiadomości?  
 **Erica:** Dlaczego pytasz?  
-**Mox:** Sama niewiele wiem, ale słyszałam, że krąży wirus zwiększający popęd seksualny.  
+**Mox:** Sama niewiele wiem, ale słyszałem, że krąży wirus zwiększający popęd seksualny.  
 **Erica:** Myślisz, że w tej rezydencji jest ten wirus?  
 **Mox:** Cokolwiek właśnie zobaczyłem, to nie jest normalne.  
 **Erica:** Teraz mnie przestraszyłeś.  
@@ -44515,7 +44515,7 @@
 **Mox:** /greet  
 **Lillian:** Mox? Gdzie poszedłeś?  
 **Mox:** Przepraszam, Lillian. Mieliśmy nagły wypadek i musieliśmy szybko wyjść.  
-**Lillian:** Czy detektyw Bhatt nadal chce akta mojego ojca? Nie znalazłem żadnych nowszych dokumentów.  
+**Lillian:** Czy detektyw Bhatt nadal chce akta mojego ojca? Nie znalazłam żadnych nowszych dokumentów.  
 **Mox:** Jeśli nadal będzie zainteresowana, sama się z tobą skontaktuje.  
 **Lillian:** Co ona wie, Mox?  
 **Mox:** Nie ma o czym mówić. Twój ojciec wiele lat temu miał powiązania z nielegalną organizacją…  
@@ -44530,7 +44530,7 @@
 **Mox:** /greet  
 **Lillian:** Mox? Gdzie poszedłeś?  
 **Mox:** Przepraszam, Lillian. Mieliśmy nagły wypadek i musieliśmy szybko wyjść.  
-**Lillian:** Czy detektyw Bhatt nadal chce akta mojego ojca? Nie znalazłem żadnych nowszych dokumentów.  
+**Lillian:** Czy detektyw Bhatt nadal chce akta mojego ojca? Nie znalazłam żadnych nowszych dokumentów.  
 **Mox:** Jeśli nadal będzie zainteresowana, sama się z tobą skontaktuje.  
 **Lillian:** Co ona wie, Mox?  
 **Mox:** Nie ma o czym mówić. Twój ojciec wiele lat temu miał powiązania z nielegalną organizacją…  
@@ -44543,11 +44543,11 @@
 
 **Lillian:** /greet  
 **Mox:** /greet  
-**Lillian:** Widziałem waszą relację w wiadomościach… Znaleźliście obraz?  
+**Lillian:** Widziałam waszą relację w wiadomościach… Znaleźliście obraz?  
 **Mox:** Eee… Tak.  
 **Lillian:** Węszyłeś po rezydencji, Mox. Teraz już nie możesz temu zaprzeczyć.  
 **Mox:** Lillian… Nie wiem wszystkiego, co się tu dzieje. Ale zaraz dorwiemy Duncana…  
-**Mox:** Może pora, żebyś powiedział mi więcej.  
+**Mox:** Może pora, żebyś powiedziała mi więcej.  
 **Lillian:** Dużo już razem przeszliśmy, Mox…  
 **Lillian:** Myślę, że już pora.  
 **Mox:** Pora na co?  
@@ -44606,11 +44606,11 @@
 **Mox:** Jak się trzymasz?  
 **Erica:** Podoba mi się. Czuję się bezpieczniej.  
 **Mox:** Gdzie jest Lillian?  
-**Erica:** Dawno jej nie widziałem…  
-**Erica:** Ale znalazłem coś ciekawego.  
+**Erica:** Dawno jej nie widziałam…  
+**Erica:** Ale znalazłam coś ciekawego.  
 **Mox:** O co chodzi?  
 **Erica:** To złamany klucz, cały porośnięty mchem.  
-**Mox:** Znalazłeś go na zewnątrz?  
+**Mox:** Znalazłaś go na zewnątrz?  
 **Erica:** Nie… Leżał w jadalni pod stołem.  
 **Mox:** Dziwne.  
 **Erica:** Na zewnątrz jest jakieś tajne przejście?  
@@ -44828,13 +44828,13 @@
 **Erica:** Mox. Gdzie są wszyscy policjanci? Został tylko jeden?  
 **Mox:** Erica! Jesteś.  
 **Erica:** Jestem trochę wcześniej.  
-**Mox:** Coś widziałam.  
+**Mox:** Coś widziałem.  
 **Erica:** Co? Co widziałaś?  
 **Mox:** Madalyn… Współpracuje z Lillian.  
 **Erica:** Co?  
 **Lillian:** Mox. Erico. Miło was widzieć.  
 **Erica:** Eee…  
-**Mox:** Cześć, Lillian. Właśnie… przyszłam ci powiedzieć, że zmniejszono liczbę policjantów.  
+**Mox:** Cześć, Lillian. Właśnie… przyszedłem ci powiedzieć, że zmniejszono liczbę policjantów.  
 **Lillian:** Choć cieszę się, że odzyskałam trochę prywatności, muszę zapytać: czy to bezpieczne?  
 **Mox:** Jeśli coś się stanie, policja szybko tu dotrze… Nie martw się.  
 **Lillian:** A pani, panno Abraham? Czuje się tu pani bezpiecznie?  
@@ -44843,7 +44843,7 @@
 **Erica:** Wszystko w porządku.  
 **Lillian:** Nie będę przeszkadzać ci w pracy.  
 **Erica:** Chcesz mi powiedzieć, że Madalyn wciąż jest w tej rezydencji?  
-**Mox:** Widziałam ją! Mówiła o szukaniu… Toma i amuletów… i…  
+**Mox:** Widziałem ją! Mówiła o szukaniu… Toma i amuletów… i…  
 **Erica:** Spokojnie. Szuka Toma Leolo?  
 **Mox:** Tak… Fragmentów… Szuka ich.  
 **Erica:** Jesteś pewna? Mówisz o tym, przez co unosiliśmy się w powietrzu?  
@@ -44870,7 +44870,7 @@
 ## Mapa 026 — Wejście / event 40 / strona 1
 
 **Erica:** Mox.  
-**Mox:** Co dokładnie usłyszałeś?  
+**Mox:** Co dokładnie usłyszałaś?  
 **Erica:** To dziwne. Musisz sam tego posłuchać…  
 **Erica:** /order  
 
@@ -44906,7 +44906,7 @@
 **Mox:** /greet  
 **Lillian:** /greet  
 **Lillian:** Co cię tu sprowadza?  
-**Mox:** Miałam nadzieję, że uda mi się dziś wieczorem wyciągnąć Ericę od ciebie.  
+**Mox:** Miałem nadzieję, że uda mi się dziś wieczorem wyciągnąć Ericę od ciebie.  
 **Erica:** Co słychać, Mox?  
 **Mox:** Cóż… Urządzamy małe przyjęcie u Chloe.  
 **Lillian:** Kombinujesz coś niegrzecznego, Mox?  
@@ -45005,7 +45005,7 @@
 
 **Erica:** Słyszałeś to?  
 **Henry:** Słyszałeś coś?  
-**Mox:** Też to słyszałam…  
+**Mox:** Też to słyszałem…  
 **Mox:** /order  
 
 ---
@@ -45101,10 +45101,10 @@
 **Erica:** Mój ulubiony pokój w rezydencji.  
 **Carol:** Nie znam lepszego miejsca na porządne wypełnienie.  
 **Heather:** Ale masz co złapać, Mox.  
-**Mox:** Nie myślałeś chyba, że przyjdę nieprzygotowana?  
+**Mox:** Nie myślałaś chyba, że przyjdę nieprzygotowana?  
 **Hannah:** To magiczny kamień!  
 **Kimberly:** Wróciłaś po kawałki?  
-**Mox:** Znalazłam tylko ten… Nie wiem, dokąd podziały się pozostałe.  
+**Mox:** Znalazłem tylko ten… Nie wiem, dokąd podziały się pozostałe.  
 **Ella:** Och! Wow… Eee… Na pewno przepadły na zawsze.  
 **Andrea:** Eee… Tak!... Chyba wszyscy możemy być spokojniejsi, skoro tylko Mox ma ten kawałek.  
 **Heather:** To coś nie sprawi, że oszalejesz, prawda?  
@@ -45157,7 +45157,7 @@
 **Mox:** Muszę przyznać, że było ciasno i przyjemnie.  
 **Erica:** Cholera! Ale intensywnie!  
 **Erica:** Nie sądziłam, że zakonnica będzie ssać moją łechtaczkę.  
-**Hannah:** A ja nie sądziłem, że będę pieścił niegrzeczne dziurki zakonnicy!  
+**Hannah:** A ja nie sądziłam, że będę pieścił niegrzeczne dziurki zakonnicy!  
 **Erica:** Kurwa!  
 **Hannah:** Ma naprawdę ciasne dziurki.  
 **Nellie:** Liż mi tyłek, dziewczyno!  
@@ -45290,7 +45290,7 @@
 **Chloe:** Ale seksownie!  
 **Arianna:** To… Przyjemne.  
 **Hannah:** Rozluźnij się i przyjmij go.  
-**Kimberly:** Piękny aniołek bierze w tyłek… Tego jeszcze nie widziałem.  
+**Kimberly:** Piękny aniołek bierze w tyłek… Tego jeszcze nie widziałam.  
 **Lillian:** Haha! To żaden anioł.  
 **Mox:** O kurwa! Tak! Ale czad!  
 **Arianna:** Ach! Ach! Ach!  
@@ -45449,7 +45449,7 @@
 ## Mapa 066 — Tajne pomieszczenie / event 12 / strona 2
 
 **Melissa:** /success  
-**Mox:** Wiedziałam, że to rozgryzę.  
+**Mox:** Wiedziałem, że to rozgryzę.  
 **Melissa:** Nie bądź zarozumiały, Mox. Wciąż nie wiemy, dokąd to prowadzi.  
 **Mox:** Jeden sposób, by się przekonać.  
 **Mox:** /order  
@@ -45490,7 +45490,7 @@
 
 ## Mapa 066 — Tajne pomieszczenie / event 16 / strona 1
 
-**Mox:** Widzę coś na posągu. Ciekawe, czy mogłabym w to czymś rzucić i strącić.  
+**Mox:** Widzę coś na posągu. Ciekawe, czy mogłbym w to czymś rzucić i strącić.  
 
 ---
 
@@ -45552,7 +45552,7 @@
 
 **Henry:** /greet  
 **Mox:** /greet  
-**Henry:** Ani śladu amuletów, ale widziałam dziwną monetę na głowie posągu.  
+**Henry:** Ani śladu amuletów, ale widziałem dziwną monetę na głowie posągu.  
 
 ---
 
@@ -45734,7 +45734,7 @@
 **Mox:** Czy to łóżko pomieści nas troje?  
 **Ella:** Nie licz na odrobinę prywatności, przystojniaku.  
 **Mox:** No i jak, Eriko? Gotowa?  
-**Erica:** Wiesz, Ello, nie jesteś pierwszą dziewczyną, z którą byłem.  
+**Erica:** Wiesz, Ello, nie jesteś pierwszą dziewczyną, z którą byłam.  
 **Ella:** Och! Masz doświadczenie. Podoba mi się.  
 **Erica:** Jestem gotowa.  
 **Ella:** Cholera! Zarabiałabyś kupę kasy na Lustagramie!  
@@ -45806,7 +45806,7 @@
 **Erica:** Traci nad sobą kontrolę!  
 **Mox:** Nie przestawaj! Daj z siebie wszystko!  
 **Mox:** Ja pierdolę.  
-**Erica:** Doszedłem.  
+**Erica:** Doszłam.  
 **Ella:** Co za orgazm! To by zarobiło kupę kasy.  
 **Ella:** Jak to wygląda? Dużo spermy?  
 **Erica:** Cholera! Ale wielki wytrysk.  
@@ -45954,7 +45954,7 @@
 **Chloe:** Myślę, że Mox też mógłby zdobyć własnych fanów.  
 **Mox:** Co masz na myśli?  
 **Chloe:** Wiadomości, głuptasie!  
-**Mox:** A, tak. Mówiono mi, że dobrze wypadałam przed kamerą.  
+**Mox:** A, tak. Mówiono mi, że dobrze wypadałem przed kamerą.  
 **Ella:** Wiesz, że tak uważam!  
 **Chloe:** Musisz tylko ostrożniej wybierać kamery.  
 **Ella:** Hahaha. Och, Chloe. Może pomożesz mi namówić Mox na wspólny występ.  
@@ -46055,7 +46055,7 @@
 **Chloe:** Zrób to, Mox. Chcę go poczuć w tyłku.  
 **Mox:** Już wszedł… Wszystko w porządku?  
 **Chloe:** Już dobrze, Mox. Nic mnie nie boli.  
-**Ella:** Wiedziałem, że dasz radę!  
+**Ella:** Wiedziałam, że dasz radę!  
 **Chloe:** Podoba mi się… To takie… niegrzeczne.  
 **Ella:** No jasne! To najniegrzeczniejsza rzecz na świecie!  
 **Mox:** Teraz będę cię pieprzył… Ale powoli.  
@@ -46273,7 +46273,7 @@
 **Mox:** /success  
 **Ella:** /excited  
 **Ella:** Moja ulubiona katana!  
-**Mox:** Otworzyliśmy sejf, żebyś mógł dostać miecz?  
+**Mox:** Otworzyliśmy sejf, żebyś mogła dostać miecz?  
 **Ella:** Hej. Dużo dla mnie znaczy.  
 **Ella:** Teraz wynośmy się stąd, zanim wrócą zbiry Gildii.  
 **Mox:** /order  
@@ -46423,7 +46423,7 @@
 **Mox:** Hej! O co chodzi!?  
 **Kimberly:** Przepraszam, Mox. Ale ktoś musiał nagłośnić tę historię.  
 **Mox:** Myślałem, że byliśmy partnerami.  
-**Kimberly:** Żartujesz? Dostarczyłaś mi mnóstwo materiału.  
+**Kimberly:** Żartujesz? Dostarczyłeś mi mnóstwo materiału.  
 **Mox:** I tak mnie traktujesz?  
 **Kimberly:** Robię z ciebie gwiazdę. Ludzie to pokochają.  
 **Mox:** Straciłem pracę.  
@@ -46765,7 +46765,7 @@
 ## Mapa 021 — Kaplica / event 13 / strona 3
 
 **Judy:** Dziwne. Gdzie ona jest?  
-**Mox:** Na pewno widziałeś, jak wchodziła do kaplicy?  
+**Mox:** Na pewno widziałaś, jak wchodziła do kaplicy?  
 **Judy:** Tak, zaledwie kilka minut temu.  
 **Judy:** Ojej!  
 **Mox:** Co to było?  
@@ -46801,7 +46801,7 @@
 ## Common Event 302 — SCN - Oracle
 
 **Mox:** Co to za rzecz?  
-**Judy:** Ja... Nigdy czegoś takiego nie widziałem. Nie wiem, co to może być.  
+**Judy:** Ja... Nigdy czegoś takiego nie widziałam. Nie wiem, co to może być.  
 **Mox:** Cokolwiek to jest, drżało i poruszało się samo.  
 **Judy:** Ojej... Co to za przeklęty drobiazg?  
 **Mox:** Boże, mam nadzieję, że to nie jest radioaktywne.  
@@ -46937,7 +46937,7 @@
 **Mox:** Nie sądzę, żeby to był dobry pomysł.  
 **Judy:** Pospiesz się. Skończ szybko.  
 **Chloe:** Och! Tak mocno przyciskasz go do mnie.  
-**Mox:** Ach! Tak. Mogłabym tak dojść.  
+**Mox:** Ach! Tak. Mogłbym tak dojść.  
 **Chloe:** Na pewno? A jeśli narobimy bałaganu?  
 **Mox:** Siostro Judy?  
 **Judy:** Dalej. Pospiesz się.  
@@ -47140,7 +47140,7 @@
 **Demon Judy:** Właśnie tak! Nie możesz przed tym uciec!  
 **Mox:** Czymkolwiek jesteś… To niesamowite!  
 **Demon Judy:** Tyle skrywanej żądzy czeka, by ją uwolnić.  
-**Mox:** Czuję się taka wolna.  
+**Mox:** Czuję się taki wolny.  
 **Judy:** Och, Heather! Uwielbiam, jak twoja cipka ociera się o moją!  
 **Heather:** Tak, siostro! Ocieraj swoją mokrą cipkę o moją!  
 **Mox:** Cholera! Ale gorąco!  
@@ -47383,7 +47383,7 @@
 **Brian:** Ktoś cię oszukuje. Czuję to.  
 **Mox:** Nie… Widziałem go. Poza naszym istnieje inny świat.  
 **Heather:** O mój Boże. Czy to wszystko ma związek ze sprawą złodziei, nad którą pracujesz?  
-**Mox:** Nie wiem, jak to wszystko się łączy. Ale wiem, że zdołam to rozgryźć. Musisz mi zaufać.  
+**Mox:** Nie wiem, jak to wszystko się łączy. Ale wiem, że zdołem to rozgryźć. Musisz mi zaufać.  
 **Brian:** Pan sprowadził mnie do North Santiva nie bez powodu…  
 **Brian:** Gildia, a teraz także świat demonów, ścierają się tutaj.  
 **Mox:** Nie wiem, co robić. Ale Lillian coś planuje. Zamierza nawet kazać Kimberly Foxx o tym opowiedzieć.  
@@ -47554,7 +47554,7 @@
 **Judy:** Brata? Z tego, co wiem, Madalyn nie miała brata.  
 **Mox:** Z tego, co słyszałem, ksiądz był jej bratem.  
 **Judy:** Ojciec Parker?  
-**Mox:** Nie sądzę, żeby Madalyn i ksiądz byli tymi, za kogo ich uważałeś.  
+**Mox:** Nie sądzę, żeby Madalyn i ksiądz byli tymi, za kogo ich uważałaś.  
 **Judy:** Ojej.  
 **Mox:** Wspominałaś, że miałaś wizje. Pamiętasz, jakie?  
 **Judy:** We śnie odwiedził mnie anioł.  
@@ -47740,10 +47740,10 @@
 
 **Judy:** /greet  
 **Mox:** /greet  
-**Judy:** Widziałaś może mój czepiec?  
+**Judy:** Widziałeś może mój czepiec?  
 **Mox:** Co to jest czepiec?  
 **Judy:** Mój czepek.  
-**Mox:** Przepraszam, siostro Judy, nie widziałam go.  
+**Mox:** Przepraszam, siostro Judy, nie widziałem go.  
 
 ---
 
@@ -47805,7 +47805,7 @@
 **Judy:** /greet  
 **Mox:** /greet  
 **Judy:** Muszę wyznać, opowiedziałam Chloe o naszej małej zabawie w sypialni.  
-**Mox:** Jestem pewna, że Chloe też będzie miała dla ciebie jakąś historię.  
+**Mox:** Jestem pewien, że Chloe też będzie miała dla ciebie jakąś historię.  
 
 ---
 
@@ -47828,21 +47828,21 @@
 **Mox:** Co? O co chodzi?  
 **Judy:** Chloe mi o tobie opowiedziała, Mox.  
 **Chloe:** Wcale nie!  
-**Mox:** Co powiedziałeś?  
+**Mox:** Co powiedziałaś?  
 **Chloe:** Mówiłam tylko, jaka Hannah jest szalona.  
 **Mox:** Lepiej trzymaj ją z dala od sportu, jeśli cenisz sobie bezpieczeństwo.  
 **Judy:** Nie o tym mi opowiadała.  
 **Chloe:** Daj spokój, Judy. Nie straszmy go.  
 **Mox:** Teraz musisz mi powiedzieć.  
 **Judy:** Chętnie zobaczyłabym tę jaskinię, którą znalazłeś, Mox.  
-**Mox:** Opowiedziałeś Judy o jaskini?  
+**Mox:** Opowiedziałaś Judy o jaskini?  
 **Chloe:** Co!? Opowiadam jej o wszystkim… Jest moją powierniczką.  
 **Judy:** Och, Chloe. Nie możesz mieć przed nim tajemnic.  
 **Mox:** To był pomysł Hannah. Cała sprawa w jaskini.  
 **Judy:** A co z wodospadem?  
 **Mox:** O cholera.  
 **Judy:** Mox! Nie musisz być wulgarny.  
-**Mox:** Domyślam się, że opowiedziałeś Chloe, co robiliśmy wczoraj wieczorem?  
+**Mox:** Domyślam się, że opowiedziałaś Chloe, co robiliśmy wczoraj wieczorem?  
 **Judy:** Mox!  
 **Chloe:** Chwila… Co się wydarzyło wczoraj wieczorem?  
 **Mox:** Judy… Nie okłamujesz Chloe, prawda?  
@@ -47881,7 +47881,7 @@
 **Mox:** Spokojnie. Po prostu pokażę ci, jak to robić.  
 **Judy:** Możesz mu zaufać, Chloe. Bardzo mi pomógł.  
 **Chloe:** A co z ojcem Solomonem?  
-**Mox:** Nie widziałam go w holu.  
+**Mox:** Nie widziałem go w holu.  
 **Judy:** Poszedł spać. Chodź… My też połóżmy się do łóżka.  
 
 ---
@@ -47964,7 +47964,7 @@
 **Chloe:** Chce wejść do środka.  
 **Judy:** Jakże… nieświęte.  
 **Chloe:** Proszę, Mox. Tak jest lepiej?  
-**Mox:** Chloe! Nie chciałam, żebyś musiała to robić.  
+**Mox:** Chloe! Nie chciałem, żebyś musiała to robić.  
 **Judy:** Czyli… Ty też to czujesz?  
 **Chloe:** Siostro Judy, on musi dojść.  
 **Mox:** O tak!  
@@ -48068,7 +48068,7 @@
 **Chloe:** Jasne… Chyba to ma sens.  
 **Judy:** Dziękuję za odwiedziny, Mox.  
 **Mox:** Oczywiście, siostro Judy.  
-**Mox:** Chloe, chcesz żebym odprowadziła cię do domu?  
+**Mox:** Chloe, chcesz żebym odprowadził cię do domu?  
 **Chloe:** Byłoby miło.  
 **Judy:** Uważajcie na siebie. Robi się późno.  
 **Mox:** Nie martw się, siostro. Będę ją chronić.  
@@ -48297,7 +48297,7 @@
 **Mox:** Wygląda jak schody prowadzące w dół do ciemnej przestrzeni.  
 **Chloe:** Uważaj, Mox.  
 **Judy:** Pod moją sypialnią jest piwnica?  
-**Brian:** To nie byłaby pierwsza niespodzianka, jaką znalazłam w tym miejscu.  
+**Brian:** To nie byłaby pierwsza niespodzianka, jaką znalazłem w tym miejscu.  
 **Melissa:** Zostań tutaj. Mox i ja to sprawdzimy.  
 **Melissa:** /order  
 
@@ -48588,7 +48588,7 @@
 **Judy:** Ostatnio dużo się modliłam.  
 **Mox:** Po co?  
 **Judy:** O tym, co pokazała mi Hannah.  
-**Mox:** Wiesz… Ja też dużo o tym myślałam.  
+**Mox:** Wiesz… Ja też dużo o tym myślałem.  
 **Judy:** I co?  
 **Mox:** Chyba to może być w porządku.  
 **Judy:** Też tak myślę, Mox. Naprawdę.  
@@ -48876,8 +48876,8 @@
 
 **Judy:** Nie chcę wam przerywać. Ale, Mox… Twoje ubrania są suche.  
 **Mox:** Dzięki, siostro Judy.  
-**Nellie:** Choć chciałbym zostać, muszę ruszać.  
-**Mox:** Poczekaj. Ojciec Solomon chciał, żebym dopilnowała, byś nie wyszedł, zanim wróci.  
+**Nellie:** Choć chciałabym zostać, muszę ruszać.  
+**Mox:** Poczekaj. Ojciec Solomon chciał, żebym dopilnował, byś nie wyszła, zanim wróci.  
 **Nellie:** Spróbujesz mnie zatrzymać?  
 **Judy:** Ojej…  
 **Mox:** Hej! Wracaj!  
@@ -48954,11 +48954,11 @@
 ## Mapa 056 — Na zachód od wejścia / event 30 / strona 2
 
 **Mox:** Arianno!  
-**Arianna:** Mox… Znalazłem Ericę.  
+**Arianna:** Mox… Znalazłam Ericę.  
 **Mox:** Nadal była w Limbo?  
-**Arianna:** Dałem jej relikwię… Wciąż jest szansa.  
-**Mox:** Powiedziałeś jej, co ma z nią zrobić?  
-**Arianna:** Ja… Powiedziałem jej tylko to, co musiała wiedzieć, by dokonać wyboru…  
+**Arianna:** Dałam jej relikwię… Wciąż jest szansa.  
+**Mox:** Powiedziałaś jej, co ma z nią zrobić?  
+**Arianna:** Ja… Powiedziałam jej tylko to, co musiała wiedzieć, by dokonać wyboru…  
 **Arianna:** Ale, Mox… Nie wiesz, jak jest w Limbo… Nie wiesz, jak to jest umrzeć.  
 **Mox:** Co masz na myśli?  
 **Arianna:** Erica wybiera między życiem wiecznym a wiecznym potępieniem.  
@@ -49042,7 +49042,7 @@
 **Heather:** Gdy się pieprzymy…  
 **Brian:** Hej, Mox. Cześć, panno Wilson.  
 **Mox:** Och, yyy… Hej, ojcze.  
-**Heather:** Tak tylko… Szukałem toalety.  
+**Heather:** Tak tylko… Szukałam toalety.  
 **Brian:** Och! Ale ze mnie niegrzeczny. Pozwól, że odblokuję łazienkę…  
 **Brian:** Trzymam ją zamkniętą, żeby parafianie nie zaglądali do mojej apteczki.  
 **Heather:** Och, yyy… Dziękuję, ojcze.  
@@ -49059,7 +49059,7 @@
 
 **Brian:** Co, do cholery, Mox robi w środku?  
 **Carol:** Co za ładna toaleta.  
-**Heather:** Och, tak. Mówiłem, że jest ładna.  
+**Heather:** Och, tak. Mówiłam, że jest ładna.  
 **Mox:** I to kończy naszą wycieczkę.  
 **Brian:** O rany! Śmierdzi tam seksem.  
 **Heather:** Eee…  
@@ -49134,7 +49134,7 @@
 **Mox:** Chcesz zaryzykować?  
 **Duncan:** Heh… To nie hazard.  
 **Oprych 1:** Co on, do diabła, tu robi?  
-**Duncan:** Właśnie się nad tym samym zastanawiałam.  
+**Duncan:** Właśnie się nad tym samym zastanawiałem.  
 **Mox:** Koniec. Wszyscy jesteście aresztowani!  
 **Oprych 2:** Haha. Nie sądzę.  
 **Kobieta-popleczniczka:** Co zamierzasz zrobić, fircyku?  
@@ -49431,7 +49431,7 @@
 
 ## Mapa 144 — Biblioteka / event 21 / strona 1
 
-**Erica:** Pomógłbym wam przeszukać rezydencję, ale chyba straciłem pracę.  
+**Erica:** Pomógłabym wam przeszukać rezydencję, ale chyba straciłam pracę.  
 **Mox:** Niełatwo dostać się z powrotem do rezydencji. Pilnuje jej policja.  
 **Brian:** Co zamierzasz zrobić?  
 **Mox:** Porozmawiam z Lillian i spróbuję znaleźć jakieś wskazówki.  
@@ -49621,7 +49621,7 @@
 **Brian:** /greet  
 **Brian:** Krzyże podziałały na demony.  
 **Mox:** Myślałem, że wiedziałaś, że tak się stanie.  
-**Brian:** Cóż… Nie byłam całkiem pewna.  
+**Brian:** Cóż… Nie byłem całkiem pewna.  
 **Mox:** …  
 
 ---
@@ -49632,7 +49632,7 @@
 **Brian:** /greet  
 **Brian:** Krzyże podziałały na demony.  
 **Mox:** Myślałem, że wiedziałaś, że tak się stanie.  
-**Brian:** Cóż… Nie byłam całkiem pewna.  
+**Brian:** Cóż… Nie byłem całkiem pewna.  
 **Mox:** …  
 
 ---
@@ -49760,7 +49760,7 @@
 
 **Mox:** /greet  
 **Henry:** /greet  
-**Henry:** Zauważyłam, że masz dużo przyjaciółek.  
+**Henry:** Zauważyłem, że masz dużo przyjaciółek.  
 **Mox:** Jestem popularnym facetem.  
 **Henry:** Ja też.  
 
@@ -49928,7 +49928,7 @@
 **Nellie:** Nie… Mój.  
 **Nellie:** Co słychać?  
 **Nellie:** …  
-**Nellie:** Tak. Widziałem.  
+**Nellie:** Tak. Widziałam.  
 **Nellie:** …  
 **Nellie:** Zaraz będę.  
 **Mox:** Andreo?  
@@ -49977,7 +49977,7 @@
 **Mox:** To jeszcze nie koniec.  
 **Nellie:** No pewnie, że nie.  
 **Mox:** W krótkim czasie rozwiązaliśmy już wiele spraw. Co nam szkodzi rozwiązać jeszcze jedną?  
-**Nellie:** Zaufałem Andrei. Chyba nie pozostaje mi nic innego, jak mieć nadzieję.  
+**Nellie:** Zaufałam Andrei. Chyba nie pozostaje mi nic innego, jak mieć nadzieję.  
 **Mox:** Razem jakoś to rozwiążemy.  
 **Nellie:** Trudno mi pogodzić się z myślą, że mogę już nie dostać tego kutasa.  
 **Mox:** Myślisz, że nie odwiedzałbym cię w więzieniu?  
@@ -50053,7 +50053,7 @@
 
 **Brian:** /greet  
 **Mox:** /greet  
-**Brian:** Od bardzo dawna nie siedziałam tak długo po nocy.  
+**Brian:** Od bardzo dawna nie siedziałem tak długo po nocy.  
 
 ---
 
@@ -50276,10 +50276,10 @@
 **Mox:** To nie duchy. Po prostu masz masę spraw do załatwienia.  
 **Melissa:** Nie marnuj czasu. Musimy zbadać Andreę.  
 **Mox:** Jesteś bardziej opętana pracą niż ja… Przynajmniej ja utrzymuję dom w czystości.  
-**Melissa:** Przyszłaś tu pomóc czy mnie strofować?  
+**Melissa:** Przyszedłeś tu pomóc czy mnie strofować?  
 **Mox:** Zajmę się tym… Nie mogę nawet myśleć przy tym hałasie.  
 **Melissa:** Dobra. Ja będę wykonywać prawdziwą pracę, gdy ty marnujesz czas.  
-**Mox:** Czekaj! Wyjaśnij dokładnie, co się dzieje, bym wiedziała, od czego zacząć.  
+**Mox:** Czekaj! Wyjaśnij dokładnie, co się dzieje, bym wiedział, od czego zacząć.  
 **Melissa:** Kran się nie zakręca, suszarka wydaje dudnienie, a lodówka hałasuje dwa razy dziennie przez około godzinę.  
 **Mox:** Tak… To nie duchy.  
 **Melissa:** Fuj.  
@@ -50473,8 +50473,8 @@
 **Mox:** Wkrótce tam będę, siostro Judy.  
 **Judy:** Nie mogę się doczekać, by cię tam zobaczyć.  
 **Chloe:** Dopilnuj, by Hannah się przygotowała.  
-**Hannah:** Po co, do cholery, obiecałem, że pójdę do nudnego kościoła?  
-**Carol:** Hannah! Lepiej się przebierz. Myślałem, że już wyszłaś.  
+**Hannah:** Po co, do cholery, obiecałam, że pójdę do nudnego kościoła?  
+**Carol:** Hannah! Lepiej się przebierz. Myślałam, że już wyszłaś.  
 **Hannah:** Mamo! Nie chcę iść.  
 **Carol:** Jesteś dorosła. Nie musisz iść.  
 **Mox:** Jeśli idziesz, lepiej się pospiesz.  
@@ -50572,9 +50572,9 @@
 **Mox:** To nie poszło dobrze.  
 **Carol:** Wiedziała, gdzie jest twój fiut?  
 **Mox:** Jak mówiłaś… Kot wyleciał z worka.  
-**Carol:** Biedna dziewczyna musi być przerażona. Nie widziałem jej w makijażu. To nie w jej stylu.  
+**Carol:** Biedna dziewczyna musi być przerażona. Nie widziałam jej w makijażu. To nie w jej stylu.  
 **Mox:** Cóż… I miała mojego fiuta w buzi.  
-**Carol:** Poprosiłbym cię, byś ją odnalazł, ale jestem pewna, że masz robotę.  
+**Carol:** Poprosiłabym cię, byś ją odnalazł, ale jestem pewna, że masz robotę.  
 **Mox:** A propos… Wyrzucili mnie.  
 **Carol:** /shock  
 **Carol:** Mówisz poważnie?  
@@ -50802,7 +50802,7 @@
 **Carol:** /greet  
 **Mox:** /greet  
 **Carol:** Wcześnie wstałeś.  
-**Mox:** Jak spałeś?  
+**Mox:** Jak spałaś?  
 **Carol:** Dużo lepiej po takim nadzieniu, jakie mi zafundowałeś.  
 
 ---
@@ -50954,7 +50954,7 @@
 
 **Hannah:** /greet  
 **Mox:** /greet  
-**Hannah:** Myślałem, że miałaś iść do łóżka?  
+**Hannah:** Myślałam, że miałaś iść do łóżka?  
 
 ---
 
@@ -50990,7 +50990,7 @@
 **Hannah:** Czy jest wystarczająco twarda, by sobie ze mną poradzić?  
 **Mox:** Haha… Myślę, że tak, Hannah.  
 **Hannah:** Gorąco! Chodźmy do sex shopu!  
-**Mox:** Chcesz, bym poszła z tobą?  
+**Mox:** Chcesz, bym poszedł z tobą?  
 **Hannah:** Jeśli nadążysz!  
 
 ---
@@ -51135,7 +51135,7 @@
 **Mox:** Nie najłatwiej uwierzyć członkowi Gildii.  
 **Diana:** Gildia umrze. Uwierz mi.  
 **Mox:** Gildia może umrzeć z tobą lub bez ciebie.  
-**Diana:** Nie byłbym tego taki pewien.  
+**Diana:** Nie byłabym tego taki pewien.  
 **Mox:** Czego potrzebujesz?  
 **Diana:** Weź ten klucz…  
 **Diana:** Otwiera zamknięte drzwi w opuszczonej kaplicy.  
@@ -51202,7 +51202,7 @@
 ## Mapa 086 — Za rezydencją / event 44 / strona 1
 
 **Mox:** Diano, Henry… Udało się.  
-**Diana:** Masz szczęście, że Henry dał się przekonać, by ci pomóc. Chciałem wpakować kulkę Duncanowi w mózg i zwiewać stąd.  
+**Diana:** Masz szczęście, że Henry dał się przekonać, by ci pomóc. Chciałam wpakować kulkę Duncanowi w mózg i zwiewać stąd.  
 **Mox:** To czemu tego nie zrobiłeś?  
 **Henry:** Mamy problem.  
 **Erica:** Co się stało?  
@@ -51303,7 +51303,7 @@
 **Carol:** Na tym polega kąpiel na golasa. Chyba że chcesz zmoczyć i ubrudzić ubrania.  
 **Heather:** Nikt nas nie zobaczy. To bezpieczne.  
 **Carol:** Nikt mnie nie powstrzyma. Dalej, Mox. Spróbuj.  
-**Mox:** Już kąpałam się na golasa wcześniej.  
+**Mox:** Już kąpałem się na golasa wcześniej.  
 **Heather:** Hahaha. Nie bądźcie tacy nieśmiali, wy dwoje.  
 **Heather:** Jest wygodnie.  
 **Carol:** Wchodzisz do wody, Heather?  
@@ -51381,7 +51381,7 @@
 **Carol:** No dalej, Mox. Daj mi porządnie.  
 **Mox:** Nie patrzy?  
 **Carol:** Odwróciła się. Nie martw się.  
-**Mox:** Boże, ale jestem napalona.  
+**Mox:** Boże, ale jestem napalony.  
 **Carol:** Też tak mam.  
 **Heather:** Skończyłaś?  
 **Carol:** Nie odwracaj się. Chłopak się nie spieszy.  
@@ -51438,7 +51438,7 @@
 
 **Erica:** Mox, co ty wyprawiasz?!  
 **Mox:** Idziemy popływać.  
-**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłem się o tym w szkole.  
+**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłam się o tym w szkole.  
 **Mox:** Dobrze… Jest jeszcze inny sposób.  
 **Mox:** Mogę użyć butów do brodzenia, by wejść do strumienia, nie mocząc się całkiem.  
 
@@ -51452,7 +51452,7 @@
 
 **Erica:** Mox, co ty wyprawiasz?!  
 **Mox:** Idziemy popływać.  
-**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłem się o tym w szkole.  
+**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłam się o tym w szkole.  
 **Mox:** Dobrze… Jest jeszcze inny sposób.  
 
 ---
@@ -51471,7 +51471,7 @@
 
 **Erica:** Mox, co ty wyprawiasz?!  
 **Mox:** Idziemy popływać.  
-**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłem się o tym w szkole.  
+**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłam się o tym w szkole.  
 **Mox:** Dobrze… Jest jeszcze inny sposób.  
 **Mox:** /find  
 **Narrator / mówca nieustalony:** Elektromagnes  
@@ -51488,7 +51488,7 @@
 
 **Erica:** Mox, co ty wyprawiasz?!  
 **Mox:** Idziemy popływać.  
-**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłem się o tym w szkole.  
+**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłam się o tym w szkole.  
 **Mox:** Dobrze… Jest jeszcze inny sposób.  
 
 ---
@@ -51509,7 +51509,7 @@
 
 **Erica:** Mox, co ty wyprawiasz?!  
 **Mox:** Idziemy popływać.  
-**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłem się o tym w szkole.  
+**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłam się o tym w szkole.  
 **Mox:** Dobrze… Jest jeszcze inny sposób.  
 
 ---
@@ -51663,7 +51663,7 @@
 
 > **Ścieżka warunkowa:** Item Select = 324 → Item Select = 311 → Put Gasoline in Barrel: włączony.
 
-**Mox:** Już nalałam benzyny do beczki.  
+**Mox:** Już nalałem benzyny do beczki.  
 
 > **Ścieżka warunkowa:** Item Select = 324 → Item Select = 311.
 
@@ -51874,7 +51874,7 @@
 **Mox:** /success  
 **Hannah:** /excited  
 **Ella:** Jasna cholera! Miała rację!  
-**Hannah:** A nie mówiłem!  
+**Hannah:** A nie mówiłam!  
 **Chloe:** Zostanie z daleka?  
 **Hannah:** Teraz boi się nas jak ognia. Mamy wolną drogę…  
 **Hannah:** /order  
@@ -51909,7 +51909,7 @@
 **Chloe:** Może to nie to, co myślisz.  
 **Ella:** Jesteście szaleni.  
 **Mox:** Nieważne, chyba.  
-**Hannah:** Cholera. Myślałem, że będzie więcej zabawy.  
+**Hannah:** Cholera. Myślałam, że będzie więcej zabawy.  
 **Mox:** Wygląda na ślepy zaułek.  
 **Chloe:** Nie zaszliśmy za daleko.  
 **Hannah:** Nudzi mi się! Zagrajmy w piłkę nożną!  
@@ -51946,7 +51946,7 @@
 **Heather:** Ojej… Nie widzę go.  
 **Heather:** Chyba nie…  
 **Mox:** Założę się, że Hannah pognała za nim.  
-**Heather:** Cholera… Czemu zostawiłem ją samą?  
+**Heather:** Cholera… Czemu zostawiłam ją samą?  
 **Mox:** Pójdę ją znaleźć.  
 **Heather:** Pójdę z tobą.  
 **Mox:** Ale… Zmoczysz się.  
@@ -51964,7 +51964,7 @@
 
 **Erica:** Mox, co ty wyprawiasz?!  
 **Mox:** Idziemy popływać.  
-**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłem się o tym w szkole.  
+**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłam się o tym w szkole.  
 **Mox:** Dobrze… Jest jeszcze inny sposób.  
 
 ---
@@ -51975,7 +51975,7 @@
 
 **Erica:** Mox, co ty wyprawiasz?!  
 **Mox:** Idziemy popływać.  
-**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłem się o tym w szkole.  
+**Erica:** Nie mam pojęcia, jak pływać! Człowiek pod wodą się udusi! Uczyłam się o tym w szkole.  
 **Mox:** Dobrze… Jest jeszcze inny sposób.  
 
 ---
@@ -52052,7 +52052,7 @@
 **Hannah:** Nigdy nie pomyślałam, żeby cię pocałować.  
 **Heather:** Podobało ci się?  
 **Mox:** Mnie na pewno.  
-**Hannah:** A myślałem, że zapasy z aligatorem będą dziś najbardziej szaloną rzeczą, jaką zrobię.  
+**Hannah:** A myślałam, że zapasy z aligatorem będą dziś najbardziej szaloną rzeczą, jaką zrobię.  
 **Hannah:** Hahaha! No, teraz jest zabawa!  
 **Mox:** Ujeżdżaj ją, kowbojko!  
 **Hannah:** Wylizuj moją cipkę, Heather!  
@@ -52078,7 +52078,7 @@
 **Hannah:** Ale seksownie!  
 **Hannah:** Naprawdę zalejesz ją spermą?  
 **Heather:** Tak! Wypełnij moją cipkę!  
-**Mox:** Ja pierdolę… Chyba nigdy tak mocno nie doszłam.  
+**Mox:** Ja pierdolę… Chyba nigdy tak mocno nie doszedłem.  
 **Heather:** Ale mnie wypełniłeś. Czuję to.  
 **Hannah:** Ja też chcę!  
 **Heather:** Ach! Ostrożnie, Hannah. Jestem tam bardzo wrażliwa.  
@@ -52282,7 +52282,7 @@
 **Mox:** Z przyjemnością.  
 **Mox:** /greet  
 **Kimberly:** Ile to jeszcze potrwa?  
-**Mox:** Myślałam, że spotkamy się w sypialni.  
+**Mox:** Myślałem, że spotkamy się w sypialni.  
 **Kimberly:** Jestem zajęta, Mox.  
 
 > **Ścieżka warunkowa:** Ext House Impressive ≥ 13.
@@ -52347,7 +52347,7 @@
 **Chloe:** O! Rozumiem.  
 **Hannah:** Będziemy potrzebować traktora z ramieniem wyburzeniowym, by rozbić tę skałę.  
 **Chloe:** Nie! Hannah! Musimy tylko stanąć na kołkach.  
-**Mox:** O tym właśnie myślałam.  
+**Mox:** O tym właśnie myślałem.  
 **Hannah:** Chyba możemy spróbować twoim sposobem.  
 **Chloe:** Co teraz?  
 **Mox:** /solve  
@@ -52471,7 +52471,7 @@
 **Hannah:** Brzmi, jakbyś chciała specjalnego traktowania.  
 **Chloe:** Nie!... Po prostu… Nie mów mi… Nie chcę tego słyszeć.  
 **Hannah:** Dobra. Nie opowiem ci o face ride, jaki mi zafundowała, i nie chcę słyszeć o tym, jak obciągałaś dupę mojej mamy.  
-**Mox:** Nigdy ci tego nie mówiłam.  
+**Mox:** Nigdy ci tego nie mówiłem.  
 **Hannah:** Po prostu założyłam… Mam na myśli, ma taki wielki tyłek.  
 **Chloe:** Cóż… Zgadłaś, Hannah.  
 **Hannah:** Fuj!  
@@ -52490,7 +52490,7 @@
 
 ## Mapa 162 — Casula Plus / event 37 / strona 1
 
-**Mox:** Coś jest nie tak z tym miejscem, ale nie jestem pewna co.  
+**Mox:** Coś jest nie tak z tym miejscem, ale nie jestem pewien co.  
 
 ---
 
@@ -52599,7 +52599,7 @@
 
 ## Mapa 169 — Kuchnia / event 16 / strona 1
 
-**Mox:** Widzę coś nad kratką. Ciekawe, czy mogłabym w to czymś rzucić i strącić.  
+**Mox:** Widzę coś nad kratką. Ciekawe, czy mogłbym w to czymś rzucić i strącić.  
 
 ---
 
@@ -52708,7 +52708,7 @@
 **Brian:** Panie Boże, daj mi siłę.  
 **Brian:** Dobra, chodźmy.  
 **Nellie:** Iść?  
-**Brian:** Do biblioteki kościelnej. Nie ma mowy, bym pozwoliła ci trzymać porno w kościele.  
+**Brian:** Do biblioteki kościelnej. Nie ma mowy, bym pozwolił ci trzymać porno w kościele.  
 **Nellie:** /curse  
 **Brian:** /order  
 **Tasha:** Cóż, chciałabym powiedzieć, że było fajnie…  
@@ -52724,7 +52724,7 @@
 **Mox:** Nie jest przeklęte?  
 **Tasha:** To graty Casula… Tylko graty Tikpak są przeklęte.  
 **Mox:** Słodziutko!  
-**Mox:** Wiesz, ja zrobiłam całą prawdziwą robotę… Ty tylko otworzyłeś skrzynię.  
+**Mox:** Wiesz, ja zrobiłem całą prawdziwą robotę… Ty tylko otworzyłeś skrzynię.  
 **Tasha:** Wiem, tworzymy świetny zespół! Musimy to kiedyś powtórzyć.  
 **Mox:** Nie to mam na myśli.  
 **Tasha:** To moja połowa… Teraz oddaj mi Henry'ego.  
@@ -52972,7 +52972,7 @@
 **Ella:** Co się z nim stało?  
 **Mox:** Aresztujemy go za kradzież obrazu.  
 **Chloe:** Obrazu?  
-**Mox:** Eee… Chyba powiedziałam za dużo.  
+**Mox:** Eee… Chyba powiedziałem za dużo.  
 **Ella:** Kiedy go aresztujecie? Na co czekacie?  
 **Mox:** To… skomplikowane.  
 **Judy:** Mam nadzieję, że wkrótce będzie po wszystkim.  
@@ -53252,7 +53252,7 @@
 **Erica:** Ups.  
 **Judy:** Ojej, nic ci nie jest?  
 **Hannah:** Całe ubranie mam mokre!  
-**Mox:** Mówiłam ci, żebyś uważała.  
+**Mox:** Mówiłem ci, żebyś uważała.  
 **Ella:** Masz coś na zmianę?  
 **Hannah:** Spokojnie. Chloe ma świetną suszarkę do ubrań!  
 **Chloe:** Hannah! Mamy gości!  
@@ -53323,11 +53323,11 @@
 
 ## Common Event 475 — SCN - Heather Kitchen
 
-**Mox:** Kolacja?... Nie jestem teraz zbyt głodna…  
+**Mox:** Kolacja?... Nie jestem teraz zbyt głodny…  
 **Mox:** Za to smak twoich ust…  
 **Heather:** To od razu przejdźmy do deseru.  
 **Mox:** Nie mam nic przeciwko.  
-**Heather:** Myślałaś, że kiedykolwiek tak skończymy?  
+**Heather:** Myślałeś, że kiedykolwiek tak skończymy?  
 **Mox:** Oczywiście. To nie nasz pierwszy raz.  
 **Heather:** Haha. Nie, chodzi mi o…  
 **Heather:** Pamiętasz, jak Chloe i ty bawiliście się tutaj?  
@@ -53389,7 +53389,7 @@
 **Mox:** Tylko deser będzie lepszy.  
 **Heather:** Hahahahaha! Och, Mox.  
 **Chloe:** Żartujesz?! Na samym blacie kuchennym?  
-**Mox:** Podglądałeś nas?  
+**Mox:** Podglądałaś nas?  
 **Heather:** Przepraszam, Chloe. Poniosła nas chwila.  
 **Chloe:** Na tym blacie przygotowujemy jedzenie.  
 **Mox:** A myśmy tylko wzbogacili jego smak.  
@@ -53436,7 +53436,7 @@
 
 **Mox:** Nie mogę teraz wejść. Carol się przebiera…  
 **Mox:** Chociaż…  
-**Mox:** Założę się, że nie miałaby nic przeciwko, gdybym wparowała do niej…  
+**Mox:** Założę się, że nie miałaby nic przeciwko, gdybym wparował do niej…  
 **Mox:** Ale co jeśli ktoś nas zobaczy?  
 **Mox:** Cholera… Nagle robię się napalona.  
 **Mox:** Cholera. Idę na to.  
@@ -53449,7 +53449,7 @@
 **Mox:** Heather wydawała się… inna…  
 **Mox:** I Chloe też.  
 **Heather:** Wciąż nie przebrana?  
-**Mox:** Ja tylko… Czekałam na Judy.  
+**Mox:** Ja tylko… Czekałem na Judy.  
 **Heather:** Skoro tak mówisz.  
 
 ---
@@ -53487,7 +53487,7 @@
 **Mox:** Naprawdę cię kocham, Heather.  
 **Heather:** Wiem, kochanie.  
 **Heather:** Dobrej zabawy dziś wieczorem, kochanie.  
-**Mox:** Chyba dostałam to, czego chciałam.  
+**Mox:** Chyba dostałem to, czego chciałem.  
 **Chloe:** Psst! Mox!  
 **Chloe:** Judy zaraz wejdzie.  
 **Mox:** Potrzebuje skorzystać z toalety?  
@@ -53510,7 +53510,7 @@
 **Mox:** Dasz sobie z tym radę?  
 **Chloe:** Chyba… tak.  
 **Chloe:** Drzwi są zamknięte?  
-**Mox:** Heh. Tak, zamknęłam je na klucz.  
+**Mox:** Heh. Tak, zamknąłem je na klucz.  
 **Mox:** Ach! Tak… Nieźle, Chloe.  
 **Mox:** Użyj języka na czubku.  
 **Mox:** Och! Przyjemnie.  
@@ -53585,7 +53585,7 @@
 **Mox:** Lubisz od tyłu?  
 **Hannah:** Tak.  
 **Mox:** Nie wierzę, że znowu to robimy.  
-**Hannah:** Mógłbym się do tego przyzwyczaić, Mox.  
+**Hannah:** Mógłabym się do tego przyzwyczaić, Mox.  
 **Mox:** Może to ty się we mnie zakochujesz.  
 **Hannah:** Eee… Nie wygaduj… głupstw.  
 **Mox:** Lepiej się pospieszmy. Twoja mama może tu wejść.  
@@ -53661,7 +53661,7 @@
 **Chloe:** /greet  
 **Mox:** /greet  
 **Chloe:** To był niezły strach dziś wieczorem.  
-**Mox:** Odważnie pomagasz. Może byłbyś dobrym detektywem.  
+**Mox:** Odważnie pomagasz. Może byłabyś dobrym detektywem.  
 **Chloe:** Tak myślisz?  
 **Mox:** Na pewno jesteś wystarczająco odważna.  
 **Chloe:** Wszystko, by pomóc siostrze Judy.  
@@ -53702,16 +53702,16 @@
 
 **Chloe:** Ach! Mox!  
 **Mox:** Przepraszam, Chloe. Nie chciałem ci przeszkadzać.  
-**Chloe:** Myślałem, że dziś pracujesz?  
+**Chloe:** Myślałam, że dziś pracujesz?  
 **Mox:** Tylko wpadłem sprawdzić, co u ciebie. Było zgłoszenie o jakimś zboczeńcu biegającym po okolicy.  
 **Chloe:** Naprawdę? Złapali go?  
 **Mox:** Nie. Funkcjonariusze, którzy mieli patrolować, wciąż są na komisariacie.  
 **Chloe:** Cóż, dzięki, że o mnie pomyślałeś. Cieszę się, że przyszedłeś.  
 **Mox:** Oczywiście. Bardzo mi na tobie zależy.  
 **Chloe:** Tak świetnie się bawiłam wczoraj. Nie mogę przestać o tym myśleć.  
-**Mox:** Cieszę się, że mogłam wam obojgu pomóc.  
+**Mox:** Cieszę się, że mogłem wam obojgu pomóc.  
 **Chloe:** To dla mnie wiele znaczy, że pokazujesz mi, jak radzić sobie z… moimi pragnieniami.  
-**Mox:** Nie dziwi mnie, że Judy miała trudności, ale podejrzewałam, że mama nauczyła cię o masturbacji.  
+**Mox:** Nie dziwi mnie, że Judy miała trudności, ale podejrzewałem, że mama nauczyła cię o masturbacji.  
 **Chloe:** Żartujesz? Nie wyobrażam sobie takiej rozmowy z mamą!  
 **Mox:** Mam nadzieję, że nie jesteś na nią zbyt surowa. Wiesz, że ona ma te same pragnienia.  
 **Chloe:** Ugh! Nie chcę myśleć o mamie w ten sposób.  
@@ -53771,7 +53771,7 @@
 **Chloe:** Cholera. Zapomniałam, jaki jest duży.  
 **Mox:** Nie zrób sobie krzywdy.  
 **Chloe:** Czy będzie bolało?  
-**Mox:** Tylko żartowałam… Rób to powoli.  
+**Mox:** Tylko żartowałem… Rób to powoli.  
 **Chloe:** Ile zajmie ci… dojście?  
 **Mox:** To zależy.  
 **Chloe:** No to jazda…  
@@ -53787,7 +53787,7 @@
 **Mox:** Nie, naprawdę… Nic nas nie łączy… To tylko…  
 **Heather:** Co się stało?  
 **Mox:** Chloe dużo się uczy…  
-**Mox:** Miałam pozwolić jej poćwiczyć obciąganie.  
+**Mox:** Miałem pozwolić jej poćwiczyć obciąganie.  
 **Heather:** Serio?  
 **Mox:** Wiem, że to brzmi dziwnie. Ale… ona jest taka…  
 **Mox:** Nie ma żadnego doświadczenia.  
@@ -53898,7 +53898,7 @@
 **Mox:** Próbuje za tobą nadążyć.  
 **Chloe:** Uważasz, że jestem ładna, Mox?  
 **Mox:** Jesteś przepiękna, Chloe.  
-**Chloe:** Doprowadzałaś mnie do szaleństwa. Ciągle o tobie myślałem.  
+**Chloe:** Doprowadzałeś mnie do szaleństwa. Ciągle o tobie myślałam.  
 **Mox:** Byłem głupcem. Powinienem był przy tobie być.  
 **Chloe:** Nie. Nie mów tak. Byłam za młoda… Postąpiłeś właściwie.  
 **Mox:** Cóż… Teraz już jestem.  
@@ -54004,7 +54004,7 @@
 **Mox:** Czy to tajemnica?  
 **Chloe:** Fuj!  
 **Judy:** Och, Mox. Ty też się tu przebierasz?  
-**Mox:** Właśnie wychodziłam.  
+**Mox:** Właśnie wychodziłem.  
 **Chloe:** Pa, Mox!  
 
 ---
@@ -54755,7 +54755,7 @@
 **Mox:** Mało brakowało, a byś mnie zabił.  
 **Andrea:** O czym ty, do cholery, mówisz? Gdzie byłeś?  
 **Mox:** Byłem w legowisku Duncana, z lufą przy głowie.  
-**Andrea:** Kazałem ci mieć Duncana na oku, nie próbować go aresztować.  
+**Andrea:** Kazałam ci mieć Duncana na oku, nie próbować go aresztować.  
 **Mox:** Gdyby nie Nellie, byłbym martwy… I nie wiem, jak długo jeszcze da radę działać pod przykrywką…  
 **Mox:** To musi się teraz skończyć.  
 **Andrea:** To nie ty tu wydajesz rozkazy, Mox. Znaj swoje miejsce.  
@@ -54771,7 +54771,7 @@
 **Mox:** Naprawdę? Co znaleźli?  
 **Andrea:** Coś, co da nam duży PR-owy sukces.  
 **Mox:** Nie będę siedział bezczynnie i patrzył, jak giną niewinni tylko dla PR-owych zwycięstw.  
-**Andrea:** Nie zawiedź mnie, Mox. Wybrałem cię nie bez powodu.  
+**Andrea:** Nie zawiedź mnie, Mox. Wybrałam cię nie bez powodu.  
 **Mox:** Bo dobrze wyglądam na kamerze?  
 **Andrea:** Poczekaj. Myślę, że musimy wejść na kolejny poziom.  
 **Mox:** Co to ma znaczyć?  
@@ -54817,7 +54817,7 @@
 **Andrea:** Właśnie tak! Skosztuj mojej cipki!...  
 **Andrea:** Liż mi łechtaczkę!  
 **Andrea:** Bądź grzecznym chłopcem, a dam ci wszystko, czego chcesz.  
-**Mox:** Boże, jesteś taki seksowny.  
+**Mox:** Boże, jesteś taka seksowna.  
 **Andrea:** Ufasz mi?  
 **Mox:** Daj mi powód… Pokaż mi plan.  
 **Andrea:** W porządku. Zasłużyłeś.  
@@ -54848,7 +54848,7 @@
 ## Mapa 077 — Prawy korytarz / event 7 / strona 1
 
 **Andrea:** Teraz jestem ci winna plan. Zgadza się?  
-**Mox:** Jak go dopadniemy? Jestem gotowa.  
+**Mox:** Jak go dopadniemy? Jestem gotowy.  
 **Andrea:** Idź na górę. Wkrótce do ciebie dołączę.  
 **Mox:** Cholera… Nie mogę myśleć, gdy mój fiut…  
 **Mox:** Jeśli ona nie ma odpowiedzi…  
@@ -55045,7 +55045,7 @@
 **Andrea:** To, co zaraz ci pokażę, musi pozostać tajemnicą między nami. Rozumiesz?  
 **Mox:** Tak. Jestem gotowy.  
 **Andrea:** W porządku.  
-**Mox:** Wiedziałam. Sekretny pokój.  
+**Mox:** Wiedziałem. Sekretny pokój.  
 **Andrea:** /order  
 **Mox:** To ten obraz?  
 **Andrea:** Burza na Morzu Galilejskim, namalowany w 1633 i skradziony przez Gildię Zaćmienia w 1990.  
@@ -55161,7 +55161,7 @@
 ## Mapa 120 — Hol wejściowy / event 18 / strona 1
 
 **Postać niezależna:** Czegoś szukasz, detektywie?  
-**Mox:** Chciałabym, żebyś zrobił inwentaryzację tego, co jest w tym pokoju… Musimy dopilnować, żeby nic nie zginęło.  
+**Mox:** Chciałbym, żebyś zrobił inwentaryzację tego, co jest w tym pokoju… Musimy dopilnować, żeby nic nie zginęło.  
 **Postać niezależna:** Zrobi się, detektywie.  
 
 ---
@@ -55203,7 +55203,7 @@
 **Alia:** Gadamy o pieprzeniu.  
 **Tasha:** I o zabawkach.  
 **Mox:** Zawsze fajny temat.  
-**Mox:** Ale myślałam, że znudził ci się seks, Arianno?  
+**Mox:** Ale myślałem, że znudził ci się seks, Arianno?  
 **Arianna:** Dlatego gadamy o zabawkach.  
 **Tasha:** Sporo tego jest. Możemy zamówić coś ciekawego do sklepu.  
 **Alia:** Jak dwustronne dildo!  
@@ -55461,7 +55461,7 @@
 **Erica:** Wypełnij ją!  
 **Lillian:** Wypuść we mnie swoje nasienie!  
 **Lillian:** Tyle nasienia… Czuję, jak spływa z mojej cipki.  
-**Mox:** Nigdy w życiu nie miałam tak silnego orgazmu.  
+**Mox:** Nigdy w życiu nie miałem tak silnego orgazmu.  
 **Erica:** To było niesamowite… Nie wiedziałam, że mogę tak się czuć.  
 **Lillian:** Nie zapominaj, Erico. Wciąż masz coś do zrobienia.  
 **Erica:** Praca?  
@@ -55493,10 +55493,10 @@
 **Erica:** Wszystko gotowe, Lillian.  
 **Lillian:** Jak smakowało?  
 **Erica:** Pyszne!  
-**Lillian:** Właśnie to chciałem usłyszeć.  
+**Lillian:** Właśnie to chciałam usłyszeć.  
 **Mox:** Nie jesteś kobietą, jakiej się spodziewałem, Lillian.  
 **Lillian:** Mam nadzieję, że to miłe zaskoczenie.  
-**Erica:** Mógłbym się do tego przyzwyczaić.  
+**Erica:** Mógłabym się do tego przyzwyczaić.  
 **Mox:** Też tak mam.  
 **Lillian:** Lepiej się ubierzmy. Kolacja zostanie podana wkrótce.  
 **Zakapturzona postać:** Czy posiłek pani odpowiada, madam?  
@@ -55504,7 +55504,7 @@
 **Zakapturzona postać:** Robię, co w mojej mocy, by służyć woli Pana.  
 **Lillian:** Idź teraz. I módl się.  
 **Zakapturzona postać:** Tak, madam.  
-**Mox:** Zrobiłam się dość głodna.  
+**Mox:** Zrobiłem się dość głodna.  
 **Lillian:** Smacznego, Mox.  
 **Erica:** Ja już miałam całkiem smaczną przekąskę.  
 **Lillian:** Mam nadzieję, że to pierwszy z wielu wspólnych momentów.  
@@ -55524,7 +55524,7 @@
 **Erica:** By zdobyć jej zaufanie… Myślę, że nam ufa.  
 **Mox:** Tak. Można tak powiedzieć.  
 **Erica:** Nie wyglądało na to, że musiałaś się bardzo starać.  
-**Mox:** Nigdy wcześniej nie miałam trójkąta.  
+**Mox:** Nigdy wcześniej nie miałem trójkąta.  
 **Erica:** Przyznam, że to była zabawa.  
 **Mox:** Co myślisz o Lillian? Myślisz, że coś ukrywa?  
 **Erica:** Jeśli tak, znajdziemy to.  
@@ -55715,7 +55715,7 @@
 **Lillian:** Robi się późno. Jeśli nie masz nic przeciwko, chciałabym zostać sama.  
 **Mox:** Tak, Lillian. Powinnam już iść.  
 **Lillian:** Do widzenia, Mox.  
-**Mox:** Czy ją oszukałam, czy to ona oszukuje mnie?  
+**Mox:** Czy ją oszukałem, czy to ona oszukuje mnie?  
 **Mox:** Muszę dowiedzieć się, co dzieje się pod kuchnią…  
 **Mox:** Ale to musi poczekać.  
 
@@ -55759,14 +55759,14 @@
 **Zakapturzona postać:** /shock  
 **Zakapturzona postać:** /curse  
 **Mox:** Teraz moja szansa.  
-**Mox:** Dobra. Weszłam.  
+**Mox:** Dobra. Wszedłem.  
 
 ---
 
 ## Mapa 057 — Jadalnia / event 42 / strona 1
 
 **Mox:** Jest ciemno, ale wyczuwam kratkę wentylacyjną…  
-**Mox:** Czy mogłabym to podważyć czymś?  
+**Mox:** Czy mogłbym to podważyć czymś?  
 
 ---
 
@@ -55803,7 +55803,7 @@
 
 **Mox:** Oczodół tego posągu gargulca świeci.  
 **Mox:** Może jeśli włożę to oko do oczodołu…  
-**Mox:** Coś słyszałam!  
+**Mox:** Coś słyszałem!  
 
 ---
 
@@ -55832,7 +55832,7 @@
 **Mox:** Pozwól mi i mojemu zespołowi przeszukać rezydencję. Wiem, że ich znajdziemy.  
 **Bobby:** Załóżmy, że znajdziemy te amulety. Co wtedy, do diabła?  
 **Mox:** Ksiądz nam pomoże… Wymyśli, jak powstrzymać Lilith.  
-**Bobby:** To brzmi szalenie… Ale wiem, co widziałam.  
+**Bobby:** To brzmi szalenie… Ale wiem, co widziałem.  
 **Mox:** To nie jest sztuczka, Bobby. Musimy ją powstrzymać.  
 **Bobby:** Dobrze… Pozwolę wam przeszukać rezydencję, ale moi ludzie będą mieć na was oko.  
 **Ella:** Co o tym myślisz, Mox?  
@@ -55878,8 +55878,8 @@
 **Erica:** Kiedyś je sprzątałam. Ale pewnego dnia Charles kazał mi odejść i zaczął zamykać drzwi.  
 **Mox:** Czy to artefakty Casula?  
 **Erica:** Niektóre tak. Był kolekcjonerem sztuki starożytnej.  
-**Mox:** Nie wiedziałam.  
-**Mox:** Przy okazji… Coś znalazłam w lesie.  
+**Mox:** Nie wiedziałem.  
+**Mox:** Przy okazji… Coś znalazłem w lesie.  
 **Erica:** Co? Artefakt?  
 **Mox:** Kawałek… Zobacz.  
 
@@ -55983,7 +55983,7 @@
 **Tasha:** Nie podoba mi się to skradanie. Wolałabym spróbować szczęścia przeciw nim.  
 **Brian:** Zwariowałaś?  
 **Tasha:** Mox ma broń.  
-**Mox:** I jestem pewna, że wszyscy ludzie Duncana też mają.  
+**Mox:** I jestem pewien, że wszyscy ludzie Duncana też mają.  
 **Brian:** Bądź cierpliwa, młoda damo.  
 **Mox:** Pójdę zerknąć. Nie wyobrażam sobie, by mieli zostać w tym pokoju.  
 **Erica:** Uważaj, Mox.  
@@ -56010,7 +56010,7 @@
 
 **Mox:** Strażnicy przenieśli się do wejścia.  
 **Tasha:** Cholera.  
-**Mox:** Ale znalazłam obejście.  
+**Mox:** Ale znalazłem obejście.  
 **Erica:** Naprawdę? Gdzie?  
 **Mox:** /order  
 
@@ -56215,7 +56215,7 @@
 
 ## Common Event 439 — SCN - Ella Andrea Mansion
 
-**Ella:** Jestem gotów odrobić straty… panno Stone.  
+**Ella:** Jestem gotowa odrobić straty… panno Stone.  
 **Andrea:** Możesz mówić mi Andrea Kimura.  
 **Mox:** Cholera, Ello. Zaryzykowałaś wszystko, co?  
 **Ella:** Oczywiście… Ale czy pani Kimura też zaryzykuje wszystko?  
@@ -57445,7 +57445,7 @@
 **Duncan:** Popełniasz błąd!  
 **Diana:** Zamknij się!  
 **Henry:** Gdzie jest pani komisarz?  
-**Ella:** Nie widziałem jej w środku.  
+**Ella:** Nie widziałam jej w środku.  
 **Mox:** Chyba nie przeszła ze mną przez rozdarcie… Tak mi się wydaje.  
 **Brian:** Ja też jej nie widziałem.  
 **Mox:** Aresztujemy Duncana?  
@@ -57518,7 +57518,7 @@
 **Erica:** Pójdę z tobą.  
 **Diana:** Przypadkiem znam się też trochę na kulturze Casuli.  
 **Erica:** Masz rodzinę Casula?  
-**Diana:** Ukradłem w życiu sporo artefaktów Casuli.  
+**Diana:** Ukradłam w życiu sporo artefaktów Casuli.  
 **Henry:** Heh… Tak… Sporo.  
 **Brian:** Może wymienimy się wiedzą.  
 **Diana:** Z przyjemnością.  
@@ -57652,7 +57652,7 @@
 
 ## Mapa 116 — Piwnica — pokój R / event 100 / strona 1
 
-**Diana:** Przyszedłem tu zabić Duncana, a teraz mamy do czynienia z demonami.  
+**Diana:** Przyszłam tu zabić Duncana, a teraz mamy do czynienia z demonami.  
 
 ---
 
@@ -57711,7 +57711,7 @@
 
 **Mox:** Kimberly! Zaczekaj.  
 **Kimberly:** To właśnie widziałam! Śniło mi się to!  
-**Mox:** Cholera! To miejsce jest większe, niż myślałam.  
+**Mox:** Cholera! To miejsce jest większe, niż myślałem.  
 **Kimberly:** Ale tu upiornie… Co to, do cholery, za posągi?  
 **Mox:** Nie ma mowy!  
 **Kimberly:** O co chodzi?  
@@ -57734,7 +57734,7 @@
 
 **Kimberly:** Nie wiem. Może chcę mieć większe cycki.  
 **Mox:** Hej! Odłóż to!  
-**Kimberly:** Zaciekawiłaś mnie. Chcę sprawdzić, czy mówisz prawdę.  
+**Kimberly:** Zaciekawiłeś mnie. Chcę sprawdzić, czy mówisz prawdę.  
 **Mox:** Po tym, co widziałaś, nadal chcesz bawić się magią?  
 **Kimberly:** Chcę zobaczyć więcej.  
 **Mox:** Odłóż to, Kimberly. Nie potrzebujemy magicznego kamienia, żeby się zabawić.  
@@ -57752,8 +57752,8 @@
 **Kimberly:** Dwóch mnie?! To was jest dwóch!  
 **Mox:** Ach!...  
 **Mox:** To Toma! Ta sama Toma, którą miała Madalyn!  
-**Kimberly:** Nie żartowałaś!  
-**Mox:** Mówiłam… Toma naprawdę istnieje… Musimy się stąd wydostać.  
+**Kimberly:** Nie żartowałeś!  
+**Mox:** Mówiłem… Toma naprawdę istnieje… Musimy się stąd wydostać.  
 **Kimberly:** Chwileczkę…  
 **Kimberly:** Chyba podoba mi się kierunek, w jakim to zmierza.  
 **Mox:** Łał! Dziwne uczucie!  
@@ -57789,7 +57789,7 @@
 **Mox:** Bierz je! Bierz moje kutasy!  
 **Kimberly:** Nie wytrzymam! Zaraz dojdę!  
 **Mox:** Kurwa! Ja też!  
-**Kimberly:** Ja pierdolę! Jak mocno doszedłem!  
+**Kimberly:** Ja pierdolę! Jak mocno doszłam!  
 **Mox:** To… koniec.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -57812,7 +57812,7 @@
 **Kimberly:** Niesamowite! Magiczne kamienie, kryjówka satanistycznej sekty… Mamy materiał na lata!  
 **Mox:** Naprawdę zamierzasz robić reportaż o magicznych kamieniach do seksu?  
 **Kimberly:** Coś tu się dzieje i opiszemy to jako pierwsi.  
-**Mox:** Cicho… Słyszałeś to?  
+**Mox:** Cicho… Słyszałaś to?  
 **Kimberly:** Cholera! Ktoś idzie.  
 **Mox:** Kurwa. Wynośmy się stąd, zanim pojawi się ich więcej.  
 **Kimberly:** To jeszcze nie koniec, Mox.  
@@ -58219,7 +58219,7 @@
 **Bobby:** Nareszcie przybyła odsiecz.  
 **Funkcjonariusz C:** Aresztować ich!  
 **Duncan:** Vayne! Musisz coś zrobić!  
-**Andrea:** Mówiłem ci, Duncan. To koniec.  
+**Andrea:** Mówiłam ci, Duncan. To koniec.  
 **Andrea:** Przegraliśmy.  
 **Duncan:** …  
 **Bobby:** Przykro mi, Nellie, ale ciebie też muszę aresztować.  
@@ -58310,7 +58310,7 @@
 
 ## Mapa 148 — Zachodnie biuro / event 10 / strona 1
 
-**Erica:** Łał! Nie miałem pojęcia, że jest tam tajne przejście.  
+**Erica:** Łał! Nie miałam pojęcia, że jest tam tajne przejście.  
 **Brian:** Ale upiorne miejsce.  
 **Tasha:** Masz całkowitą rację.  
 
@@ -58664,7 +58664,7 @@
 **Lillian:** Po dzisiejszej nocy nie będziesz musiała martwić się o utratę łaski.  
 **Mox:** Hej! Co się dzieje?  
 **Lillian:** Dojdź! Złam przysięgę wobec swojego Boga!  
-**Nellie:** Co do cholery? Myślałem, że się umówiliśmy!  
+**Nellie:** Co do cholery? Myślałam, że się umówiliśmy!  
 **Ella:** Próbuje złamać anioła!  
 **Lillian:** Stań się potworem, którego nienawidzisz! Nie utrudniaj sobie tego!  
 **Ella:** Zostaw ją w spokoju!  
@@ -59046,7 +59046,7 @@
 
 ## Mapa 190 — Główna sypialnia / event 21 / strona 1
 
-**Diana:** Nigdy nie widziałem takich skrzyń. Założę się, że wasze amulety są w środku.  
+**Diana:** Nigdy nie widziałam takich skrzyń. Założę się, że wasze amulety są w środku.  
 **Mox:** Jak je otworzyć?  
 **Diana:** Ta rezydencja kryje mnóstwo sekretów. W ścianach są przejścia.  
 **Mox:** Zauważyłem.  
@@ -59057,7 +59057,7 @@
 ## Mapa 190 — Główna sypialnia / event 21 / strona 2
 
 **Mox:** Amulety były w skrzyniach.  
-**Diana:** Wiedziałem… Co teraz?  
+**Diana:** Wiedziałam… Co teraz?  
 **Mox:** Jakoś wykorzystamy je, żeby pokonać Lilith…  
 **Diana:** Gdzie jest Duncan?  
 **Mox:** Lilith gdzieś go zabrała… Ale nie wiem gdzie.  
@@ -59068,7 +59068,7 @@
 ## Mapa 190 — Główna sypialnia / event 21 / strona 3
 
 **Mox:** Amulety były w skrzyniach.  
-**Diana:** Wiedziałem… Co teraz?  
+**Diana:** Wiedziałam… Co teraz?  
 **Mox:** Jakoś wykorzystamy je, żeby pokonać Lilith…  
 **Diana:** Gdzie jest Duncan?  
 **Mox:** Lilith gdzieś go zabrała… Ale nie wiem gdzie.  
@@ -59079,7 +59079,7 @@
 ## Mapa 190 — Główna sypialnia / event 21 / strona 4
 
 **Mox:** Amulety były w skrzyniach.  
-**Diana:** Wiedziałem… Co teraz?  
+**Diana:** Wiedziałam… Co teraz?  
 **Mox:** Jakoś wykorzystamy je, żeby pokonać Lilith…  
 **Diana:** Gdzie jest Duncan?  
 **Mox:** Lilith gdzieś go zabrała… Ale nie wiem gdzie.  
@@ -59126,11 +59126,11 @@
 **Judy:** O nie!  
 **David:** …  
 **David:** Tyle… Przechodzę na emeryturę.  
-**Arianna:** Cóż… Przynajmniej zdążyłem się ubrać na czas.  
+**Arianna:** Cóż… Przynajmniej zdążyłam się ubrać na czas.  
 **Judy:** Jak żenująco!  
 **Hannah:** Gra już skończona?  
 **Nellie:** Czyj to był pomysł, by zostawić wszystkie ubrania przy wejściu?  
-**Andrea:** Nie słyszałem żadnych narzekań.  
+**Andrea:** Nie słyszałam żadnych narzekań.  
 **Carol:** Jest stary… Może wzrok mu już nie dopisuje.  
 **Heather:** Miejmy nadzieję.  
 **Lillian:** Ten problem można było rozwiązać zamkniętymi drzwiami.  
@@ -59222,12 +59222,12 @@
 **Chloe:** Chyba po prostu będziemy musieli to przeczekać.  
 **Mox:** To miejsce jest niesamowite… Ogromne!  
 **Hannah:** Prawda!?  
-**Chloe:** Wow! Nie zauważyłem, jak głęboka jest.  
+**Chloe:** Wow! Nie zauważyłam, jak głęboka jest.  
 **Hannah:** Nie dziwi mnie, że tu jest jaskinia. Te kamienne góry muszą być pełne takich kieszeni.  
 **Mox:** Słyszałem o jaskiniach w lesie. Ale nie podejrzewałem, że na twojej farmie też jest jedna.  
 **Hannah:** Cóż, teraz mamy kolejne miejsce na imprezę.  
 **Chloe:** Nie jest tak ładna jak wodospad, ale przynajmniej cicho i spokojnie.  
-**Hannah:** Coś dla nas przyniosłem.  
+**Hannah:** Coś dla nas przyniosłam.  
 **Mox:** Coś przyniosłaś?  
 **Hannah:** Może zapomniałam latarki, ale pamiętam o prawdziwej nagrodzie.  
 **Chloe:** Co przyniosłaś?  
@@ -59280,7 +59280,7 @@
 **Hannah:** Cholera! Wygląda na to, że zaczyna mu stawać.  
 **Mox:** Hannah! Przestań tam patrzeć!  
 **Hannah:** Skoro mu staje, to będę patrzeć!  
-**Mox:** Czemu musiałeś mnie tak pocałować?  
+**Mox:** Czemu musiałaś mnie tak pocałować?  
 **Hannah:** To część gry, głuptasie!  
 **Chloe:** Boli?  
 **Hannah:** Wyciągnij go i pokaż nam, Mox.  
@@ -59317,7 +59317,7 @@
 **Mox:** W jakiej pozycji?  
 **Hannah:** Eee… Na stojąco… Na stojącego konika.  
 **Chloe:** Jak to działa?  
-**Mox:** Nigdy nie słyszałam o takiej pozycji.  
+**Mox:** Nigdy nie słyszałem o takiej pozycji.  
 **Hannah:** Aaargh!  
 **Hannah:** Jeśli Chloe stchórzy, włóż go we mnie, a ja jej opiszę, jak to jest.  
 **Mox:** Co!? Hannah!  
@@ -59513,7 +59513,7 @@
 **Brian:** Wszystkim nic się nie stało?  
 **Melissa:** Czekaj… To nie pokój. To jaskinia.  
 **Mox:** Łał!  
-**Brian:** Zawsze wiedziałam, że w Lesie Casula jest system jaskiń, ale nigdy go nie widziałam.  
+**Brian:** Zawsze wiedziałem, że w Lesie Casula jest system jaskiń, ale nigdy go nie widziałem.  
 **Mox:** Ciekawe, dokąd prowadzi.  
 **Melissa:** Ostrożnie. Nie jesteśmy na to przygotowani.  
 **Mox:** Chcę tylko zerknąć.  
@@ -59586,7 +59586,7 @@
 **Mox:** Co?  
 **Melissa:** Od tej ściany wieje.  
 **Mox:** Po drugiej stronie jest kolejny pokój.  
-**Brian:** Tak właśnie myślałam…  
+**Brian:** Tak właśnie myślałem…  
 **Brian:** To miejsce ma piwnicę.  
 **Melissa:** Ojcze, proszę, bądź ostrożny.  
 **Mox:** Czemu to miejsce było ukryte?  
@@ -59674,7 +59674,7 @@
 **Carol:** Wygolona!  
 **Chloe:** Taką lubię.  
 **Carol:** Muszę przyznać: dzięki temu wygląda na dłuższego.  
-**Mox:** Napatrzyłeś się? Mogę już podciągnąć spodnie?  
+**Mox:** Napatrzyłaś się? Mogę już podciągnąć spodnie?  
 **Carol:** Co się tak spieszysz?  
 **Chloe:** Co sugerujesz, Carol?  
 **Carol:** Miło, że tu tak cicho…  
@@ -59881,11 +59881,11 @@
 ## Mapa 102 — Pod kościołem / event 45 / strona 2
 
 **Mox:** Arianno!  
-**Arianna:** Mox… Znalazłem Ericę.  
+**Arianna:** Mox… Znalazłam Ericę.  
 **Mox:** Nadal była w Limbo?  
-**Arianna:** Dałem jej relikwię… Wciąż jest szansa.  
-**Mox:** Powiedziałeś jej, co ma z nią zrobić?  
-**Arianna:** Ja… Powiedziałem jej tylko to, co musiała wiedzieć, by dokonać wyboru…  
+**Arianna:** Dałam jej relikwię… Wciąż jest szansa.  
+**Mox:** Powiedziałaś jej, co ma z nią zrobić?  
+**Arianna:** Ja… Powiedziałam jej tylko to, co musiała wiedzieć, by dokonać wyboru…  
 **Arianna:** Ale, Mox… Nie wiesz, jak jest w Limbo… Nie wiesz, jak to jest umrzeć.  
 **Mox:** Co masz na myśli?  
 **Arianna:** Erica wybiera między życiem wiecznym a wiecznym potępieniem.  
@@ -59927,7 +59927,7 @@
 **Nellie:** Ściany są za grube. Nikt nas nie słyszy.  
 **Mox:** Więc po prostu poczekamy, aż Bobby wróci.  
 **Nellie:** Cholera! Ten dzień jest coraz lepszy.  
-**Melissa:** Kurwa… Utknąłem w lochu z dwiema najgłośniejszymi marudami.  
+**Melissa:** Kurwa… Utknęłam w lochu z dwiema najgłośniejszymi marudami.  
 **Mox:** Hej!  
 **Nellie:** Hej!  
 **Melissa:** Po prostu zamknij się i czekaj na funkcjonariuszy.  
@@ -59943,7 +59943,7 @@
 **Melissa:** Mówiłaś, że jest tylne wejście?  
 **Nellie:** Jest, ale nie używamy go.  
 **Melissa:** Możesz go użyć?  
-**Mox:** Widziałam je. Mogą uciec…  
+**Mox:** Widziałem je. Mogą uciec…  
 **Melissa:** /shock  
 **Mox:** Nie martw się… Znam kogoś, kto ma obstawione tylne wejście.  
 **Melissa:** Żartujesz… Złodziejka z Gildii?  
@@ -60270,7 +60270,7 @@
 **Mox:** Aaargh!  
 **Brian:** Mox! Idziemy z tobą!  
 **Erica:** Ufamy ci. Prowadź.  
-**Tasha:** Jestem gotów skopać tyłki!  
+**Tasha:** Jestem gotowa skopać tyłki!  
 **Bobby:** Żadne z was nie może iść do rezydencji. Jest zamknięta.  
 **Henry:** Spokojnie, oficerze. Mamy ścisłe rozkazy od samego Boga.  
 **Bobby:** Hej! Wracaj!  
@@ -60414,7 +60414,7 @@
 **Judy:** Wiele z tego, co tu jest, pozostaje tajemnicą dla Ojca i dla mnie.  
 **Judy:** ...  
 **Judy:** Hałas!  
-**Mox:** Słyszałam to… Jest blisko.  
+**Mox:** Słyszałem to… Jest blisko.  
 
 ---
 
@@ -61103,7 +61103,7 @@
 **Mox:** O czym rozmawiacie, dziewczyny?  
 **Chloe:** Mox!  
 **Carol:** A niech mnie, wilk o tobie mowa.  
-**Mox:** Widziałeś widok?  
+**Mox:** Widziałaś widok?  
 **Carol:** Owszem. A z tego, co słyszę, ty i Chloe też podziwiałyście stąd widoki.  
 **Chloe:** Powinienem był wiedzieć, żeby ci nie mówić, Carol.  
 **Mox:** Haha. Cóż… Nie myli się.  
@@ -61384,7 +61384,7 @@
 **Judy:** Było przyjemnie… Ale nasz grzeszny występek jest teraz znany detektywowi.  
 **Mox:** Haha. Nie martw się. To nie przestępstwo.  
 **Judy:** Ale… Chyba posunęłam się za daleko.  
-**Mox:** Zrobiłam to, siostro Judy… To nie twoja wina.  
+**Mox:** Zrobiłem to, siostro Judy… To nie twoja wina.  
 **Judy:** Tak… Znam intencje… Ale…  
 **Mox:** Daj spokój. Nie myślmy o tym za dużo.  
 **Judy:** Masz rację. Musisz iść pomóc Ojcu.  
@@ -61438,7 +61438,7 @@
 **Melissa:** Niezłego masz kutasa, panie Canmore.  
 **Mox:** Och, kochanie! Marzę o twoich cudownych ustach na moim kutasie, odkąd zobaczyłem, jak bawisz się łechtaczką…  
 **Mox:** To będzie niesamowite.  
-**Mox:** Po co, do cholery, to zrobiłeś!?  
+**Mox:** Po co, do cholery, to zrobiłaś!?  
 **Melissa:** Ukryty sejf!...  
 **Melissa:** To tutaj Zephaniah musiał ukryć rzeczy, których policjanci nie znaleźli.  
 
@@ -61652,7 +61652,7 @@
 **Brian:** Teraz trzeba rozgryźć, co to znaczy.  
 **Tasha:** Musisz otoczyć ją trzema amuletami.  
 **Brian:** Naprawdę?  
-**Tasha:** Tak… Czytałem o tym.  
+**Tasha:** Tak… Czytałam o tym.  
 **Brian:** Nieźle!  
 **Melissa:** Co to dokładnie znaczy? Jak, do cholery, zwabimy ją w pułapkę?  
 **Mox:** Możemy otoczyć drzwi Szczeliny amuletami?  
@@ -61865,7 +61865,7 @@
 **Heather:** Daj nam!  
 **Mox:** Chyba już wiem, gdzie podział się mój kutas.  
 **Carol:** Wygląda na to, że obie zostałyśmy porządnie wyrżnięte.  
-**Heather:** Mógłbym się do tego przyzwyczaić.  
+**Heather:** Mógłabym się do tego przyzwyczaić.  
 **Mox:** Widok waszej dwójki w akcji był naprawdę niezapomniany.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -62623,7 +62623,7 @@
 **Arianna:** Wynoś się z tego ciała! Natychmiast!  
 **Erica:** Anioł? Na Ziemi?  
 **Mox:** Kim ty, do cholery, jesteś?  
-**Erica:** Otworzyłem szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzył.  
+**Erica:** Otworzyłam szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzył.  
 **Diana:** Madalyn zawarła sojusz z Lilith.  
 **Erica:** Suka! Oszukała mnie!  
 **Drab:** Ani kroku dalej!  
@@ -62728,7 +62728,7 @@
 **Erica:** Myślę, że Jon się tego domyślał.  
 **Mox:** Dlaczego tak uważasz?  
 **Erica:** Dał mi parę takich…  
-**Mox:** Nie jestem pewna. A jeśli się zgubimy?  
+**Mox:** Nie jestem pewien. A jeśli się zgubimy?  
 **Erica:** Popatrz na mapę. To prosta droga. Krótki dystans.  
 **Mox:** Hmm… Poza tym z prądem.  
 **Erica:** O tak... Prąd idzie od południa.  
@@ -62748,7 +62748,7 @@
 ## Mapa 154 — WoNo — kościół / event 3 / strona 1
 
 **Heather:** Cholera… Ani śladu po niej.  
-**Mox:** Rozejrzyjmy się. Jestem pewna, że jest gdzieś w pobliżu.  
+**Mox:** Rozejrzyjmy się. Jestem pewien, że jest gdzieś w pobliżu.  
 
 ---
 
@@ -62767,14 +62767,14 @@
 **Heather:** Aaa!  
 **Mox:** /success  
 **Heather:** Co zrobiłeś?  
-**Mox:** Oczyściłam tamę bobrów. Możemy iść dalej wzdłuż strumienia.  
+**Mox:** Oczyściłem tamę bobrów. Możemy iść dalej wzdłuż strumienia.  
 **Mox:** /order  
 
 ---
 
 ## Mapa 154 — WoNo — kościół / event 35 / strona 1
 
-**Mox:** Może mogłabym użyć miotacza ognia, by spalić tę tamę.  
+**Mox:** Może mogłbym użyć miotacza ognia, by spalić tę tamę.  
 **Mox:** Cholera… Za mokre. Potrzeba czegoś bardziej… wybuchowego.  
 
 ---
@@ -63171,12 +63171,12 @@
 **Hannah:** Chyba że oswoisz tego kiełbasianego kucyka, będziesz musiał przyjść do mnie po pomoc.  
 **Mox:** To nie tak, że mogę to kontrolować. Chloe mnie pocałowała, na litość boską.  
 **Hannah:** Co?!  
-**Mox:** Mówiłam, że nie mogę tego kontrolować.  
+**Mox:** Mówiłem, że nie mogę tego kontrolować.  
 **Hannah:** Pocałowałaś Chloe?  
 **Mox:** No cóż… tak.  
 **Hannah:** /curse  
 **Hannah:** Ty durny skurwielu!  
-**Mox:** Co zrobiłam!?  
+**Mox:** Co zrobiłem!?  
 **Hannah:** Chloe jest w tobie zakochana!  
 **Mox:** Chloe nie będzie się ze mną pieprzyć. Nie jest gotowa na związek.  
 **Hannah:** Przeleci cię, jeśli przestanie jej prać mózg banda zakonnic z kościoła.  
@@ -63184,7 +63184,7 @@
 **Hannah:** Tej dziewczynie potrzeba prawdziwego hobby. Czegoś, co odciągnie ją od tego całego dziewiczego, zakonnego biznesu.  
 **Mox:** Kto tu teraz świętoszkuje? Dopiero wczoraj straciłaś dziewictwo.  
 **Hannah:** To nieprawda!  
-**Mox:** Nie możesz mnie okłamać, Hannah. Przejrzałam cię na wylot.  
+**Mox:** Nie możesz mnie okłamać, Hannah. Przejrzałem cię na wylot.  
 **Hannah:** Cholera, twój detektywistyczny mózg!  
 **Mox:** Spoko, Hannah. Nie oceniam cię.  
 **Hannah:** Cóż, nie będziemy się pieprzyć, dopóki nie naprawimy Chloe.  
@@ -63416,7 +63416,7 @@
 **Mox:** Dobra, tato.  
 **Heather:** Jego stary pseudonim.  
 **Mox:** Handle! Miał na myśli pseudonim!  
-**Heather:** Rozgryzłaś to?  
+**Heather:** Rozgryzłeś to?  
 **Mox:** To „bigman”!  
 **Mox:** Łał, niezła sumka.  
 **Heather:** Cholera!  
@@ -63513,7 +63513,7 @@
 > **Ścieżka warunkowa:** Ellas Safe Code = 9112.
 
 **Mox:** /success  
-**Mox:** Hmm... Spodziewałam się czegoś ciekawszego.  
+**Mox:** Hmm... Spodziewałem się czegoś ciekawszego.  
 **Mox:** /fail  
 
 ---
@@ -63585,7 +63585,7 @@
 **Mox:** O co chodzi?  
 **Judy:** Muszę tylko zrobić…  
 **Judy:** Eee…  
-**Judy:** Ojej, zapomniałem, co miałem zrobić.  
+**Judy:** Ojej, zapomniałam, co miałam zrobić.  
 **Mox:** Miałaś długi dzień. Na pewno sobie przypomnisz.  
 **Judy:** Och, chciałabym sobie przypomnieć… Miałam na to przepis, ale chyba gdzieś go zostawiłam… Przepraszam.  
 **Mox:** Nie martw się, zdobędę ten przepis.  
@@ -63607,7 +63607,7 @@
 **Mox:** O co chodzi?  
 **Judy:** Muszę tylko zrobić…  
 **Judy:** Eee…  
-**Judy:** Ojej, zapomniałem, co miałem zrobić.  
+**Judy:** Ojej, zapomniałam, co miałam zrobić.  
 **Mox:** Miałaś długi dzień. Na pewno sobie przypomnisz.  
 **Judy:** Och, chciałabym sobie przypomnieć… Miałam na to przepis, ale chyba gdzieś go zostawiłam… Przepraszam.  
 
@@ -63805,7 +63805,7 @@
 **Mox:** /greet  
 **Tasha:** Cześć, Mox.  
 **Tasha:** Nie bądź obcy. Zawsze mamy więcej fajnych zabawek w drodze.  
-**Mox:** Jestem pewna, że wkrótce wpadnę.  
+**Mox:** Jestem pewien, że wkrótce wpadnę.  
 
 ---
 
@@ -63927,7 +63927,7 @@
 **Mox:** Nie mam pojęcia, po co trzymają tu ubrania razem z jedzeniem…  
 **Mox:** Cokolwiek tu jest, nie chcieli, żeby ktoś to znalazł.  
 **Kimberly:** Dlaczego tak mówisz?  
-**Mox:** Ktoś zapieczętował ten pokój. Dopiero ja go otworzyłam.  
+**Mox:** Ktoś zapieczętował ten pokój. Dopiero ja go otworzyłem.  
 **Kimberly:** Stworzymy zgrany zespół, Mox.  
 **Mox:** Taka moja praca.  
 **Kimberly:** Nie mówisz mi wszystkiego, ale nie myśl, że tylko ja nie znam całej historii.  
@@ -63941,7 +63941,7 @@
 **Mox:** A czego takiego?  
 **Kimberly:** Może zgadniesz.  
 **Mox:** Nie boisz się, że nas przyłapią?  
-**Kimberly:** Mówiłaś, że ten pokój był zapieczętowany, prawda?...  
+**Kimberly:** Mówiłeś, że ten pokój był zapieczętowany, prawda?...  
 **Kimberly:** Nikt nas tu nie szuka.  
 **Kimberly:** O kurwa! Tak!  
 **Kimberly:** Właśnie tego chcę…  
@@ -64018,7 +64018,7 @@
 ## Mapa 109 — Spiżarnia / event 9 / strona 1
 
 **Mox:** Chodź. Nie możemy tu zostać…  
-**Mox:** Już raz przyłapano mnie na igraszkach. Nie wiem, co by było, gdybym znów wpadła.  
+**Mox:** Już raz przyłapano mnie na igraszkach. Nie wiem, co by było, gdybym znów wpadł.  
 **Kimberly:** Nie zapomnij o bezprzewodowych nadajnikach… Niech nikt ich nie znajdzie.  
 **Mox:** Nie zrobię tego.  
 **Mox:** Ubierz się. Wynośmy się stąd.  
@@ -64456,14 +64456,14 @@
 ## Mapa 158 — Skrajny zachód / event 3 / strona 1
 
 **Drab:** Znalazłeś go?  
-**Nellie:** Mówiłem, że go znajdę.  
+**Nellie:** Mówiłam, że go znajdę.  
 **Duncan:** Witaj ponownie, detektywie Canmore.  
-**Nellie:** Oto on. Dokładnie jak prosiłaś.  
+**Nellie:** Oto on. Dokładnie jak prosiłeś.  
 **Duncan:** Co ja bym bez ciebie zrobiła, Nellie?  
 **Drab:** Mamy go zamknąć?  
 **Duncan:** Wyjdźcie… Wszyscy.  
 **Drab:** Na pewno?  
-**Duncan:** Powiedziałam: wynocha.  
+**Duncan:** Powiedziałem: wynocha.  
 **Duncan:** Ty też, Nellie.  
 **Nellie:** Baw się dobrze.  
 **Mox:** No więc… Oto jestem.  
@@ -64675,12 +64675,12 @@
 **Mox:** Pani komisarz… Duncan ma od niej rozkazy, by cię nie ścigać.  
 **Ella:** Pani komisarz? Ona wydaje mu rozkazy?  
 **Nellie:** Wygląda na to, że tajemnica wyszła na jaw.  
-**Ella:** Sporo czasu spędziłem, próbując dogadać się z Duncanem… Mówisz, że to koniec?  
+**Ella:** Sporo czasu spędziłam, próbując dogadać się z Duncanem… Mówisz, że to koniec?  
 **Mox:** Chyba że pójdzie za plecami Andrei.  
 **Nellie:** Wiesz… On by to zrobił.  
 **Ella:** /curse  
-**Nellie:** Czekaj… Widziałem twoją twarz.  
-**Ella:** Nie zawsze tak wyglądałem.  
+**Nellie:** Czekaj… Widziałam twoją twarz.  
+**Ella:** Nie zawsze tak wyglądałam.  
 **Nellie:** Jesteś cam girl.  
 **Ella:** Dlatego ja i Mox pieprzyliśmy się na kamerze.  
 **Nellie:** Haha! Mox wchodzi w biznes cam. Co za zwrot akcji.  
@@ -64760,7 +64760,7 @@
 **Nellie:** Dojdź! Chcę więcej kutasa!  
 **Ella:** Kurwa!  
 **Nellie:** Nie dajesz rady?  
-**Ella:** Heh. Dopiero się rozgrzewałem.  
+**Ella:** Heh. Dopiero się rozgrzewałam.  
 **Nellie:** Daj mi więcej kutasa!  
 **Mox:** Już się robi.  
 **Nellie:** Aaa!  
@@ -64769,7 +64769,7 @@
 **Nellie:** O Boże! Za dużo!  
 **Ella:** Mam przestać?  
 **Nellie:** Nie! Nie przestawaj!  
-**Ella:** Tak właśnie myślałem.  
+**Ella:** Tak właśnie myślałam.  
 **Mox:** Miażdżysz mi kutasa!  
 **Nellie:** Prawie nie mogę tego wytrzymać!  
 **Ella:** Dalej, wy dwoje! Wytrzymajcie!  
@@ -64794,7 +64794,7 @@
 ## Mapa 159 — Drugie biuro / event 7 / strona 1
 
 **Ella:** Zaufam ci… Opuścę rezydencję.  
-**Nellie:** Nie opuszczałbym gardy. Dopóki nie skończymy.  
+**Nellie:** Nie opuszczałabym gardy. Dopóki nie skończymy.  
 **Mox:** To może potrwać.  
 **Nellie:** Duncan ma problem z odpuszczaniem.  
 **Ella:** To szalone… Duncan zabrał moje pieniądze… i teraz ma amulet… Gość nie potrafi niczego odpuścić.  
@@ -64893,7 +64893,7 @@
 
 **Mox:** Ale pokrętny sposób na spłukanie toalety.  
 **Mox:** /find  
-**Mox:** Znalazłam blond włos!  
+**Mox:** Znalazłem blond włos!  
 **Hannah:** /excited  
 **Nellie:** Udało nam się!  
 **Mox:** Chodź, wracajmy do szczeliny. Wszyscy na nas czekają.  
@@ -65069,7 +65069,7 @@
 **Arianna:** Mój umysł się opiera… ale ciało chce więcej.  
 **Lillian:** Jej skrzydła… Nie zmieniają się.  
 **Tasha:** Pieprz ją, Mox!  
-**Mox:** Jesteś gotowy?  
+**Mox:** Jesteś gotowa?  
 **Arianna:** Nie mogę tego powiedzieć… Nie potrafię… ale muszę.  
 **Mox:** Cholera! Ale ciasno!  
 **Arianna:** Ach! Ach!  
@@ -65187,13 +65187,13 @@
 
 **Erica:** /greet  
 **Mox:** /greet  
-**Mox:** Nie miałam jeszcze okazji zapytać: jak się trzymasz?  
-**Mox:** Wiem, że ostatnio wiele przeszedłeś.  
+**Mox:** Nie miałem jeszcze okazji zapytać: jak się trzymasz?  
+**Mox:** Wiem, że ostatnio wiele przeszłaś.  
 **Erica:** Tak, to był naprawdę długi i szalony dzień.  
-**Erica:** Umarłem, zgrzeszyłem przeciwko Bogu, masturbując się relikwią, i trafiłem do Piekła…  
-**Erica:** Potem uprawiałem seks z demonami, a jednego z nich pokonałem relikwią, do której się masturbowałem…  
-**Erica:** Wychłostałem samego siebie, żeby odzyskać ciało i uniknąć potępienia…  
-**Erica:** A potem uratowałem świat, pozwalając księdzu rzucić we mnie bombą wodną, gdy trzymałem posąg, na który nie mogłem patrzeć.  
+**Erica:** Umarłam, zgrzeszyłam przeciwko Bogu, masturbując się relikwią, i trafiłam do Piekła…  
+**Erica:** Potem uprawiałam seks z demonami, a jednego z nich pokonałam relikwią, do której się masturbowałam…  
+**Erica:** Wychłostałam samego siebie, żeby odzyskać ciało i uniknąć potępienia…  
+**Erica:** A potem uratowałam świat, pozwalając księdzu rzucić we mnie bombą wodną, gdy trzymałam posąg, na który nie mogłam patrzeć.  
 **Erica:** Potrzebuję urlopu.  
 
 ---
@@ -65267,7 +65267,7 @@
 **Arianna:** /greet  
 **Arianna:** Miło cię widzieć, Mox.  
 **Mox:** Ciebie też miło widzieć, Arianno.  
-**Mox:** Tak się zastanawiałam…  
+**Mox:** Tak się zastanawiałem…  
 **Mox:** Czemu tu przesiadujesz?  
 **Arianna:** Hmm, sama nie wiem.  
 **Arianna:** Empyreum było moim domem przez tak długi czas.  
@@ -65384,8 +65384,8 @@
 ## Mapa 201 — Pokój R — zniszczony / event 94 / strona 1
 
 **Ella:** /success  
-**Mox:** Cóż… Dostałeś to, czego chciałeś.  
-**Ella:** Nie miałem co do tego wątpliwości.  
+**Mox:** Cóż… Dostałaś to, czego chciałaś.  
+**Ella:** Nie miałam co do tego wątpliwości.  
 **Ella:** A teraz jeszcze raz przyjrzyjmy się nagrodzie…  
 
 ---
@@ -65447,7 +65447,7 @@
 **Arianna:** O, wow! Naprawdę wiesz, co robisz tym językiem, Ello!  
 **Mox:** Jej cipka jest równie niesamowita.  
 **Ella:** Mhm…  
-**Mox:** Mogłabym tak cały dzień!  
+**Mox:** Mogłbym tak cały dzień!  
 **Arianna:** Nie przestawaj, Ello, nie przestawaj.  
 **Ella:** …  
 **Arianna:** Mox… Też chcę spróbować.  
@@ -65745,7 +65745,7 @@
 
 **Lillian:** Żegnajcie, kochankowie.  
 **Erica:** Czy ona przyszła tu nago?  
-**Mox:** Co to, do cholery, było? Myślałam, że po nas.  
+**Mox:** Co to, do cholery, było? Myślałem, że po nas.  
 **Erica:** To był jej sok z cipki, Mox!  
 **Mox:** Wiem…  
 **Erica:** Smakuje niesamowicie.  
@@ -65767,7 +65767,7 @@
 ## Mapa 108 — Kuchnia / event 22 / strona 1
 
 **Andrea:** Mox? Co ty tu, do cholery, robisz?  
-**Mox:** Ja tylko… miałam kilka pytań.  
+**Mox:** Ja tylko… miałem kilka pytań.  
 **Mox:** Co robisz? Gdzie jest Lillian?  
 **Andrea:** Nie udało nam się jej znaleźć. Musiała wiedzieć, że idziemy.  
 **Andrea:** Kimkolwiek, do cholery, jest, dopuściła się niezłego oszustwa.  
@@ -65932,7 +65932,7 @@
 
 **Hannah:** Patrz! Tu mieszkają źli goście!  
 **Mox:** To część rezydencji… Jakiś ukryty szlak ucieczki. To nie bunkier.  
-**Hannah:** Cholera. Nie wiedziałem, że to wszystko tu jest.  
+**Hannah:** Cholera. Nie wiedziałam, że to wszystko tu jest.  
 **Hannah:** Więc dokąd idziemy?  
 **Mox:** Coś wymyślę.  
 
@@ -66113,7 +66113,7 @@
 **Nellie:** Tu masz mój numer…  
 **Mox:** Bezpiecznie dla ciebie opuścić bunkier?  
 **Nellie:** Mogę iść, gdzie chcę. Mam Duncana owiniętego wokół małego palca.  
-**Mox:** Chętnie bym pogrzebała ci w głowie.  
+**Mox:** Chętnie bym pogrzebał ci w głowie.  
 **Nellie:** Jestem pewna, że to nie jedyna część mnie, której chcesz.  
 **Hannah:** Hej, paniusiu!  
 **Nellie:** Wynoś się stąd. Jeśli ktoś cię zobaczy, wszyscy mamy przerąbane.  
@@ -66271,7 +66271,7 @@
 
 ## Mapa 217 — Grobowiec Casuli / event 20 / strona 1
 
-**Erica:** Gdybym ja budował to miejsce, na pewno zrobiłbym drogę ucieczki.  
+**Erica:** Gdybym ja budował to miejsce, na pewno zrobiłabym drogę ucieczki.  
 **Mox:** Szukajmy dalej.  
 **Erica:** Może mapa ma wskazówkę.  
 
@@ -66292,7 +66292,7 @@
 **Erica:** Cholera! To wygląda drogo!  
 **Mox:** Może będziemy bogaci.  
 **Erica:** Ja będę bogaty. To była moja robota.  
-**Mox:** Podzleciłeś mi to. Należy mi się połowa.  
+**Mox:** Podzleciłaś mi to. Należy mi się połowa.  
 **Erica:** Nic nie dostaniemy, jeśli się stąd nie wydostaniemy.  
 **Mox:** Przeszukaliśmy wszędzie. Jakieś inne pomysły?  
 **Erica:** Wiesz… Babcia opowiadała mi historie o Casula i ich pułapkach w świątyni.  
@@ -66332,7 +66332,7 @@
 **Erica:** Tak! Tak! Spraw, by moja cipka ociekała wilgocią, kochanie!  
 **Mox:** Jesteś piękna, Erico.  
 **Erica:** Pieprz mnie, Mox.  
-**Mox:** Chyba się w tobie zakochałam.  
+**Mox:** Chyba się w tobie zakochałem.  
 **Erica:** To zerżnij mnie porządnie, kochasiu!  
 **Erica:** Tak! Kurwa!  
 **Mox:** Masz cipkę anioła.  
@@ -66457,14 +66457,14 @@
 **Duncan:** Co, kurwa, właśnie powiedziałeś?  
 **Oprych 1:** Nic… Tak tylko mówiłem…  
 **Duncan:** Trzymaj swoją pieprzoną gębę na kłódkę, albo ci ją zszyję.  
-**Kobieta-popleczniczka:** On to zrobi. Widziałem.  
+**Kobieta-popleczniczka:** On to zrobi. Widziałam.  
 **Oprych 1:** Tak, szefie. Przepraszam.  
 **Duncan:** Dość picia. Chcę ciastko.  
-**Oprych 2:** No dawaj, szefie. Zrobiłam ciastka z masłem orzechowym.  
+**Oprych 2:** No dawaj, szefie. Zrobiłem ciastka z masłem orzechowym.  
 **Duncan:** O! Moje ulubione!  
 **Kobieta-popleczniczka:** Lepiej uważaj na siebie.  
 **Oprych 1:** Bo co?  
-**Kobieta-popleczniczka:** Jeśli Duncan jest wkurzony, ja też jestem wkurzony.  
+**Kobieta-popleczniczka:** Jeśli Duncan jest wkurzony, ja też jestem wkurzona.  
 **Oprych 1:** Lizus.  
 **Nellie:** Zamknijcie się. Oboje.  
 **Nellie:** Nie wytrzymam tutaj. Wychodzę.  
@@ -66479,7 +66479,7 @@
 **Nellie:** Mówiłam ci, żebyś przestał za mną łazić.  
 **Melissa:** Co tu się, do cholery, dzieje?  
 **Nellie:** Wy durne chuje. Pracuję dla Kimury. Nie powinno was tu być.  
-**Mox:** Wiedziałam.  
+**Mox:** Wiedziałem.  
 **Nellie:** Nikt, absolutnie nikt nie ma wiedzieć, że jestem kretem. Musicie się stąd wynosić, natychmiast.  
 **Melissa:** Udowodnij to.  
 **Nellie:** Nie jesteś w pozycji, by czegokolwiek ode mnie żądać, detektyw.  
@@ -66502,7 +66502,7 @@
 **Nellie:** Vanessa, to jest Phyliss Daggett. Niezła złodziejka.  
 **Kobieta-popleczniczka:** Cholernie dobrze, że jestem twardzielką.  
 **Melissa:** Miło mi cię poznać.  
-**Kobieta-popleczniczka:** Może źle cię oceniłem, Nellie. Myślałem, że obciągasz Duncanowi.  
+**Kobieta-popleczniczka:** Może źle cię oceniłam, Nellie. Myślałam, że obciągasz Duncanowi.  
 **Nellie:** Obrzydliwe.  
 **Kobieta-popleczniczka:** Jeśli jesteś lesbą, to wszystko zmienia.  
 **Nellie:** Uwielbiam lizać cipkę. Babki to moja bajka. Faceci… są obrzydliwi.  
@@ -66708,7 +66708,7 @@
 ## Mapa 104 — Bunkier / event 14 / strona 1
 
 **Melissa:** Co cię, do cholery, tak długo zatrzymało?  
-**Mox:** Musiałam się upewnić, że zrobiłam to dobrze.  
+**Mox:** Musiałem się upewnić, że zrobiłem to dobrze.  
 **Nellie:** Narobiliście już dość kłopotów. Musicie się stąd wynosić.  
 **Mox:** A co z pijaną babką? Wkrótce się obudzi.  
 **Nellie:** Zapomni wszystko. Jest pijana.  
@@ -66785,7 +66785,7 @@
 
 ## Mapa 172 — Pod tajnym pomieszczeniem / event 9 / strona 3
 
-**Melissa:** Coś słyszałem.  
+**Melissa:** Coś słyszałam.  
 **Brian:** Pospieszmy się.  
 
 ---
@@ -66886,7 +66886,7 @@
 **Kimberly:** A mimo to czuję się dobrze.  
 **Demon 1:** Niespodziewani goście! Ale mam szczęście!  
 **Mox:** Aah! Cofnij się!  
-**Kimberly:** Jesteś taka… piękna!  
+**Kimberly:** Jesteś taki… piękny!  
 **Demon 1:** I owszem, moja śliczna człowieczko.  
 **Kimberly:** Tak!  
 **Mox:** O cholera! Znowu się zaczyna!  
@@ -66909,7 +66909,7 @@
 **Kimberly:** Panna Kimura? Co ona robi?  
 **Madalyn:** Otworzyłaś szczelinę. Sprytnie.  
 **Andrea:** Ja pierdolę… To niesamowite!  
-**Mox:** Co jej zrobiłeś?  
+**Mox:** Co jej zrobiłaś?  
 **Madalyn:** Skosztowała czegoś… co wywraca umysł na nice.  
 **Kimberly:** Gdzie jest Lillian?  
 **Madalyn:** Matki teraz tu nie ma. Podziwiam jednak pani lojalność, panno Foxx.  
@@ -67095,7 +67095,7 @@
 **Tasha:** Ależ to miejsce jest niesamowite!  
 **Brian:** Nie użyłbym tego słowa.  
 **Mox:** Uważaj. Po okolicy krążą demony.  
-**Brian:** Jestem gotowa stawić im czoła.  
+**Brian:** Jestem gotowy stawić im czoła.  
 **Tasha:** Jak się przedostaniemy? Wszędzie jest… ogień.  
 **Brian:** To Piekło, Tasho. Czego się spodziewałaś?  
 **Mox:** Na pewno znajdę sposób, żeby się przedostać.  
@@ -67220,7 +67220,7 @@
 **Lilith:** Mox, nie możesz pozwolić, by ten ksiądz znów się tu zbliżył.  
 **Mox:** Boisz się go.  
 **Lilith:** Chce, by zakonnica bezpiecznie wróciła do domu. Ty pewnie też tego chcesz.  
-**Mox:** Masz Tomę. Dałam ci to, czego potrzebowałeś, więc puść Judy.  
+**Mox:** Masz Tomę. Dałem ci to, czego potrzebowałeś, więc puść Judy.  
 **Lilith:** Rozejrzyj się, Mox. To świat, który nazywamy domem od zarania dziejów.  
 **Mox:** Jest do dupy… Rozumiem.  
 **Lilith:** Wasz świat dostał fałszywą matkę. Bóg tego świata odebrał mi wszystko…  
@@ -67269,7 +67269,7 @@
 **Mox:** Bez ojca Solomona ich nie pokonasz.  
 **Ella:** To koniec, Mox. Nie dostanę zapłaty.  
 **Mox:** Co ty mówisz? Nie to powinno cię teraz martwić.  
-**Ella:** Myślałem o tym, Mox… Myślałem, żeby uratować Duncana.  
+**Ella:** Myślałam o tym, Mox… Myślałam, żeby uratować Duncana.  
 
 > **Ścieżka warunkowa:** Nellie left Andrea's House: wyłączony.
 
@@ -67462,7 +67462,7 @@
 
 ## Mapa 151 — Piekło / event 61 / strona 1
 
-**Lilith:** Kurwa! Doszedłem!  
+**Lilith:** Kurwa! Doszłam!  
 **Mox:** Hej, już tego nie czuję!  
 **Ella:** Szczelina jest otwarta!  
 **Mox:** Uciekaj!  
@@ -67830,7 +67830,7 @@
 **Mox:** Wie o nadajnikach?  
 **Kimberly:** Zagramy w grę Kimury, ale chcemy czegoś więcej.  
 **Mox:** Jeśli cię złapią, wszystkiemu zaprzeczę.  
-**Kimberly:** Oczywiście. Niczego innego się nie spodziewałem.  
+**Kimberly:** Oczywiście. Niczego innego się nie spodziewałam.  
 **Kimberly:** Ale nie damy się złapać.  
 **Mox:** Naprawię ten nadajnik. Ta sprawa sięga dalej niż Gildia Zaćmienia i chcę wiedzieć, co się dzieje.  
 **Kimberly:** Ty to potrafisz naginać zasady, Mox. Powinieneś pracować u nas.  
@@ -67873,7 +67873,7 @@
 **Mox:** Melissa i ja ciężko pracowaliśmy nad tą sprawą. Z radością informujemy, że odnaleziono cenny obraz „Burza na Morzu Galilejskim”.  
 **Melissa:** Świat sztuki może dziś odetchnąć z ulgą, ale sprawa Gildii jeszcze się nie skończyła.  
 **Mox:** Cóż… Zostały już tylko formalności. Miasto jest bezpieczne.  
-**Kimberly:** Jestem pewien, że w przyszłości wyjdzie na jaw znacznie więcej.  
+**Kimberly:** Jestem pewna, że w przyszłości wyjdzie na jaw znacznie więcej.  
 **Mox:** Z pewnością poznamy więcej szczegółów na temat Gildii Zaćmienia, ale cieszymy się, że możemy wreszcie zamknąć tę sprawę.  
 **Melissa:** W jakiś sposób Gildia Zaćmienia uniknęła wykrycia w North Santiva. Wciąż nie wiemy, jak do tego doszło.  
 **Kimberly:** Mówi pani o rezydencji Wilkesów?  
@@ -67951,7 +67951,7 @@
 
 **Melissa:** Cholera!... Powiedz, że nikt tego nie widział.  
 **Kimberly:** Zaufaj mi. Jesteśmy sami.  
-**Mox:** Choć chętnie zostałabym na pogawędkę po seksie, muszę iść gdzie indziej.  
+**Mox:** Choć chętnie zostałbym na pogawędkę po seksie, muszę iść gdzie indziej.  
 **Kimberly:** Pieprzysz i uciekasz.  
 **Melissa:** Co zamierzasz zrobić z Andreą?  
 **Mox:** Poradzę sobie z tym, co mnie spotka… A może przy odrobinie szczęścia jutro wrócę do pracy.  
@@ -68335,7 +68335,7 @@
 
 ## Mapa 082 — Studio / event 71 / strona 1
 
-**Paul:** Jak widzisz, jestem teraz trochę zajęta. Nie powinieneś pilnować tego dzieciaka Bancrofta?  
+**Paul:** Jak widzisz, jestem teraz trochę zajęty. Nie powinieneś pilnować tego dzieciaka Bancrofta?  
 
 ---
 
@@ -68444,7 +68444,7 @@
 **Kimberly:** Cholera!  
 **Mox:** Wszystko w porządku?  
 **Kimberly:** Zamknij się i dalej porządnie rżnij mnie w tyłek!  
-**Mox:** Jestem gotowa ujawnić wyniki mojego śledztwa!  
+**Mox:** Jestem gotowy ujawnić wyniki mojego śledztwa!  
 **Kimberly:** Pokaż paniom przed telewizorami to, czego potrzebują, detektywie Canmore!  
 **Kimberly:** Rozbryzgaj na mnie wyniki śledztwa!  
 **Kimberly:** Tak! Ani kropli się nie zmarnowało.  
@@ -68516,7 +68516,7 @@
 **Mox:** Daj posłuchać.  
 **Kimberly:** Posłuchaj tego.  
 **Kimberly:** Co to, do cholery, jest?  
-**Mox:** Słyszałam coś podobnego, ale cicho, gdy byłam w kuchni.  
+**Mox:** Słyszałem coś podobnego, ale cicho, gdy byłem w kuchni.  
 **Kimberly:** Co się tam dzieje? Jakaś działalność kultu?  
 **Mox:** Masz coś jeszcze?  
 **Kimberly:** To był koniec nagrania. Nadajnik przestał odpowiadać po tym.  
@@ -68527,7 +68527,7 @@
 **Mox:** Jeśli Andrea dowie się, że ci w tym pomagam, moja kariera jest skończona.  
 **Kimberly:** Wiem, że to dla ciebie duże ryzyko. Ale wynagrodzimy twój wysiłek.  
 **Mox:** Nie zamierzam brać łapówek. Jestem w to zaangażowana tylko dlatego, że chcę wiedzieć, co dzieje się w rezydencji…  
-**Mox:** Kimura nie jest zachwycona pomysłem, bym ingerowała w… jej własne operacje.  
+**Mox:** Kimura nie jest zachwycona pomysłem, bym ingerował w… jej własne operacje.  
 **Kimberly:** Czego mi nie mówisz?  
 **Mox:** Chodzi o skradziony obraz.  
 **Kimberly:** Skradziony obraz?  
@@ -68589,10 +68589,10 @@
 **Mox:** Co dokładnie widziałaś w swoim śnie?  
 **Kimberly:** Cóż… Była tam grupa kobiet… Ale były w cieniu… Bardzo trudno dostrzec.  
 **Kimberly:** Pokój był stary… Pomarańczowo oświetlony płomieniami, ale zbyt ciemny, by cokolwiek dostrzec.  
-**Mox:** Miałam podobny sen. Nie sądzę, by to był zbieg okoliczności.  
+**Mox:** Miałem podobny sen. Nie sądzę, by to był zbieg okoliczności.  
 **Kimberly:** Cholera. To upiorne sprawy, Mox.  
 **Kimberly:** Jak myślisz, co ukrywają?  
-**Mox:** Widziałam to… Jest pokój taki, jak opisujesz. Ciemny, ale oświetlony pochodniami.  
+**Mox:** Widziałem to… Jest pokój taki, jak opisujesz. Ciemny, ale oświetlony pochodniami.  
 **Kimberly:** O kurwa.  
 **Mox:** Tak…  
 **Kimberly:** Chcę to zobaczyć.  
@@ -68656,7 +68656,7 @@
 **Kimberly:** Czym jest szczelina, Mox? Powiedz mi.  
 **Mox:** Kto wie? Są szaleni.  
 **Kimberly:** Pokaż mi.  
-**Mox:** Czemu miałabym ci cokolwiek powierzyć?  
+**Mox:** Czemu miałbym ci cokolwiek powierzyć?  
 **Kimberly:** Mamy ten sam cel. Oboje chcemy wiedzieć, co dzieje się w tej rezydencji.  
 **Mox:** Chcesz tylko historii. Przejedziesz się po śledztwie, by ją zdobyć.  
 **Kimberly:** Nie jesteś już częścią śledztwa.  
@@ -68665,7 +68665,7 @@
 **Kimberly:** Wiem, że coś ukrywasz.  
 **Mox:** Nie masz pojęcia, o czym mówisz. Masz tylko koszmary.  
 **Kimberly:** Dowiem się, tak czy inaczej.  
-**Mox:** Obiecałeś, że nie odwiedzisz już rezydencji.  
+**Mox:** Obiecałaś, że nie odwiedzisz już rezydencji.  
 **Kimberly:** Nie jesteś już detektywem. Zrobię, co muszę.  
 **Mox:** Trzymaj się z daleka od rezydencji, Kimberly.  
 **Kimberly:** Nie ukryjesz tego przede mną, Mox.  
@@ -68806,14 +68806,14 @@
 **Kimberly:** Sprawisz, że widzowie nie oderwą oczu od Channel 4.  
 **Mox:** Moim zadaniem jest uspokajanie społeczeństwa. Jestem do dyspozycji, kiedy mnie potrzebujesz.  
 **Kimberly:** Będę na tobie polegać, Mox. Jesteś teraz moim punktem kontaktowym.  
-**Mox:** Powiedziałeś w wywiadzie, że Gildia ma ponad 900 członków. Skąd to wiesz?  
+**Mox:** Powiedziałaś w wywiadzie, że Gildia ma ponad 900 członków. Skąd to wiesz?  
 **Kimberly:** Wyciekłe dokumenty od dwunastu przywódców.  
 **Mox:** Dwunastu przywódców?  
 **Kimberly:** Jestem pewna, że macie tę samą dokumentację na posterunku.  
 **Mox:** Pozwól, że zapytam: Czy wśród przywódców widniał jakiś Wilkes?  
 **Kimberly:** Zidentyfikowano tylko sześciu z dwunastu, ale nie przypominam sobie Wilkesa.  
 **Kimberly:** Masz na myśli Charlesa Wilkesa?  
-**Mox:** Nieważne. Zastanawiałam się tylko, czy wasze informacje pokrywają się z naszymi.  
+**Mox:** Nieważne. Zastanawiałem się tylko, czy wasze informacje pokrywają się z naszymi.  
 **Kimberly:** Czy dzieje się tu, w North Santiva, coś, o czym mi nie mówisz?  
 **Mox:** Nie. Wszystko w porządku.  
 **Kimberly:** Pomóżmy sobie nawzajem, Mox.  
@@ -68881,7 +68881,7 @@
 **Kimberly:** Co skradziono?  
 **Andrea:** Coś wartego ponad dziesięć milionów.  
 **Kimberly:** Serio?  
-**Mox:** Cholera. Nawet o tym nie wiedziałam.  
+**Mox:** Cholera. Nawet o tym nie wiedziałem.  
 **Andrea:** Wyobraź sobie, że to ty pierwsza podajesz tę wiadomość.  
 **Kimberly:** W takim razie… Lepiej wynagrodzę twój wysiłek.  
 **Andrea:** Och, tak! Panno Foxx! Ale z pani niegrzeczna dziewczynka.  
@@ -68905,7 +68905,7 @@
 **Andrea:** Nieźle nas pani rozgrzała, panno Foxx. Spóźnimy się?  
 **Kimberly:** Nie… W porządku. Nie przestawaj.  
 **Mox:** Ależ jesteście razem seksowne.  
-**Kimberly:** Kurwa. Ale jestem napalony.  
+**Kimberly:** Kurwa. Ale jestem napalona.  
 **Andrea:** I wyraźnie Mox ma ochotę na więcej.  
 **Mox:** Och, eee… Z przyjemnością.  
 **Mox:** Ach! Mój kutas!...  
@@ -69444,7 +69444,7 @@
 **Mox:** Mam.  
 **Erica:** /excited  
 **Mox:** Zajmijmy się tymi stopami.  
-**Erica:** Mógłbym się do tego przyzwyczaić.  
+**Erica:** Mógłabym się do tego przyzwyczaić.  
 **Mox:** Jeszcze się przekonamy.  
 
 ---
@@ -69461,7 +69461,7 @@
 **Erica:** Uważaj, Mox. Mogę to wykorzystać.  
 **Mox:** Nie będę narzekał.  
 **Mox:** Pamiętasz nasz pierwszy raz?  
-**Erica:** Jak mógłbym zapomnieć?  
+**Erica:** Jak mógłabym zapomnieć?  
 **Erica:** To była świetna zabawa.  
 **Mox:** A teraz spójrz na nas.  
 **Mox:** Prowadzimy życie w luksusie, w rezydencji.  
@@ -69841,7 +69841,7 @@
 
 **Mox:** Chodź. Ubierzmy się i wynośmy się stąd.  
 **Hannah:** Czekaj…  
-**Hannah:** Te skały, którymi próbowałaś mnie zmiażdżyć, zrobiły most.  
+**Hannah:** Te skały, którymi próbowałeś mnie zmiażdżyć, zrobiły most.  
 **Mox:** Ja nie…  
 **Mox:** Huh. Chyba tak.  
 **Hannah:** Chodźmy głębiej!  
@@ -70076,7 +70076,7 @@
 
 **Lillian:** Mox!  
 **Lillian:** Ty podglądaczu.  
-**Mox:** Co to właśnie podniosłeś?  
+**Mox:** Co to właśnie podniosłaś?  
 **Lillian:** Jeśli musisz wiedzieć, to stara relikwia z dawnej wojny.  
 **Mox:** Relikwia? Czemu była zamknięta w takim miejscu?  
 **Mox:** /shock  
@@ -70107,7 +70107,7 @@
 **Lillian:** Mam do wykonania zadanie daleko stąd, a twoje miejsce jest w North Santiva.  
 **Lillian:** Ale będę tęsknić za tymi twoimi ustami…  
 **Mox:** Wiesz, że nie umiem ci się oprzeć, Lillian.  
-**Lillian:** Właśnie to chciałem usłyszeć.  
+**Lillian:** Właśnie to chciałam usłyszeć.  
 **Lillian:** Jestem matką, której potrzebujesz.  
 **Mox:** Lillian… Zaczekaj.  
 **Lillian:** Wciąż ci mało, Mox?  
@@ -70298,7 +70298,7 @@
 **Demon 2:** Czerpie z tego każdą chwilę przyjemności!  
 **Demon 3:** Nie oprzesz się naszemu urokowi.  
 **Madalyn:** Chce więcej… Dajcie jej więcej.  
-**Madalyn:** Mówiłem ci, Matko. To samice naszego gatunku warto ratować.  
+**Madalyn:** Mówiłam ci, Matko. To samice naszego gatunku warto ratować.  
 **Mox:** Musimy coś zrobić.  
 **Tasha:** Dawaj, tato!  
 **Brian:** No to jazda.  
@@ -70618,7 +70618,7 @@
 **Henry:** Evie!  
 **Evie:** Henry, nareszcie jesteś!  
 **Henry:** Co ty tu robisz?... I co trzymasz?  
-**Evie:** Mam Tomę Leolo! Przyszedłem wam pomóc.  
+**Evie:** Mam Tomę Leolo! Przyszłam wam pomóc.  
 **Mox:** Masz Tomę? Gdzie jest Lillian?  
 **Evie:** Odwraca uwagę Daemaliusa… Toma Leolo nigdy nie było w tamtej skrzyni.  
 **Mox:** To podstęp…  
@@ -70639,7 +70639,7 @@
 **Kimberly:** Po prostu to zrób!  
 **Erica:** Dobrze… Zaczynam.  
 **Erica:** /success  
-**Evie:** A nie mówiłem?  
+**Evie:** A nie mówiłam?  
 **Brian:** /excited  
 **Henry:** Co teraz?  
 **Brian:** Musimy tylko pobłogosławić Tomę, kiedy Erica będzie ją trzymać.  
@@ -70825,7 +70825,7 @@
 **Mox:** Niewiele… Do czego zmierzasz?  
 **Evie:** Powiem tylko, że demonom i aniołom trudno dostać się do wymiaru Ziemi.  
 **Mox:** Tak… Arianna użyła Wyroczni.  
-**Evie:** A ja użyłem Kryształu Duszy.  
+**Evie:** A ja użyłam Kryształu Duszy.  
 **Evie:** Z moich obliczeń wynika, że na Ziemi jest tylko jeden Kryształ Duszy i jedna istota-powłoka… I oba są już używane.  
 **Mox:** Do czego zmierzasz?  
 **Evie:** Dopilnuj, żeby Lilith znalazła to, czego potrzebuje, Mox.  
@@ -70887,7 +70887,7 @@
 **Demon 3:** Hahaha, jesteśmy demonami! Właściwie nie musimy oddychać.  
 **Arianna:** A, racja!  
 **Arianna:** Teraz trochę głupio mi, że zapytałam.  
-**Mox:** Przynajmniej zrozumiałeś coś ważnego.  
+**Mox:** Przynajmniej zrozumiałaś coś ważnego.  
 **Arianna:** To prawda.  
 
 ---
@@ -70992,7 +70992,7 @@
 **Demon 3:** Hahaha, jesteśmy demonami! Właściwie nie musimy oddychać.  
 **Arianna:** A, racja!  
 **Arianna:** Teraz trochę głupio mi, że zapytałam.  
-**Mox:** Przynajmniej zrozumiałeś coś ważnego.  
+**Mox:** Przynajmniej zrozumiałaś coś ważnego.  
 **Arianna:** To prawda.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 210 → FAILED WING: wyłączony → FAILED BLUE: wyłączony → FAILED PINK: wyłączony → Did Wing: wyłączony → Did Blue: wyłączony → Did pink: wyłączony → Did evie: wyłączony.
@@ -71001,7 +71001,7 @@
 **Evie:** Nieźle, dziewczyno! Świetna robota!  
 **Arianna:** Naprawdę umiesz używać języka.  
 **Evie:** Mam nadzieję, że uważałeś.  
-**Arianna:** Uważałem!  
+**Arianna:** Uważałam!  
 
 ---
 
@@ -71101,7 +71101,7 @@
 
 **Arianna:** Naprawdę umiesz używać języka.  
 **Evie:** Mam nadzieję, że uważałeś.  
-**Arianna:** Uważałem!  
+**Arianna:** Uważałam!  
 
 ---
 
@@ -71287,7 +71287,7 @@
 
 ## Mapa 200 — Zniszczona część północno-zachodnia / event 37 / strona 3
 
-**Evie:** Wow! Osobisty portal! Nigdy nie widziałem go na żywo.  
+**Evie:** Wow! Osobisty portal! Nigdy nie widziałam go na żywo.  
 **Mox:** Ruszajmy.  
 **Brian:** Żegnaj, Evie. Choć jesteśmy zaprzysiężonymi wrogami, byłaś bardzo pomocna. Jestem ci wdzięczny.  
 **Evie:** Jestem wielką fanką Ziemi. Nie chciałabym, żeby zniszczył ją taki nieudacznik jak Daemalius.  
@@ -71546,7 +71546,7 @@
 
 ## Mapa 202 — Świątynia / event 10 / strona 4
 
-**Ella:** Mówiłem ci, że to żaden problem.  
+**Ella:** Mówiłam ci, że to żaden problem.  
 **Mox:** …  
 **Mox:** I co teraz? Zamierzasz to sprzedać?  
 **Ella:** Nie mam pojęcia. Ale to miejsce to skarbnica.  
@@ -71626,7 +71626,7 @@
 **Erica:** Moje ciało? Nie jestem teraz w swoim ciele?  
 **Lilith:** Jesteś duszą, młoda damo. Potrzebujesz ziemskiego ciała, żeby opuścić Piekło.  
 **Mox:** Jak możemy pomóc?  
-**Brian:** Jestem gotowa do wojny.  
+**Brian:** Jestem gotowy do wojny.  
 **Tasha:** Ja też! Skopmy mu tyłek!  
 **Madalyn:** Nie można go pokonać.  
 **Lilith:** Trzeba go uwięzić. W przeciwnym razie jest nieśmiertelny w tym królestwie.  
@@ -72005,7 +72005,7 @@
 **Brian:** Więc jaki jest trik?  
 **Henry:** Pracuję nad tym.  
 **Mox:** Ostrożnie… W środku mogą być demony.  
-**Diana:** To świątynia… Założyłbym się, że nasza Toma jest w środku.  
+**Diana:** To świątynia… Założyłabym się, że nasza Toma jest w środku.  
 **Henry:** Musi być sposób, by to otworzyć… Rozejrzyj się i zobacz, co znajdziesz.  
 
 ---
@@ -72318,7 +72318,7 @@
 **Melissa:** Mówiłeś, że ją widziałeś, prawda?  
 **Mox:** Tak, po prostu nie sądziłem, że potraktujesz to poważnie.  
 **Melissa:** Co to, do cholery, ma znaczyć?  
-**Mox:** Po prostu powiedz, czego się dowiedziałeś.  
+**Mox:** Po prostu powiedz, czego się dowiedziałaś.  
 **Melissa:** Zephaniah może mieć związek z Madalyn.  
 **Mox:** Kto?  
 **Melissa:** Były ksiądz z katedry w Eve.  

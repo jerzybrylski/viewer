@@ -19,7 +19,7 @@
 **Mox:** Z przyjemnością.  
 **Mox:** /greet  
 **Kimberly:** Ile to jeszcze potrwa?  
-**Mox:** Myślałam, że spotkamy się w sypialni.  
+**Mox:** Myślałem, że spotkamy się w sypialni.  
 **Kimberly:** Jestem zajęta, Mox.  
 
 > **Ścieżka warunkowa:** Ext House Impressive ≥ 13.

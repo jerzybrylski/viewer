@@ -14,7 +14,7 @@
 **Erica:** Tak! Tak! Spraw, by moja cipka ociekała wilgocią, kochanie!  
 **Mox:** Jesteś piękna, Erico.  
 **Erica:** Pieprz mnie, Mox.  
-**Mox:** Chyba się w tobie zakochałam.  
+**Mox:** Chyba się w tobie zakochałem.  
 **Erica:** To zerżnij mnie porządnie, kochasiu!  
 **Erica:** Tak! Kurwa!  
 **Mox:** Masz cipkę anioła.  

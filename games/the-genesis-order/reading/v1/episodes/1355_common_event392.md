@@ -7,7 +7,7 @@
 **Carol:** Wszystko w porządku, skarbie.  
 **Mox:** Carol?  
 **Carol:** Najlepiej przytulasz.  
-**Mox:** Zszedłeś tu tylko po przytulasa?  
+**Mox:** Zeszłaś tu tylko po przytulasa?  
 **Carol:** Co o tym myślisz?  
 **Mox:** Carol! A co z dziewczynami?  
 **Carol:** Śpią, prawda?  

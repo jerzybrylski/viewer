@@ -60,7 +60,7 @@
 **Nellie:** Dojdź! Chcę więcej kutasa!  
 **Ella:** Kurwa!  
 **Nellie:** Nie dajesz rady?  
-**Ella:** Heh. Dopiero się rozgrzewałem.  
+**Ella:** Heh. Dopiero się rozgrzewałam.  
 **Nellie:** Daj mi więcej kutasa!  
 **Mox:** Już się robi.  
 **Nellie:** Aaa!  
@@ -69,7 +69,7 @@
 **Nellie:** O Boże! Za dużo!  
 **Ella:** Mam przestać?  
 **Nellie:** Nie! Nie przestawaj!  
-**Ella:** Tak właśnie myślałem.  
+**Ella:** Tak właśnie myślałam.  
 **Mox:** Miażdżysz mi kutasa!  
 **Nellie:** Prawie nie mogę tego wytrzymać!  
 **Ella:** Dalej, wy dwoje! Wytrzymajcie!  

@@ -8,7 +8,7 @@
 **Mox:** Czyli jesteś modelką?  
 **Ella:** Coś w tym stylu.  
 **Mox:** Może jestem nie na czasie, ale nigdy wcześniej o tobie nie słyszałem.  
-**Ella:** Naprawdę? Jesteś taka młoda. Nie masz konta na Lustagramie?  
+**Ella:** Naprawdę? Jesteś taki młody. Nie masz konta na Lustagramie?  
 **Mox:** Do dziś nawet nie wiedziałem, co to jest.  
 **Ella:** Haha. Ale zabawne.  
 **Mox:** Nie spodziewałbym się, że dziewczyna taka jak ty osiądzie w North Santiva.  

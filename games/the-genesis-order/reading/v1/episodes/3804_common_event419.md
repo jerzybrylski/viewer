@@ -16,7 +16,7 @@
 **Mox:** Melissa i ja ciężko pracowaliśmy nad tą sprawą. Z radością informujemy, że odnaleziono cenny obraz „Burza na Morzu Galilejskim”.  
 **Melissa:** Świat sztuki może dziś odetchnąć z ulgą, ale sprawa Gildii jeszcze się nie skończyła.  
 **Mox:** Cóż… Zostały już tylko formalności. Miasto jest bezpieczne.  
-**Kimberly:** Jestem pewien, że w przyszłości wyjdzie na jaw znacznie więcej.  
+**Kimberly:** Jestem pewna, że w przyszłości wyjdzie na jaw znacznie więcej.  
 **Mox:** Z pewnością poznamy więcej szczegółów na temat Gildii Zaćmienia, ale cieszymy się, że możemy wreszcie zamknąć tę sprawę.  
 **Melissa:** W jakiś sposób Gildia Zaćmienia uniknęła wykrycia w North Santiva. Wciąż nie wiemy, jak do tego doszło.  
 **Kimberly:** Mówi pani o rezydencji Wilkesów?  

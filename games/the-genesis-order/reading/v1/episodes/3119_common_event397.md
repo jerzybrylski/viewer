@@ -2,7 +2,7 @@
 
 **Kimberly:** Nie wiem. Może chcę mieć większe cycki.  
 **Mox:** Hej! Odłóż to!  
-**Kimberly:** Zaciekawiłaś mnie. Chcę sprawdzić, czy mówisz prawdę.  
+**Kimberly:** Zaciekawiłeś mnie. Chcę sprawdzić, czy mówisz prawdę.  
 **Mox:** Po tym, co widziałaś, nadal chcesz bawić się magią?  
 **Kimberly:** Chcę zobaczyć więcej.  
 **Mox:** Odłóż to, Kimberly. Nie potrzebujemy magicznego kamienia, żeby się zabawić.  
@@ -20,8 +20,8 @@
 **Kimberly:** Dwóch mnie?! To was jest dwóch!  
 **Mox:** Ach!...  
 **Mox:** To Toma! Ta sama Toma, którą miała Madalyn!  
-**Kimberly:** Nie żartowałaś!  
-**Mox:** Mówiłam… Toma naprawdę istnieje… Musimy się stąd wydostać.  
+**Kimberly:** Nie żartowałeś!  
+**Mox:** Mówiłem… Toma naprawdę istnieje… Musimy się stąd wydostać.  
 **Kimberly:** Chwileczkę…  
 **Kimberly:** Chyba podoba mi się kierunek, w jakim to zmierza.  
 **Mox:** Łał! Dziwne uczucie!  
@@ -57,7 +57,7 @@
 **Mox:** Bierz je! Bierz moje kutasy!  
 **Kimberly:** Nie wytrzymam! Zaraz dojdę!  
 **Mox:** Kurwa! Ja też!  
-**Kimberly:** Ja pierdolę! Jak mocno doszedłem!  
+**Kimberly:** Ja pierdolę! Jak mocno doszłam!  
 **Mox:** To… koniec.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.

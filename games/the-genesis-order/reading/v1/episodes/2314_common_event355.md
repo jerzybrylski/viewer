@@ -53,7 +53,7 @@
 **Erica:** Traci nad sobą kontrolę!  
 **Mox:** Nie przestawaj! Daj z siebie wszystko!  
 **Mox:** Ja pierdolę.  
-**Erica:** Doszedłem.  
+**Erica:** Doszłam.  
 **Ella:** Co za orgazm! To by zarobiło kupę kasy.  
 **Ella:** Jak to wygląda? Dużo spermy?  
 **Erica:** Cholera! Ale wielki wytrysk.  

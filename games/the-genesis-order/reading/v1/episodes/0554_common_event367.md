@@ -6,7 +6,7 @@
 **Diana:** No dalej.  
 **Ella:** Mówiłam, że sama sobie poradzę.  
 **Tasha:** Szczęśliwy traf!  
-**Diana:** Nieźle. Nie spodziewałem się tego.  
+**Diana:** Nieźle. Nie spodziewałam się tego.  
 **Mox:** No już, Tasho. Nie złość się. Ona dużo trenowała.  
 **Diana:** Może zmierzysz się z kimś, kto ma trochę… doświadczenia.  
 **Ella:** No to dawaj, staruszko.  

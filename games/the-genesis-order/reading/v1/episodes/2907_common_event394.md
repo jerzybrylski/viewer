@@ -36,7 +36,7 @@
 **Andrea:** Właśnie tak! Skosztuj mojej cipki!...  
 **Andrea:** Liż mi łechtaczkę!  
 **Andrea:** Bądź grzecznym chłopcem, a dam ci wszystko, czego chcesz.  
-**Mox:** Boże, jesteś taki seksowny.  
+**Mox:** Boże, jesteś taka seksowna.  
 **Andrea:** Ufasz mi?  
 **Mox:** Daj mi powód… Pokaż mi plan.  
 **Andrea:** W porządku. Zasłużyłeś.  

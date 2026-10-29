@@ -56,7 +56,7 @@
 **Mox:** Przysięgam, jestem w formie.  
 **Heather:** Oczywiście. Masz przecież takie wielkie mięśnie.  
 **Heather:** Ale dawno nie musiałeś gonić podejrzanego, prawda?  
-**Mox:** Jak zgadłeś?  
+**Mox:** Jak zgadłaś?  
 **Heather:** Poczuj, jak palą, Mox.  
 **Heather:** Właśnie tak. W górę, do samego końca. Napnij brzuch.  
 **Mox:** Kończą mi się siły.  
@@ -67,7 +67,7 @@
 **Heather:** Złap mnie za nogi, kochanie.  
 **Mox:** A ty nawet się nie spociłaś.  
 **Heather:** Widzisz? Ćwiczenia ze starszą panią nie są takie trudne, prawda?  
-**Mox:** Gdybym cię nie znała, pomyślałabym, że próbujesz mi zaimponować.  
+**Mox:** Gdybym cię nie znała, pomyślałbym, że próbujesz mi zaimponować.  
 **Heather:** Nie pogardzę komplementem.  
 **Mox:** Nie trać koncentracji, młoda damo.  
 **Heather:** Tak, proszę pana.  

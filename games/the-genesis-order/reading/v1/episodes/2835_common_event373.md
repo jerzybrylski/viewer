@@ -31,7 +31,7 @@
 **Mox:** Naprawdę cię kocham, Heather.  
 **Heather:** Wiem, kochanie.  
 **Heather:** Dobrej zabawy dziś wieczorem, kochanie.  
-**Mox:** Chyba dostałam to, czego chciałam.  
+**Mox:** Chyba dostałem to, czego chciałem.  
 **Chloe:** Psst! Mox!  
 **Chloe:** Judy zaraz wejdzie.  
 **Mox:** Potrzebuje skorzystać z toalety?  
@@ -54,7 +54,7 @@
 **Mox:** Dasz sobie z tym radę?  
 **Chloe:** Chyba… tak.  
 **Chloe:** Drzwi są zamknięte?  
-**Mox:** Heh. Tak, zamknęłam je na klucz.  
+**Mox:** Heh. Tak, zamknąłem je na klucz.  
 **Mox:** Ach! Tak… Nieźle, Chloe.  
 **Mox:** Użyj języka na czubku.  
 **Mox:** Och! Przyjemnie.  

@@ -47,7 +47,7 @@
 **Ella:** Co się z nim stało?  
 **Mox:** Aresztujemy go za kradzież obrazu.  
 **Chloe:** Obrazu?  
-**Mox:** Eee… Chyba powiedziałam za dużo.  
+**Mox:** Eee… Chyba powiedziałem za dużo.  
 **Ella:** Kiedy go aresztujecie? Na co czekacie?  
 **Mox:** To… skomplikowane.  
 **Judy:** Mam nadzieję, że wkrótce będzie po wszystkim.  

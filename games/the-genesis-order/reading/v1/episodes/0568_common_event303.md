@@ -5,7 +5,7 @@
 **Heather:** Oczywiście, kochanie. Jesteś moim dużym chłopcem.  
 **Heather:** O! Ale masz mięśnie!  
 **Mox:** Cholera! Nie oszczędzasz się, co?  
-**Heather:** Powiedziałbym, że całkiem dobrze o siebie dbam. Co ty na to?  
+**Heather:** Powiedziałabym, że całkiem dobrze o siebie dbam. Co ty na to?  
 **Mox:** Jak zawsze piękny.  
 **Heather:** To mój chłopak.  
 

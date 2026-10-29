@@ -21,7 +21,7 @@
 **Kimberly:** Który facet nie lubi gorącej sceny pod prysznicem z dwiema pięknymi kobietami?  
 **Mox:** Zaczekaj! Mam na sobie ubranie!  
 **Kimberly:** Trzeba było o tym pomyśleć, zanim założyłaś kajdanki.  
-**Mox:** To nie ja założyłam kajdanki!  
+**Mox:** To nie ja założyłem kajdanki!  
 **Judy:** Biedny Mox.  
 **Mox:** Cholera! Moja kurtka!  
 **Kimberly:** Masz takie seksowne ciało, siostro!  
@@ -54,10 +54,10 @@
 **Judy:** Nic na to nie poradzę!  
 **Kimberly:** Chodź… Pokażę ci, jak to się robi.  
 **Kimberly:** Właśnie tak, kochanie! Daj mi porządnie!  
-**Mox:** O Boże, jak mogłabym się temu oprzeć?  
+**Mox:** O Boże, jak mogłbym się temu oprzeć?  
 **Kimberly:** Ulegnij swoim pragnieniom i pokaż mi, jakim jesteś mężczyzną!  
 **Mox:** O tak, kurwa!  
-**Kimberly:** Jestem taki niegrzeczny, deprawuję zakonnicę.  
+**Kimberly:** Jestem taka niegrzeczna, deprawuję zakonnicę.  
 **Mox:** Jesteś niegrzeczną dziewczynką, Kimberly.  
 **Kimberly:** Ukarz mnie, Mox!  
 **Judy:** Tak! Ukarz tę grzeszną cipkę!  

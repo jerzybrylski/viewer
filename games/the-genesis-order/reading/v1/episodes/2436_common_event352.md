@@ -65,7 +65,7 @@
 **Chloe:** Chce wejść do środka.  
 **Judy:** Jakże… nieświęte.  
 **Chloe:** Proszę, Mox. Tak jest lepiej?  
-**Mox:** Chloe! Nie chciałam, żebyś musiała to robić.  
+**Mox:** Chloe! Nie chciałem, żebyś musiała to robić.  
 **Judy:** Czyli… Ty też to czujesz?  
 **Chloe:** Siostro Judy, on musi dojść.  
 **Mox:** O tak!  

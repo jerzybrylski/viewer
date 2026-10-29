@@ -10,7 +10,7 @@
 **Andrea:** Może dlatego tak je uwielbiam i stawiam w centrum uwagi. Zachwyca mnie młodzieńczy wigor i wdzięk.  
 **Andrea:** Cechy, które z czasem zanikają.  
 **Mox:** Nie powiedziałbym. Uważam, że masz naturalny wdzięk silnej, dojrzałej kobiety.  
-**Mox:** Jestem pewna, że w odpowiednich okolicznościach także potrafiłbyś wykazać się wigorem.  
+**Mox:** Jestem pewien, że w odpowiednich okolicznościach także potrafiłabyś wykazać się wigorem.  
 **Andrea:** Widać, że wciąż jesteś młody.  
 **Andrea:** Będę musiała mieć na ciebie oko.  
 **Mox:** Ty tu rządzisz.  
@@ -78,7 +78,7 @@
 **Mox:** …  
 **Mox:** Oczywiście.  
 **Mox:** Chętnie pomogę służyć interesowi publicznemu.  
-**Andrea:** I to chciałem usłyszeć, Mox.  
+**Andrea:** I to chciałam usłyszeć, Mox.  
 **Andrea:** Jeśli dobrze pójdzie, kto wie — może wyniknie z tego coś więcej.  
 **Mox:** Coś więcej?  
 **Andrea:** Masz potencjał, Mox. To może być dopiero początek długiej kariery.  

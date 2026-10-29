@@ -98,7 +98,7 @@
 **Demon 3:** Hahaha, jesteśmy demonami! Właściwie nie musimy oddychać.  
 **Arianna:** A, racja!  
 **Arianna:** Teraz trochę głupio mi, że zapytałam.  
-**Mox:** Przynajmniej zrozumiałeś coś ważnego.  
+**Mox:** Przynajmniej zrozumiałaś coś ważnego.  
 **Arianna:** To prawda.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 210 → FAILED WING: wyłączony → FAILED BLUE: wyłączony → FAILED PINK: wyłączony → Did Wing: wyłączony → Did Blue: wyłączony → Did pink: wyłączony → Did evie: wyłączony.
@@ -107,6 +107,6 @@
 **Evie:** Nieźle, dziewczyno! Świetna robota!  
 **Arianna:** Naprawdę umiesz używać języka.  
 **Evie:** Mam nadzieję, że uważałeś.  
-**Arianna:** Uważałem!  
+**Arianna:** Uważałam!  
 
 <sub>Źródłowe ID (przykłady): tgo:choice_unclassified:ffd9ade096558a64c9ec, tgo:choice_unclassified:639625487fcead0035f3, tgo:choice_unclassified:b55c4ef40a4e5e738398, tgo:choice_unclassified:884fa47c6d059bfca54b, tgo:choice_unclassified:024e86b1fc81fccd30cd, tgo:custom_dialogue:5b2553005f717317c0dd, tgo:custom_dialogue:bd01033519d4376978ab, tgo:custom_dialogue:fe4f23031b424aa1af48</sub>

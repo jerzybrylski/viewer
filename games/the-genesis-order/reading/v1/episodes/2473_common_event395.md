@@ -13,7 +13,7 @@
 **Judy:** Ostatnio dużo się modliłam.  
 **Mox:** Po co?  
 **Judy:** O tym, co pokazała mi Hannah.  
-**Mox:** Wiesz… Ja też dużo o tym myślałam.  
+**Mox:** Wiesz… Ja też dużo o tym myślałem.  
 **Judy:** I co?  
 **Mox:** Chyba to może być w porządku.  
 **Judy:** Też tak myślę, Mox. Naprawdę.  

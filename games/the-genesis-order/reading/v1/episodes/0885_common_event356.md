@@ -1,6 +1,6 @@
 ## Common Event 356 — SCN - Andrea Melissa Yoga
 
-**Mox:** Minęło kilka dni, odkąd porządnie się rozciągałam.  
+**Mox:** Minęło kilka dni, odkąd porządnie się rozciągałem.  
 **Andrea:** Ach, znów być młodą.  
 **Andrea:** Korzystaj, póki możesz, Mox.  
 **Mox:** Świetna forma, panno Kimura.  

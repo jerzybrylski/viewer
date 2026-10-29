@@ -1,8 +1,8 @@
 ## Common Event 408 — SCN - Andrea Nellie Tub
 
-**Mox:** Och… To coś, co dostałam od koleżanki.  
+**Mox:** Och… To coś, co dostałem od koleżanki.  
 **Andrea:** To eliksir miłosny.  
-**Mox:** Widziałeś już kiedyś taki?  
+**Mox:** Widziałaś już kiedyś taki?  
 **Andrea:** Jak myślisz, jak sprawiłam, że ty i Kimberly się zeszliście?  
 **Mox:** O czym ty mówisz?  
 **Andrea:** Ten napój z kolacji, na której spotkaliśmy się we trójkę…  

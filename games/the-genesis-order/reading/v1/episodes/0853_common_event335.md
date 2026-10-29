@@ -28,7 +28,7 @@
 **Nellie:** Kiedyś uciekłam z więzienia Sanibel. Ale teraz jestem wolną kobietą.  
 **Mox:** A, tak. Byłaś w wiadomościach. Pamiętam cię.  
 **Nellie:** Onieśmielony, Mox?  
-**Mox:** Mam uwierzyć, że znalazłeś skradziony artefakt i nie wiedziałeś, że handlujesz trefnym towarem?  
+**Mox:** Mam uwierzyć, że znalazłaś skradziony artefakt i nie wiedziałaś, że handlujesz trefnym towarem?  
 **Nellie:** Nie oczekuję, że w cokolwiek uwierzysz. Zaufaj mi, Mox…  
 **Nellie:** Po prostu wyjdę z tego komisariatu.  
 **Mox:** Bardzo wierzysz w swoje umiejętności.  
@@ -39,7 +39,7 @@
 **Nellie:** Nie ma mowy.  
 **Mox:** Co łączyło Charlesa Wilkesa z Gildią Zaćmienia?  
 **Nellie:** A dlaczego miałbyś sądzić, że wiem cokolwiek o hierarchii Gildii Zaćmienia?  
-**Mox:** Gdybym miała zgadywać… a zwykle dobrze mi to wychodzi…  
+**Mox:** Gdybym miał zgadywać… a zwykle dobrze mi to wychodzi…  
 **Mox:** Sama należysz do Gildii Zaćmienia. Może jesteś złodziejką do wynajęcia?  
 **Nellie:** Nie. Spróbuj jeszcze raz.  
 

@@ -12,7 +12,7 @@
 **Carol:** Wygolona!  
 **Chloe:** Taką lubię.  
 **Carol:** Muszę przyznać: dzięki temu wygląda na dłuższego.  
-**Mox:** Napatrzyłeś się? Mogę już podciągnąć spodnie?  
+**Mox:** Napatrzyłaś się? Mogę już podciągnąć spodnie?  
 **Carol:** Co się tak spieszysz?  
 **Chloe:** Co sugerujesz, Carol?  
 **Carol:** Miło, że tu tak cicho…  

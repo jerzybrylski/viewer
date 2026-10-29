@@ -1,9 +1,9 @@
 ## Common Event 456 — SCN - Daemalis vs Lillian
 
 **Lillian:** Zostaw ich, Daemalius!  
-**Erica:** Siostro… Nie widziałem tej twarzy od dziesięcioleci.  
+**Erica:** Siostro… Nie widziałam tej twarzy od dziesięcioleci.  
 **Lillian:** Nie da się tego załatwić pokojowo… prawda?  
-**Erica:** Oddałem ci duszę, a ty wykorzystałeś ją, by sprowadzić Lilith na ten świat? Gdzie twoja lojalność?  
+**Erica:** Oddałam ci duszę, a ty wykorzystałeś ją, by sprowadzić Lilith na ten świat? Gdzie twoja lojalność?  
 **Lillian:** Byłeś wybrańcem. I co z tego? Dlaczego miałoby ci się cokolwiek należeć?  
 **Erica:** Mieliśmy działać razem! Miałeś moją duszę! Dlaczego uwięziłeś mnie w tym kamieniu?  
 **Lillian:** Żeby zrobić miejsce dla kogoś znacznie lepszego od ciebie.  
@@ -17,7 +17,7 @@
 **Carol:** Puść ją!  
 **Chloe:** Mamo!  
 **Heather:** O cholera!  
-**Erica:** Och, Heather… Odkąd cię zobaczyłem, marzę, żeby dotknąć twojego ciała.  
+**Erica:** Och, Heather… Odkąd cię zobaczyłam, marzę, żeby dotknąć twojego ciała.  
 **Heather:** Eriko?  
 **Erica:** Aaargh!  
 **Erica:** Och, Carol! Ależ masz seksowne ciało mamusi!...  
@@ -25,7 +25,7 @@
 **Mox:** Cholera! Carol!  
 **Lillian:** Puść ją! To sprawa między nami!  
 **Erica:** Bardziej zależy ci na człowieku niż na twoich pobratymcach!  
-**Lillian:** Nie przybyłem tu, żeby zniszczyć ich świat!  
+**Lillian:** Nie przybyłam tu, żeby zniszczyć ich świat!  
 **Erica:** Myślisz, że jesteś prawdziwą matką ludzkości? Oni mają cię gdzieś! Zawsze tak było!  
 **Lillian:** Uciekajcie! Do szczeliny!  
 **Mox:** Potrzebujemy ciała Eriki!  

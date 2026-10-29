@@ -3,7 +3,7 @@
 **Chloe:** Cholera. Zapomniałam, jaki jest duży.  
 **Mox:** Nie zrób sobie krzywdy.  
 **Chloe:** Czy będzie bolało?  
-**Mox:** Tylko żartowałam… Rób to powoli.  
+**Mox:** Tylko żartowałem… Rób to powoli.  
 **Chloe:** Ile zajmie ci… dojście?  
 **Mox:** To zależy.  
 **Chloe:** No to jazda…  
@@ -19,7 +19,7 @@
 **Mox:** Nie, naprawdę… Nic nas nie łączy… To tylko…  
 **Heather:** Co się stało?  
 **Mox:** Chloe dużo się uczy…  
-**Mox:** Miałam pozwolić jej poćwiczyć obciąganie.  
+**Mox:** Miałem pozwolić jej poćwiczyć obciąganie.  
 **Heather:** Serio?  
 **Mox:** Wiem, że to brzmi dziwnie. Ale… ona jest taka…  
 **Mox:** Nie ma żadnego doświadczenia.  

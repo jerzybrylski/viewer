@@ -14,7 +14,7 @@
 **Lillian:** Mam do wykonania zadanie daleko stąd, a twoje miejsce jest w North Santiva.  
 **Lillian:** Ale będę tęsknić za tymi twoimi ustami…  
 **Mox:** Wiesz, że nie umiem ci się oprzeć, Lillian.  
-**Lillian:** Właśnie to chciałem usłyszeć.  
+**Lillian:** Właśnie to chciałam usłyszeć.  
 **Lillian:** Jestem matką, której potrzebujesz.  
 **Mox:** Lillian… Zaczekaj.  
 **Lillian:** Wciąż ci mało, Mox?  

@@ -68,7 +68,7 @@
 **Heather:** Daj nam!  
 **Mox:** Chyba już wiem, gdzie podział się mój kutas.  
 **Carol:** Wygląda na to, że obie zostałyśmy porządnie wyrżnięte.  
-**Heather:** Mógłbym się do tego przyzwyczaić.  
+**Heather:** Mógłabym się do tego przyzwyczaić.  
 **Mox:** Widok waszej dwójki w akcji był naprawdę niezapomniany.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.

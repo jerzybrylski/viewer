@@ -1,7 +1,7 @@
 ## Common Event 313 — SCN - Erica Diner
 
 **Erica:** To jak często kupujesz porno?  
-**Mox:** Co!? Nie… Rozmawiałam z właścicielką sklepu…  
+**Mox:** Co!? Nie… Rozmawiałem z właścicielką sklepu…  
 **Mox:** Zna Madalyn.  
 **Erica:** Pracujesz w weekend?  
 **Mox:** Można powiedzieć, że jestem pracoholiczką.  
@@ -34,7 +34,7 @@
 **Erica:** Długo mi się przyglądał… Tak samo Madalyn. Wydaje mi się, że łączyło ich coś seksualnego. Ale nie wiem…  
 **Erica:** Z Charlesem było coś nie tak. Jakby był marionetką sterowaną przez Madalyn…  
 **Erica:** Jakby tkwiła w nim zupełnie inna osoba.  
-**Mox:** Z tego, co słyszałam, to Madalyn była opętana.  
+**Mox:** Z tego, co słyszałem, to Madalyn była opętana.  
 **Erica:** Co masz na myśli?  
 **Mox:** Podobno ma duszę demona.  
 **Erica:** Co!? Mówisz poważnie?  

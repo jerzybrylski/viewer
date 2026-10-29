@@ -33,7 +33,7 @@
 **Demon Judy:** Właśnie tak! Nie możesz przed tym uciec!  
 **Mox:** Czymkolwiek jesteś… To niesamowite!  
 **Demon Judy:** Tyle skrywanej żądzy czeka, by ją uwolnić.  
-**Mox:** Czuję się taka wolna.  
+**Mox:** Czuję się taki wolny.  
 **Judy:** Och, Heather! Uwielbiam, jak twoja cipka ociera się o moją!  
 **Heather:** Tak, siostro! Ocieraj swoją mokrą cipkę o moją!  
 **Mox:** Cholera! Ale gorąco!  

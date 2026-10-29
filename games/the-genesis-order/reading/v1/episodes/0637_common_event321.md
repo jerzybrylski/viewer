@@ -13,7 +13,7 @@
 **Erica:** Poza tym, że tryskała do szklanki?  
 **Mox:** Eee… Tak.  
 **Erica:** Niezbyt. Nie widziałam jej, odkąd wyszedłeś.  
-**Mox:** To było szalone. Nigdy nie widziałam, żeby ktoś tak zareagował.  
+**Mox:** To było szalone. Nigdy nie widziałem, żeby ktoś tak zareagował.  
 **Erica:** Czyli uważasz, że Lillian i ja zaraziłyśmy się wirusem seksu?  
 **Mox:** Jeśli naprawdę istnieje… To by miało sens.  
 **Mox:** Powiedz, co czujesz?  
@@ -34,7 +34,7 @@
 **Erica:** Odpuść na jeden wieczór, Mox. Jutro rano znów możesz iść do pracy.  
 **Mox:** Dobrze… Czyli to randka?  
 **Erica:** Dwoje ludzi rozmawia, ty głupi robocie.  
-**Mox:** Wiesz, opowiadałam o tobie koleżance.  
+**Mox:** Wiesz, opowiadałem o tobie koleżance.  
 **Erica:** Mam nadzieję, że same dobre rzeczy?  
 **Mox:** Martwi się, że możesz mieć niegrzeczne zamiary.  
 **Erica:** Masz dziewczynę, prawda?  
@@ -73,7 +73,7 @@
 **Erica:** Mój tyłek!  
 **Mox:** Twój tyłek?  
 **Erica:** Jesteś taki słodki. Popatrz tylko na siebie.  
-**Mox:** Dobrze, na pewno jesteś pijany. Może zrób sobie przerwę.  
+**Mox:** Dobrze, na pewno jesteś pijana. Może zrób sobie przerwę.  
 **Erica:** Pieprzyć przerwę!  
 **Mox:** Połóż się, Erico.  
 **Erica:** Zerżniesz mnie porządnie, przystojniaku?  

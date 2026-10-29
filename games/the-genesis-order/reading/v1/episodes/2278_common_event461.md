@@ -63,10 +63,10 @@
 **Erica:** Mój ulubiony pokój w rezydencji.  
 **Carol:** Nie znam lepszego miejsca na porządne wypełnienie.  
 **Heather:** Ale masz co złapać, Mox.  
-**Mox:** Nie myślałeś chyba, że przyjdę nieprzygotowana?  
+**Mox:** Nie myślałaś chyba, że przyjdę nieprzygotowana?  
 **Hannah:** To magiczny kamień!  
 **Kimberly:** Wróciłaś po kawałki?  
-**Mox:** Znalazłam tylko ten… Nie wiem, dokąd podziały się pozostałe.  
+**Mox:** Znalazłem tylko ten… Nie wiem, dokąd podziały się pozostałe.  
 **Ella:** Och! Wow… Eee… Na pewno przepadły na zawsze.  
 **Andrea:** Eee… Tak!... Chyba wszyscy możemy być spokojniejsi, skoro tylko Mox ma ten kawałek.  
 **Heather:** To coś nie sprawi, że oszalejesz, prawda?  
@@ -119,7 +119,7 @@
 **Mox:** Muszę przyznać, że było ciasno i przyjemnie.  
 **Erica:** Cholera! Ale intensywnie!  
 **Erica:** Nie sądziłam, że zakonnica będzie ssać moją łechtaczkę.  
-**Hannah:** A ja nie sądziłem, że będę pieścił niegrzeczne dziurki zakonnicy!  
+**Hannah:** A ja nie sądziłam, że będę pieścił niegrzeczne dziurki zakonnicy!  
 **Erica:** Kurwa!  
 **Hannah:** Ma naprawdę ciasne dziurki.  
 **Nellie:** Liż mi tyłek, dziewczyno!  
@@ -252,7 +252,7 @@
 **Chloe:** Ale seksownie!  
 **Arianna:** To… Przyjemne.  
 **Hannah:** Rozluźnij się i przyjmij go.  
-**Kimberly:** Piękny aniołek bierze w tyłek… Tego jeszcze nie widziałem.  
+**Kimberly:** Piękny aniołek bierze w tyłek… Tego jeszcze nie widziałam.  
 **Lillian:** Haha! To żaden anioł.  
 **Mox:** O kurwa! Tak! Ale czad!  
 **Arianna:** Ach! Ach! Ach!  

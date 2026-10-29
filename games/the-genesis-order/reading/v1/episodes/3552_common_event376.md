@@ -10,7 +10,7 @@
 **Mox:** Nie mam pojęcia, po co trzymają tu ubrania razem z jedzeniem…  
 **Mox:** Cokolwiek tu jest, nie chcieli, żeby ktoś to znalazł.  
 **Kimberly:** Dlaczego tak mówisz?  
-**Mox:** Ktoś zapieczętował ten pokój. Dopiero ja go otworzyłam.  
+**Mox:** Ktoś zapieczętował ten pokój. Dopiero ja go otworzyłem.  
 **Kimberly:** Stworzymy zgrany zespół, Mox.  
 **Mox:** Taka moja praca.  
 **Kimberly:** Nie mówisz mi wszystkiego, ale nie myśl, że tylko ja nie znam całej historii.  
@@ -24,7 +24,7 @@
 **Mox:** A czego takiego?  
 **Kimberly:** Może zgadniesz.  
 **Mox:** Nie boisz się, że nas przyłapią?  
-**Kimberly:** Mówiłaś, że ten pokój był zapieczętowany, prawda?...  
+**Kimberly:** Mówiłeś, że ten pokój był zapieczętowany, prawda?...  
 **Kimberly:** Nikt nas tu nie szuka.  
 **Kimberly:** O kurwa! Tak!  
 **Kimberly:** Właśnie tego chcę…  

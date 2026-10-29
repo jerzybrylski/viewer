@@ -10,7 +10,7 @@
 **Hannah:** Cholera! Wygląda na to, że zaczyna mu stawać.  
 **Mox:** Hannah! Przestań tam patrzeć!  
 **Hannah:** Skoro mu staje, to będę patrzeć!  
-**Mox:** Czemu musiałeś mnie tak pocałować?  
+**Mox:** Czemu musiałaś mnie tak pocałować?  
 **Hannah:** To część gry, głuptasie!  
 **Chloe:** Boli?  
 **Hannah:** Wyciągnij go i pokaż nam, Mox.  
@@ -47,7 +47,7 @@
 **Mox:** W jakiej pozycji?  
 **Hannah:** Eee… Na stojąco… Na stojącego konika.  
 **Chloe:** Jak to działa?  
-**Mox:** Nigdy nie słyszałam o takiej pozycji.  
+**Mox:** Nigdy nie słyszałem o takiej pozycji.  
 **Hannah:** Aaargh!  
 **Hannah:** Jeśli Chloe stchórzy, włóż go we mnie, a ja jej opiszę, jak to jest.  
 **Mox:** Co!? Hannah!  

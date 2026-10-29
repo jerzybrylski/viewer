@@ -167,3 +167,12 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 - **Wykonanie:** 27 rekordów, warianty leksykalne w granicach znaczenia i rejestru; `do cholery` 344 → 324, `w porządku` 183 → 176.
 - **Spójność krótkich źródeł:** 15 przypadków divergentnych → **8**. Odrzucone „poprawki” z uzasadnieniem: `Church` (motywy vs etykiety map), `Equip` (dwa sloty komend), `Hannah?`/`Ellę?` (eliptyczne odpowiedzi), trzy pytania z odmienną płcią mówiącego, `Anal` (opcja vs podpis obrazu).
 - **Status:** [POTWIERDZONE] liczby z `translation/reports/editorial_qa_v1.json`; [NIEZWERYFIKOWANE] odbiór stylistyczny w grze — do oceny właściciela przy pełnym przejściu.
+
+---
+
+## Rodzaj gramatyczny (2026-10-30) — decyzja wykonawcza
+
+- **Zasada:** kobieta mówi o sobie po żeńsku, mężczyzna po męsku; o kobiecie mówi się po żeńsku. To nie styl, tylko poprawność gramatyczna — nie podlega redakcyjnemu „widzimisię”.
+- **Źródło rodzaju:** pierwsza osoba → płeć mówcy z `custom_header`; druga osoba → płeć adresata, przyjmowana wyłącznie przy jednoznacznej obsadzie sceny; trzecia osoba → tylko gdy imię wprost rządzi czasownikiem.
+- **Czego nie robimy:** nie zgadujemy płci przy kwestiach bez mówcy, w scenach mieszanych ani przy „sam/sama”. Te przypadki są w `GENDER_AUDIT.md` jako materiał do QA, nie do automatycznej zmiany.
+- **Status:** [POTWIERDZONE] 593 rekordy poprawione, 0 przeciwnych form w znanych rolach, idempotencja; [NIEZWERYFIKOWANE] odbiór całości w grze — do sprawdzenia przy pełnym przejściu.

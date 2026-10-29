@@ -151,7 +151,7 @@
 **Hannah:** Nie ma w tobie żadnej mazi!  
 **Erica:** Przyjrzyj się uważniej.  
 **Hannah:** /curse  
-**Mox:** Ostrzegałam cię.  
+**Mox:** Ostrzegałem cię.  
 **Erica:** Hahahaha!  
 **Ella:** Było fajnie!  
 

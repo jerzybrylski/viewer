@@ -10,7 +10,7 @@
 **Erica:** Uważaj, Mox. Mogę to wykorzystać.  
 **Mox:** Nie będę narzekał.  
 **Mox:** Pamiętasz nasz pierwszy raz?  
-**Erica:** Jak mógłbym zapomnieć?  
+**Erica:** Jak mógłabym zapomnieć?  
 **Erica:** To była świetna zabawa.  
 **Mox:** A teraz spójrz na nas.  
 **Mox:** Prowadzimy życie w luksusie, w rezydencji.  

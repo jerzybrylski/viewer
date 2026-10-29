@@ -5,7 +5,7 @@
 **Kimberly:** Nie pochlebiaj sobie, mięczaku.  
 **Mox:** Nie powiedziałbym, że teraz jestem miękki.  
 **Kimberly:** Oho. Zaczynasz przesadzać, co?  
-**Kimberly:** Ups. Chyba o czymś zapomniałem.  
+**Kimberly:** Ups. Chyba o czymś zapomniałam.  
 **Mox:** Nie boisz się, że Kimura wróci?  
 **Kimberly:** Zostawiła nas samych nie bez powodu. Chyba chciałaby, żebyśmy poznali się bliżej… osobiście.  
 **Mox:** Podoba mi się, dokąd to zmierza.  

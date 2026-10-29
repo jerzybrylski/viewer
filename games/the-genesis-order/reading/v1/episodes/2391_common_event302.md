@@ -1,7 +1,7 @@
 ## Common Event 302 — SCN - Oracle
 
 **Mox:** Co to za rzecz?  
-**Judy:** Ja... Nigdy czegoś takiego nie widziałem. Nie wiem, co to może być.  
+**Judy:** Ja... Nigdy czegoś takiego nie widziałam. Nie wiem, co to może być.  
 **Mox:** Cokolwiek to jest, drżało i poruszało się samo.  
 **Judy:** Ojej... Co to za przeklęty drobiazg?  
 **Mox:** Boże, mam nadzieję, że to nie jest radioaktywne.  

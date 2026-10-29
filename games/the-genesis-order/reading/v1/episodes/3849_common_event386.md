@@ -33,7 +33,7 @@
 **Kimberly:** Co skradziono?  
 **Andrea:** Coś wartego ponad dziesięć milionów.  
 **Kimberly:** Serio?  
-**Mox:** Cholera. Nawet o tym nie wiedziałam.  
+**Mox:** Cholera. Nawet o tym nie wiedziałem.  
 **Andrea:** Wyobraź sobie, że to ty pierwsza podajesz tę wiadomość.  
 **Kimberly:** W takim razie… Lepiej wynagrodzę twój wysiłek.  
 **Andrea:** Och, tak! Panno Foxx! Ale z pani niegrzeczna dziewczynka.  
@@ -57,7 +57,7 @@
 **Andrea:** Nieźle nas pani rozgrzała, panno Foxx. Spóźnimy się?  
 **Kimberly:** Nie… W porządku. Nie przestawaj.  
 **Mox:** Ależ jesteście razem seksowne.  
-**Kimberly:** Kurwa. Ale jestem napalony.  
+**Kimberly:** Kurwa. Ale jestem napalona.  
 **Andrea:** I wyraźnie Mox ma ochotę na więcej.  
 **Mox:** Och, eee… Z przyjemnością.  
 **Mox:** Ach! Mój kutas!...  

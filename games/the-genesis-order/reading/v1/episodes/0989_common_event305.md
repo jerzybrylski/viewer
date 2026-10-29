@@ -7,7 +7,7 @@
 **Lillian:** Wiem, że ma pan zadanie do wykonania, ale proszę uszanować mój czas.  
 **Lillian:** Śmierć mojego ojca była trudna dla mnie i całej rodziny.  
 **Melissa:** Proszę przyjąć moje kondolencje, panno Wilkes.  
-**Melissa:** Chciałem zadać pani kilka pytań.  
+**Melissa:** Chciałam zadać pani kilka pytań.  
 **Lillian:** Pomogę, jak tylko będę mogła.  
 **Melissa:** Nie udało nam się znaleźć wielu informacji o pani ojcu poza zapisami o datkach na cele charytatywne i osobach przebywających w rezydencji.  
 **Lillian:** Coś się stało?  

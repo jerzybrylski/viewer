@@ -25,7 +25,7 @@
 **Andrea:** Nie zawiedź moich gości, Mox… Nasza przyszłość od tego zależy.  
 **Mox:** Co ty, do cholery, planujesz?  
 **Kimberly:** Pieprz mnie, Mox!  
-**Erica:** Panno Kimura… Nie spodziewałem się tego po pani.  
+**Erica:** Panno Kimura… Nie spodziewałam się tego po pani.  
 **Andrea:** Podoba ci się?  
 **Erica:** Tak! Bardzo!  
 **Mox:** Jesteś bardzo niegrzeczna, Kimberly.  

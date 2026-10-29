@@ -1,6 +1,6 @@
 ## Common Event 439 — SCN - Ella Andrea Mansion
 
-**Ella:** Jestem gotów odrobić straty… panno Stone.  
+**Ella:** Jestem gotowa odrobić straty… panno Stone.  
 **Andrea:** Możesz mówić mi Andrea Kimura.  
 **Mox:** Cholera, Ello. Zaryzykowałaś wszystko, co?  
 **Ella:** Oczywiście… Ale czy pani Kimura też zaryzykuje wszystko?  

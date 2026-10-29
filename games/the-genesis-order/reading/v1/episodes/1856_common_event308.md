@@ -6,7 +6,7 @@
 **Mox:** Heather, dziękuję, że pomogłaś mi znaleźć mój pierwszy dom.  
 **Carol:** No więc, o co chodzi? Dostałeś podwyżkę, Mox?  
 **Mox:** Nie, żadnej podwyżki…  
-**Heather:** Mieliśmy szczęście. Bank musiał pozbyć się tej nieruchomości, a ja jako pierwszy zauważyłem okazję.  
+**Heather:** Mieliśmy szczęście. Bank musiał pozbyć się tej nieruchomości, a ja jako pierwszy zauważyłam okazję.  
 **Hannah:** A może znajdziesz też dom dla mnie?  
 **Carol:** A jak zamierzasz za to zapłacić, młoda damo?  
 **Chloe:** Może złożymy się razem na mieszkanie w centrum.  
@@ -39,10 +39,10 @@
 **Carol:** Rzadko słyszy się o morderczyni.  
 **Chloe:** Nie tylko mordowała — porywała ludzi.  
 **Heather:** Ta kobieta… Była przełożoną zakonnic przy kościele.  
-**Chloe:** Tak. Poznałem ją, kiedy studiowałem na SDU. Miałem szczęście, że udało mi się stamtąd wydostać.  
+**Chloe:** Tak. Poznałam ją, kiedy studiowałam na SDU. Miałam szczęście, że udało mi się stamtąd wydostać.  
 **Hannah:** Chętnie zobaczyłabym, jak ta kobieta próbuje mnie porwać. Dałabym jej niezły wycisk!  
-**Mox:** Nie miałam pojęcia, że spotkałeś Madalyn. Chodziłeś do kaplicy na zajęcia z ekonomii?  
-**Chloe:** To nic takiego. Po prostu ją widziałem, tyle.  
+**Mox:** Nie miałem pojęcia, że spotkałaś Madalyn. Chodziłaś do kaplicy na zajęcia z ekonomii?  
+**Chloe:** To nic takiego. Po prostu ją widziałam, tyle.  
 **Carol:** Po skandalu seksualnym na Uniwersytecie East State i morderstwach na Saint Dame zaczynam się zastanawiać, co się dzieje z naszym systemem edukacji.  
 **Hannah:** Dlatego mówię: niech diabli wezmą studia.  
 **Carol:** Jaki masz plan, Hannah? Poślubić bogacza?  

@@ -49,7 +49,7 @@
 **Kimberly:** Cholera!  
 **Mox:** Wszystko w porządku?  
 **Kimberly:** Zamknij się i dalej porządnie rżnij mnie w tyłek!  
-**Mox:** Jestem gotowa ujawnić wyniki mojego śledztwa!  
+**Mox:** Jestem gotowy ujawnić wyniki mojego śledztwa!  
 **Kimberly:** Pokaż paniom przed telewizorami to, czego potrzebują, detektywie Canmore!  
 **Kimberly:** Rozbryzgaj na mnie wyniki śledztwa!  
 **Kimberly:** Tak! Ani kropli się nie zmarnowało.  

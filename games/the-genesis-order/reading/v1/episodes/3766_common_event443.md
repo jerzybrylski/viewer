@@ -18,7 +18,7 @@
 **Lilith:** Mox, nie możesz pozwolić, by ten ksiądz znów się tu zbliżył.  
 **Mox:** Boisz się go.  
 **Lilith:** Chce, by zakonnica bezpiecznie wróciła do domu. Ty pewnie też tego chcesz.  
-**Mox:** Masz Tomę. Dałam ci to, czego potrzebowałeś, więc puść Judy.  
+**Mox:** Masz Tomę. Dałem ci to, czego potrzebowałeś, więc puść Judy.  
 **Lilith:** Rozejrzyj się, Mox. To świat, który nazywamy domem od zarania dziejów.  
 **Mox:** Jest do dupy… Rozumiem.  
 **Lilith:** Wasz świat dostał fałszywą matkę. Bóg tego świata odebrał mi wszystko…  

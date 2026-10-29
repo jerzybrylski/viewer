@@ -16,7 +16,7 @@
 **Mox:** Lubię ryzyko, Erico. Nie widzisz tego?  
 **Erica:** Och! Ale jesteśmy niegrzeczne!  
 **Mox:** Mów ciszej. Ktoś przechodzący obok może nas usłyszeć.  
-**Erica:** Myślałem, że lubisz ryzyko.  
+**Erica:** Myślałam, że lubisz ryzyko.  
 **Mox:** Chcesz, żeby nas przyłapano? To sprawi, że dojdziesz mocniej?  
 **Erica:** Och, Mox, sama myśl doprowadza mnie do szaleństwa!  
 **Erica:** Chcę, żebyś zerżnął mnie w tyłek.  

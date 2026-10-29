@@ -3,7 +3,7 @@
 **Andrea:** Za daleko posunęliście się w swoich gierkach!  
 **Melissa:** Ludzie wiedzą, że to my powstrzymaliśmy Gildię. Po wszystkim.  
 **Andrea:** Planowaliście to za moimi plecami.  
-**Mox:** Chyba przesadzasz. Uratowałeś sytuację. Ludzie właśnie to zobaczą.  
+**Mox:** Chyba przesadzasz. Uratowałaś sytuację. Ludzie właśnie to zobaczą.  
 **Andrea:** Nie masz pojęcia, co zobaczą ludzie…  
 **Andrea:** Foxx rozdmucha tę sprawę do granic możliwości, a ja wyjdę na czarny charakter.  
 **Mox:** Może jednak nie.  
@@ -29,7 +29,7 @@
 **Melissa:** Wystarczy?  
 **Andrea:** Jeszcze z wami nie skończyłam.  
 **Mox:** Auć! To boli!  
-**Melissa:** Nie podejrzewałem, że cię na to stać, Kimura.  
+**Melissa:** Nie podejrzewałam, że cię na to stać, Kimura.  
 **Andrea:** Wciąż nie wiesz, kiedy trzymać język za zębami… Może chcesz zostać ukarany.  
 **Melissa:** Spróbuj.  
 **Melissa:** O kurwa!  

@@ -46,7 +46,7 @@
 **Mox:** Nie sądzę, żeby to był dobry pomysł.  
 **Judy:** Pospiesz się. Skończ szybko.  
 **Chloe:** Och! Tak mocno przyciskasz go do mnie.  
-**Mox:** Ach! Tak. Mogłabym tak dojść.  
+**Mox:** Ach! Tak. Mogłbym tak dojść.  
 **Chloe:** Na pewno? A jeśli narobimy bałaganu?  
 **Mox:** Siostro Judy?  
 **Judy:** Dalej. Pospiesz się.  

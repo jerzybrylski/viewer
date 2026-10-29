@@ -45,7 +45,7 @@
 **Mox:** Lubisz od tyłu?  
 **Hannah:** Tak.  
 **Mox:** Nie wierzę, że znowu to robimy.  
-**Hannah:** Mógłbym się do tego przyzwyczaić, Mox.  
+**Hannah:** Mógłabym się do tego przyzwyczaić, Mox.  
 **Mox:** Może to ty się we mnie zakochujesz.  
 **Hannah:** Eee… Nie wygaduj… głupstw.  
 **Mox:** Lepiej się pospieszmy. Twoja mama może tu wejść.  

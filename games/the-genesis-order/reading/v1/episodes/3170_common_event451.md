@@ -4,7 +4,7 @@
 **Lillian:** Po dzisiejszej nocy nie będziesz musiała martwić się o utratę łaski.  
 **Mox:** Hej! Co się dzieje?  
 **Lillian:** Dojdź! Złam przysięgę wobec swojego Boga!  
-**Nellie:** Co do cholery? Myślałem, że się umówiliśmy!  
+**Nellie:** Co do cholery? Myślałam, że się umówiliśmy!  
 **Ella:** Próbuje złamać anioła!  
 **Lillian:** Stań się potworem, którego nienawidzisz! Nie utrudniaj sobie tego!  
 **Ella:** Zostaw ją w spokoju!  

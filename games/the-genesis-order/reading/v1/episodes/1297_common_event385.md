@@ -25,7 +25,7 @@
 **Melissa:** Co robisz?  
 **Mox:** Napatrz się, Melisso. Właśnie tego chciałaś, prawda?  
 **Melissa:** Mox!  
-**Mox:** Oblałeś mi krocze gorącą kawą. Czego się spodziewałeś?  
+**Mox:** Oblałaś mi krocze gorącą kawą. Czego się spodziewałaś?  
 **Melissa:** Ty dupku!  
 **Mox:** Skończmy z tym… Chodź tu i obciągnij mi.  
 **Melissa:** Aaargh!  

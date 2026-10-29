@@ -14,7 +14,7 @@
 **Kimberly:** Panna Kimura? Co ona robi?  
 **Madalyn:** Otworzyłaś szczelinę. Sprytnie.  
 **Andrea:** Ja pierdolę… To niesamowite!  
-**Mox:** Co jej zrobiłeś?  
+**Mox:** Co jej zrobiłaś?  
 **Madalyn:** Skosztowała czegoś… co wywraca umysł na nice.  
 **Kimberly:** Gdzie jest Lillian?  
 **Madalyn:** Matki teraz tu nie ma. Podziwiam jednak pani lojalność, panno Foxx.  

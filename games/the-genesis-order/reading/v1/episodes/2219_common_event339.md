@@ -47,7 +47,7 @@
 **Lillian:** Jakie to uczucie?  
 **Mox:** Niesamowite. Masz fantastyczną cipkę!  
 **Lillian:** Poddanie się tobie jest ekscytujące.  
-**Lillian:** Mógłbym się do tego przyzwyczaić.  
+**Lillian:** Mógłabym się do tego przyzwyczaić.  
 **Mox:** Naprawdę wiesz, jak obchodzić się z kutasem…  
 **Mox:** Twoje mięśnie zaciskają się w odpowiednich momentach.  
 **Lillian:** Minęło dużo czasu, ale wciąż wiem, jak zadowolić mężczyznę.  

@@ -2,7 +2,7 @@
 
 **Hannah:** Nie zamierzasz tego naprawdę zrobić, prawda?  
 **Ella:** Jak powiedziała tamta kobieta… To twoja ostatnia szansa.  
-**Mox:** Haha… Mówiłam, żeby nie lekceważyć Elli.  
+**Mox:** Haha… Mówiłem, żeby nie lekceważyć Elli.  
 **Carol:** No to dawaj. Zobaczmy.  
 **Carol:** Tak właśnie robisz przed kamerą?  
 **Ella:** Och! Zgadza się.  
@@ -39,7 +39,7 @@
 **Mox:** Słyszałaś, Carol. Daj Elli coś do zjedzenia.  
 **Carol:** O mój Boże!  
 **Mox:** Cholera!  
-**Hannah:** Nie to miałem na myśli!  
+**Hannah:** Nie to miałam na myśli!  
 **Hannah:** Mox nigdy nie dojdzie, kiedy jesteś na dole. Wskakuj z powrotem i dokończ robotę.  
 **Mox:** Chyba jest zbyt zajęta.  
 **Hannah:** /curse  

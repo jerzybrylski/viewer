@@ -3,7 +3,7 @@
 **Mox:** To jeszcze nie koniec.  
 **Nellie:** No pewnie, że nie.  
 **Mox:** W krótkim czasie rozwiązaliśmy już wiele spraw. Co nam szkodzi rozwiązać jeszcze jedną?  
-**Nellie:** Zaufałem Andrei. Chyba nie pozostaje mi nic innego, jak mieć nadzieję.  
+**Nellie:** Zaufałam Andrei. Chyba nie pozostaje mi nic innego, jak mieć nadzieję.  
 **Mox:** Razem jakoś to rozwiążemy.  
 **Nellie:** Trudno mi pogodzić się z myślą, że mogę już nie dostać tego kutasa.  
 **Mox:** Myślisz, że nie odwiedzałbym cię w więzieniu?  

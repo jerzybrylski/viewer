@@ -8,7 +8,7 @@
 **Mox:** Nie. A powinienem?  
 **Nellie:** Cóż, jeśli dzięki temu znowu znajdziemy się w takiej sytuacji…  
 **Mox:** Och, eee… przepraszam.  
-**Nellie:** Powiedziałbym coś o kolacji, ale deser masz już za sobą.  
+**Nellie:** Powiedziałabym coś o kolacji, ale deser masz już za sobą.  
 **Mox:** Nellie, tak poważnie, co ty tu robisz?  
 **Nellie:** Nie mogę ci powiedzieć, ale musisz odejść, zanim on…  
 **Nellie:** Są tu niebezpieczni ludzie, Mox.  
@@ -22,7 +22,7 @@
 **Nellie:** Każ im odejść! Wynoś się stąd.  
 **Mox:** Nie! Nie pozwolę ci skrzywdzić Lillian.  
 **Nellie:** Odwołaj to. Po prostu odejdź.  
-**Mox:** Chyba śnisz! Zwariowałeś?  
+**Mox:** Chyba śnisz! Zwariowałaś?  
 **Nellie:** Proszę, Mox. Odejdź, zanim Duncan cię znajdzie.  
 **Mox:** Duncan?! Duncan Helmer tu jest?  
 **Mox:** Nellie, musimy…  

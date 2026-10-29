@@ -26,7 +26,7 @@
 **Judy:** Ma taką miękką skórę.  
 **Hannah:** Może i jestem dziewczyną ze wsi, ale mam tyłek księżniczki. Tak mówi mama.  
 **Chloe:** Naprawdę?  
-**Mox:** Jesteś gotowy?  
+**Mox:** Jesteś gotowa?  
 **Hannah:** Jestem nasmarowana i gotowa! Wkładaj!  
 **Hannah:** O rany!  
 **Judy:** Wygląda, jakby bolało.  

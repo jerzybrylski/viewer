@@ -44,7 +44,7 @@
 **Hannah:** Nigdy nie pomyślałam, żeby cię pocałować.  
 **Heather:** Podobało ci się?  
 **Mox:** Mnie na pewno.  
-**Hannah:** A myślałem, że zapasy z aligatorem będą dziś najbardziej szaloną rzeczą, jaką zrobię.  
+**Hannah:** A myślałam, że zapasy z aligatorem będą dziś najbardziej szaloną rzeczą, jaką zrobię.  
 **Hannah:** Hahaha! No, teraz jest zabawa!  
 **Mox:** Ujeżdżaj ją, kowbojko!  
 **Hannah:** Wylizuj moją cipkę, Heather!  
@@ -70,7 +70,7 @@
 **Hannah:** Ale seksownie!  
 **Hannah:** Naprawdę zalejesz ją spermą?  
 **Heather:** Tak! Wypełnij moją cipkę!  
-**Mox:** Ja pierdolę… Chyba nigdy tak mocno nie doszłam.  
+**Mox:** Ja pierdolę… Chyba nigdy tak mocno nie doszedłem.  
 **Heather:** Ale mnie wypełniłeś. Czuję to.  
 **Hannah:** Ja też chcę!  
 **Heather:** Ach! Ostrożnie, Hannah. Jestem tam bardzo wrażliwa.  

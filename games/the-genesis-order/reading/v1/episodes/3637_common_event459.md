@@ -23,7 +23,7 @@
 **Arianna:** Mój umysł się opiera… ale ciało chce więcej.  
 **Lillian:** Jej skrzydła… Nie zmieniają się.  
 **Tasha:** Pieprz ją, Mox!  
-**Mox:** Jesteś gotowy?  
+**Mox:** Jesteś gotowa?  
 **Arianna:** Nie mogę tego powiedzieć… Nie potrafię… ale muszę.  
 **Mox:** Cholera! Ale ciasno!  
 **Arianna:** Ach! Ach!  

@@ -46,11 +46,11 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 1.
 
-**Andrea:** Nie widzisz, że jestem zajęty?  
+**Andrea:** Nie widzisz, że jestem zajęta?  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 2.
 
-**Andrea:** Odejdź! Jestem zajęty.  
+**Andrea:** Odejdź! Jestem zajęta.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 3.
 
@@ -58,7 +58,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 1.
 
-**Andrea:** Jestem zajęty. Wróć później.  
+**Andrea:** Jestem zajęta. Wróć później.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 2.
 

@@ -23,7 +23,7 @@
 **Melissa:** Niezłego masz kutasa, panie Canmore.  
 **Mox:** Och, kochanie! Marzę o twoich cudownych ustach na moim kutasie, odkąd zobaczyłem, jak bawisz się łechtaczką…  
 **Mox:** To będzie niesamowite.  
-**Mox:** Po co, do cholery, to zrobiłeś!?  
+**Mox:** Po co, do cholery, to zrobiłaś!?  
 **Melissa:** Ukryty sejf!...  
 **Melissa:** To tutaj Zephaniah musiał ukryć rzeczy, których policjanci nie znaleźli.  
 

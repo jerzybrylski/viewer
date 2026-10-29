@@ -74,7 +74,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 2.
 
-**Judy:** Jestem teraz zajęty. Możesz wrócić później?  
+**Judy:** Jestem teraz zajęta. Możesz wrócić później?  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 

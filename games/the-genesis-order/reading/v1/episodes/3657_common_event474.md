@@ -16,7 +16,7 @@
 **Arianna:** O, wow! Naprawdę wiesz, co robisz tym językiem, Ello!  
 **Mox:** Jej cipka jest równie niesamowita.  
 **Ella:** Mhm…  
-**Mox:** Mogłabym tak cały dzień!  
+**Mox:** Mogłbym tak cały dzień!  
 **Arianna:** Nie przestawaj, Ello, nie przestawaj.  
 **Ella:** …  
 **Arianna:** Mox… Też chcę spróbować.  

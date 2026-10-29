@@ -6,13 +6,13 @@
 **Mox:** Nic, kurwa, nie widzę.  
 **Melissa:** Potrzebujesz latarki?  
 **Mox:** Hej! To nie moja wina, że Andrea nie wtajemnicza cię w sprawę. Nie wyżywaj się na mnie.  
-**Melissa:** Czemu jesteś taki wściekły? Myślałem, że taka akcja uspokoiłaby taką beksę jak ty.  
+**Melissa:** Czemu jesteś taki wściekły? Myślałam, że taka akcja uspokoiłaby taką beksę jak ty.  
 **Mox:** Chcesz zobaczyć trochę akcji?...  
 **Mox:** Właśnie o taką akcję ci chodzi, prawda?  
 **Melissa:** Hej! Czas ucieka.  
 **Mox:** Nie chcesz?  
 **Melissa:** Pospiesz się, mistrzu.  
-**Mox:** Od dawna tego chciałeś. Widzę to.  
+**Mox:** Od dawna tego chciałaś. Widzę to.  
 **Melissa:** Kurwa, ale z ciebie dziwak!  
 **Mox:** Podoba ci się, brudna dziwko!  
 **Melissa:** Boże, Mox! Tak!  

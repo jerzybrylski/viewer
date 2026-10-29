@@ -19,7 +19,7 @@
 **Judy:** Ale Heather ma mądrość, którą daje wiek. Na pewno ceni ją bardziej niż wygląd.  
 **Ella:** Hahahaha! Jesteś taka urocza, siostro Judy.  
 **Judy:** Och… Dziękuję.  
-**Ella:** Słyszałem plotkę o was, panie.  
+**Ella:** Słyszałam plotkę o was, panie.  
 **Chloe:** Ello!  
 **Judy:** Plotkę?  
 **Mox:** Mogłyśmy zdradzić Elli kilka sekretów.  

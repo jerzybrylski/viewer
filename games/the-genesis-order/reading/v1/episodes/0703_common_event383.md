@@ -42,7 +42,7 @@
 **Mox:** Trudno pieprzyć w ten sposób.  
 **Ella:** To takie przyjemne!  
 **Tasha:** Nie bądź delikatny, Mox. To nie taka zabawka.  
-**Mox:** Cholera. Gdyby to było jeszcze intensywniejsze, nie dałabym rady.  
+**Mox:** Cholera. Gdyby to było jeszcze intensywniejsze, nie dałbym rady.  
 **Tasha:** Przyłóż się!  
 **Ella:** W porządku, Mox. Pieprz mnie mocno.  
 **Ella:** Ach! Kurwa!  

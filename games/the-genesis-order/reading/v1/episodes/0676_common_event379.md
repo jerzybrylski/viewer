@@ -83,7 +83,7 @@
 **Judy:** Mox! Ale dużo spermy!  
 **Mox:** Cholera, siostro. To było intensywne.  
 **Judy:** Dobrze mi poszło?  
-**Mox:** Bycie tak blisko seksu… Było bardziej ekscytujące, niż myślałam.  
+**Mox:** Bycie tak blisko seksu… Było bardziej ekscytujące, niż myślałem.  
 **Judy:** Czuję się o wiele lepiej… A do tego nie musieliśmy grzeszyć przeciw Bogu.  
 **Mox:** Trudno zbliżyć się bardziej.  
 **Judy:** Dobrze zrobiłam, ufając ci, Mox. Jesteś dżentelmenem.  

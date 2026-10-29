@@ -18,7 +18,7 @@
 **Mox:** Próbuje za tobą nadążyć.  
 **Chloe:** Uważasz, że jestem ładna, Mox?  
 **Mox:** Jesteś przepiękna, Chloe.  
-**Chloe:** Doprowadzałaś mnie do szaleństwa. Ciągle o tobie myślałem.  
+**Chloe:** Doprowadzałeś mnie do szaleństwa. Ciągle o tobie myślałam.  
 **Mox:** Byłem głupcem. Powinienem był przy tobie być.  
 **Chloe:** Nie. Nie mów tak. Byłam za młoda… Postąpiłeś właściwie.  
 **Mox:** Cóż… Teraz już jestem.  

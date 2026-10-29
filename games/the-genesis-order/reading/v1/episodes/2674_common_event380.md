@@ -62,7 +62,7 @@
 **Carol:** No dalej, Mox. Daj mi porządnie.  
 **Mox:** Nie patrzy?  
 **Carol:** Odwróciła się. Nie martw się.  
-**Mox:** Boże, ale jestem napalona.  
+**Mox:** Boże, ale jestem napalony.  
 **Carol:** Też tak mam.  
 **Heather:** Skończyłaś?  
 **Carol:** Nie odwracaj się. Chłopak się nie spieszy.  

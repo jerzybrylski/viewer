@@ -1,7 +1,7 @@
 ## Common Event 400 — SCN - Chloe Ella Drinks
 
 **Chloe:** Jak długo się znacie?  
-**Mox:** Niedługo. Poznałam ją w zeszłym tygodniu.  
+**Mox:** Niedługo. Poznałem ją w zeszłym tygodniu.  
 **Ella:** Mox jest moim ochroniarzem.  
 **Chloe:** Wow! Potrzebujesz ochroniarza?  
 **Ella:** W branży kamerek nie brakuje obleśnych prześladowców. Trzeba uważać.  
@@ -54,7 +54,7 @@
 **Chloe:** Co było na tym nagraniu?  
 **Ella:** Włożyłam sobie wibrator w tyłek, a potem Mox zerżnął mnie w cipkę.  
 **Chloe:** /shock  
-**Mox:** Recenzowałam nową zabawkę erotyczną. Nie miałam być nagrywana.  
+**Mox:** Recenzowałem nową zabawkę erotyczną. Nie miałem być nagrywana.  
 **Chloe:** Jak duży był ten wibrator?  
 **Ella:** Może odrobinę mniejszy niż Mox. Dałam sobie z nim radę.  
 **Chloe:** Nie bolało?  

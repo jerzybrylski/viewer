@@ -148,7 +148,7 @@
 **Erica:** Wypełnij ją!  
 **Lillian:** Wypuść we mnie swoje nasienie!  
 **Lillian:** Tyle nasienia… Czuję, jak spływa z mojej cipki.  
-**Mox:** Nigdy w życiu nie miałam tak silnego orgazmu.  
+**Mox:** Nigdy w życiu nie miałem tak silnego orgazmu.  
 **Erica:** To było niesamowite… Nie wiedziałam, że mogę tak się czuć.  
 **Lillian:** Nie zapominaj, Erico. Wciąż masz coś do zrobienia.  
 **Erica:** Praca?  
