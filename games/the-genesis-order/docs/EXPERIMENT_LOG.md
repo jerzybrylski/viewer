@@ -299,3 +299,9 @@
 - Dodano **142** osobne drafty naturalnego dialogu z 14 eventów Map 101, obejmujące rozmowę Heather, Chloe, Judy i 1Hero. Zachowano osobny plik JSONL; nie dodawano tekstów sterujących.
 - Łączny przyrost po step11 wynosi teraz **12 247 unikalnych draftów w 107 osobnych plikach**, co daje projekcję **32 857** niepustych tłumaczeń. Roboczy podzbiór naturalnego dialogu map ma **6 963** wiersze; każdy nadal wymaga oceny pod kątem tekstu widocznego dla gracza.
 - Builder Map 101 przechodzi `py_compile` i odmawia nadpisania istniejącego batcha. Pełne `unittest`: **36/36 OK**; audyt wszystkich 12 najnowszych batchy potwierdził 2 107 unikalnych ID, brak overlapu, zgodność metadanych z eksportem kanonicznym i poprawność markup/control tokens. Wszystkie 11 builderów przechodzi `py_compile`. Eksport kanoniczny i source ZIP v1 pozostają bez zmian; partie są osobne i niescalone.
+
+## 2026-10-29 — Map 12 Arianna and church follow-ups
+
+- Dodano **140** osobnych draftów naturalnego dialogu z 6 eventów Map 12: rozmowy z siostrą Judy, Arianną i dalsza scena planowania operacji. Pozostawiono dialog rozdzielony od poprzednich partii.
+- Łączny przyrost po step11 wynosi teraz **12 387 unikalnych draftów w 108 osobnych plikach**, co daje projekcję **32 997** niepustych tłumaczeń. Roboczy podzbiór naturalnego dialogu map ma **6 823** wiersze; każdy nadal wymaga oceny pod kątem tekstu widocznego dla gracza.
+- Builder Map 12 przechodzi `py_compile` i odmawia nadpisania istniejącego batcha. Pełne `unittest`: **36/36 OK**; audyt wszystkich 13 najnowszych batchy potwierdził 2 247 unikalnych ID, brak overlapu, zgodność metadanych z eksportem kanonicznym i poprawność markup/control tokens. Wszystkie 12 builderów przechodzi `py_compile`. Eksport kanoniczny i source ZIP v1 pozostają bez zmian; partie są osobne i niescalone.
