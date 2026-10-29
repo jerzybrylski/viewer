@@ -287,3 +287,9 @@
 - Dodano **304** osobne drafty naturalnego dialogu: Map 61 (**156 w 15 eventach**) oraz Map 25 (**148 w 16 eventach**). Obie mapy mają oddzielne pliki JSONL, chociaż wspólny builder generuje je niezależnie.
 - Łączny przyrost po step11 wynosi teraz **11 962 unikalne drafty w 105 osobnych plikach**, co daje projekcję **32 572** niepustych tłumaczeń. Pozostały roboczy podzbiór naturalnego dialogu map liczy **7 248** wierszy; każdy nadal wymaga oceny pod kątem tekstu widocznego dla gracza.
 - Builder Map 61/25 przechodzi `py_compile`, wygenerował dwa oddzielne pliki i odmawia nadpisania istniejących batchy. Pełne `unittest`: **36/36 OK**; audyt wszystkich dziesięciu najnowszych batchy potwierdził 1 822 unikalne ID, brak overlapu, zgodność metadanych z kanonicznym eksportem i poprawność markup/control tokens. Wszystkie dziewięć builderów przechodzi `py_compile`. Kanoniczny eksport i source ZIP v1 pozostają bez zmian; partie są osobne i niescalone.
+
+## 2026-10-29 — Map 34 commissioner follow-ups
+
+- Dodano **143** osobne drafty naturalnego dialogu z 5 eventów Map 34, obejmujące rozmowy w komisariacie i sprawę katedry. W dialogu nie tłumaczono nagłówków sterujących.
+- Łączny przyrost po step11 wynosi teraz **12 105 unikalnych draftów w 106 osobnych plikach**, co daje projekcję **32 715** niepustych tłumaczeń. Roboczy podzbiór naturalnego dialogu map ma **7 105** wierszy; każdy nadal wymaga oceny pod kątem tekstu widocznego dla gracza.
+- Builder Map 34 przechodzi `py_compile` i odmawia nadpisania istniejącego batcha. Pełne `unittest`: **36/36 OK**; audyt wszystkich jedenastu najnowszych batchy potwierdził 1 965 unikalnych ID, brak overlapu, zgodność metadanych z kanonicznym eksportem i poprawność markup/control tokens. Wszystkie dziesięć builderów przechodzi `py_compile`. Kanoniczny eksport i source ZIP v1 pozostają bez zmian; partie są osobne i niescalone.
