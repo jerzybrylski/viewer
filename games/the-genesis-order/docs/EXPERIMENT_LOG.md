@@ -305,3 +305,9 @@
 - Dodano **140** osobnych draftów naturalnego dialogu z 6 eventów Map 12: rozmowy z siostrą Judy, Arianną i dalsza scena planowania operacji. Pozostawiono dialog rozdzielony od poprzednich partii.
 - Łączny przyrost po step11 wynosi teraz **12 387 unikalnych draftów w 108 osobnych plikach**, co daje projekcję **32 997** niepustych tłumaczeń. Roboczy podzbiór naturalnego dialogu map ma **6 823** wiersze; każdy nadal wymaga oceny pod kątem tekstu widocznego dla gracza.
 - Builder Map 12 przechodzi `py_compile` i odmawia nadpisania istniejącego batcha. Pełne `unittest`: **36/36 OK**; audyt wszystkich 13 najnowszych batchy potwierdził 2 247 unikalnych ID, brak overlapu, zgodność metadanych z eksportem kanonicznym i poprawność markup/control tokens. Wszystkie 12 builderów przechodzi `py_compile`. Eksport kanoniczny i source ZIP v1 pozostają bez zmian; partie są osobne i niescalone.
+
+## 2026-10-29 — Map 94 church roof and Tasha follow-ups
+
+- Dodano **139** osobnych draftów naturalnego dialogu z 16 eventów Map 94, obejmujących rozmowę o przecieku w kościele i dalszy wątek Tashy. Dialog pozostaje w osobnym pliku i nie zmienia eksportu źródłowego.
+- Łączny przyrost po step11 wynosi teraz **12 526 unikalnych draftów w 109 osobnych plikach**, co daje projekcję **33 136** niepustych tłumaczeń. Roboczy podzbiór naturalnego dialogu map ma **6 684** wiersze; kwalifikowalność każdego wymaga oceny.
+- Builder Map 94 przechodzi `py_compile` i odmawia nadpisania istniejącego batcha. Pełne `unittest`: **36/36 OK**; audyt wszystkich 14 najnowszych batchy potwierdził 2 386 unikalnych ID, brak overlapu, zgodność metadanych z eksportem kanonicznym i poprawność markup/control tokens. Wszystkie 13 builderów przechodzi `py_compile`. Eksport kanoniczny i source ZIP v1 pozostają bez zmian; partie są osobne i niescalone.
