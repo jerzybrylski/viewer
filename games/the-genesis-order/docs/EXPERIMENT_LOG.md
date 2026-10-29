@@ -311,3 +311,9 @@
 - Dodano **139** osobnych draftów naturalnego dialogu z 16 eventów Map 94, obejmujących rozmowę o przecieku w kościele i dalszy wątek Tashy. Dialog pozostaje w osobnym pliku i nie zmienia eksportu źródłowego.
 - Łączny przyrost po step11 wynosi teraz **12 526 unikalnych draftów w 109 osobnych plikach**, co daje projekcję **33 136** niepustych tłumaczeń. Roboczy podzbiór naturalnego dialogu map ma **6 684** wiersze; kwalifikowalność każdego wymaga oceny.
 - Builder Map 94 przechodzi `py_compile` i odmawia nadpisania istniejącego batcha. Pełne `unittest`: **36/36 OK**; audyt wszystkich 14 najnowszych batchy potwierdził 2 386 unikalnych ID, brak overlapu, zgodność metadanych z eksportem kanonicznym i poprawność markup/control tokens. Wszystkie 13 builderów przechodzi `py_compile`. Eksport kanoniczny i source ZIP v1 pozostają bez zmian; partie są osobne i niescalone.
+
+## 2026-10-29 — Map 52 Ella and Chloe follow-ups
+
+- Dodano **135** osobnych draftów naturalnego dialogu z 7 eventów Map 52, z dialogami Elli, Chloe i Erica. Zachowano wyłącznie linie wypowiadane przez postacie; partie pozostają odseparowane.
+- Łączny przyrost po step11 wynosi teraz **12 661 unikalnych draftów w 110 osobnych plikach**, co daje projekcję **33 271** niepustych tłumaczeń. Roboczy podzbiór naturalnego dialogu map ma **6 549** wierszy; kwalifikowalność każdego wymaga oceny.
+- Builder Map 52 przechodzi `py_compile` i odmawia nadpisania istniejącego batcha. Pełne `unittest`: **36/36 OK**; audyt wszystkich 15 najnowszych batchy potwierdził 2 521 unikalnych ID, brak overlapu, zgodność metadanych z eksportem kanonicznym i poprawność markup/control tokens. Wszystkie 14 builderów przechodzi `py_compile`. Eksport kanoniczny i source ZIP v1 pozostają bez zmian; partie są osobne i niescalone.
