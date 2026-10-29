@@ -212,6 +212,4 @@
 
 **Ella:** No jasne!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:e88de52b70ba40cd21dc, tgo:custom_dialogue:339fccd89c2d0730091f, tgo:custom_dialogue:b70cfe4f0b4f6e78b96d, tgo:custom_dialogue:dd1c5728a11c09ad6df7, tgo:custom_dialogue:d1b8de59d7b04e206122, tgo:custom_dialogue:7a4beff6ff1f73f4795b, tgo:custom_dialogue:6f470b95935941b4bf9c, tgo:custom_dialogue:e0dac23c03b1e666ecb0</sub>
-

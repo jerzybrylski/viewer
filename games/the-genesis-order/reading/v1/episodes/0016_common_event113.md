@@ -200,6 +200,4 @@
 
 **Hannah:** O tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:690666f1449c3177e29c, tgo:custom_dialogue:43106c066e9aacc63838, tgo:custom_dialogue:bcca53b2d373a0ce14d6, tgo:custom_dialogue:d1bf36c5b8e177fac10b, tgo:custom_dialogue:034dca6938b14a149103, tgo:custom_dialogue:0be017879fa2a6369189, tgo:custom_dialogue:6d63526054ce26565fc1, tgo:custom_dialogue:fa603c5bc9e0d6a5e755</sub>
-

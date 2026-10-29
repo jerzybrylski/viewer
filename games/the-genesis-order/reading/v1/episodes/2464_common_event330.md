@@ -1,99 +1,51 @@
 ## Common Event 330 — SCN - Judy Spider
 
-**1Hero:** Łał! Nie spodziewałem się, że ją tak zobaczę.  
-
-**1Hero:** Eee... Siostro Judy?  
-
-**Judy:** 1Hero! Dziękuję, że mnie odwiedziłeś.  
-
-**1Hero:** Szykujesz się do snu? Mam nadzieję, że nie jest za późno.  
-
+**Mox:** Łał! Nie spodziewałem się, że ją tak zobaczę.  
+**Mox:** Eee... Siostro Judy?  
+**Judy:** Mox! Dziękuję, że mnie odwiedziłeś.  
+**Mox:** Szykujesz się do snu? Mam nadzieję, że nie jest za późno.  
 **Judy:** W porządku. Właśnie mam podlać rośliny.  
-
-**1Hero:** To trochę zaskakujące. Nie sądziłem, że będziesz… bez stroju zakonnego.  
-
+**Mox:** To trochę zaskakujące. Nie sądziłem, że będziesz… bez stroju zakonnego.  
 **Judy:** Wiesz, nie zawsze chodzę w habicie.  
-
-**1Hero:** Oczywiście.  
-
+**Mox:** Oczywiście.  
 **Judy:** Miło mieć towarzystwo o tak późnej porze. Wieczorami zwykle strasznie się nudzę.  
-
-**1Hero:** Nie rozmawiasz z ojcem Solomonem?  
-
+**Mox:** Nie rozmawiasz z ojcem Solomonem?  
 **Judy:** Widzę go przez cały dzień. Zwykle czytam książkę albo studiuję Biblię przed wieczorną modlitwą.  
-
 **Judy:** Jeśli nie masz nic przeciwko, muszę tylko dokończyć podlewanie roślin.  
-
-**1Hero:** Jasne. Nigdzie się nie wybieram.  
-
+**Mox:** Jasne. Nigdzie się nie wybieram.  
 **Judy:** Ta zawsze sprawia mi kłopoty.  
-
-**1Hero:** Uważaj, Judy. Pomóc ci?  
-
+**Mox:** Uważaj, Judy. Pomóc ci?  
 **Judy:** Mógłbyś, proszę?  
-
-**1Hero:** Cała przyjemność po mojej stronie.  
-
+**Mox:** Cała przyjemność po mojej stronie.  
 **Judy:** Ale z ciebie wysoki chłopak!  
-
-**1Hero:** Nie wiedziałem, że masz tak wysoko ustawioną roślinę.  
-
+**Mox:** Nie wiedziałem, że masz tak wysoko ustawioną roślinę.  
 **Judy:** Ale ze mnie gapa. Powinnam była po prostu użyć stołka.  
-
-**1Hero:** Albo mogłabyś przestawić roślinę na niższą półkę.  
-
+**Mox:** Albo mogłabyś przestawić roślinę na niższą półkę.  
 **Judy:** No jasne! Mądry i wysoki! Prawdziwe błogosławieństwo.  
-
-**1Hero:** Nie jestem tego pewien.  
-
-**1Hero:** Pająk!  
-
+**Mox:** Nie jestem tego pewien.  
+**Mox:** Pająk!  
 **Judy:** O mój Boże! Jaki wielki!  
-
-**1Hero:** Jak on się tu dostał?  
-
+**Mox:** Jak on się tu dostał?  
 **Judy:** Czy on przez cały czas był w moim pokoju?  
-
-**1Hero:** Spokojnie. Zajmę się nim.  
-
+**Mox:** Spokojnie. Zajmę się nim.  
 **Judy:** Nie rób mu krzywdy!  
-
-**1Hero:** Hę?  
-
+**Mox:** Hę?  
 **Judy:** Powinniśmy wypuścić go na zewnątrz. Może ma tam rodzinę.  
-
-**1Hero:** Nie jestem pewien… Ale chyba mogę go złapać.  
-
-**Judy:** Uważaj, 1Hero. Nie wiemy, jaki ma charakter.  
-
-**1Hero:** Hej! Mam go!  
-
+**Mox:** Nie jestem pewien… Ale chyba mogę go złapać.  
+**Judy:** Uważaj, Mox. Nie wiemy, jaki ma charakter.  
+**Mox:** Hej! Mam go!  
 **Judy:** /excited  
-
-**1Hero:** Otwórz okno. Wypuścimy go.  
-
+**Mox:** Otwórz okno. Wypuścimy go.  
 **Judy:** Oczywiście!  
-
-**1Hero:** No dalej. Wyskakuj już.  
-
+**Mox:** No dalej. Wyskakuj już.  
 **Judy:** Co się dzieje? Czemu nie chce wyjść?  
-
-**1Hero:** Jesteś wolny, pająku. A teraz zmykaj.  
-
+**Mox:** Jesteś wolny, pająku. A teraz zmykaj.  
 **Judy:** Nie możesz tu zostać… Na zewnątrz czeka na ciebie rodzina.  
-
-**1Hero:** Wyskoczył!  
-
-**1Hero:** O cholera. Chyba nie wskoczy z powrotem?  
-
+**Mox:** Wyskoczył!  
+**Mox:** O cholera. Chyba nie wskoczy z powrotem?  
 **Judy:** Wygląda, jakby do nas machał…  
-
 **Judy:** Może dziękuje.  
-
-**1Hero:** Lepiej, żeby szybko sobie poszedł, bo zaraz wejdą tu kolejne robaki.  
-
+**Mox:** Lepiej, żeby szybko sobie poszedł, bo zaraz wejdą tu kolejne robaki.  
 **Judy:** A sio, pająku! Pora iść!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:d8b43ba8f802f25e85b5, tgo:custom_dialogue:dafde1d1da5c5ea4a7ec, tgo:custom_dialogue:1e7e9a34394a4e8eb09a, tgo:custom_dialogue:0b36f87f75f3b2c5cf20, tgo:custom_dialogue:6bda328833ab2bda4914, tgo:custom_dialogue:2cf4f688cea34080e354, tgo:custom_dialogue:ba1e9e728b315c4643bd, tgo:custom_dialogue:004acdec20af32ec51f3</sub>
-

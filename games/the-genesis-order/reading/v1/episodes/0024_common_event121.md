@@ -172,6 +172,4 @@
 
 **Bobby:** O tak, kurwa!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:e83e7f61f5f75efdf813, tgo:custom_dialogue:1a691b526be75fd200d3, tgo:custom_dialogue:0527026a0fff2667e441, tgo:custom_dialogue:531dfcd9e621c554df5c, tgo:custom_dialogue:111398702c720b469fd9, tgo:custom_dialogue:6ffb27c5c273e72c5054, tgo:custom_dialogue:b3b1830b623cf4c9d9a6, tgo:custom_dialogue:3f2be489c0c86d7be9c0</sub>
-

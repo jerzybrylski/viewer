@@ -44,6 +44,4 @@
 - Walc
 - Komediowa
 
-
 <sub>Źródłowe ID (przykłady): tgo:ui_choice:d2b2d8b6e18f2344a405, tgo:ui_choice:029b7bb337dd062204b7, tgo:ui_choice:7a84642d3172dc2b20a0, tgo:ui_choice:a68c474ba07530997bed, tgo:ui_choice:64dc32b0e7674faa91c1, tgo:ui_choice:b44e1c1cf72cde9061f0, tgo:ui_choice:a77cb452690b8896ad23, tgo:ui_choice:7dc186d32e5930c6c354</sub>
-

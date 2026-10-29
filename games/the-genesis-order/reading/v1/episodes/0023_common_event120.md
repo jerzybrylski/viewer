@@ -176,6 +176,4 @@
 
 **David:** O tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:2bc7bd6bb596f2347d61, tgo:custom_dialogue:13db0256839f27530ba9, tgo:custom_dialogue:4bfd5d23ce9abd76c489, tgo:custom_dialogue:9db0d86ee4ffcbaecb49, tgo:custom_dialogue:38e5dd469690844223b8, tgo:custom_dialogue:76666b5b3ceabf2ba528, tgo:custom_dialogue:37a4a7b2a2316b73c51b, tgo:custom_dialogue:2fc6d4d776a2ca508d34</sub>
-

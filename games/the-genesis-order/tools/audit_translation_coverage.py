@@ -54,6 +54,32 @@ def _preserved(reason: str) -> tuple[str, str]:
     return ("source_preserved", reason)
 
 
+# Decyzje właściciela z 2026-10-29, zapisane jako jawne wyjątki od tłumaczenia.
+# Każdy wpis ma ID decyzji w docs/EDITORIAL_DECISIONS.md; bez niego nie wolno
+# dopisać tu kolejnej wartości (bramka ma pozostać wąska).
+OWNER_KEEP_SOURCE = (
+    # R-01: tytuł gry zostaje jako nazwa marki.
+    ("system.gameTitle", "The Genesis Order", "owner_decision_R01_brand_title_kept_in_english"),
+    # R-08: literał kanału telefonu na mapie testowej.
+    ("phone_text", "TEXT", "owner_decision_R08_test_map_stub_kept_in_english"),
+)
+
+
+def owner_keep_source(row: dict[str, Any]) -> str | None:
+    """Return the recorded owner decision for a value kept in English, if any."""
+    category = row.get("category")
+    source = row.get("source_text") or ""
+    context = row.get("context") or {}
+    for rule_category, rule_source, reason in OWNER_KEEP_SOURCE:
+        if category == rule_category and source == rule_source:
+            return reason
+    # R-07: wypełniacze widoczne tylko na TEST MAP (EV001) zostają po angielsku.
+    if (category == "native_message" and source.startswith("Text goes here")
+            and context.get("map_name") == "TEST MAP"):
+        return "owner_decision_R07_test_map_placeholder_kept_in_english"
+    return None
+
+
 def classify_untranslated(row: dict[str, Any]) -> tuple[str, str] | None:
     """Return disposition and explanation for an intentionally unchanged value."""
     context = row.get("context") or {}
@@ -63,6 +89,9 @@ def classify_untranslated(row: dict[str, Any]) -> tuple[str, str] | None:
 
     if context.get("translation_policy") == "keep_source_value":
         return _preserved("explicit_keep_source_value_policy")
+    owner_decision = owner_keep_source(row)
+    if owner_decision:
+        return _preserved(owner_decision)
     if category == "custom_dialogue" and source in CONTROL_OR_EMOTE_VALUES:
         return _preserved("custom_dialogue_emote_or_pause_control")
     if category == "choice_option":

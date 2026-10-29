@@ -11,10 +11,11 @@ sys.path.insert(0, str(ROOT.parent / "tools"))
 from apply_translation import validate_record  # noqa: E402
 
 OUTPUT = ROOT / "drafts" / "visible-name-l10n-01.jsonl"
+# Decyzja właściciela R-01 (2026-10-29): tytuł gry pozostaje po angielsku
+# ("The Genesis Order") jako nazwa marki, więc `system.gameTitle` nie jest tu
+# tłumaczony — rekord jest świadomie zachowany w źródle i klasyfikuje go
+# `audit_translation_coverage`. Dlatego batch ma 2 rekordy, nie 3.
 TRANSLATIONS = {
-    "system.gameTitle": {
-        "The Genesis Order": "Zakon Genesis",
-    },
     "database.actors.name": {
         "Arianna as Erica": "Arianna jako Erica",
     },
@@ -23,7 +24,7 @@ TRANSLATIONS = {
         "WoNoChurch": "WoNo — kościół",
     },
 }
-EXPECTED = 3
+EXPECTED = 2
 
 
 def main() -> None:

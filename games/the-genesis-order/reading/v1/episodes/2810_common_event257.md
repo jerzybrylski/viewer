@@ -10,27 +10,27 @@
 
 > **Ścieżka warunkowa:** wybór «Ocet».
 
-**1Hero:** Spróbuj octu.  
+**Mox:** Spróbuj octu.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda».
 
-**1Hero:** Spróbuj musztardy.  
+**Mox:** Spróbuj musztardy.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy».
 
-**1Hero:** Spróbuj sosu sojowego.  
+**Mox:** Spróbuj sosu sojowego.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt».
 
-**1Hero:** Spróbuj jogurtu.  
+**Mox:** Spróbuj jogurtu.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup».
 
-**1Hero:** Spróbuj ketchupu.  
+**Mox:** Spróbuj ketchupu.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Cukier».
 
-**1Hero:** Spróbuj cukru.  
+**Mox:** Spróbuj cukru.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup».
 
@@ -40,11 +40,11 @@
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona».
 
-**1Hero:** Spróbuj sody oczyszczonej.  
+**Mox:** Spróbuj sody oczyszczonej.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Skrobia kukurydziana».
 
-**1Hero:** Spróbuj skrobi kukurydzianej.  
+**Mox:** Spróbuj skrobi kukurydzianej.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona».
 
@@ -60,27 +60,27 @@
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet».
 
-**1Hero:** Ocet.  
+**Mox:** Ocet.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda».
 
-**1Hero:** Musztarda.  
+**Mox:** Musztarda.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy».
 
-**1Hero:** Sos sojowy.  
+**Mox:** Sos sojowy.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt».
 
-**1Hero:** Jogurt.  
+**Mox:** Jogurt.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup».
 
-**1Hero:** Ketchup.  
+**Mox:** Ketchup.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Cukier».
 
-**1Hero:** Cukier.  
+**Mox:** Cukier.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup».
 
@@ -90,11 +90,11 @@
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona».
 
-**1Hero:** Soda oczyszczona.  
+**Mox:** Soda oczyszczona.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Skrobia kukurydziana».
 
-**1Hero:** Skrobia kukurydziana.  
+**Mox:** Skrobia kukurydziana.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona».
 
@@ -110,27 +110,27 @@
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet».
 
-**1Hero:** Ostatnim składnikiem jest ocet.  
+**Mox:** Ostatnim składnikiem jest ocet.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda».
 
-**1Hero:** Ostatnim składnikiem jest musztarda.  
+**Mox:** Ostatnim składnikiem jest musztarda.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy».
 
-**1Hero:** Ostatnim składnikiem jest sos sojowy.  
+**Mox:** Ostatnim składnikiem jest sos sojowy.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt».
 
-**1Hero:** Ostatnim składnikiem jest jogurt.  
+**Mox:** Ostatnim składnikiem jest jogurt.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup».
 
-**1Hero:** Ostatnim składnikiem jest ketchup.  
+**Mox:** Ostatnim składnikiem jest ketchup.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Cukier».
 
-**1Hero:** Ostatnim składnikiem jest cukier.  
+**Mox:** Ostatnim składnikiem jest cukier.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup».
 
@@ -140,11 +140,11 @@
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona».
 
-**1Hero:** Ostatnim składnikiem jest soda oczyszczona.  
+**Mox:** Ostatnim składnikiem jest soda oczyszczona.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Skrobia kukurydziana».
 
-**1Hero:** Ostatnim składnikiem jest skrobia kukurydziana.  
+**Mox:** Ostatnim składnikiem jest skrobia kukurydziana.  
 
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona».
 
@@ -153,13 +153,8 @@
 > **Ścieżka warunkowa:** wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → wybór «Ocet» → wybór «Musztarda» → wybór «Sos sojowy» → wybór «Jogurt» → wybór «Ketchup» → wybór «Soda oczyszczona» → FAILED INGREDIENTS: wyłączony.
 
 **Chloe:** Fuj! Smakuje jeszcze gorzej!  
-
-**Judy:** Chyba ty też nie wiesz, co robisz, 1Hero.  
-
-**1Hero:** Hmm… Rozgryzę to.  
-
+**Judy:** Chyba ty też nie wiesz, co robisz, Mox.  
+**Mox:** Hmm… Rozgryzę to.  
 **Chloe:** Możesz spróbować jeszcze raz.  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:818c609e4b6bd3f3414b, tgo:custom_dialogue:84502fb2bb4eab5e7a5b, tgo:custom_dialogue:a6ac2fc785f5f1fdb63f, tgo:custom_dialogue:07314b36ceb3796d95d9, tgo:custom_dialogue:5aac81f7d45fe2274554, tgo:custom_dialogue:a1b3b3890f6a1b0d8958, tgo:custom_dialogue:22cb0cf819daa20a5c2d, tgo:custom_dialogue:bec1acf3a2933e8f6b8a</sub>
-

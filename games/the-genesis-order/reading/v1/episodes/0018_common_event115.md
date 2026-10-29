@@ -184,6 +184,4 @@
 
 **Nellie:** O tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:8290b70681050337fdc3, tgo:custom_dialogue:6cb1f6082640055d4b29, tgo:custom_dialogue:145cdf5b09594f9f4656, tgo:custom_dialogue:af44c68b255f154e614a, tgo:custom_dialogue:e9726f441ae3a806898d, tgo:custom_dialogue:9893d6fa256fa04f934a, tgo:custom_dialogue:3e0abdeae8c7b26066ea, tgo:custom_dialogue:6cf71b97ab97fa06b517</sub>
-

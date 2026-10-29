@@ -208,6 +208,4 @@
 
 **Jon:** Bezwartościowy złom. Masz coś jeszcze?  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:0eda1fca15f4907deff2, tgo:custom_dialogue:ae124b0373d0e336c358, tgo:custom_dialogue:4931bd1f8a0ae59ea741, tgo:custom_dialogue:be6eb8df782684049cbe, tgo:custom_dialogue:1943e68644818c552e01, tgo:custom_dialogue:5d5471217d377a95e4a4, tgo:custom_dialogue:1f28bc1f31b1faee8c7e, tgo:custom_dialogue:47c7211740abd81214be</sub>
-

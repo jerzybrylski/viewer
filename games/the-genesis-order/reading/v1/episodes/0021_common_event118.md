@@ -19,7 +19,6 @@
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 5 → Chloe flashback over: wyłączony.
 
 **Tasha:** Znowu ty?  
-
 **Tasha:** Tak?  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 1 → VOICEOVER Random Number = 1.
@@ -142,6 +141,4 @@
 
 **Tasha:** Dzięki za pomoc.  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:e5a80786fa9b44dea61b, tgo:custom_dialogue:363c1229d386c73bb73e, tgo:custom_dialogue:d10b108261536ede69a8, tgo:custom_dialogue:ef4a927e7748697e0c44, tgo:custom_dialogue:0414e89117a3c623417c, tgo:custom_dialogue:28f2030b24a474b5da7a, tgo:custom_dialogue:9dec5dbaadac960b2040, tgo:custom_dialogue:eb4040bb10189e833b48</sub>
-

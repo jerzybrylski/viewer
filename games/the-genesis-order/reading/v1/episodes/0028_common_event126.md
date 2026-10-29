@@ -75,7 +75,6 @@
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 
 **Zakapturzona postać:** Udało się!  
-
 **Zakapturzona postać:** Cholera jasna!  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → CHR EXPRESSION HOLDER = 5 → VOICEOVER Random Number = 1.
@@ -97,7 +96,6 @@
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 
 **Zakapturzona postać:** Co?!  
-
 **Zakapturzona postać:** To nie wygląda dobrze.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 2.
@@ -124,6 +122,4 @@
 
 **Zakapturzona postać:** Tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:9a1fd2e5e08a743e2d67, tgo:custom_dialogue:0f27be52bc66da9d50b1, tgo:custom_dialogue:8fc6189ccd826db395b3, tgo:custom_dialogue:163812efc8a2508b5699, tgo:custom_dialogue:11ed12ea91f4738c4130, tgo:custom_dialogue:f56a6802b2417148ed07, tgo:custom_dialogue:6e4f65a1aac71578f480, tgo:custom_dialogue:a90b30422e93faa3488f</sub>
-

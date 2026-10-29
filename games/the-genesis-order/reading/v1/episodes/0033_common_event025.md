@@ -7,7 +7,6 @@
 > **Ścieżka warunkowa:** Random Number = 0 → Random Number = 1 → Finished Chapter 20: włączony → Start Chapter 34: włączony.
 
 **Postać niezależna:** Wierzysz w wirusa seksu? Może naprawdę istnieje.  
-
 **Postać niezależna:** Wierzysz w wirusa seksu? Ciągle słyszę o ludziach przyłapanych na seksie w miejscach publicznych.  
 
 > **Ścieżka warunkowa:** Random Number = 0 → Random Number = 2 → Finished Chapter 20: włączony.
@@ -17,7 +16,6 @@
 > **Ścieżka warunkowa:** Random Number = 0 → Random Number = 2 → Finished Chapter 20: włączony → Start Chapter 34: włączony.
 
 **Postać niezależna:** Chyba mam wirusa seksu. Ostatnio mam bardzo silny popęd seksualny.  
-
 **Postać niezależna:** Chyba mam wirusa seksu. Nie mogę przestać myśleć o seksie.  
 
 > **Ścieżka warunkowa:** Random Number = 0 → Random Number = 3 → Finished Chapter 20: włączony.
@@ -27,7 +25,6 @@
 > **Ścieżka warunkowa:** Random Number = 0 → Random Number = 3 → Finished Chapter 20: włączony → Start Chapter 34: włączony.
 
 **Postać niezależna:** Wyglądasz, jakbyś miał wirusa seksu. Jak to jest ciągle mieć ochotę na seks?  
-
 **Postać niezależna:** Wyglądasz, jakbyś miał wirusa seksu. Chcesz spróbować?  
 
 > **Ścieżka warunkowa:** Random Number = 0 → Random Number = 4 → Finished Chapter 20: włączony.
@@ -37,7 +34,6 @@
 > **Ścieżka warunkowa:** Random Number = 0 → Random Number = 4 → Finished Chapter 20: włączony → Start Chapter 34: włączony.
 
 **Postać niezależna:** W wiadomościach mówili o wirusie seksu. Brzmi ciekawie.  
-
 **Postać niezależna:** W wiadomościach mówili o wirusie seksu. Brzmi pikantnie.  
 
 > **Ścieżka warunkowa:** Random Number = 0 → Random Number = 5 → Finished Chapter 20: włączony.
@@ -47,21 +43,17 @@
 > **Ścieżka warunkowa:** Random Number = 0 → Random Number = 5 → Finished Chapter 20: włączony → Start Chapter 34: włączony.
 
 **Postać niezależna:** O co tyle gadania o wirusie seksu? Zauważyłeś coś innego u ludzi wokół siebie?  
-
 **Postać niezależna:** O co tyle gadania o wirusie seksu? Czy to nie normalne, że człowiek ciągle ma ochotę na seks?  
 
 > **Ścieżka warunkowa:** Got 1st paycheck: włączony → Random Number = 0.
 
 **Postać niezależna:** Dziś wypłata! Muszę wrócić do domu i sprawdzić, czy w skrzynce czekają pieniądze.  
-
 **Postać niezależna:** Skończyły mi się pieniądze. Chyba mam jeszcze trochę w domowej skrzynce pocztowej.  
 
 > **Ścieżka warunkowa:** Found a treasure: włączony → Random Number = 0.
 
 **Postać niezależna:** Czasem znajduję rzeczy na ziemi. Mam kiepski wzrok, więc muszę podejść naprawdę blisko, żeby je zobaczyć.  
-
 **Postać niezależna:** Mówią, że w lesie można znaleźć fajne artefakty.  
-
 **Postać niezależna:** O tej porze roku ziemia bywa twarda.  
 
 > **Ścieżka warunkowa:** warunek przedmiotu [7] → Random Number = 0.
@@ -95,13 +87,11 @@
 > **Ścieżka warunkowa:** BC HANNAH APPROVED: włączony → Random Number = 0.
 
 **Postać niezależna:** Moi znajomi wpadli do mnie, ale dom był tak brzydki, że nie chcieli zostać.  
-
 **Postać niezależna:** Lubię dzwonić do ludzi z komórki. Też tak robisz?  
 
 > **Ścieżka warunkowa:** Quest man left restar: włączony → Random Number = 0.
 
 **Postać niezależna:** Nie znoszę publicznego okazywania uczuć. Byłeś ostatnio w wieżowcu?  
-
 **Postać niezależna:** Przy Dick’s kręcił się jakiś wściekły facet.  
 
 > **Ścieżka warunkowa:** Told to make money ≤ 3 → Random Number = 0.
@@ -207,7 +197,6 @@
 > **Ścieżka warunkowa:** Chopped down church bush: włączony → Random Number = 0.
 
 **Postać niezależna:** Widziałeś krzak, który nie pasował do otoczenia? Trzeba takie wycinać!  
-
 **Postać niezależna:** Krucyfiksy i kościoły pasują do siebie jak masło orzechowe i czekolada.  
 
 > **Ścieżka warunkowa:** Gave crucifix: włączony → Random Number = 0.
@@ -261,17 +250,13 @@
 > **Ścieżka warunkowa:** Seed of Knowledge Recipe: włączony → Random Number = 0.
 
 **Postać niezależna:** Jest takie stare powiedzenie, że przepis można znaleźć w pobliżu tykającego zegara.  
-
 **Postać niezależna:** Jest takie stare powiedzenie, że przepis można znaleźć w pobliżu tykającego zegara.  
 
 > **Ścieżka warunkowa:** Crafted Seeds of Knowleg = 0 → Random Number = 0.
 
 **Postać niezależna:** W moim biurze leży mnóstwo starych książek. Może warto oddać część do kościoła.  
-
 **Postać niezależna:** Kiedyś trzymano książki w biurach. Teraz wszystko jest cyfrowe.  
-
 **Postać niezależna:** Nie chodzę już do kościoła, bo chcieli coraz większych datków. Chyba duże datki przynoszą większe nagrody.  
-
 **Postać niezależna:** Niektóre miejsca obfitują w lepsze skarby niż inne.  
 
 > **Ścieżka warunkowa:** Gave npc aloe plant: włączony → Random Number = 0.
@@ -293,7 +278,6 @@
 > **Ścieżka warunkowa:** Picked safe lock: włączony → Random Number = 0.
 
 **Postać niezależna:** Metalowy wazon da się rozbić, jeśli jesteś dość silny. Dawno temu sprzedałem taki policji.  
-
 **Postać niezależna:** W sejfach można trzymać cenne rzeczy. Ale czasem trafia się w nich tylko jakiś metalowy złom.  
 
 > **Ścieżka warunkowa:** Gave belt buckle: włączony → Random Number = 0.
@@ -335,7 +319,6 @@
 > **Ścieżka warunkowa:** Got judy's bathroom key: włączony → Random Number = 0.
 
 **Postać niezależna:** Za każdym razem, gdy spuszczam klucz w toalecie, zapisuję notatkę i zostawiam ją na drugim piętrze.  
-
 **Postać niezależna:** Żeby naprawić hydraulikę, trzeba znaleźć drogę za ścianę.  
 
 > **Ścieżka warunkowa:** warunek przedmiotu [56] → warunek przedmiotu [57] → Random Number = 0.
@@ -369,7 +352,6 @@
 > **Ścieżka warunkowa:** Lillian - Pussy Sex: włączony → Random Number = 0.
 
 **Postać niezależna:** Kiedyś widziałem skrzynię skarbów po drugiej stronie rzeki. Trudno ją było dostrzec przez liście.  
-
 **Postać niezależna:** Kiedyś widziałem skrzynię skarbów po drugiej stronie rzeki. Trudno ją było dostrzec przez liście.  
 
 > **Ścieżka warunkowa:** Key fell: włączony → Random Number = 0.
@@ -387,7 +369,6 @@
 > **Ścieżka warunkowa:** Got reception chest key: włączony → Random Number = 0.
 
 **Postać niezależna:** Wspinanie się po marmurze jest trudne, jeśli nie masz butów z dobrą przyczepnością.  
-
 **Postać niezależna:** Na komisariacie są najpiękniejsze marmurowe kolumny.  
 
 > **Ścieżka warunkowa:** Carol - Cowgirl: włączony → Random Number = 0.
@@ -1330,6 +1311,4 @@
 
 **Postać niezależna:** Nie rozmawiaj ze mną.  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:e4bc9852551741859379, tgo:custom_dialogue:d691ac878998c3fdbcfa, tgo:custom_dialogue:3fafc729ea9ce2da8414, tgo:custom_dialogue:ddcbaf8ce00038acbed9, tgo:custom_dialogue:31af11ba0005a5da81c4, tgo:custom_dialogue:52388f01e681269b7a86, tgo:custom_dialogue:6016eaad854573289862, tgo:custom_dialogue:285d806ea210167540b1</sub>
-

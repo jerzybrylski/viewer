@@ -13,17 +13,18 @@ from apply_translation import validate_record  # noqa: E402
 DRAFTS = ROOT / 'drafts'
 OUTPUT = DRAFTS / 'visible-ui-remaining-01.jsonl'
 
-# These are authored in context: repeated placeholder text in the explicitly
-# player-rendered TEST MAP messages, plus a split phone conversation line.
+# This batch keeps only the split phone conversation line.
+#
+# Decyzja właściciela R-07/R-08 (2026-10-29): placeholdery mapy testowej
+# ("Text goes here..." w TEST MAP EV001 i literał "TEXT" w TEST MAP EV021)
+# zostają po angielsku — to stuby dewelopera bez wartości dla gracza.
+# Nie są tu tłumaczone; klasyfikuje je `audit_translation_coverage` jako
+# świadomie zachowane w źródle.
 TRANSLATIONS = {
-    ('native_message', 'Text goes here<br>Text goes here<br>Text goes here<br>'):
-        'Tekst w tym miejscu<br>Tekst w tym miejscu<br>Tekst w tym miejscu<br>',
     ('phone_contact_ui', 'He’s going to be<br>'):
         'Będzie<br>',
-    ('phone_text', 'TEXT'):
-        'TEKST',
 }
-EXPECTED_COUNT = 9
+EXPECTED_COUNT = 1
 
 
 def main() -> None:
@@ -52,22 +53,11 @@ def main() -> None:
             context = row.get('context') or {}
             if context.get('translation_policy') == 'keep_source_value':
                 raise SystemExit(f"Refusing protected source: {row['id']}")
-            # Restrict these translations to the reviewed source contexts.
-            if key[0] == 'native_message' and (
-                context.get('map_id') != 2 or context.get('map_name') != 'TEST MAP'
-            ):
-                raise SystemExit(f"Unexpected native-message context: {row['id']}")
+            # Restrict this translation to the reviewed source context.
             if key[0] == 'phone_contact_ui' and not (
                 context.get('event_id') == 17 and context.get('event_name') == 'PHONE - Select Item'
             ):
                 raise SystemExit(f"Unexpected phone UI context: {row['id']}")
-            if key[0] == 'phone_text' and not (
-                context.get('map_id') == 2
-                and context.get('map_name') == 'TEST MAP'
-                and row.get('structure', {}).get('routed_common_event_id') == 53
-                and row.get('structure', {}).get('variable_id') == 25
-            ):
-                raise SystemExit(f"Unexpected phone-text context: {row['id']}")
             row['translation'] = TRANSLATIONS[key]
             validate_record(row, require_complete=True)
             rows.append(row)

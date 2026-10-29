@@ -69,5 +69,45 @@ class ReadalongTests(unittest.TestCase):
         self.assertEqual(distances[36], 2)
 
 
+class PublishedReadingStyleTests(unittest.TestCase):
+    """Reguły redakcyjne Czytanki (decyzja właściciela 2026-10-29).
+
+    Testy czytają opublikowane pliki `reading/v1`, bo to one idą do paczki.
+    """
+
+    script = Path(__file__).resolve().parents[1] / "reading" / "v1" / "chronological_script_PL.md"
+
+    def setUp(self) -> None:
+        self.text = self.script.read_text(encoding="utf-8")
+        self.lines = self.text.splitlines()
+
+    def test_hero_placeholder_is_replaced_by_real_name(self) -> None:
+        self.assertNotIn("1Hero", self.text)
+        self.assertIn("**Mox:**", self.text)
+
+    def test_no_technical_source_id_footer_in_full_script(self) -> None:
+        self.assertNotIn("<sub>Źródłowe ID", self.text)
+
+    def test_consecutive_dialogue_lines_are_not_split_by_blank_line(self) -> None:
+        split_pairs = [
+            (first, self.lines[index + 2])
+            for index, (first, second) in enumerate(zip(self.lines, self.lines[1:]))
+            if first.startswith("**") and ":** " in first
+            and second == ""
+            and self.lines[index + 2].startswith("**")
+            and ":** " in self.lines[index + 2]
+        ]
+        self.assertEqual(split_pairs, [])
+
+    def test_dialogue_lines_end_with_hard_line_break(self) -> None:
+        dialogue = [line for line in self.lines if line.startswith("**") and ":** " in line]
+        self.assertGreater(len(dialogue), 1000)
+        self.assertEqual([line for line in dialogue if not line.endswith("  ")], [])
+
+    def test_episode_files_keep_traceability_footer(self) -> None:
+        episode = sorted((self.script.parent / "episodes").glob("*.md"))[0]
+        self.assertIn("<sub>Źródłowe ID", episode.read_text(encoding="utf-8"))
+
+
 if __name__ == "__main__":
     unittest.main()

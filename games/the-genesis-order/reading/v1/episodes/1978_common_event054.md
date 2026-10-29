@@ -54,11 +54,8 @@
 > **Ścieżka warunkowa:** wybór «Zapisz grę» → wybór «Wczytaj grę» → wybór «Opcje» → wybór «Głośność głosu» → wybór «Twój głos [wartość zmiennej 178]» → wybór «Inne głosy [wartość zmiennej 179]» → wybór «Dźwięk jęków [wartość zmiennej 180]» → wybór «Save Reminder» → wybór «Bardzo często!» → wybór «Czasami» → wybór «Rzadko» → wybór «Nigdy!» → wybór «Move Speed» → wybór «Wolno» → wybór «Normalnie» → wybór «Szybko» → wybór «Speedrun Mode» → wybór «Pokaż fabułę» → wybór «Pomiń fabułę».
 
 **Narrator / mówca nieustalony:** !! UWAGA !!  
-
 **Narrator / mówca nieustalony:** Ten tryb pominie WSZYSTKIE sceny i WSZYSTKIE dialogi.  
-
 **Narrator / mówca nieustalony:** Jeśli nie chcesz pomijać scen i dialogów,  
-
 **Narrator / mówca nieustalony:** możesz je ponownie włączyć za pomocą telefonu.  
 
 **Wybór gracza:**
@@ -112,15 +109,11 @@
 > **Ścieżka warunkowa:** wybór «Zapisz grę» → wybór «Wczytaj grę» → wybór «Opcje» → wybór «Głośność głosu» → wybór «Twój głos [wartość zmiennej 178]» → wybór «Inne głosy [wartość zmiennej 179]» → wybór «Dźwięk jęków [wartość zmiennej 180]» → wybór «Save Reminder» → wybór «Bardzo często!» → wybór «Czasami» → wybór «Rzadko» → wybór «Nigdy!» → wybór «Move Speed» → wybór «Wolno» → wybór «Normalnie» → wybór «Szybko» → wybór «Speedrun Mode» → wybór «Pokaż fabułę» → wybór «Pomiń fabułę» → wybór «Exit / Restart» → wybór «Uruchom grę ponownie» → wybór «Wyjdź z gry.» → wybór «Anuluj» → wybór «Booty Call» → wybór «[wartość zmiennej 81]» → wybór «[wartość zmiennej 82]» → wybór «[wartość zmiennej 83]» → wybór «[wartość zmiennej 84]» → wybór «[wartość zmiennej 85]» → wybór «[wartość zmiennej 87]» → wybór «[wartość zmiennej 88]» → wybór «[wartość zmiennej 89]» → wybór «[wartość zmiennej 90]» → wybór «[wartość zmiennej 91]» → wybór «[wartość zmiennej 360]» → wybór «Scene Player» → Scene Player - MAP ID ≠ 40 → CENSORED: włączony.
 
 **Narrator / mówca nieustalony:** Nie możesz wejść do tego obszaru w trybie NSFW.  
-
 **Narrator / mówca nieustalony:** Przejdź do „Opcji” w „Telefonie”.  
-
 **Narrator / mówca nieustalony:** aby wyłączyć filtr NSFW.  
 
 > **Ścieżka warunkowa:** wybór «Zapisz grę» → wybór «Wczytaj grę» → wybór «Opcje» → wybór «Głośność głosu» → wybór «Twój głos [wartość zmiennej 178]» → wybór «Inne głosy [wartość zmiennej 179]» → wybór «Dźwięk jęków [wartość zmiennej 180]» → wybór «Save Reminder» → wybór «Bardzo często!» → wybór «Czasami» → wybór «Rzadko» → wybór «Nigdy!» → wybór «Move Speed» → wybór «Wolno» → wybór «Normalnie» → wybór «Szybko» → wybór «Speedrun Mode» → wybór «Pokaż fabułę» → wybór «Pomiń fabułę» → wybór «Exit / Restart» → wybór «Uruchom grę ponownie» → wybór «Wyjdź z gry.» → wybór «Anuluj» → wybór «Booty Call» → wybór «[wartość zmiennej 81]» → wybór «[wartość zmiennej 82]» → wybór «[wartość zmiennej 83]» → wybór «[wartość zmiennej 84]» → wybór «[wartość zmiennej 85]» → wybór «[wartość zmiennej 87]» → wybór «[wartość zmiennej 88]» → wybór «[wartość zmiennej 89]» → wybór «[wartość zmiennej 90]» → wybór «[wartość zmiennej 91]» → wybór «[wartość zmiennej 360]» → wybór «Scene Player» → Scene Player - MAP ID ≠ 40.
 
 **Narrator / mówca nieustalony:** Nie możesz teraz otworzyć odtwarzacza scen.  
 
-
 <sub>Źródłowe ID (przykłady): tgo:arianna_hint:15d7256dbf71cb7621c6, tgo:arianna_hint:822e94124d45ddfb8185, tgo:phone_text:41e6fca848d5b66e0eec, tgo:phone_text:657e3908c779f94647b3, tgo:phone_text:a269a33e089c4f0d75a9, tgo:phone_text:f7f77e9146a00f636740, tgo:phone_text:def52a701e7c0fd01bc6, tgo:phone_text:c87217684decf9190e5c</sub>
-

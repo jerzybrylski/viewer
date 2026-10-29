@@ -136,6 +136,4 @@
 
 **Alia:** To bardzo miłe z twojej strony.  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:3469a7b4dbc9dd6e59f2, tgo:custom_dialogue:c18bf311d27e0ff78b0a, tgo:custom_dialogue:507ab8751cb401489737, tgo:custom_dialogue:c967a12b046aafff5110, tgo:custom_dialogue:a8b76c7c2a8a762f201c, tgo:custom_dialogue:b12fcb9fccf316da1234, tgo:custom_dialogue:54c3f030b6233a118c91, tgo:custom_dialogue:e65d26837ab8fa757eab</sub>
-

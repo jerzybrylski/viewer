@@ -2,7 +2,6 @@
 
 Zestawienie wynika wyłącznie z jawnych nagłówków/etykiet mówcy w rekordach. Liczba oznacza widoczne kwestie w Czytance, nie unikalne linie fabularne.
 
-- **1Hero** — 14599 kwestii.
 - **Alia** — 189 kwestii.
 - **Amulet H.** — 35 kwestii.
 - **Andrea** — 1271 kwestii.
@@ -38,6 +37,7 @@ Zestawienie wynika wyłącznie z jawnych nagłówków/etykiet mówcy w rekordach
 - **Lillian** — 891 kwestii.
 - **Madalyn** — 164 kwestii.
 - **Melissa** — 1421 kwestii.
+- **Mox** — 14599 kwestii.
 - **Mówca nieustalony (Ba)** — 2 kwestii — etykieta nieustalona; nie przypisano jej postaci.
 - **Mówca nieustalony (Bn)** — 2 kwestii — etykieta nieustalona; nie przypisano jej postaci.
 - **Mówca nieustalony (Ec)** — 1 kwestii — etykieta nieustalona; nie przypisano jej postaci.

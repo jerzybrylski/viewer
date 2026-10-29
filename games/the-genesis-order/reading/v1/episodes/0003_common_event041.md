@@ -4,6 +4,4 @@
 
 **Narrator / mówca nieustalony:** Twoja noga wciąż jest kontuzjowana.  
 
-
 <sub>Źródłowe ID (przykłady): tgo:native_message_unclassified:bff4c92e60949ba2338c</sub>
-

@@ -28,8 +28,13 @@ SOURCE_ROOT = ROOT.parents[1] / "google_drive" / "tgo_source"
 DEFAULT_OUTPUT = ROOT / "reading" / "v1"
 DEFAULT_ZIP = ROOT / "translation" / "packages" / "TGO_readalong_PL_v1.zip"
 
+# Imię bohatera widoczne w Czytance (decyzja właściciela 2026-10-29).
+# W grze pozostaje placeholder `1Hero` podstawiany w runtime — to nie jest
+# tłumaczenie tekstu gry, tylko sposób prezentacji skryptu.
+HERO_NAME = "Mox"
+
 SPEAKERS = {
-    "Mc": "1Hero", "Ad": "Andrea", "Ar": "Arianna", "Bo": "Bobby",
+    "Mc": HERO_NAME, "Ad": "Andrea", "Ar": "Arianna", "Bo": "Bobby",
     "Br": "Brian", "Ca": "Carol", "Ch": "Chloe", "Da": "David",
     "Du": "Duncan", "El": "Ella", "Er": "Erica", "Hn": "Hannah",
     "He": "Heather", "Jo": "Jon", "Ju": "Judy", "Ki": "Kimberly",
@@ -90,6 +95,11 @@ def clean_reading_text(value: str) -> str:
     text = text.replace("\\\\", "\\")
     text = "\n".join(part.strip() for part in text.splitlines())
     return re.sub(r"[ \t]+", " ", text).strip()
+
+
+def hero_text(value: str) -> str:
+    """Show the hero's real name instead of the game's ``1Hero`` placeholder."""
+    return value.replace("1Hero", HERO_NAME)
 
 
 def source_map_paths(source_root: Path) -> dict[int, Path]:
@@ -321,7 +331,7 @@ def speaker_for(row: dict[str, Any]) -> tuple[str, str]:
     if row.get("category") == "custom_dialogue":
         header = str(context.get("custom_header") or "")
         if header == "I can’t be wasting time" and context.get("map_id") == 3 and context.get("event_id") in range(1, 17):
-            return "1Hero", "header:niekanoniczny; przypisanie z kontekstu sceny początkowej"
+            return HERO_NAME, "header:niekanoniczny; przypisanie z kontekstu sceny początkowej"
         if header == "NPC":
             return "Postać niezależna", "jawny kod NPC"
         match = re.match(r"^@?([A-Z][a-z]|[A-Z]\d)", header)
@@ -357,6 +367,13 @@ def render_episode(key: tuple[str, int | None, int | None, int | None],
                    labels: dict[tuple[str, int], str],
                    switches: list[str], variables: list[str],
                    map_name: str = "", common_name: str = "") -> tuple[str, dict[str, Any]]:
+    """Render one episode as Markdown blocks.
+
+    Kwestie dialogowe idą jedna pod drugą (twarde złamanie wiersza zamiast
+    pustej linii między nimi), żeby skrypt dał się czytać jak scenariusz.
+    Bloki strukturalne — warunki, ścieżki, wybory, podpisy — nadal są
+    oddzielone pustą linią, bo tego wymaga Markdown.
+    """
     kind, map_id, event_id, page_number = key
     title = (f"Mapa {map_id:03d} — {map_name}" if kind == "map" and isinstance(map_id, int)
              else f"Common Event {event_id:03d} — {common_name}")
@@ -364,12 +381,18 @@ def render_episode(key: tuple[str, int | None, int | None, int | None],
         title += f" / event {event_id}"
         if page_number is not None:
             title += f" / strona {page_number}"
-    lines = [f"## {title}", ""]
+    blocks: list[str] = [f"## {title}"]
+    paragraph: list[str] = []
+
+    def flush() -> None:
+        if paragraph:
+            blocks.append("\n".join(paragraph))
+            paragraph.clear()
+
     context = (rows[0].get("context") or {}) if rows else {}
     notes = page_condition_notes(context, switches, variables)
     if notes:
-        lines.append("> **Warunek strony:** " + "; ".join(notes) + ".")
-        lines.append("")
+        blocks.append("> **Warunek strony:** " + "; ".join(notes) + ".")
 
     last_branch = object()
     printed_groups: set[str] = set()
@@ -387,49 +410,53 @@ def render_episode(key: tuple[str, int | None, int | None, int | None],
         branch = branch_labels(row, labels, switches, variables)
         if branch != last_branch:
             if branch:
-                lines.append(f"> **Ścieżka warunkowa:** {branch}.\n")
+                flush()
+                blocks.append(f"> **Ścieżka warunkowa:** {branch}.")
             last_branch = branch
         if category in {"choice_option", "ui_choice"}:
             group_id = context.get("choice_group_id") or (row.get("structure") or {}).get("choice_group_id")
             if isinstance(group_id, str) and group_id not in printed_groups:
                 block = display_group(choice_groups.get(group_id, [row]))
                 if block:
-                    lines.append(block + "\n")
+                    flush()
+                    blocks.append(block)
                     included += 1
                     printed_groups.add(group_id)
             continue
 
-        text = clean_reading_text(row_translation(row))
+        text = hero_text(clean_reading_text(row_translation(row)))
         if not text:
             continue
         if category == "image_caption":
-            lines.append(f"*〔Podpis widoczny przy obrazie: {text}〕*\n")
+            flush()
+            blocks.append(f"*〔Podpis widoczny przy obrazie: {text}〕*")
             included += 1
             continue
         if category == "arianna_hint":
-            lines.append(f"*〔Wskazówka: {text}〕*\n")
+            flush()
+            blocks.append(f"*〔Wskazówka: {text}〕*")
             included += 1
             continue
-        speaker, basis = speaker_for(row)
+        speaker, _basis = speaker_for(row)
         speaker_counts[speaker] += 1
         if "nieustalony" in speaker.casefold():
             unknown_speakers.append(row.get("id", ""))
-        if "\n" in text:
-            for paragraph in text.split("\n"):
-                if paragraph:
-                    lines.append(f"**{speaker}:** {paragraph}  \n")
-        else:
-            lines.append(f"**{speaker}:** {text}  \n")
+        for part in text.split("\n"):
+            if part:
+                paragraph.append(f"**{speaker}:** {part}  ")
         included += 1
     if included == 0:
         return "", {"included": 0, "unknown_speakers": [], "speaker_counts": {}}
-    lines.append("")
-    source_ids = ", ".join(row["id"] for row in rows[:8])
-    lines.append(f"<sub>Źródłowe ID (przykłady): {source_ids}</sub>\n")
-    return "\n".join(lines), {
+    flush()
+    return "\n\n".join(blocks), {
         "included": included, "unknown_speakers": unknown_speakers,
         "speaker_counts": dict(speaker_counts),
     }
+
+
+def _source_note(source_ids: str) -> str:
+    """Traceability footer kept in episode files, dropped from the full script."""
+    return f"<sub>Źródłowe ID (przykłady): {source_ids}</sub>"
 
 
 def character_index(speaker_counts: Counter[str]) -> str:
@@ -459,7 +486,45 @@ def location_index(maps: dict[int, dict[str, Any]], infos: dict[int, dict[str, A
     return "\n".join(lines) + "\n"
 
 
-def build(source_root: Path, output: Path, zip_path: Path) -> dict[str, Any]:
+def load_previous_order(path: Path | None) -> dict[tuple[str, int, int, int], dict[str, str]]:
+    """Wczytaj wiersze z wcześniejszego `reading_order.tsv`.
+
+    Źródła gry nie są w repozytorium, więc pełne przeliczenie grafu osiągalności
+    dałoby inną (nie gorszą, ale inną) numerację rozdziałów. Tryb offline
+    zachowuje numerację i metadane opublikowane w `reading/v1`, żeby nowe
+    wydanie różniło się wyłącznie poprawkami redakcyjnymi.
+    """
+    if path is None or not path.is_file():
+        return {}
+    rows: dict[tuple[str, int, int, int], dict[str, str]] = {}
+    with path.open(encoding="utf-8", newline="") as stream:
+        for record in csv.DictReader(stream, delimiter="\t"):
+            if not record.get("sequence"):
+                continue
+            key = (record.get("kind", ""), int(record.get("map_id") or 0),
+                   int(record.get("event_id") or 0), int(record.get("page_number") or 0))
+            rows[key] = record
+    return rows
+
+
+def previous_locations_index(path: Path | None) -> tuple[str, int, int] | None:
+    """Wczytaj opublikowany indeks lokacji i policz mapy (wszystkie/osiągalne).
+
+    Indeks lokacji wymaga nazw i kolejności map z `MapInfos.json` oraz grafu
+    transferów; tych danych nie ma w repozytorium. Nowe wydanie dziedziczy więc
+    indeks z poprzedniego, a liczby w README bierzemy z niego samego.
+    """
+    if path is None or not path.is_file():
+        return None
+    text = path.read_text(encoding="utf-8")
+    lines = [line for line in text.splitlines() if line.startswith("- **Mapa ")]
+    reachable = sum(1 for line in lines if "potencjalnie osiągalna" in line)
+    return text, len(lines), reachable
+
+
+def build(source_root: Path, output: Path, zip_path: Path,
+          previous_order: Path | None = None,
+          locations_index: Path | None = None) -> dict[str, Any]:
     source_root = source_root.resolve()
     output = output.resolve()
     zip_path = zip_path.resolve()
@@ -531,6 +596,12 @@ def build(source_root: Path, output: Path, zip_path: Path) -> dict[str, Any]:
             episodes.append((event_sort, key, content))
 
     episodes.sort(key=lambda item: item[0])
+    previous = load_previous_order(previous_order)
+    if previous:
+        fallback = max((int(row["sequence"]) for row in previous.values()), default=0) + 1
+        episodes.sort(key=lambda item: (int(previous.get(
+            (item[1][0], item[1][1] or 0, item[1][2] or 0, item[1][3] or 0),
+            {"sequence": fallback})["sequence"]), item[0]))
     output.mkdir(parents=True)
     episode_dir = output / "episodes"
     episode_dir.mkdir()
@@ -545,14 +616,18 @@ def build(source_root: Path, output: Path, zip_path: Path) -> dict[str, Any]:
         filename = (f"{sequence:04d}_map{map_id:03d}_event{event_id:03d}_page{page_number:02d}.md"
                     if kind == "map" else f"{sequence:04d}_common_event{event_id:03d}.md")
         episode_path = episode_dir / filename
-        episode_path.write_text(content + "\n", encoding="utf-8", newline="\n")
+        source_note = _source_note(", ".join(row["id"] for row in grouped[key][:8]))
+        episode_path.write_text(content + "\n\n" + source_note + "\n", encoding="utf-8", newline="\n")
         title = f"Map {map_id} event {event_id} page {page_number}" if kind == "map" else f"Common Event {event_id} {(common.get(event_id) or {}).get('name', '')}"
+        inherited = previous.get((kind, map_id or 0, event_id or 0, page_number or 0)) or {}
         order_rows.append({
             "sequence": sequence, "episode": filename, "kind": kind,
             "map_id": map_id or "", "event_id": event_id or "", "page_number": page_number or "",
-            "map_rank": map_rank.get(map_id, "") if map_id is not None else "",
-            "chronology_basis": "first potential map reachability; condition evaluation omitted" if kind == "map" else "first statically observed common-event call; conditional call order uncertain",
-            "title": title,
+            "map_rank": inherited.get("map_rank") if inherited else (map_rank.get(map_id, "") if map_id is not None else ""),
+            "chronology_basis": inherited.get("chronology_basis") if inherited else (
+                "first potential map reachability; condition evaluation omitted" if kind == "map"
+                else "first statically observed common-event call; conditional call order uncertain"),
+            "title": (inherited.get("title") if inherited else "") or title,
         })
         full_script.extend([content, "\n---\n"])
         file_manifest.append(filename)
@@ -567,15 +642,26 @@ def build(source_root: Path, output: Path, zip_path: Path) -> dict[str, Any]:
     full_script_path.write_text("\n".join(full_script), encoding="utf-8", newline="\n")
     episode_counts = Counter(key[1] for _, key, _ in episodes if key[0] == "map" and key[1] is not None)
     (output / "index_characters_PL.md").write_text(character_index(speaker_counts), encoding="utf-8", newline="\n")
-    (output / "index_locations_PL.md").write_text(
-        location_index(maps, infos, map_rank, map_distance, map_names, episode_counts),
-        encoding="utf-8", newline="\n",
-    )
-    reachable = len(map_distance)
-    total_maps = len(maps)
+    inherited_index = previous_locations_index(locations_index)
+    if inherited_index is not None:
+        index_text, total_maps, inherited_reachable = inherited_index
+        (output / "index_locations_PL.md").write_text(index_text, encoding="utf-8", newline="\n")
+        reachable = inherited_reachable
+    else:
+        (output / "index_locations_PL.md").write_text(
+            location_index(maps, infos, map_rank, map_distance, map_names, episode_counts),
+            encoding="utf-8", newline="\n",
+        )
+        reachable = len(map_distance)
+        total_maps = len(maps)
     common_scene_count = sum(1 for _, key, _ in episodes if key[0] == "common_event")
     map_scene_count = sum(1 for _, key, _ in episodes if key[0] == "map")
 
+    inheritance_note = ""
+    if inherited_index is not None:
+        inheritance_note = ("- Numeracja rozdziałów i indeks lokacji są dziedziczone z wydania v1: źródła gry nie są "
+                            "przechowywane w repozytorium, więc grafu osiągalności ani nazw map nie przelicza się od zera. "
+                            "Treść kwestii pochodzi w całości z bieżącego korpusu tłumaczeń.\n")
     readme = f"""# Czytanka TGO PL — wydanie robocze v1
 
 ## Jak czytać
@@ -593,7 +679,7 @@ To zachowuje ostrzeżenie z przykładowych skryptów SRW: warunkowe/sytuacyjne k
 
 ## Statyczne źródła i liczby
 
-- Korpus: {merge_report['records']:,} kanonicznych rekordów; {merge_report['with_translation']:,} rekordów z tłumaczeniem; nazwy własne, markery, kody i jawnie chronione wartości pozostają bez zmian.
+{inheritance_note}- Korpus: {merge_report['records']:,} kanonicznych rekordów; {merge_report['with_translation']:,} rekordów z tłumaczeniem; nazwy własne, markery, kody i jawnie chronione wartości pozostają bez zmian.
 - W tym wydaniu: {map_scene_count} rozdziałów map/event/page i {common_scene_count} rozdziałów Common Events.
 - Gry nie uruchamiano. Nie dołączono assetów, mediów, kodu gry ani zapisów.
 - Źródłowe ID w plikach pozwalają wrócić do rekordu JSONL. Pełna lista kolejności znajduje się w `reading_order.tsv`.
@@ -629,8 +715,13 @@ def main() -> None:
     parser.add_argument("--source-root", type=Path, default=SOURCE_ROOT)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     parser.add_argument("--zip", type=Path, default=DEFAULT_ZIP)
+    parser.add_argument("--previous-order", type=Path, default=None,
+                        help="poprzedni reading_order.tsv — zachowuje numerację i metadane rozdziałów")
+    parser.add_argument("--locations-index", type=Path, default=None,
+                        help="poprzedni index_locations_PL.md — użyj, gdy brak danych map gry")
     args = parser.parse_args()
-    print(json.dumps(build(args.source_root, args.output, args.zip), ensure_ascii=False, indent=2))
+    print(json.dumps(build(args.source_root, args.output, args.zip, args.previous_order,
+                           args.locations_index), ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

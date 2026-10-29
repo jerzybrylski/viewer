@@ -1,102 +1,54 @@
 ## Common Event 374 — SCN - Lillian Dining Solo
 
-**Lillian:** Przez ciebie zaraz będę zazdrosna, 1Hero.  
-
-**1Hero:** My… Chciałyśmy tylko trochę zaszaleć w kuchni.  
-
+**Lillian:** Przez ciebie zaraz będę zazdrosna, Mox.  
+**Mox:** My… Chciałyśmy tylko trochę zaszaleć w kuchni.  
 **Lillian:** Podnieca cię potajemne wymykanie się?  
-
-**1Hero:** Nie chciałem nic złego, Lillian. Po prostu… Jestem napalonym facetem. Co poradzę?  
-
+**Mox:** Nie chciałem nic złego, Lillian. Po prostu… Jestem napalonym facetem. Co poradzę?  
 **Lillian:** W twojej głowie kłębią się wątpliwości. Czuję to.  
-
 **Lillian:** Kieruje tobą nieposkromiona ciekawość… Teraz to widzę.  
-
 **Lillian:** Grzeczny chłopiec. Ssij moją pierś.  
-
 **Lillian:** Pochodzimy z różnych światów, a jednak coś nas łączy.  
-
-**1Hero:** Lillian?  
-
+**Mox:** Lillian?  
 **Lillian:** Nieważne, skąd pochodzimy. To właśnie nas łączy.  
-
-**1Hero:** Mój kutas?  
-
-**Lillian:** Seksualność, 1Hero.  
-
+**Mox:** Mój kutas?  
+**Lillian:** Seksualność, Mox.  
 **Lillian:** Pokażę ci rozkosz, a ty w zamian sprawisz ją mnie.  
-
-**1Hero:** Oczywiście… Lillian.  
-
+**Mox:** Oczywiście… Lillian.  
 **Lillian:** Tak… Bardzo dobrze. Wypij wszystko.  
-
-**Lillian:** Brakuje ci duchowej strony, 1Hero…  
-
+**Lillian:** Brakuje ci duchowej strony, Mox…  
 **Lillian:** Możesz nie rozumieć mojego powołania, ale z czasem zrozumiesz.  
-
 **Lillian:** Przyniosłam spokój wielu osobom…  
-
 **Lillian:** Dałam cel tym, którzy zgubili drogę.  
-
 **Lillian:** O tak!…  
-
 **Lillian:** Skosztuj mnie! Skosztuj mojej cipki!  
-
 **Lillian:** Niech moje soki w ciebie wsiąkną!  
-
-**Lillian:** Pij mnie, 1Hero! Pij!  
-
+**Lillian:** Pij mnie, Mox! Pij!  
 **Lillian:** Pyszne, prawda?  
-
-**1Hero:** Cholera, Lillian.  
-
+**Mox:** Cholera, Lillian.  
 **Lillian:** Mam ci jeszcze tyle do zaoferowania.  
-
-**1Hero:** Masz rację, Lillian. Nie jestem uduchowiony. Ale widziałem dość, by wierzyć, że coś tam jest.  
-
+**Mox:** Masz rację, Lillian. Nie jestem uduchowiony. Ale widziałem dość, by wierzyć, że coś tam jest.  
 **Lillian:** Być może twoja podróż dopiero się zaczyna.  
-
-**1Hero:** Czego właściwie tu uczysz?  
-
-**Lillian:** To miejsce jest zimne, 1Hero. Jestem tu, by wnieść ciepło.  
-
-**1Hero:** O kurwa!  
-
+**Mox:** Czego właściwie tu uczysz?  
+**Lillian:** To miejsce jest zimne, Mox. Jestem tu, by wnieść ciepło.  
+**Mox:** O kurwa!  
 **Lillian:** Zagubione dusze, które trafiły do mojego domu, szukają czułego dotyku matki.  
-
-**1Hero:** Uważasz ich za swoje dzieci?  
-
+**Mox:** Uważasz ich za swoje dzieci?  
 **Lillian:** Tak. To nadaje mojemu życiu sens.  
-
-**1Hero:** To czemu nie zostać prawdziwą matką?  
-
+**Mox:** To czemu nie zostać prawdziwą matką?  
 **Lillian:** Na czym polega bycie matką, jeśli nie na bezwarunkowej miłości i opiece nad potrzebującymi?  
-
-**1Hero:** Tego właśnie udzielasz tym trędowatym?  
-
+**Mox:** Tego właśnie udzielasz tym trędowatym?  
 **Lillian:** Gdybym miała taką moc, ofiarowałabym to całemu światu.  
-
-**1Hero:** Wzniosły cel.  
-
-**Lillian:** Nie czujesz tego, 1Hero?  
-
-**1Hero:** Czuję tę cudownie ciasną cipkę.  
-
+**Mox:** Wzniosły cel.  
+**Lillian:** Nie czujesz tego, Mox?  
+**Mox:** Czuję tę cudownie ciasną cipkę.  
 **Lillian:** Każda podróż zaczyna się od pierwszych kroków…  
-
 **Lillian:** A teraz pieprz mnie na całego!  
-
-**1Hero:** Ach! Tak!... Ale ciasno!  
-
+**Mox:** Ach! Tak!... Ale ciasno!  
 **Lillian:** Poczuj to! Poczuj moją ciasną cipkę!  
-
-**1Hero:** Ale dobrze! Łaskoczesz mojego kutasa!  
-
-**Lillian:** Dojdź, 1Hero! Dojdź dla mnie!  
-
+**Mox:** Ale dobrze! Łaskoczesz mojego kutasa!  
+**Lillian:** Dojdź, Mox! Dojdź dla mnie!  
 **Lillian:** Cudownie!  
-
-**1Hero:** Cholera, ale dobrze było.  
+**Mox:** Cholera, ale dobrze było.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
 
@@ -107,6 +59,4 @@
 - [ikona 2]3
 - [ikona 2]4
 
-
 <sub>Źródłowe ID (przykłady): tgo:choice_unclassified:940381d88377c7012ff1, tgo:choice_unclassified:6f8933fad2a182e99168, tgo:choice_unclassified:6d4f750ba58caf7f8692, tgo:choice_unclassified:cb44c841df3395eba8ad, tgo:choice_unclassified:cd2a3cb21cbf033d8e82, tgo:custom_dialogue:0ae344f0bc05834566cd, tgo:custom_dialogue:aae5237e6ae594b71eb3, tgo:custom_dialogue:3aa86ccef4a8b3315f5d</sub>
-

@@ -91,7 +91,6 @@
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 
 **Andrea:** Udało się!  
-
 **Andrea:** Cholera!  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 2.
@@ -149,7 +148,6 @@
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 
 **Andrea:** Co?!  
-
 **Andrea:** Niedobrze.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 2.
@@ -172,6 +170,4 @@
 
 **Andrea:** Tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:c8b28551ff7a3d48d114, tgo:custom_dialogue:4064517747c7db11fd07, tgo:custom_dialogue:51a8f1bb38b22a2b1a04, tgo:custom_dialogue:a55350b0737eed8d5c99, tgo:custom_dialogue:015e39c0ddb229fdaa59, tgo:custom_dialogue:804965ce328edae4277c, tgo:custom_dialogue:c73b36b03851399cb47b, tgo:custom_dialogue:ba862ccc811376c70b1f</sub>
-

@@ -15,7 +15,8 @@ To zachowuje ostrzeżenie z przykładowych skryptów SRW: warunkowe/sytuacyjne k
 
 ## Statyczne źródła i liczby
 
-- Korpus: 45,229 kanonicznych rekordów; 39,926 rekordów z tłumaczeniem; nazwy własne, markery, kody i jawnie chronione wartości pozostają bez zmian.
+- Numeracja rozdziałów i indeks lokacji są dziedziczone z wydania v1: źródła gry nie są przechowywane w repozytorium, więc grafu osiągalności ani nazw map nie przelicza się od zera. Treść kwestii pochodzi w całości z bieżącego korpusu tłumaczeń.
+- Korpus: 45,229 kanonicznych rekordów; 39,917 rekordów z tłumaczeniem; nazwy własne, markery, kody i jawnie chronione wartości pozostają bez zmian.
 - W tym wydaniu: 4134 rozdziałów map/event/page i 260 rozdziałów Common Events.
 - Gry nie uruchamiano. Nie dołączono assetów, mediów, kodu gry ani zapisów.
 - Źródłowe ID w plikach pozwalają wrócić do rekordu JSONL. Pełna lista kolejności znajduje się w `reading_order.tsv`.

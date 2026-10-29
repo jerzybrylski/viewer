@@ -17,27 +17,27 @@
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → Money < 1000.
 
-**1Hero:** /toomuch  
+**Mox:** /toomuch  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → Money < 600.
 
-**1Hero:** /toomuch  
+**Mox:** /toomuch  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → Money < 2000.
 
-**1Hero:** /toomuch  
+**Mox:** /toomuch  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → Money < 900.
 
-**1Hero:** /toomuch  
+**Mox:** /toomuch  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → Money < 2500.
 
-**1Hero:** /toomuch  
+**Mox:** /toomuch  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → wybór «$3000 Koło dmuchawy» → Money < 3000.
 
-**1Hero:** /toomuch  
+**Mox:** /toomuch  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika».
 
@@ -47,7 +47,7 @@
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → wybór «$500 Mocowanie uchwytu» → Money < 500.
 
-**1Hero:** /toomuch  
+**Mox:** /toomuch  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → wybór «$500 Mocowanie uchwytu» → wybór «Sell».
 
@@ -61,39 +61,33 @@
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → wybór «$500 Mocowanie uchwytu» → wybór «Sell» → wybór «$250 Programator odszraniania» → Sell Junk = 0.
 
-**1Hero:** /fail  
-
-**1Hero:** Nie mam czegoś takiego.  
+**Mox:** /fail  
+**Mox:** Nie mam czegoś takiego.  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → wybór «$500 Mocowanie uchwytu» → wybór «Sell» → wybór «$250 Programator odszraniania» → wybór «$150 Zestaw nakrętek i śrub» → Sell Junk = 0.
 
-**1Hero:** /fail  
-
-**1Hero:** Nie mam czegoś takiego.  
+**Mox:** /fail  
+**Mox:** Nie mam czegoś takiego.  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → wybór «$500 Mocowanie uchwytu» → wybór «Sell» → wybór «$250 Programator odszraniania» → wybór «$150 Zestaw nakrętek i śrub» → wybór «$500 Wentylator skraplacza» → Sell Junk = 0.
 
-**1Hero:** /fail  
-
-**1Hero:** Nie mam czegoś takiego.  
+**Mox:** /fail  
+**Mox:** Nie mam czegoś takiego.  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → wybór «$500 Mocowanie uchwytu» → wybór «Sell» → wybór «$250 Programator odszraniania» → wybór «$150 Zestaw nakrętek i śrub» → wybór «$500 Wentylator skraplacza» → wybór «$225 Ślizgi bębna» → Sell Junk = 0.
 
-**1Hero:** /fail  
-
-**1Hero:** Nie mam czegoś takiego.  
+**Mox:** /fail  
+**Mox:** Nie mam czegoś takiego.  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → wybór «$500 Mocowanie uchwytu» → wybór «Sell» → wybór «$250 Programator odszraniania» → wybór «$150 Zestaw nakrętek i śrub» → wybór «$500 Wentylator skraplacza» → wybór «$225 Ślizgi bębna» → wybór «$625 Koło pasowe silnika» → Sell Junk = 0.
 
-**1Hero:** /fail  
-
-**1Hero:** Nie mam czegoś takiego.  
+**Mox:** /fail  
+**Mox:** Nie mam czegoś takiego.  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → wybór «$500 Mocowanie uchwytu» → wybór «Sell» → wybór «$250 Programator odszraniania» → wybór «$150 Zestaw nakrętek i śrub» → wybór «$500 Wentylator skraplacza» → wybór «$225 Ślizgi bębna» → wybór «$625 Koło pasowe silnika» → wybór «$750 Koło dmuchawy» → Sell Junk = 0.
 
-**1Hero:** /fail  
-
-**1Hero:** Nie mam czegoś takiego.  
+**Mox:** /fail  
+**Mox:** Nie mam czegoś takiego.  
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → wybór «$500 Mocowanie uchwytu» → wybór «Sell» → wybór «$250 Programator odszraniania» → wybór «$150 Zestaw nakrętek i śrub» → wybór «$500 Wentylator skraplacza» → wybór «$225 Ślizgi bębna» → wybór «$625 Koło pasowe silnika».
 
@@ -103,10 +97,7 @@
 
 > **Ścieżka warunkowa:** wybór «Kup» → wybór «$1000 Programator odszraniania» → wybór «$600 Zestaw nakrętek i śrub» → wybór «$2000 Wentylator skraplacza» → wybór «$900 Ślizgi bębna» → wybór «$2500 Koło pasowe silnika» → wybór «$500 Mocowanie uchwytu» → wybór «Sell» → wybór «$250 Programator odszraniania» → wybór «$150 Zestaw nakrętek i śrub» → wybór «$500 Wentylator skraplacza» → wybór «$225 Ślizgi bębna» → wybór «$625 Koło pasowe silnika» → wybór «$175 Mocowanie uchwytu» → Sell Junk = 0.
 
-**1Hero:** /fail  
-
-**1Hero:** Nie mam czegoś takiego.  
-
+**Mox:** /fail  
+**Mox:** Nie mam czegoś takiego.  
 
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:58d1f51ca28b66aca522, tgo:custom_dialogue:b7875f90e95e19ab69a6, tgo:custom_dialogue:65ffa864e3259bda18f1, tgo:custom_dialogue:32df9bcda2c2e57a683d, tgo:custom_dialogue:2f29d91967ce8f2e2bbf, tgo:custom_dialogue:fa122aaf62c64075f98c, tgo:custom_dialogue:572d2a11b99913f6ad35, tgo:custom_dialogue:64014cf2c4b1f5f9a617</sub>
-

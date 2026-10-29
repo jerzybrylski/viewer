@@ -172,6 +172,4 @@
 
 **Brian:** O tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:aa42c71c81c64756c7a5, tgo:custom_dialogue:a8ab3c2394650750c859, tgo:custom_dialogue:d93c9bdf92ef6a21d381, tgo:custom_dialogue:54ec8f6cda907f3f56ee, tgo:custom_dialogue:84a7ab82b754a8e4ddb0, tgo:custom_dialogue:ba7f2aaaefa616578b0b, tgo:custom_dialogue:e5e492d9623c84275ee3, tgo:custom_dialogue:708a3730433a94025412</sub>
-

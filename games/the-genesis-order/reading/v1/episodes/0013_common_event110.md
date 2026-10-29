@@ -123,7 +123,6 @@
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 
 **Duncan:** Co?!  
-
 **Duncan:** Nie wygląda to dobrze.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 2.
@@ -154,6 +153,4 @@
 
 **Duncan:** O tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:41a4ba3a293f0f2855ee, tgo:custom_dialogue:aa5042f4310a8bd8d8a9, tgo:custom_dialogue:98a53b8a0ac56f30157a, tgo:custom_dialogue:926ef73aa798cdf5204b, tgo:custom_dialogue:45f78c7268912559448e, tgo:custom_dialogue:92a4f5c000beeb5a85a8, tgo:custom_dialogue:791a13b46224e922d776, tgo:custom_dialogue:e797f633bad9b0700e03</sub>
-

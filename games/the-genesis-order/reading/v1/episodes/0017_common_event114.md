@@ -204,6 +204,4 @@
 
 **Judy:** Tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:0e2dbf52c3ec7a830046, tgo:custom_dialogue:2b85e2ca7c34e536eaf2, tgo:custom_dialogue:f26baec9ae29dcb66a97, tgo:custom_dialogue:0fb3fda9076fb589cf05, tgo:custom_dialogue:571c085f6e1def29e862, tgo:custom_dialogue:19360508c2adeac69f36, tgo:custom_dialogue:500b2051a21d28935b5d, tgo:custom_dialogue:40f6c27552f771633c4b</sub>
-

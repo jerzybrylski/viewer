@@ -1,0 +1,350 @@
+{
+  "schema": "tgo-declension-r09-report-v1",
+  "decision": "R-09 — ujednolicenie odmiany imion na -a (decyzja właściciela 2026-10-29)",
+  "mode": "apply",
+  "name_occurrences": 1011,
+  "changed_occurrences": 383,
+  "changed_rows": 380,
+  "changed_files": 148,
+  "by_rule": {
+    "genitive_governor": 18,
+    "vocative_comma_address": 247,
+    "vocative_leading_address": 29,
+    "vocative_whole_utterance": 89
+  },
+  "by_form": {
+    "Alia->Alio": 10,
+    "Andrea->Andreo": 56,
+    "Arianna->Arianno": 23,
+    "Diana->Diano": 9,
+    "Ella->Ello": 103,
+    "Erica->Eriko": 57,
+    "Melissa->Melisso": 60,
+    "Tasha->Tasho": 45,
+    "Toma->Tomo": 2,
+    "Toma->Tomy": 18
+  },
+  "review_pending_occurrences": 628,
+  "sample_changes": [
+    {
+      "id": "tgo:custom_dialogue:fbd49d1dc84d22ae4b87",
+      "name": "Erica",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Dzięki za pomoc, Erica.",
+      "after": "Dzięki za pomoc, Eriko."
+    },
+    {
+      "id": "tgo:custom_dialogue:178195f323d1c134c578",
+      "name": "Erica",
+      "case": "voc",
+      "rule": "vocative_whole_utterance",
+      "before": "Erica?",
+      "after": "Eriko?"
+    },
+    {
+      "id": "tgo:custom_dialogue:aecdaa42d9a77cbc443a",
+      "name": "Tasha",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Cholera, Tasha. Nie umiesz trzymać języka za zębami.",
+      "after": "Cholera, Tasho. Nie umiesz trzymać języka za zębami."
+    },
+    {
+      "id": "tgo:custom_dialogue:974f3155d5c0dd630a18",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_whole_utterance",
+      "before": "Ella?",
+      "after": "Ello?"
+    },
+    {
+      "id": "tgo:custom_dialogue:e8faa0c6510a4897cb48",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Cholera, Ella! Ale mocno zaciskasz się na moim kutasie!",
+      "after": "Cholera, Ello! Ale mocno zaciskasz się na moim kutasie!"
+    },
+    {
+      "id": "tgo:custom_dialogue:daa714a02e8ee25d2398",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Zaraz dojdę, Ella!",
+      "after": "Zaraz dojdę, Ello!"
+    },
+    {
+      "id": "tgo:custom_dialogue:6e6a53a43238ce232c96",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Jezu, Ella. Musisz to tak ujmować?",
+      "after": "Jezu, Ello. Musisz to tak ujmować?"
+    },
+    {
+      "id": "tgo:custom_dialogue:3629e3d06be0177e11ae",
+      "name": "Toma",
+      "case": "gen",
+      "rule": "genitive_governor",
+      "before": "1Hero! Jeśli mówisz prawdę, być może znalazłeś fragment Toma Leolo.",
+      "after": "1Hero! Jeśli mówisz prawdę, być może znalazłeś fragment Tomy Leolo."
+    },
+    {
+      "id": "tgo:custom_dialogue:e4a09342253825a596e6",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_whole_utterance",
+      "before": "Ella!",
+      "after": "Ello!"
+    },
+    {
+      "id": "tgo:custom_dialogue:ce349295a584519f9c9c",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_leading_address",
+      "before": "Ella, co ty wyprawiasz?! Larry jest tuż obok. Może nas zobaczyć!",
+      "after": "Ello, co ty wyprawiasz?! Larry jest tuż obok. Może nas zobaczyć!"
+    },
+    {
+      "id": "tgo:custom_dialogue:953383a22d6cc25cef22",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_leading_address",
+      "before": "Ella, Larry patrzy. Możemy wpaść.",
+      "after": "Ello, Larry patrzy. Możemy wpaść."
+    },
+    {
+      "id": "tgo:custom_dialogue:a43c5bd0a3f6ab44f83d",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Hej, Ella, co się dzieje? Wyglądasz, jakbyś z czymś walczyła.",
+      "after": "Hej, Ello, co się dzieje? Wyglądasz, jakbyś z czymś walczyła."
+    },
+    {
+      "id": "tgo:custom_dialogue:692a39edfdaaaba7bf42",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_leading_address",
+      "before": "Ella, zaraz dojdę. Czas go wyjąć…",
+      "after": "Ello, zaraz dojdę. Czas go wyjąć…"
+    },
+    {
+      "id": "tgo:custom_dialogue:2d22ff3598408ab6c6a3",
+      "name": "Erica",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Co o tym myślisz, Erica? Cieszysz się, że zatrzasnęłaś się poza mieszkaniem?",
+      "after": "Co o tym myślisz, Eriko? Cieszysz się, że zatrzasnęłaś się poza mieszkaniem?"
+    },
+    {
+      "id": "tgo:custom_dialogue:113c8bb21cb291aa934f",
+      "name": "Erica",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Jakie to uczucie, Erica?",
+      "after": "Jakie to uczucie, Eriko?"
+    },
+    {
+      "id": "tgo:custom_dialogue:7a78a7d7d1d3feea3efb",
+      "name": "Erica",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Co ty na to, Erica? Mogę porządnie wyrżnąć jej tyłeczek?",
+      "after": "Co ty na to, Eriko? Mogę porządnie wyrżnąć jej tyłeczek?"
+    },
+    {
+      "id": "tgo:custom_dialogue:5cb23fe98071318b74c2",
+      "name": "Erica",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Chcę, żebyś pieprzyła moją cipkę, Erica…",
+      "after": "Chcę, żebyś pieprzyła moją cipkę, Eriko…"
+    },
+    {
+      "id": "tgo:custom_dialogue:2c1c21b2b68dab28ad1b",
+      "name": "Erica",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Kurwa! Dawaj, Erica! Włóż go do mojej cipki!",
+      "after": "Kurwa! Dawaj, Eriko! Włóż go do mojej cipki!"
+    },
+    {
+      "id": "tgo:custom_dialogue:4d141251152d8f40a083",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Bierz, Ella! Przyjmij go w tyłek!",
+      "after": "Bierz, Ello! Przyjmij go w tyłek!"
+    },
+    {
+      "id": "tgo:custom_dialogue:919ac71a77ac80c376b9",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Chyba źle to sobie wyobrażasz, Ella.",
+      "after": "Chyba źle to sobie wyobrażasz, Ello."
+    },
+    {
+      "id": "tgo:custom_dialogue:530946640c270ee5a3c1",
+      "name": "Andrea",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Eee… Jasne, Andrea.",
+      "after": "Eee… Jasne, Andreo."
+    },
+    {
+      "id": "tgo:custom_dialogue:b3e4162985c119b02de4",
+      "name": "Andrea",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Jestem po twojej stronie, Andrea. Mam wszystko, czego trzeba, żeby coś zmienić. Po prostu to wiem.",
+      "after": "Jestem po twojej stronie, Andreo. Mam wszystko, czego trzeba, żeby coś zmienić. Po prostu to wiem."
+    },
+    {
+      "id": "tgo:custom_dialogue:707026ddc66f288692eb",
+      "name": "Melissa",
+      "case": "voc",
+      "rule": "vocative_whole_utterance",
+      "before": "Melissa?",
+      "after": "Melisso?"
+    },
+    {
+      "id": "tgo:custom_dialogue:ede8dcbdf1f71f6ee496",
+      "name": "Melissa",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Boże, Melissa! Tylko się droczyłem. To boli!",
+      "after": "Boże, Melisso! Tylko się droczyłem. To boli!"
+    },
+    {
+      "id": "tgo:custom_dialogue:889a43d77b9baa93ee48",
+      "name": "Melissa",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Cholera, Melissa. Ale z ciebie dzikuska, co?",
+      "after": "Cholera, Melisso. Ale z ciebie dzikuska, co?"
+    },
+    {
+      "id": "tgo:custom_dialogue:10b3ff9bf4ae558a5532",
+      "name": "Melissa",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Przyłapałem cię, Melissa. Nie zaprzeczysz swoim uczuciom.",
+      "after": "Przyłapałem cię, Melisso. Nie zaprzeczysz swoim uczuciom."
+    },
+    {
+      "id": "tgo:custom_dialogue:40c05b2348415403bb3f",
+      "name": "Andrea",
+      "case": "voc",
+      "rule": "vocative_whole_utterance",
+      "before": "Andrea!",
+      "after": "Andreo!"
+    },
+    {
+      "id": "tgo:custom_dialogue:c6e06622412a8f54461e",
+      "name": "Andrea",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Cholera, Andrea. Są świetne.",
+      "after": "Cholera, Andreo. Są świetne."
+    },
+    {
+      "id": "tgo:custom_dialogue:d83d58c7434b665108a5",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Chyba wiem, czego ci trzeba, Ella.",
+      "after": "Chyba wiem, czego ci trzeba, Ello."
+    },
+    {
+      "id": "tgo:custom_dialogue:f40cea1b2bd2c375730f",
+      "name": "Erica",
+      "case": "voc",
+      "rule": "vocative_whole_utterance",
+      "before": "Erica!",
+      "after": "Eriko!"
+    },
+    {
+      "id": "tgo:custom_dialogue:03f5581661304d97194c",
+      "name": "Erica",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Co robisz, Erica? Połknij.",
+      "after": "Co robisz, Eriko? Połknij."
+    },
+    {
+      "id": "tgo:custom_dialogue:9a3eddf1a1d41ca7fa25",
+      "name": "Erica",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Czyli jesteś stąd, Erica?",
+      "after": "Czyli jesteś stąd, Eriko?"
+    },
+    {
+      "id": "tgo:custom_dialogue:55c8b8c7adc3de9256c3",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Wielkie dzięki, Ella. Ten pomysł z recenzją naprawdę się sprawdził.",
+      "after": "Wielkie dzięki, Ello. Ten pomysł z recenzją naprawdę się sprawdził."
+    },
+    {
+      "id": "tgo:custom_dialogue:4a5d9aeca9929de4dbe8",
+      "name": "Ella",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Tracisz rozum, Ella?",
+      "after": "Tracisz rozum, Ello?"
+    },
+    {
+      "id": "tgo:custom_dialogue:b599932a842f81f6c4d4",
+      "name": "Melissa",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Daj spokój, Melissa. Przecież widać, że mam rację.",
+      "after": "Daj spokój, Melisso. Przecież widać, że mam rację."
+    },
+    {
+      "id": "tgo:custom_dialogue:d499693d2cae54a7ec84",
+      "name": "Melissa",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Napatrz się, Melissa. Właśnie tego chciałaś, prawda?",
+      "after": "Napatrz się, Melisso. Właśnie tego chciałaś, prawda?"
+    },
+    {
+      "id": "tgo:custom_dialogue:096d72e02a344cc799a9",
+      "name": "Melissa",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Cholera, Melissa!",
+      "after": "Cholera, Melisso!"
+    },
+    {
+      "id": "tgo:custom_dialogue:b4bdc7d09788f96721ca",
+      "name": "Andrea",
+      "case": "voc",
+      "rule": "vocative_whole_utterance",
+      "before": "Andrea!?",
+      "after": "Andreo!?"
+    },
+    {
+      "id": "tgo:custom_dialogue:9108dd08734a8e3dd476",
+      "name": "Andrea",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "Mam do tego smykałkę, Andrea… Ale moim obowiązkiem jest chronić ludzi… nie komisariat.",
+      "after": "Mam do tego smykałkę, Andreo… Ale moim obowiązkiem jest chronić ludzi… nie komisariat."
+    },
+    {
+      "id": "tgo:custom_dialogue:c5b96f94bbfb899764e8",
+      "name": "Andrea",
+      "case": "voc",
+      "rule": "vocative_comma_address",
+      "before": "O cholera, Andrea!...",
+      "after": "O cholera, Andreo!..."
+    }
+  ]
+}

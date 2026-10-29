@@ -49,5 +49,38 @@ class TranslationCoverageTests(unittest.TestCase):
         self.assertIsNone(classify_untranslated(record("native_message", "A sentence not yet translated.")))
 
 
+class OwnerDecisionTests(unittest.TestCase):
+    """Decyzje właściciela z 2026-10-29 muszą być widoczne w bramce pokrycia.
+
+    Każdy wyjątek jest wąski: dotyczy konkretnej kategorii i konkretnej treści.
+    Szeroki wyjątek zamieniłby bramkę w fikcję, więc testy pilnują też granic.
+    """
+
+    def test_english_game_title_is_preserved_by_decision_r01(self) -> None:
+        self.assertEqual(
+            classify_untranslated(record("system.gameTitle", "The Genesis Order")),
+            ("source_preserved", "owner_decision_R01_brand_title_kept_in_english"),
+        )
+
+    def test_test_map_placeholders_are_preserved_by_decision_r07(self) -> None:
+        row = record("native_message", "Text goes here", {"map_name": "TEST MAP", "event_id": 1})
+        self.assertEqual(classify_untranslated(row),
+                         ("source_preserved", "owner_decision_R07_test_map_placeholder_kept_in_english"))
+        # Ten sam wypełniacz poza mapą testową to nadal brak tłumaczenia.
+        self.assertIsNone(classify_untranslated(
+            record("native_message", "Text goes here", {"map_name": "Mapa świata"})))
+
+    def test_phone_text_literal_is_preserved_by_decision_r08(self) -> None:
+        self.assertEqual(
+            classify_untranslated(record("phone_text", "TEXT")),
+            ("source_preserved", "owner_decision_R08_test_map_stub_kept_in_english"),
+        )
+        self.assertIsNone(classify_untranslated(record("phone_text", "Nowa wiadomość")))
+
+    def test_owner_exceptions_do_not_leak_to_other_categories(self) -> None:
+        self.assertIsNone(classify_untranslated(record("native_message", "The Genesis Order")))
+        self.assertIsNone(classify_untranslated(record("custom_dialogue", "TEXT")))
+
+
 if __name__ == "__main__":
     unittest.main()

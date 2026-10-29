@@ -196,6 +196,4 @@
 
 **Erica:** O tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:27b3a1d15bf9d013375d, tgo:custom_dialogue:d67b8cb3f57f5ca7bc74, tgo:custom_dialogue:761c20642ad22b086142, tgo:custom_dialogue:05043f7746a7e389a0f7, tgo:custom_dialogue:d5673ca89c7b02c23cfa, tgo:custom_dialogue:57c4ccb0a8ef2a105d2e, tgo:custom_dialogue:852a44d6f120f069ba27, tgo:custom_dialogue:7647ead1ad4008fbc48d</sub>
-

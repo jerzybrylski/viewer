@@ -224,6 +224,4 @@
 
 **Chloe:** O tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:92164f81e3e4d1fb165a, tgo:custom_dialogue:71d94e8a18ef18be0463, tgo:custom_dialogue:7af84626b39df2a4c26d, tgo:custom_dialogue:53b5e0d48ab530fda7b2, tgo:custom_dialogue:c072ef1d47b64abf4a57, tgo:custom_dialogue:6016498718f5171b2483, tgo:custom_dialogue:ab3a1119507643329d27, tgo:custom_dialogue:16be2c9aacaf235473a8</sub>
-

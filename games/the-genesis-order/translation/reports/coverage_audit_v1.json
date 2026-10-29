@@ -99,6 +99,32 @@
         "source_text": "\\i[2]1"
       }
     ],
+    "owner_decision_R01_brand_title_kept_in_english": [
+      {
+        "id": "tgo:system.gameTitle:5546cb9d6b2245f37473",
+        "source_text": "The Genesis Order"
+      }
+    ],
+    "owner_decision_R07_test_map_placeholder_kept_in_english": [
+      {
+        "id": "tgo:native_message_unclassified:7804682fa0c934ab71e3",
+        "source_text": "Text goes here<br>Text goes here<br>Text goes here<br>"
+      },
+      {
+        "id": "tgo:native_message_unclassified:334759d634ab70371463",
+        "source_text": "Text goes here<br>Text goes here<br>Text goes here<br>"
+      },
+      {
+        "id": "tgo:native_message_unclassified:75e22e7b5c41b5155cd0",
+        "source_text": "Text goes here<br>Text goes here<br>Text goes here<br>"
+      }
+    ],
+    "owner_decision_R08_test_map_stub_kept_in_english": [
+      {
+        "id": "tgo:phone_text:9ab8b3ea1e0d1e213f0d",
+        "source_text": "TEXT"
+      }
+    ],
     "phone_contact_name": [
       {
         "id": "tgo:phone_contact_ui:ed360055b018450dcc38",
@@ -248,10 +274,11 @@
     "database.items.name": 2,
     "image_caption": 68,
     "item_found_label": 1,
-    "native_message": 329,
+    "native_message": 336,
     "phone_contact_ui": 26,
-    "phone_text": 3,
+    "phone_text": 4,
     "system.currencyUnit": 1,
+    "system.gameTitle": 1,
     "ui.variable_value": 27,
     "ui_choice": 13
   },
@@ -264,6 +291,9 @@
     "displayed_amount": 1,
     "explicit_keep_source_value_policy": 131,
     "numeric_or_runtime_choice_value": 486,
+    "owner_decision_R01_brand_title_kept_in_english": 1,
+    "owner_decision_R07_test_map_placeholder_kept_in_english": 7,
+    "owner_decision_R08_test_map_stub_kept_in_english": 1,
     "phone_contact_name": 2,
     "phone_renderer_control": 3,
     "phone_renderer_control_or_year": 24,
@@ -276,9 +306,9 @@
     "symbol_amount_or_character_name_variable": 27,
     "technical_acronym": 1
   },
-  "source_preserved_nonlocalized_record_count": 5172,
+  "source_preserved_nonlocalized_record_count": 5181,
   "status": "complete",
-  "translated_record_count": 39926,
+  "translated_record_count": 39917,
   "unresolved_records": [],
   "unresolved_translatable_record_count": 0
 }

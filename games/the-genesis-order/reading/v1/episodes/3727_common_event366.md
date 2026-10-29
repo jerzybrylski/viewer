@@ -1,115 +1,60 @@
 ## Common Event 366 — SCN - Nellie Melissa Sex
 
-**1Hero:** Łał.  
-
+**Mox:** Łał.  
 **Kobieta-popleczniczka:** Właśnie tak. Zrób mi przedstawienie…  
-
 **Kobieta-popleczniczka:** I postaraj się.  
-
 **Melissa:** Hej! Co robisz?  
-
 **Kobieta-popleczniczka:** O tak! Ssij te cycki!  
-
 **Melissa:** O Boże.  
-
 **Kobieta-popleczniczka:** Źle cię oceniłam, Nellie. Myślałam, że próbujesz odbić mi faceta, Duncana…  
-
 **Kobieta-popleczniczka:** Chyba podoba mi się ta twoja strona.  
-
 **Melissa:** Uwierzyła. Możesz już przestać.  
-
 **Nellie:** Jest już mokra, Phyllis.  
-
 **Melissa:** Cholera.  
-
 **Kobieta-popleczniczka:** Uuu! Dalej, Nellie! Bierz ją!  
-
 **Melissa:** Naprawdę musimy posuwać się tak daleko?  
-
 **Nellie:** Zaufaj mi… Daj się ponieść.  
-
 **Kobieta-popleczniczka:** Nie jestem fanką minety, ale nawet mnie to podnieca.  
-
-**1Hero:** Fuj.  
-
+**Mox:** Fuj.  
 **Melissa:** O kurwa.  
-
 **Nellie:** Jesteś mokra, pani detektyw.  
-
 **Melissa:** Naprawdę musisz tak grać? Ona jest pijana.  
-
 **Nellie:** Przestań marudzić.  
-
 **Melissa:** O tak!  
-
-**1Hero:** Cholera. Wciąga się w to.  
-
+**Mox:** Cholera. Wciąga się w to.  
 **Kobieta-popleczniczka:** Niezłe ruchy, Nel!  
-
 **Melissa:** Chyba sobie żartujesz.  
-
 **Melissa:** O cholera. O cholera!  
-
-**1Hero:** O rany! Ale to podniecające!  
-
+**Mox:** O rany! Ale to podniecające!  
 **Kobieta-popleczniczka:** Tak! Dawaj!  
-
-**1Hero:** Cholera. Odwracają jej uwagę… Powinienem coś zrobić.  
-
+**Mox:** Cholera. Odwracają jej uwagę… Powinienem coś zrobić.  
 **Melissa:** Kurwa!  
-
 **Nellie:** O tak!  
-
-**1Hero:** Cholera!... Kurde… Muszę się skupić…  
-
+**Mox:** Cholera!... Kurde… Muszę się skupić…  
 **Melissa:** Naprawdę wiesz, co robisz.  
-
 **Nellie:** Nie pierwszy raz to robię.  
-
-**1Hero:** Mogę ogłuszyć tę brzydką kobietę… Celny cios w szyję powinien wystarczyć.  
-
+**Mox:** Mogę ogłuszyć tę brzydką kobietę… Celny cios w szyję powinien wystarczyć.  
 **Nellie:** Dojdź, pani detektyw. Niech to zobaczy.  
-
 **Melissa:** Kurwa!  
-
-**1Hero:** Cholera… Czy ona zaraz dojdzie?  
-
+**Mox:** Cholera… Czy ona zaraz dojdzie?  
 **Melissa:** Jeszcze… Troszeczkę.  
-
 **Nellie:** O tak!  
-
 **Nellie:** Podoba ci się… Vanesso?  
-
 **Melissa:** Uwierzyła. Puść mnie już.  
-
 **Nellie:** To jeszcze nie koniec.  
-
 **Melissa:** Mmmmm!  
-
 **Nellie:** O Boże!  
-
-**1Hero:** To moja szansa…  
-
+**Mox:** To moja szansa…  
 **Nellie:** Kurwa!  
-
 **Kobieta-popleczniczka:** Łał!  
-
-**1Hero:** … Chcę jeszcze chwilę popatrzeć.  
-
+**Mox:** … Chcę jeszcze chwilę popatrzeć.  
 **Nellie:** Jestem coraz bliżej!  
-
 **Kobieta-popleczniczka:** Dawaj! Haha!  
-
 **Melissa:** Mmm…  
-
-**1Hero:** Hehe… Ale dają czadu.  
-
+**Mox:** Hehe… Ale dają czadu.  
 **Nellie:** Zaraz dojdę!  
-
-**1Hero:** Cholera. Muszę się skupić.  
-
+**Mox:** Cholera. Muszę się skupić.  
 **Nellie:** Wygląda na to, że dziś mam szczęście.  
-
 **Melissa:** Mmmmm!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -120,6 +65,4 @@
 - [ikona 2]2
 - [ikona 2]3
 
-
 <sub>Źródłowe ID (przykłady): tgo:choice_unclassified:bb816873596fa15af8b3, tgo:choice_unclassified:9303174f64bd43799720, tgo:choice_unclassified:df90fc53541084678e8e, tgo:choice_unclassified:552ed53f413853c7ab33, tgo:custom_dialogue:469f3b4390467a99c52b, tgo:custom_dialogue:0b0e5f47c6fedb44da71, tgo:custom_dialogue:6783158af1a61f51eff3, tgo:custom_dialogue:bbe4a85b111d2a94f2bf</sub>
-

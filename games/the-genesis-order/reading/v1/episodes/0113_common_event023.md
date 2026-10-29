@@ -1812,7 +1812,7 @@
 
 > **Ścieżka warunkowa:** Brian left for mansion: włączony.
 
-*〔Wskazówka: Ojciec Solomon musi wiedzieć, że Madalyn ma ostatni fragment Toma.〕*
+*〔Wskazówka: Ojciec Solomon musi wiedzieć, że Madalyn ma ostatni fragment Tomy.〕*
 
 > **Ścieżka warunkowa:** Opened West secret door: włączony.
 
@@ -2566,8 +2566,7 @@
 
 > **Ścieżka warunkowa:** Booty Call - total ≥ 12 → Outfits - total ≥ 12 → Extras - total ≥ 30 → Photo - total ≥ 31 → Hannah Pages ≥ 3 → Erica Pages ≥ 4 → Ella Pages ≥ 4 → Carol Pages ≥ 4 → Lillian Pages ≥ 4 → Judy Pages ≥ 4 → Nellie Pages ≥ 3 → Kimberly Pages ≥ 3 → Melissa Pages ≥ 3 → Andrea Pages ≥ 3 → Chloe Pages ≥ 3 → Heather Pages ≥ 3 → End Chapter 40: wyłączony → Beat Game: wyłączony.
 
-**Arianna:** 1Hero, ukończyłeś swoją podróż, ale zostały ci jeszcze niedokończone sprawy. Jeśli potrzebujesz pomocy, porozmawiaj z nieznajomymi.  
-
+**Arianna:** Mox, ukończyłeś swoją podróż, ale zostały ci jeszcze niedokończone sprawy. Jeśli potrzebujesz pomocy, porozmawiaj z nieznajomymi.  
 **Arianna:** Ukończyłeś ten rozdział! Ale bez obaw — nowe treści pojawią się już za kilka tygodni.  
 
 > **Ścieżka warunkowa:** Booty Call - total ≥ 12 → Outfits - total ≥ 12 → Extras - total ≥ 30 → Photo - total ≥ 31 → Hannah Pages ≥ 3 → Erica Pages ≥ 4 → Ella Pages ≥ 4 → Carol Pages ≥ 4 → Lillian Pages ≥ 4 → Judy Pages ≥ 4 → Nellie Pages ≥ 3 → Kimberly Pages ≥ 3 → Melissa Pages ≥ 3 → Andrea Pages ≥ 3 → Chloe Pages ≥ 3 → Heather Pages ≥ 3 → End Chapter 40: wyłączony.
@@ -2576,8 +2575,7 @@
 
 > **Ścieżka warunkowa:** End Chapter 40: wyłączony → Beat Game: wyłączony.
 
-**Arianna:** 1Hero, ukończyłeś swoją podróż, ale zostały ci jeszcze niedokończone sprawy. Jeśli potrzebujesz pomocy, porozmawiaj z nieznajomymi.  
-
+**Arianna:** Mox, ukończyłeś swoją podróż, ale zostały ci jeszcze niedokończone sprawy. Jeśli potrzebujesz pomocy, porozmawiaj z nieznajomymi.  
 **Arianna:** Ukończyłeś ten rozdział, ale ominęło cię kilka sekretów. Nie bój się rozmawiać z nieznajomymi.  
 
 > **Ścieżka warunkowa:** End Chapter 40: wyłączony.
@@ -2585,11 +2583,7 @@
 *〔Wskazówka: Ukończyłeś ten rozdział, ale ominęło cię kilka sekretów. Nie bój się rozmawiać z nieznajomymi.〕*
 
 **Narrator / mówca nieustalony:** Chcesz podzielić się opinią? Odwiedź…  
-
 **Narrator / mówca nieustalony:** NLT-Media.com/share  
-
 **Narrator / mówca nieustalony:** Wesprzyj dalszy rozwój gry na Patreon.com/NLT  
 
-
 <sub>Źródłowe ID (przykłady): tgo:arianna_hint:ebde562d7471c9458e5d, tgo:arianna_hint:a94bb454fd44053923e3, tgo:arianna_hint:bf116618383528bb86bc, tgo:arianna_hint:35b85c17762b84e50730, tgo:arianna_hint:3872bc923b2cf851fa62, tgo:arianna_hint:a90b1de1ef5f9c982e77, tgo:arianna_hint:44e9979a424a4bf94a99, tgo:arianna_hint:93b29d50099ae4602c36</sub>
-

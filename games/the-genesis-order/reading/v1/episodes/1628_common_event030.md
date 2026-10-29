@@ -112,6 +112,4 @@
 
 **Narrator / mówca nieustalony:** Stwórz profil bonusowy Arianny, aby zobaczyć wersję nago.  
 
-
 <sub>Źródłowe ID (przykłady): tgo:native_message_unclassified:a55939974e5ccf2978c7, tgo:native_message_unclassified:02bf3352af50bdef951d, tgo:ui_choice:afbfb52911fe136329c4, tgo:ui_choice:0cf2d822e87fceea0985, tgo:ui_choice:79508aca512e9721216d, tgo:ui_choice:b7f02a9dc8dde1f989d6, tgo:ui_choice:2236baa13eaf8bcd89af, tgo:ui_choice:4ec37387b0569c0ce58d</sub>
-

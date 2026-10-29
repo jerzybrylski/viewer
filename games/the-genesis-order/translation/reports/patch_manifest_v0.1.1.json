@@ -24,17 +24,18 @@
     "database.items.name": 2,
     "image_caption": 68,
     "item_found_label": 1,
-    "native_message": 329,
+    "native_message": 336,
     "phone_contact_ui": 26,
-    "phone_text": 3,
+    "phone_text": 4,
     "system.currencyUnit": 1,
+    "system.gameTitle": 1,
     "ui.variable_value": 27,
     "ui_choice": 13
   },
-  "source_preserved_nonlocalized_record_count": 5172,
+  "source_preserved_nonlocalized_record_count": 5181,
   "title": "The Genesis Order — Polish translation proof of concept",
-  "translated_record_count": 39926,
-  "translation_coverage_sha256": "a6ca33a13fde28cef45242e9e5d201b1bcbbdcbb9895a95f188f0b329e21f4b9",
+  "translated_record_count": 39917,
+  "translation_coverage_sha256": "61e953b7dab0a740c52460a9ff587fdeac534dbdfc36dee7f6347d735226ee99",
   "translation_coverage_status": "complete",
-  "translations_sha256": "e2898d6f33399779f3703831287488293f32ec0cec64a06acfb37c68d154311e"
+  "translations_sha256": "d90191df69ca4194b6d59071ce6a4a40a3dfa5ac52c5a5b20f5ff9b726a44458"
 }

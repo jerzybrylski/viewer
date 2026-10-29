@@ -192,6 +192,4 @@
 
 **Carol:** Tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:e5f39e38b06eeb43c76c, tgo:custom_dialogue:a735f7bbdf7c0d34a816, tgo:custom_dialogue:4d395336b65ec71efcfe, tgo:custom_dialogue:0fe8b02cbea73af7f7b9, tgo:custom_dialogue:0fe7bc688d8eed43d901, tgo:custom_dialogue:0a86c712ceaa2bc395ed, tgo:custom_dialogue:bc821e1abde8a0481b22, tgo:custom_dialogue:57986591e595f596b250</sub>
-

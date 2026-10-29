@@ -180,6 +180,4 @@
 
 **Heather:** O tak!  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:21d3219572c9c6f95f5f, tgo:custom_dialogue:785c4cd4c00fdbc934c6, tgo:custom_dialogue:844b36d39e6f10eae665, tgo:custom_dialogue:8b34eadb45579d9b4e0b, tgo:custom_dialogue:cfa28186f98bbf17a0c5, tgo:custom_dialogue:fbd5601e258a5b60a8aa, tgo:custom_dialogue:064c53643dc0e72db463, tgo:custom_dialogue:61c9d804a2d8231cf5a5</sub>
-

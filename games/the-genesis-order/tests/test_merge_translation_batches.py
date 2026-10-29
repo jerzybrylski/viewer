@@ -1,3 +1,4 @@
+import hashlib
 import json
 import sys
 import tempfile
@@ -94,9 +95,37 @@ class MergeTests(unittest.TestCase):
                 REPO_ROOT / 'google_drive',
             )
         self.assertEqual(report['records'], 45_229)
-        self.assertEqual(report['with_translation'], 39_926)
+        self.assertEqual(report['with_translation'], 39_917)
         self.assertEqual(report['protected'], 131)
-        self.assertEqual(report['pending_translatable'], 5_172)
+        self.assertEqual(report['pending_translatable'], 5_181)
+
+    def test_patch_payload_is_reproducible_from_tracked_drafts(self):
+        """ZIP patcha musi dać się odtworzyć wyłącznie z plików w Git.
+
+        Liczymy payload dokładnie tak, jak robi to builder (same przetłumaczone
+        wiersze, ten sam porządek i serializacja) i porównujemy z hashem
+        zapisanym w manifeście opublikowanej paczki.
+        """
+        manifest = json.loads(
+            (TRANSLATION / 'reports' / 'patch_manifest_v0.1.1.json').read_text(encoding='utf-8'))
+        batches = sorted((TRANSLATION / 'drafts').rglob('*.jsonl'))
+        with tempfile.TemporaryDirectory(dir=TRANSLATION) as temp_dir:
+            merged = Path(temp_dir) / 'merged.jsonl'
+            merger.merge_batches(TRANSLATION / 'export-v1', batches, merged,
+                                 REPO_ROOT / 'google_drive')
+            digest = hashlib.sha256()
+            rows = 0
+            with merged.open(encoding='utf-8') as stream:
+                for line in stream:
+                    if not line.strip():
+                        continue
+                    row = json.loads(line)
+                    if not (row.get('translation') or '').strip():
+                        continue
+                    digest.update((json.dumps(row, ensure_ascii=False, sort_keys=True) + '\n').encode('utf-8'))
+                    rows += 1
+        self.assertEqual(rows, manifest['translated_record_count'])
+        self.assertEqual(digest.hexdigest(), manifest['translations_sha256'])
 
 
 if __name__ == '__main__':

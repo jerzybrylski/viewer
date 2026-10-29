@@ -96,6 +96,4 @@
 
 **Postać niezależna:** Psychopatom też mogą przydać się witaminy.  
 
-
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:6516dc2c00b542cef759, tgo:custom_dialogue:d2ec4087bbd861f63c68, tgo:custom_dialogue:8a75937648df1482756a, tgo:custom_dialogue:3b05028e4edabeb7a261, tgo:custom_dialogue:88d93f28d5131e184954, tgo:custom_dialogue:c31c6499fe7466b08790, tgo:custom_dialogue:214de861fea717967843, tgo:custom_dialogue:43f2484ff86748062168</sub>
-
