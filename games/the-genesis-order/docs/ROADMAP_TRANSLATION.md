@@ -7,15 +7,15 @@
 ## Kanoniczny przepływ
 
 ```text
-oryginalne assety (lokalnie/google_drive, ignorowane)
+źródła tekstowe (Git); binarne assety gry (poza Git)
   → statyczne skanery i jawne decyzje
   → games/the-genesis-order/translation/export-v1 (JSONL, Git)
-  → Markdown context (prywatny) + source ZIP v1 (Git + Google Drive)
+  → Markdown context (Git) + source ZIP v1 (Git + Google Drive)
   → tłumaczenie po ID → walidacja JSONL
   → staging kopii gry → testy właściciela na Windows
 ```
 
-Repozytorium zawiera narzędzia, dokumentację, testy, jawnie zatwierdzone teksty JSON i przygotowany source ZIP v1. Oryginalne `www/data/`, `www/js/`, fonty, media, archiwum wejściowe i przetłumaczone stagingi pozostają poza Gitem.
+Repozytorium śledzi wszystkie narzędzia, tekstowe dane źródłowe i robocze tłumaczenia oraz source ZIP v1. Tylko binarne assety gry pozostają poza Git. Staging kopii gry nigdy nie nadpisuje oryginału.
 
 ## Bramki i stan
 
@@ -26,7 +26,7 @@ Repozytorium zawiera narzędzia, dokumentację, testy, jawnie zatwierdzone tekst
 | 3. Kanoniczny eksport | JSONL ze stabilnym ID, hashami, locatorami, kontekstem i tokenami | **45 229 rekordów; wszystkie kontrole pokrycia przeszły** |
 | 4. Round-trip | walidator i safe write-back do kopii; testy syntetyczne | **Gotowe statycznie**; `--check` weryfikuje 45 229 rekordów / 238 źródeł |
 | 5. Kontekst/pakiet źródłowy | JSONL, instrukcje, glossary/polityka, raport, manifest i Markdown źródłowy | **ZIP v1 wygenerowany i sprawdzony**: 45 229 rekordów / 497 dokumentów; archiwum śledzone w Git i wysyłane na Google Drive |
-| 6. Rozpoczęcie tłumaczenia | zatwierdzone zasady językowe, glosariusz, partie i kontrola terminologii | **W toku**; roboczy glosariusz i partie UI i wskazówek (227 niepustych pola) poza Gitem; dalsza redakcja i testy potrzebne |
+| 6. Rozpoczęcie tłumaczenia | zatwierdzone zasady językowe, glosariusz, partie i kontrola terminologii | **W toku**; roboczy glosariusz i partie UI i wskazówek (227 niepustych pól) w Git; dalsza redakcja i testy potrzebne |
 | 7. Import tłumaczenia | walidacja ID, tokenów, braków, nadmiarów i konfliktów | **Częściowo**: partie scalono po ID i sprawdzono względem eksportu i walidatorem rekordów; pełna weryfikacja źródeł wymaga ich lokalnego pobrania |
 | 8. Patcher Windows | wykrycie kopii/builda, backup, atomowy staging, raport/rollback, testy syntetyczne | **Nie rozpoczęto**; wymaga tłumaczenia i docelowego layoutu |
 | 9. Finalny patch / polska dystrybucja | przetłumaczony tekst i instalowalny patch | **Nie istnieją**; osobna bramka po tłumaczeniu/QA |
@@ -54,5 +54,5 @@ Szczegóły i ograniczenia: [`STATUS.md`](STATUS.md), [`COUNT_REPORT.md`](COUNT_
 4. Stabilne ID zależą od locatora; importer nie dopasowuje po samym tekście.
 5. Zachowywać formatowanie, escape’y i tokeny. Kwoty, markup i wartości będące operandami logiki mają jawne polityki ochrony.
 6. Oryginał nigdy nie jest nadpisywany. Write-back tworzy nowy staging w `google_drive/`.
-7. Oryginalne media i staging pozostają poza Gitem; śledzić source ZIP v1, który zawiera wyłącznie eksport i kontekst tekstowy, bez assetów.
+7. Binarne assety gry pozostają poza Gitem; śledzić wszystkie teksty i narzędzia oraz source ZIP v1.
 8. Czytanki zachowują wszystkie warianty i warunki; nie wymyślać jednej kanonicznej kolejności scen.

@@ -12,4 +12,4 @@
 - Z archiwum pobrano tylko `01001110.rpa` do ignorowanego `google_drive/`; plik launchera `.exe` nie był pobierany ani uruchamiany.
 - Pliki z RPA wyodrębniono do ignorowanego `google_drive/uwn/raw/` narzędziem `unrpa 2.3.0`; 23/23 `.rpyc` zdekompilowano `unrpyc 2.0.3` (commit `3ae8334`), bez błędów.
 - Analiza była statyczna. Nie uruchamiano gry, kodu gry ani zdekompilowanych skryptów.
-- Materiały wejściowe i wynikowe `.rpy` pozostają poza Git.
+- Materiały wejściowe i wynikowe `.rpy` były dotąd przechowywane lokalnie; tekstowe dane projektu powinny być śledzone w Git.

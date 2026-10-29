@@ -41,6 +41,16 @@ class MarkdownTranslationTests(unittest.TestCase):
     def tearDown(self):
         self.temp.cleanup()
 
+    def test_tracked_translation_output_and_export_protection(self):
+        with patch.object(markdown, "REPO_ROOT", self.root):
+            tracked = self.root / "games/the-genesis-order/translation"
+            self.assertEqual(markdown.checked_translation_output(tracked / "drafts/out.jsonl"),
+                             (tracked / "drafts/out.jsonl").resolve())
+            with self.assertRaisesRegex(ValueError, "canonical source export"):
+                markdown.checked_translation_output(tracked / "export-v1/changed.jsonl")
+            with self.assertRaisesRegex(ValueError, "translation workspace"):
+                markdown.checked_translation_output(self.root / "out.jsonl")
+
     def test_build_and_import_changes_only_translation_by_id(self):
         with patch.object(markdown, "REPO_ROOT", self.root):
             manifest = markdown.build_markdown(self.input, self.out)

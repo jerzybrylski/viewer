@@ -11,7 +11,7 @@ Wybrany projekt lokalizacyjny. Potwierdzono RPG Maker MV 1.6.1 + NW.js. Praca ob
 
 ## Dane i granice Gita
 
-W repozytorium znajdują się narzędzia, testy, dokumentacja, decyzje kuratorskie i jawnie zatwierdzony eksport tekstów JSON. Oryginalne assety (`www/data/`, `www/js/`, fonty, media, archiwum) są poza Gitem, pod ignorowanym `google_drive/the-genesis-order/`. Nie kopiować całych assetów ani roboczego Markdown draft (ok. 83 MB) do repo. Staging i ewentualne tłumaczenia pozostają poza Gitem.
+Repozytorium śledzi narzędzia, dokumentację, tekstowe dane źródłowe i wszystkie robocze tłumaczenia, w tym [`translation/drafts/`](translation/drafts/). Binarne assety gry są poza Git. Ignorowany `google_drive/` służy m.in. do tymczasowego bezpiecznego stagingu; nie zastępuje Git jako miejsca przechowywania pracy.
 
 ## Odtwarzanie
 
@@ -25,7 +25,7 @@ python3 games/the-genesis-order/tools/apply_translation.py --input games/the-gen
 python3 games/the-genesis-order/tools/build_translation_package.py
 ```
 
-Eksporter weryfikuje zatwierdzony JS JSONL z `google_drive/the-genesis-order/translation/export-v1/reviewed_js_ui.jsonl` i zapisuje kanoniczny eksport w repo. Markdown i staging powstają pod `google_drive/`.
+Eksporter weryfikuje zatwierdzony JS JSONL z `google_drive/the-genesis-order/translation/export-v1/reviewed_js_ui.jsonl` i zapisuje kanoniczny eksport w repo. Markdown domyślnie powstaje pod śledzonym `translation/`; staging kopii gry pod `google_drive/`.
 
 ## Dokumentacja projektu
 

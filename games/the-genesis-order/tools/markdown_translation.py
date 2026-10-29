@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Build contextual Markdown from TGO JSONL and import translations by stable ID.
 
-The checked-in JSONL contains extracted source text by user request; generated
-Markdown, imported translations, and original game assets remain under ignored
-google_drive/. No game code is executed.
+Textual drafts and imported translations belong in the tracked translation
+workspace. Binary game assets stay outside Git. No game code is executed.
 """
 from __future__ import annotations
 
@@ -21,8 +20,8 @@ from typing import Any, Iterable
 from export_translation import EXTRA_CONTROL_RE, REPO_ROOT, SOURCE_ROOT, canonical_id, tokens
 
 DEFAULT_INPUT = REPO_ROOT / "games" / "the-genesis-order" / "translation" / "export-v1"
-DEFAULT_MARKDOWN = SOURCE_ROOT / "translation" / "markdown-draft-v1"
-DEFAULT_IMPORT = SOURCE_ROOT / "translation" / "import-v1" / "translated.jsonl"
+DEFAULT_MARKDOWN = REPO_ROOT / "games/the-genesis-order/translation/markdown-draft-v1"
+DEFAULT_IMPORT = REPO_ROOT / "games/the-genesis-order/translation/import-v1/translated.jsonl"
 START_RE = re.compile(
     r'^<!-- TGO-RECORD-START:([0-9a-f]{16}) id="([^"]+)" sha256="([0-9a-f]{64})" -->$',
     re.MULTILINE,
@@ -241,11 +240,20 @@ def _write_atomic(path: Path, data: bytes) -> None:
     os.replace(temp, path)
 
 
-def build_markdown(input_path: Path, out: Path, replace_existing: bool = False) -> dict[str, Any]:
-    private_root = (REPO_ROOT / "google_drive").resolve()
+def checked_translation_output(out: Path) -> Path:
     out = out.resolve()
-    if out != private_root and private_root not in out.parents:
-        raise ValueError("Refusing to write generated Markdown outside ignored google_drive/")
+    private_root = (REPO_ROOT / "google_drive").resolve()
+    tracked = (REPO_ROOT / "games/the-genesis-order/translation").resolve()
+    canonical = (tracked / "export-v1").resolve()
+    if private_root not in out.parents and tracked not in out.parents:
+        raise ValueError("Output must be under the translation workspace or google_drive/")
+    if out == canonical or canonical in out.parents:
+        raise ValueError("Refusing to modify the canonical source export")
+    return out
+
+
+def build_markdown(input_path: Path, out: Path, replace_existing: bool = False) -> dict[str, Any]:
+    out = checked_translation_output(out)
     if out.exists() and any(out.iterdir()):
         if not replace_existing:
             raise FileExistsError(f"Markdown output is not empty: {out}; use --replace only when overwriting is intended")
@@ -349,10 +357,7 @@ def parse_markdown_blocks(markdown_root: Path) -> dict[str, tuple[str, str]]:
 
 def import_markdown(input_path: Path, markdown_root: Path, out: Path,
                     require_complete: bool = False, check_only: bool = False) -> dict[str, Any]:
-    private_root = (REPO_ROOT / "google_drive").resolve()
-    out = out.resolve()
-    if out != private_root and private_root not in out.parents:
-        raise ValueError("Refusing to write source text outside ignored google_drive/")
+    out = checked_translation_output(out)
     rows = read_jsonl(input_paths(input_path))
     by_id = {row["id"]: row for row in rows}
     translated = parse_markdown_blocks(markdown_root)
@@ -444,7 +449,7 @@ def main() -> int:
         if args.check:
             print("Validation only; no translated JSONL was written.")
         else:
-            print(f"Imported JSONL written under ignored google_drive/: {args.out}")
+            print(f"Imported JSONL written: {args.out}")
     return 0
 
 

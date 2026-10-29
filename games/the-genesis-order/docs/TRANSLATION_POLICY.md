@@ -2,7 +2,7 @@
 
 ## Stan
 
-Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-v1/`. Kanoniczny eksport źródłowy pozostaje bez zmian. Rozpoczęto roboczą partię UI poza Gitem: 127 niepustych pól w 130 rekordach; 3 chronione wartości pozostają puste. Source ZIP v1 jest śledzony w `games/the-genesis-order/translation/packages/` i dostępny na Google Drive; patcher nie został zbudowany.
+Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-v1/`. Kanoniczny eksport źródłowy pozostaje bez zmian. Rozpoczęto roboczą partię UI w `translation/drafts/ui-01/`: 127 niepustych pól w 130 rekordach; 3 chronione wartości pozostają puste. Source ZIP v1 jest śledzony w `games/the-genesis-order/translation/packages/` i dostępny na Google Drive; patcher nie został zbudowany.
 
 ## Zasady wejściowe
 
@@ -15,10 +15,10 @@ Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-
 
 ## Walidacja i bezpieczeństwo
 
-- JSONL jest kanoniczny. Markdown w `google_drive/the-genesis-order/translation/markdown-draft-v1/` jest widokiem roboczym po stabilnych ID, nie osobnym źródłem prawdy.
+- JSONL jest kanoniczny. Markdown w `translation/markdown-draft-v1/` jest widokiem roboczym po stabilnych ID, nie osobnym źródłem prawdy; robocze tłumaczenia zawsze śledź w Git.
 - Przed stagingiem uruchomić testy i `apply_translation.py --check`. Import/patch trafia do nowej kopii pod ignorowanym `google_drive/`; nigdy nie nadpisuje assetów wejściowych.
 - Nie uruchamiać gry ani JS przez narzędzia ekstrakcji/importu. Test renderingu i polskich fontów wymaga osobnej zgody oraz kopii gry.
 - Wszystkie nie-rendererowe wiersze `401` i wszystkie opcje `102` są pełnoprawnym tekstem gracza do tłumaczenia, bez filtrowania według dialog/UI. To zatwierdzona decyzja zakresowa. Tekst wtopiony w obrazy i wideo pozostaje poza zakresem na decyzję właściciela.
-- Source ZIP v1 zawiera pełny zatwierdzony statyczny zakres, a jego pola `translation` są puste: to nieaktualizowana paczka źródłowa, nie polskie tłumaczenie ani patch gry. Osobna robocza partia UI jest przechowywana poza Gitem.
+- Source ZIP v1 zawiera pełny zatwierdzony statyczny zakres, a jego pola `translation` są puste: to nieaktualizowana paczka źródłowa, nie polskie tłumaczenie ani patch gry. Osobne robocze partie tłumaczeń są śledzone w `translation/drafts/`.
 
 Nie kopiować tekstów SRW ani założeń o silniku/limitach SRW do TGO. Przenosić można jedynie ogólne rozwiązania organizacyjne i walidacyjne.

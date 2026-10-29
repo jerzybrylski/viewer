@@ -30,7 +30,7 @@ tools/folio-viewer/ pomocniczy viewer screenshotów powstały przed zmianą prof
 docs/               zasady wspólne dla wszystkich VN-ów
 ```
 
-Dane gry, pełne instalatory, oryginalne zasoby, zapisy, zrzuty ekranu i zbudowane kopie gry nie trafiają do Git. Dane lokalne są ignorowane przez `.gitignore`; do repo trafiają narzędzia, dokumentacja, jawnie przygotowane dane tłumaczeniowe oraz testy.
+Do Git trafiają wszystkie narzędzia, dokumentacja, tekstowe dane źródłowe oraz wszystkie robocze i gotowe tłumaczenia. Wyjątkiem w materiałach gry są binarne assety gry, które pozostają poza Git. `google_drive/` może służyć jako tymczasowa kopia, ale nie zastępuje śledzenia pracy w repo. Nie publikujemy danych uwierzytelniających ani przypadkowych danych osobowych.
 
 ## Środowisko
 

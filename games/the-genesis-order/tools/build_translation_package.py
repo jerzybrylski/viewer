@@ -19,7 +19,7 @@ from typing import Any
 REPO_ROOT = Path(__file__).resolve().parents[3]
 EXPORT_ROOT = REPO_ROOT / "games" / "the-genesis-order" / "translation" / "export-v1"
 SOURCE_ROOT = REPO_ROOT / "google_drive" / "the-genesis-order"
-MARKDOWN_ROOT = SOURCE_ROOT / "translation" / "markdown-draft-v1"
+MARKDOWN_ROOT = REPO_ROOT / "games/the-genesis-order/translation/markdown-draft-v1"
 PACKAGE_ROOT = REPO_ROOT / "games" / "the-genesis-order" / "translation" / "packages"
 DEFAULT_OUT = PACKAGE_ROOT / "TGO_source_translation_package_v1.zip"
 DOCS_ROOT = REPO_ROOT / "games" / "the-genesis-order" / "docs"

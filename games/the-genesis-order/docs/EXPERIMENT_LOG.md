@@ -1,5 +1,7 @@
 # Dziennik eksperymentów — The Genesis Order
 
+> **Aktualna decyzja właściciela:** wcześniejsze wzmianki o pozostawianiu tekstów lub tłumaczeń poza Git opisują ówczesny stan, nie obowiązującą zasadę. Wszystkie tekstowe dane projektu, narzędzia i robocze tłumaczenia śledzimy w Git; poza Git pozostają binarne assety gry.
+
 ## 2026-10-28 — pierwszy pakiet inwentaryzacyjny
 
 - **Cel:** zebrać lokalny spis plików i rozmiary bez założenia silnika ani ścieżki instalacji.
@@ -166,3 +168,9 @@
 - Kolejne 35 wskazówek przetłumaczono po stabilnych ID, z zachowaniem kontekstu i gałęzi. Wymagają redakcji oraz kontroli terminologii w grze; „hammer shovel” / „łopata-młot” pozostaje robocze.
 - [TGO_draft_hints_02_2026-10-29.jsonl](https://drive.google.com/file/d/1Sd5I5LLJeRX217dSIc-cNuWVNWIcrjk-/view?usp=drivesdk), ID `1Sd5I5LLJeRX217dSIc-cNuWVNWIcrjk-`, 48 343 B, SHA-256 `8759fe6abeb3fd56425bdc0afcbd50df98a0aef4b8e56a070b4c065b4cc2984b`.
 - `merge_translation_batches.py` sprawdził trzy zwrotki i utworzył nowy `google_drive/the-genesis-order/translation/merged-ui-hints-02-2026-10-29.jsonl`: 45 229 rekordów, 227 niepustych pól (łącznie ze skrótami), 131 chronionych, 44 871 tłumaczalnych oczekujących; SHA-256 `1d491ac93915e2a5dc6cfda8e6d24d7f33ae704a4f06e93ea242a2d98b79f3cd`. Poprzedniego scalonego pliku nie nadpisano. To nie jest patch ani wynik testów runtime.
+
+## 2026-10-29 — korekta zasad Git i publikacja zwrotek
+
+- Decyzja właściciela: wszystkie narzędzia, tekstowe dane źródłowe i robocze tłumaczenia muszą być śledzone w Git. Wyjątek dotyczący materiałów gry stanowią wyłącznie binarne assety. Drive pozostaje dodatkową kopią. Wcześniejsze wpisy o prywatnym/ignorowanym przechowywaniu opisują stan historyczny, nie obowiązującą zasadę.
+- Dodano do `translation/drafts/` dotychczasowe partie UI i wskazówek, bez zmiany ich zawartości. Scalanie z tych śledzonych plików potwierdziło 45 229 rekordów, 227 niepustych pól, 131 wartości chronionych i 44 871 tłumaczalnych oczekujących; SHA-256 scalonego rezultatu `1d491ac93915e2a5dc6cfda8e6d24d7f33ae704a4f06e93ea242a2d98b79f3cd`, zgodny z wcześniejszym wynikiem.
+- Import i generowanie Markdown oraz scalanie pozwalają na zapis w śledzonym `translation/`, z ochroną kanonicznego `export-v1/`; staging gry nadal nie nadpisuje źródeł. `python3 -m unittest discover -s games/the-genesis-order/tests -q`: 35/35 OK. Nie wykonywano testu gry ani ponownego sprawdzenia oryginalnych źródeł.

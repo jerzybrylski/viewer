@@ -12,4 +12,4 @@
 - Linux, Python 3.11; PowerShell/Ren'Py/game runtime nie są dostępne.
 - Oryginalne pliki JSON/JS/fonty znajdują się w ignorowanym `google_drive/`; JSON parsowano i JS/fonty analizowano statycznie. Do cmap użyto FontTools 4.68.0 w `/tmp`.
 - Statycznie przetworzono wszystkie 305 JSON i 78 plików JS. Nie ma testu Windows/in-game ani runtime renderingu.
-- Oryginalne assety i media pozostają poza Gitem; zatwierdzone, wyodrębnione rekordy tekstu JSON, narzędzia i dokumentacja projektu są śledzone w repozytorium zgodnie z decyzją właściciela.
+- Binarne assety gry pozostają poza Gitem; tekstowe dane, narzędzia i wszystkie tłumaczenia są śledzone w repozytorium.

@@ -2,7 +2,8 @@
 """Merge partial TGO drafts into the full canonical export, without changing it.
 
 Only translation may differ from the canonical row. The output must be a new
-file under ignored google_drive/. No game sources are read or executed.
+file under the tracked TGO translation workspace or ignored google_drive/.
+No game sources are read or executed.
 """
 from __future__ import annotations
 
@@ -19,8 +20,12 @@ from markdown_translation import DEFAULT_INPUT, REPO_ROOT, input_paths, read_jso
 def merge_batches(canonical: Path, batches: list[Path], out: Path,
                   private_root: Path = REPO_ROOT / 'google_drive') -> dict[str, Any]:
     root, out = private_root.resolve(), out.resolve()
-    if root not in out.parents:
-        raise ValueError('Output must be a file under ignored google_drive/')
+    tracked = (REPO_ROOT / 'games/the-genesis-order/translation').resolve()
+    canonical_root = (tracked / 'export-v1').resolve()
+    if root not in out.parents and tracked not in out.parents:
+        raise ValueError('Output must be under the translation workspace or ignored google_drive/')
+    if out == canonical_root or canonical_root in out.parents:
+        raise ValueError('Refusing to modify the canonical source export')
     rows = read_jsonl(input_paths(canonical))
     by_id = {row['id']: row for row in rows}
     for row in rows:

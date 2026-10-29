@@ -23,7 +23,7 @@ Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Istni
 
 ## Następne zadania
 
-1. Kontynuować polską terminologię i tłumaczenie pełnego zatwierdzonego eksportu po stabilnym `id`. Robocza partia UI 01 (130 rekordów, 127 niepustych pól, 3 chronione puste) jest w `google_drive/the-genesis-order/translation/draft-ui-v1/` i [na Drive](https://drive.google.com/file/d/192Umg5H5xVGzoAtyMN8fDJ6HSrreO1A7/view?usp=drivesdk). Druga partia to 65 wskazówek: [Drive](https://drive.google.com/file/d/1n2r4gLCZMwkbzqpCenDJNJOF-AbKn-OM/view?usp=drivesdk). Kolejne 35 wskazówek: [Drive](https://drive.google.com/file/d/1Sd5I5LLJeRX217dSIc-cNuWVNWIcrjk-/view?usp=drivesdk). Lokalny pełny zbiór po scaleniu: `google_drive/the-genesis-order/translation/merged-ui-hints-02-2026-10-29.jsonl`, 227 niepustych, 131 chronionych i 44 871 tłumaczalnych oczekujących. Używać `tools/merge_translation_batches.py` do wykrywania konfliktów, nie nadpisywać istniejącej pracy.
+1. Kontynuować tłumaczenie po stabilnym `id`. Wszystkie dotychczasowe partie są w śledzonym `translation/drafts/` (UI 130 rekordów i 100 wskazówek; 227 niepustych pól); Drive to tylko kopia. Scalaj narzędziem `tools/merge_translation_batches.py`, wykrywaj konflikty i nie nadpisuj pracy. Do tłumaczenia pozostaje 44 871 rekordów, 131 wartości jest chronionych.
 2. Nie zmieniać ID, locatorów, source hashes, `source_text` ani tokenów. Zachować wszystkie rekordy `keep_source_value` dokładnie.
 3. Po tłumaczeniu uruchomić Markdown import-check i `apply_translation.py --check`; rozliczyć braki, duplikaty, tokeny i konflikty.
 4. Ustalić docelowy build/layout i zaprojektować patcher Windows z backupem/rollbackiem; testować najpierw na kopiach syntetycznych.
@@ -40,4 +40,4 @@ python3 games/the-genesis-order/tools/markdown_translation.py import --check
 python3 games/the-genesis-order/tools/build_translation_package.py
 ```
 
-Oryginalne assety pozostają poza Git; nie kopiować ich ani stagingu do repo. Nie kopiować tekstów SRW do TGO.
+Binarne assety gry pozostają poza Git; tekstowe dane i tłumaczenia śledzić w repo. Nie kopiować tekstów SRW do TGO.

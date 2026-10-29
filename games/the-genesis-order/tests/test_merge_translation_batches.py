@@ -2,6 +2,7 @@ import json
 import sys
 import tempfile
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'tools'))
@@ -58,9 +59,18 @@ class MergeTests(unittest.TestCase):
         self.write(other, [dict(self.row, translation='Przedmiot %1')])
         self.assertEqual(self.merge([self.batch, other])['with_translation'], 1)
 
+    def test_tracked_output_allowed_and_canonical_protected(self):
+        self.write(self.batch, [dict(self.row, translation='Przedmiot %1')])
+        tracked = self.root / 'games/the-genesis-order/translation'
+        with patch.object(merger, 'REPO_ROOT', self.root):
+            result = merger.merge_batches(self.canonical, [self.batch], tracked / 'drafts/merged.jsonl', self.root / 'private')
+            self.assertEqual(result['with_translation'], 1)
+            with self.assertRaisesRegex(ValueError, 'canonical source export'):
+                merger.merge_batches(self.canonical, [self.batch], tracked / 'export-v1/merged.jsonl', self.root / 'private')
+
     def test_reject_output_outside_private_root(self):
         self.write(self.batch, [self.row])
-        with self.assertRaisesRegex(ValueError, 'under ignored'):
+        with self.assertRaisesRegex(ValueError, 'under the translation workspace'):
             merger.merge_batches(self.canonical, [self.batch], self.root / 'out', self.root / 'private')
 
 

@@ -6,7 +6,7 @@ Stan: 2026-10-29. Jest to raport o statycznych źródłach i eksporcie, nie licz
 
 - `data.zip`: 305 poprawnych JSON-ów oraz `Credits.txt`; komplet map `Map001.json`–`Map291.json`, `MapInfos.json` z 291 rekordami i `CommonEvents.json` z 500 zdarzeniami.
 - Potwierdzony silnik: RPG Maker MV 1.6.1 + NW.js. Dane źródłowe są w ignorowanym `google_drive/the-genesis-order/`; nie są śledzone w Git.
-- Odtworzona hierarchia JS: 78 plików. Oryginalne skrypty pozostają poza Gitem; repo śledzi narzędzia, decyzje bez treści źródłowej, dokumentację i jawnie wygenerowane JSONL.
+- Odtworzona hierarchia JS: 78 plików. Oryginalne skrypty są obecnie w kopii roboczej poza repo; tekstowe źródła, narzędzia oraz tłumaczenia powinny być śledzone w Git.
 
 ## Wynik eksportu
 

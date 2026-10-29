@@ -18,7 +18,7 @@ Do lokalnego testu parsowania skompilowanych skryptów użyto [CensoredUsername/
 
 - iteracyjne BAT/PowerShell → ZIP → Drive dla wejść z Windowsa;
 - zaczynanie od spisu/rozmiarów, później zbieranie ściśle wskazanych plików;
-- oryginały poza Git, separację jednego tytułu od drugiego i rejestrowanie pochodzenia;
+- separację jednego tytułu od drugiego i rejestrowanie pochodzenia; zasady przechowywania w Git określa bieżąca decyzja właściciela;
 - pakiety tłumacza ze stabilnymi ID, kontekstem, tokenami i limitem tylko wtedy, gdy jest potwierdzony;
 - osobny glosariusz, walidatory, testy, dziennik eksperymentów i bezpieczny etap aplikacji patcha.
 
