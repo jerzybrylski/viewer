@@ -1,8 +1,8 @@
-# Decyzje redakcyjne — do zatwierdzenia przez właściciela
+# Decyzje redakcyjne
 
-Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co innego** albo gdzie przyjęto wariant bez jednoznacznego rozstrzygnięcia. Nic tu jeszcze nie jest „poprawione” — to lista do decyzji. Każda pozycja ma ID, więc decyzję można zapisać jednym zdaniem („R-03: wariant B”).
+Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co innego** albo gdzie przyjęto wariant bez jednoznacznego rozstrzygnięcia. Pozycje rozstrzygnięte przez właściciela mają w nagłówku **ROZSTRZYGNIĘTE**, datę decyzji i opis wykonania; pozostałe czekają na decyzję. Każda pozycja ma ID, więc decyzję zapisuje się jednym zdaniem („R-03: wariant B”).
 
-**Stan:** 2026-10-29, po odzyskaniu pracy poprzedniego agenta. Liczby: 427 partii, 39 926 tłumaczeń, 0 nierozstrzygniętych.
+**Stan:** 2026-10-29, po decyzjach właściciela. Liczby: 427 partii, **39 917** tłumaczeń, 131 rekordów chronionych, **5 181** świadomie zachowanych w źródle, 0 nierozstrzygniętych. Decyzje: **R-01, R-02, R-07, R-08, R-09 rozstrzygnięte i wykonane**; R-11 wstrzymane przez właściciela (wróci po wgraniu patcha); R-03, R-04, R-05, R-06, R-10 czekają.
 
 ## Jak czytać
 
@@ -12,7 +12,12 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 
 ---
 
-## R-01 — Tytuł gry: „Zakon Genesis” czy „The Genesis Order”
+## R-01 — Tytuł gry: „Zakon Genesis” czy „The Genesis Order” — **ROZSTRZYGNIĘTE: wariant B**
+
+> **Decyzja właściciela (2026-10-29):** tytuł gry zostaje **zawsze po angielsku**. Wykonane: rekord
+> `system.gameTitle` usunięty z `drafts/visible-name-l10n-01.jsonl` (partia ma teraz 2 rekordy: `Arianna as Erica`,
+> `WoNoChurch`), a bramka pokrycia klasyfikuje ten tytuł z jawnym powodem
+> `owner_decision_R01_brand_title_kept_in_english`. Zdanie z „SCN - Ending” już zawierało angielską nazwę, więc jest spójne.
 
 - **Stan:** w `drafts/visible-name-l10n-01.jsonl` tytuł (`system.gameTitle`) to **„Zakon Genesis”**. Wcześniejszy glosariusz roboczo zakładał zachowanie oryginału jako nazwy marki.
 - **Uzasadnienie tłumaczenia:** „the Genesis Order” to w fabule nazwa zakonu (organizacji), nie tylko tytuł produktu — więc tłumaczenie jest merytorycznie obronne.
@@ -21,7 +26,10 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 - **Do decyzji:** A) „Zakon Genesis” + poprawka zdania z „SCN - Ending”, B) „The Genesis Order” bez zmian (spójne z tą linią i z decyzją R-02 o marce), C) hybryda „The Genesis Order — Zakon Genesis” (wymaga sprawdzenia, czy pole mieści taki tekst).
 - **Koszt zmiany:** 1–2 rekordy + przebudowa patcha i Czytanki (deterministyczna, ~10 s każda przy dostępnych źródłach).
 
-## R-02 — `Channel 4` jako marka
+## R-02 — `Channel 4` jako marka — **ROZSTRZYGNIĘTE: zostaje po angielsku**
+
+> **Decyzja właściciela (2026-10-29):** `Channel 4` **bez zmian** (nazwa stacji w świecie gry). Korpus już to spełnia:
+> 63/63 wystąpień i etykieta mapy.
 
 - **Stan (POTWIERDZONE, sprawdzone w korpusie):** we **wszystkich** 63 przetłumaczonych wystąpieniach zostaje `Channel 4` (np. „Musisz iść do wieżowca Channel 4.”), a etykieta mapy to dosłownie `Channel 4`. W plikach draftów **nie ma już ani jednego** „Kanał 4” — starszy wariant z `inventory-names-01.jsonl` został zastąpiony podczas uzgodnienia 40 etykiet.
 - **Uzasadnienie:** to nazwa stacji telewizyjnej w świecie gry, prawdopodobnie nawiązanie do realnego kanału; tłumaczenie gubi aluzję.
@@ -57,19 +65,27 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 - **Do decyzji:** A) „Będzie” (stan obecny), B) „On będzie”.
 - **Uwaga:** linia jest dzielona między dwa rekordy — przy zmianie trzeba zachować spójność z **następnym** fragmentem („Wkurzony, kumasz?”), bo razem tworzą jedno zdanie.
 
-## R-07 — Placeholdery mapy testowej
+## R-07 — Placeholdery mapy testowej — **ROZSTRZYGNIĘTE: wariant B (przywrócone angielskie)**
+
+> **Decyzja właściciela (2026-10-29):** przywrócić angielskie `Text goes here<br>` — to wypełniacz dewelopera, bez wartości gracza.
+> Wykonane: 7 rekordów `native_message` z TEST MAP usuniętych z `drafts/visible-ui-remaining-01.jsonl`; bramka pokrycia
+> klasyfikuje je jako `owner_decision_R07_test_map_placeholder_kept_in_english` (reguła działa **tylko** dla `map_name == "TEST MAP"`).
 
 - **Stan (POTWIERDZONE):** 7 rekordów `native_message` z **TEST MAP, EV001**, każdy `Text goes here<br>` → „Tekst w tym miejscu<br>”. To jawnie renderowane wypełniacze dewelopera.
 - **Dylemat:** tłumaczenie placeholdera dewelopera to praca bez wartości gracza; z drugiej strony jeśli mapa jest osiągalna, gracz zobaczy polski tekst.
 - **Do decyzji:** A) zostawić tłumaczenie (stan obecny), B) przywrócić angielskie wypełniacze, C) zostawić tylko tam, gdzie mapa jest osiągalna.
 
-## R-08 — `TEXT` → „TEKST” (mapa TEST MAP)
+## R-08 — `TEXT` → „TEKST” (mapa TEST MAP) — **ROZSTRZYGNIĘTE: wariant B (przywrócony `TEXT`)**
+
+> **Decyzja właściciela (2026-10-29):** przywrócić `TEXT` razem z R-07. Wykonane: rekord `phone_text`
+> usunięty z draftów; powód w bramce: `owner_decision_R08_test_map_stub_kept_in_english`.
+> **NIEZWERYFIKOWANE:** czy `TEXT` jest kluczem dopasowywanym przez kod gry — kod nie jest dostępny lokalnie.
 
 - **Stan (POTWIERDZONE):** literał `TEXT` to `phone_text` z **TEST MAP, EV021** — czyli stub mapy testowej, nie element produkcyjnego UI. Przetłumaczony na „TEKST”.
 - **Ryzyko (HIPOTEZA, niskie):** gdyby ten literał był kluczem dopasowywanym przez kod gry, zmiana mogłaby zepsuć logikę testową. Kod gry nie jest lokalnie dostępny, więc nie sprawdzono; skoro to mapa testowa, skutek byłby ograniczony.
 - **Do decyzji:** A) zostawić „TEKST”, B) przywrócić `TEXT` razem z R-07 (oba są stubami TEST MAP), C) sprawdzić w runtime i wrócić do tematu.
 
-## R-09 — Odmiana imion: **korpus jest niespójny** (największy dług redakcyjny)
+## R-09 — Odmiana imion — **ROZSTRZYGNIĘTE: wariant B (ujednolicić odmianę)**
 
 - **Stan (POTWIERDZONE, policzone w korpusie):** imiona zakończone na `-a` są odmieniane **tylko w części** wystąpień — reszta zostaje w mianowniku. To nie jest decyzja, a skutek pracy w partiach.
 
@@ -87,6 +103,17 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 - **Imiona bez odmiany:** `Chloe`, `Lilith`, `Carol`, `Hannah`, `Judy` — **0** form odmienionych (449/106/325/606/514 wystąpień). Dla żeńskich imion na spółgłoskę to poprawna polszczyzna; dla `Hannah` możliwa jest forma „Hanny”, ale nie jest wymagana.
 - **Do decyzji:** A) ujednolicić mianownik wszędzie (mechanicznie, tanio, ale brzmi obco w 30–50% zdań), B) ujednolicić odmianę imion na `-a` (poprawna polszczyzna, wymaga przejrzenia ~1 400 wystąpień), C) zostawić jak jest i potraktować jako znane ograniczenie POC.
 - **Rekomendacja agenta:** B. Zakres jest policzalny (tabela wyżej), a to najbardziej rzucająca się w oczy wada istniejącego przekładu — nie wymaga ponownego tłumaczenia, tylko redakcji form.
+
+> **Decyzja właściciela (2026-10-29): wariant B — ujednolicić odmianę, bez ponownego tłumaczenia.**
+> **Wykonanie (POTWIERDZONE):** narzędzie `tools/unify_name_declension.py` odmienia **wyłącznie** formy, których przypadek
+> da się ustalić składniowo, i tylko dla imion na `-a` z tabelą form (`Erica, Andrea, Arianna, Melissa, Ella, Toma, Diana, Tasha, Alia`):
+> wołacz po przecinku / w całej kwestii / na początku zdania oraz dopełniacz po rzeczowniku lub przyimku („fragment Toma” → „fragment Tomy”).
+> Wynik: **383 wystąpienia w 380 rekordach** (148 plików) — `vocative_comma_address` 247, `vocative_whole_utterance` 89,
+> `vocative_leading_address` 29, `genitive_governor` 18. **628 wystąpień** w formach, których nie da się rozstrzygnąć
+> bez kontekstu (m.in. mianownik po `jest`, „z Chloe”, nazwiska), zostaje bez zmian i jest wypisane w raporcie
+> `translation/reports/declension_r09_report.json`. Drugi przebieg daje zero zmian (test idempotencji).
+> **Świadome ograniczenie:** to nie jest pełna odmiana wszystkich ~1 400 wystąpień — wolimy 628 form mianownikowych
+> niż 200 błędnych form w zdaniach z przyimkami niejednoznacznymi (`z`, `o`, `na`).
 
 ## R-10 — `WoNoChurch` → „WoNo — kościół”
 
@@ -106,14 +133,14 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 
 | ID | Temat | Rekomendacja agenta |
 |---|---|---|
-| R-01 | Tytuł gry | wariant B (oryginał) — spójny z R-02 i z linią „SCN - Ending”; jeśli A, to poprawić też tę linię |
-| R-02 | `Channel 4` | zostawić markę |
+| R-01 | Tytuł gry | **rozstrzygnięte: wariant B** (oryginał) — wykonane |
+| R-02 | `Channel 4` | **rozstrzygnięte: marka bez zmian** — korpus już spójny |
 | R-03 | 40 etykiet map | zostawić, potem punktowo wyciszyć martwe mapy |
 | R-04 | Crafting — pytanie | „Wytworzyć przedmiot?” (krótsze) |
 | R-05 | Crafting — błąd | stan obecny |
 | R-06 | Telefon | „Będzie” |
-| R-07 | Placeholdery | przywrócić angielskie (brak wartości gracza) |
-| R-08 | `TEXT`/`TEKST` (TEST MAP) | przywrócić `TEXT` razem z R-07 — to stuby mapy testowej |
-| R-09 | Odmiana imion | **ujednolicić odmianę imion na `-a`** (dziś 21–50% form odmienionych, reszta w mianowniku) |
+| R-07 | Placeholdery | **rozstrzygnięte: przywrócone angielskie** — wykonane |
+| R-08 | `TEXT`/`TEKST` (TEST MAP) | **rozstrzygnięte: przywrócony `TEXT`** — wykonane |
+| R-09 | Odmiana imion | **rozstrzygnięte: ujednolicić odmianę** — wykonane w 380 rekordach (patrz wyżej) |
 | R-10 | `WoNoChurch` | „Kościół WoNo” |
-| R-11 | Fonty | **zbadać przed publikacją** — blokuje sens całości |
+| R-11 | Fonty | **wstrzymane przez właściciela** — wróci po wgraniu patcha; blokuje sens całości |

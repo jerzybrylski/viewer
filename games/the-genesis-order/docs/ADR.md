@@ -12,7 +12,7 @@
 
 ### Decyzja
 
-ZABRONIONE jest automatyczne MT słownikowe/regułowe/statystyczne poza LLM w kontekście sceny. Dozwolone wyłącznie LLM w kontekście (mapa/event/mówca/sąsiednie kwestie), z korektą, z zachowaniem `1Hero` i glosariusza (Toma/Anachorismos/Daemalius/Lilith). Buildery muszą mieć ręczne tłumaczenia LLM, filtr `known`+`keep_source_value`+`/^`+`noalpha`, `len==exact`, `validate 0`, `py_compile OK` i pełny zielony aktualny zestaw testów (obecnie `69/69`).
+ZABRONIONE jest automatyczne MT słownikowe/regułowe/statystyczne poza LLM w kontekście sceny. Dozwolone wyłącznie LLM w kontekście (mapa/event/mówca/sąsiednie kwestie), z korektą, z zachowaniem `1Hero` i glosariusza (Toma/Anachorismos/Daemalius/Lilith). Buildery muszą mieć ręczne tłumaczenia LLM, filtr `known`+`keep_source_value`+`/^`+`noalpha`, `len==exact`, `validate 0`, `py_compile OK` i pełny zielony aktualny zestaw testów (obecnie `88/88`).
 
 ### Konsekwencje
 
@@ -67,3 +67,32 @@ Wybieram **wariant B — reguła walidatora**, na podstawie dowodu z silnika gry
 - 94 rekordy Map 46 są tłumaczone i wchodzą do `drafts/native-message-map46-crafting-01.jsonl`; kubełek `blocked_by_signature` w audycie **zostaje usunięty** (nie da się już odróżnić „zablokowany” od „do przeglądu”).
 - Kubełek `needs_review` po odzyskaniu liczy **28** rekordów, nie 1 536 — reszta pustych pól to rozpoznane komendy, nazwy własne i czysty markup (patrz `docs/COVERAGE_AUDIT.md`).
 - Wariant C (zostawienie po angielsku) odrzucony: 94 widoczne wiadomości to realny tekst gracza, a praca nad nimi już istnieje.
+
+## ADR 003 — 2026-10-29: odmiana imion to redakcja form, nie tłumaczenie maszynowe (R-09)
+
+**Status:** obowiązuje
+**Decydent:** właściciel (jerzybrylski), decyzja R-09 z 2026-10-29
+**Data:** 2026-10-29
+
+### Tło
+
+Korpus powstał w partiach, więc imiona na `-a` były odmieniane tylko w 21–50% wystąpień — obok siebie stały „sypialni Andrei” i „z Andrea”. Właściciel zdecydował: ujednolicić odmianę, bez ponownego tłumaczenia.
+
+### Decyzja
+
+Odmianę wykonuje `tools/unify_name_declension.py`, ale **wyłącznie** w formach, których przypadek da się ustalić składniowo, i tylko dla imion z jawną tabelą form. Narzędzie nie tłumaczy treści: podmienia jedno imię na jego formę fleksyjną, nie dotyka pozostałych słów ani znaczników `\c[n]`.
+
+Reguły (każda z własnym ID w raporcie):
+
+1. **Wołacz** — imię zamyka klauzulę po przecinku (`Cholera, Ella.`), otwiera zdanie przecinkiem (`Ella, chodź tu`) albo jest całą kwestią (`Ella!`).
+2. **Dopełniacz** — po rzeczowniku lub przyimku rządzącym dopełniaczem (`fragment Toma` → `fragment Tomy`, `do Toma`).
+
+Wszystko inne zostaje w mianowniku i trafia do raportu jako pozycja do ręcznego przejrzenia.
+
+### Konsekwencje
+
+- Wykonane: 383 wystąpienia w 380 rekordach (148 plików). Bez zmian: 628 wystąpień niejednoznacznych — świadomie wolimy mianownik niż błędną formę.
+- Uzasadnienie nie łamie ADR 001: to nie jest automatyczne MT, a morfologia imienia w miejscu o rozstrzygalnej składni.
+- Narzędzie jest idempotentne i pokryte testami (`tests/test_unify_name_declension.py`), a jego wynik jest odtwarzalny z draftów w Git.
+- Prezentacja w Czytance: bohater widoczny jako **Mox**; w plikach gry placeholder `1Hero` zostaje nietknięty (podstawia go runtime).
+

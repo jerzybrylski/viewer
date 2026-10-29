@@ -77,7 +77,14 @@ Uwaga: powyższa tabela łączy kategorie semantycznie; pojedyncze rekordy nie s
 
 ## Aktualizacja po ukończeniu przekładu i milestone’ów — 2026-10-29
 
-- Scalenie wszystkich **427** draftów obejmuje 45 229 rekordów: **39 926** niepustych tłumaczeń, **131** jawnie chronionych rekordów `keep_source_value`, **5 172** pozostałych zachowanych rekordów nielokalizowalnych i **0** nierozstrzygniętych rekordów do tłumaczenia. Audyt: `translation/reports/coverage_audit_v1.json`.
-- Standalone patch POC: `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`; 39 926 tłumaczeń, 238 fingerprintowanych źródeł, 427 batchy. Zawiera one-click patcher oraz backup/restore, bez plików gry. SHA-256 `4dc807024466582b68a59e129d212dc2aa52e0bcf4dcd81c3445576b8d84513b`.
-- Czytanka PL v1: `reading/v1/`, ZIP `translation/packages/TGO_readalong_PL_v1.zip`; **4 394** rozdziały (4 134 map/event/page i 260 Common Events), 221/291 map osiągalnych potencjalnie od startu w statycznym BFS, 833 wiersze z mówcą nieustalonym jawnie oznaczone; indeksy obejmują 55 etykiet mówców i 291 lokacji. Kolejność nie jest kanoniczna; gra/runtime nie była uruchamiana. ZIP zawiera 4 399 wpisów (4 394 epizody + 5 plików indeksowych/skryptowych); SHA-256 `3239527786f1ac28064920fb45c2273941b0914cb8ed636b1c68d2975b0eb244`.
+- Scalenie wszystkich **427** draftów obejmuje 45 229 rekordów: **39 917** niepustych tłumaczeń, **131** jawnie chronionych rekordów `keep_source_value`, **5 181** pozostałych zachowanych rekordów nielokalizowalnych i **0** nierozstrzygniętych rekordów do tłumaczenia. Audyt: `translation/reports/coverage_audit_v1.json`.
+- Standalone patch POC: `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`; 39 917 tłumaczeń, 238 fingerprintowanych źródeł, 427 batchy. Zawiera one-click patcher oraz backup/restore, bez plików gry. SHA-256 `914e73fa9e9022aabbe9a5fcb5dfef553d6100b6f266e8fde9e256f8344e6789`.
+- Czytanka PL v1: `reading/v1/`, ZIP `translation/packages/TGO_readalong_PL_v1.zip`; **4 394** rozdziały (4 134 map/event/page i 260 Common Events), 221/291 map osiągalnych potencjalnie od startu w statycznym BFS, 833 wiersze z mówcą nieustalonym jawnie oznaczone; indeksy obejmują 55 etykiet mówców i 291 lokacji. Kolejność nie jest kanoniczna; gra/runtime nie była uruchamiana. ZIP zawiera 4 399 wpisów (4 394 epizody + 5 plików indeksowych/skryptowych); SHA-256 `74a3b096a07e92de32f6b5ac42e9f297cf4a33adf2db21fdd92359f60ec04c4f`.
 - Po dodaniu testów generatora Czytanek pełny zestaw: **54/54 passed**. To statyczna walidacja, nie QA językowe ani test instalacji Windows.
+
+### Redakcja odmiany imion (R-09, 2026-10-29)
+
+- **Zakres:** wyłącznie imiona na `-a` z tabelą form (`Erica, Andrea, Arianna, Melissa, Ella, Toma, Diana, Tasha, Alia`).
+- **Zmienione:** 383 wystąpienia w 380 rekordach, 148 plików — wołacz po przecinku 247, wołacz całej kwestii 89, wołacz na początku zdania 29, dopełniacz po rzeczowniku/przyimku 18.
+- **Bez zmian:** 628 wystąpień, w których przypadek nie wynika ze składni (mianownik po `jest`, konstrukcje z `z`/`o`/`na`, nazwiska). Świadomie nie zgadujemy — raport: `translation/reports/declension_r09_report.json`.
+- **Nie zmieniono:** żadnego słowa poza samym imieniem; tokeny `\c[n]` i znaczniki renderera zostają nietknięte (test regresyjny).

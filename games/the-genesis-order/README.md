@@ -7,7 +7,7 @@ Projekt lokalizacyjny RPG Maker MV 1.6.1 + NW.js. Statyczny audyt i przekład kw
 - Kanoniczne JSONL ze stabilnymi ID: [`translation/export-v1/`](translation/export-v1/), **45 229 rekordów**, wszystkie kontrolne liczniki pokrycia przechodzą.
 - Statyczny JS audit: 78 plików, 563 kandydatury, 35 potwierdzonych statycznych powierzchni UI, 528 wykluczeń z jawnym powodem, 0 otwartych.
 - Wszystkie nie-rendererowe wiersze `401` oraz opcje `102` zostały uwzględnione w przekładzie; tekst wtopiony w obrazy i wideo jest poza zakresem.
-- Merge wszystkich **427** draftów: 45 229 rekordów, **39 926 tłumaczeń**, 131 jawnie chronionych, 5 172 zachowane nielokalizowalne i 0 nierozstrzygniętych; bez konfliktów. Raport: [`translation/reports/coverage_audit_v1.json`](translation/reports/coverage_audit_v1.json).
+- Merge wszystkich **427** draftów: 45 229 rekordów, **39 917 tłumaczeń**, 131 jawnie chronionych, 5 181 zachowane nielokalizowalne i 0 nierozstrzygniętych; bez konfliktów. Raport: [`translation/reports/coverage_audit_v1.json`](translation/reports/coverage_audit_v1.json).
 - **Pomiar z draftów (odtwarzalny):** `tools/audit_draft_coverage.py` czyta wszystkie **427** plików `translation/drafts/`, także `hints/`, `ui-01/` i `follow-ups/`, i porównuje je z kanonicznym eksportem — te same liczby, **0** konfliktów i **0** nierozstrzygniętych. Bramka `tools/audit_translation_coverage.py` raportuje `status: complete`. Rozkład pustych rekordów (komendy, nazwy własne, czysty markup): [`docs/COVERAGE_AUDIT.md`](docs/COVERAGE_AUDIT.md).
 - Aspiracja 45 000 jest zamknięta jako nieosiągalna bez tłumaczenia tokenów sterujących i nazw własnych — pozostałe puste rekordy są techniczne, nazwowe albo chronione. Drafty wymagają redakcji; gry nie uruchamiano.
 

@@ -2,7 +2,7 @@
 
 ## Stan
 
-Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-v1/` i pozostaje bez zmian. Wszystkie 427 draftów scalają się bez konfliktów: 39 926 niepustych tłumaczeń, 131 jawnie chronionych wartości, 5 172 zachowane rekordy nielokalizowalne i 0 nierozstrzygniętych rekordów do tłumaczenia. Audyt nie wykazał dalszych zwykłych fraz gracza do tłumaczenia; pozostałe ryzyka to redakcja i testy wyświetlania. Source ZIP v1 jest pakietem źródłowym; osobno zbudowano patch POC oraz Czytankę v1. Żaden artefakt nie został zweryfikowany w Windows/runtime.
+Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-v1/` i pozostaje bez zmian. Wszystkie 427 draftów scalają się bez konfliktów: 39 917 niepustych tłumaczeń, 131 jawnie chronionych wartości, 5 181 zachowane rekordy nielokalizowalne i 0 nierozstrzygniętych rekordów do tłumaczenia. Audyt nie wykazał dalszych zwykłych fraz gracza do tłumaczenia; pozostałe ryzyka to redakcja i testy wyświetlania. Source ZIP v1 jest pakietem źródłowym; osobno zbudowano patch POC oraz Czytankę v1. Żaden artefakt nie został zweryfikowany w Windows/runtime.
 
 ## Zasady wejściowe
 

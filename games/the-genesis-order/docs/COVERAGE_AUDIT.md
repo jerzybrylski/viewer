@@ -5,11 +5,11 @@
 ## Podsumowanie
 
 - Rekordy kanoniczne: **45 229**.
-- Pliki draftów: **427**, wierszy: **45 847**.
-- Unikalne ID z niepustym tłumaczeniem: **39 926**.
-- Puste rekordy ogółem: **5 303**, w tym **131** chronionych `keep_source_value` i **5 172** do rozstrzygnięcia.
+- Pliki draftów: **427**, wierszy: **45 838**.
+- Unikalne ID z niepustym tłumaczeniem: **39 917**.
+- Puste rekordy ogółem: **5 312**, w tym **131** chronionych `keep_source_value` i **5 181** do rozstrzygnięcia.
 - Konflikty niepustych wariantów: **0**.
-- Tłumaczenia identyczne ze źródłem w kategorii prozatorskiej: **617**.
+- Tłumaczenia identyczne ze źródłem w kategorii prozatorskiej: **530**.
 
 ## Kubełki pustych rekordów
 
@@ -17,11 +17,12 @@
 |---|---:|---|
 | `command` | 3 742 | komendy `custom_dialogue` zaczynające się od `/` — sterowanie, nie proza |
 | `credits_roster` | 234 | listy nazw wspierających — nazw nie tłumaczymy |
-| `identifier` | 6 | kody, liczby i krótkie markery |
+| `identifier` | 7 | kody, liczby i krótkie markery |
 | `markup_only` | 1 072 | po usunięciu tokenów nie zostaje żadna litera |
-| `needs_review` | 28 | realny tekst bez tłumaczenia — wymaga decyzji i draftu |
+| `needs_review` | 29 | realny tekst bez tłumaczenia — wymaga decyzji i draftu |
 | `proper_name` | 90 | imiona postaci, nazwy przedmiotów, podpisy galerii |
 | `protected` | 131 | `keep_source_value` — wartość musi zostać bez zmian |
+| `template_placeholder` | 7 | wypełniacz szablonu mapy testowej |
 
 ## Pokrycie według kategorii
 
@@ -36,14 +37,14 @@
 | `image_caption` | 134 | 66 | 68 |
 | `item_found_label` | 649 | 648 | 1 |
 | `map_label` | 291 | 291 | 0 |
-| `native_message` | 1 122 | 793 | 329 |
+| `native_message` | 1 122 | 786 | 336 |
 | `phone_contact_ui` | 378 | 352 | 26 |
-| `phone_text` | 30 | 27 | 3 |
+| `phone_text` | 30 | 26 | 4 |
 | `system.armorTypes` | 6 | 6 | 0 |
 | `system.currencyUnit` | 1 | 0 | 1 |
 | `system.elements` | 9 | 9 | 0 |
 | `system.equipTypes` | 5 | 5 | 0 |
-| `system.gameTitle` | 1 | 1 | 0 |
+| `system.gameTitle` | 1 | 0 | 1 |
 | `system.skillTypes` | 2 | 2 | 0 |
 | `system.terms` | 95 | 95 | 0 |
 | `system.weaponTypes` | 12 | 12 | 0 |
@@ -53,7 +54,7 @@
 | `ui.variable_value` | 262 | 107 | 155 |
 | `ui_choice` | 180 | 167 | 13 |
 
-## Rekordy `needs_review` (28)
+## Rekordy `needs_review` (29)
 
 | ID | Kategoria | Źródło | Zdarzenie |
 |---|---|---|---|
@@ -85,12 +86,13 @@
 | `tgo:native_message_unclassified:7f56b2ebd8ae356257bf` | `native_message` | Morgan #142 | EV034 |
 | `tgo:phone_contact_ui:c4d223c2fdc3b48773f7` | `phone_contact_ui` | Morgan. | PHONE - Select Item |
 | `tgo:phone_contact_ui:ed360055b018450dcc38` | `phone_contact_ui` | Amulet K. | PHONE - Select Item |
+| `tgo:system.gameTitle:5546cb9d6b2245f37473` | `system.gameTitle` | The Genesis Order |  |
 
 ## Konflikty niepustych wariantów (0)
 
 Brak konfliktów.
 
-## Tłumaczenia identyczne ze źródłem (617)
+## Tłumaczenia identyczne ze źródłem (530)
 
 | ID | Kategoria | Plik | Tekst |
 |---|---|---|---|
@@ -222,29 +224,9 @@ Brak konfliktów.
 | `tgo:custom_dialogue:c3b4d477d6f9fbf49087` | `custom_dialogue` | `custom-dialogue-map200-followups-01.jsonl` | Adios, Daemalius. |
 | `tgo:custom_dialogue:3beb11581295efe3e29f` | `custom_dialogue` | `custom-dialogue-common-event-383-01.jsonl` | Aghuha… |
 | `tgo:custom_dialogue:58dfd1bd4a395504c0ca` | `custom_dialogue` | `custom-dialogue-common-event-477-01.jsonl` | Ahahaha! |
-| `tgo:custom_dialogue:38125a3ae5071be552ad` | `custom_dialogue` | `custom-dialogue-map31-event-25-01.jsonl` | Alia! |
 | `tgo:custom_dialogue:2ff811cf456784e9c2bb` | `custom_dialogue` | `custom-dialogue-common-event-npc-barks-followups-01.jsonl` | Amulet K? |
 | `tgo:custom_dialogue:76278966a55936fb496a` | `custom_dialogue` | `custom-dialogue-map20-church-event-48-01.jsonl` | Amulet? |
-| `tgo:custom_dialogue:09882bdf66bdd60073fa` | `custom_dialogue` | `custom-dialogue-map200-followups-01.jsonl` | Andrea! |
-| `tgo:custom_dialogue:40c05b2348415403bb3f` | `custom_dialogue` | `custom-dialogue-common-event-365-01.jsonl` | Andrea! |
-| `tgo:custom_dialogue:8bb0bf9bd182c6792b53` | `custom_dialogue` | `custom-dialogue-common-event-431-01.jsonl` | Andrea! |
-| `tgo:custom_dialogue:43c4c4dcfd4c88bf85ec` | `custom_dialogue` | `custom-dialogue-map32-station-followups-01.jsonl` | Andrea!? |
-| `tgo:custom_dialogue:b4bdc7d09788f96721ca` | `custom_dialogue` | `custom-dialogue-common-event-394-01.jsonl` | Andrea!? |
-| `tgo:custom_dialogue:0659477c1b3bb7ad3538` | `custom_dialogue` | `custom-dialogue-map144-library-followups-01.jsonl` | Andrea? |
-| `tgo:custom_dialogue:40ff63a624f8cbb383be` | `custom_dialogue` | `custom-dialogue-scene-andrea-kim-3some-01.jsonl` | Andrea? |
-| `tgo:custom_dialogue:4ec497d0812f80d117fe` | `custom_dialogue` | `custom-dialogue-scene-andrea-kim-3some-01.jsonl` | Andrea? |
-| `tgo:custom_dialogue:530300f2be8912c67719` | `custom_dialogue` | `custom-dialogue-scene-andrea-nellie-tub-01.jsonl` | Andrea? |
 | `tgo:custom_dialogue:4853a61bc414391353b0` | `custom_dialogue` | `custom-dialogue-map34-commissioner-followups-01.jsonl` | Argh!! |
-| `tgo:custom_dialogue:3852fd4d0d31952b5ae1` | `custom_dialogue` | `custom-dialogue-map121-followups-01.jsonl` | Arianna! |
-| `tgo:custom_dialogue:3d4ffc52f921c8a24312` | `custom_dialogue` | `custom-dialogue-map102-followups-01.jsonl` | Arianna! |
-| `tgo:custom_dialogue:df200d33fa33406fa956` | `custom_dialogue` | `custom-dialogue-map44-mansion-followups-01.jsonl` | Arianna! |
-| `tgo:custom_dialogue:e1b46684821ebce27f38` | `custom_dialogue` | `custom-dialogue-map56-followups-01.jsonl` | Arianna! |
-| `tgo:custom_dialogue:f140df92a123a01b9c1e` | `custom_dialogue` | `custom-dialogue-map28-arianna-morning-followups-01.jsonl` | Arianna! |
-| `tgo:custom_dialogue:3e45f88d2ffa44919edd` | `custom_dialogue` | `custom-dialogue-scene-orgy-01.jsonl` | Arianna!? |
-| `tgo:custom_dialogue:699e696bd8a2186d981f` | `custom_dialogue` | `custom-dialogue-map183-followups-01.jsonl` | Arianna? |
-| `tgo:custom_dialogue:9f4b1c0d400593245796` | `custom_dialogue` | `custom-dialogue-map82-channel4-followups-01.jsonl` | Arianna? |
-| `tgo:custom_dialogue:96eea1c231782bdbe9c3` | `custom_dialogue` | `custom-dialogue-map28-arianna-morning-followups-01.jsonl` | Arianna?... |
-| `tgo:custom_dialogue:b7cf6ff220a882bffcb8` | `custom_dialogue` | `custom-dialogue-map28-arianna-morning-followups-01.jsonl` | Arianna?... |
 | `tgo:custom_dialogue:186e894170549e9954fd` | `custom_dialogue` | `custom-dialogue-repeated-01.jsonl` | Awww! |
 | `tgo:custom_dialogue:470003882010603fc22d` | `custom_dialogue` | `custom-dialogue-repeated-01.jsonl` | Awww! |
 | `tgo:custom_dialogue:6e7073746da5ec76c2c7` | `custom_dialogue` | `custom-dialogue-repeated-01.jsonl` | Awww! |
@@ -319,63 +301,11 @@ Brak konfliktów.
 | `tgo:custom_dialogue:ea3a130ec7c0aaa143e2` | `custom_dialogue` | `custom-dialogue-common-event-story-followups-04.jsonl` | Daemalius! |
 | `tgo:custom_dialogue:0ffd98105466acd4588b` | `custom_dialogue` | `custom-dialogue-map3-event-39-01.jsonl` | Damalius… |
 | `tgo:custom_dialogue:7d86ea0c307d2568978b` | `custom_dialogue` | `custom-dialogue-map15-warehouse-followups-01.jsonl` | David? |
-| `tgo:custom_dialogue:9d0b9d2f6c3c4cef6a84` | `custom_dialogue` | `custom-dialogue-common-event-story-followups-04.jsonl` | Diana! |
-| `tgo:custom_dialogue:9a259a36f30a5ac6fc06` | `custom_dialogue` | `custom-dialogue-map114-followups-01.jsonl` | Diana!? |
-| `tgo:custom_dialogue:976984114441f1c9acf6` | `custom_dialogue` | `custom-dialogue-map99-followups-01.jsonl` | Diana? |
-| `tgo:custom_dialogue:dd1913429a460eb5a51d` | `custom_dialogue` | `custom-dialogue-map70-followups-01.jsonl` | Diana? |
 | `tgo:custom_dialogue:82ed2407fd0bb8183c29` | `custom_dialogue` | `custom-dialogue-map141-warehouse-followups-01.jsonl` | Diana? Henry? |
 | `tgo:custom_dialogue:2fa35322cbcad3cd3224` | `custom_dialogue` | `custom-dialogue-map19-followups-01.jsonl` | Duncan Helmer? |
 | `tgo:custom_dialogue:0881c711cc41191a543d` | `custom_dialogue` | `custom-dialogue-map202-followups-01.jsonl` | Duncan! |
 | `tgo:custom_dialogue:ba8d1702f13df7a65671` | `custom_dialogue` | `custom-dialogue-map62-farm-cave-followups-01.jsonl` | Duncan! |
-| `tgo:custom_dialogue:0b46c34ba008a56b3440` | `custom_dialogue` | `custom-dialogue-map77-followups-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:0e683a3390a88e57fa51` | `custom_dialogue` | `custom-dialogue-map202-followups-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:1480455140ae2951f7b9` | `custom_dialogue` | `custom-dialogue-common-event-446-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:158141565c837b071359` | `custom_dialogue` | `custom-dialogue-map132-followups-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:2205ad27f2c58f9dca0f` | `custom_dialogue` | `custom-dialogue-map151-hell-followups-02.jsonl` | Ella! |
-| `tgo:custom_dialogue:2a5b5e1deb6e2c5afc91` | `custom_dialogue` | `custom-dialogue-map24-followups-02.jsonl` | Ella! |
-| `tgo:custom_dialogue:2e4362e93b27df2d424f` | `custom_dialogue` | `custom-dialogue-map5-followups-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:47a74bdcfb44b1a80492` | `custom_dialogue` | `custom-dialogue-map151-hell-followups-02.jsonl` | Ella! |
-| `tgo:custom_dialogue:48f2bc35063586484afe` | `custom_dialogue` | `custom-dialogue-common-event-446-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:4fec248fe9f1b3e2f379` | `custom_dialogue` | `custom-dialogue-common-event-story-followups-04.jsonl` | Ella! |
-| `tgo:custom_dialogue:57b9af158c94fd367b06` | `custom_dialogue` | `custom-dialogue-map51-followups-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:b09fccff96db8c24ab36` | `custom_dialogue` | `custom-dialogue-scene-chloe-ella-drinks-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:baf4fe5fe25c037b0a9e` | `custom_dialogue` | `custom-dialogue-map54-backyard-followups-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:d3c88e5ac67b8d50aaad` | `custom_dialogue` | `custom-dialogue-common-event-story-followups-04.jsonl` | Ella! |
-| `tgo:custom_dialogue:e0400b55b32ca62fc37e` | `custom_dialogue` | `custom-dialogue-map116-event-4-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:e4a09342253825a596e6` | `custom_dialogue` | `custom-dialogue-common-event-344-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:ecb3ddbdf2a57513cc88` | `custom_dialogue` | `custom-dialogue-map4-apartments-followups-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:f96889784332ceb5814a` | `custom_dialogue` | `custom-dialogue-map11-gym-followups-01.jsonl` | Ella! |
-| `tgo:custom_dialogue:37f8f5532236d240eee5` | `custom_dialogue` | `custom-dialogue-map172-followups-01.jsonl` | Ella!? |
-| `tgo:custom_dialogue:517d618a8639c3c5b9a3` | `custom_dialogue` | `custom-dialogue-map45-followups-01.jsonl` | Ella!? |
-| `tgo:custom_dialogue:8ca893dd4e9e544c654f` | `custom_dialogue` | `custom-dialogue-map107-followups-01.jsonl` | Ella!? |
-| `tgo:custom_dialogue:a289f8c9af8567779552` | `custom_dialogue` | `custom-dialogue-map159-followups-01.jsonl` | Ella!? |
-| `tgo:custom_dialogue:e39623cdd5fdba3b03a9` | `custom_dialogue` | `custom-dialogue-map200-followups-01.jsonl` | Ella!? |
-| `tgo:custom_dialogue:1e9953a7a4848b236d1a` | `custom_dialogue` | `custom-dialogue-map201-finale-followups-01.jsonl` | Ella? |
-| `tgo:custom_dialogue:5486ea09f3525d0c02a0` | `custom_dialogue` | `custom-dialogue-map141-warehouse-followups-01.jsonl` | Ella? |
-| `tgo:custom_dialogue:71c4e98514dad495635d` | `custom_dialogue` | `custom-dialogue-map4-apartments-followups-01.jsonl` | Ella? |
-| `tgo:custom_dialogue:75061c5a6b9972547895` | `custom_dialogue` | `custom-dialogue-scene-hannah-ella-carol-01.jsonl` | Ella? |
-| `tgo:custom_dialogue:974f3155d5c0dd630a18` | `custom_dialogue` | `custom-dialogue-common-event-325-01.jsonl` | Ella? |
-| `tgo:custom_dialogue:2b2e34a299c0bbdac942` | `custom_dialogue` | `custom-dialogue-map51-followups-01.jsonl` | Ella… |
-| `tgo:custom_dialogue:44079bfda050f7a81b03` | `custom_dialogue` | `custom-dialogue-map151-hell-followups-02.jsonl` | Ella… |
-| `tgo:custom_dialogue:aadeedeefeaf25d793a0` | `custom_dialogue` | `custom-dialogue-map6-church-followups-02.jsonl` | Ella…? |
 | `tgo:custom_dialogue:c909b6ce9ca2c303470e` | `custom_dialogue` | `custom-dialogue-map32-station-followups-01.jsonl` | Erica Abraham? |
-| `tgo:custom_dialogue:7ac7c414b6cc24b3a42a` | `custom_dialogue` | `custom-dialogue-scene-hannah-erica-contest-01.jsonl` | Erica! |
-| `tgo:custom_dialogue:7c63fff85736d9ed79d4` | `custom_dialogue` | `custom-dialogue-map125-toma-rift-followups-01.jsonl` | Erica! |
-| `tgo:custom_dialogue:f40cea1b2bd2c375730f` | `custom_dialogue` | `custom-dialogue-common-event-375-01.jsonl` | Erica! |
-| `tgo:custom_dialogue:03dee726428c682397e6` | `custom_dialogue` | `custom-dialogue-map157-hell-followups-01.jsonl` | Erica!? |
-| `tgo:custom_dialogue:352cab96b4ed8f8224a4` | `custom_dialogue` | `custom-dialogue-map13-strip-center-followups-01.jsonl` | Erica!? |
-| `tgo:custom_dialogue:6ed8c4bf3b9f87b2ff3c` | `custom_dialogue` | `custom-dialogue-map19-followups-01.jsonl` | Erica!? |
-| `tgo:custom_dialogue:f1fc59b61b26974266c9` | `custom_dialogue` | `custom-dialogue-map3-event-31-01.jsonl` | Erica!? |
-| `tgo:custom_dialogue:0083a643c0b64aee1acf` | `custom_dialogue` | `custom-dialogue-map183-followups-01.jsonl` | Erica? |
-| `tgo:custom_dialogue:178195f323d1c134c578` | `custom_dialogue` | `custom-dialogue-common-event-316-02.jsonl` | Erica? |
-| `tgo:custom_dialogue:48059e2c3ecd2e3cd41f` | `custom_dialogue` | `custom-dialogue-map55-followups-02.jsonl` | Erica? |
-| `tgo:custom_dialogue:bd20b1956641fdc270cf` | `custom_dialogue` | `custom-dialogue-common-event-456-02.jsonl` | Erica? |
-| `tgo:custom_dialogue:cb30f76ffa916268e896` | `custom_dialogue` | `custom-dialogue-map17-followups-01.jsonl` | Erica? |
-| `tgo:custom_dialogue:d1615f5d50c38de5f482` | `custom_dialogue` | `custom-dialogue-common-event-dialogue-followups-03.jsonl` | Erica? |
-| `tgo:custom_dialogue:fbdc9bf5071d2696befb` | `custom_dialogue` | `custom-dialogue-map114-followups-01.jsonl` | Erica? |
-| `tgo:custom_dialogue:d1262db2a580bba7c176` | `custom_dialogue` | `custom-dialogue-scene-erica-sex-01.jsonl` | Erica?... |
-| `tgo:custom_dialogue:1e2626c28bbdc25f7fea` | `custom_dialogue` | `custom-dialogue-map94-church-followups-01.jsonl` | Erica… |
-| `tgo:custom_dialogue:9285d9bc20172f9515e6` | `custom_dialogue` | `custom-dialogue-map52-ella-chloe-followups-01.jsonl` | Erica…  |
 | `tgo:custom_dialogue:95ef10bbcaed7495a8fa` | `custom_dialogue` | `custom-dialogue-map157-hell-followups-01.jsonl` | Evie! |
 | `tgo:custom_dialogue:cb00b3e0c86e1a2af819` | `custom_dialogue` | `custom-dialogue-map157-hell-followups-01.jsonl` | Evie! |
 | `tgo:custom_dialogue:c4ab40f21642638a4b8c` | `custom_dialogue` | `custom-dialogue-map54-backyard-followups-01.jsonl` | Fluffy! |
@@ -572,13 +502,6 @@ Brak konfliktów.
 | `tgo:custom_dialogue:50cc0fe05dc924e3bb10` | `custom_dialogue` | `custom-dialogue-scene-dinner-01.jsonl` | Madalyn? |
 | `tgo:custom_dialogue:65862f3c4477ee8475d4` | `custom_dialogue` | `custom-dialogue-map31-diana-investigation-01.jsonl` | Madalyn? |
 | `tgo:custom_dialogue:591b766316d01bbfab45` | `custom_dialogue` | `custom-dialogue-common-event-305-01.jsonl` | Madalyn?... |
-| `tgo:custom_dialogue:6f8fb55a55b467235a3b` | `custom_dialogue` | `custom-dialogue-common-event-409-01.jsonl` | Melissa! |
-| `tgo:custom_dialogue:fe6bf2a22ae40a3f8696` | `custom_dialogue` | `custom-dialogue-map19-followups-01.jsonl` | Melissa! |
-| `tgo:custom_dialogue:5811c8e452c93d54bf8d` | `custom_dialogue` | `custom-dialogue-common-event-441-01.jsonl` | Melissa? |
-| `tgo:custom_dialogue:707026ddc66f288692eb` | `custom_dialogue` | `custom-dialogue-common-event-356-01.jsonl` | Melissa? |
-| `tgo:custom_dialogue:98b0d6c83d78cbbfde00` | `custom_dialogue` | `custom-dialogue-map78-channel4-kimura-followups-01.jsonl` | Melissa? |
-| `tgo:custom_dialogue:b004d617d6ba7a23c32f` | `custom_dialogue` | `custom-dialogue-map15-warehouse-followups-01.jsonl` | Melissa? |
-| `tgo:custom_dialogue:f839b06f1a201131c7f0` | `custom_dialogue` | `custom-dialogue-map20-church-event-58-01.jsonl` | Melissa? |
 | `tgo:custom_dialogue:030ba790ddccf0fc16aa` | `custom_dialogue` | `custom-dialogue-common-event-477-01.jsonl` | Mmm! |
 | `tgo:custom_dialogue:0330b8830fad6b7ca711` | `custom_dialogue` | `custom-dialogue-scene-orgy-01.jsonl` | Mmm! |
 | `tgo:custom_dialogue:77659fa26183a5cf2b34` | `custom_dialogue` | `custom-dialogue-common-event-477-01.jsonl` | Mmm! |
@@ -621,14 +544,6 @@ Brak konfliktów.
 | `tgo:custom_dialogue:138d4ec821c31d33d43d` | `custom_dialogue` | `custom-dialogue-map141-warehouse-followups-01.jsonl` | Santiva! |
 | `tgo:custom_dialogue:c7cf3f96b0ad0813a4ba` | `custom_dialogue` | `custom-dialogue-map82-channel4-followups-01.jsonl` | Simon! |
 | `tgo:custom_dialogue:1af5ecc4c3477ec61bfa` | `custom_dialogue` | `custom-dialogue-map15-warehouse-followups-01.jsonl` | Tasha Cole. |
-| `tgo:custom_dialogue:5c40016c2fdb34d7023c` | `custom_dialogue` | `custom-dialogue-map31-tasha-inquiry-01.jsonl` | Tasha! |
-| `tgo:custom_dialogue:e4a6a32324bf6b94b113` | `custom_dialogue` | `custom-dialogue-map150-followups-01.jsonl` | Tasha! |
-| `tgo:custom_dialogue:38ff6ef119c3b6ed36a3` | `custom_dialogue` | `custom-dialogue-map20-event-89-01.jsonl` | Tasha? |
-| `tgo:custom_dialogue:5e123677f8e9dc7b9ee1` | `custom_dialogue` | `custom-dialogue-map94-church-followups-01.jsonl` | Tasha? |
-| `tgo:custom_dialogue:832829e8bb766ea83780` | `custom_dialogue` | `custom-dialogue-map125-toma-rift-followups-01.jsonl` | Tasha? |
-| `tgo:custom_dialogue:dd2c24f5caecef131fcf` | `custom_dialogue` | `custom-dialogue-map11-gym-followups-01.jsonl` | Tasha? |
-| `tgo:custom_dialogue:ec300f3926c4fb7964d7` | `custom_dialogue` | `custom-dialogue-map20-event-89-01.jsonl` | Tasha? |
-| `tgo:custom_dialogue:ef31fc4d83493219317a` | `custom_dialogue` | `custom-dialogue-map201-finale-followups-01.jsonl` | Tasha… |
 | `tgo:custom_dialogue:36939580192af4f40211` | `custom_dialogue` | `custom-dialogue-common-event-411-01.jsonl` | Ugh!... |
 | `tgo:custom_dialogue:557c4b4fa8944cf83a6f` | `custom_dialogue` | `custom-dialogue-map20-foyer-heather-arianna-01.jsonl` | … Tasha. |
 | `tgo:custom_dialogue:8fdbda3f10fce31d6b4f` | `custom_dialogue` | `custom-dialogue-common-event-364-01.jsonl` | …Judy? |
