@@ -71,5 +71,5 @@ Uwaga: powyższa tabela łączy kategorie semantycznie; pojedyncze rekordy nie s
 
 - 1 122 wiadomości i 1 930 opcji pozostają bez semantycznego podtypu; nie należy nazywać ich wszystkich dialogiem.
 - Tekst w obrazach/audio/wideo, runtime’owe wartości od użytkownika/urządzeń i obliczane liczby nie są statycznymi tekstami źródłowymi.
-- Nie zweryfikowano renderowania polskich glifów, długości, łamania wierszy ani zachowania UI w działającej grze. Nie przygotowano tłumaczenia, patcha ani ZIP-a.
+- Nie zweryfikowano renderowania polskich glifów, długości, łamania wierszy ani zachowania UI w działającej grze. Przygotowano source ZIP v1 (pełny statyczny eksport z kontekstem, nie patch); nie ma tłumaczenia ani finalnego patcha.
 - Surowe assety nie są śledzone w Git; kanoniczne wyodrębnione JSON-y, dokumentacja, narzędzia i testy są śledzone zgodnie z decyzją właściciela.

@@ -7,7 +7,7 @@ Wybrany projekt lokalizacyjny. Potwierdzono RPG Maker MV 1.6.1 + NW.js. Praca ob
 - Kanoniczne JSONL ze stabilnymi ID: [`translation/export-v1/`](translation/export-v1/), **45 229 rekordów**, wszystkie kontrolne liczniki pokrycia przechodzą.
 - Statyczny JS audit: 78 plików, 563 kandydatury, 35 potwierdzonych statycznych powierzchni UI, 528 wykluczeń z jawnym powodem, 0 otwartych.
 - Wiadomości i wybory są zachowane jako widoczne powierzchnie; nie przypisujemy fabularnego/UI podtypu bez dowodu. Szczegółowe liczniki znajdują się w [`docs/STATUS.md`](docs/STATUS.md) i [`docs/COUNT_REPORT.md`](docs/COUNT_REPORT.md).
-- Testy, round-trip check, Markdown draft i dokumentacja są narzędziami workflow; nie uruchomiono gry ani kodu gry. Nie ma tłumaczeń, patcha ani ZIP-a.
+- Testy, round-trip check, Markdown draft i dokumentacja są narzędziami workflow; nie uruchomiono gry ani kodu gry. Wygenerowano prywatny source ZIP v1 w ignorowanym `google_drive/`; nie ma tłumaczeń ani patcha.
 
 ## Dane i granice Gita
 
@@ -22,6 +22,7 @@ python3 -m unittest discover -s games/the-genesis-order/tests -v
 python3 games/the-genesis-order/tools/export_translation.py
 python3 games/the-genesis-order/tools/markdown_translation.py build --replace
 python3 games/the-genesis-order/tools/apply_translation.py --input games/the-genesis-order/translation/export-v1 --check
+python3 games/the-genesis-order/tools/build_translation_package.py
 ```
 
 Eksporter weryfikuje zatwierdzony JS JSONL z `google_drive/the-genesis-order/translation/export-v1/reviewed_js_ui.jsonl` i zapisuje kanoniczny eksport w repo. Markdown i staging powstają pod `google_drive/`.

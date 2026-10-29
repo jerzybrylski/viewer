@@ -125,3 +125,11 @@
 - `apply_translation.py --check`: 45 229 rekordów, 0 tłumaczeń, 238 source files zweryfikowanych, 0 plików zmienionych; `markdown_translation.py build --replace`: 497 dokumentów / 45 229 rekordów / 238 źródeł w ignorowanym google_drive. Markdown import `--check`: 45 229 kanonicznych rekordów, 0 tłumaczeń, 0 braków.
 - Pełny zestaw `python3 -m unittest discover -s games/the-genesis-order/tests -v`: **27/27 passed**, w tym kontrola importu Markdown dla chronionych wartości; `git diff --check` bez błędów. Oryginalne assety pozostają poza Gitem; dokumentacja, narzędzia, decyzje kuratorskie oraz wyodrębnione JSONL są przeznaczone do śledzenia w repo zgodnie z najnowszą decyzją właściciela.
 - Nie przygotowano ZIP-a, nie uruchamiano gry i nie rozpoczęto tłumaczenia.
+
+## 2026-10-29 — źródłowy pakiet tłumaczeniowy v1
+
+- Na prośbę właściciela przygotowano pełny statyczny source ZIP w ignorowanym `google_drive/the-genesis-order/translation/packages/`; nie czekano na dodatkową klasyfikację podtypów, ponieważ wszystkie 1 122 wiersze `401` i 1 930 opcji są dołączone i jawnie oznaczone jako nierozstrzygnięte.
+- Dodano `tools/build_translation_package.py`. Skrypt wymaga `coverage_checks_passed=true`, zgodności liczby rekordów między JSONL i Markdown, unikalnych ID, bezpiecznych ścieżek, zapisuje ZIP tylko pod `google_drive/`, sprawdza CRC ZIP-a i generuje sidecar SHA-256. Do archiwum trafiają wyłącznie eksport JSONL, Markdown, README/manifest pakietu oraz dokumenty tekstowe; bez assetów i kodu gry.
+- Walidacja po dodaniu skryptu: `py_compile` OK; pełne `unittest` **27/27 passed**; Markdown import-check **45 229 rekordów / 0 braków**; builder zweryfikował `coverage_checks_passed=true`, **45 229 rekordów, 497 dokumentów, 131 chronionych wartości, 531 wpisów ZIP**. Końcowy SHA-256 i rozmiar zapisuje builder w `TGO_source_translation_package_v1.zip.sha256`.
+- Ponowione `apply_translation.py --check` nie mogło wystartować, bo bieżące środowisko nie zawiera ignorowanego `google_drive/the-genesis-order/data/CommonEvents.json`. Wcześniejszy check 45 229 rekordów / 238 źródeł przeszedł; nie zmieniano eksportu JSONL.
+- Nie uruchamiano gry/kodu gry. Nie wygenerowano tłumaczenia ani patcha.

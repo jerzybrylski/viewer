@@ -1,62 +1,57 @@
 # Handoff dla kolejnego agenta — The Genesis Order
 
-Stan na 2026-10-29. Ten dokument opisuje **otwarte zadania** i warunki kontynuacji; nie przygotowano ZIP-a.
+Stan: 2026-10-29. Statyczny eksport jest zweryfikowany, a na prośbę właściciela utworzono źródłowy ZIP v1. Nie ma jeszcze tłumaczenia ani patcha gry.
 
-## Gdzie jesteśmy
+## Stan repo i artefaktów
 
-- Pracuj wyłącznie na gałęzi `arena/df0bbe3f-viewer` (status PR: `pr_open`). Nie zmieniaj ani nie twórz gałęzi.
-- Kanoniczny eksport znajduje się w `games/the-genesis-order/translation/export-v1/`: **45 229 rekordów**, 25 JSONL + `export_manifest.json`. Kontrole manifestu przechodzą; ID są unikalne.
-- Ostatnia walidacja: pełne `unittest` **27/27 passed**; `apply_translation.py --check`: 45 229 rekordów, 238 źródeł zweryfikowanych, bez zapisu; Markdown import-check: 45 229 rekordów, 0 brakujących ID.
-- Szkic Markdown: 497 dokumentów / 45 229 rekordów w ignorowanym `google_drive/the-genesis-order/translation/markdown-draft-v1/` — **nie kopiować do Gita** (około 83 MB).
-- Dokumentacja, narzędzia, decyzje kuratorskie i JSONL są staged w Git zgodnie z ostatnią decyzją właściciela. Oryginalne pliki gry, media, pełne skany i staging pozostają pod ignorowanym `google_drive/`. Nie commitowano ani nie pushowano.
-- Nie uruchamiano gry ani kodu gry. Nie rozpoczęto tłumaczenia. Nie wygenerowano ZIP-a.
+- Pracuj tylko na `arena/df0bbe3f-viewer` (PR #1 jest otwarty); nie zmieniaj gałęzi.
+- Commit `b2118af` zawierał poprzedni zweryfikowany eksport i dokumentację. Pakiet/nowy builder opisane w tej aktualizacji są dalszą pracą na tej samej gałęzi.
+- Kanoniczny eksport Git: `games/the-genesis-order/translation/export-v1/`, **45 229 rekordów**, 25 JSONL + manifest; wszystkie coverage checks przechodzą.
+- Source ZIP: `google_drive/the-genesis-order/translation/packages/TGO_source_translation_package_v1.zip`; SHA-256 zapisany w sąsiednim `.sha256`. ZIP integrity sprawdzony; zawiera 531 pozycji: kanoniczne JSONL, 497 kontekstowych dokumentów Markdown, instrukcję, manifest, glossary/politykę i raport zakresu. **Nie zawiera oryginalnych assetów ani kodu gry.** ZIP pozostaje poza Gitem.
+- Walidacja bieżącej pracy: pełne `unittest` 27/27; Markdown import-check: 45 229 rekordów, 0 brakujących ID; `build_translation_package.py` utworzył i zweryfikował 531-entry ZIP. Wcześniejszy `apply_translation.py --check` przeszedł dla 45 229 rekordów / 238 źródeł; przy ponowieniu w tej sesji nie można go odtworzyć, bo ignorowane `google_drive/the-genesis-order/data/CommonEvents.json` nie jest obecne.
+- Nie uruchamiano gry ani kodu gry. Pola tłumaczenia są puste.
 
-## Zakres, który został domknięty statycznie
+## Pokrycie — istotne liczby
 
-- Skan 78 plików JS: 563 kandydatury = 35 potwierdzonych statycznych UI, 528 wykluczeń z jawnym powodem, 0 odroczonych i 0 nierozstrzygniętych. UI: 4 `ui.engine_static`, 9 `ui.plugin_parameter`, 22 `ui.plugin_static`.
-- Kanały danych/skryptów są uwzględnione, m.in. CE60 (38 638 wpisów), CE222 (705), telefon (30), CE223 (649), CE224 (134 static captions) i Lovense. `PC`/`LAN`/`Web` są chronione jako wartości runtime; `Not Connected` pozostaje tłumaczalne.
-- Dodano 262 niepuste statyczne wartości komendy 122 renderowane przez widoczne `\\V[...]`: 134 wpisy tekstowe/statusowe tłumaczalne i 128 chronionych (61 cen + 67 markerów). 132 whitespace-only wartości pominięto jako layout.
-- Wszystkie 2 110 opcji wyboru i 1 513 nie-rendererowych wierszy 401 są uwzględnione jako powierzchnie tekstu. 34 pola `Items.note` zawierają tylko tagi/metadane; 1 570 plugin commands sklasyfikowano jako sterowanie/parametry, nie bezpośrednie teksty UI.
-- Szczegóły i aktualne liczniki: `translation/export-v1/export_manifest.json`, `docs/STATUS.md`, `docs/COUNT_REPORT.md`, `docs/TRANSLATION_FORMAT.md`.
+- JS: 78 plików, 563 kandydatury = 35 potwierdzonych UI, 528 wykluczeń z jawnym powodem, 0 nierozstrzygniętych.
+- CE60: 38 638; CE222: 705; telefon: 30; CE223: 649; CE224: 134 statyczne captions.
+- 2 110 opcji wyboru / 695 grup: 180 znanych UI, 1 930 pozostawiono bez zgadywania semantycznego podtypu.
+- 1 513 nie-rendererowych `401`: 1 122 bez semantycznego podtypu, reszta to jawne UI/telefon. Wszystkie są w pakiecie jako widoczne powierzchnie tekstu.
+- Vary: 262 wartości statyczne; 128 cen/markerów chronionych plus 3 etykiety Lovense chronione, 134 wartości tłumaczalne. 132 wartości whitespace-only pominięto.
+- 34 pola `Items.note` zawierają wyłącznie tagi/metadane. 1 570 plugin commands to sterowanie/parametry; nie wykryto pominiętego, bezpośredniego statycznego tekstu UI w tych poleceniach.
 
-## Otwarte zadania — kolejność
+## Otwarte zadania
 
-### 1. Uzyskać decyzję właściciela o granicy semantycznej przed ZIP-em
+### 1. Podtypy semantyczne — nie blokują już źródłowego ZIP-a
 
-- [ ] Uzgodnić, czy przed pakietem trzeba semantycznie podzielić **1 122** ogólne wiersze `401` i **1 930** opcji na dialog, tutorial, komunikat i UI. Wszystkie są już w JSONL; nierozstrzygnięty podtyp nie oznacza brakujących rekordów.
-- [ ] Potwierdzić, czy media-embedded text ma pozostać poza zakresem (obrazy/audio/wideo), oraz czy dynamiczne nazwy urządzeń/użytkowników mają pozostać nietłumaczone. Obecny audyt traktuje je jako media albo zewnętrzne dane runtime, nie statyczne teksty źródłowe.
-- [ ] Nie generować ZIP-a automatycznie. Przygotować go dopiero po wyraźnej akceptacji pokrycia i zakresu przez właściciela.
+- [ ] Zdecydować, czy przed przekazaniem tłumaczowi dodatkowo podzielić 1 122 wiersze `401` i 1 930 opcji na dialog/tutorial/powiadomienie/UI. W source ZIP są zachowane, lecz bez zgadywania podtypu.
+- [ ] Jeśli klasyfikacja jest wymagana, przejrzeć kontekst i treść, przypisać statusy z poziomem pewności; nie zmieniać/usuwać rekordów.
+- [ ] Rozstrzygnąć, czy rozszerzać zakres o tekst w mediach i dynamiczne dane z urządzeń/użytkowników. Obecny pakiet jasno wyłącza te źródła.
 
-### 2. Ustalić zasady lokalizacji i rozpocząć tłumaczenie dopiero po akceptacji
+### 2. Przygotowanie tłumaczenia
 
-- [ ] Potwierdzić język źródłowy i docelowy dla konkretnego builda oraz konwencje: imiona, odmiana/rodzaje, terminy, cenzura/ton i nazwy UI.
-- [ ] Uzupełnić glosariusz i zasady w `docs/TRANSLATION_POLICY.md` oraz `docs/GLOSSARY.md` na podstawie decyzji właściciela, nie zgadywać.
-- [ ] Rozpoczynać tłumaczenie po stabilnym `id` z `translation/export-v1`; nie zmieniać `source_text`, locatorów ani ID.
-- [ ] Chronione rekordy `context.translation_policy=keep_source_value` muszą pozostać identyczne. Obejmują ceny/markery i wartości sterujące; walidatory JSONL i Markdown je odrzucają po zmianie.
+- [ ] Potwierdzić build gry, język źródłowy i polskie konwencje nazewnicze/terminologiczne. Źródłowy language/build nie są formalnie potwierdzone.
+- [ ] Uzupełnić glosariusz i finalną politykę tłumaczenia na podstawie decyzji właściciela.
+- [ ] Tłumaczyć wyłącznie po stabilnym `id`; nie zmieniać locatorów, source hashes, `source_text` ani tokenów.
+- [ ] Zachować wszystkie 131 rekordów `keep_source_value` dokładnie; importer Markdown/JSONL odrzuca zmiany.
 
-### 3. Wykonać zwrotkę i QA tłumaczenia
+### 3. QA zwrotki i patcher Windows
 
-- [ ] Po wypełnieniu tłumaczeń uruchomić Markdown import-check oraz `apply_translation.py --check`; zachować wszystkie tokeny/escape’y i rozliczyć braki, duplikaty oraz konflikty.
-- [ ] Dodać testy na realnych, ale ograniczonych rekordach każdej używanej kategorii — szczególnie `event_script_expression`, `keep_source_value`, JS/pluginowe UI, template literal i wielowierszowe JSON — bez modyfikacji assetów wejściowych.
-- [ ] Zachować staging wyłącznie w nowym katalogu pod ignorowanym `google_drive/`; nigdy nie nadpisywać oryginału.
+- [ ] Po tłumaczeniu uruchomić Markdown import-check i `apply_translation.py --check`; rozliczyć brakujące ID, duplikaty, tokeny i konflikty.
+- [ ] Ustalić docelowy build/layout, checksumy, backup/rollback, zapis atomowy oraz wpływ na save'y/osiągnięcia.
+- [ ] Testować patcher najpierw na kopiach syntetycznych; test runtime/Windows wymaga kopii i zgody właściciela.
+- [ ] ZIP patcha/finalnej polskiej dystrybucji jest osobną bramką — source ZIP z tego handoffu nie jest patchem.
 
-### 4. Późniejszy patcher Windows
+## Odtworzenie artefaktów
 
-- [ ] Ustalić dokładny build/layout kopii użytkownika i politykę hashy; bieżące `versionId` nie jest potwierdzonym numerem wydania.
-- [ ] Zaprojektować instalację lokalną z wykrywaniem kopii, backupem, atomowym zapisem, raportem i rollbackiem; rozważyć save’y/osiągnięcia.
-- [ ] Testować najpierw na kopiach syntetycznych. Test w grze/Windows wymaga zgody i potwierdzenia wykonania przez właściciela.
-- [ ] ZIP patchera/tłumacza jest osobną bramką; brak zgody oznacza brak archiwum.
-
-## Bezpieczne polecenia odtworzenia
-
-Źródłowe assety muszą istnieć lokalnie w ignorowanym `google_drive/the-genesis-order/`. Eksporter nie uruchamia kodu gry.
+Do przebudowy samego Markdown/ZIP wystarczy kanoniczny eksport Git. Ponowny eksport z assetów wymaga lokalnych oryginałów w ignorowanym `google_drive/the-genesis-order/`.
 
 ```bash
 python3 -m unittest discover -s games/the-genesis-order/tests -v
-python3 games/the-genesis-order/tools/export_translation.py
 python3 games/the-genesis-order/tools/markdown_translation.py build --replace
 python3 games/the-genesis-order/tools/apply_translation.py --input games/the-genesis-order/translation/export-v1 --check
 python3 games/the-genesis-order/tools/markdown_translation.py import --check
+python3 games/the-genesis-order/tools/build_translation_package.py
 ```
 
-Po zmianach sprawdzić `git status`, `git diff --cached --check` oraz upewnić się, że żaden `google_drive/` ani ZIP nie trafił do stagingu. Nie kopiować tekstów SRW do TGO.
+Nie dodawać do Git żadnej ścieżki `google_drive/` ani ZIP-a. Nie kopiować tekstów SRW do TGO.
