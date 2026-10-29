@@ -157,3 +157,13 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 | R-09 | Odmiana imion | **rozstrzygnięte: ujednolicić odmianę** — wykonane w 380 rekordach (patrz wyżej) |
 | R-10 | `WoNoChurch` | **rozstrzygnięte: bez zmian** — „WoNo — kościół” |
 | R-11 | Fonty | **POTWIERDZONE W GRZE** — polskie znaki, opcje PL i zawijanie tekstu działają |
+
+---
+
+## Redakcja stylistyczna 2026-10-29 — klastry fraz (decyzja wykonawcza)
+
+- **Decyzja właściciela:** urozmaicać wyłącznie **klastry** — to samo wyrażenie powtórzone w jednej scenie. Pojedyncze wystąpienia w różnych scenach zostają bez zmian.
+- **Zasada nadrzędna:** **identyczne źródło → identyczne tłumaczenie.** Przed zmianą porównuj `source_text`; powtórzenie w źródle nie jest błędem tłumacza. Jedyny taki klaster (CE17, 6×) pozostawiony bez zmian.
+- **Wykonanie:** 27 rekordów, warianty leksykalne w granicach znaczenia i rejestru; `do cholery` 344 → 324, `w porządku` 183 → 176.
+- **Spójność krótkich źródeł:** 15 przypadków divergentnych → **8**. Odrzucone „poprawki” z uzasadnieniem: `Church` (motywy vs etykiety map), `Equip` (dwa sloty komend), `Hannah?`/`Ellę?` (eliptyczne odpowiedzi), trzy pytania z odmienną płcią mówiącego, `Anal` (opcja vs podpis obrazu).
+- **Status:** [POTWIERDZONE] liczby z `translation/reports/editorial_qa_v1.json`; [NIEZWERYFIKOWANE] odbiór stylistyczny w grze — do oceny właściciela przy pełnym przejściu.

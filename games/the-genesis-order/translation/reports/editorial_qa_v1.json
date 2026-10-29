@@ -87,7 +87,7 @@
   "repeated_phrases": [
     {
       "phrase": "do cholery",
-      "count": 344,
+      "count": 324,
       "example": {
         "id": "tgo:custom_dialogue:dd12fd1a9ee3e24a00f3",
         "text": "Skąd, do cholery, mam wiedzieć, co masz teraz zrobić? Daj mi coś konkretnego."
@@ -134,19 +134,19 @@
       }
     },
     {
-      "phrase": "w porządku",
-      "count": 183,
-      "example": {
-        "id": "tgo:arianna_hint:2a054112542435d0382b",
-        "text": "Sprawdź, czy u Heather i Chloe wszystko w porządku."
-      }
-    },
-    {
       "phrase": "mam nadzieję że",
       "count": 177,
       "example": {
         "id": "tgo:arianna_hint:4fd53cf9e75d2a3f9605",
         "text": "Mam nadzieję, że w rezydencji nadal będzie bezpiecznie, mimo że pilnuje jej mniej funkcjonariuszy."
+      }
+    },
+    {
+      "phrase": "w porządku",
+      "count": 176,
+      "example": {
+        "id": "tgo:arianna_hint:2a054112542435d0382b",
+        "text": "Sprawdź, czy u Heather i Chloe wszystko w porządku."
       }
     },
     {

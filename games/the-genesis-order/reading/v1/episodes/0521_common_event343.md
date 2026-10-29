@@ -1,6 +1,6 @@
 ## Common Event 343 — SCN - Madalyn Judy
 
-**Mox:** Co to, do cholery, było?  
+**Mox:** Co to było, u licha?  
 **Mox:** Coś jest nie tak.  
 **Mox:** To Judy!...  
 **Mox:** Z kim ona jest?  

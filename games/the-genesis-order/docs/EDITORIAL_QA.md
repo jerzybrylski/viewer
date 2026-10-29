@@ -21,14 +21,14 @@
 
 | Fraza | Wystąpienia | Przykład |
 |---|---:|---|
-| do cholery | 344 | Skąd, do cholery, mam wiedzieć, co masz teraz zrobić? Daj mi coś konkretnego. |
+| do cholery | 324 | Skąd, do cholery, mam wiedzieć, co masz teraz zrobić? Daj mi coś konkretnego. |
 | po prostu | 300 | Och… Myślałem, że po prostu będziesz wiedział, co robić. |
 | wygląda na | 273 | Ella wygląda na przygnębioną. Pociesz ją. |
 | wygląda na to | 211 | Wygląda na to, że da się złożyć ten klucz. Tylko jak? |
 | nadzieję że | 199 | Mam nadzieję, że w rezydencji nadal będzie bezpiecznie, mimo że pilnuje jej mniej funkcjon |
 | mam nadzieję | 187 | Mam nadzieję, że w rezydencji nadal będzie bezpiecznie, mimo że pilnuje jej mniej funkcjon |
-| w porządku | 183 | Sprawdź, czy u Heather i Chloe wszystko w porządku. |
 | mam nadzieję że | 177 | Mam nadzieję, że w rezydencji nadal będzie bezpiecznie, mimo że pilnuje jej mniej funkcjon |
+| w porządku | 176 | Sprawdź, czy u Heather i Chloe wszystko w porządku. |
 | się dzieje | 156 | Chloe poszła do kościoła. Może sprawdzisz, co tam się dzieje? |
 | gdzie jest | 156 | Gdzie jest Andrea? |
 | center br | 151 | <center><br><br>Spóźnił się pan, panie Canmore. |

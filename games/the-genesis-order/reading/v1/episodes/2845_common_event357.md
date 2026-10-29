@@ -15,7 +15,7 @@
 **Mox:** No cholera.  
 **Heather:** Bardzo przepraszam, kochanie. Nie wiedziałam, że jesteście… tak blisko.  
 **Mox:** Heather… To nie tak… My tylko…  
-**Heather:** W porządku, skarbie. Nie musisz się tłumaczyć.  
+**Heather:** Spokojnie, skarbie. Nie musisz się tłumaczyć.  
 **Mox:** Nie, naprawdę… Nic nas nie łączy… To tylko…  
 **Heather:** Co się stało?  
 **Mox:** Chloe dużo się uczy…  
@@ -45,11 +45,11 @@
 **Mox:** Zawsze uważałem, że jesteś piękna… ale…  
 **Heather:** Nigdy nie patrzyłeś na mnie jak na obiekt pożądania.  
 **Mox:** Nie.  
-**Heather:** W porządku, kochanie.  
+**Heather:** Już dobrze, kochanie.  
 **Heather:** Muszę przyznać, że tak szybko dorosłeś, że nie wiedziałam, jak zareagować…  
 **Heather:** Bardzo się do ciebie przywiązałam.  
 **Mox:** Ale…  
-**Heather:** W porządku, Mox. Teraz już wszystko w porządku.  
+**Heather:** Już dobrze, Mox. Teraz już wszystko w porządku.  
 **Heather:** No proszę. Nie wyobrażałam sobie ładniejszego kutasa.  
 **Mox:** Podoba ci się?  
 **Heather:** Oczywiście!  

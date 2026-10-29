@@ -45,11 +45,11 @@
 **Mox:** Chcę to zrobić… Ale mam wyrzuty sumienia.  
 **Judy:** Mox. Wszystko w porządku. Obiecuję.  
 **Mox:** Nie możemy posunąć się dalej.  
-**Judy:** Wiem… I w porządku.  
+**Judy:** Wiem… I dobrze.  
 **Mox:** … Spróbuj się rozluźnić.  
 **Judy:** Ach! Mox!  
 **Mox:** Wszystko w porządku?  
-**Judy:** W porządku… Nic mi nie jest.  
+**Judy:** Już dobrze… Nic mi nie jest.  
 **Mox:** Musisz się rozluźnić.  
 **Judy:** O, Mox.  
 **Mox:** Rozluźnij się… Jesteś taka ciasna.  

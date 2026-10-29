@@ -12987,7 +12987,7 @@
 **Judy:** To bardzo miło z twojej strony, że nam pomagasz.  
 **Chloe:** Gdzie ten gliniarz?  
 **Mox:** Powinien być lada chwila.  
-**Bobby:** Co ty tu, do cholery, robisz?  
+**Bobby:** Co ty tu, u diabła, robisz?  
 **Mox:** Bobby!?  
 **Bobby:** Tylko nie mów, że to ty jesteś moim kontaktem.  
 **Mox:** Teraz jesteś naszym stróżem?  
@@ -14250,7 +14250,7 @@
 **Mox:** Myślę, że doceni, że wrócisz z nią porozmawiać.  
 **Chloe:** Na razie, Mox.  
 **Mox:** …Mam nadzieję, że to nie przeze mnie Heather wariuje.  
-**Mox:** Co to, do cholery, było?  
+**Mox:** Co to było, u licha?  
 
 ---
 
@@ -15199,7 +15199,7 @@
 
 ## Common Event 343 — SCN - Madalyn Judy
 
-**Mox:** Co to, do cholery, było?  
+**Mox:** Co to było, u licha?  
 **Mox:** Coś jest nie tak.  
 **Mox:** To Judy!...  
 **Mox:** Z kim ona jest?  
@@ -18773,7 +18773,7 @@
 **Chloe:** Dzięki, Mox.  
 **Hannah:** Chodźmy zjeść jeszcze więcej!  
 **Erica:** Dość jedzenia! Chcę jeszcze jedno piwo!  
-**Hannah:** Ha, ha, ha!  
+**Hannah:** Hahahaha!  
 **Mox:** Odprowadzę dziewczyny do domu.  
 **Chloe:** Wybacz, Hannah. Kończymy na dziś.  
 **Judy:** …  
@@ -19471,7 +19471,7 @@
 **Bobby:** Nie na zakup kradzionych artefaktów.  
 **Nellie:** Nie wiem, o czym mówisz.  
 **Mox:** Hej! Wiem, że Jon ma licencję. Mogę za niego ręczyć.  
-**Bobby:** Co ty tu, do cholery, robisz?  
+**Bobby:** Co ty tu, u diabła, robisz?  
 **Jon:** Zapewniam panów, że wszystko tutaj jest legalne.  
 **Bobby:** A co z tym kielichem, który ta pani wyrzuciła w krzaki, gdy podjechaliśmy?  
 **Nellie:** Nie mam pojęcia, co to jest.  
@@ -19852,7 +19852,7 @@
 **Diana:** Puść mnie! Nie masz prawa mnie zatrzymywać!  
 **Jon:** Zamknij się!  
 **Mox:** Hej!  
-**Bobby:** Co ty tu, do cholery, robisz?  
+**Bobby:** Co ty tu, u diabła, robisz?  
 **Funkcjonariusz A:** Myślałem, że cię zwolnili.  
 **Diana:** Nic nie zrobiłem.  
 **Jon:** Próbowała włamać się do mojego magazynu!  
@@ -19898,7 +19898,7 @@
 **Mox:** Zrozumiałem.  
 **Diana:** Dzięki, że to zrobiłeś.  
 **Melissa:** Ryzykuję dla ciebie własną skórą. Lepiej, żebyś się przydał.  
-**Mox:** Co się, do cholery, stało? Wszedłem do bunkra i uruchomiła się pułapka.  
+**Mox:** Co się, u licha, stało? Wszedłem do bunkra i uruchomiła się pułapka.  
 **Diana:** Nie mogłem przechytrzyć Jona… Cholera… Starzeję się?  
 **Melissa:** Twój człowiek… Nadal jest tam uwięziony?  
 **Diana:** Zgadza się. Miał zabić Duncana i się stamtąd wydostać… Mam tylko nadzieję, że jeszcze żyje.  
@@ -20578,7 +20578,7 @@
 **Carol:** Mox? Chloe? Jak się wydostaliście?  
 **Heather:** Przyłapałam ich na pieprzeniu się.  
 **Chloe:** O rany.  
-**Carol:** Ha, ha, ha!  
+**Carol:** Hahaha!  
 **Mox:** Fałszywy alarm, Carol. Wszystko dobrze się skończyło.  
 **Carol:** Czyli masz teraz kota, Heather.  
 **Heather:** Najwyraźniej tak.  
@@ -30513,7 +30513,7 @@
 **Duncan:** Hej! Stój!  
 **Nellie:** Uważaj, gdzie tym celujesz!  
 **Madalyn:** Skończyłaś?  
-**Duncan:** Czym ty, do cholery, jesteś?  
+**Duncan:** Czym ty, u diabła, jesteś?  
 **Madalyn:** To, czym jestem, nie powinno cię obchodzić. Powinieneś zapytać, czego chcę.  
 **Oprych 2:** Musimy się stąd wydostać!  
 **Duncan:** Zamknij się!  
@@ -30544,7 +30544,7 @@
 **Nellie:** Uciekaj!  
 **Hannah:** Za nimi!  
 **Mox:** Hannah, przestań!  
-**Carol:** Co to, do cholery, było?  
+**Carol:** Co to było, u licha?  
 **Hannah:** To złodzieje mieszkający w bunkrze pod wzgórzami!  
 **Carol:** W bunkrze?  
 **Mox:** Hannah? Co ty masz na sobie?  
@@ -31975,7 +31975,7 @@
 ## Mapa 030 — Restauracja / event 11 / strona 1
 
 **Postać niezależna:** Moja żona mnie zdradza! Jaką koszulę ma na sobie ten drań?  
-**Narrator / mówca nieustalony:** Żona mnie zdradza! Jakiego koloru koszulę ma ten drań?  
+**Narrator / mówca nieustalony:** Moja żona mnie zdradza! Jaką koszulę ma na sobie ten drań?  
 
 **Wybór gracza:**
 - Czerwony
@@ -33329,14 +33329,14 @@
 **Mox:** To co to jest?  
 **Tasha:** Chcesz to dildo, czy nie?  
 **Melissa:** Uważaj na słowa!  
-**Tasha:** Co ja takiego, do cholery, powiedziałem?  
-**Melissa:** A ty po co tu, do cholery, przyszedłeś, Mox?  
+**Tasha:** Co ja takiego, u licha, powiedziałem?  
+**Melissa:** A ty po co tu, u diabła, przyszedłeś, Mox?  
 **Mox:** Przyszedłem przesłuchać Tashę.  
 **Tasha:** W jakiej sprawie?  
 **Mox:** Widziałem twojego chłopaka w kryjówce Duncana.  
 **Melissa:** O czym wy dwoje, do cholery, rozmawiacie?  
 **Mox:** Duncan mnie porwał. Ledwo uciekłem dzięki znajomemu Taszy, który szuka skarbów.  
-**Melissa:** Co ty, do cholery, wyprawiałeś?  
+**Melissa:** Co ty, na Boga, wyprawiałeś?  
 **Mox:** Wpakowałem się w kłopoty przez Andreę.  
 **Tasha:** Mówiłem ci. Mamy plan i Duncan długo już nie pożyje.  
 **Mox:** Jaki jest plan?  
@@ -33375,7 +33375,7 @@
 **Melissa:** Magazyn to kryjówka?  
 **Tasha:** Nie!... To u ciebie jest kryjówka! Suko!  
 **Mox:** O cholera! Jon też jest w to zamieszany?  
-**Tasha:** Kim, do cholery, jest Jon?  
+**Tasha:** Kim u licha jest Jon?  
 **Mox:** Hej! Dokąd idziesz?  
 **Tasha:** Chyba nie chciała tego dildo.  
 
@@ -38601,7 +38601,7 @@
 **Mox:** Masz rację… Jest idealnie.  
 **Heather:** Och, kochanie. Tak cudownie cię w sobie czuję.  
 **Mox:** Nie mogę uwierzyć, że to robimy… Cała drżę.  
-**Heather:** W porządku, kochanie. Tak powinno być.  
+**Heather:** Dobrze, kochanie. Tak powinno być.  
 **Mox:** Kocham cię, Heather. Zawsze cię kochałem.  
 **Heather:** Ja też cię kocham, Mox. Jesteś mężczyzną moich marzeń.  
 **Mox:** Jesteś taka ciepła… i miękka.  
@@ -44425,7 +44425,7 @@
 **Erica:** Nie umiem tego wyjaśnić…  
 **Mox:** Czyżby…? Czy to wirus?  
 **Erica:** O Boże. Ale gorąco.  
-**Mox:** Czemu, do cholery, napełnia ten słoik swoim… sokiem?  
+**Mox:** Czemu, u licha, napełnia ten słoik swoim… sokiem?  
 **Erica:** Cholera… Mam straszną ochotę na seks.  
 **Mox:** Eriko?  
 **Mox:** Chodźmy stąd. Już.  
@@ -44436,7 +44436,7 @@
 **Erica:** Włóż palce do mojej cipki!  
 **Mox:** /shock  
 **Erica:** Po prostu to zrób!  
-**Erica:** No, zrób to, do cholery!  
+**Erica:** No, zrób to w końcu!  
 **Mox:** Jezu! Co tu się, do cholery, dzieje?  
 **Erica:** Och! Tak! Rób tak dalej!  
 **Mox:** Cholera! Chyba ten przeklęty wirus seksualny naprawdę istnieje.  
@@ -46054,7 +46054,7 @@
 **Mox:** Chloe?  
 **Chloe:** Zrób to, Mox. Chcę go poczuć w tyłku.  
 **Mox:** Już wszedł… Wszystko w porządku?  
-**Chloe:** W porządku, Mox. Nic mnie nie boli.  
+**Chloe:** Już dobrze, Mox. Nic mnie nie boli.  
 **Ella:** Wiedziałem, że dasz radę!  
 **Chloe:** Podoba mi się… To takie… niegrzeczne.  
 **Ella:** No jasne! To najniegrzeczniejsza rzecz na świecie!  
@@ -46328,7 +46328,7 @@
 
 *〔Podpis widoczny przy obrazie: Chloe〕*
 
-*〔Podpis widoczny przy obrazie: Zabawa z rozwarciem〕*
+*〔Podpis widoczny przy obrazie: Zabawa z rozciąganiem〕*
 
 ---
 
@@ -48620,11 +48620,11 @@
 **Mox:** Chcę to zrobić… Ale mam wyrzuty sumienia.  
 **Judy:** Mox. Wszystko w porządku. Obiecuję.  
 **Mox:** Nie możemy posunąć się dalej.  
-**Judy:** Wiem… I w porządku.  
+**Judy:** Wiem… I dobrze.  
 **Mox:** … Spróbuj się rozluźnić.  
 **Judy:** Ach! Mox!  
 **Mox:** Wszystko w porządku?  
-**Judy:** W porządku… Nic mi nie jest.  
+**Judy:** Już dobrze… Nic mi nie jest.  
 **Mox:** Musisz się rozluźnić.  
 **Judy:** O, Mox.  
 **Mox:** Rozluźnij się… Jesteś taka ciasna.  
@@ -53783,7 +53783,7 @@
 **Mox:** No cholera.  
 **Heather:** Bardzo przepraszam, kochanie. Nie wiedziałam, że jesteście… tak blisko.  
 **Mox:** Heather… To nie tak… My tylko…  
-**Heather:** W porządku, skarbie. Nie musisz się tłumaczyć.  
+**Heather:** Spokojnie, skarbie. Nie musisz się tłumaczyć.  
 **Mox:** Nie, naprawdę… Nic nas nie łączy… To tylko…  
 **Heather:** Co się stało?  
 **Mox:** Chloe dużo się uczy…  
@@ -53813,11 +53813,11 @@
 **Mox:** Zawsze uważałem, że jesteś piękna… ale…  
 **Heather:** Nigdy nie patrzyłeś na mnie jak na obiekt pożądania.  
 **Mox:** Nie.  
-**Heather:** W porządku, kochanie.  
+**Heather:** Już dobrze, kochanie.  
 **Heather:** Muszę przyznać, że tak szybko dorosłeś, że nie wiedziałam, jak zareagować…  
 **Heather:** Bardzo się do ciebie przywiązałam.  
 **Mox:** Ale…  
-**Heather:** W porządku, Mox. Teraz już wszystko w porządku.  
+**Heather:** Już dobrze, Mox. Teraz już wszystko w porządku.  
 **Heather:** No proszę. Nie wyobrażałam sobie ładniejszego kutasa.  
 **Mox:** Podoba ci się?  
 **Heather:** Oczywiście!  
@@ -56723,7 +56723,7 @@
 **Hannah:** Buu!  
 **Mox:** Hannah!?  
 **Hannah:** Zaskoczony, że mnie widzisz?  
-**Mox:** Co ty tu, do cholery, robisz?  
+**Mox:** Co ty tu, u diabła, robisz?  
 **Hannah:** Przyszłam pomóc! Powiedz, co robić.  
 **Mox:** Wracaj do kościoła! Nie powinnaś tu być!  
 **Hannah:** Gówno prawda! Czego szukasz? Wyraźnie czegoś potrzebujesz.  
@@ -57805,7 +57805,7 @@
 
 ## Mapa 125 — Wejście do szczeliny / event 11 / strona 1
 
-**Kimberly:** Co to, do cholery, było?  
+**Kimberly:** Co to było, u licha?  
 **Mox:** Mówiłem ci… To Toma.  
 **Kimberly:** Ale to uczucie… Byłam tak podniecona.  
 **Mox:** Ja też to poczułem… To pewnie działanie kamienia.  
@@ -57994,7 +57994,7 @@
 **Diana:** Do szczeliny?  
 **Henry:** Musimy się stąd wydostać, zanim Duncan zauważy, że nas nie ma.  
 **Brian:** /curse  
-**Nellie:** Co ty tu, do cholery, robisz?  
+**Nellie:** Co ty tu, u diabła, robisz?  
 **Brian:** Powstrzymuję tego potwora.  
 **Erica:** Fragmenty Tomy… Przestały świecić.  
 **Mox:** Weźcie je. Wynośmy się stąd.  
@@ -62201,7 +62201,7 @@
 **Kimberly:** Przyłapałeś mnie, Mox.  
 **Mox:** Kimberly!?  
 **Kimberly:** Ciii. Nie tak głośno.  
-**Mox:** Co ty tu, do cholery, robisz?  
+**Mox:** Co ty tu, u diabła, robisz?  
 **Kimberly:** Coś tu się dzieje. Chcę wiedzieć co.  
 **Mox:** Nie mogę pozwolić ci włamać się, Kimberly.  
 **Kimberly:** Co przede mną ukrywasz? Co wiesz o Gildii?  
@@ -68117,7 +68117,7 @@
 **Bobby:** Wygląda na to, że nie kłamałeś. Właśnie wyciągamy na komisariacie niezłe brudy.  
 **Diana:** Co im powiedziałeś, Mox?  
 **Mox:** Potrzebujemy jego pomocy, Diano.  
-**Bobby:** Próbowałeś włamać się do magazynu… Kim ty, do cholery, jesteś?  
+**Bobby:** Próbowałeś włamać się do magazynu… Kim ty, u diabła, jesteś?  
 **Diana:** Mam inne sprawy do załatwienia.  
 **Bobby:** Nikt się stąd nie ruszy. Zabezpieczyliśmy cały budynek.  
 **Diana:** Jeszcze się przekonamy.  
@@ -68128,7 +68128,7 @@
 **Mox:** To nas przerasta. Potrzebujemy ich pomocy.  
 **Brian:** Poradzę sobie z demonami, ale z kilkoma uzbrojonymi ludźmi w pobliżu czułbym się jeszcze bezpieczniej.  
 **Erica:** Zgadzam się z ojcem Solomonem.  
-**Henry:** Gdzie, do cholery, jest panna Foxx? Będzie ta transmisja czy nie?  
+**Henry:** Gdzie u licha jest panna Foxx? Będzie ta transmisja czy nie?  
 
 ---
 
@@ -71035,7 +71035,7 @@
 **Demon 1:** Żądza jest u demonów czymś normalnym, mała.  
 **Arianna:** Nie, to coś innego! Wcześniej było dziko i erotycznie… Teraz jest jakoś inaczej, łagodniej…  
 **Arianna:** Po prostu chcę być blisko niego.  
-**Demon 1:** Ha, ha, ha!  
+**Demon 1:** Hahaha!  
 **Evie:** Fuj, chyba zaraz zwymiotuję.  
 **Arianna:** Co? O co chodzi? Znasz odpowiedź na tę zagadkę?  
 **Evie:** Jedyną zagadką jest to, czemu Mox sam z tobą o tym nie porozmawiał.  

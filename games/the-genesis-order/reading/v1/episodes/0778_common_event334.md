@@ -6,7 +6,7 @@
 **Bobby:** Nie na zakup kradzionych artefaktów.  
 **Nellie:** Nie wiem, o czym mówisz.  
 **Mox:** Hej! Wiem, że Jon ma licencję. Mogę za niego ręczyć.  
-**Bobby:** Co ty tu, do cholery, robisz?  
+**Bobby:** Co ty tu, u diabła, robisz?  
 **Jon:** Zapewniam panów, że wszystko tutaj jest legalne.  
 **Bobby:** A co z tym kielichem, który ta pani wyrzuciła w krzaki, gdy podjechaliśmy?  
 **Nellie:** Nie mam pojęcia, co to jest.  

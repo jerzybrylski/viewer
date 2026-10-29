@@ -14,7 +14,7 @@
 **Erica:** Nie umiem tego wyjaśnić…  
 **Mox:** Czyżby…? Czy to wirus?  
 **Erica:** O Boże. Ale gorąco.  
-**Mox:** Czemu, do cholery, napełnia ten słoik swoim… sokiem?  
+**Mox:** Czemu, u licha, napełnia ten słoik swoim… sokiem?  
 **Erica:** Cholera… Mam straszną ochotę na seks.  
 **Mox:** Eriko?  
 **Mox:** Chodźmy stąd. Już.  
@@ -25,7 +25,7 @@
 **Erica:** Włóż palce do mojej cipki!  
 **Mox:** /shock  
 **Erica:** Po prostu to zrób!  
-**Erica:** No, zrób to, do cholery!  
+**Erica:** No, zrób to w końcu!  
 **Mox:** Jezu! Co tu się, do cholery, dzieje?  
 **Erica:** Och! Tak! Rób tak dalej!  
 **Mox:** Cholera! Chyba ten przeklęty wirus seksualny naprawdę istnieje.  

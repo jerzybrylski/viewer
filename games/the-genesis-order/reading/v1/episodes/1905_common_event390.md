@@ -36,7 +36,7 @@
 **Mox:** Masz rację… Jest idealnie.  
 **Heather:** Och, kochanie. Tak cudownie cię w sobie czuję.  
 **Mox:** Nie mogę uwierzyć, że to robimy… Cała drżę.  
-**Heather:** W porządku, kochanie. Tak powinno być.  
+**Heather:** Dobrze, kochanie. Tak powinno być.  
 **Mox:** Kocham cię, Heather. Zawsze cię kochałem.  
 **Heather:** Ja też cię kocham, Mox. Jesteś mężczyzną moich marzeń.  
 **Mox:** Jesteś taka ciepła… i miękka.  

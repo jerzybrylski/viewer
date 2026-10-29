@@ -50,7 +50,7 @@
 **Mox:** Chloe?  
 **Chloe:** Zrób to, Mox. Chcę go poczuć w tyłku.  
 **Mox:** Już wszedł… Wszystko w porządku?  
-**Chloe:** W porządku, Mox. Nic mnie nie boli.  
+**Chloe:** Już dobrze, Mox. Nic mnie nie boli.  
 **Ella:** Wiedziałem, że dasz radę!  
 **Chloe:** Podoba mi się… To takie… niegrzeczne.  
 **Ella:** No jasne! To najniegrzeczniejsza rzecz na świecie!  
