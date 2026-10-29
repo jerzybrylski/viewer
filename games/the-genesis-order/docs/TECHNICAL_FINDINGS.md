@@ -14,14 +14,14 @@ Daty, źródła i hashe plików znajdują się w [`EXPERIMENT_LOG.md`](EXPERIMEN
 - Struktura `www/js/rpg_*.js`, `www/data/*.json`, rozszerzenia `.rpgmvp`/`.rpgmvo` i runtime NW.js potwierdzają **RPG Maker MV + NW.js**.
 - Marker w `www/js/rpg_core.js` podaje **RPG Maker MV 1.6.1**. To wersja silnika, nie numer wydania/build gry.
 - Główny `package.json` ustawia `main` na `www/index.html`. `System.json` podaje start map ID 38 i `versionId=96719260` (wewnętrzny identyfikator projektu, nie potwierdzony numer produktu/builda). `MapInfos.json` zawiera 291 wpisów map.
-- Użytkownik przesłał pełne `www/data/` w `data.zip`: 305 JSON + `Credits.txt`, w tym wszystkie 291 map. ZIP został zweryfikowany i statycznie przetworzony; `www/js` pozostaje poza pełnym tekstowym censussem. Folder `www/data` ma około 52,7 MB, a wszystkie `.js` w `www/js` około 7,7 MB według inwentarza.
+- Użytkownik przesłał pełne `www/data/` w `data.zip`: 305 JSON + `Credits.txt`, w tym wszystkie 291 map. ZIP został zweryfikowany i statycznie przetworzony. Osobno odtworzono i statycznie przeskanowano 78 plików `www/js`; skan 563 kandydatur rozstrzygnięto jako 35 UI, 528 wykluczeń, 0 otwartych. Runtime/dynamiczne dane i media pozostają poza statycznym tekstowym censussem. Folder `www/data` ma około 52,7 MB, a wszystkie `.js` w `www/js` około 7,7 MB według inwentarza.
 
 ### Pierwsza próbka struktury tekstu
 
 - Przetestowano poprawność JSON dla `System.json`, `MapInfos.json`, `CommonEvents.json`, map 001/002/003 oraz mapy startowej 038.
 - `CommonEvents.json`: 500 wspólnych zdarzeń i 139 144 polecenia RPG Maker; wykryto 602 bloki Show Text (kod 101), 746 poleceń kontynuacji (401), z których 611 zawiera niepuste linie tekstu, oraz 202 bloki wyborów (102) z 816 opcjami. Łącznie to 1 427 niepustych pól tekstowych (611 linii dialogu + 816 opcji), 30 143 znaki źródłowe. To pełne liczenie tego jednego pliku, nie całej gry, i nie jest liczbą unikalnych stringów po deduplikacji.
 - Wspólne zdarzenia zawierają też dziesiątki tysięcy linii skryptowych/pluginowych (kody 355/655) oraz polecenia pluginów. Część tekstów może być tworzona dynamicznie, więc zwykły eksport kodów 101/401 nie zapewni kompletności.
-- Pełny census wszystkich map i common events: 1 521 niepustych komend tekstowych `401` (766 różnych surowych tekstów), 695 grup wyborów `102` i 2 110 tekstowych opcji (376 różnych etykiet). Wszystkie 291 map i 500 common events zostały przetworzone, a wszystkie zapisane warunki/odnogi uwzględniono bez ich ewaluowania. Dokładne wyniki i oddzielny census pól UI/baz danych: [`COUNT_REPORT.md`](COUNT_REPORT.md); per mapa/per common event: [`COUNT_BY_MAP.csv`](COUNT_BY_MAP.csv), [`COUNT_BY_COMMON_EVENT.csv`](COUNT_BY_COMMON_EVENT.csv).
+- Pierwszy census `401` miał **1 521** niepustych natywnych wierszy; 8 to scaffoldingowe renderery CE53/60/222/223/224, a pozostałe **1 513** są wyeksportowane. 1 122 mają semantyczny podtyp nieustalony, 378 to UI listy telefonu i 13 to natywne teksty telefonu. CE60 zawiera osobno 38 638 dodatkowych wpisów z literalnych V[21] (29 647 różnych payloadów). CE224 ma 67 call sites preładowania obrazów i 134 wyeksportowane static caller values V[97]/V[98]; tekst w samych mediach nie został sprawdzony. Wybory: 695 grup `102` / 2 110 opcji, z czego 180 znanych UI, a semantyka pozostałych 1 930 nie została zgadywana. Dodatkowy static flow audit wykrył 262 niepuste wartości komendy 122 renderowane przez `\\V[...]`; 128 kwot/markerów są chronione. Wszystkie 291 map i 500 common events przetworzono statycznie, zachowując warunki/odnogi bez ewaluacji. Szczegóły: [`COUNT_REPORT.md`](COUNT_REPORT.md); liczniki per mapa/per common event: [`COUNT_BY_MAP.csv`](COUNT_BY_MAP.csv), [`COUNT_BY_COMMON_EVENT.csv`](COUNT_BY_COMMON_EVENT.csv). Liczniki wybranych customowych kanałów odtwarza [`tools/count_custom_text.py`](../tools/count_custom_text.py).
 
 ## Wtyczki, fonty i układ tekstu
 
@@ -35,9 +35,10 @@ Daty, źródła i hashe plików znajdują się w [`EXPERIMENT_LOG.md`](EXPERIMEN
 
 ## Nieznane / kolejne prace
 
-- Język źródłowy, dokładne wydanie/build i kompletność instalacji.
-- Teksty lokalizowalne w komendach skryptowych/pluginowych, ustawieniach wtyczek, JavaScript i treściach tworzonych dynamicznie; pełne pokrycie lokalizacyjne jest szersze niż census dialogów/wyborów.
-- Rzeczywiste renderowanie/fallback polskich liter, pomiary długości tekstu i testy okien w grze; cmap nie zastępuje testu runtime.
-- Bezpieczna metoda patchowania, zapisy, osiągnięcia i test Windows.
+- Dokładny produktowy build instalacji właściciela oraz kompletność plików względem tego builda.
+- Semantyczny podtyp 1 122 natywnych wiadomości i 1 930 opcji; powierzchnie są zachowane, ale nie klasyfikujemy ich na fabułę/tutorial/komunikat/UI bez dowodu.
+- Renderowanie/fallback polskich liter, pomiary długości, łamanie wierszy i zachowanie okien wymagają osobnego, zatwierdzonego testu runtime na kopii.
+- Nie zbudowano patchera Windows, migracji save'ów ani obsługi osiągnięć; to późniejszy etap po tłumaczeniu i zatwierdzeniu scope.
+- Tekst osadzony w obrazach/audio/wideo oraz wartości dostarczane dynamicznie przez urządzenia/użytkownika nie są statycznym tekstem źródłowym.
 
-Przetwarzanie dotychczasowych plików było statyczne: JSON parsowano, JS przeszukiwano jako tekst; nie uruchamiano gry ani kodu z jej plików. Assety i pobrane pliki pozostają poza Git w ignorowanym `google_drive/`.
+Przetwarzanie jest statyczne: JSON parsowano, JS skanowano jako tekst; nie uruchamiano gry ani kodu z jej plików. Oryginalne assety i robocze stagingi pozostają poza Git w ignorowanym `google_drive/`; jawnie wyodrębnione JSONL są śledzone w `games/the-genesis-order/translation/export-v1/` na polecenie właściciela.

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TGO Translation Record v1",
+  "type": "object",
+  "required": [
+    "schema",
+    "id",
+    "category",
+    "classification",
+    "source_text",
+    "translation",
+    "markup_tokens",
+    "source",
+    "context",
+    "structure"
+  ],
+  "properties": {
+    "schema": {"const": "tgo-translation-record-v1"},
+    "id": {"type": "string", "pattern": "^tgo:[a-z0-9_.-]+:[0-9a-f]{20}$"},
+    "category": {"type": "string", "minLength": 1},
+    "classification": {
+      "type": "string",
+      "enum": [
+        "confirmed_dialogue",
+        "confirmed_phone_channel",
+        "confirmed_text_surface",
+        "confirmed_ui",
+        "confirmed_ui_text",
+        "confirmed_dialogue_or_ui",
+        "needs_review"
+      ]
+    },
+    "source_text": {"type": "string"},
+    "translation": {"type": "string"},
+    "markup_tokens": {"type": "array", "items": {"type": "string"}},
+    "source": {
+      "type": "object",
+      "required": ["file", "sha256", "locator", "writeback"],
+      "properties": {
+        "file": {"type": "string", "minLength": 1},
+        "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "locator": {"type": "object", "minProperties": 1},
+        "writeback": {"enum": ["json_string_leaf", "script_string_literal", "js_string_literal", "plugin_parameter", "text_file_line"]}
+      },
+      "additionalProperties": true
+    },
+    "context": {"type": "object"},
+    "structure": {"type": "object"}
+  },
+  "additionalProperties": false
+}
