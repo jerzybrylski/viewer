@@ -1,0 +1,1536 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111214">
+  <title>Folio — viewer ilustracji</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #111214;
+      --panel: #191a1d;
+      --panel-2: #202124;
+      --line: #303136;
+      --text: #f3f1ed;
+      --muted: #9a9ba1;
+      --accent: #d6f36a;
+      --tile-size: 230px;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; min-width: 320px; background: var(--bg); color: var(--text); }
+    button { color: inherit; font: inherit; }
+    .topbar {
+      min-height: 76px; padding: 0 34px; display: flex; align-items: center; justify-content: space-between;
+      border-bottom: 1px solid var(--line); background: rgba(17,18,20,.94); position: sticky; top: 0; z-index: 5;
+      backdrop-filter: blur(16px);
+    }
+    .brand { display: flex; align-items: center; gap: 12px; min-width: 0; }
+    .brand-mark { width: 34px; height: 34px; display: grid; place-items: center; border-radius: 10px; color: #111; background: var(--accent); font-weight: 900; font-size: 19px; }
+    .brand-name { font-size: 16px; font-weight: 700; letter-spacing: -.04em; }
+    .brand-sub { margin-left: 10px; padding-left: 11px; border-left: 1px solid #3a3b40; color: var(--muted); font-size: 12px; }
+    .top-actions { display: flex; gap: 10px; align-items: center; }
+    .button { min-height: 39px; display: inline-flex; gap: 9px; align-items: center; justify-content: center; padding: 0 14px; border-radius: 9px; border: 1px solid var(--line); background: var(--panel); cursor: pointer; font-size: 13px; transition: background .16s, border .16s, transform .16s; }
+    .button:hover { background: #26272b; border-color: #515258; }
+    .button:active { transform: translateY(1px); }
+    .button.primary { background: var(--accent); border-color: var(--accent); color: #171914; font-weight: 700; }
+    .button.primary:hover { background: #e0fb85; }
+    .button.icon { width: 38px; min-width: 38px; padding: 0; font-size: 17px; }
+    .button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+    .hidden-input { display: none; }
+    main { padding: 10px 24px 48px; max-width: 1900px; margin: 0 auto; }
+    .heading { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; margin-bottom: 26px; }
+    h1 { margin: 0; font-size: clamp(27px, 4vw, 40px); line-height: 1.1; font-weight: 650; letter-spacing: -.055em; }
+    .subheading { margin: 9px 0 0; color: var(--muted); font-size: 13px; }
+    .folder-chip { display: none; align-items: center; gap: 8px; color: #c3c4c8; border: 1px solid var(--line); background: var(--panel); border-radius: 99px; padding: 8px 12px; max-width: 40vw; font-size: 12px; }
+    .folder-chip.visible { display: flex; }
+    .folder-chip span:last-child { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .toolbar { min-height: 52px; margin-bottom: 18px; display: flex; justify-content: space-between; align-items: center; gap: 15px; }
+    .result-count { color: var(--muted); font-size: 13px; }
+    .result-count strong { color: var(--text); font-weight: 600; }
+    .zoom-control { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 12px; }
+    .zoom-control input { accent-color: var(--accent); width: 115px; cursor: pointer; }
+    .zoom-value { min-width: 38px; text-align: right; font-variant-numeric: tabular-nums; }
+    .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(var(--tile-size), 100%), 1fr)); gap: 18px; align-items: start; }
+    .card { min-width: 0; cursor: zoom-in; outline: none; }
+    .card:focus-visible .thumb { outline: 2px solid var(--accent); outline-offset: 3px; }
+    .card.selected .thumb { border-color: var(--accent); box-shadow: 0 0 0 2px rgba(214,243,106,.24); }
+    .card.selected .thumb::after { content: '✓'; position: absolute; z-index: 4; right: 9px; bottom: 9px; width: 27px; height: 27px; display: grid; place-items: center; border-radius: 7px; background: var(--accent); color: #171914; font-size: 15px; font-weight: 800; }
+    .thumb { width: 100%; height: clamp(140px, calc(var(--tile-size) * .82), 440px); overflow: hidden; position: relative; display: grid; place-items: center; border-radius: 11px; border: 1px solid #292a2e; background: #1b1c1f; transition: border-color .2s, background .2s; }
+    .card:hover .thumb { border-color: #5b5d64; background: #222327; }
+    .card-mark { position: absolute; z-index: 2; top: 9px; right: 9px; width: 31px; height: 31px; border-radius: 8px; border: 1px solid rgba(255,255,255,.2); background: rgba(14,15,16,.86); color: var(--accent); cursor: pointer; font-size: 16px; }
+    .branch-choice-badges { position: absolute; z-index: 3; left: 9px; bottom: 9px; display: flex; gap: 5px; }
+    .branch-choice-badge { min-width: 30px; height: 29px; padding: 0 8px; border: 1px solid rgba(255,255,255,.22); border-radius: 7px; background: rgba(15,16,17,.9); color: #eee; cursor: pointer; font-size: 11px; font-weight: 700; }
+    .branch-choice-badge:hover, .branch-choice-badge.active { border-color: var(--accent); background: var(--accent); color: #161812; }
+    .card-mark:hover { background: #2c3020; border-color: var(--accent); }
+    .mark-badge { position: absolute; z-index: 2; left: 9px; top: 9px; max-width: calc(100% - 55px); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding: 5px 8px; border-radius: 6px; background: rgba(13,14,15,.86); color: var(--accent); font-size: 10px; font-weight: 700; letter-spacing: .03em; }
+    .thumb img { display: block; width: 100%; height: 100%; object-fit: contain; opacity: 0; transition: opacity .24s; }
+    .thumb img.loaded { opacity: 1; }
+    .thumb .placeholder { position: absolute; inset: 0; display: grid; place-items: center; color: #666870; }
+    .placeholder svg { width: 28px; height: 28px; opacity: .55; }
+    .card-caption { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; padding: 10px 2px 0; }
+    .file-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 12px; color: #d2d1cf; }
+    .file-size { color: #777980; font-size: 11px; white-space: nowrap; }
+    .card-tags { display: flex; flex-wrap: wrap; gap: 5px; padding: 6px 2px 0; }
+    .card-tag { padding: 2px 6px; border-radius: 5px; background: #27282b; color: #aeb0b6; font-size: 9px; }
+    .empty { min-height: min(58vh, 520px); border: 1px dashed #3a3b40; border-radius: 16px; display: grid; place-items: center; text-align: center; padding: 30px; background: radial-gradient(ellipse at center, rgba(214,243,106,.035), transparent 55%); }
+    .empty[hidden] { display: none; }
+    .empty-inner { max-width: 420px; }
+    .empty-icon { width: 62px; height: 62px; display: grid; place-items: center; margin: 0 auto 22px; border-radius: 18px; background: #23251f; color: var(--accent); }
+    .empty-icon svg { width: 29px; height: 29px; }
+    .empty h2 { margin: 0; font-size: 21px; letter-spacing: -.035em; }
+    .empty p { color: var(--muted); font-size: 13px; line-height: 1.7; margin: 10px 0 20px; }
+    .empty .button { margin: 0 auto; }
+    .empty-note { display: block; margin-top: 16px; color: #777980; font-size: 11px; }
+    .message { display: none; margin: 0 0 18px; padding: 12px 14px; border-radius: 9px; background: #322722; color: #f2b995; font-size: 13px; line-height: 1.5; }
+    .message.visible { display: block; }
+    .empty[hidden], [hidden] { display: none !important; }
+    .naming-help { margin: 18px 0 20px; color: #b1b2b8; font-size: 12px; }
+    .naming-help summary { width: fit-content; color: #c9d0ad; cursor: pointer; }
+    .naming-help summary:hover { color: var(--accent); }
+    .naming-help-content { max-width: 760px; margin-top: 12px; padding: 15px 18px; border: 1px solid var(--line); border-radius: 10px; background: var(--panel); line-height: 1.75; }
+    .naming-help-content p { margin: 5px 0 10px; }
+    .naming-help-content code { padding: 2px 5px; border-radius: 4px; color: var(--accent); background: #292b25; }
+    .toolbar-mode-actions { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .selection-hint { color: var(--muted); font-size: 11px; white-space: nowrap; }
+    .toolbar-tools { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+    .mark-actions { display: flex; align-items: center; gap: 7px; flex-wrap: wrap; }
+    .mark-actions .button { min-height: 34px; padding: 0 10px; font-size: 11px; }
+    .tag-cloud { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin: 0 0 12px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 12px; background: #17181a; }
+    .scene-quick-jump { display: flex; align-items: center; gap: 10px; margin: 0 0 12px; color: var(--muted); font-size: 12px; }
+    .scene-quick-jump select { width: min(100%, 380px); min-height: 36px; border: 1px solid var(--line); border-radius: 8px; padding: 0 10px; color: var(--text); background: var(--panel); font: inherit; }
+    .tag-cloud-label { color: #777980; font-size: 10px; font-weight: 750; letter-spacing: .12em; }
+    .tag-list { display: flex; flex-wrap: wrap; gap: 7px; flex: 1; }
+    .tag-chip { min-height: 30px; border: 1px solid #3b3c40; border-radius: 999px; padding: 0 11px; background: #222327; color: #c9c9cb; cursor: pointer; font-size: 11px; }
+    .tag-chip:hover { border-color: #7b8750; color: var(--accent); }
+    .tag-chip.active { border-color: var(--accent); background: #2a2e20; color: var(--accent); }
+    .tag-count { margin-left: 5px; color: #83858c; font-size: 10px; }
+    .route-back { display: flex; width: fit-content; margin: 18px auto 0; border-color: var(--accent); background: var(--accent); color: #171914; font-weight: 750; box-shadow: 0 5px 20px rgba(0,0,0,.25); }
+    .scene-navigation { min-height: 52px; display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 10px 0 14px; padding: 0 2px; }
+    .scene-navigation.bottom { margin: 24px 0 0; padding-top: 16px; border-top: 1px solid var(--line); }
+    .scene-position { color: var(--muted); font-size: 13px; }
+    .scene-position strong { color: var(--text); font-weight: 650; }
+    .scene-navigation .button:disabled { opacity: .4; cursor: not-allowed; }
+    .junction-panel, .scene-end-panel { margin: 28px auto 8px; max-width: 760px; padding: 23px; text-align: center; border-radius: 14px; border: 1px solid #414333; background: radial-gradient(ellipse at top, rgba(214,243,106,.07), transparent 70%), #191a1d; }
+    .junction-panel h2, .scene-end-panel h2 { margin: 0 0 7px; font-size: 19px; letter-spacing: -.03em; }
+    .junction-panel p, .scene-end-panel p { margin: 0; color: var(--muted); font-size: 13px; line-height: 1.6; }
+    .choice-list { display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    .choice-list .button { min-width: 132px; }
+    .junction-panel > .button, .scene-end-panel > .button { margin-top: 16px; }
+    .back-choice { margin-top: 16px; color: #bfc0c5; }
+    .scene-end-panel { border-color: var(--line); background: var(--panel); }
+    .mark-editor { position: fixed; inset: 0; z-index: 30; display: grid; place-items: center; padding: 18px; background: rgba(5,6,7,.82); backdrop-filter: blur(8px); }
+    .mark-dialog { width: min(100%, 480px); padding: 24px; border: 1px solid #414247; border-radius: 15px; background: #1b1c1f; box-shadow: 0 22px 80px rgba(0,0,0,.5); }
+    .mark-dialog h2 { margin: 0 0 5px; font-size: 20px; letter-spacing: -.035em; }
+    .mark-file-name { display: block; margin-bottom: 18px; color: var(--muted); font-size: 12px; overflow-wrap: anywhere; }
+    .mark-dialog label { display: block; margin: 13px 0 6px; color: #c4c5ca; font-size: 12px; }
+    .mark-dialog select, .mark-dialog input { width: 100%; min-height: 40px; border: 1px solid #3c3d42; border-radius: 8px; padding: 0 10px; color: var(--text); background: #111214; font: inherit; }
+    .mark-dialog .mark-help { margin: 12px 0 0; color: var(--muted); font-size: 11px; line-height: 1.6; }
+    .mark-dialog-actions { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; margin-top: 21px; }
+    .mark-dialog-actions .delete-mark { margin-right: auto; color: #f0a68f; }
+    .lightbox {  position: fixed; inset: 0; z-index: 20; background: rgba(8,8,9,.97); display: none; flex-direction: column; }
+    .lightbox.open { display: flex; }
+    .lightbox-bar { height: 66px; flex: 0 0 66px; display: flex; align-items: center; justify-content: space-between; gap: 14px; padding: 0 22px; border-bottom: 1px solid rgba(255,255,255,.09); }
+    .lightbox-title { min-width: 0; font-size: 13px; color: #e7e6e2; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+    .lightbox-meta { color: #82838a; font-size: 11px; margin-left: 9px; }
+    .lightbox-actions { display: flex; gap: 8px; align-items: center; }
+    .lightbox-actions .button { background: #1c1d20; border-color: #35363a; }
+    .lightbox-body { min-height: 0; flex: 1; display: flex; align-items: center; justify-content: center; position: relative; padding: 20px 76px; }
+    .lightbox-image { max-width: 100%; max-height: 100%; object-fit: contain; user-select: none; -webkit-user-drag: none; cursor: zoom-out; }
+    .nav-button { position: absolute; top: 50%; transform: translateY(-50%); width: 44px; height: 54px; border: 1px solid #333439; background: rgba(31,32,35,.86); color: white; border-radius: 10px; cursor: pointer; font-size: 25px; }
+    .nav-button:hover { background: #323338; }
+    .nav-button.prev { left: 20px; }
+    .nav-button.next { right: 20px; }
+    .lightbox-footer { height: 47px; flex: 0 0 47px; display: flex; align-items: center; justify-content: center; color: #81828a; font-size: 12px; }
+    @media (max-width: 650px) {
+      .topbar { min-height: 64px; padding: 0 16px; }
+      .brand-sub { display: none; }
+      .top-actions .button { padding: 0 10px; }
+      main { padding: 8px 12px 40px; }
+      .heading { align-items: flex-start; flex-direction: column; gap: 14px; }
+      .folder-chip { max-width: 100%; }
+      .toolbar { align-items: flex-start; flex-direction: column; gap: 13px; margin: 8px 0 20px; }
+      .gallery { gap: 12px; }
+      .thumb { border-radius: 8px; }
+      .lightbox-bar { height: 58px; flex-basis: 58px; padding: 0 12px; }
+      .lightbox-meta { display: none; }
+      .lightbox-body { padding: 12px 48px; }
+      .nav-button { width: 35px; height: 46px; }
+      .nav-button.prev { left: 6px; }
+      .nav-button.next { right: 6px; }
+    }
+  </style>
+</head>
+<body>
+  <input class="hidden-input" id="folderInput" type="file" webkitdirectory multiple accept=".png,image/png">
+
+  <main>
+    <section class="tag-cloud" id="tagCloud" aria-label="Filtruj po tagach" hidden>
+      <span class="tag-cloud-label">TAGI</span>
+      <div class="tag-list" id="tagList"></div>
+      <button class="button" id="clearTag" type="button" hidden>Pokaż sceny</button>
+    </section>
+    <div class="scene-quick-jump" id="sceneQuickJump" hidden>
+      <label for="sceneQuickSelect">Scena</label>
+      <select id="sceneQuickSelect" aria-label="Przejdź do sceny"></select>
+    </div>
+    <div id="message" class="message" role="status"></div>
+    <section id="empty" class="empty" aria-label="Wybór folderu">
+      <div class="empty-inner">
+        <div class="empty-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M3.5 7.5A2.5 2.5 0 0 1 6 5h4l2 2h6a2.5 2.5 0 0 1 2.5 2.5v8A2.5 2.5 0 0 1 18 20H6a2.5 2.5 0 0 1-2.5-2.5z"/><path d="M4 10h16"/></svg></div>
+        <h2>Otwórz folder z ilustracjami</h2>
+        <p>Wskaż folder <strong>img</strong>, a Folio pokaże znajdujące się w nim pliki PNG. Twoje pliki pozostają na dysku.</p>
+        <button class="button primary" id="emptyChoose" type="button"><span aria-hidden="true">＋</span> Wybierz folder img</button>
+        <span class="empty-note">Obsługiwane: PNG · przetwarzanie lokalne, bez wysyłania plików</span>
+      </div>
+    </section>
+    <div class="scene-navigation" id="sceneNavigation" hidden>
+      <button class="button" id="previousScene" type="button">← Wcześniejsza scena</button>
+      <div class="scene-position" id="scenePosition"></div>
+      <button class="button" id="nextScene" type="button">Następna scena →</button>
+    </div>
+    <div id="galleryToolbar" class="toolbar" hidden>
+      <div id="resultCount" class="result-count"></div>
+      <div class="toolbar-mode-actions">
+        <button class="button primary" id="bulkTagButton" type="button" hidden>Dodaj tag zaznaczonym</button>
+        <span class="selection-hint">Shift + kliknij ilustracje, aby zaznaczyć kilka</span>
+        <button class="button" id="markingMode" type="button" hidden>Wróć do oglądania sceny</button>
+        <button class="button" id="orphanModeButton" type="button" hidden>Pokaż sieroty</button>
+      </div>
+      <div class="toolbar-tools">
+        <label class="zoom-control" for="zoomRange" title="Możesz też użyć Ctrl + kółko myszy"><span>Miniatury</span><input id="zoomRange" type="range" min="140" max="420" step="10" value="230" aria-label="Rozmiar miniaturek"><span class="zoom-value" id="zoomValue">230 px</span></label>
+        <div class="mark-actions">
+          <button class="button" id="changeFolder" type="button">Zmień folder</button>
+          <button class="button" id="exportMarks" type="button">Pobierz oznaczenia</button>
+          <button class="button" id="importMarks" type="button">Wczytaj oznaczenia</button>
+          <input class="hidden-input" id="marksInput" type="file" accept="application/json,.json">
+        </div>
+      </div>
+    </div>
+    <section id="gallery" class="gallery" aria-label="Miniaturki ilustracji"></section>
+    <section id="junctionPanel" class="junction-panel" hidden></section>
+    <section id="sceneEndPanel" class="scene-end-panel" hidden></section>
+    <button class="button route-back" id="routeBack" type="button" hidden>← Wróć do wyboru</button>
+    <div class="scene-navigation bottom" id="sceneNavigationBottom" hidden>
+      <button class="button" id="previousSceneBottom" type="button">← Wcześniejsza scena</button>
+      <div class="scene-position" id="scenePositionBottom"></div>
+      <button class="button" id="nextSceneBottom" type="button">Następna scena →</button>
+    </div>
+  </main>
+
+  <div class="mark-editor" id="markEditor" role="dialog" aria-modal="true" aria-labelledby="markEditorTitle" hidden>
+    <div class="mark-dialog">
+      <h2 id="markEditorTitle">Oznacz screenshot</h2>
+      <span class="mark-file-name" id="markFileName"></span>
+      <label for="markType">Typ oznaczenia</label>
+      <select id="markType">
+        <option value="none">Bez oznaczenia</option>
+        <option value="scene">Początek nowej sceny</option>
+        <option value="junction">Punkt wyboru</option>
+        <option value="choice">Początek wyboru</option>
+        <option value="merge">Wróć do wspólnej ścieżki</option>
+        <option value="continuation">Dalsza część sceny</option>
+      </select>
+      <div id="choiceFields" hidden>
+        <label for="markParent">Wychodzi z punktu wyboru</label>
+        <select id="markParent"></select>
+        <label for="markLabel">Etykieta przycisku (np. A lub B)</label>
+        <input id="markLabel" type="text" maxlength="24" placeholder="A">
+      </div>
+      <div id="mergeFields" hidden>
+        <label for="mergeParent">Połącz gałęzie z punktem wyboru</label>
+        <select id="mergeParent"></select>
+      </div>
+      <div id="continuationFields" hidden>
+        <label for="continuationScene">Dołącz ilustracje do sceny</label>
+        <select id="continuationScene"></select>
+      </div>
+      <div id="sceneNameFields" hidden>
+        <label for="sceneName">Nazwa sceny (opcjonalna)</label>
+        <input id="sceneName" type="text" maxlength="80" placeholder="np. Spotkanie w kawiarni">
+      </div>
+      <label for="markTags">Tagi (oddziel przecinkami)</label>
+      <input id="markTags" type="text" maxlength="180" placeholder="np. postać, CG, śmieszne">
+      <p class="mark-help" id="markHelp">Oznaczenia zapisują się lokalnie i nie zmieniają nazwy ani zawartości pliku.</p>
+      <div class="mark-dialog-actions">
+        <button class="button delete-mark" id="deleteMark" type="button">Usuń oznaczenie i tagi</button>
+        <button class="button" id="cancelMark" type="button">Anuluj</button>
+        <button class="button primary" id="saveMark" type="button">Zapisz</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="mark-editor" id="bulkTagEditor" role="dialog" aria-modal="true" aria-labelledby="bulkTagTitle" hidden>
+    <div class="mark-dialog">
+      <h2 id="bulkTagTitle">Dodaj tagi zaznaczonym ilustracjom</h2>
+      <span class="mark-file-name" id="bulkTagCount"></span>
+      <label for="bulkTagValue">Tagi do dodania (oddziel przecinkami)</label>
+      <input id="bulkTagValue" type="text" maxlength="180" placeholder="np. postać, CG, śmieszne">
+      <p class="mark-help">Nowe tagi zostaną dodane do istniejących tagów, bez ich usuwania.</p>
+      <div class="mark-dialog-actions">
+        <button class="button" id="cancelBulkTags" type="button">Anuluj</button>
+        <button class="button primary" id="applyBulkTags" type="button">Dodaj tagi</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Podgląd ilustracji">
+    <div class="lightbox-bar">
+      <div class="lightbox-title"><span id="lightboxName"></span><span class="lightbox-meta" id="lightboxMeta"></span></div>
+      <div class="lightbox-actions">
+        <a class="button icon" id="downloadImage" title="Pobierz ilustrację" aria-label="Pobierz ilustrację" download>↓</a>
+        <button class="button icon" id="closeLightbox" type="button" title="Zamknij (Esc)" aria-label="Zamknij">×</button>
+      </div>
+    </div>
+    <div class="lightbox-body">
+      <button class="nav-button prev" id="previousImage" type="button" title="Poprzednia (←)" aria-label="Poprzednia ilustracja">‹</button>
+      <img class="lightbox-image" id="lightboxImage" alt="">
+      <button class="nav-button next" id="nextImage" type="button" title="Następna (→)" aria-label="Następna ilustracja">›</button>
+    </div>
+    <div class="lightbox-footer" id="lightboxPosition"></div>
+  </div>
+
+  <script>
+    (() => {
+      'use strict';
+      const $ = (selector) => document.querySelector(selector);
+      const gallery = $('#gallery');
+      const empty = $('#empty');
+      const toolbar = $('#galleryToolbar');
+      const folderInput = $('#folderInput');
+      const marksInput = $('#marksInput');
+      const message = $('#message');
+      const zoomRange = $('#zoomRange');
+      const lightbox = $('#lightbox');
+      const markEditor = $('#markEditor');
+      const bulkTagEditor = $('#bulkTagEditor');
+      const IDB_NAME = 'folio-viewer';
+      const IDB_STORE = 'settings';
+      const MARKS_PREFIX = 'folio-vn-marks-v1:';
+      const ZOOM_STORAGE_KEY = 'folio-vn-zoom-v1';
+      let entries = [];
+      let scenes = [];
+      let currentSceneIndex = 0;
+      let annotationMode = false;
+      let annotationStartIndex = 0;
+      let orphanMode = false;
+      let selectedEntries = new Set();
+      let activeTag = null;
+      let decisions = [];
+      let visibleEntries = [];
+      let cards = new Map();
+      let activeIndex = -1;
+      let editingEntry = null;
+      let directoryHandle = null;
+      let handleDatabase = null;
+      let folderName = '';
+      let marks = Object.create(null);
+      let marksStorageKey = '';
+      const objectUrls = new Map();
+      const inRange = new Set();
+
+      const observer = new IntersectionObserver((observations) => {
+        observations.forEach((observation) => {
+          const index = Number(observation.target.dataset.index);
+          if (observation.isIntersecting) {
+            inRange.add(index);
+            loadThumbnail(index);
+          } else {
+            inRange.delete(index);
+            unloadThumbnail(index);
+          }
+        });
+      }, { root: null, rootMargin: `0px 0px ${Math.round(window.innerHeight / 2)}px 0px`, threshold: 0.01 });
+
+      function setMessage(text = '') {
+        message.textContent = text;
+        message.classList.toggle('visible', Boolean(text));
+      }
+      function formatBytes(bytes) {
+        if (!Number.isFinite(bytes)) return '';
+        if (bytes < 1024) return `${bytes} B`;
+        if (bytes < 1024 * 1024) return `${(bytes / 1024).toFixed(0)} KB`;
+        return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
+      }
+      function normalizeTag(tag) { return String(tag || '').trim().toLocaleLowerCase(); }
+      function tagsFor(entry) {
+        const tags = marks[entry.name]?.tags;
+        return Array.isArray(tags) ? tags.filter((tag) => typeof tag === 'string' && tag.trim()) : [];
+      }
+      function hasStructuralMarks() {
+        return Object.values(marks).some((mark) => ['scene', 'junction', 'choice', 'continuation'].includes(mark?.type));
+      }
+      function pluralScreens(count) {
+        const tail = count % 10, teens = count % 100;
+        if (count === 1) return '1 screenshot';
+        if (tail >= 2 && tail <= 4 && !(teens >= 12 && teens <= 14)) return `${count} screenshoty`;
+        return `${count} screenshotów`;
+      }
+      function basename(path) { return path.split('/').pop(); }
+      function sceneDisplayName(scene) {
+        return String(scene?.name || '').trim() || basename(scene?.startEntry?.name || '');
+      }
+      function numericPrefix(name) {
+        const match = basename(name).match(/^(\d+)/);
+        return match ? Number(match[1]) : null;
+      }
+      function sortFiles(files) {
+        return files.sort((a, b) => {
+          const an = numericPrefix(a.name), bn = numericPrefix(b.name);
+          if (an !== null && bn !== null && an !== bn) return an - bn;
+          const ad = a.lastModified || 0, bd = b.lastModified || 0;
+          if (an === null && bn === null && ad !== bd) return ad - bd;
+          if (an !== null && bn === null) return -1;
+          if (an === null && bn !== null) return 1;
+          if (ad !== bd) return ad - bd;
+          return a.name.localeCompare(b.name, 'pl', { numeric: true, sensitivity: 'base' });
+        });
+      }
+      function collectionStorageKey(name, files) {
+        const firstFile = files[0] ? `${files[0].name}:${files[0].size}:${files[0].lastModified || 0}` : '';
+        const source = `${name}|${firstFile}`;
+        let hash = 2166136261;
+        for (let i = 0; i < source.length; i++) { hash ^= source.charCodeAt(i); hash = Math.imul(hash, 16777619); }
+        return MARKS_PREFIX + (hash >>> 0).toString(16);
+      }
+      function sceneStateStorageKey() { return `${marksStorageKey}:scene`; }
+      function loadSavedSceneIndex() {
+        try {
+          const value = Number(localStorage.getItem(sceneStateStorageKey()));
+          return Number.isInteger(value) ? Math.max(0, Math.min(value, scenes.length - 1)) : 0;
+        } catch (error) { return 0; }
+      }
+      function saveViewState() {
+        if (!marksStorageKey) return;
+        try { localStorage.setItem(sceneStateStorageKey(), String(currentSceneIndex)); } catch (error) { console.debug('Nie można zapisać widoku sceny.', error); }
+      }
+      function restoreZoom() {
+        try {
+          const stored = Number(localStorage.getItem(ZOOM_STORAGE_KEY));
+          if (Number.isFinite(stored) && stored >= 140 && stored <= 420) applyZoom(stored);
+        } catch (error) { console.debug('Nie można odczytać skali miniatur.', error); }
+      }
+      function saveZoom(value) {
+        try { localStorage.setItem(ZOOM_STORAGE_KEY, String(value)); } catch (error) { console.debug('Nie można zapisać skali miniatur.', error); }
+      }
+      function loadMarks() {
+        marks = Object.create(null);
+        try {
+          const raw = localStorage.getItem(marksStorageKey);
+          if (raw) {
+            const saved = JSON.parse(raw);
+            if (saved && typeof saved === 'object' && !Array.isArray(saved)) marks = saved;
+          }
+        } catch (error) { console.warn('Nie można odczytać oznaczeń z localStorage.', error); }
+      }
+      function persistMarks() {
+        try {
+          localStorage.setItem(marksStorageKey, JSON.stringify(marks));
+          return true;
+        } catch (error) {
+          console.warn('Nie można zapisać oznaczeń w localStorage.', error);
+          setMessage('Nie udało się zapisać oznaczeń w pamięci przeglądarki. Pobierz plik JSON jako kopię.');
+          return false;
+        }
+      }
+      function pathKey(path) { return JSON.stringify(path); }
+      function makeScene() {
+        const scene = { number: scenes.length + 1, entries: [], segments: new Map(), junctions: [], junctionByKey: new Map(), merges: [], continuations: new Map(), startEntry: null };
+        scenes.push(scene);
+        return scene;
+      }
+      function getSegment(scene, path) {
+        const key = pathKey(path);
+        if (!scene.segments.has(key)) scene.segments.set(key, { path: path.slice(), images: [], junction: null });
+        return scene.segments.get(key);
+      }
+      function organizeScenes() {
+        scenes = [];
+        const warnings = [];
+        const allJunctions = new Map();
+        let activeScene = null;
+        let activePath = [];
+        const pendingContinuations = [];
+        const connectContinuation = (targetScene, entry, path) => {
+          const priorSegments = [...targetScene.segments.entries()].filter(([, segment]) => segment.path[0] !== path[0]);
+          const openEnds = priorSegments.filter(([key, segment]) => {
+            if (segment.junction || !segment.images.length || targetScene.continuations.has(key)) return false;
+            const alreadyMerged = targetScene.merges.some((merge) => merge.junction.choices.some((choice) =>
+              segment.path.length >= choice.path.length && choice.path.every((part, index) => segment.path[index] === part)
+            ));
+            if (alreadyMerged) return false;
+            return !priorSegments.some(([, other]) => other.path.length > segment.path.length && segment.path.every((part, index) => other.path[index] === part));
+          });
+          openEnds.forEach(([key]) => targetScene.continuations.set(key, path.slice()));
+          if (!openEnds.length) warnings.push(`${entry.name}: scena docelowa nie ma otwartego końca, do którego można dołączyć dalszy ciąg. Niepodłączone ilustracje znajdziesz w „Pokaż sieroty”.`);
+          return openEnds.length;
+        };
+        entries.forEach((entry) => {
+          const mark = marks[entry.name] || null;
+          entry.mark = mark;
+          if (mark?.type === 'scene') {
+            if (!activeScene || activeScene.entries.length) activeScene = makeScene();
+            activeScene.name = String(mark.sceneName || '').trim();
+            activePath = [];
+          }
+          if (!activeScene) activeScene = makeScene();
+          let scene = activeScene;
+          let imagePath = activePath.slice();
+          if (mark?.type === 'choice') {
+            const parent = allJunctions.get(mark.parent);
+            if (!parent || parent.entry.index >= entry.index) {
+              warnings.push(`${entry.name}: początek wyboru wskazuje nieistniejący lub późniejszy punkt wyboru.`);
+            } else {
+              scene = parent.scene;
+              activeScene = scene;
+              const label = String(mark.label || '').trim() || 'A';
+              imagePath = [...parent.path, entry.name];
+              activePath = imagePath.slice();
+              parent.choices.push({ key: entry.name, entry, label, path: imagePath.slice(), parent });
+            }
+          }
+          if (mark?.type === 'merge') {
+            const parent = allJunctions.get(mark.parent);
+            if (!parent || parent.scene !== activeScene || parent.entry.index >= entry.index) {
+              warnings.push(`${entry.name}: wspólna ścieżka wskazuje punkt wyboru spoza tej sceny lub późniejszy punkt wyboru.`);
+            } else {
+              scene = parent.scene;
+              activeScene = scene;
+              const mergeToken = `@merge:${entry.name}`;
+              imagePath = [...parent.path, mergeToken];
+              activePath = imagePath.slice();
+              scene.merges.push({ junction: parent, entry, path: imagePath.slice() });
+            }
+          }
+          if (mark?.type === 'continuation') {
+            const targetScene = scenes.find((item) => item.startEntry?.name === mark.targetScene);
+            const continuationPath = [`@continuation:${entry.name}`];
+            if (targetScene && targetScene.startEntry.index < entry.index) {
+              scene = targetScene;
+              activeScene = targetScene;
+              imagePath = continuationPath;
+              activePath = imagePath.slice();
+              connectContinuation(targetScene, entry, continuationPath);
+            } else if (!targetScene || targetScene.startEntry.index > entry.index) {
+              const pendingToken = `@pending-continuation:${entry.name}`;
+              pendingContinuations.push({ entry, targetName: mark.targetScene, sourceScene: scene, token: pendingToken });
+              imagePath = [pendingToken];
+              activePath = imagePath.slice();
+            } else {
+              warnings.push(`${entry.name}: nie można dołączyć sceny do samego jej początku. Wybierz inną scenę.`);
+            }
+          }
+          entry.path = imagePath;
+          entry.scene = scene;
+          if (!scene.startEntry) scene.startEntry = entry;
+          scene.entries.push(entry);
+          const segment = getSegment(scene, imagePath);
+          segment.images.push(entry);
+          if (mark?.type === 'junction') {
+            const junction = { key: entry.name, entry, path: imagePath.slice(), choices: [], scene };
+            if (segment.junction) warnings.push(`${entry.name}: na tej ścieżce jest już oznaczony punkt wyboru.`);
+            else segment.junction = junction;
+            scene.junctions.push(junction);
+            scene.junctionByKey.set(entry.name, junction);
+            allJunctions.set(entry.name, junction);
+          }
+        });
+        pendingContinuations.forEach((pending) => {
+          const targetScene = scenes.find((item) => item.startEntry?.name === pending.targetName);
+          if (!targetScene) {
+            warnings.push(`${pending.entry.name}: nie znaleziono wskazanej sceny docelowej. Niepodłączone ilustracje znajdziesz w „Pokaż sieroty”.`);
+            return;
+          }
+          const sourceScene = pending.sourceScene;
+          const oldPrefix = pending.token;
+          const newPrefix = `@continuation:${pending.entry.name}`;
+          const rewritePath = (path) => path[0] === oldPrefix ? [newPrefix, ...path.slice(1)] : path.slice();
+          const movedEntries = sourceScene.entries.filter((entry) => entry.path?.[0] === oldPrefix);
+          if (!movedEntries.length) {
+            warnings.push(`${pending.entry.name}: nie znaleziono ilustracji do przeniesienia. Sprawdź „Pokaż sieroty”.`);
+            return;
+          }
+          const movedEntrySet = new Set(movedEntries);
+          sourceScene.entries = sourceScene.entries.filter((entry) => !movedEntrySet.has(entry));
+          targetScene.entries.push(...movedEntries);
+          movedEntries.forEach((entry) => {
+            entry.scene = targetScene;
+            entry.path = rewritePath(entry.path);
+          });
+          [...sourceScene.segments.entries()].filter(([, segment]) => segment.path[0] === oldPrefix).forEach(([key, segment]) => {
+            sourceScene.segments.delete(key);
+            segment.path = rewritePath(segment.path);
+            const targetSegment = getSegment(targetScene, segment.path);
+            targetSegment.images.push(...segment.images);
+            if (segment.junction) {
+              const junction = segment.junction;
+              junction.scene = targetScene;
+              junction.path = segment.path.slice();
+              junction.choices.forEach((choice) => {
+                choice.path = [...junction.path, choice.entry.name];
+                choice.entry.path = choice.path.slice();
+                choice.entry.scene = targetScene;
+              });
+              if (targetSegment.junction) warnings.push(`${junction.entry.name}: konflikt punktów wyboru po dołączeniu dalszej części.`);
+              else targetSegment.junction = junction;
+              sourceScene.junctions = sourceScene.junctions.filter((item) => item !== junction);
+              targetScene.junctions.push(junction);
+              targetScene.junctionByKey.set(junction.key, junction);
+              sourceScene.junctionByKey.delete(junction.key);
+            }
+          });
+          sourceScene.merges = sourceScene.merges.filter((merge) => {
+            if (merge.path[0] !== oldPrefix) return true;
+            merge.path = rewritePath(merge.path);
+            targetScene.merges.push(merge);
+            return false;
+          });
+          [...sourceScene.continuations.entries()].forEach(([key, path]) => {
+            const oldPath = JSON.parse(key);
+            if (oldPath[0] !== oldPrefix) return;
+            sourceScene.continuations.delete(key);
+            targetScene.continuations.set(pathKey(rewritePath(oldPath)), rewritePath(path));
+          });
+          sourceScene.entries.sort((a, b) => a.index - b.index);
+          targetScene.entries.sort((a, b) => a.index - b.index);
+          if (movedEntrySet.has(sourceScene.startEntry)) sourceScene.startEntry = sourceScene.entries[0] || null;
+          const continuationPath = [newPrefix];
+          connectContinuation(targetScene, pending.entry, continuationPath);
+        });
+        scenes = scenes.filter((scene) => scene.entries.length > 0);
+        scenes.forEach((scene, index) => { scene.number = index + 1; });
+        scenes.forEach((item) => item.junctions.forEach((junction) => {
+          const labels = junction.choices.map((choice) => choice.label.toLocaleLowerCase());
+          if (!junction.choices.length) warnings.push(`${junction.entry.name}: punkt wyboru nie ma jeszcze oznaczonych początków wyborów.`);
+          if (new Set(labels).size !== labels.length) warnings.push(`${junction.entry.name}: etykiety wyborów przy tym punkcie powinny być unikalne.`);
+        }));
+        return warnings;
+      }
+      function mergeContinuation(scene, path) {
+        return scene.merges
+          .map((candidate) => ({
+            candidate,
+            specificity: Math.max(-1, ...candidate.junction.choices
+              .filter((choice) => path.length >= choice.path.length && choice.path.every((part, index) => path[index] === part))
+              .map((choice) => choice.path.length))
+          }))
+          .filter((item) => item.specificity >= 0)
+          .sort((a, b) => b.specificity - a.specificity || a.candidate.entry.index - b.candidate.entry.index)[0]?.candidate || null;
+      }
+      function buildView(scene) {
+        const items = [];
+        let path = [];
+        let guard = 0;
+        while (guard++ < 100) {
+          const segment = scene.segments.get(pathKey(path));
+          if (!segment) return { items, ended: true, junction: null, choices: [] };
+          items.push(...segment.images);
+          const junction = segment.junction;
+          if (!junction) {
+            const merge = mergeContinuation(scene, path);
+            if (merge) { path = merge.path.slice(); continue; }
+            const continuation = scene.continuations.get(pathKey(path));
+            if (continuation) { path = continuation.slice(); continue; }
+            return { items, ended: true, junction: null, choices: [] };
+          }
+          const choices = junction.choices;
+          const decision = decisions.find((item) => item.junction === junction.key);
+          const selected = decision && choices.find((choice) => choice.key === decision.choice);
+          if (!selected) return { items, ended: false, junction, choices };
+          path = selected.path.slice();
+        }
+        return { items, ended: true, junction: null, choices: [] };
+      }
+      function collectOrphanEntries() {
+        const reachable = new Set();
+        scenes.forEach((scene) => {
+          const visited = new Set();
+          function walk(path) {
+            const key = pathKey(path);
+            if (visited.has(key)) return;
+            visited.add(key);
+            const segment = scene.segments.get(key);
+            if (!segment) return;
+            segment.images.forEach((entry) => reachable.add(entry.index));
+            if (segment.junction) {
+              segment.junction.choices.forEach((choice) => walk(choice.path));
+              return;
+            }
+            const merge = mergeContinuation(scene, path);
+            if (merge) { walk(merge.path); return; }
+            const continuation = scene.continuations.get(key);
+            if (continuation) walk(continuation);
+          }
+          walk([]);
+        });
+        return entries.filter((entry) => !reachable.has(entry.index));
+      }
+      function markerText(entry) {
+        const mark = marks[entry.name];
+        if (!mark) return '';
+        if (mark.type === 'scene') return 'POCZĄTEK SCENY';
+        if (mark.type === 'junction') return 'PUNKT WYBORU';
+        if (mark.type === 'choice') return `WYBÓR ${String(mark.label || 'A').toUpperCase()}`;
+        if (mark.type === 'merge') return 'WSPÓLNA ŚCIEŻKA';
+        if (mark.type === 'continuation') return 'DALSZA CZĘŚĆ SCENY';
+        return '';
+      }
+      function updateCardMarker(card, entry) {
+        const thumb = card.querySelector('.thumb');
+        const oldBadge = thumb.querySelector('.mark-badge');
+        if (oldBadge) oldBadge.remove();
+        const text = markerText(entry);
+        if (text) {
+          const badge = document.createElement('span');
+          badge.className = 'mark-badge';
+          badge.textContent = text;
+          thumb.append(badge);
+        }
+        const button = card.querySelector('.card-mark');
+        button.title = text ? `Zmień oznaczenie: ${text}` : tagsFor(entry).length ? 'Edytuj tagi' : 'Oznacz screenshot';
+        button.setAttribute('aria-label', button.title);
+        const tags = card.querySelector('.card-tags');
+        tags.replaceChildren();
+        tagsFor(entry).forEach((tag) => {
+          const chip = document.createElement('span');
+          chip.className = 'card-tag';
+          chip.textContent = tag;
+          tags.append(chip);
+        });
+        tags.hidden = tags.childElementCount === 0;
+      }
+      function updateSelectionUI() {
+        cards.forEach((card, index) => {
+          const selected = selectedEntries.has(index);
+          card.classList.toggle('selected', selected);
+          card.setAttribute('aria-pressed', String(selected));
+        });
+        const button = $('#bulkTagButton');
+        button.hidden = selectedEntries.size === 0;
+        button.textContent = `Dodaj tag zaznaczonym (${selectedEntries.size})`;
+      }
+      function toggleCardSelection(index) {
+        if (selectedEntries.has(index)) selectedEntries.delete(index);
+        else selectedEntries.add(index);
+        updateSelectionUI();
+      }
+      function makeCard(entry) {
+        const card = document.createElement('article');
+        card.className = 'card';
+        card.tabIndex = 0;
+        card.setAttribute('role', 'button');
+        card.setAttribute('aria-label', `Otwórz ${entry.name}`);
+        card.dataset.index = entry.index;
+        const thumb = document.createElement('div');
+        thumb.className = 'thumb';
+        thumb.innerHTML = '<div class="placeholder" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3.5" y="4" width="17" height="16" rx="2"/><circle cx="9" cy="9" r="1.5"/><path d="m4 17 5-5 3 3 2-2 6 5"/></svg></div>';
+        const img = document.createElement('img');
+        img.alt = '';
+        img.decoding = 'async';
+        img.addEventListener('load', () => img.classList.add('loaded'));
+        thumb.append(img);
+        const markButton = document.createElement('button');
+        markButton.type = 'button';
+        markButton.className = 'card-mark';
+        markButton.textContent = '⚑';
+        markButton.addEventListener('click', (event) => { event.stopPropagation(); openMarkEditor(entry.index); });
+        thumb.append(markButton);
+        const branchBadges = document.createElement('div');
+        branchBadges.className = 'branch-choice-badges';
+        branchBadges.hidden = true;
+        thumb.append(branchBadges);
+        const caption = document.createElement('div');
+        caption.className = 'card-caption';
+        const name = document.createElement('span');
+        name.className = 'file-name';
+        name.textContent = entry.name;
+        name.title = entry.name;
+        const size = document.createElement('span');
+        size.className = 'file-size';
+        size.textContent = formatBytes(entry.size);
+        caption.append(name, size);
+        const tagList = document.createElement('div');
+        tagList.className = 'card-tags';
+        card.append(thumb, caption, tagList);
+        card.addEventListener('click', (event) => {
+          if (event.shiftKey) { event.preventDefault(); toggleCardSelection(entry.index); return; }
+          openLightbox(entry.index);
+        });
+        card.addEventListener('keydown', (event) => {
+          if (event.target !== card) return;
+          if (event.shiftKey && event.key === 'Enter') { event.preventDefault(); toggleCardSelection(entry.index); }
+          else if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); openLightbox(entry.index); }
+        });
+        updateCardMarker(card, entry);
+        return card;
+      }
+      function renderGallery(items) {
+        observer.disconnect();
+        inRange.clear();
+        const wanted = new Set(items.map((entry) => entry.index));
+        selectedEntries.forEach((index) => { if (!wanted.has(index)) selectedEntries.delete(index); });
+        for (const [index, oldCard] of cards) {
+          if (!wanted.has(index)) { unloadThumbnail(index); oldCard.remove(); }
+        }
+        const nextCards = new Map();
+        gallery.replaceChildren();
+        items.forEach((entry) => {
+          const card = cards.get(entry.index) || makeCard(entry);
+          updateCardMarker(card, entry);
+          nextCards.set(entry.index, card);
+          gallery.append(card);
+        });
+        cards = nextCards;
+        visibleEntries = items;
+        updateSelectionUI();
+        const lazy = activeTag !== null || !hasStructuralMarks();
+        cards.forEach((card, index) => {
+          if (lazy) observer.observe(card);
+          else { inRange.add(index); loadThumbnail(index); }
+        });
+      }
+      async function getFile(index) {
+        const entry = entries[index];
+        if (entry.file) return entry.file;
+        if (entry.handle) return entry.handle.getFile();
+        throw new Error('Nie można odczytać tego pliku. Otwórz folder ponownie.');
+      }
+      async function getObjectUrl(index) {
+        if (objectUrls.has(index)) return objectUrls.get(index);
+        const file = await getFile(index);
+        const url = URL.createObjectURL(file);
+        objectUrls.set(index, url);
+        return url;
+      }
+      async function loadThumbnail(index) {
+        const card = cards.get(index);
+        if (!card) return;
+        const img = card.querySelector('img');
+        if (img.getAttribute('src') || img.dataset.loading) return;
+        img.dataset.loading = '1';
+        try {
+          const url = await getObjectUrl(index);
+          if (inRange.has(index) && cards.has(index)) img.src = url;
+          else { URL.revokeObjectURL(url); objectUrls.delete(index); }
+        } catch (error) {
+          console.warn(error);
+          const placeholder = card.querySelector('.placeholder');
+          if (placeholder) placeholder.textContent = 'Nie udało się wczytać';
+        } finally { delete img.dataset.loading; }
+      }
+      function unloadThumbnail(index) {
+        const card = cards.get(index);
+        if (!card) return;
+        const img = card.querySelector('img');
+        if (img.dataset.loading) return;
+        img.removeAttribute('src');
+        img.classList.remove('loaded');
+        const url = objectUrls.get(index);
+        if (url) { URL.revokeObjectURL(url); objectUrls.delete(index); }
+      }
+      function renderSceneQuickSelect() {
+        const jump = $('#sceneQuickJump');
+        const select = $('#sceneQuickSelect');
+        select.replaceChildren();
+        scenes.forEach((scene, index) => {
+          const option = document.createElement('option');
+          option.value = index;
+          option.textContent = `Scena ${scene.number} · ${sceneDisplayName(scene)}`;
+          select.append(option);
+        });
+        select.value = String(currentSceneIndex);
+        jump.hidden = !hasStructuralMarks() || activeTag !== null || annotationMode || orphanMode;
+      }
+      function showNavigation() {
+        const scene = scenes[currentSceneIndex];
+        const position = `Scena ${scene.number} · ${sceneDisplayName(scene)}  ·  ${currentSceneIndex + 1} / ${scenes.length}`;
+        ['scenePosition', 'scenePositionBottom'].forEach((id) => { $('#' + id).textContent = position; });
+        ['previousScene', 'previousSceneBottom'].forEach((id) => { $('#' + id).disabled = currentSceneIndex === 0; });
+        ['nextScene', 'nextSceneBottom'].forEach((id) => { $('#' + id).disabled = currentSceneIndex === scenes.length - 1; });
+      }
+      function returnToChoice() {
+        if (!decisions.length) return;
+        decisions.pop();
+        renderScene();
+      }
+      function renderTagCloud() {
+        const cloud = $('#tagCloud');
+        const list = $('#tagList');
+        list.replaceChildren();
+        const groups = new Map();
+        entries.forEach((entry) => tagsFor(entry).forEach((tag) => {
+          const key = normalizeTag(tag);
+          if (!key) return;
+          if (!groups.has(key)) groups.set(key, { label: tag.trim(), count: 0 });
+          groups.get(key).count++;
+        }));
+        [...groups.entries()].sort((a, b) => a[1].label.localeCompare(b[1].label, 'pl', { sensitivity: 'base' })).forEach(([key, item]) => {
+          const button = document.createElement('button');
+          button.type = 'button';
+          button.className = `tag-chip${activeTag === key ? ' active' : ''}`;
+          button.setAttribute('aria-pressed', String(activeTag === key));
+          const label = document.createElement('span');
+          label.textContent = item.label;
+          const count = document.createElement('span');
+          count.className = 'tag-count';
+          count.textContent = item.count;
+          button.append(label, count);
+          button.addEventListener('click', () => {
+            activeTag = activeTag === key ? null : key;
+            decisions = [];
+            renderTagCloud();
+            renderScene();
+          });
+          list.append(button);
+        });
+        cloud.hidden = groups.size === 0 && activeTag === null;
+        $('#clearTag').hidden = activeTag === null;
+      }
+      function renderTagGallery() {
+        const selected = normalizeTag(activeTag);
+        const tagged = entries.filter((entry) => tagsFor(entry).some((tag) => normalizeTag(tag) === selected));
+        renderGallery(tagged);
+        renderBranchBadges(null);
+        setMessage(tagged.length ? '' : `Nie ma zdjęć z tagiem „${activeTag}”.`);
+        $('#resultCount').textContent = `${pluralScreens(tagged.length)} z tagiem „${activeTag}”`;
+        $('#markingMode').hidden = true;
+        $('#orphanModeButton').hidden = true;
+        $('#routeBack').hidden = true;
+        $('#sceneNavigation').hidden = true;
+        $('#sceneNavigationBottom').hidden = true;
+        $('#sceneQuickJump').hidden = true;
+        $('#junctionPanel').hidden = true;
+        $('#sceneEndPanel').hidden = true;
+        toolbar.hidden = false;
+      }
+      function selectBranch(junction, choice) {
+        const selectedAt = decisions.findIndex((item) => item.junction === junction.key);
+        const earlier = selectedAt >= 0 ? decisions.slice(0, selectedAt) : decisions.slice();
+        if (selectedAt >= 0 && decisions[selectedAt].choice === choice.key) decisions = earlier;
+        else decisions = [...earlier, { junction: junction.key, choice: choice.key }];
+        renderScene();
+      }
+      function renderBranchBadges(scene) {
+        cards.forEach((card, index) => {
+          const slot = card.querySelector('.branch-choice-badges');
+          slot.replaceChildren();
+          slot.hidden = true;
+          if (!scene || annotationMode || orphanMode || activeTag !== null) return;
+          const junction = scene.junctionByKey.get(entries[index]?.name);
+          if (!junction?.choices.length) return;
+          const selected = decisions.find((item) => item.junction === junction.key);
+          junction.choices.forEach((choice) => {
+            const button = document.createElement('button');
+            button.type = 'button';
+            const isActive = selected?.choice === choice.key;
+            button.className = `branch-choice-badge${isActive ? ' active' : ''}`;
+            button.textContent = choice.label;
+            button.title = isActive ? `Wybrano ${choice.label}; kliknij, aby cofnąć` : `Doładuj wybór ${choice.label}`;
+            button.setAttribute('aria-pressed', String(isActive));
+            button.addEventListener('click', (event) => {
+              event.preventDefault();
+              event.stopPropagation();
+              selectBranch(junction, choice);
+            });
+            slot.append(button);
+          });
+          slot.hidden = false;
+        });
+      }
+      function renderChoicePanel(view) {
+        const panel = $('#junctionPanel');
+        panel.replaceChildren();
+        panel.hidden = !view.junction;
+        if (!view.junction) return;
+        const title = document.createElement('h2');
+        title.textContent = 'Rozgałęzienie';
+        const copy = document.createElement('p');
+        copy.textContent = view.choices.length ? 'Wybierz dalszy ciąg:' : 'Oznacz początki możliwych wyborów, aby dodać przyciski tej sceny.';
+        const list = document.createElement('div');
+        list.className = 'choice-list';
+        view.choices.forEach((choice) => {
+          const button = document.createElement('button');
+          button.type = 'button';
+          button.className = 'button primary';
+          button.textContent = `Wybór ${choice.label}`;
+          button.addEventListener('click', () => selectBranch(view.junction, choice));
+          list.append(button);
+        });
+        panel.append(title, copy);
+        if (view.choices.length) panel.append(list);
+      }
+      function latestAnnotationAnchorIndex() {
+        let latest = 0;
+        entries.forEach((entry) => {
+          const type = marks[entry.name]?.type;
+          if (type === 'scene' || type === 'junction' || type === 'continuation') latest = entry.index;
+        });
+        return latest;
+      }
+      function renderScene() {
+        if (!scenes.length) return;
+        renderTagCloud();
+        if (activeTag !== null) { renderTagGallery(); return; }
+        renderSceneQuickSelect();
+        const scene = scenes[currentSceneIndex];
+        const view = annotationMode
+          ? { items: entries.filter((entry) => entry.index >= annotationStartIndex), ended: false, junction: null, choices: [] }
+          : buildView(scene);
+        const orphanEntries = collectOrphanEntries();
+        const visibleItems = orphanMode ? orphanEntries : view.items;
+        renderGallery(visibleItems);
+        renderBranchBadges(orphanMode ? null : scene);
+        showNavigation();
+        if (orphanMode) $('#resultCount').textContent = `${pluralScreens(orphanEntries.length)} poza osiągalnymi scenami — użyj oznaczeń, aby je podłączyć`;
+        else if (annotationMode) $('#resultCount').textContent = `${pluralScreens(view.items.length)} od ${basename(entries[annotationStartIndex]?.name || '')} do końca folderu`;
+        else $('#resultCount').innerHTML = `<strong>${pluralScreens(view.items.length)}</strong> w tej ścieżce`;
+        $('#markingMode').hidden = orphanMode;
+        $('#orphanModeButton').hidden = false;
+        $('#orphanModeButton').disabled = !orphanMode && orphanEntries.length === 0;
+        $('#orphanModeButton').textContent = orphanMode ? 'Wróć do poprzedniego widoku' : `Pokaż sieroty${orphanEntries.length ? ` (${orphanEntries.length})` : ''}`;
+        $('#orphanModeButton').setAttribute('aria-pressed', String(orphanMode));
+        $('#markingMode').textContent = annotationMode ? 'Wróć do oglądania sceny' : 'Pokaż nieoznaczone';
+        $('#markingMode').title = annotationMode
+          ? 'Wróć do widoku bieżącej sceny i zachowaj wybrane gałęzie'
+          : 'Pokaż od ostatniego początku sceny lub punktu wyboru do końca folderu';
+        $('#markingMode').setAttribute('aria-pressed', String(annotationMode));
+        renderChoicePanel(orphanMode ? { junction: null } : view);
+        const endPanel = $('#sceneEndPanel');
+        endPanel.replaceChildren();
+        endPanel.hidden = orphanMode || annotationMode || !view.ended;
+        if (view.ended) {
+          const title = document.createElement('h2');
+          title.textContent = 'Koniec sceny';
+          const copy = document.createElement('p');
+          const destinations = scenes.map((target, index) => ({ target, index })).filter((item) => item.index > currentSceneIndex);
+          copy.textContent = decisions.length
+            ? 'Wybierz początek sceny, do której prowadzi ten wybór:'
+            : 'Możesz przejść do kolejnej sceny.';
+          endPanel.append(title, copy);
+          if (decisions.length && destinations.length) {
+            const list = document.createElement('div');
+            list.className = 'choice-list';
+            destinations.forEach(({ target, index }) => {
+              const button = document.createElement('button');
+              button.type = 'button';
+              button.className = 'button';
+              button.textContent = `Scena ${target.number} · ${sceneDisplayName(target)}`;
+              button.addEventListener('click', () => openScene(index));
+              list.append(button);
+            });
+            endPanel.append(list);
+          } else if (decisions.length) {
+            const note = document.createElement('p');
+            note.textContent = 'Oznacz początek kolejnej sceny, aby móc wskazać ją tutaj.';
+            note.style.marginTop = '10px';
+            endPanel.append(note);
+          }
+        }
+        const routeBack = $('#routeBack');
+        routeBack.hidden = orphanMode || annotationMode || decisions.length === 0;
+        if (!orphanMode && decisions.length) {
+          routeBack.textContent = `← Wróć do wyboru ${String(marks[decisions[decisions.length - 1].choice]?.label || '').toUpperCase()}`;
+          (view.junction ? $('#junctionPanel') : endPanel).append(routeBack);
+        }
+        const hasScenes = hasStructuralMarks();
+        $('#sceneNavigation').hidden = annotationMode || orphanMode || !hasScenes;
+        $('#sceneNavigationBottom').hidden = annotationMode || orphanMode || !hasScenes;
+        toolbar.hidden = false;
+      }
+      function toggleAnnotationMode() {
+        if (annotationMode) annotationMode = false;
+        else {
+          annotationMode = true;
+          annotationStartIndex = latestAnnotationAnchorIndex();
+        }
+        renderScene();
+      }
+      function toggleOrphanMode() {
+        orphanMode = !orphanMode;
+        renderScene();
+      }
+      function openScene(index) {
+        if (index < 0 || index >= scenes.length || index === currentSceneIndex) return;
+        currentSceneIndex = index;
+        decisions = [];
+        saveViewState();
+        renderScene();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+      function goToScene(delta) { openScene(currentSceneIndex + delta); }
+      async function openLightbox(index) {
+        const position = visibleEntries.findIndex((entry) => entry.index === index);
+        if (position < 0) return;
+        activeIndex = position;
+        lightbox.classList.add('open');
+        document.body.style.overflow = 'hidden';
+        await updateLightbox();
+        $('#closeLightbox').focus();
+      }
+      async function updateLightbox() {
+        const requestedIndex = activeIndex;
+        const entry = visibleEntries[requestedIndex];
+        if (!entry) return;
+        try {
+          const url = await getObjectUrl(entry.index);
+          if (activeIndex !== requestedIndex || !lightbox.classList.contains('open')) return;
+          $('#lightboxImage').src = url;
+          $('#lightboxImage').alt = entry.name;
+          $('#lightboxName').textContent = entry.name;
+          $('#lightboxMeta').textContent = formatBytes(entry.size);
+          $('#lightboxPosition').textContent = `${requestedIndex + 1} / ${visibleEntries.length}  ·  ← → nawigacja · Esc zamyka`;
+          $('#downloadImage').href = url;
+          $('#downloadImage').download = basename(entry.name);
+        } catch (error) { setMessage(error.message); closeLightbox(); }
+      }
+      function moveLightbox(delta) {
+        if (!visibleEntries.length) return;
+        activeIndex = (activeIndex + delta + visibleEntries.length) % visibleEntries.length;
+        updateLightbox();
+      }
+      function closeLightbox() {
+        lightbox.classList.remove('open');
+        document.body.style.overflow = '';
+        $('#lightboxImage').removeAttribute('src');
+        const entry = visibleEntries[activeIndex];
+        if (entry && cards.has(entry.index)) cards.get(entry.index).focus({ preventScroll: true });
+      }
+      function updateMarkFields() {
+        const type = $('#markType').value;
+        $('#choiceFields').hidden = type !== 'choice';
+        $('#mergeFields').hidden = type !== 'merge';
+        $('#continuationFields').hidden = type !== 'continuation';
+        $('#sceneNameFields').hidden = type !== 'scene';
+      }
+      function openMarkEditor(index) {
+        editingEntry = entries[index];
+        if (!editingEntry) return;
+        const mark = marks[editingEntry.name] || { type: 'none' };
+        $('#markFileName').textContent = editingEntry.name;
+        $('#markType').value = mark.type || 'none';
+        const parentSelect = $('#markParent');
+        parentSelect.replaceChildren();
+        const earlierJunctions = scenes.flatMap((item) => item.junctions).filter((junction) => junction.entry.index < editingEntry.index);
+        earlierJunctions.forEach((junction, indexInScene) => {
+          const option = document.createElement('option');
+          option.value = junction.key;
+          option.textContent = `${indexInScene + 1}. Scena ${junction.scene.number} · ${sceneDisplayName(junction.scene)} · ${junction.entry.name}`;
+          parentSelect.append(option);
+        });
+        if (mark.parent && earlierJunctions.some((junction) => junction.key === mark.parent)) parentSelect.value = mark.parent;
+        else if (earlierJunctions.length) parentSelect.value = earlierJunctions[earlierJunctions.length - 1].key;
+        const mergeParent = $('#mergeParent');
+        mergeParent.replaceChildren();
+        const sameSceneJunctions = earlierJunctions.filter((junction) => junction.scene === editingEntry.scene);
+        sameSceneJunctions.forEach((junction, indexInScene) => {
+          const option = document.createElement('option');
+          option.value = junction.key;
+          option.textContent = `${indexInScene + 1}. ${junction.entry.name}`;
+          mergeParent.append(option);
+        });
+        if (mark.type === 'merge' && sameSceneJunctions.some((junction) => junction.key === mark.parent)) mergeParent.value = mark.parent;
+        else if (sameSceneJunctions.length) mergeParent.value = sameSceneJunctions[sameSceneJunctions.length - 1].key;
+        const continuationScene = $('#continuationScene');
+        continuationScene.replaceChildren();
+        const availableScenes = scenes.filter((scene) => scene.startEntry && scene.startEntry.name !== editingEntry.name);
+        availableScenes.forEach((scene) => {
+          const option = document.createElement('option');
+          option.value = scene.startEntry.name;
+          option.textContent = `Scena ${scene.number} · ${sceneDisplayName(scene)}`;
+          continuationScene.append(option);
+        });
+        if (mark.type === 'continuation' && availableScenes.some((scene) => scene.startEntry.name === mark.targetScene)) continuationScene.value = mark.targetScene;
+        else if (editingEntry.scene?.startEntry && editingEntry.scene.startEntry.name !== editingEntry.name && availableScenes.some((scene) => scene.startEntry.name === editingEntry.scene.startEntry.name)) continuationScene.value = editingEntry.scene.startEntry.name;
+        else if (availableScenes.length) continuationScene.value = availableScenes[availableScenes.length - 1].startEntry.name;
+        $('#markLabel').value = mark.label || 'A';
+        $('#sceneName').value = mark.sceneName || '';
+        $('#markTags').value = tagsFor(editingEntry).join(', ');
+        $('#deleteMark').hidden = !marks[editingEntry.name];
+        updateMarkFields();
+        markEditor.hidden = false;
+        if ($('#markTags').value) {
+          $('#markTags').focus();
+          $('#markTags').select();
+        } else $('#markType').focus();
+      }
+      function openBulkTagEditor() {
+        if (!selectedEntries.size) return;
+        $('#bulkTagCount').textContent = `${selectedEntries.size} zaznaczonych ilustracji`;
+        $('#bulkTagValue').value = '';
+        bulkTagEditor.hidden = false;
+        $('#bulkTagValue').focus();
+      }
+      function closeBulkTagEditor() {
+        bulkTagEditor.hidden = true;
+      }
+      function applyBulkTags() {
+        const addedTags = [...new Map($('#bulkTagValue').value.split(',').map((tag) => tag.trim()).filter(Boolean).map((tag) => [normalizeTag(tag), tag])).values()];
+        if (!addedTags.length) { $('#bulkTagValue').focus(); return; }
+        const targets = [...selectedEntries].filter((index) => entries[index]);
+        targets.forEach((index) => {
+          const entry = entries[index];
+          const existing = tagsFor(entry);
+          const combined = new Map(existing.map((tag) => [normalizeTag(tag), tag]));
+          addedTags.forEach((tag) => { if (!combined.has(normalizeTag(tag))) combined.set(normalizeTag(tag), tag); });
+          marks[entry.name] = { ...(marks[entry.name] || {}), tags: [...combined.values()] };
+        });
+        closeBulkTagEditor();
+        selectedEntries.clear();
+        persistMarks();
+        rebuildAfterMarkChange();
+        setMessage(`Zaktualizowano tagi dla ${targets.length} ilustracji.`);
+      }
+      function rebuildAfterMarkChange() {
+        const oldSceneNumber = scenes[currentSceneIndex]?.number;
+        const oldSceneKey = scenes[currentSceneIndex]?.startEntry?.name;
+        const previousDecisions = decisions.slice();
+        const warnings = organizeScenes();
+        if (annotationMode) annotationStartIndex = latestAnnotationAnchorIndex();
+        const matchingIndex = scenes.findIndex((scene) => scene.startEntry?.name === oldSceneKey);
+        const fallbackIndex = matchingIndex >= 0 ? matchingIndex : scenes.findIndex((scene) => scene.number === oldSceneNumber);
+        currentSceneIndex = fallbackIndex >= 0 ? fallbackIndex : Math.min(currentSceneIndex, Math.max(0, scenes.length - 1));
+        const scene = scenes[currentSceneIndex];
+        decisions = [];
+        for (const decision of previousDecisions) {
+          const junction = scene?.junctionByKey.get(decision.junction);
+          if (!junction || !junction.choices.some((choice) => choice.key === decision.choice)) break;
+          decisions.push(decision);
+        }
+        saveViewState();
+        setMessage(warnings.length ? warnings.slice(0, 5).join(' ') : '');
+        renderTagCloud();
+        renderScene();
+      }
+      function closeMarkEditor() {
+        markEditor.hidden = true;
+        editingEntry = null;
+      }
+      function removeDependentChoices(junctionKey) {
+        Object.keys(marks).forEach((name) => {
+          const mark = marks[name];
+          if (!['choice', 'merge'].includes(mark?.type) || mark.parent !== junctionKey) return;
+          const retained = mark.tags?.length ? { tags: mark.tags } : null;
+          if (retained) marks[name] = retained;
+          else delete marks[name];
+        });
+      }
+      function saveMark() {
+        if (!editingEntry) return;
+        const type = $('#markType').value;
+        const key = editingEntry.name;
+        const previous = marks[key];
+        const tags = [...new Map($('#markTags').value.split(',').map((tag) => tag.trim()).filter(Boolean).map((tag) => [normalizeTag(tag), tag])).values()];
+        const nextMark = {};
+        if (type !== 'none') nextMark.type = type;
+        if (tags.length) nextMark.tags = tags;
+        if (type === 'scene') {
+          const sceneName = $('#sceneName').value.trim();
+          if (sceneName) nextMark.sceneName = sceneName.slice(0, 80);
+        }
+        if (type === 'choice') {
+          const parent = $('#markParent').value;
+          const label = $('#markLabel').value.trim();
+          if (!parent) { setMessage('Najpierw oznacz punkt wyboru przed początkiem tej gałęzi.'); return; }
+          if (!label) { $('#markLabel').focus(); return; }
+          nextMark.parent = parent;
+          nextMark.label = label.slice(0, 24);
+        }
+        if (type === 'merge') {
+          const parent = $('#mergeParent').value;
+          if (!parent) { setMessage('Najpierw oznacz punkt wyboru, z którego zbiegają się gałęzie tej sceny.'); return; }
+          nextMark.parent = parent;
+        }
+        if (type === 'continuation') {
+          const targetScene = $('#continuationScene').value;
+          if (!targetScene) { setMessage('Nie ma wcześniejszej sceny, do której można dołączyć dalszy ciąg.'); return; }
+          nextMark.targetScene = targetScene;
+        }
+        if (Object.keys(nextMark).length) marks[key] = nextMark;
+        else delete marks[key];
+        if (previous?.type === 'junction' && marks[key]?.type !== 'junction') removeDependentChoices(key);
+        closeMarkEditor();
+        persistMarks();
+        rebuildAfterMarkChange();
+      }
+      function deleteMark() {
+        if (!editingEntry) return;
+        const key = editingEntry.name;
+        const previous = marks[key];
+        delete marks[key];
+        if (previous?.type === 'junction') removeDependentChoices(key);
+        closeMarkEditor();
+        persistMarks();
+        rebuildAfterMarkChange();
+      }
+      function downloadMarks() {
+        const manifest = {
+          format: 'folio-visual-novel-marks',
+          version: 1,
+          folder: folderName,
+          exportedAt: new Date().toISOString(),
+          marks: Object.entries(marks).map(([file, mark]) => ({ file, ...mark }))
+        };
+        const blob = new Blob([JSON.stringify(manifest, null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const anchor = document.createElement('a');
+        anchor.href = url;
+        anchor.download = `${folderName.replace(/[^\w.-]+/g, '_') || 'folio'}-oznaczenia.json`;
+        document.body.append(anchor);
+        anchor.click();
+        anchor.remove();
+        URL.revokeObjectURL(url);
+      }
+      async function importMarksFile(file) {
+        try {
+          const manifest = JSON.parse(await file.text());
+          if (manifest.format !== 'folio-visual-novel-marks' || manifest.version !== 1 || !Array.isArray(manifest.marks)) {
+            throw new Error('To nie jest obsługiwany plik oznaczeń Folio.');
+          }
+          if (!window.confirm('Wczytanie zastąpi obecne oznaczenia dla tego folderu. Kontynuować?')) return;
+          const available = new Set(entries.map((entry) => entry.name));
+          const nextMarks = Object.create(null);
+          let matched = 0;
+          manifest.marks.forEach((item) => {
+            if (!item || !available.has(item.file)) return;
+            const nextMark = {};
+            if (item.type === 'scene' || item.type === 'junction') nextMark.type = item.type;
+            if (item.type === 'scene' && typeof item.sceneName === 'string' && item.sceneName.trim()) nextMark.sceneName = item.sceneName.trim().slice(0, 80);
+            if (item.type === 'choice' && typeof item.parent === 'string') {
+              nextMark.type = 'choice';
+              nextMark.parent = item.parent;
+              nextMark.label = String(item.label || 'A').slice(0, 24);
+            }
+            if (item.type === 'merge' && typeof item.parent === 'string') {
+              nextMark.type = 'merge';
+              nextMark.parent = item.parent;
+            }
+            if (item.type === 'continuation' && typeof item.targetScene === 'string') {
+              nextMark.type = 'continuation';
+              nextMark.targetScene = item.targetScene;
+            }
+            const tags = Array.isArray(item.tags) ? item.tags.filter((tag) => typeof tag === 'string').map((tag) => tag.trim()).filter(Boolean) : [];
+            if (tags.length) nextMark.tags = tags;
+            if (Object.keys(nextMark).length) { nextMarks[item.file] = nextMark; matched++; }
+          });
+          marks = nextMarks;
+          persistMarks();
+          rebuildAfterMarkChange();
+          if (!matched) setMessage('Plik wczytano, ale nie znaleziono pasujących nazw screenshotów w aktualnym folderze.');
+          else setMessage(`Wczytano ${matched} oznaczeń.`);
+        } catch (error) {
+          setMessage(error.message || 'Nie udało się wczytać pliku oznaczeń.');
+        } finally { marksInput.value = ''; }
+      }
+      function migrateLegacyNames() {
+        const migrated = Object.create(null);
+        let activePath = '';
+        const junctionByPath = new Map();
+        entries.forEach((entry) => {
+          const stem = basename(entry.name).replace(/\.png$/i, '');
+          let match = stem.match(/_(s\d+)$/i);
+          if (match) { migrated[entry.name] = { type: 'scene' }; activePath = ''; junctionByPath.clear(); return; }
+          if (/_j$/i.test(stem)) { migrated[entry.name] = { type: 'junction' }; junctionByPath.set(activePath, entry.name); return; }
+          match = stem.match(/_([a-z](?:-[a-z])*)$/i);
+          if (match) {
+            const route = match[1].toLowerCase();
+            const parentPath = route.split('-').slice(0, -1).join('-');
+            const parent = junctionByPath.get(parentPath);
+            if (parent) migrated[entry.name] = { type: 'choice', parent, label: route.split('-').pop().toUpperCase() };
+            activePath = route;
+          }
+        });
+        return migrated;
+      }
+      function displayCollection(files, name) {
+        observer.disconnect();
+        cards.forEach((_, index) => unloadThumbnail(index));
+        objectUrls.forEach((url) => URL.revokeObjectURL(url));
+        objectUrls.clear();
+        cards.clear();
+        selectedEntries.clear();
+        inRange.clear();
+        entries = sortFiles(files.filter((file) => file.name.toLowerCase().endsWith('.png')));
+        entries.forEach((entry, index) => { entry.index = index; });
+        folderName = name || 'img';
+        activeTag = null;
+        marksStorageKey = collectionStorageKey(folderName, entries);
+        loadMarks();
+        if (!Object.keys(marks).length) {
+          const legacy = migrateLegacyNames();
+          if (Object.keys(legacy).length) { marks = legacy; persistMarks(); }
+        }
+        currentSceneIndex = 0;
+        annotationMode = false;
+        orphanMode = false;
+        decisions = [];
+        const warnings = organizeScenes();
+        renderTagCloud();
+        if (!entries.length) {
+          scenes = [];
+          setMessage('W wybranym folderze nie znaleziono plików PNG.');
+          empty.hidden = false;
+          toolbar.hidden = true;
+          $('#sceneNavigation').hidden = true;
+          $('#sceneNavigationBottom').hidden = true;
+          $('#junctionPanel').hidden = true;
+          $('#sceneEndPanel').hidden = true;
+          gallery.replaceChildren();
+          return;
+        }
+        empty.hidden = true;
+        currentSceneIndex = loadSavedSceneIndex();
+        setMessage(warnings.length ? warnings.slice(0, 5).join(' ') : '');
+        renderScene();
+      }
+      async function readDirectory(rootHandle) {
+        const found = [];
+        async function walk(handle, path = '') {
+          for await (const child of handle.values()) {
+            if (child.kind === 'directory') await walk(child, `${path}${child.name}/`);
+            else if (child.name.toLowerCase().endsWith('.png')) {
+              const file = await child.getFile();
+              found.push({ name: path ? `${path}${child.name}` : child.name, size: file.size, lastModified: file.lastModified, handle: child });
+            }
+          }
+        }
+        await walk(rootHandle);
+        displayCollection(found, rootHandle.name);
+      }
+      function openFallbackFolder(fileList) {
+        const files = Array.from(fileList).filter((file) => file.name.toLowerCase().endsWith('.png'));
+        const path = files[0]?.webkitRelativePath || '';
+        const name = path.split('/')[0] || 'img';
+        displayCollection(files.map((file) => ({ name: file.webkitRelativePath?.split('/').slice(1).join('/') || file.name, size: file.size, lastModified: file.lastModified, file })), name);
+      }
+      function openDatabase() {
+        if (!('indexedDB' in window)) return Promise.resolve(null);
+        return new Promise((resolve) => {
+          const request = indexedDB.open(IDB_NAME, 1);
+          request.onupgradeneeded = () => request.result.createObjectStore(IDB_STORE);
+          request.onsuccess = () => { handleDatabase = request.result; resolve(handleDatabase); };
+          request.onerror = () => resolve(null);
+        });
+      }
+      async function saveHandle(handle) {
+        const db = handleDatabase || await openDatabase();
+        if (!db) return;
+        await new Promise((resolve) => {
+          const transaction = db.transaction(IDB_STORE, 'readwrite');
+          transaction.objectStore(IDB_STORE).put(handle, 'last-folder');
+          transaction.oncomplete = resolve;
+          transaction.onerror = resolve;
+        });
+      }
+      async function restoreFolder() {
+        const db = await openDatabase();
+        if (!db) return;
+        const handle = await new Promise((resolve) => {
+          const request = db.transaction(IDB_STORE, 'readonly').objectStore(IDB_STORE).get('last-folder');
+          request.onsuccess = () => resolve(request.result || null);
+          request.onerror = () => resolve(null);
+        });
+        if (!handle) return;
+        directoryHandle = handle;
+        try {
+          if (await handle.queryPermission({ mode: 'read' }) === 'granted') await readDirectory(handle);
+          else {
+            $('#emptyChoose').textContent = 'Kliknij, aby ponownie otworzyć ostatni folder';
+          }
+        } catch (error) { console.debug('Folder będzie można wybrać ponownie przy następnym uruchomieniu.', error); }
+      }
+      async function chooseDirectory() {
+        if ('showDirectoryPicker' in window) {
+          try {
+            const handle = await window.showDirectoryPicker({ mode: 'read' });
+            directoryHandle = handle;
+            await saveHandle(handle);
+            await readDirectory(handle);
+          } catch (error) {
+            if (error.name !== 'AbortError') {
+              console.warn(error);
+              setMessage('Nie udało się otworzyć folderu. Spróbuj ponownie albo skorzystaj z wyboru folderu w przeglądarce.');
+            }
+          }
+        } else folderInput.click();
+      }
+      function openLastOrChoose() {
+        if (directoryHandle && !scenes.length) {
+          directoryHandle.requestPermission({ mode: 'read' }).then(async (permission) => {
+            if (permission === 'granted') await readDirectory(directoryHandle);
+            else await chooseDirectory();
+          }).catch(() => chooseDirectory());
+        } else chooseDirectory();
+      }
+      function applyZoom(value) {
+        value = Math.min(420, Math.max(140, Number(value)));
+        document.documentElement.style.setProperty('--tile-size', `${value}px`);
+        $('#zoomValue').textContent = `${value} px`;
+        zoomRange.value = value;
+        saveZoom(value);
+      }
+
+      $('#changeFolder').addEventListener('click', chooseDirectory);
+      $('#emptyChoose').addEventListener('click', openLastOrChoose);
+      folderInput.addEventListener('change', (event) => {
+        if (event.target.files?.length) openFallbackFolder(event.target.files);
+        event.target.value = '';
+      });
+      $('#markType').addEventListener('change', updateMarkFields);
+      $('#saveMark').addEventListener('click', saveMark);
+      $('#deleteMark').addEventListener('click', deleteMark);
+      $('#cancelMark').addEventListener('click', closeMarkEditor);
+      $('#markTags').addEventListener('focus', (event) => event.target.select());
+      markEditor.addEventListener('keydown', (event) => {
+        if (event.key !== 'Enter' || event.isComposing || event.target.matches('select, button')) return;
+        event.preventDefault();
+        saveMark();
+      });
+      markEditor.addEventListener('click', (event) => { if (event.target === markEditor) closeMarkEditor(); });
+      $('#bulkTagButton').addEventListener('click', openBulkTagEditor);
+      $('#cancelBulkTags').addEventListener('click', closeBulkTagEditor);
+      $('#applyBulkTags').addEventListener('click', applyBulkTags);
+      bulkTagEditor.addEventListener('keydown', (event) => {
+        if (event.key !== 'Enter' || event.isComposing || event.target.matches('button')) return;
+        event.preventDefault();
+        applyBulkTags();
+      });
+      bulkTagEditor.addEventListener('click', (event) => { if (event.target === bulkTagEditor) closeBulkTagEditor(); });
+      $('#exportMarks').addEventListener('click', downloadMarks);
+      $('#importMarks').addEventListener('click', () => marksInput.click());
+      marksInput.addEventListener('change', (event) => { if (event.target.files?.[0]) importMarksFile(event.target.files[0]); });
+      zoomRange.addEventListener('input', () => applyZoom(Number(zoomRange.value)));
+      document.addEventListener('wheel', (event) => {
+        if ((!event.ctrlKey && !event.target.closest('.zoom-control')) || lightbox.classList.contains('open') || !event.target.closest('body')) return;
+        event.preventDefault();
+        const next = Math.min(420, Math.max(140, Number(zoomRange.value) + (event.deltaY < 0 ? 20 : -20)));
+        applyZoom(next);
+      }, { passive: false });
+      $('#sceneQuickSelect').addEventListener('change', (event) => openScene(Number(event.target.value)));
+      $('#previousScene').addEventListener('click', () => goToScene(-1));
+      $('#previousSceneBottom').addEventListener('click', () => goToScene(-1));
+      $('#nextScene').addEventListener('click', () => goToScene(1));
+      $('#nextSceneBottom').addEventListener('click', () => goToScene(1));
+      $('#routeBack').addEventListener('click', returnToChoice);
+      $('#markingMode').addEventListener('click', () => toggleAnnotationMode());
+      $('#orphanModeButton').addEventListener('click', toggleOrphanMode);
+      $('#clearTag').addEventListener('click', () => { activeTag = null; decisions = []; renderTagCloud(); renderScene(); });
+      $('#closeLightbox').addEventListener('click', closeLightbox);
+      $('#lightboxImage').addEventListener('click', closeLightbox);
+      $('#previousImage').addEventListener('click', () => moveLightbox(-1));
+      $('#nextImage').addEventListener('click', () => moveLightbox(1));
+      lightbox.addEventListener('click', (event) => { if (event.target === lightbox) closeLightbox(); });
+      document.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape' && !markEditor.hidden) { closeMarkEditor(); return; }
+        if (event.key === 'Escape' && !bulkTagEditor.hidden) { closeBulkTagEditor(); return; }
+        if (!lightbox.classList.contains('open')) return;
+        if (event.key === 'Escape') closeLightbox();
+        if (event.key === 'ArrowLeft') moveLightbox(-1);
+        if (event.key === 'ArrowRight') moveLightbox(1);
+      });
+      restoreZoom();
+      restoreFolder();
+    })();
+  </script>
+</body>
+</html>

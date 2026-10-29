@@ -1,0 +1,21 @@
+THE GENESIS ORDER — PIERWSZA INWENTARYZACJA
+
+1. Rozpakuj całą zawartość ZIP-a do zwykłego folderu.
+2. Uruchom URUCHOM.bat (dwuklik). Jeśli Windows wyświetli pytanie zabezpieczeń, wybierz uruchomienie.
+3. Skrypt spróbuje znaleźć instalację Steam/GOG. Jeśli nie znajdzie gry, poprosi o folder instalacyjny albo ścieżkę do pliku .exe. Wklej ścieżkę do folderu gry, nie do folderu z zapisami.
+4. Po zakończeniu na Pulpicie pojawi się TGO_DIAGNOSTIC_....zip. Umieść tylko ten ZIP na swoim Google Drive i udostępnij go tak jak poprzednie pliki.
+
+Co zbiera skrypt:
+- względne ścieżki plików w folderze instalacyjnym,
+- rozmiary, rozszerzenia i daty modyfikacji,
+- podsumowanie katalogów i typów plików,
+- podstawowe wersje plików wykonywalnych,
+- osobną listę plików, które mogą zawierać tekst lub dane zasobów.
+
+Prywatność i bezpieczeństwo:
+- skrypt jest tylko do odczytu: nie zmienia, nie usuwa ani nie podmienia plików gry;
+- ZIP wynikowy zawiera raporty tekstowe/CSV/JSON, a nie pliki gry ani ich zawartość;
+- nie zbiera zapisów gry z profilu Windows ani danych z innych folderów;
+- raport ujawnia nazwy i ścieżki plików w folderze gry. Przed udostępnieniem możesz go przejrzeć.
+
+Jeśli skrypt zgłosi błąd, nie wysyłaj całego folderu gry. Wyślij wiadomość błędu lub plik TGO_DIAGNOSTIC_....log z Pulpitu.
