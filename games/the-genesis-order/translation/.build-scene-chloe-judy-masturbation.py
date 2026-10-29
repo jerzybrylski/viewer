@@ -1,0 +1,135 @@
+import json
+from pathlib import Path
+ROOT=Path('games/the-genesis-order/translation')
+CANON=ROOT/'export-v1/custom_dialogue.jsonl'
+MERGED=Path('google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step2.jsonl')
+OUT=ROOT/'drafts/custom-dialogue-scene-chloe-judy-masturbation-01.jsonl'
+if OUT.exists(): raise SystemExit(f'Refusing to overwrite {OUT}')
+MAP={
+'See, Chloe? This isn’t so bad.':'Widzisz, Chloe? To wcale nie jest takie złe.',
+'I feel comfortable… It’s nice that you’re here with me, Sister Judy.':'Czuję się spokojnie… Dobrze, że jesteś tu ze mną, siostro Judy.',
+'I’ve never felt so loved in my life.':'Nigdy w życiu nie czułam się tak kochana.',
+'Do you want to feel like you did last night?':'Chcesz znów poczuć to, co wczoraj?',
+'Yes! Yes, I do!':'Tak! Właśnie tego chcę!',
+'What are we going to do?':'Co będziemy robić?',
+'Use your finger, 1Hero. Do it like you did before.':'Użyj palca, 1Hero. Zrób tak jak poprzednio.',
+'Are you ready, Chloe?':'Jesteś gotowa, Chloe?',
+'Uhh. Yeah… I’m ready.':'Eee, tak… Jestem gotowa.',
+'Oh, 1Hero!':'Och, 1Hero!',
+'Oh, my god! It tingles!':'O mój Boże! Aż mrowi!',
+'Feel this hard bump?':'Czujesz tę twardą wypukłość?',
+'Yes! What are you doing?':'Tak! Co robisz?',
+'This is where you rub.':'Tutaj trzeba pocierać.',
+'It feels so good.':'Ale przyjemnie.',
+'You’re pressing so hard.':'Mocno naciskasz.',
+'Too hard?':'Za mocno?',
+'No… No… It’s good.':'Nie… Nie… Jest dobrze.',
+'If you go inside and push up, you can hit it from underneath.':'Jeśli włożysz palec do środka i popchniesz w górę, trafisz w to od spodu.',
+'Ah! Ah! How do you know so much?':'Ach! Ach! Skąd tyle wiesz?',
+'A guy has to know these things.':'Facet musi znać się na takich rzeczach.',
+'You are a good teacher, 1Hero.':'Jesteś dobrym nauczycielem, 1Hero.',
+'Does it feel good if I press up from under your bump?':'Przyjemnie, kiedy naciskam od spodu na tę wypukłość?',
+'It’s perfect. Whatever you’re doing… it’s perfect.':'Idealnie. Cokolwiek robisz… jest idealnie.',
+'I want you girls to take over.':'Chcę, żebyście teraz same spróbowały.',
+'I’m going to show you another sensitive spot… The nipple.':'Pokażę wam jeszcze jedno wrażliwe miejsce… Sutek.',
+'Nipple?':'Sutek?',
+'Do you feel that, Chloe?':'Czujesz to, Chloe?',
+'Oh! It’s a tickle… I like it.':'Och! Łaskocze… Podoba mi się.',
+'You’re tickling her?':'Łaskoczesz ją?',
+'Just a very soft touch, right here.':'Tylko delikatny dotyk, tutaj.',
+'That feels really good.':'Ale przyjemnie.',
+'Are you pressing up with your finger?':'Naciskasz palcem od spodu?',
+'Yes, 1Hero.':'Tak, 1Hero.',
+'Good, good. Keep going.':'Dobrze, dobrze. Nie przestawaj.',
+'1Hero, can you show me?':'1Hero, możesz mi pokazać?',
+'Of course, Sister.':'Oczywiście, siostro.',
+'Ah! My dear Lord! It’s incredible!':'Ach! Mój Boże! To niesamowite!',
+'That’s… so hot.':'To… takie podniecające.',
+'Good job, Judy. Use two fingers.':'Dobra robota, Judy. Użyj dwóch palców.',
+'The feeling is so intense!':'To uczucie jest takie intensywne!',
+'Don’t be afraid to be rough. Really push on it.':'Nie bój się mocniej. Naprawdę mocno naciskaj.',
+'My legs… they feel weak.':'Moje nogi… Są takie słabe.',
+'That’ll happen.':'Tak się zdarza.',
+'Can you take over from here?':'Możesz teraz przejąć?',
+'Yes… I can do it.':'Tak… Dam sobie radę.',
+'There you go. You got this.':'No, właśnie tak. Dasz radę.',
+'It’s perfect! I can’t imagine anything better than this.':'Idealnie! Nie wyobrażam sobie nic przyjemniejszego.',
+'Haha. You have no idea, Judy.':'Haha. Nie masz pojęcia, Judy.',
+'1Hero? You’re… getting hard.':'1Hero? Robi ci się… twardy.',
+'Of course I am. Are you kidding me?':'No pewnie. Chyba żartujesz?',
+'Hard?':'Twardy?',
+'His… penis.':'Jego… penis.',
+'I don’t understand.':'Nie rozumiem.',
+'What is that between your legs?':'Co masz między nogami?',
+'Don’t worry about me, Judy.':'Nie przejmuj się mną, Judy.',
+'Please… Teach me.':'Proszę… Naucz mnie.',
+'If you insist.':'Skoro nalegasz.',
+'Oh, my! 1Hero! What is that thing!?':'Ojej! 1Hero! Co to za rzecz!?',
+'It’s his penis, Sister Judy.':'To jego penis, siostro Judy.',
+'This is what happens when it wants to have fun.':'Tak się dzieje, kiedy chce się zabawić.',
+'Fun? I don’t understand.':'Zabawić? Nie rozumiem.',
+'It wants to be inside of us.':'Chce wejść do środka.',
+'How… unholy.':'Jakże… nieświęte.',
+'There you go, 1Hero. Does this feel better?':'Proszę, 1Hero. Tak jest lepiej?',
+'Chloe! I didn’t mean you had to do this.':'Chloe! Nie chciałam, żebyś musiała to robić.',
+'So... You feel it too?':'Czyli… Ty też to czujesz?',
+'He has to cum, Sister Judy.':'Siostro Judy, on musi dojść.',
+'Oh, yes!':'Och, tak!',
+'Cum?':'Dojść?',
+'That feeling that is really good… at the end.':'To bardzo przyjemne uczucie… na samym końcu.',
+'Of course… 1Hero should feel it too.':'Oczywiście… 1Hero też powinien tego doświadczyć.',
+'Yes, ladies. Touch it.':'Tak, dziewczyny. Dotykajcie go.',
+'Judy?':'Judy?',
+'It’s okay... I just want to feel it a little bit.':'Nic się nie stało… Chcę tylko trochę go poczuć.',
+'It’s so… big… and warm.':'Jest taki… duży… i ciepły.',
+'It’s getting close.':'Już blisko.',
+'I can feel it throbbing.':'Czuję, jak pulsuje.',
+'Does it feel good? Will it make you cum?':'To przyjemne? Doprowadzi cię do orgazmu?',
+'Keep going. Don’t stop touching it.':'Nie przestawaj. Wciąż go dotykaj.',
+'Come on, 1Hero. Cum with me.':'No dalej, 1Hero. Dojdź razem ze mną.',
+'We will… cum together?':'Dojdziemy… razem?',
+'I’m almost there!':'Już prawie!',
+'Me too!':'Ja też!',
+'Oh, my!':'Ojej!',
+'Chloe! What happened?':'Chloe! Co się stało?',
+'Damn, 1Hero! You really had a lot inside of you.':'Cholera, 1Hero! Naprawdę dużo tego z ciebie wyleciało.',
+'What is it? What is that stuff?':'Co to jest? Co to za substancja?',
+'That’s the cum.':'To sperma.',
+'Cum is a… thing?':'Sperma to… coś?',
+'It’s warm… and gooey.':'Jest ciepła… i lepka.',
+'That came out of 1Hero?':'To wyszło z 1Hero?',
+'Is it okay, Chloe?':'Wszystko w porządku, Chloe?',
+'Yeah… It feels nice.':'Tak… To przyjemne.',
+'It’s warm?':'Jest ciepła?',
+'It was inside of him. It’s… body temperature.':'Była w jego ciele. Ma… temperaturę ciała.',
+'It tastes nice.':'Dobrze smakuje.',
+'Chloe? Did Hannah teach you that?':'Chloe? Hannah cię tego nauczyła?',
+'I saw it in a video.':'Widziałam to na filmie.',
+'You can… eat it?':'Można… to jeść?',
+'It’s a way to show your… appreciation.':'To sposób, by okazać… wdzięczność.',
+'I… I am very appreciative of 1Hero.':'Ja… Jestem bardzo wdzięczna 1Hero.',
+'Judy… you don’t have to do anything you don’t want to.':'Judy… Nie musisz robić niczego, na co nie masz ochoty.',
+'I want to try.':'Chcę spróbować.',
+'Well? How was it?':'No i jak?',
+'I don’t know… it’s salty.':'Nie wiem… Jest słona.',
+'It’s okay if you don’t like it. You don’t have to eat it.':'Jeśli ci nie smakuje, nic nie szkodzi. Nie musisz jej jeść.',
+'I’ve just never heard of such a ritual.':'Po prostu nigdy nie słyszałam o takim rytuale.',
+'It’s not exactly something a nun would know about.':'To raczej nie jest coś, o czym zakonnica miałaby wiedzieć.',
+}
+known=set()
+for line in MERGED.read_text(encoding='utf8').splitlines():
+ row=json.loads(line)
+ if row['translation'].strip(): known.add(row['id'])
+rows=[]; missing=set()
+for line in CANON.read_text(encoding='utf8').splitlines():
+ row=json.loads(line); c=row['context']
+ if c.get('source_kind')=='common_event' and c.get('event_id')==352:
+  if row['id'] in known: continue
+  source=row['source_text'].strip()
+  if source in {'…','...','..'} or source.startswith('/'): continue
+  target=MAP.get(source)
+  if target is None: missing.add(source); continue
+  row['translation']=target; rows.append(row)
+if missing: raise SystemExit('Unmapped event 352 strings: '+repr(sorted(missing)))
+OUT.write_text(''.join(json.dumps(r,ensure_ascii=False,sort_keys=True)+'\n' for r in rows),encoding='utf8',newline='\n')
+print(f'Wrote Chloe/Judy masturbation lesson: {len(rows)} records from {len(MAP)} source strings')

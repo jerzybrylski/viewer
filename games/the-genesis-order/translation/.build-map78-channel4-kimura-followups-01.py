@@ -1,0 +1,292 @@
+#!/usr/bin/env python3
+"""Build Polish drafts for the remaining Channel 4/Kimura dialogue on Map 78."""
+import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+CANON = ROOT / 'export-v1/custom_dialogue.jsonl'
+EVENTS = {
+    3: {
+        "Dinner was delicious, Andrea.": "Kolacja była przepyszna, Andrea.",
+        "I’m glad you enjoyed it, 1Hero.": "Cieszę się, że ci smakowała, 1Hero.",
+        "And a wonderful wine pairing, as well.": "Wino też było doskonale dobrane.",
+        "Thank you, Andrea, I’m happy you liked it.": "Dziękuję, Andrea. Cieszę się, że ci smakowało.",
+        "I want you in the office early tomorrow. I need to brief you on everything we know about the Guild case.": "Chcę, żebyś jutro rano był w biurze. Muszę przekazać ci wszystko, co wiemy o sprawie Gildii.",
+        "Of course. I'll be there.": "Oczywiście. Będę.",
+        "Are you nervous about being on TV, 1Hero?": "Denerwujesz się występem w telewizji, 1Hero?",
+        "Of course you can.": "Oczywiście, że możesz.",
+        "Good evening, 1Hero.": "Dobry wieczór, 1Hero.",
+        "I'll see you tomorrow morning, Andrea.": "Do zobaczenia jutro rano, Andrea.",
+        "Wow, that went really well.": "Wow, poszło naprawdę dobrze.",
+        "But I wonder just how seriously she took what I told her about Duncan and Charles.": "Ciekawe tylko, na ile poważnie potraktowała to, co powiedziałem jej o Duncanie i Charlesie.",
+        "I hate the idea that I might be lying to the public on TV.": "Nie podoba mi się myśl, że mógłbym okłamywać ludzi w telewizji.",
+        "At least I'll be doing it with a handsome mug...": "Przynajmniej będę to robił z przystojną gębą...",
+        "Is that what Andrea sees in me?": "Czy właśnie to Andrea we mnie widzi?",
+        "I hope that there’s more opportunity here than that. I know I could do more, if just given the chance.": "Mam nadzieję, że czeka tu na mnie coś więcej. Wiem, że mógłbym osiągnąć więcej, gdyby dano mi szansę.",
+        "I wonder how Melissa’s going to react to all this. Maybe after the interview, I should stay out of her sight for a while.": "Ciekawe, jak Melissa na to wszystko zareaguje. Może po wywiadzie powinienem przez jakiś czas schodzić jej z oczu.",
+    },
+    4: {
+        "The drinks are ready. I’d love your opinion on them, Miss Foxx.": "Drinki są gotowe. Chętnie poznam pani opinię, panno Foxx.",
+        "I’m not one to turn down a bit of alcohol.": "Nie odmawiam sobie odrobiny alkoholu.",
+        "Nor am I.": "Ja również.",
+        "Almost tastes like strawberries.": "Smakuje prawie jak truskawki.",
+        "Do I detect mint?": "Czy wyczuwam miętę?",
+        "Family secrets, you two.": "To rodzinny sekret, dziewczyny.",
+        "As much as I’ve enjoyed the chit chat, I do believe we have an interview to conduct.": "Choć miło mi się z wami gawędzi, chyba mamy do przeprowadzenia wywiad.",
+        "Don’t be so formal…": "Nie bądź taki oficjalny…",
+        "You and 1Hero talk. I’ll go take the glasses to the kitchen.": "Porozmawiajcie z 1Hero. Zaniosę szklanki do kuchni.",
+        "Andrea brought you here to charm me, didn’t she?": "Andrea sprowadziła cię tu, żebyś mnie oczarował, prawda?",
+        "Huh? I’m the Guild guy. I’m here to talk to you about the mansion.": "Co? Jestem tym od Gildii. Przyszedłem porozmawiać o rezydencji.",
+        "So there is a connection?": "Czyli jednak istnieje jakieś powiązanie?",
+        "There’s no connection. But, I know you think there could be.": "Nie ma żadnego powiązania. Ale wiem, że podejrzewasz, że może być.",
+        "Charles was a Guild leader. Just admit it.": "Charles był przywódcą Gildii. Po prostu się przyznaj.",
+        "If I knew that, I’d tell you.": "Gdybym to wiedziała, powiedziałabym ci.",
+        "You would?": "Naprawdę?",
+        "Not for free.": "Nie za darmo.",
+        "Oh, so you’re looking for a bribe?": "Aha, czyli szukasz łapówki?",
+        "Such a bad, bad officer.": "Ależ z ciebie niegrzeczny policjant.",
+        "Maybe I’m just playing with you.": "Może tylko się z tobą droczę.",
+        "Not yet, you aren't.": "Jeszcze nie.",
+        "You’re the one charming me, Miss Foxx.": "To ty mnie oczarowujesz, panno Foxx.",
+        "Call me Kimberly, Detective Canbone.": "Mów mi Kimberly, detektywie Canbone.",
+        "Canmore…": "Canmore…",
+    },
+    8: {
+        "I didn’t expect you of all people to go over my head, Melissa.": "Nie spodziewałam się, że akurat ty pójdziesz z tym do kogoś wyżej, Melissa.",
+        "It was a tip. I didn’t know your operation was connected to the warehouse.": "To był donos. Nie wiedziałam, że wasza operacja ma związek z magazynem.",
+        "Like hell, you didn’t.": "Nie pieprz. Doskonale wiedziałaś.",
+        "Miss Kimura, we have Duncan’s henchmen in custody. We’ll find Duncan.": "Pani komisarz Kimura, mamy ludzi Duncana w areszcie. Znajdziemy go.",
+        "Nellie will find him, and when she does, we’re taking him out.": "Nellie go znajdzie, a wtedy go zlikwidujemy.",
+        "Hiding something?": "Coś ukrywasz?",
+        "It doesn’t have to end this way, Andrea.": "To nie musi się tak skończyć, Andrea.",
+    },
+    9: {
+        "Damn… That was intense.": "Cholera… Ależ to było intensywne.",
+        "I’m going to tell you something and you need to listen to me.": "Powiem ci coś. Słuchaj uważnie.",
+        "We’re listening.": "Słuchamy.",
+        "Melissa?": "Melissa?",
+        "Yes, I’m listening.": "Tak, słucham.",
+        "Nellie will find Duncan; and when she does, I will deal with him…": "Nellie znajdzie Duncana, a wtedy ja się nim zajmę…",
+        "You will no longer do ANYTHING in relation to the Eclipse Guild case. Do you understand, Miss Bhatt?": "Nie będziesz już robić NICZEGO w sprawie Gildii Zaćmienia. Czy to jasne, panno Bhatt?",
+        "As for the arrests you’ve made, the suspects will be interrogated by my officers.": "Jeśli chodzi o zatrzymanych przez ciebie podejrzanych, przesłuchają ich moi funkcjonariusze.",
+        "This is your one and final warning.": "To twoje ostatnie ostrzeżenie.",
+        "Go home, Melissa. Enjoy your evening.": "Wracaj do domu, Melissa. Miłego wieczoru.",
+        "Is 1Hero back on the force?": "1Hero wrócił do służby?",
+        "Go home.": "Wracaj do domu.",
+        "It’s time you know the truth, 1Hero.": "Pora, żebyś poznał prawdę, 1Hero.",
+        "The truth?": "Prawdę?",
+        "Duncan will be allowed to run the Eclipse Guild.": "Pozwolimy Duncanowi kierować Gildią Zaćmienia.",
+        "We’re letting him get away.": "Pozwolimy mu się wymknąć.",
+        "Why? I thought the Guild was close to death.": "Dlaczego? Myślałem, że Gildia jest bliska upadku.",
+        "The Guild is a recruiter of murderers and thieves. Until recently, the organization was split into twelve distinct groups.": "Gildia rekrutuje morderców i złodziei. Do niedawna organizacja była podzielona na dwanaście osobnych grup.",
+        "Duncan is the last man standing, isn’t he?": "Duncan jest ostatnim, który się ostał, prawda?",
+        "Correct, 1Hero. And now we have an opportunity.": "Zgadza się, 1Hero. Teraz mamy szansę.",
+        "But… why?": "Ale… dlaczego?",
+        "It’s a honeypot, 1Hero. Don’t you see?": "To miodowa pułapka, 1Hero. Nie rozumiesz?",
+        "We’re using the Guild as a trap?": "Używamy Gildii jako przynęty?",
+        "It’s been the plan all along. We’re not killing the Guild… We’re…. restructuring it to our advantage.": "Od początku taki był plan. Nie likwidujemy Gildii… My ją… przebudowujemy na naszą korzyść.",
+        "Damn… What about Nellie?": "Cholera… A co z Nellie?",
+        "Nellie has become quite the valuable asset.": "Nellie stała się bardzo cennym atutem.",
+        "She just wants her freedom.": "Ona chce tylko odzyskać wolność.",
+        "If it wasn’t for me, she’d be rotting in jail for another decade…": "Gdyby nie ja, gniłaby w więzieniu przez kolejne dziesięć lat…",
+        "She owes me much more than what she’s paid.": "Jest mi winna znacznie więcej, niż dotąd spłaciła.",
+        "She should know what’s going on.": "Powinna wiedzieć, co się dzieje.",
+        "I’ll be the judge of what information she needs to do her job.": "Ja zdecyduję, jakich informacji potrzebuje do swojej pracy.",
+        "As for you, 1Hero… You’ll have new cases, fed by the honeypot.": "A ty, 1Hero… Dostaniesz nowe sprawy dzięki tej miodowej pułapce.",
+        "And Melissa will know about them?": "A Melissa będzie o nich wiedzieć?",
+        "Your cover’s been blown… You’re back on the force.": "Twoja przykrywka została spalona… Znowu pracujesz w policji.",
+        "Is there something you want to say?": "Chcesz coś powiedzieć?",
+        "I want to be on the Guild case.": "Chcę prowadzić sprawę Gildii.",
+        "You’re still working for me, 1Hero. Don’t worry about that.": "Nadal dla mnie pracujesz, 1Hero. Nie martw się.",
+        "So you’re simply going to have Nellie report on Duncan?": "Czyli po prostu każesz Nellie śledzić Duncana?",
+        "She’s gotten good at it.": "Jest w tym coraz lepsza.",
+        "Another rough night outside. You better get home.": "Kolejna paskudna noc na zewnątrz. Lepiej wracaj do domu.",
+        "Looks like the weather is starting to turn. You better get home.": "Pogoda chyba się psuje. Lepiej wracaj do domu.",
+        "See you at the station tomorrow?": "Do zobaczenia jutro na komisariacie?",
+        "You’ve got a lot of work ahead of you, 1Hero.": "Czeka cię mnóstwo pracy, 1Hero.",
+    },
+    10: {
+        "I… I don’t know what came over me.": "Ja… Nie wiem, co we mnie wstąpiło.",
+        "Not exactly the most professional behavior, Miss Foxx.": "To nie było zbyt profesjonalne zachowanie, panno Foxx.",
+        "I’m not like this… I just got carried away.": "Zwykle taka nie jestem… Po prostu poniosło mnie.",
+        "1Hero would be quite the catch for any woman. I don’t blame you.": "1Hero byłby niezłą partią dla każdej kobiety. Nie mam ci tego za złe.",
+        "No… No… This was a bad idea.": "Nie… Nie… To był zły pomysł.",
+        "Don’t worry, Kimberly…": "Nie martw się, Kimberly…",
+        "We’ve known each other a long time now. Your secret is safe with me.": "Znamy się od dawna. Twój sekret jest u mnie bezpieczny.",
+        "It won’t happen again… I value our relationship, commissioner.": "To się nie powtórzy… Cenię naszą relację, pani komisarz.",
+        "There, there. Nothing to worry about. We’ve got your back, Miss Foxx.": "Już dobrze. Nie ma się czym martwić. Jesteśmy po twojej stronie, panno Foxx.",
+        "Thank you… And I’m sorry.": "Dziękuję… I przepraszam.",
+        "I’ll speak with you later, Mr. Canmore.": "Porozmawiamy później, panie Canmore.",
+        "It’s been a lovely visit. But I should get back to the office.": "To była bardzo miła wizyta, ale powinnam wracać do biura.",
+        "Don’t you want an interview about the thieves that broke into the Wilkes’ mansion?": "Nie chce pani udzielić wywiadu o złodziejach, którzy włamali się do rezydencji Wilkesów?",
+        "Perhaps another time.": "Może innym razem.",
+        "I trust you will not report on any activities without first allowing us to comment.": "Mam nadzieję, że nie opublikujesz niczego, zanim nie dasz nam szansy na komentarz.",
+        "I’m working on a story… about Charles Wilkes.": "Pracuję nad materiałem… o Charlesie Wilkesie.",
+        "What are you reporting?": "Co zamierzasz opublikować?",
+        "Call me tomorrow, Kimberly. I’ll give you everything I know.": "Zadzwoń jutro, Kimberly. Powiem ci wszystko, co wiem.",
+        "Thanks for the drink. It was lovely.": "Dziękuję za drinka. Był pyszny.",
+        "Andrea! I’m sorry…": "Andrea! Przepraszam…",
+        "You were perfect, 1Hero.": "Byłeś doskonały, 1Hero.",
+        "You’re learning fast.": "Szybko się uczysz.",
+        "But… I didn’t do anything.": "Ale… nic nie zrobiłem.",
+        "On the contrary. Our relationship with Channel 4 grows closer with the two of you entangled.": "Wręcz przeciwnie. Dzięki waszemu romansowi zacieśniamy więzi z Channel 4.",
+        "But, is this… blackmail?": "Ale czy to… szantaż?",
+        "What!? Of course not!...": "Co!? Oczywiście, że nie!...",
+        "To get along with the media you have to play the game, and that game requires you to get close with Kimberly.": "Żeby dogadywać się z mediami, trzeba grać w ich grę, a to wymaga zbliżenia się do Kimberly.",
+        "Am I being clear?": "Czy wyrażam się jasno?",
+        "I just never expected police work to lead to this.": "Nie sądziłem, że praca w policji do tego doprowadzi.",
+        "Consider yourself lucky. Some officers lose their life in the line of duty…": "Uważaj się za szczęściarza. Niektórzy funkcjonariusze giną na służbie…",
+        "I merely ask you to bust a nut or two.": "Proszę cię tylko, żebyś spuścił z krzyża raz czy dwa.",
+        "Wow… I guess I understand.": "Wow… Chyba rozumiem.",
+        "You won’t let me down, 1Hero. You’re too perfect for this.": "Nie zawiedziesz mnie, 1Hero. Jesteś do tego stworzony.",
+        "Now get back to work.": "A teraz wracaj do pracy.",
+        "If you have any concerns, feel free to stop by and talk.": "Jeśli coś cię niepokoi, wpadnij i porozmawiaj ze mną.",
+        "Of course, Miss Kimura.": "Oczywiście, pani Kimura.",
+    },
+    11: {
+        "And that’s why we believe that Charles Wilkes was connected to the Guild.": "Dlatego uważamy, że Charles Wilkes był powiązany z Gildią.",
+        "It’s only a matter of time before Duncan Helmer makes some sort of move on the mansion…": "To tylko kwestia czasu, zanim Duncan Helmer podejmie jakieś działania w sprawie rezydencji…",
+        "There is something he wants there.": "Czegoś tam chce.",
+        "Shit. This is going to make us look bad.": "Cholera. To źle o nas świadczy.",
+        "How Charles went undetected for so long… It’s shocking.": "To szokujące, że Charles tak długo pozostawał poza podejrzeniami…",
+        "The most important thing we can do now is to let our undercover operation get evidence.": "Najważniejsze, co możemy teraz zrobić, to pozwolić naszej operacji pod przykrywką zdobyć dowody.",
+        "Isn’t there enough? Couldn’t we make a move now and arrest Duncan?": "Czy nie mamy ich dość? Nie możemy wkroczyć i aresztować Duncana?",
+        "No. Duncan is the tip of the iceberg. We let him make his move.": "Nie. Duncan to tylko wierzchołek góry lodowej. Pozwolimy mu wykonać ruch.",
+        "Do you have a suggestion?": "Masz jakąś propozycję?",
+        "Lillian is involved… I don’t know how, but Madalyn Rose is working with her.": "Lillian jest w to zamieszana… Nie wiem, jak, ale Madalyn Rose z nią współpracuje.",
+        "We’re still working on the Rose case. She may be here in North Santiva.": "Nadal prowadzimy sprawę Rose. Może być w North Santiva.",
+        "She is definitely here in North Santiva.": "Na pewno jest w North Santiva.",
+        "We have to keep this under wraps…": "Musimy zachować to w tajemnicy…",
+        "Foxx is on our side, but Paul is digging for a story.": "Foxx jest po naszej stronie, ale Paul szuka sensacji.",
+        "What do you want me to do?": "Co mam zrobić?",
+        "Keep Kimberly on our side. Do whatever you have to do.": "Zatrzymaj Kimberly po naszej stronie. Zrób, co musisz.",
+        "And just how long do you expect we can keep this up?": "Jak długo twoim zdaniem uda nam się to ciągnąć?",
+        "This is on Canmore now. He’ll do what he needs to do.": "Teraz Canmore się tym zajmie. Zrobi, co będzie trzeba.",
+        "I want to be there for the interview.": "Chcę być przy wywiadzie.",
+        "Absolutely not. We’re keeping a low profile…": "Absolutnie nie. Nie możemy zwracać na siebie uwagi…",
+        "1Hero will do this alone.": "1Hero zajmie się tym sam.",
+        "But, Miss Kimura…": "Ale, pani Kimura…",
+        "It’s the weekend Melissa. Go and enjoy it.": "Jest weekend, Melissa. Idź i odpocznij.",
+        "I can handle this, Miss Bhatt.": "Poradzę sobie, panno Bhatt.",
+        "So what’s the plan? How do we spin this?": "Jaki jest plan? Jak to przedstawimy?",
+        "The Wilkes mansion was searched by officers in connection with a stolen painting.": "Policja przeszukała rezydencję Wilkesów w związku ze skradzionym obrazem.",
+        "You’re referring to the search warrant issued in 2002?": "Chodzi o nakaz przeszukania wydany w 2002 roku?",
+        "It was believed that a stolen Rembrandt was being stored in the Wilkes' treasure room.": "Podejrzewano, że skradziony Rembrandt był przechowywany w skarbcu Wilkesów.",
+        "But upon further search, no evidence was found that Wilkes housed any illegal artwork.": "Jednak podczas dalszych poszukiwań nie znaleziono dowodów, że Wilkes przechowywał nielegalnie zdobyte dzieła sztuki.",
+        "So how does it connect with the break in?": "Jaki to ma związek z włamaniem?",
+        "I think it would be a safe assumption that the thieves were after the stolen piece.": "Można bezpiecznie założyć, że złodzieje szukali skradzionego obrazu.",
+        "So we spin the story that Wilkes was hiding the artwork all along?": "Czyli przedstawimy to tak, że Wilkes od początku ukrywał dzieło sztuki?",
+        "It’s believable, but what would be the ramifications of dragging the Wilkes name through the mud?": "To wiarygodna wersja, ale jakie będą konsekwencje oczernienia Wilkesów?",
+        "Lillian won't be happy.": "Lillian nie będzie zadowolona.",
+        "You suspect that Wilkes was connected to the Eclipse Guild. Your suspicions are not unfounded.": "Podejrzewasz, że Wilkes był powiązany z Gildią Zaćmienia. Twoje podejrzenia nie są bezpodstawne.",
+        "Do you know something?": "Coś wiesz?",
+        "We’re learning as we go. Duncan Helmer wants something from Charles. A stolen Rembrandt may as well be the prize he seeks.": "Dowiadujemy się po drodze. Duncan Helmer czegoś chce od Charlesa. Być może skradziony Rembrandt jest nagrodą, na której mu zależy.",
+        "Eventually the truth will have to come out.": "W końcu prawda wyjdzie na jaw.",
+        "You let me worry about that. Can you handle this?": "Zostaw to mnie. Dasz sobie z tym radę?",
+        "Good luck, 1Hero. I hope you have what it takes.": "Powodzenia, 1Hero. Mam nadzieję, że podołasz.",
+        "Of course he does. I’m sure you’ve seen his potential.": "Oczywiście, że podoła. Na pewno dostrzegłaś jego potencjał.",
+        "Go to Channel 4 now, 1Hero. Get ready and put on the charm with Kim…": "Jedź teraz do Channel 4, 1Hero. Przygotuj się i oczaruj Kim…",
+        "I’ll meet you there later.": "Dołączę do was później.",
+        "I thought he was going this alone?": "Myślałam, że miał iść sam.",
+        "He’ll be alone in the interview.": "Podczas wywiadu będzie sam.",
+        "I’ll head over and talk with Kimberly.": "Pójdę porozmawiać z Kimberly.",
+        "Come. I’ll walk you two out.": "Chodźcie. Odprowadzę was.",
+        "So… The underground room… It leads to a world of demons?": "Czyli… Podziemne pomieszczenie… Prowadzi do świata demonów?",
+        "It doesn't surprise me that something demonic is happening there.": "Nie dziwi mnie, że dzieje się tam coś demonicznego.",
+        "The room has a gateway to Hell… But it can only be opened with specific animal parts.": "W pomieszczeniu jest przejście do Piekła… Do jego otwarcia potrzebne są określone części zwierząt.",
+        "I mean… We saw something down there.": "To znaczy… Widzieliśmy tam coś.",
+        "There’s also a secret passage near the kitchen.": "Jest tam też tajne przejście w pobliżu kuchni.",
+        "What are you going to do, Miss Kimura?": "Co pani zamierza zrobić, pani Kimura?",
+        "Of course, we’re investigating it.": "Oczywiście, że to zbadamy.",
+        "Thank you! My producer thinks I’m crazy. But you are one of the only other people who has seen it.": "Dziękuję! Mój producent uważa, że zwariowałam. Ale jesteście jednymi z nielicznych osób, które też to widziały.",
+        "Where are my manners? Let me get you all some drinks.": "Gdzie moje maniery? Przyniosę wam coś do picia.",
+        "Andrea doesn’t give two shits about the rift. You’re stepping on her toes.": "Andrea ma gdzieś tę szczelinę. Wchodzisz jej w drogę.",
+        "You should have kept this between us. There is an undercover operation going on in the mansion right now…": "Powinieneś był zachować to między nami. W rezydencji trwa teraz tajna operacja…",
+        "That’s why you aren’t allowed to trespass.": "Dlatego nie wolno ci tam wchodzić.",
+        "I think this is bigger than the Guild case… Maybe Andrea can protect us.": "Myślę, że to coś poważniejszego niż sprawa Gildii… Może Andrea zdoła nas ochronić.",
+        "I’m sure you have much more to tell me about these demons… I want to hear all about it.": "Na pewno możesz mi jeszcze wiele opowiedzieć o tych demonach… Chcę usłyszeć wszystko.",
+        "I wonder who that could be.": "Ciekawe, kto to może być.",
+        "Get dressed. We have another guest.": "Ubierz się. Mamy kolejnego gościa.",
+    },
+    35: {
+        "Attention, everyone, attention!": "Uwaga, wszyscy, uwaga!",
+        "I’d like to make a toast.": "Chciałbym wznieść toast.",
+        "It’s been a crazy year for me.": "To był dla mnie szalony rok.",
+        "I’ve been promoted.": "Dostałem awans.",
+        "Much deserved.": "Zasłużony.",
+        "You earned it.": "Zapracowałeś na niego.",
+        "I’ve become something of a celebrity.": "Stałem się swego rodzaju celebrytą.",
+        "I had something to do with that.": "Miałam w tym swój udział.",
+        "I played a role in that.": "Też się do tego przyczyniłem.",
+        "I’ve even become wealthy.": "Nawet się wzbogaciłem.",
+        "Hard work pays well.": "Ciężka praca popłaca.",
+        "I’ll say.": "Coś o tym wiem.",
+        "Most importantly, I’ve made a lot of new friends…": "Co najważniejsze, poznałem wielu nowych przyjaciół…",
+        "I’m pleased to count myself among them.": "Cieszę się, że mogę się do nich zaliczać.",
+        "Friends are great to have.": "Dobrze mieć przyjaciół.",
+        "And lovers.": "I kochanków.",
+        "I’m so happy.": "Jestem taka szczęśliwa.",
+        "I couldn’t have gotten here without you.": "Nie zaszedłbym tak daleko bez was.",
+        "You can say that again.": "Jeszcze jak.",
+        "Humility suits you, 1Hero.": "Skromność ci pasuje, 1Hero.",
+        "I want you to know how much I appreciate you all.": "Chcę, żebyście wiedzieli, jak bardzo was doceniam.",
+        "Aww, thank you, 1Hero.": "Och, dziękuję, 1Hero.",
+        "You know we’re happy to support you.": "Wiesz, że chętnie cię wspieramy.",
+        "Thank you. Please enjoy, everyone.": "Dziękuję. Częstujcie się, wszyscy.",
+        "Great toast, dear.": "Piękny toast, kochanie.",
+        "Yeah, that was fancy.": "No, całkiem wyszukany.",
+        "What can I say? Life is good.": "Co mogę powiedzieć? Życie jest piękne.",
+    },
+    39: {
+        "Good party, 1Hero.": "Dobra impreza, 1Hero.",
+    },
+    40: {
+        "Coming to church this Sunday?": "Przyjdziesz w niedzielę do kościoła?",
+    },
+    41: {
+        "Your cornbread was delicious.": "Chleb kukurydziany był przepyszny.",
+        "Thanks, 1Hero. It’s good to be appreciated.": "Dzięki, 1Hero. Miło, że ktoś to docenia.",
+    },
+    42: {
+        "Thought about the streaming idea?": "Przemyślałaś pomysł ze streamingiem?",
+    },
+    43: {
+        "The cherries and sugar dessert was perfect.": "Deser z wiśniami i cukrem był idealny.",
+    },
+}
+
+known = set()
+for path in (ROOT / 'drafts').rglob('*.jsonl'):
+    for line in path.read_text(encoding='utf-8').splitlines():
+        if line.strip():
+            row = json.loads(line)
+            if row.get('translation', '').strip():
+                known.add(row['id'])
+rows = []
+missing = set()
+for line in CANON.read_text(encoding='utf-8').splitlines():
+    row = json.loads(line)
+    context = row['context']
+    source = ' '.join(row['source_text'].strip().split())
+    if context.get('source_kind') != 'map' or context.get('map_id') != 78 or row['id'] in known:
+        continue
+    if not source or source.startswith('/') or source in {'…', '...', '..'} or not any(char.isalpha() for char in source):
+        continue
+    event_id = context.get('event_id')
+    translation = EVENTS.get(event_id, {}).get(source)
+    if translation is None:
+        translation = EVENTS.get(event_id, {}).get(source.replace('’', "'"))
+    if translation is None:
+        translation = EVENTS.get(event_id, {}).get(source.replace("'", '’'))
+    if translation is None:
+        missing.add((event_id, source))
+        continue
+    row['translation'] = translation
+    rows.append(row)
+if missing:
+    raise SystemExit('Unmapped strings: ' + repr(sorted(missing)))
+path = ROOT / 'drafts/custom-dialogue-map78-channel4-kimura-followups-01.jsonl'
+if path.exists():
+    raise SystemExit(f'Refusing to overwrite {path}')
+path.write_text(''.join(json.dumps(row, ensure_ascii=False, sort_keys=True) + '\n' for row in rows), encoding='utf-8', newline='\n')
+print(f'Wrote Map 78 Channel 4/Kimura follow-ups: {len(rows)} records across {len({r["context"]["event_id"] for r in rows})} events')

@@ -1,0 +1,250 @@
+#!/usr/bin/env python3
+"""Build Polish drafts for the remaining housewarming dialogue on Map 27."""
+import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+CANON = ROOT / 'export-v1/custom_dialogue.jsonl'
+EVENTS = {
+    65: {
+        "She’s rough on the outside, but in here, I see lots of potential.": "Na zewnątrz jest szorstka, ale w środku widzę w niej wielki potencjał.",
+        "I can hardly believe I’m doing this.": "Aż trudno mi uwierzyć, że to robię.",
+        "And 1Hero. If you ever need any help, I’m here for you.": "I jeszcze jedno, 1Hero. Gdybyś kiedykolwiek potrzebował pomocy, jestem do twojej dyspozycji.",
+        "Still on the clock.": "Wciąż jestem na służbie.",
+        "I won't keep you. But I’m glad I can be here to share this moment.": "Nie będę cię zatrzymywać. Cieszę się, że mogę być tu z tobą w tej chwili.",
+        "I’m moving up in the world.": "Wspinam się po szczeblach kariery.",
+        "Have any big plans for your first night in the house?": "Masz jakieś wielkie plany na pierwszą noc w nowym domu?",
+        "Honestly, I’ve not thought about it.": "Szczerze mówiąc, jeszcze o tym nie myślałem.",
+        "Well you better get thinking. This place needs some decorating.": "Lepiej zacznij myśleć. To miejsce trzeba jakoś urządzić.",
+        "TV trays and bean bag chairs?": "Stoliki pod telewizor i pufy?",
+        "Very funny, 1Hero.": "Bardzo śmieszne, 1Hero.",
+        "You know… If you’re not doing anything tonight, I’m having Carol over for dinner.": "Wiesz… Jeśli dziś wieczorem nie masz planów, zaprosiłam Carol na kolację.",
+        "With Chloe?": "Z Chloe?",
+        "I hope so. You know how she is.": "Mam nadzieję. Wiesz, jaka ona jest.",
+        "Say, why don’t you go invite Hannah? Maybe then Chloe will stick around.": "Może zaprosisz Hannah? Wtedy Chloe może zostanie na dłużej.",
+        "I’m pretty busy with work. But I think I can go pay her a visit.": "Mam sporo pracy, ale chyba mogę do niej zajrzeć.",
+        "I saw Chloe at church today.": "Widziałam dziś Chloe w kościele.",
+        "Church?": "W kościele?",
+        "Eve Cathedral. She was visiting Sister Judy.": "W Katedrze Ewy. Odwiedziła siostrę Judy.",
+        "I’m stumped. Who is Sister Judy?": "Nie kojarzę. Kim jest siostra Judy?",
+        "She was the counselor at Saint Dame University.": "Była doradczynią na Uniwersytecie Saint Dame.",
+        "That’s right! I remember her.": "Racja! Pamiętam ją.",
+        "You think Chloe is having troubles?": "Myślisz, że Chloe ma jakieś problemy?",
+        "Something is up with her. But I'm not sure what it is.": "Coś jest z nią nie tak, ale nie wiem co.",
+        "Why wouldn’t she come to me?... I’m her mother.": "Czemu nie przyszła do mnie?... Jestem jej matką.",
+        "Don’t think about it too much, Heather. I’m sure whatever it is, she will sort it out.": "Nie zamartwiaj się, Heather. Cokolwiek się dzieje, na pewno sobie z tym poradzi.",
+        "I won't tell her you said anything, 1Hero.": "Nie powiem jej, że coś mówiłeś, 1Hero.",
+        "Now you better get back to work. This house isn’t going to pay for itself.": "A teraz wracaj do pracy. Ten dom sam się nie spłaci.",
+        "See you at dinner.": "Do zobaczenia na kolacji.",
+        "Bring Hannah.": "Przyprowadź Hannah.",
+        "Dear Heavens! What is this place? Are we trapped?": "O rany! Co to za miejsce? Jesteśmy uwięzieni?",
+        "This is my home.": "To mój dom.",
+        "You live in a box? How does that work?": "Mieszkasz w pudełku? Jak to działa?",
+        "This is what houses look like on Earth… Well… some of them.": "Tak wyglądają domy na Ziemi… No… niektóre z nich.",
+        "Oh! It’s… lovely.": "Och! Jest… uroczy.",
+        "As surreal as it is having a guardian angel around me, I need to get to the mansion soon.": "Obecność anioła stróża jest dość surrealistyczna, ale muszę wkrótce jechać do rezydencji.",
+        "No rush, 1Hero. Your boss will be there when you show up.": "Nie spiesz się, 1Hero. Twoja szefowa będzie tam, kiedy dotrzesz.",
+        "It’s God’s will?": "Takie jest Boże zrządzenie?",
+        "It sure is!": "Oczywiście!",
+        "So… what if I went to the farm to talk to Hannah? Would I be late?": "A jeśli pojechałbym na farmę porozmawiać z Hannah? Spóźniłbym się?",
+        "Really? It seems like I’d be late.": "Naprawdę? Wydaje mi się, że bym się spóźnił.",
+        "This one is open, 1Hero. Go wherever your heart takes you.": "Ta ścieżka jest otwarta, 1Hero. Idź za głosem serca.",
+        "If you’re right, this kind of information is pretty helpful.": "Jeśli masz rację, takie informacje są bardzo przydatne.",
+        "That’s my job. To be helpful!": "Taka moja rola. Mam pomagać!",
+        "If you’re ever stuck, just ask me for help.": "Jeśli kiedykolwiek utkniesz, po prostu poproś mnie o pomoc.",
+        "How do I… summon you?": "Jak mam cię… przywołać?",
+        "Bring up your inventory. Do you remember how?": "Otwórz ekwipunek. Pamiętasz jak?",
+        "Open your inventory by tapping two fingers on your screen.": "Otwórz ekwipunek, dotykając ekranu dwoma palcami.",
+        "Open your inventory by right clicking your mouse or pressing the ‘Esc’ key on your keyboard.": "Otwórz ekwipunek, klikając prawym przyciskiem myszy lub naciskając klawisz „Esc”.",
+        "Anytime you need help, select the Oracle from your inventory.": "Gdy będziesz potrzebował pomocy, wybierz Wyrocznię z ekwipunku.",
+        "I’ll call Chloe and Heather and let them know you’re okay.": "Zadzwonię do Chloe i Heather, żeby wiedziały, że wszystko z tobą w porządku.",
+        "Thank you, 1Hero. I don’t want to worry them.": "Dziękuję, 1Hero. Nie chcę ich martwić.",
+        "Go to the bedroom. You can stay with me tonight.": "Idź do sypialni. Możesz dziś u mnie zostać.",
+        "You’re so kind to me.": "Jesteś dla mnie taki dobry.",
+        "1Hero? Did you find her?": "1Hero? Znalazłeś ją?",
+        "She came over to my place.": "Przyszła do mnie.",
+        "Oh, thank goodness.": "Och, całe szczęście.",
+        "Don’t worry. She’ll stay with me tonight.": "Nie martw się. Zostanie dziś u mnie.",
+        "Chloe will be relieved… But why did she leave in the middle of the night?": "Chloe odetchnie z ulgą… Ale czemu wyszła w środku nocy?",
+        "It’ll be fine. Chloe can come over in the morning.": "Wszystko będzie dobrze. Chloe może przyjść rano.",
+    },
+    68: {
+        "Is Erica really coming over tonight?...": "Erica naprawdę przyjdzie dziś wieczorem?...",
+        "When is she going to get here? Should I call her?...": "Kiedy przyjdzie? Może do niej zadzwonię?...",
+        "No… I can’t look desperate…": "Nie… Nie mogę wyjść na zdesperowanego…",
+        "I mean… I’m not desperate.": "To znaczy… Wcale nie jestem zdesperowany.",
+        "I see you found the place okay.": "Widzę, że bez problemu trafiłaś.",
+        "A short walk. But it is getting dark outside.": "To niedaleko. Ale na dworze robi się ciemno.",
+        "So… What did you want to talk about?": "No więc… O czym chciałeś porozmawiać?",
+        "Right to business?": "Od razu do rzeczy?",
+        "Well… I mean.": "Cóż… To znaczy…",
+        "I brought some drinks…": "Przyniosłem coś do picia…",
+        "Where can we drink?... This place is a bit empty.": "Gdzie możemy się napić?... Trochę tu pusto.",
+        "Oh, uhh. I have a place we can sit down…": "Och, yyy. Znam miejsce, gdzie możemy usiąść…",
+        "Hannah? Chloe? What are you two doing here?": "Hannah? Chloe? Co wy tu robicie?",
+        "It’s Sunday! We’re bored.": "Jest niedziela! Nudzimy się.",
+        "We got you a housewarming gift.": "Przyniosłyśmy ci prezent na parapetówkę.",
+        "A gift? Uhh… This might be a bad time.": "Prezent? Yyy… To chyba nie najlepszy moment.",
+        "Like hell, it is! We gotta catch you before you start working.": "Właśnie że najlepszy! Musimy cię złapać, zanim zaczniesz pracować.",
+        "Show him the gift.": "Pokaż mu prezent.",
+        "Hahaha!": "Hahaha!",
+        "Hannah! That’s not what I told you to wrap!": "Hannah! Nie to kazałam ci zapakować!",
+        "I changed my mind.": "Zmieniłam zdanie.",
+        "Look, I appreciate the… generosity… but I need you all to leave.": "Doceniam tę… hojność… ale musicie już wyjść.",
+        "I’m sorry, 1Hero. This wasn’t my idea.": "Przepraszam, 1Hero. To nie był mój pomysł.",
+        "You two are party poopers. I ain’t leaving.": "Ale z was nudziary. Nigdzie się nie wybieram.",
+        "Why did you do that, Hannah!? I can’t believe you went back to that porn shop.": "Czemu to zrobiłaś, Hannah!? Nie wierzę, że znowu poszłaś do tego sklepu erotycznego.",
+        "I didn’t get it from a porn shop, Chloe.": "Nie kupiłam tego w sklepie erotycznym, Chloe.",
+        "Aren’t you going to introduce me to your friends?": "Nie przedstawisz mnie swoim znajomym?",
+        "1Hero?": "1Hero?",
+        "Erica!? Your clothes!": "Erica!? Gdzie twoje ubrania?",
+        "I couldn't find my shorts.": "Nie mogłam znaleźć spodenek.",
+        "Hannah! We should have called first!": "Hannah! Powinniśmy byli najpierw zadzwonić!",
+        "How was I supposed to know 1Hero had company?": "Skąd miałam wiedzieć, że 1Hero ma gościa?",
+        "Hello, Hannah. Don’t mind me. 1Hero and I just woke up.": "Cześć, Hannah. Nie przejmuj się mną. Właśnie z 1Hero wstaliśmy.",
+        "You sly dog. You never told me you had a girlfriend.": "Ty cwaniaku. Nie mówiłeś, że masz dziewczynę.",
+        "This isn’t what it looks like! I was investigating the Madalyn case.": "To nie tak, jak wygląda! Prowadziłem śledztwo w sprawie Madalyn.",
+        "In your underwear?": "W samej bieliźnie?",
+        "He’s lying to us.": "On nas okłamuje.",
+        "He’s telling the truth. I’m helping him.": "Mówi prawdę. Pomagam mu.",
+        "Maybe we should go.": "Może powinnyśmy już iść.",
+        "Just, please… Call me next time before you show up.": "Po prostu… Zadzwońcie następnym razem, zanim wpadniecie.",
+        "Dammit, 1Hero! You said you don’t have time for girls and now you’re sleeping around.": "Cholera, 1Hero! Mówiłeś, że nie masz czasu na dziewczyny, a teraz sypiasz z kim popadnie.",
+        "She’s not my girlfriend!": "Ona nie jest moją dziewczyną!",
+        "I… I’ve got to go. It’s almost time for Mass.": "Ja… Muszę już iść. Zaraz zacznie się msza.",
+        "Hey! The church is closed.": "Hej! Kościół jest zamknięty.",
+        "Dammit, 1Hero! Look what you’ve done.": "Cholera, 1Hero! Zobacz, co narobiłeś.",
+        "What I’ve done!? You are the one who showed up unannounced with a dildo!": "Co ja narobiłem!? To ty wpadłaś bez zapowiedzi z dildo!",
+        "So, now you’re saying you don’t like the dildo?": "Czyli teraz mówisz, że nie podoba ci się dildo?",
+        "Why would I like a dildo?": "Czemu miałoby mi się podobać dildo?",
+        "Cause it’s funny, knucklehead!": "Bo to zabawne, głuptasie!",
+        "Well this was a disaster!": "No, to była katastrofa!",
+        "Oh, god. I shouldn’t have said anything. I’m sorry.": "O Boże. Nie powinnam była nic mówić. Przepraszam.",
+        "It’s okay. I had no idea they would be coming over.": "W porządku. Nie miałem pojęcia, że przyjdą.",
+        "They are friends of yours?": "To twoje przyjaciółki?",
+        "It’s Chloe and Hannah. I’ve known them forever. They are close friends.": "To Chloe i Hannah. Znam je od zawsze. Jesteśmy bliskimi przyjaciółmi.",
+        "And you’re not dating either one?": "I z żadną z nich nie jesteś w związku?",
+        "Listen. I need to go talk to them and clear this up.": "Muszę z nimi porozmawiać i wszystko wyjaśnić.",
+        "I understand. I should probably get back home too.": "Rozumiem. Ja też powinnam wrócić do domu.",
+        "Thanks for coming over, Erica.": "Dzięki, że przyszłaś, Erica.",
+        "It’s been fun, 1Hero.": "Dobrze się bawiłam, 1Hero.",
+        "Maybe we can make it a habit… Unless you’re not looking for anything serious.": "Może moglibyśmy robić tak częściej… Chyba że nie szukasz niczego poważnego.",
+        "I’m sorry, Erica. It’s just… I have things in my life I need to sort out.": "Przepraszam, Erica. Po prostu… Muszę najpierw uporządkować swoje życie.",
+        "Well if you need a shoulder to cry on, or something a bit more naughty, you know my number.": "Jeśli będziesz potrzebował ramienia do wypłakania się albo czegoś trochę bardziej niegrzecznego, znasz mój numer.",
+        "We’ll talk again soon.": "Wkrótce znów porozmawiamy.",
+        "I’ll keep watching the mansion.": "Będę dalej obserwować rezydencję.",
+        "I feel bad… A younger version of me would have laughed at Hannah’s absurdity.": "Źle się z tym czuję… Gdybym był młodszy, rozbawiłoby mnie absurdalne zachowanie Hannah.",
+        "I know I’ve changed, and Hannah is still the same girl I grew up with.": "Wiem, że się zmieniłem, a Hannah wciąż jest tą samą dziewczyną, z którą dorastałem.",
+        "And poor Chloe. I put her through a lot. I hope this didn’t hurt her.": "I jeszcze biedna Chloe. Wiele przez mnie przeszła. Mam nadzieję, że jej nie zraniłem.",
+        "What’s wrong, 1Hero? I sense conflict in your mind.": "Coś się stało, 1Hero? Czuję, że coś cię gryzie.",
+        "Erica spent the night.": "Erica spędziła u mnie noc.",
+        "Is that a bad thing in your world?": "Czy to coś złego w waszym świecie?",
+        "No, no. We… had sex.": "Nie, nie. My… uprawialiśmy seks.",
+        "1Hero! You’ve sinned against God!": "1Hero! Zgrzeszyłeś przeciw Bogu!",
+        "That’s not what I’m worried about…": "Nie tym się martwię…",
+        "It’s Hannah and Chloe.": "Chodzi o Hannah i Chloe.",
+        "They had sex too!?": "One też uprawiały seks!?",
+        "No! You’re not listening. Stop thinking about sex.": "Nie! Nie słuchasz mnie. Przestań myśleć o seksie.",
+        "But, 1Hero. You must confess this to the Lord.": "Ale, 1Hero. Musisz wyznać to Panu.",
+        "I’m not going to confession. Are you going to listen to me?": "Nie pójdę do spowiedzi. Będziesz mnie słuchać?",
+        "I know I must help you in your quest. But I also must warn you of the dangers of sin.": "Wiem, że muszę pomóc ci w twojej misji. Muszę ci też jednak przypominać o niebezpieczeństwach grzechu.",
+        "I appreciate the advice. But I’m more concerned with Chloe’s feelings right now.": "Doceniam radę, ale teraz bardziej martwię się o uczucia Chloe.",
+        "Something happened between us a long time ago.": "Dawno temu coś między nami zaszło.",
+        "You were in love?": "Byliście zakochani?",
+        "No… Well.. Maybe. It’s complicated.": "Nie… Cóż… Może. To skomplikowane.",
+        "There was a time when I thought I wanted to be with her…": "Był czas, kiedy myślałem, że chcę z nią być…",
+        "But it wasn’t meant to be.": "Ale tak miało nie być.",
+        "Did she want to be with you?": "Ona chciała z tobą być?",
+        "I made a big mistake, Arianna.": "Popełniłem wielki błąd, Arianno.",
+        "She was too young… I was too young.": "Była za młoda… Ja też byłem za młody.",
+        "When she finally was ready… I wasn’t.": "Kiedy w końcu była gotowa… Ja nie byłem.",
+        "And now she’s caught me with another woman.": "A teraz przyłapała mnie z inną kobietą.",
+        "What should I do? Should I talk to her?": "Co mam zrobić? Porozmawiać z nią?",
+        "Do you hold feelings for Chloe?": "Czy coś jeszcze czujesz do Chloe?",
+        "I don’t know. Life was so much different back then.": "Nie wiem. Wtedy wszystko wyglądało inaczej.",
+        "It sounds like your friendship with her is important.": "Wygląda na to, że wasza przyjaźń jest dla ciebie ważna.",
+        "I love Chloe and Hannah. They are both very important to me.": "Kocham Chloe i Hannah. Obie są dla mnie bardzo ważne.",
+        "Then you need to talk to them. They need to understand where you are.": "Musisz z nimi porozmawiać. Powinny wiedzieć, na czym stoisz.",
+        "Go talk to Chloe. And while you’re at it, confess your sins and let’s keep away from those dirty acts.": "Idź porozmawiać z Chloe. A przy okazji wyznaj swoje grzechy i trzymajmy się z dala od tych nieczystych czynów.",
+    },
+    74: {
+        "Good morning, you two.": "Dzień dobry, dziewczyny.",
+        "Sleeping in?": "Długo spałyście?",
+        "I’ve got to get to work.": "Muszę iść do pracy.",
+        "We’re going to the church ‘cause Ma is too scared to go home.": "Idziemy do kościoła, bo mama za bardzo boi się wrócić do domu.",
+        "It’s better to be safe than sorry.": "Lepiej dmuchać na zimne.",
+        "We’d love to have more guests at the cathedral, but… there is danger there, too.": "Chętnie ugościlibyśmy więcej osób w katedrze, ale… tam też grozi niebezpieczeństwo.",
+        "I’ll sort this out with the commissioner.": "Wyjaśnię to z panią komisarz.",
+        "Are you going to the station?": "Jedziesz na komisariat?",
+        "Now that the Guild bust is over, I got my job back.": "Po nalocie na Gildię odzyskałem pracę.",
+        "But… is it over?": "Ale… czy to już koniec?",
+        "Something’s going on and I’ll figure it out. Now that you all are potentially in danger, we can’t sit idle…": "Coś się dzieje i dowiem się co. Skoro wszystkim wam może grozić niebezpieczeństwo, nie możemy siedzieć bezczynnie…",
+        "Andrea will have to do something.": "Andrea będzie musiała coś zrobić.",
+        "Do you think your pa is out to steal the farm?": "Myślisz, że twój tata chce ukraść farmę?",
+        "Hannah! Stop saying that. No one’s stealing a farm.": "Hannah! Przestań tak mówić. Nikt nie kradnie farmy.",
+        "I’ll get to the bottom of it.": "Dojdę do prawdy.",
+        "Such an odd series of events that brought us here…": "Dziwny splot wydarzeń nas tu sprowadził…",
+        "At least we have a good man in 1Hero to help us.": "Przynajmniej mamy dobrego człowieka, który nam pomoże — 1Hero.",
+        "You all go ahead to the cathedral. I’ll stop by later.": "Jedźcie do katedry. Wpadnę później.",
+        "Don’t linger at the station. That church can be mighty boring without you.": "Nie siedź za długo na komisariacie. W kościele bez ciebie będzie strasznie nudno.",
+        "Heh. I’ll keep that in mind.": "Heh. Będę o tym pamiętać.",
+    },
+    78: {
+        "Hmm… I guess I can let it out of the box.": "Hmm… Chyba mogę wypuścić go z pudełka.",
+        "Kitty… This is your new home. How do you like it?": "Kiciu… To twój nowy dom. Podoba ci się?",
+        "Hey! That’s not a scratching post!": "Hej! To nie jest drapak!",
+        "No! No! No! Don’t poop on the ground!": "Nie! Nie! Nie! Nie rób kupy na podłogę!",
+        "This is not what I was hoping for.": "Nie na to liczyłem.",
+        "1Hero!? What was all that noise?": "1Hero!? Co to był za hałas?",
+        "Chloe!? What are you doing here?": "Chloe!? Co tu robisz?",
+        "I was looking for you. I wanted to see if you were off work yet.": "Szukałam cię. Chciałam sprawdzić, czy skończyłeś już pracę.",
+        "Is that a cat!?": "Czy to kot!?",
+        "Yeah, I found him at the police station.": "Tak, znalazłem go na komisariacie.",
+        "Awww! It’s so cute!": "Awww! Jaki słodki!",
+        "They wanted me to euthanize it.": "Chcieli, żebym go uśpił.",
+        "1Hero, you can’t!": "1Hero, nie możesz!",
+        "I wasn’t going to kill it… But I really don’t want to keep it.": "Nie zamierzałem go zabijać… Ale naprawdę nie chcę go zatrzymywać.",
+        "Can I have him?": "Mogę go wziąć?",
+        "Would Heather be okay with that?": "Heather nie będzie miała nic przeciwko?",
+        "It can’t hurt to ask.": "Nie zaszkodzi zapytać.",
+        "I hate to pass this burden onto you…": "Nie chcę zrzucać tego obowiązku na ciebie…",
+        "Nonsense! I’d love to take care of this little fella!": "Bzdura! Chętnie zaopiekuję się tym maluszkiem!",
+        "We better talk this over with your mom.": "Lepiej omówmy to z twoją mamą.",
+    },
+}
+
+known = set()
+for path in (ROOT / 'drafts').rglob('*.jsonl'):
+    for line in path.read_text(encoding='utf-8').splitlines():
+        if line.strip():
+            row = json.loads(line)
+            if row.get('translation', '').strip():
+                known.add(row['id'])
+rows = []
+missing = set()
+for line in CANON.read_text(encoding='utf-8').splitlines():
+    row = json.loads(line)
+    context = row['context']
+    source = ' '.join(row['source_text'].strip().split())
+    if context.get('source_kind') != 'map' or context.get('map_id') != 27 or row['id'] in known:
+        continue
+    if not source or source.startswith('/') or source in {'…', '...', '..'} or not any(char.isalpha() for char in source):
+        continue
+    event_id = context.get('event_id')
+    translation = EVENTS.get(event_id, {}).get(source)
+    if translation is None:
+        translation = EVENTS.get(event_id, {}).get(source.replace('’', "'"))
+    if translation is None:
+        translation = EVENTS.get(event_id, {}).get(source.replace("'", '’'))
+    if translation is None:
+        missing.add((event_id, source))
+        continue
+    row['translation'] = translation
+    rows.append(row)
+if missing:
+    raise SystemExit('Unmapped strings: ' + repr(sorted(missing)))
+path = ROOT / 'drafts/custom-dialogue-map27-housewarming-followups-01.jsonl'
+if path.exists():
+    raise SystemExit(f'Refusing to overwrite {path}')
+path.write_text(''.join(json.dumps(row, ensure_ascii=False, sort_keys=True) + '\n' for row in rows), encoding='utf-8', newline='\n')
+print(f'Wrote Map 27 housewarming follow-ups: {len(rows)} records across {len({r["context"]["event_id"] for r in rows})} events')
