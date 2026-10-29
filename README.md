@@ -6,7 +6,7 @@ Repozytorium do technicznego rozpoznawania, tłumaczenia, testowania i przygotow
 
 ## Projekty i kandydaci
 
-- [The Genesis Order](games/the-genesis-order/README.md) — statyczny eksport 45 229 rekordów; proza widoczna dla gracza przetłumaczona roboczo (39 821 rekordów + 94 zablokowane sygnaturą markup), source ZIP v1 w Git i na Google Drive; redakcja i patcher pozostają do wykonania.
+- [The Genesis Order](games/the-genesis-order/README.md) — statyczny eksport 45 229 rekordów; **39 926** niepustych tłumaczeń roboczych, **0** nierozstrzygniętych; patch POC v0.1.1 (one-click, z rollbackiem) i Czytanka PL v1 w Git; do zrobienia: decyzje redakcyjne, testy fontów i instalacji na kopii gry.
 - [Being a DIK](games/being-a-dik/README.md) — wstępna analiza przesłanej edycji Season 1; pełny licznik treści jeszcze niegotowy.
 - [Undercover with Nora](games/undercover-with-nora/README.md) — potwierdzono Ren'Py 8.3.3; przygotowano pełny statyczny licznik jawnych dialogów dla przesłanej kopii v1.0.0.
 - [Lista projektów i ich status](PROJECTS.md) oraz [porównanie kandydatów](docs/CANDIDATE_COMPARISON.md).

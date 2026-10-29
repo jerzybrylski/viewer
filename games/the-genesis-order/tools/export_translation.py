@@ -86,6 +86,28 @@ def tokens(text: str) -> list[str]:
     return TOKEN_RE.findall(text)
 
 
+def translation_tokens_match(source_text: str, translation: str,
+                             expected_tokens: list[str]) -> bool:
+    """Compare translation controls while accepting text after YEP's no-arg font codes.
+
+    The immutable v1 signature greedily records sequences such as ``\\fbCraft``
+    as one token. YEP_MessageCore documents ``\\fb``/``\\fi``/``\\fr`` as
+    standalone no-argument commands, so text following them may legitimately
+    change without changing the game control sequence.
+    """
+    if tokens(source_text) != expected_tokens:
+        return False
+
+    def normalized(values: list[str]) -> list[str]:
+        result = []
+        for value in values:
+            match = re.match(r"(\\(?:fb|fi|fr))(?=[A-Za-z])", value, re.IGNORECASE)
+            result.append(match.group(1) if match else value)
+        return result
+
+    return normalized(tokens(translation)) == normalized(expected_tokens)
+
+
 def load_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
 

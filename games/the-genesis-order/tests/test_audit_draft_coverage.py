@@ -95,9 +95,8 @@ class AuditDraftCoverageTests(unittest.TestCase):
         self.assertEqual([item['id'] for item in buckets['credits_roster']], [self.credits['id']])
         self.assertEqual([item['id'] for item in buckets['proper_name']], [self.name['id']])
         self.assertEqual([item['id'] for item in buckets['identifier']], [self.identifier['id']])
-        self.assertEqual([item['id'] for item in buckets['blocked_by_signature']],
-                         [self.blocked['id']])
-        self.assertEqual([item['id'] for item in buckets['needs_review']], [self.review['id']])
+        self.assertEqual(sorted(item['id'] for item in buckets['needs_review']),
+                         sorted([self.blocked['id'], self.review['id']]))
 
     def test_identical_translation_is_flagged(self):
         report = self.build()
@@ -108,7 +107,7 @@ class AuditDraftCoverageTests(unittest.TestCase):
         text = audit.render_markdown(self.build())
         self.assertIn('## Kubełki pustych rekordów', text)
         self.assertIn('## Konflikty niepustych wariantów', text)
-        self.assertIn('`blocked_by_signature`', text)
+        self.assertIn('`needs_review`', text)
 
 
 if __name__ == '__main__':

@@ -71,5 +71,13 @@ Uwaga: powyższa tabela łączy kategorie semantycznie; pojedyncze rekordy nie s
 
 - Wszystkie 1 122 wiersze `401` i 1 930 opcji są pełnoprawnym tekstem gracza do tłumaczenia i muszą pozostać w pełnym zakresie.
 - Tekst wtopiony w obrazy i wideo pozostaje poza zakresem na wyraźną decyzję właściciela. Runtime’owe wartości dostarczane przez użytkownika/urządzenia i obliczane liczby nie są statycznymi tekstami źródłowymi.
-- Nie zweryfikowano renderowania polskich glifów, długości, łamania wierszy ani zachowania UI w działającej grze. Przygotowano source ZIP v1 (pełny statyczny eksport z kontekstem, nie patch); nie ma tłumaczenia ani finalnego patcha.
+- Nie zweryfikowano renderowania polskich glifów, długości, łamania wierszy ani zachowania UI w działającej grze. Source ZIP v1 jest pakietem źródłowym; osobny patch POC nie jest zatwierdzoną dystrybucją i wymaga testów Windows/runtime.
 - Surowe assety nie są śledzone w Git; kanoniczne wyodrębnione JSON-y, dokumentacja, narzędzia i testy są śledzone zgodnie z decyzją właściciela.
+
+
+## Aktualizacja po ukończeniu przekładu i milestone’ów — 2026-10-29
+
+- Scalenie wszystkich **427** draftów obejmuje 45 229 rekordów: **39 926** niepustych tłumaczeń, **131** jawnie chronionych rekordów `keep_source_value`, **5 172** pozostałych zachowanych rekordów nielokalizowalnych i **0** nierozstrzygniętych rekordów do tłumaczenia. Audyt: `translation/reports/coverage_audit_v1.json`.
+- Standalone patch POC: `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`; 39 926 tłumaczeń, 238 fingerprintowanych źródeł, 427 batchy. Zawiera one-click patcher oraz backup/restore, bez plików gry. SHA-256 `4dc807024466582b68a59e129d212dc2aa52e0bcf4dcd81c3445576b8d84513b`.
+- Czytanka PL v1: `reading/v1/`, ZIP `translation/packages/TGO_readalong_PL_v1.zip`; **4 394** rozdziały (4 134 map/event/page i 260 Common Events), 221/291 map osiągalnych potencjalnie od startu w statycznym BFS, 833 wiersze z mówcą nieustalonym jawnie oznaczone; indeksy obejmują 55 etykiet mówców i 291 lokacji. Kolejność nie jest kanoniczna; gra/runtime nie była uruchamiana. ZIP zawiera 4 399 wpisów (4 394 epizody + 5 plików indeksowych/skryptowych); SHA-256 `3239527786f1ac28064920fb45c2273941b0914cb8ed636b1c68d2975b0eb244`.
+- Po dodaniu testów generatora Czytanek pełny zestaw: **54/54 passed**. To statyczna walidacja, nie QA językowe ani test instalacji Windows.

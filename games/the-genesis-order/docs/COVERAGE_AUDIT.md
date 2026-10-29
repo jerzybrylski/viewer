@@ -5,25 +5,23 @@
 ## Podsumowanie
 
 - Rekordy kanoniczne: **45 229**.
-- Pliki draftów: **425**, wierszy: **45 742**.
-- Unikalne ID z niepustym tłumaczeniem: **39 821**.
-- Puste rekordy ogółem: **5 408**, w tym **131** chronionych `keep_source_value` i **5 277** do rozstrzygnięcia.
-- Konflikty niepustych wariantów: **40**.
-- Tłumaczenia identyczne ze źródłem w kategorii prozatorskiej: **616**.
+- Pliki draftów: **427**, wierszy: **45 847**.
+- Unikalne ID z niepustym tłumaczeniem: **39 926**.
+- Puste rekordy ogółem: **5 303**, w tym **131** chronionych `keep_source_value` i **5 172** do rozstrzygnięcia.
+- Konflikty niepustych wariantów: **0**.
+- Tłumaczenia identyczne ze źródłem w kategorii prozatorskiej: **617**.
 
 ## Kubełki pustych rekordów
 
 | Kubełek | Rekordy | Znaczenie |
 |---|---:|---|
-| `blocked_by_signature` | 94 | sygnatura v1 skleja tag `\fb` z pierwszym słowem (ADR 002) |
 | `command` | 3 742 | komendy `custom_dialogue` zaczynające się od `/` — sterowanie, nie proza |
 | `credits_roster` | 234 | listy nazw wspierających — nazw nie tłumaczymy |
-| `identifier` | 7 | kody, liczby i krótkie markery |
+| `identifier` | 6 | kody, liczby i krótkie markery |
 | `markup_only` | 1 072 | po usunięciu tokenów nie zostaje żadna litera |
-| `needs_review` | 30 | realny tekst bez tłumaczenia — wymaga decyzji i draftu |
-| `proper_name` | 91 | imiona postaci, nazwy przedmiotów, podpisy galerii |
+| `needs_review` | 28 | realny tekst bez tłumaczenia — wymaga decyzji i draftu |
+| `proper_name` | 90 | imiona postaci, nazwy przedmiotów, podpisy galerii |
 | `protected` | 131 | `keep_source_value` — wartość musi zostać bez zmian |
-| `template_placeholder` | 7 | wypełniacz szablonu mapy testowej |
 
 ## Pokrycie według kategorii
 
@@ -33,19 +31,19 @@
 | `choice_option` | 1 930 | 1 416 | 514 |
 | `credits` | 239 | 2 | 237 |
 | `custom_dialogue` | 38 638 | 34 714 | 3 924 |
-| `database.actors.name` | 28 | 0 | 28 |
+| `database.actors.name` | 28 | 1 | 27 |
 | `database.items.name` | 477 | 475 | 2 |
 | `image_caption` | 134 | 66 | 68 |
 | `item_found_label` | 649 | 648 | 1 |
-| `map_label` | 291 | 290 | 1 |
-| `native_message` | 1 122 | 692 | 430 |
+| `map_label` | 291 | 291 | 0 |
+| `native_message` | 1 122 | 793 | 329 |
 | `phone_contact_ui` | 378 | 352 | 26 |
-| `phone_text` | 30 | 26 | 4 |
+| `phone_text` | 30 | 27 | 3 |
 | `system.armorTypes` | 6 | 6 | 0 |
 | `system.currencyUnit` | 1 | 0 | 1 |
 | `system.elements` | 9 | 9 | 0 |
 | `system.equipTypes` | 5 | 5 | 0 |
-| `system.gameTitle` | 1 | 0 | 1 |
+| `system.gameTitle` | 1 | 1 | 0 |
 | `system.skillTypes` | 2 | 2 | 0 |
 | `system.terms` | 95 | 95 | 0 |
 | `system.weaponTypes` | 12 | 12 | 0 |
@@ -55,7 +53,7 @@
 | `ui.variable_value` | 262 | 107 | 155 |
 | `ui_choice` | 180 | 167 | 13 |
 
-## Rekordy `needs_review` (30)
+## Rekordy `needs_review` (28)
 
 | ID | Kategoria | Źródło | Zdarzenie |
 |---|---|---|---|
@@ -83,59 +81,16 @@
 | `tgo:choice_unclassified:de0ad8e17c280fbf34e1` | `choice_option` | \c[17]\v[323]\c[27]Heather | EV018 |
 | `tgo:choice_unclassified:deebf0775b9840245dbc` | `choice_option` | \c[17]\v[330]\c[27]Ella | EV097 |
 | `tgo:choice_unclassified:ebcc55ec8d129b55be3d` | `choice_option` | \c[17]\v[325]\c[27]Hannah | EV097 |
-| `tgo:map_label:95c1550fdebfe6c2f140` | `map_label` | WoNoChurch |  |
 | `tgo:native_message_unclassified:7260eb2826e225c5cb07` | `native_message` | <center><br><br>Madalyn. | SCN - Chloe Flashback |
 | `tgo:native_message_unclassified:7f56b2ebd8ae356257bf` | `native_message` | Morgan #142 | EV034 |
 | `tgo:phone_contact_ui:c4d223c2fdc3b48773f7` | `phone_contact_ui` | Morgan. | PHONE - Select Item |
 | `tgo:phone_contact_ui:ed360055b018450dcc38` | `phone_contact_ui` | Amulet K. | PHONE - Select Item |
-| `tgo:system.gameTitle:5546cb9d6b2245f37473` | `system.gameTitle` | The Genesis Order |  |
 
-## Konflikty niepustych wariantów (40)
+## Konflikty niepustych wariantów (0)
 
-| ID | Źródło | Warianty |
-|---|---|---|
-| `tgo:map_label:01152277af5c79d430fe` | Foyer | `inventory-names-01.jsonl` → Hol<br>`inventory-names-02.jsonl` → Hol wejściowy<br>`map-labels-01.jsonl` → Hol wejściowy |
-| `tgo:map_label:0f8dc604fab5140669d6` | Storage Room | `inventory-names-01.jsonl` → Pomieszczenie magazynowe<br>`inventory-names-02.jsonl` → Składzik<br>`map-labels-01.jsonl` → Składzik |
-| `tgo:map_label:0fc3f5e97bda05cf0c6b` | Storage | `inventory-names-01.jsonl` → Schowek<br>`inventory-names-02.jsonl` → Magazyn<br>`map-labels-01.jsonl` → Magazyn |
-| `tgo:map_label:1827eb9c397129b3fb28` | Secret Room | `inventory-names-01.jsonl` → Tajny pokój<br>`inventory-names-02.jsonl` → Tajne pomieszczenie<br>`map-labels-01.jsonl` → Tajne pomieszczenie |
-| `tgo:map_label:1afd1c49d31ace03b815` | Dock | `inventory-names-01.jsonl` → Doki<br>`inventory-names-02.jsonl` → Pomost<br>`map-labels-01.jsonl` → Pomost |
-| `tgo:map_label:277fccf5044f182b1909` | NorthMostCreek | `inventory-names-01.jsonl` → Najbardziej na północ wysunięty strumień<br>`inventory-names-02.jsonl` → Najbardziej wysunięty na północ strumień<br>`map-labels-01.jsonl` → Najbardziej wysunięty na północ strumień |
-| `tgo:map_label:35444eb111fb7f66b9d6` | Entryway | `inventory-names-01.jsonl` → Przedpokój<br>`inventory-names-02.jsonl` → Przedsionek<br>`map-labels-01.jsonl` → Przedsionek |
-| `tgo:map_label:3960d37d97a5fd59ee4d` | Cumshot Game | `inventory-names-01.jsonl` → Gra w wytrysk<br>`inventory-names-02.jsonl` → Gra w cumshoty<br>`map-labels-01.jsonl` → Gra w cumshoty |
-| `tgo:map_label:408e7a1f207ce002ca09` | Storage | `inventory-names-01.jsonl` → Schowek<br>`inventory-names-02.jsonl` → Magazyn<br>`map-labels-01.jsonl` → Magazyn |
-| `tgo:map_label:4c29c55252c10d706708` | PRE TITLE | `inventory-names-01.jsonl` → PRZED TYTUŁEM<br>`inventory-names-02.jsonl` → PRZED EKRANEM TYTUŁOWYM<br>`map-labels-01.jsonl` → PRZED EKRANEM TYTUŁOWYM |
-| `tgo:map_label:5a930990f1caadb3b111` | Changing Room | `inventory-names-01.jsonl` → Przebieralnia<br>`inventory-names-02.jsonl` → Szatnia<br>`map-labels-01.jsonl` → Szatnia |
-| `tgo:map_label:623675ba05d689effe6c` | Storage | `inventory-names-01.jsonl` → Schowek<br>`inventory-names-02.jsonl` → Magazyn<br>`map-labels-01.jsonl` → Magazyn |
-| `tgo:map_label:63542e1174a6f0719600` | Ellas Entry | `inventory-names-01.jsonl` → Wejście do Elli<br>`inventory-names-02.jsonl` → Wejście Elli<br>`map-labels-01.jsonl` → Wejście Elli |
-| `tgo:map_label:6480db9f0707b21d19a0` | North Main Entry | `inventory-names-01.jsonl` → Północne główne wejście<br>`inventory-names-02.jsonl` → Główne wejście od północy<br>`map-labels-01.jsonl` → Główne wejście od północy |
-| `tgo:map_label:64d773f024c1586789d9` | Channel 4 | `inventory-names-01.jsonl` → Kanał 4<br>`inventory-names-02.jsonl` → Channel 4<br>`map-labels-01.jsonl` → Channel 4 |
-| `tgo:map_label:6e5f017fc0f7e7e1338b` | Lobby | `inventory-names-01.jsonl` → Hol wejściowy<br>`inventory-names-02.jsonl` → Hol<br>`map-labels-01.jsonl` → Hol |
-| `tgo:map_label:72f427d7aa5e2726bb74` | Int Room 2 | `inventory-names-01.jsonl` → Wewnętrzny pokój 2<br>`inventory-names-02.jsonl` → Pomieszczenie wewnętrzne 2<br>`map-labels-01.jsonl` → Pomieszczenie wewnętrzne 2 |
-| `tgo:map_label:7b5057bbcb6d0707f659` | 2nd Story West Room | `inventory-names-01.jsonl` → Pokój na zachodzie drugiego piętra<br>`inventory-names-02.jsonl` → 2. piętro — pokój zachodni<br>`map-labels-01.jsonl` → 2. piętro — pokój zachodni |
-| `tgo:map_label:7c497c9e72e11dcda3a9` | Lake West | `inventory-names-01.jsonl` → Zachodnia część jeziora<br>`inventory-names-02.jsonl` → Zachód jeziora<br>`map-labels-01.jsonl` → Zachód jeziora |
-| `tgo:map_label:8d356ab9adfb2853795d` | Melissa Condo Entry | `inventory-names-01.jsonl` → Wejście do mieszkania Melissy<br>`inventory-names-02.jsonl` → Wejście do apartamentu Melissy<br>`map-labels-01.jsonl` → Wejście do apartamentu Melissy |
-| `tgo:map_label:9129b6fc70624ae2d481` | Bunk Room | `inventory-names-01.jsonl` → Pokój z łóżkami piętrowymi<br>`inventory-names-02.jsonl` → Pokój w bunkrze<br>`map-labels-01.jsonl` → Pokój w bunkrze |
-| `tgo:map_label:92646d6974da2e30334b` | Courtyard West | `inventory-names-01.jsonl` → Zachodni dziedziniec<br>`inventory-names-02.jsonl` → Zachodnia część dziedzińca<br>`map-labels-01.jsonl` → Zachodnia część dziedzińca |
-| `tgo:map_label:a65f6a3c5653e6c502ba` | Junkroom | `inventory-names-01.jsonl` → Pokój na graty<br>`inventory-names-02.jsonl` → Pokój rupieci<br>`map-labels-01.jsonl` → Pokój rupieci |
-| `tgo:map_label:ad57e0911e756d39f488` | Media Room | `inventory-names-01.jsonl` → Pokój multimedialny<br>`inventory-names-02.jsonl` → Sala multimedialna<br>`map-labels-01.jsonl` → Sala multimedialna |
-| `tgo:map_label:c33eba4cf3f995a3f14d` | Bunker Mid | `inventory-names-01.jsonl` → Środek bunkra<br>`inventory-names-02.jsonl` → Środkowa część bunkra<br>`map-labels-01.jsonl` → Środkowa część bunkra |
-| `tgo:map_label:c35e2ec728732a6ba60f` | Lake North | `inventory-names-01.jsonl` → Północna część jeziora<br>`inventory-names-02.jsonl` → Północ jeziora<br>`map-labels-01.jsonl` → Północ jeziora |
-| `tgo:map_label:c7211a087debc125b701` | Middle South | `inventory-names-01.jsonl` → Południowy środek<br>`inventory-names-02.jsonl` → Południowa część środka<br>`map-labels-01.jsonl` → Południowa część środka |
-| `tgo:map_label:cdceec71dff308c21513` | 2nd Stroy Right | `inventory-names-01.jsonl` → Drugie piętro — prawa strona<br>`inventory-names-02.jsonl` → 2. piętro — prawa strona<br>`map-labels-01.jsonl` → 2. piętro — prawa strona |
-| `tgo:map_label:cee3d9917845d8210c1b` | 2nd Story Left | `inventory-names-01.jsonl` → Drugie piętro — lewa strona<br>`inventory-names-02.jsonl` → 2. piętro — lewa strona<br>`map-labels-01.jsonl` → 2. piętro — lewa strona |
-| `tgo:map_label:d5f7c54e27bd85c4c1d1` | Foyer | `inventory-names-01.jsonl` → Hol<br>`inventory-names-02.jsonl` → Hol wejściowy<br>`map-labels-01.jsonl` → Hol wejściowy |
-| `tgo:map_label:da319999be623fcc063c` | Above Entry West | `inventory-names-01.jsonl` → Na zachód od wejścia, piętro wyżej<br>`inventory-names-02.jsonl` → Na zachód nad wejściem<br>`map-labels-01.jsonl` → Na zachód nad wejściem |
-| `tgo:map_label:dee5d8c5a4150a25c83e` | Front Rubble | `inventory-names-01.jsonl` → Gruz przed wejściem<br>`inventory-names-02.jsonl` → Gruzy przed wejściem<br>`map-labels-01.jsonl` → Gruzy przed wejściem |
-| `tgo:map_label:dfc842de395765e3b776` | Strip Center | `inventory-names-01.jsonl` → Pasaż handlowy<br>`inventory-names-02.jsonl` → Centrum handlowe<br>`map-labels-01.jsonl` → Centrum handlowe |
-| `tgo:map_label:e8c435817646928dd9d9` | Lake South | `inventory-names-01.jsonl` → Południowa część jeziora<br>`inventory-names-02.jsonl` → Południe jeziora<br>`map-labels-01.jsonl` → Południe jeziora |
-| `tgo:map_label:e8fba1a9118c43241e4f` | Mels Kitchen | `inventory-names-01.jsonl` → Kuchnia Mel<br>`inventory-names-02.jsonl` → Kuchnia Meli<br>`map-labels-01.jsonl` → Kuchnia Meli |
-| `tgo:map_label:e94d009d9401f37e888e` | MC Home | `inventory-names-01.jsonl` → Dom głównego bohatera<br>`inventory-names-02.jsonl` → Dom bohatera<br>`map-labels-01.jsonl` → Dom bohatera |
-| `tgo:map_label:f02ca14d1078913582db` | Mels Bedroom | `inventory-names-01.jsonl` → Sypialnia Mel<br>`inventory-names-02.jsonl` → Sypialnia Meli<br>`map-labels-01.jsonl` → Sypialnia Meli |
-| `tgo:map_label:f76d5f6e996173b96434` | Entryway | `inventory-names-01.jsonl` → Przedpokój<br>`inventory-names-02.jsonl` → Przedsionek<br>`map-labels-01.jsonl` → Przedsionek |
-| `tgo:map_label:fc9c6af951bf2da2c415` | Police Station | `inventory-names-01.jsonl` → Komisariat<br>`inventory-names-02.jsonl` → Komisariat policji<br>`map-labels-01.jsonl` → Komisariat policji |
-| `tgo:map_label:fd18931dc4e26846ee6f` | Condos | `inventory-names-01.jsonl` → Mieszkania<br>`inventory-names-02.jsonl` → Apartamentowce<br>`map-labels-01.jsonl` → Apartamentowce |
+Brak konfliktów.
 
-## Tłumaczenia identyczne ze źródłem (616)
+## Tłumaczenia identyczne ze źródłem (617)
 
 | ID | Kategoria | Plik | Tekst |
 |---|---|---|---|
@@ -689,6 +644,7 @@
 | `tgo:item_found_label:f348d6fb1cb4f73be7bd` | `item_found_label` | `inventory-names-02.jsonl` | Hamburger |
 | `tgo:map_label:bd7c99d21121302c58a1` | `map_label` | `inventory-names-02.jsonl` | Casula Plus |
 | `tgo:map_label:bd7c99d21121302c58a1` | `map_label` | `map-labels-01.jsonl` | Casula Plus |
+| `tgo:map_label:64d773f024c1586789d9` | `map_label` | `inventory-names-01.jsonl` | Channel 4 |
 | `tgo:map_label:64d773f024c1586789d9` | `map_label` | `inventory-names-02.jsonl` | Channel 4 |
 | `tgo:map_label:64d773f024c1586789d9` | `map_label` | `map-labels-01.jsonl` | Channel 4 |
 | `tgo:map_label:6e31a1e38fc48deebd62` | `map_label` | `inventory-names-01.jsonl` | START |

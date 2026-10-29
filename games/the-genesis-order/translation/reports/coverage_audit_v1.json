@@ -1,0 +1,284 @@
+{
+  "canonical_record_count": 45229,
+  "draft_batch_count": 427,
+  "explicitly_protected_by_category": {
+    "ui.plugin_static": 3,
+    "ui.variable_value": 128
+  },
+  "explicitly_protected_record_count": 131,
+  "reason_examples": {
+    "character_name_in_choice": [
+      {
+        "id": "tgo:choice_unclassified:8bbcb679269c95fdc6d8",
+        "source_text": "\\c[17]\\v[322]\\c[27]Melissa "
+      },
+      {
+        "id": "tgo:choice_unclassified:d798e20b7631150275b1",
+        "source_text": "\\c[17]\\v[323]\\c[27]Heather"
+      },
+      {
+        "id": "tgo:choice_unclassified:ac3152822a86230a7a6b",
+        "source_text": "\\c[17]\\v[324]\\c[27]Chloe"
+      }
+    ],
+    "character_name_used_as_item_label": [
+      {
+        "id": "tgo:database.items.name:7293dceb8903af776a94",
+        "source_text": "\\c[23]Arianna"
+      },
+      {
+        "id": "tgo:database.items.name:5acbbc2f6997afd2fba5",
+        "source_text": "\\c[23]Arianna"
+      }
+    ],
+    "character_or_media_title_caption": [
+      {
+        "id": "tgo:image_caption:14cec257677ded9f3088",
+        "source_text": "Hannah"
+      },
+      {
+        "id": "tgo:image_caption:7109cb113c67c91c8df6",
+        "source_text": "Hannah"
+      },
+      {
+        "id": "tgo:image_caption:bdccff0923e19901dce6",
+        "source_text": "Erica"
+      }
+    ],
+    "currency_abbreviation": [
+      {
+        "id": "tgo:system.currencyUnit:c51159a7153048f704e8",
+        "source_text": "G"
+      }
+    ],
+    "custom_dialogue_emote_or_pause_control": [
+      {
+        "id": "tgo:custom_dialogue:196bf7eed64e342b3e5a",
+        "source_text": "/fail"
+      },
+      {
+        "id": "tgo:custom_dialogue:4ca68261a2099d1dc250",
+        "source_text": "/locked"
+      },
+      {
+        "id": "tgo:custom_dialogue:68d986f8385dbf7abf69",
+        "source_text": "/fail"
+      }
+    ],
+    "displayed_amount": [
+      {
+        "id": "tgo:native_message_unclassified:1671c67baf9c00d3a3fd",
+        "source_text": "\\fn<Special Elite>\\TA[2]\\c[15]$150<br>\\TA[0]"
+      }
+    ],
+    "explicit_keep_source_value_policy": [
+      {
+        "id": "tgo:ui.plugin_static:0bb73d8f66f173f310a7",
+        "source_text": "PC"
+      },
+      {
+        "id": "tgo:ui.plugin_static:1bb3feb0dcc6a150d008",
+        "source_text": "Web"
+      },
+      {
+        "id": "tgo:ui.plugin_static:8fb89dafd6532e75decd",
+        "source_text": "LAN"
+      }
+    ],
+    "numeric_or_runtime_choice_value": [
+      {
+        "id": "tgo:choice_unclassified:92e35658d73bfa5140a9",
+        "source_text": "\\i[2]1"
+      },
+      {
+        "id": "tgo:choice_unclassified:194a3d949eb0b0364cdd",
+        "source_text": "\\i[2]2"
+      },
+      {
+        "id": "tgo:choice_unclassified:c2b76f465583b2feef30",
+        "source_text": "\\i[2]1"
+      }
+    ],
+    "phone_contact_name": [
+      {
+        "id": "tgo:phone_contact_ui:ed360055b018450dcc38",
+        "source_text": "Amulet K."
+      },
+      {
+        "id": "tgo:phone_contact_ui:c4d223c2fdc3b48773f7",
+        "source_text": "Morgan."
+      }
+    ],
+    "phone_renderer_control": [
+      {
+        "id": "tgo:phone_text:41e6fca848d5b66e0eec",
+        "source_text": "<center>\\fn<Arial>\\fb\\c[24]\\ow[0]\\fs[24]"
+      },
+      {
+        "id": "tgo:phone_text:2abc1abdee0ef7a989e6",
+        "source_text": "\\^"
+      },
+      {
+        "id": "tgo:phone_text:6ea10748bc07d3ce1577",
+        "source_text": "<center>\\fn<Arial>\\fb\\c[27]\\ow[0]\\fs[24]"
+      }
+    ],
+    "phone_renderer_control_or_year": [
+      {
+        "id": "tgo:phone_contact_ui:ae254e5d5ab2538e8c17",
+        "source_text": "<center>\\c[19]"
+      },
+      {
+        "id": "tgo:phone_contact_ui:61c0f4195274b55bddc4",
+        "source_text": "<center>\\c[19]"
+      },
+      {
+        "id": "tgo:phone_contact_ui:3484ec621c6c99e674f6",
+        "source_text": "<center>\\c[19]"
+      }
+    ],
+    "proper_name_or_actor_slot_marker": [
+      {
+        "id": "tgo:database.actors.name:43a03d9718a0804982b6",
+        "source_text": "William"
+      },
+      {
+        "id": "tgo:database.actors.name:ecfc78994e245d1b8173",
+        "source_text": "0"
+      },
+      {
+        "id": "tgo:database.actors.name:acf66ed302dc1f58e239",
+        "source_text": "1"
+      }
+    ],
+    "proper_name_or_name_with_identifier": [
+      {
+        "id": "tgo:native_message_unclassified:7260eb2826e225c5cb07",
+        "source_text": "<center><br><br>Madalyn."
+      },
+      {
+        "id": "tgo:native_message_unclassified:7f56b2ebd8ae356257bf",
+        "source_text": "Morgan #142"
+      }
+    ],
+    "renderer_control_or_numeric_message_fragment": [
+      {
+        "id": "tgo:native_message_unclassified:379ba648321d936df46c",
+        "source_text": "\\fn<Cinzel-Black>\\fs[70]<br>"
+      },
+      {
+        "id": "tgo:native_message_unclassified:ae1869c543fe2db317b8",
+        "source_text": "\\fn<Cinzel-Black>\\fs[70]<br>"
+      },
+      {
+        "id": "tgo:native_message_unclassified:1be1ec5c4905487aa5a3",
+        "source_text": "\\fn<Cinzel-Black>\\fs[70]<br>"
+      }
+    ],
+    "runtime_variable_choice_value": [
+      {
+        "id": "tgo:ui_choice:fc7b2eeed8faedc53322",
+        "source_text": "\\v[81]"
+      },
+      {
+        "id": "tgo:ui_choice:70f1b1ba01acf96f8d09",
+        "source_text": "\\v[82]"
+      },
+      {
+        "id": "tgo:ui_choice:ca04f0d933019e222c1b",
+        "source_text": "\\v[83]"
+      }
+    ],
+    "single_letter_quiz_answer": [
+      {
+        "id": "tgo:choice_unclassified:a0ad8e3549ce59c09214",
+        "source_text": "U"
+      },
+      {
+        "id": "tgo:choice_unclassified:2d5669471810bdd7bc36",
+        "source_text": "L"
+      },
+      {
+        "id": "tgo:choice_unclassified:622c779b2ca3887a213a",
+        "source_text": "C"
+      }
+    ],
+    "supporter_handle_or_credit_attribution": [
+      {
+        "id": "tgo:credits:01959f66e8c543c86a02",
+        "source_text": "6strgmn, istark11, Revoltes, DaveDragneel, Marvin, Osman Alvaran, stoicAlbatross<br>"
+      },
+      {
+        "id": "tgo:credits:027f053364491da0e010",
+        "source_text": "Tanawat23, Kill, Caranation, Matthew Farmery, Remy Don, Winter, Korvus Tytan<br>"
+      },
+      {
+        "id": "tgo:credits:03216d0b7f63ef997d14",
+        "source_text": "Bandito20, Jimbo(ohio), CensedRook, Frank Lopez, DarkStar,<br>"
+      }
+    ],
+    "symbol_amount_or_character_name_variable": [
+      {
+        "id": "tgo:ui.variable_value:0828d2cf01191c1db129",
+        "source_text": "Hannah"
+      },
+      {
+        "id": "tgo:ui.variable_value:ad9abbb108b33005e756",
+        "source_text": "???"
+      },
+      {
+        "id": "tgo:ui.variable_value:8615861ead5452599f43",
+        "source_text": "Erica"
+      }
+    ],
+    "technical_acronym": [
+      {
+        "id": "tgo:item_found_label:3bdfc9421d8acd154916",
+        "source_text": "ECU"
+      }
+    ]
+  },
+  "schema": "tgo-translation-coverage-audit-v1",
+  "scope_note": "A complete result means every canonical record has a translation, an explicit keep-source policy, or an audited non-linguistic/proper-name/runtime/renderer rationale. It does not imply runtime visual QA; image/video-baked text remains excluded by owner decision.",
+  "source_preserved_by_category": {
+    "choice_option": 514,
+    "credits": 237,
+    "custom_dialogue": 3924,
+    "database.actors.name": 27,
+    "database.items.name": 2,
+    "image_caption": 68,
+    "item_found_label": 1,
+    "native_message": 329,
+    "phone_contact_ui": 26,
+    "phone_text": 3,
+    "system.currencyUnit": 1,
+    "ui.variable_value": 27,
+    "ui_choice": 13
+  },
+  "source_preserved_by_reason": {
+    "character_name_in_choice": 24,
+    "character_name_used_as_item_label": 2,
+    "character_or_media_title_caption": 68,
+    "currency_abbreviation": 1,
+    "custom_dialogue_emote_or_pause_control": 3924,
+    "displayed_amount": 1,
+    "explicit_keep_source_value_policy": 131,
+    "numeric_or_runtime_choice_value": 486,
+    "phone_contact_name": 2,
+    "phone_renderer_control": 3,
+    "phone_renderer_control_or_year": 24,
+    "proper_name_or_actor_slot_marker": 27,
+    "proper_name_or_name_with_identifier": 2,
+    "renderer_control_or_numeric_message_fragment": 326,
+    "runtime_variable_choice_value": 13,
+    "single_letter_quiz_answer": 4,
+    "supporter_handle_or_credit_attribution": 237,
+    "symbol_amount_or_character_name_variable": 27,
+    "technical_acronym": 1
+  },
+  "source_preserved_nonlocalized_record_count": 5172,
+  "status": "complete",
+  "translated_record_count": 39926,
+  "unresolved_records": [],
+  "unresolved_translatable_record_count": 0
+}

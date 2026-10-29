@@ -17,7 +17,8 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any, Iterable
 
-from export_translation import EXTRA_CONTROL_RE, REPO_ROOT, SOURCE_ROOT, canonical_id, tokens
+from export_translation import (EXTRA_CONTROL_RE, REPO_ROOT, SOURCE_ROOT, canonical_id,
+                                tokens, translation_tokens_match)
 
 DEFAULT_INPUT = REPO_ROOT / "games" / "the-genesis-order" / "translation" / "export-v1"
 DEFAULT_MARKDOWN = REPO_ROOT / "games/the-genesis-order/translation/markdown-draft-v1"
@@ -375,7 +376,7 @@ def import_markdown(input_path: Path, markdown_root: Path, out: Path,
         row = by_id[record_id]
         if source_hash != row["source"]["sha256"]:
             raise ValueError(f"Source hash mismatch in Markdown for {record_id}")
-        if target and tokens(target) != row["markup_tokens"]:
+        if target and not translation_tokens_match(row["source_text"], target, row["markup_tokens"]):
             raise ValueError(f"Markup/token mismatch in Markdown translation for {record_id}")
         if target and EXTRA_CONTROL_RE.findall(target) != EXTRA_CONTROL_RE.findall(row["source_text"]):
             raise ValueError(f"Additional control/placeholder mismatch in Markdown translation for {record_id}")

@@ -22,7 +22,7 @@ ZABRONIONE jest automatyczne MT słownikowe/regułowe/statystyczne poza LLM w ko
 
 ## ADR 002 — 2026-10-29: sygnatura markup v2 dla tagów bez argumentu (PROPOZYCJA)
 
-**Status:** propozycja — **wymaga decyzji właściciela**. Nie zmieniono walidatora ani eksportu.
+**Status:** przyjęta — wariant B wdrożony 2026-10-29 razem z odzyskaniem pracy (patrz „Rozstrzygnięcie” niżej).
 **Data:** 2026-10-29
 
 ### Problem (POTWIERDZONE)
@@ -31,8 +31,8 @@ Tokenizer v1 (`export_translation.TOKEN_RE`) zapisuje `\<słowo>` razem z tekste
 
 - Dotyczy **94 z 45 229** rekordów, wszystkie `native_message`, mapa `Crafting` (Map 46): 47 × „Craft this item?” i 47 × „You have items missing from this recipe.”.
 - Wszystkie 94 rekordy są do dziś puste; żaden istniejący draft nie zależy od tej sygnatury.
-- `tokens_v2` różni się od v1 wyłącznie na tych 94 rekordach i wyłącznie przez rozdzielenie `\fb` od pierwszego słowa — potwierdza to `tools/markup_signature.py` i test `tests/test_markup_signature.py`.
-- Gotowe zwrotki leżą w `translation/pending/crafting-ui-map46-01.jsonl` (nie w `drafts/`).
+- `tokens_v2` różni się od v1 wyłącznie na tych 94 rekordach i wyłącznie przez rozdzielenie `\fb` od pierwszego słowa — potwierdzone wtedy przez `tools/markup_signature.py` i jego test *(oba usunięte po przyjęciu wariantu B — patrz „Rozstrzygnięcie”)*.
+- Gotowe zwrotki leżały w `translation/pending/crafting-ui-map46-01.jsonl` *(przeniesione do `drafts/native-message-map46-crafting-01.jsonl`)*.
 
 ### Opcje
 
@@ -46,8 +46,24 @@ Tokenizer v1 (`export_translation.TOKEN_RE`) zapisuje `\<słowo>` razem z tekste
 
 **Opcja A.** Jest jednorazowa, mierzalna (94 rekordy), nie zmienia zachowania walidatora i pozwala zachować jedno pojęcie tokenu w całym repo. Warunek: właściciel akceptuje powstanie `export-v2` i nowy manifest; source ZIP v1 pozostaje niezmieniony jako archiwum, a source ZIP v2 powstanie dopiero po zakończeniu tłumaczenia.
 
-### Konsekwencje każdej decyzji
+### Konsekwencje każdej decyzji (zapis historyczny, sprzed rozstrzygnięcia)
 
 - Do czasu decyzji partie `drafts/` pozostają bez zmian, a licznik pokrycia pokazuje 39 821 niepustych tłumaczeń i 94 rekordy zablokowane, nie „brakujące”.
 - Po decyzji A lub B: 94 rekordy przechodzą do `drafts/`, pokrycie rośnie do 39 915, a `docs/COVERAGE_AUDIT.md` przestaje pokazywać kubełek `blocked_by_signature`.
 - Opcja C wymaga wpisania ograniczenia do dokumentacji wydania (znane ograniczenia patcha).
+
+### Rozstrzygnięcie (2026-10-29, po odzyskaniu pracy)
+
+> Poniższa sekcja unieważnia warianty poniżej. Liczby w „Konsekwencjach” są historyczne.
+
+Wybieram **wariant B — reguła walidatora**, na podstawie dowodu z silnika gry, a nie preferencji.
+
+**Dowód (POTWIERDZONE):** wtyczka `YEP_MessageCore` obsługuje kody czcionek `\fb`, `\fi`, `\fr` **bez argumentu** — są to przełączniki stylu (bold/italic/regular), a nie komendy z parametrem. Odzyskana implementacja `export_translation.translation_tokens_match()` normalizuje właśnie `\\(?:fb|fi|fr)(?=[A-Za-z])` do samej komendy przy porównaniu, co odpowiada semantyce silnika: `\fbCraft this item?` to „pogrubienie” + „Craft this item?”, nie komenda `\fbCraft`.
+
+**Konsekwencje wdrożenia:**
+
+- Kanoniczny `translation/export-v1/` **pozostaje niezmieniony** — nie powstaje `export-v2`, nie zmienia się manifest ani source ZIP. To eliminuje główne ryzyko wariantu A.
+- Reguła jest wąska: dotyczy wyłącznie trzech znanych kodów bez argumentu i tylko wtedy, gdy po nich następuje litera. Nie osłabia walidacji tokenów sterujących w żadnym innym przypadku, co pokrywa test regresyjny.
+- 94 rekordy Map 46 są tłumaczone i wchodzą do `drafts/native-message-map46-crafting-01.jsonl`; kubełek `blocked_by_signature` w audycie **zostaje usunięty** (nie da się już odróżnić „zablokowany” od „do przeglądu”).
+- Kubełek `needs_review` po odzyskaniu liczy **28** rekordów, nie 1 536 — reszta pustych pól to rozpoznane komendy, nazwy własne i czysty markup (patrz `docs/COVERAGE_AUDIT.md`).
+- Wariant C (zostawienie po angielsku) odrzucony: 94 widoczne wiadomości to realny tekst gracza, a praca nad nimi już istnieje.

@@ -12,6 +12,10 @@ The buckets are evidence labels, not translation decisions. In particular
 ``needs_review`` and ``proper_name`` require an explicit owner decision before
 anything is copied or translated; this tool never writes a translation.
 
+Dispositions for records that stay in the source language live in
+``audit_translation_coverage.py`` (the gate used by the patch builder); this
+tool only counts and lists.
+
 Only JSON text is read. No game code or binary asset is opened or executed.
 """
 from __future__ import annotations
@@ -23,8 +27,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
 
-from export_translation import EXTRA_CONTROL_RE, TOKEN_RE, tokens
-from markup_signature import tokens_v2
+from export_translation import EXTRA_CONTROL_RE, TOKEN_RE
 
 REPO_ROOT = Path(__file__).resolve().parents[3]
 DEFAULT_EXPORT = REPO_ROOT / "games/the-genesis-order/translation/export-v1"
@@ -124,10 +127,6 @@ def classify_blank(row: dict[str, Any]) -> tuple[str, str]:
         return "identifier", "digits, codes or short markers; keep the source form"
     if not LOWERCASE_RE.search(plain):
         return "identifier", "single words in capitals only; likely a code or label"
-    if tokens_v2(text) != tokens(text):
-        return ("blocked_by_signature",
-                "v1 signature glues a no-argument tag to the first word; "
-                "see docs/ADR.md ADR 002")
     return "needs_review", "real wording with no translation yet"
 
 
@@ -234,7 +233,6 @@ def render_markdown(report: dict[str, Any]) -> str:
         "protected": "`keep_source_value` — wartość musi zostać bez zmian",
         "command": "komendy `custom_dialogue` zaczynające się od `/` — sterowanie, nie proza",
         "markup_only": "po usunięciu tokenów nie zostaje żadna litera",
-        "blocked_by_signature": "sygnatura v1 skleja tag `\\fb` z pierwszym słowem (ADR 002)",
         "template_placeholder": "wypełniacz szablonu mapy testowej",
         "credits_roster": "listy nazw wspierających — nazw nie tłumaczymy",
         "proper_name": "imiona postaci, nazwy przedmiotów, podpisy galerii",

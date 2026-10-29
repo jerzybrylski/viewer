@@ -27,7 +27,7 @@ Wymagania TGO: zachowanie `1Hero` i glosariusza (Toma/Anachorismos/Daemalius/Lil
 
 - Dozwolone: wyłącznie tłumaczenie przez LLM z uwzględnieniem pełnego kontekstu (mapa, event_id, mówca, sąsiednie kwestie, gałąź/warunek), wolno ale dokładnie, z korektą, z zachowaniem `1Hero` i glosariusza.
 - Zabronione: `generate_remaining.py`-style słownik, `argos`, `MarianMT` bez LLM, `auto_translate`, szybkie domknięcie liczby 45 000 automatem.
-- Buildery `translation/.build-*.py` muszą zawierać ręczne tłumaczenia LLM, filtrować `known` + `keep_source_value` + `/^` + `noalpha`, odmawiać nadpisu (`Refusing` jeśli OUTPUT istnieje), wymagać `len==exact` + `validate 0` + `py_compile OK` + `36/36 unittest`.
+- Buildery `translation/.build-*.py` muszą zawierać ręczne tłumaczenia LLM, filtrować `known` + `keep_source_value` + `/^` + `noalpha`, odmawiać nadpisu (`Refusing` jeśli OUTPUT istnieje), wymagać `len==exact` + `validate 0` + `py_compile OK` + pełny zielony aktualny zestaw `unittest`.
 
 ### Konsekwencje
 
