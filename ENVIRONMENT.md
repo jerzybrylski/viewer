@@ -4,7 +4,7 @@ Ten plik opisuje wyłącznie środowisko znane i sprawdzone w chwili jego aktual
 
 ## Środowisko agenta
 
-- Praca nad repo odbywa się w sandboxie Linux; bieżąca sesja używa gałęzi `arena/df0bbe3f-viewer`.
+- Praca nad repo odbywa się w sandboxie Linux; należy pracować na gałęzi wskazanej dla bieżącej sesji Arena, bez przełączania jej.
 - Python 3 jest dostępny w sandboxie, ale repo nie ma jeszcze wspólnego `requirements.txt` ani obowiązkowego toolchainu tłumaczeniowego.
 - PowerShell (`pwsh`/`powershell`) nie jest dostępny w sandboxie. Skrypty PowerShell przeznaczone dla Windows należy statycznie sprawdzić tutaj, a ich wykonanie oznaczać jako **niezweryfikowane**, dopóki użytkownik nie uruchomi ich na swoim komputerze i nie zwróci raportu.
 - Nie ma lokalnej instalacji The Genesis Order ani innych kopii gier do testów.
