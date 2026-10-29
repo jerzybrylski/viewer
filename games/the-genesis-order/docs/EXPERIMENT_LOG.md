@@ -128,8 +128,18 @@
 
 ## 2026-10-29 — źródłowy pakiet tłumaczeniowy v1
 
-- Na prośbę właściciela przygotowano pełny statyczny source ZIP w ignorowanym `google_drive/the-genesis-order/translation/packages/`; nie czekano na dodatkową klasyfikację podtypów, ponieważ wszystkie 1 122 wiersze `401` i 1 930 opcji są dołączone i jawnie oznaczone jako nierozstrzygnięte.
+- Na prośbę właściciela przygotowano statyczny source ZIP v1. W późniejszej, wiążącej decyzji właściciel zatwierdził wszystkie 1 122 nie-rendererowe wiersze `401` i 1 930 opcji jako pełnoprawny tekst do tłumaczenia; obecny eksport i paczka używają neutralnych kategorii `native_message` oraz `choice_option`.
 - Dodano `tools/build_translation_package.py`. Skrypt wymaga `coverage_checks_passed=true`, zgodności liczby rekordów między JSONL i Markdown, unikalnych ID, bezpiecznych ścieżek, zapisuje ZIP tylko pod `google_drive/`, sprawdza CRC ZIP-a i generuje sidecar SHA-256. Do archiwum trafiają wyłącznie eksport JSONL, Markdown, README/manifest pakietu oraz dokumenty tekstowe; bez assetów i kodu gry.
 - Walidacja po dodaniu skryptu: `py_compile` OK; pełne `unittest` **27/27 passed**; Markdown import-check **45 229 rekordów / 0 braków**; builder zweryfikował `coverage_checks_passed=true`, **45 229 rekordów, 497 dokumentów, 131 chronionych wartości, 531 wpisów ZIP**. Końcowy SHA-256 i rozmiar zapisuje builder w `TGO_source_translation_package_v1.zip.sha256`.
 - Ponowione `apply_translation.py --check` nie mogło wystartować, bo bieżące środowisko nie zawiera ignorowanego `google_drive/the-genesis-order/data/CommonEvents.json`. Wcześniejszy check 45 229 rekordów / 238 źródeł przeszedł; nie zmieniano eksportu JSONL.
 - Nie uruchamiano gry/kodu gry. Nie wygenerowano tłumaczenia ani patcha.
+
+## 2026-10-29 — zatwierdzony zakres tekstów i source ZIP w Git/Drive
+
+- Właściciel zatwierdził wszystkie **1 513** nie-rendererowych wierszy `401` i wszystkie **2 110** opcji `102` jako pełnoprawny, widoczny dla gracza tekst do tłumaczenia. W eksporcie kategorie mają neutralne nazwy `native_message` i `choice_option`; usunięto podtypy sugerujące nierozstrzygnięty zakres, zachowując wydane ID.
+- Potwierdzono, że tekst wtopiony w obrazy i wideo nie jest tłumaczony. Oryginalne media i kod gry pozostają poza zakresem/pakietem.
+- Zaktualizowano manifest, generator eksportu, testy, format rekordów, raporty, zasady i handoff. Markdown odtworzony: 497 dokumentów / 45 229 rekordów; import-check: 0 braków.
+- Pełne `unittest`: **27/27 passed**; `py_compile` i `git diff --check` przechodzą. Builder wymaga poprawnych liczników 1 513/2 110, sprawdza coverage i integralność ZIP-a.
+- Source ZIP v1: `games/the-genesis-order/translation/packages/TGO_source_translation_package_v1.zip`, **8 499 321 B**, 531 wpisów, 45 229 rekordów, 497 Markdown, 131 chronionych wartości; SHA-256 `b2215cf29c33ad0f42e22852f3179985b829338be019887b13e5b8818217e2b6`.
+- ZIP i sidecar `.sha256` są śledzone w Git. Identyczny artefakt i checksum przesłano na Google Drive: `TGO/translation/packages/` ([ZIP](https://drive.google.com/file/d/1G7T1-bKW9AFHR2tiwXK6xGBJCSSm2IWS/view?usp=drivesdk), [SHA-256](https://drive.google.com/file/d/1oiT5PIqOP2qqyoON2Xz1JQ0cKod0tNip/view?usp=drivesdk)).
+- Nie uruchamiano gry ani kodu gry; nie ma jeszcze tłumaczenia ani patcha.

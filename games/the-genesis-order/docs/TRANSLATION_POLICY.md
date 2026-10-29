@@ -2,7 +2,7 @@
 
 ## Stan
 
-Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-v1/`. Wszystkie pola `translation` są puste; **nie rozpoczęto tłumaczenia**. Pakiet źródłowy `TGO_source_translation_package_v1.zip` został zbudowany w ignorowanym `google_drive/the-genesis-order/translation/packages/`; patcher nie został zbudowany.
+Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-v1/`. Wszystkie pola `translation` są puste; **nie rozpoczęto tłumaczenia**. Source ZIP v1 jest śledzony w `games/the-genesis-order/translation/packages/` i dostępny na Google Drive; patcher nie został zbudowany.
 
 ## Zasady wejściowe
 
@@ -18,6 +18,7 @@ Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-
 - JSONL jest kanoniczny. Markdown w `google_drive/the-genesis-order/translation/markdown-draft-v1/` jest widokiem roboczym po stabilnych ID, nie osobnym źródłem prawdy.
 - Przed stagingiem uruchomić testy i `apply_translation.py --check`. Import/patch trafia do nowej kopii pod ignorowanym `google_drive/`; nigdy nie nadpisuje assetów wejściowych.
 - Nie uruchamiać gry ani JS przez narzędzia ekstrakcji/importu. Test renderingu i polskich fontów wymaga osobnej zgody oraz kopii gry.
-- Source ZIP v1 jest wygenerowany na prośbę właściciela i zawiera pełne, zweryfikowane statyczne źródła; nierozstrzygnięte podtypy pozostają jawne. Nie traktować go jako tłumaczenia, patcha ani finalnej dystrybucji. Finalny ZIP z tłumaczeniem/patcherem wymaga osobnej akceptacji.
+- Wszystkie nie-rendererowe wiersze `401` i wszystkie opcje `102` są pełnoprawnym tekstem gracza do tłumaczenia, bez filtrowania według dialog/UI. To zatwierdzona decyzja zakresowa. Tekst wtopiony w obrazy i wideo pozostaje poza zakresem na decyzję właściciela.
+- Source ZIP v1 zawiera pełny zatwierdzony statyczny zakres, ale pola `translation` są puste: to paczka źródłowa do tłumaczenia, nie polskie tłumaczenie ani patch gry.
 
 Nie kopiować tekstów SRW ani założeń o silniku/limitach SRW do TGO. Przenosić można jedynie ogólne rozwiązania organizacyjne i walidacyjne.

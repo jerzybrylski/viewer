@@ -36,6 +36,11 @@ class ExportTranslationTests(unittest.TestCase):
         self.assertNotEqual(exporter.canonical_id("message", first),
                             exporter.canonical_id("message", changed))
         self.assertNotIn("sample", exporter.canonical_id("message", first))
+        # Approved category names retain IDs already issued in the earlier source bundle.
+        self.assertEqual(exporter.canonical_id("native_message", first),
+                         exporter.canonical_id("native_message_unclassified", first))
+        self.assertEqual(exporter.canonical_id("choice_option", first),
+                         exporter.canonical_id("choice_unclassified", first))
 
     def test_json_pointer_escapes_reserved_characters(self):
         self.assertEqual(exporter.pointer("a/b", "x~y"), "/a~1b/x~0y")
@@ -202,11 +207,14 @@ class ExportTranslationTests(unittest.TestCase):
             self.assertEqual(message["source"]["locator"]["json_path"], "/list/4/parameters/0")
             self.assertEqual(message["context"]["branch_path"][0]["option_index"], 0)
             self.assertEqual(message["classification"], "confirmed_text_surface")
-            self.assertEqual(message["context"]["semantic_subtype"], "dialogue_tutorial_notification_or_ui_unclassified")
-            options = [item for item in records if item["category"] == "choice_unclassified"]
+            self.assertEqual(message["context"]["translation_scope"], "full_player_facing_text")
+            self.assertNotIn("semantic_subtype", message["context"])
+            options = [item for item in records if item["category"] == "choice_option"]
             self.assertEqual([item["source"]["locator"]["option_index"] for item in options], [0, 1])
             self.assertTrue(all(item["classification"] == "confirmed_text_surface" for item in options))
+            self.assertTrue(all(item["context"]["translation_scope"] == "full_player_facing_text" for item in options))
             self.assertTrue(all(item["context"]["visibility_evidence"] for item in options))
+            self.assertTrue(all("semantic_subtype" not in item["context"] for item in options))
             self.assertEqual(len({item["id"] for item in records}), len(records))
 
     def test_static_variable_values_reaching_choices_are_extracted(self):

@@ -6,7 +6,7 @@ Przeczytaj `../../AGENTS.md`, `../../ENVIRONMENT.md`, `README.md`, `docs/STATUS.
 
 ## Bieżący etap
 
-Statyczny audyt i eksport są zakończone. Kanoniczny eksport w `translation/export-v1/` zawiera 45 229 rekordów. Zobacz `docs/HANDOFF_NEXT_AGENT.md` oraz `docs/STATUS.md` przed dalszymi zmianami. Następne są: decyzja właściciela o pozostałych niepewnościach semantycznych, zatwierdzenie zasad lokalizacji i dopiero potem tłumaczenie. Nie przygotowuj ZIP-a bez akceptacji zakresu.
+Statyczny audyt i eksport są zakończone. Kanoniczny eksport w `translation/export-v1/` zawiera 45 229 rekordów. Zobacz `docs/HANDOFF_NEXT_AGENT.md` oraz `docs/STATUS.md` przed dalszymi zmianami. Wszystkie nie-rendererowe wiersze `401` i wszystkie opcje `102` są zatwierdzone jako pełnoprawny tekst gracza do tłumaczenia. Source ZIP v1 ma być śledzony w Git i publikowany na Google Drive. Tekst wtopiony w obrazy i wideo jest poza zakresem decyzją właściciela; tłumaczenie pól w JSONL nie rozpoczęło się.
 
 ## Zasady dla TGO
 

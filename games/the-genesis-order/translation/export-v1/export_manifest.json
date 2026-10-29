@@ -1,7 +1,7 @@
 {
   "category_counts": {
     "arianna_hint": 705,
-    "choice_unclassified": 1930,
+    "choice_option": 1930,
     "credits": 239,
     "custom_dialogue": 38638,
     "database.actors.name": 28,
@@ -9,7 +9,7 @@
     "image_caption": 134,
     "item_found_label": 649,
     "map_label": 291,
-    "native_message_unclassified": 1122,
+    "native_message": 1122,
     "phone_contact_ui": 378,
     "phone_text": 30,
     "system.armorTypes": 6,
@@ -69,7 +69,7 @@
       "expected": 649,
       "passed": true
     },
-    "native_message_unclassified_entries": {
+    "native_message_entries": {
       "actual": 1122,
       "expected": 1122,
       "passed": true
@@ -124,7 +124,7 @@
   "duplicate_source_texts": 12178,
   "jsonl_files": [
     "arianna_hint.jsonl",
-    "choice_unclassified.jsonl",
+    "choice_option.jsonl",
     "credits.jsonl",
     "custom_dialogue.jsonl",
     "database_actors_name.jsonl",
@@ -132,7 +132,7 @@
     "image_caption.jsonl",
     "item_found_label.jsonl",
     "map_label.jsonl",
-    "native_message_unclassified.jsonl",
+    "native_message.jsonl",
     "phone_contact_ui.jsonl",
     "phone_text.jsonl",
     "system_armortypes.jsonl",
@@ -143,18 +143,18 @@
     "system_skilltypes.jsonl",
     "system_terms.jsonl",
     "system_weapontypes.jsonl",
+    "ui_choice.jsonl",
     "ui_engine_static.jsonl",
     "ui_plugin_parameter.jsonl",
     "ui_plugin_static.jsonl",
-    "ui_variable_value.jsonl",
-    "ui_choice.jsonl"
+    "ui_variable_value.jsonl"
   ],
   "known_omissions": [
-    "All 2,110 native choice options and 1,122 non-renderer native 401 message rows are exported as confirmed visible surfaces; their semantic subtype (story, tutorial, notification, or UI) is intentionally not guessed.",
+    "All 2,110 command-102 options and all 1,513 non-renderer command-401 rows are full player-facing translation records; the latter comprise 1,122 general messages, 378 phone UI entries, and 13 native phone texts.",
     "Static source audit covered 78 JavaScript files, 563 literal candidates, 35 confirmed UI records, and 528 content-free exclusions; no direct static message/choice/draw sinks were found in event-script code beyond the separately traced channels. Runtime-only text supplied by external devices, user data, or calculated values is not a translatable source literal.",
     "Static command-122 values routed through visible \\V escapes are exported when nonblank (262 records); 132 whitespace-only values are layout placeholders and are intentionally skipped. 128 prices/markers are protected from edits.",
     "Thirty-four item note fields were inspected and contain tag/metadata rather than prose; editor-only labels and non-display metadata remain outside the extraction schema.",
-    "CE224 has 67 statically counted call sites that preload KSPAGE images; its two 401 rows are renderer scaffolds, and 134 static caller values in variables 97/98 are exported as image_caption records. Any text embedded inside the referenced images remains outside the media-free scope.",
+    "CE224 has 67 statically counted call sites that preload KSPAGE images; its two 401 rows are renderer scaffolds, and 134 static caller values in variables 97/98 are exported as image_caption records. Per owner decision, text baked into images or video is outside translation scope.",
     "Lovense device-provided names and nicknames are dynamic external data. Static mode labels PC/LAN/Web are included but protected because they are runtime operands; Not Connected is a translatable UI fallback."
   ],
   "output_contains_source_text": true,
@@ -405,5 +405,10 @@
     "www/js/rpg_windows.js": "b659426e5e8199b8058491cb96358e09afd1de936ed7a72e98694cb2fd7309ef"
   },
   "source_root": "google_drive/the-genesis-order",
-  "stable_ids_unique": true
+  "stable_ids_unique": true,
+  "translation_scope_decisions": {
+    "command_102_choice_options": "all_2110_full_player_facing_text_to_translate",
+    "command_401_non_renderer_rows": "all_1513_full_player_facing_text_to_translate",
+    "text_baked_into_images_and_video": "excluded_per_owner_decision"
+  }
 }

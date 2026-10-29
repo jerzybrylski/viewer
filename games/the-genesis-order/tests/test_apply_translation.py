@@ -49,7 +49,7 @@ class ApplyTranslationTests(unittest.TestCase):
                    "command_index": 1, "command_code": 401,
                    "json_path": "/list/1/parameters/0"}
         row = exporter.record(
-            category="native_message_unclassified", status="needs_review",
+            category="native_message", status="needs_review",
             text="Source sentence", source_file=rel,
             source_hash=hashlib.sha256(raw).hexdigest(), locator=locator,
             context={}, structure={"command_code": 401},

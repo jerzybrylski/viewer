@@ -10,14 +10,14 @@ games/the-genesis-order/translation/export-v1/
 
 Zawiera **45 229 rekordów** w JSONL oraz `export_manifest.json`. Oryginalne assety gry (`www/data/`, `www/js/`, media i archiwum wejściowe), robocze wyniki skanów zawierające surowe kopie oraz tłumaczenia/importy pozostają poza Gitem w ignorowanym `google_drive/`. Markdown dla wygody pracy jest regenerowalny i również pozostaje w `google_drive/the-genesis-order/translation/markdown-draft-v1/` (ok. 83 MB; nie kopiować go do repo).
 
-Eksport zawiera tekst z RPG Maker MV JSON/Credits, potwierdzone statyczne UI JS oraz statyczne wartości zmiennych, dla których istnieje dowód przepływu przez `\\V[...]` do widocznego komunikatu, wyboru lub tekstu przewijanego. To jest inwentarz źródłowych powierzchni, nie przetłumaczona gra ani ZIP.
+Eksport zawiera tekst z RPG Maker MV JSON/Credits, potwierdzone statyczne UI JS oraz statyczne wartości zmiennych, dla których istnieje dowód przepływu przez `\\V[...]` do widocznego komunikatu, wyboru lub tekstu przewijanego. Source ZIP v1 jest śledzony w `games/the-genesis-order/translation/packages/` i publikowany na Google Drive; to pakiet źródłowy, nie przetłumaczona gra.
 
 ## Rekord v1
 
 Każda linia JSONL ma `schema: tgo-translation-record-v1` i pola:
 
-- `id`: kategoria + skrót SHA-256 kanonicznego locatora. ID zależy od miejsca w źródle, nie od tekstu.
-- `category`, `classification`: rodzaj powierzchni i poziom potwierdzenia. `confirmed_text_surface` oznacza dowód widocznego tekstu, nie semantyczne rozstrzygnięcie, czy to fabuła/UI/tutorial.
+- `id`: stabilna przestrzeń identyfikatora + skrót SHA-256 kanonicznego locatora. ID zależy od miejsca w źródle, nie od tekstu; zatwierdzone zmiany etykiet kategorii zachowują istniejące ID.
+- `category`, `classification`: rodzaj powierzchni i potwierdzenie jej renderowania. Wszystkie wiersze `401` i opcje `102` są pełnoprawnym tekstem do tłumaczenia.
 - `source_text`: dokładna wartość źródłowa; `translation` pozostaje pusta.
 - `markup_tokens`: kolejność placeholderów/escape’ów, m.in. RPG Maker, HTML i formatów.
 - `source`: plik względny wobec oryginalnych assetów, SHA-256 wejścia, locator oraz dozwolony rodzaj write-back.
@@ -41,13 +41,13 @@ Stabilne ID obowiązuje przy niezmienionym locatorze. Przesunięcie źródła zm
 
 `context.translation_policy=keep_source_value` blokuje zmianę pól, które są kwotami/markerami lub wartościami sterującymi. W bieżącym eksporcie chronione są m.in. kwoty i markery UI oraz Lovense `PC`/`LAN`/`Web`. Ich nie wolno zmieniać w miejscu; naruszenie kończy się błędem walidacji.
 
-## Bieżące pokrycie i niepewności
+## Pokrycie i decyzje zakresowe
 
 - 45 229 rekordów; wszystkie stabilne ID są unikalne, a wszystkie source hashe/locatory przechodzą `--check` dla 238 plików źródłowych.
-- Wybory: 2 110 opcji w 695 grupach; 180 znanych opcji UI. Pozostałe 1 930 są widocznymi tekstami, ale ich semantycznego podtypu nie zgadujemy.
-- Natywne `401`: 1 513 nie-rendererowych wierszy, w tym 1 122 z semantycznym podtypem nieustalonym; osiem scaffoldingowych wierszy rendererów nie trafia do pakietu.
+- Wybory: 2 110 opcji w 695 grupach; każda opcja jest pełnoprawnym tekstem do tłumaczenia. 180 ma precyzyjniejszą kategorię `ui_choice`, pozostałe 1 930 `choice_option`.
+- Natywne `401`: 1 513 nie-rendererowych wierszy; wszystkie są pełnoprawnym tekstem do tłumaczenia. Osiem scaffoldingowych wierszy rendererów nie trafia do pakietu.
 - JS: skan statyczny 78 plików, 563 kandydatury, 35 potwierdzonych UI, 528 wykluczeń z jawnym powodem, 0 nierozstrzygniętych.
 - Zmienna-display: 262 statyczne niepuste stringi docierające do widocznych escape’ów, 132 whitespace-only wartości pominięte, 128 kwot/markerów chronionych.
-- Nie obejmuje tekstu w mediach ani zewnętrznych danych runtime; źródła JS/data i fonty nie są kopiowane do repo.
+- Zgodnie z decyzją właściciela nie tłumaczymy tekstu wtopionego w obrazy i wideo. Dynamiczne dane runtime pochodzące z urządzeń/użytkowników są poza statycznym zakresem; oryginalne źródła JS/data i fonty nie są kopiowane do repo.
 
 Eksport można odtworzyć z dostarczonych oryginalnych assetów poleceniem `python3 games/the-genesis-order/tools/export_translation.py`. Oczekuje ono lokalnych, ignorowanych danych w `google_drive/the-genesis-order/` oraz kuratorowanego pliku JS `translation/export-v1/reviewed_js_ui.jsonl`.

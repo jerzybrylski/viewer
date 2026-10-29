@@ -61,10 +61,19 @@ def sha256_bytes(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
+# Keep the canonical ID namespaces already issued in the first source bundle,
+# while using the approved, non-ambiguous categories in current JSONL.
+ID_CATEGORY_NAMESPACE = {
+    "native_message": "native_message_unclassified",
+    "choice_option": "choice_unclassified",
+}
+
+
 def canonical_id(category: str, locator: dict[str, Any]) -> str:
     payload = json.dumps(locator, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
     digest = hashlib.sha256(payload.encode("utf-8")).hexdigest()[:20]
-    return f"tgo:{category}:{digest}"
+    id_category = ID_CATEGORY_NAMESPACE.get(category, category)
+    return f"tgo:{id_category}:{digest}"
 
 
 def pointer(*parts: object) -> str:
@@ -255,10 +264,9 @@ def command_records(
             if is_renderer:
                 renderer_scaffolds.append({"common_event_id": event_id, "command_index": index})
                 continue
-            category = "native_message_unclassified"
-            # Code 401 is rendered as message-window text. Keep semantic subtype
-            # (story, tutorial, notification, or UI) unclassified rather than
-            # withholding a proven visible text surface from localization.
+            category = "native_message"
+            # Every non-renderer command 401 is a player-facing message line
+            # and is fully in translation scope, regardless of narrative/UI role.
             classification = "confirmed_text_surface"
             if source_kind == "common_event" and event_id == KNOWN_PHONE_LIST_EVENT:
                 category, classification = "phone_contact_ui", "confirmed_ui"
@@ -273,7 +281,7 @@ def command_records(
                 **context,
                 "message_block_id": message_block_id,
                 "visibility_evidence": "RPG Maker MV command 401 is rendered in the message window.",
-                "semantic_subtype": "dialogue_tutorial_notification_or_ui_unclassified",
+                "translation_scope": "full_player_facing_text",
             }
             message_structure = {
                 "command_code": code,
@@ -319,7 +327,7 @@ def command_records(
                     "option_index": option_index,
                 }
                 records.append(record(
-                    category="ui_choice" if ui else "choice_unclassified",
+                    category="ui_choice" if ui else "choice_option",
                     status="confirmed_ui" if ui else "confirmed_text_surface",
                     text=text, source_file=source_rel, source_hash=source_hash,
                     locator=locator,
@@ -328,7 +336,7 @@ def command_records(
                              "cancel_type": params[1] if len(params) > 1 else None,
                              "default_type": params[2] if len(params) > 2 else None,
                              "visibility_evidence": "RPG Maker MV command 102 is displayed by the choice window.",
-                             "semantic_subtype": "story_or_ui_choice" if ui else "story_or_ui_unclassified"},
+                             "translation_scope": "full_player_facing_text"},
                     structure={"command_code": code, "option_index": option_index,
                                "option_count": len(options), "choice_group_id": group_id},
                 ))
@@ -644,7 +652,7 @@ def variable_display_records(
                 sink for variable_id in rendered_ids
                 for sink in visible_by_variable[variable_id]
             ],
-            "semantic_subtype": "message_or_choice_value_unclassified",
+            "semantic_subtype": "player_facing_message_or_choice_value",
         }
         if translation_policy:
             context.update({
@@ -901,7 +909,7 @@ def export(out: Path, reviewed_js_path: Path | None = DEFAULT_REVIEWED_JS) -> di
     }
     category_counts = Counter(entry["category"] for entry in all_records)
     choices = [entry for entry in all_records
-               if entry["category"] in {"ui_choice", "choice_unclassified"}]
+               if entry["category"] in {"ui_choice", "choice_option"}]
     phone_script_count = sum(
         entry["category"] == "phone_text"
         and entry["source"]["locator"].get("variable_id") == 25
@@ -922,7 +930,7 @@ def export(out: Path, reviewed_js_path: Path | None = DEFAULT_REVIEWED_JS) -> di
         "phone_script_entries": (phone_script_count, 17),
         "phone_native_401_entries": (phone_native_count, 13),
         "phone_contact_ui_entries": (category_counts["phone_contact_ui"], 378),
-        "native_message_unclassified_entries": (category_counts["native_message_unclassified"], 1122),
+        "native_message_entries": (category_counts["native_message"], 1122),
         "image_caption_entries": (category_counts["image_caption"], 134),
         "variable_display_entries": (category_counts["ui.variable_value"], 262),
         "variable_display_protected_entries": (sum(
@@ -948,12 +956,17 @@ def export(out: Path, reviewed_js_path: Path | None = DEFAULT_REVIEWED_JS) -> di
         "source_data_scope": "RPG Maker MV JSON, Credits.txt, reviewed static JavaScript UI, and statically routed variable-string channels",
         "reviewed_js_ui_records": len(reviewed_js_records),
         "reviewed_js_ui_source_files": len({row["source"]["file"] for row in reviewed_js_records}),
+        "translation_scope_decisions": {
+            "command_401_non_renderer_rows": "all_full_player_facing_text_to_translate",
+            "command_102_choice_options": "all_full_player_facing_text_to_translate",
+            "text_baked_into_images_and_video": "excluded_per_owner_decision",
+        },
         "known_omissions": [
-            "All 2,110 native choice options and 1,122 non-renderer native 401 message rows are exported as confirmed visible surfaces; their semantic subtype (story, tutorial, notification, or UI) is intentionally not guessed.",
+            "All 2,110 command-102 options and all 1,513 non-renderer command-401 rows are full player-facing translation records; the latter comprise 1,122 general messages, 378 phone UI entries, and 13 native phone texts.",
             "Static source audit covered 78 JavaScript files, 563 literal candidates, 35 confirmed UI records, and 528 content-free exclusions; no direct static message/choice/draw sinks were found in event-script code beyond the separately traced channels. Runtime-only text supplied by external devices, user data, or calculated values is not a translatable source literal.",
             "Static command-122 values routed through visible \\V escapes are exported when nonblank (262 records); 132 whitespace-only values are layout placeholders and are intentionally skipped. 128 prices/markers are protected from edits.",
             "Thirty-four item note fields were inspected and contain tag/metadata rather than prose; editor-only labels and non-display metadata remain outside the extraction schema.",
-            "CE224 has 67 statically counted call sites that preload KSPAGE images; its two 401 rows are renderer scaffolds, and 134 static caller values in variables 97/98 are exported as image_caption records. Any text embedded inside the referenced images remains outside the media-free scope.",
+            "CE224 has 67 statically counted call sites that preload KSPAGE images; its two 401 rows are renderer scaffolds, and 134 static caller values in variables 97/98 are exported as image_caption records. Per owner decision, text baked into images or video is outside translation scope.",
             "Lovense device-provided names and nicknames are dynamic external data. Static mode labels PC/LAN/Web are included but protected because they are runtime operands; Not Connected is a translatable UI fallback.",
         ],
         "records": len(all_records),

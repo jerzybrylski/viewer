@@ -20,8 +20,8 @@ Kanoniczny eksport `games/the-genesis-order/translation/export-v1/` ma **45 229 
 | `phone_contact_ui` | 378 | Widoczne pozycje UI listy CE17. |
 | `item_found_label` | 649 | Statyczne etykiety V[107] renderowane przez CE223. |
 | `image_caption` | 134 | Wartości V[97]/V[98] widoczne przez static caller path CE224; media nie są analizowane. |
-| `native_message_unclassified` | 1 122 | Widoczne wiersze 401; semantycznego podtypu nie zgadujemy. |
-| `ui_choice` + `choice_unclassified` | 180 + 1 930 | Wszystkie 2 110 opcji / 695 grup; 180 znanych opcji UI, reszta bez zgadywania fabuła/UI. |
+| `native_message` | 1 122 | Wiersze `401` poza rendererami; pełnoprawny tekst gracza do tłumaczenia. |
+| `ui_choice` + `choice_option` | 180 + 1 930 | Wszystkie 2 110 opcji / 695 grup; całość pełnoprawny tekst gracza do tłumaczenia. |
 | `ui.variable_value` | 262 | Statyczne wartości skryptowe docierające do widocznych `\\V[...]` w wyborach/wiadomościach. |
 | Potwierdzone JS UI | 35 | 4 engine-static, 9 parametrów pluginów, 22 static plugin UI. |
 | Pozostałe dane | 1 166 | Credits (239), nazwy map (291), aktorów (28), przedmiotów (477) i System (131); razem z pozostałymi kategoriami daje pełne 45 229. |
@@ -31,9 +31,9 @@ Uwaga: powyższa tabela łączy kategorie semantycznie; pojedyncze rekordy nie s
 ### Natywne wiadomości i wybory
 
 - Źródłowy census zawiera **1 521** niepustych wierszy `401`. Osiem wierszy to potwierdzone scaffoldingowe teksty rendererów (CE53/60/222/223/224) i nie są osobnymi rekordami do tłumaczenia. Pozostałe **1 513** są w eksporcie: 1 122 ogólne powierzchnie tekstowe, 378 UI telefonu i 13 natywnych pozycji kanału telefonicznego.
-- W eksporcie nie używa się statusu `needs_review` jako wymówki do pominięcia widocznego tekstu. Klasyfikacja `confirmed_text_surface` potwierdza renderowanie, ale dla 1 122 wierszy nie określa, czy są dialogiem, tutorialem, powiadomieniem, czy UI.
-- Wszystkie **695** grup wyboru `102` i **2 110** niepustych etykiet są zachowane z kontekstem/gałęziami. 180 należy do wcześniej rozpoznanych UI/minigier; **1 930** ma nieustalony podtyp, lecz pozostaje w eksporcie jako widoczna powierzchnia.
-- Osiem pominiętych 401 renderer rows jest osobno kontrolowanych w manifeście. CE224 ma 67 statycznie potwierdzonych call sites preładowania obrazów; dwa 401 to renderer scaffolding, a 134 static caller values są eksportowane jako captions. Tekst osadzony w samych obrazach pozostaje poza zakresem.
+- Wszystkie 1 122 nie-rendererowe wiersze `401` są potwierdzonym tekstem wyświetlanym w oknie wiadomości i pełnoprawnym tekstem do tłumaczenia; rodzaj komunikatu nie zmienia zakresu.
+- Wszystkie **695** grup wyboru `102` i **2 110** niepustych opcji są zachowane z kontekstem/gałęziami i pełnoprawnie należą do zakresu tłumaczenia.
+- Osiem pominiętych 401 renderer rows jest osobno kontrolowanych w manifeście. CE224 ma 67 statycznie potwierdzonych call sites preładowania obrazów; dwa 401 to renderer scaffolding, a 134 static caller values są eksportowane jako captions. Zgodnie z decyzją właściciela tekst wtopiony w obrazy i wideo jest poza zakresem tłumaczenia.
 
 ### Zmienne, skrypty i pluginy
 
@@ -69,7 +69,7 @@ Uwaga: powyższa tabela łączy kategorie semantycznie; pojedyncze rekordy nie s
 
 ## Jawne ograniczenia
 
-- 1 122 wiadomości i 1 930 opcji pozostają bez semantycznego podtypu; nie należy nazywać ich wszystkich dialogiem.
-- Tekst w obrazach/audio/wideo, runtime’owe wartości od użytkownika/urządzeń i obliczane liczby nie są statycznymi tekstami źródłowymi.
+- Wszystkie 1 122 wiersze `401` i 1 930 opcji są pełnoprawnym tekstem gracza do tłumaczenia i muszą pozostać w pełnym zakresie.
+- Tekst wtopiony w obrazy i wideo pozostaje poza zakresem na wyraźną decyzję właściciela. Runtime’owe wartości dostarczane przez użytkownika/urządzenia i obliczane liczby nie są statycznymi tekstami źródłowymi.
 - Nie zweryfikowano renderowania polskich glifów, długości, łamania wierszy ani zachowania UI w działającej grze. Przygotowano source ZIP v1 (pełny statyczny eksport z kontekstem, nie patch); nie ma tłumaczenia ani finalnego patcha.
 - Surowe assety nie są śledzone w Git; kanoniczne wyodrębnione JSON-y, dokumentacja, narzędzia i testy są śledzone zgodnie z decyzją właściciela.

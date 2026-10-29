@@ -5,10 +5,10 @@
 ## Wynik bieżący
 
 - Kanoniczny, śledzony w Git eksport: `games/the-genesis-order/translation/export-v1/`, **45 229 rekordów**, 25 JSONL i `export_manifest.json`; wszystkie kontrolne liczniki pokrycia przechodzą.
-- Wcześniejszy `apply_translation.py --check`: **45 229/45 229** rekordów oraz hashe **238** plików źródłowych zweryfikowane, bez zapisu i bez uruchomienia kodu gry. Nie udało się odtworzyć tej kontroli w bieżącej sesji, bo ignorowany `google_drive/the-genesis-order/data/CommonEvents.json` nie jest obecny.
-- Markdown: **497 dokumentów / 45 229 rekordów**. Source ZIP: `google_drive/the-genesis-order/translation/packages/TGO_source_translation_package_v1.zip`; hash w sąsiednim `.sha256`. ZIP integrity OK; assetów źródłowych ani kodu gry nie dołączono.
-- Pakiet obejmuje canonical JSONL, kontekstowy Markdown, instrukcję PL, manifest, glossary/politykę i raport zakresu. To kompletny statyczny pakiet źródłowy z jawnie oznaczonymi niepewnościami, nie patch i nie finalna dystrybucja.
-- Pełne testy przed dodaniem buildera pakietu: **27/27 passed**. Po dodaniu `build_translation_package.py` należy ponownie uruchomić testy i `--check` buildera.
+- `apply_translation.py --check` wcześniej zweryfikował **45 229/45 229** rekordów i hashe **238** plików źródłowych. W bieżącym workspace oryginały nie są zsynchronizowane, ale są na Google Drive (306 plików pod `TGO/www/data/`); brak lokalnego pliku nie oznacza braku uploadu.
+- Markdown: **497 dokumentów / 45 229 rekordów**. Source ZIP: `games/the-genesis-order/translation/packages/TGO_source_translation_package_v1.zip`; archiwum jest śledzone w Git i publikowane na Google Drive w `TGO/translation/packages/`. ZIP nie zawiera assetów źródłowych ani kodu gry.
+- Pakiet obejmuje canonical JSONL, kontekstowy Markdown, instrukcję PL, manifest, glossary/politykę i raport zakresu. To pełny zatwierdzony pakiet statycznych tekstów źródłowych do tłumaczenia, nie patch ani gotowa polska dystrybucja.
+- Pełne testy: **27/27 passed**; builder sprawdza zgodność rekordów, coverage flag i integralność ZIP-a.
 - Pola `translation` są puste. Nie rozpoczęto tłumaczenia, nie zbudowano patchera Windows i nie uruchamiano gry/runtime.
 
 ## Pokrycie
@@ -21,8 +21,8 @@
 | UI listy telefonu CE17 | 378 | Widoczne pozycje UI, nie klasyfikowane jako dialog. |
 | Etykiety znalezionych przedmiotów | 649 | Statyczne wartości V[107] renderowane przez CE223. |
 | Obrazowe podpisy CE224 | 134 | 67 statycznych wywołań; dwie komendy 401 to scaffolding renderera. Tekst w samych obrazach nie jest analizowany. |
-| Natywne wiersze 401 poza rendererami | 1 513 | Wszystkie zachowane jako widoczne powierzchnie: 1 122 bez ustalonego semantycznego podtypu, 378 UI telefonu, 13 natywnych tekstów telefonu. Osiem rendererów pominiętych. |
-| Wybory 102 | 2 110 | 695 grup; 180 znanych opcji UI, 1 930 bez zgadywania podtypu fabuła/UI. |
+| Natywne wiersze 401 poza rendererami | 1 513 | Wszystkie zachowane jako tekst do tłumaczenia: 1 122 wiadomości, 378 UI telefonu, 13 natywnych tekstów telefonu. Osiem rendererów pominiętych. |
+| Wybory 102 | 2 110 | 695 grup; wszystkie opcje to pełnoprawny tekst do tłumaczenia. |
 | Statyczne wartości zmiennych przez `\\V[...]` | 262 | 134 tekstowe/statusowe tłumaczalne; 61 cen + 67 markerów chronionych. 132 whitespace-only wartości pominięte jako layout. |
 | Potwierdzone UI JS | 35 | 4 engine-static, 9 parametrów pluginów, 22 static plugin UI; skan 78 plików: 563 kandydatury, 528 wykluczeń, 0 nierozstrzygniętych. |
 
@@ -36,10 +36,10 @@ Pozostałe kategorie obejmują 239 niepustych linii Credits, 291 nazw map, 28 na
 - Zbadano 34 pola `Items.note`: tagi/metadane, bez prozy. Nazwy assetów, media i editor-only labels nie są źródłowym tekstem pakietu.
 - Lovense: widoczne `PC`/`LAN`/`Web` pozostają chronione jako runtime-operandy, `Not Connected` jest tłumaczalne. Nazwy urządzeń/nicknames to dynamiczne dane zewnętrzne.
 
-## Jawne niepewności i dalsze prace
+## Zakres i dalsze prace
 
-- **1 122** natywne wiersze `401` i **1 930** opcji są potwierdzonymi powierzchniami, ale nie mają przypisanego semantycznego podtypu (dialog/tutorial/powiadomienie/UI). Nie pominięto ich z ZIP-a. Można je dodatkowo sklasyfikować przed przydziałem tłumaczom, jeśli właściciel tego wymaga.
-- Tekst osadzony w obrazach/audio/wideo, runtime’owe nazwy urządzeń/użytkowników i obliczane liczby nie są statycznymi źródłami lokalizacyjnymi.
+- Wszystkie **1 122** nie-rendererowe wiersze `401` i **1 930** opcji są pełnoprawnymi tekstami widocznymi dla gracza i w całości należą do zakresu tłumaczenia.
+- Tekst wtopiony w obrazy i wideo jest poza zakresem na wyraźną decyzję właściciela. Runtime’owe nazwy urządzeń/użytkowników i obliczane liczby są danymi dynamicznymi, nie statycznymi źródłami lokalizacyjnymi.
 - Źródłowy język i konkretny build nie są formalnie potwierdzone. Nie ma polskiej zwrotki, testów fontów/łamania w runtime, instalatora ani patcha.
 - ZIP v1 to source package; nie zmienia gry i nie jest finalną paczką spolszczenia. Oryginalne assety/staging pozostają ignorowane; JSONL, dokumentacja i narzędzia są śledzone w Git.
 
