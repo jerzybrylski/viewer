@@ -60,10 +60,10 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 
 ## R-06 — `He’s going to be` → „Będzie”
 
-- **Stan (POTWIERDZONE, kolejność sprawdzona w evencie):** to **pierwsza** z dwóch linii wiadomości w wątku `M. Deluna` — kolejno „He’s going to be<br>” → **„Będzie<br>”** i „pissed, ya know?” → „Wkurzony, kumasz?”. Razem czytają się jako „Będzie wkurzony, kumasz?”.
+- **Stan (POTWIERDZONE, kolejność sprawdzona w evencie):** to **pierwsza** z dwóch linii wiadomości w wątku `M. Deluna` — kolejność komend 430 → 431: „He’s going to be<br>” → **„Będzie<br>”**, a zaraz po niej „pissed, ya know?” → „Wkurzony, kumasz?”. Razem czytają się jako „Będzie wkurzony, kumasz?”.
 - **Alternatywa:** „On będzie” (bliżej składni angielskiej, ale w polskim zaimka się nie powtarza).
 - **Do decyzji:** A) „Będzie” (stan obecny), B) „On będzie”.
-- **Uwaga:** linia jest dzielona między dwa rekordy — przy zmianie trzeba zachować spójność z **następnym** fragmentem („Wkurzony, kumasz?”), bo razem tworzą jedno zdanie.
+- **Uwaga:** linia jest dzielona między dwa rekordy — przy zmianie trzeba zachować spójność z fragmentem **następnym** w kolejności renderowania („Wkurzony, kumasz?”), bo razem tworzą jedno zdanie. „On będzie” też się wtedy czyta poprawnie; wybór jest stylistyczny.
 
 ## R-07 — Placeholdery mapy testowej — **ROZSTRZYGNIĘTE: wariant B (przywrócone angielskie)**
 
