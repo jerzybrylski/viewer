@@ -56,4 +56,10 @@ Eksport można odtworzyć z dostarczonych oryginalnych assetów poleceniem `pyth
 
 `tools/merge_translation_batches.py` łączy niepełne zwrotki z całym źródłowym eksportem po ID. Weryfikuje niezmienność wszystkich pozostałych pól, tokeny oraz konflikty, zapisuje tylko nowy plik pod `translation/` lub `google_drive/` i raportuje nieprzetłumaczone rekordy (chronione liczone oddzielnie). Nie czyta oryginalnych assetów i nie zastępuje `apply_translation.py --check`.
 
+### Znane ograniczenie sygnatury v1: tag bez argumentu przed tekstem
+
+`TOKEN_RE` traktuje `\<słowo>` jako tag razem z opcjonalnym argumentem w nawiasach. Tag bez argumentu zapisany bezpośrednio przed treścią — `\fbCraft this item?` — trafia więc do `markup_tokens` jako `\fbCraft`, a polska wersja (`\fbWytworzyć przedmiot?`) daje token `\fb` i jest odrzucana przez `validate_record` („Markup/token mismatch”). Dotyczy to 94 rekordów `native_message` na mapie `Crafting` (Map 46) i niczego więcej w całym eksporcie.
+
+Wariant v2 (`tools/markup_signature.py`, `tokens_v2`) rozdziela jawnie zdefiniowaną listę tagów bez argumentu — obecnie wyłącznie `\fb` — od następnego słowa. Różni się od v1 wyłącznie na tych 94 rekordach. Gotowe zwrotki leżą w [`../pending/`](../pending/README.md) i czekają na decyzję właściciela (ADR 002); do tego czasu walidator pozostaje bez zmian.
+
 Sygnatura `markup_tokens` eksportu v1 pozostaje bez zmian dla zgodności. Import Markdown i `apply_translation.py` dodatkowo porównują RPG Maker escape’y interpunkcyjne oraz parametry pozycyjne `%1`, `%2` itd., których wcześniejsza sygnatura nie uwzględniała. `--require-complete` dopuszcza puste chronione wartości `keep_source_value`, ale działa tylko na dostarczonych rekordach: samo sprawdzenie niepełnej partii nie dowodzi kompletności całego eksportu.

@@ -68,6 +68,13 @@ class MergeTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, 'canonical source export'):
                 merger.merge_batches(self.canonical, [self.batch], tracked / 'export-v1/merged.jsonl', self.root / 'private')
 
+    def test_nested_batch_folders_are_found(self):
+        nested = self.root / 'drafts' / 'hints'
+        nested.mkdir(parents=True)
+        self.write(nested / 'nested.jsonl', [dict(self.row, translation='Przedmiot %1')])
+        self.assertEqual(merger.merge_batches(self.canonical, [self.root / 'drafts'],
+                                              self.out, self.root / 'private')['with_translation'], 1)
+
     def test_reject_output_outside_private_root(self):
         self.write(self.batch, [self.row])
         with self.assertRaisesRegex(ValueError, 'under the translation workspace'):

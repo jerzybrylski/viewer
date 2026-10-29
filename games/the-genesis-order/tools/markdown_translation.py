@@ -62,10 +62,16 @@ def read_jsonl(paths: Iterable[Path]) -> list[dict[str, Any]]:
 
 
 def input_paths(path: Path) -> list[Path]:
+    """Every JSONL file for a path, including nested batch folders.
+
+    Older batches live in ``translation/drafts/hints/`` and
+    ``translation/drafts/ui-01/``; a non-recursive glob silently skipped them and
+    made full merges under-report coverage.
+    """
     if path.is_file():
         return [path]
     if path.is_dir():
-        paths = sorted(path.glob("*.jsonl"))
+        paths = sorted(path.rglob("*.jsonl"))
         if paths:
             return paths
     raise FileNotFoundError(f"No JSONL input found at {path}")
