@@ -1,6 +1,6 @@
 # Handoff dla kolejnego agenta — The Genesis Order
 
-Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Istnieje pierwsza robocza partia UI, ale patcha gry jeszcze nie ma.
+Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Istnieją robocze partie UI oraz trzy partie wskazówek Arianny; patcha gry jeszcze nie ma.
 
 ## Stan repo i artefaktów
 
@@ -9,8 +9,8 @@ Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Istni
 - Source ZIP v1: `games/the-genesis-order/translation/packages/TGO_source_translation_package_v1.zip`; ZIP i `.sha256` są śledzone w Git. Identyczny ZIP umieszczono na Google Drive w `TGO/translation/packages/`.
 - ZIP obejmuje canonical JSONL, kontekstowy Markdown (497 dokumentów), instrukcję PL, manifest, glossary/politykę i raport zakresu. Nie zawiera oryginalnych assetów ani kodu gry.
 - Oryginalne źródła są dostępne na Google Drive: folder `TGO/www/data/` zawiera 306 plików, w tym `CommonEvents.json`. W bieżącym workspace źródła nie są zsynchronizowane do lokalnego ignorowanego `google_drive/`; nie prosić właściciela o ponowny upload. Przy potrzebie ponownego hashowania źródeł pobrać/synchronizować je z Drive.
-- Pełne `unittest`: 27/27; Markdown import-check: 45 229 rekordów, 0 brakujących ID; builder source ZIP sprawdza manifest coverage, zgodność liczby rekordów, unikalność ID i integralność archiwum.
-- Nie uruchamiano gry ani kodu gry. W source ZIP i kanonicznym eksporcie pola `translation` są puste; pierwsza zwrotka robocza jest osobna.
+- Pełne `unittest` uruchomione w tej sesji: **35/35 passed**. Wcześniejszy Markdown import-check zweryfikował 45 229 rekordów i 0 brakujących ID; builder source ZIP sprawdza manifest coverage, zgodność liczby rekordów, unikalność ID i integralność archiwum.
+- Nie uruchamiano gry ani kodu gry. W source ZIP i kanonicznym eksporcie pola `translation` są puste; osobne drafty zawierają UI (130 rekordów, 127 niepustych tłumaczeń) i 135 wskazówek w trzech partiach.
 
 ## Zatwierdzony zakres i liczniki
 
@@ -23,7 +23,7 @@ Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Istni
 
 ## Następne zadania
 
-1. Kontynuować tłumaczenie po stabilnym `id`. Wszystkie dotychczasowe partie są w śledzonym `translation/drafts/` (UI 130 rekordów i 100 wskazówek; 227 niepustych pól); Drive to tylko kopia. Scalaj narzędziem `tools/merge_translation_batches.py`, wykrywaj konflikty i nie nadpisuj pracy. Do tłumaczenia pozostaje 44 871 rekordów, 131 wartości jest chronionych.
+1. Kontynuować tłumaczenie po stabilnym `id`. Wszystkie partie są w śledzonym `translation/drafts/` (UI: 130 rekordów / 127 niepustych; wskazówki: 135 rekordów w trzech partiach; 262 niepuste pola łącznie); Drive to tylko kopia. Scalaj narzędziem `tools/merge_translation_batches.py`, wykrywaj konflikty i nie nadpisuj pracy. Pozostaje 44 836 tłumaczalnych pól, a 131 wartości jest chronionych.
 2. Nie zmieniać ID, locatorów, source hashes, `source_text` ani tokenów. Zachować wszystkie rekordy `keep_source_value` dokładnie.
 3. Po tłumaczeniu uruchomić Markdown import-check i `apply_translation.py --check`; rozliczyć braki, duplikaty, tokeny i konflikty.
 4. Ustalić docelowy build/layout i zaprojektować patcher Windows z backupem/rollbackiem; testować najpierw na kopiach syntetycznych.

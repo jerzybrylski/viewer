@@ -4,7 +4,7 @@ Każda visual novel ma własny katalog `games/<slug>/`. Statusy opisują dowody 
 
 | Tytuł | Slug | Status | Następny krok |
 |---|---|---|---|
-| The Genesis Order | [`the-genesis-order`](games/the-genesis-order/README.md) | **Statyczny eksport 45 229 rekordów; source ZIP v1 śledzony w Git i publikowany na Google Drive** | Ustalić terminologię/glossary, rozpocząć tłumaczenie pełnego zatwierdzonego zakresu; patcher później. |
+| The Genesis Order | [`the-genesis-order`](games/the-genesis-order/README.md) | **Statyczny eksport 45 229 rekordów; source ZIP v1 śledzony w Git i publikowany na Google Drive** | Kontynuować tłumaczenie partiami po ID, rozwijać glosariusz i redagować drafty; patcher po tłumaczeniu. |
 | Being a DIK | [`being-a-dik`](games/being-a-dik/README.md) | **Pełny statyczny census 158 skryptów `scripts.rpa` (Season 1) gotowy; kandydat niezatwierdzony** | Osobno zinwentaryzować UI/pozostałe teksty telefonu, przygotować branch-aware Czytankę i porównać zakresy. |
 | Undercover with Nora | [`undercover-with-nora`](games/undercover-with-nora/README.md) | **Statyczny licznik dialogów gotowy dla przesłanej kopii v1.0.0; kandydat niezatwierdzony** | Osobno zinwentaryzować UI/screeny, a w razie wyboru przygotować branch-aware Czytankę i QA zakresu. |
 
