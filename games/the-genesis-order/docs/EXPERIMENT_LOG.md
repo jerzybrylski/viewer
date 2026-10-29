@@ -240,3 +240,10 @@
 - Domknięto wskazane kontrole Map 41: pytanie „Isn’t mouth and bottom… Isn’t it still sex?” ma spójną polską formę „Seks ustami i tyłkiem… Czy to nadal seks?”, a kwestię o ciężkiej pracy i ciele poprawiono na naturalne „Tak działa ciężka praca. Nie mam na sobie ani grama tłuszczu…”. Builder Map 41 ponownie wygenerował 302 rekordy.
 - Audyt wszystkich 4 373 draftów potwierdził unikalne ID, brak nakładania z niepustymi tłumaczeniami step11, zgodność metadanych z kanonicznym eksportem, niepuste i przycięte tłumaczenia oraz poprawność markup/control. `python3 -m unittest discover -s games/the-genesis-order/tests -q`: **35/35 passed**; nowe buildery przechodzą `py_compile`.
 - Step11 pozostaje ostatnim pełnym scaleniem (20 610 tłumaczeń; SHA-256 `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`). Kanoniczny eksport i source ZIP v1 nie zmieniono; nie scalano nowych partii, nie uruchamiano gry/runtime i nie tworzono patcha. Wszystkie tłumaczenia wymagają redakcji.
+
+
+## 2026-10-29 — Map 44 mansion follow-ups
+
+- Dodano **203** osobne drafty z sześciu eventów Map 44: 27 (73), 102 (31), 93 (28), 24 (24), 25 (24) i 51 (23). Łączny przyrost po step11 wynosi **4 576 rekordów w 68 plikach**; z step11 daje to 25 186 niepustych tłumaczeń, a do celu 30 610 pozostają 5 424.
+- Audyt tych rekordów i wszystkich wcześniejszych draftów potwierdził unikalne ID, brak nakładania z niepustymi tłumaczeniami step11, zgodność metadanych kanonicznych oraz poprawność markup/control. Wszystkie partie pozostają rozdzielone i niescalone.
+- Step11 nadal jest ostatnim pełnym merge (20 610 tłumaczeń; SHA-256 `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`). Eksport kanoniczny i source ZIP v1 bez zmian; nie uruchamiano gry/runtime i nie tworzono patcha.
