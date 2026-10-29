@@ -1,0 +1,56 @@
+## Common Event 439 — SCN - Ella Andrea Mansion
+
+**Ella:** Jestem gotowa odrobić straty… panno Stone.  
+**Andrea:** Możesz mówić mi Andrea Kimura.  
+**Mox:** Cholera, Ello. Zaryzykowałaś wszystko, co?  
+**Ella:** Oczywiście… Ale czy pani Kimura też zaryzykuje wszystko?  
+**Andrea:** Najpierw Nellie, a teraz Ella… Trafiam na same najlepsze dziewczyny.  
+**Andrea:** Co myślisz, kochanie? Zebraliśmy najseksowniejszą ekipę?  
+**Mox:** Łał! Trudno się z tym nie zgodzić.  
+**Ella:** Mamy puścić Mox płazem?  
+**Andrea:** Nie ma mowy.  
+**Andrea:** Bardzo ci zaufałam, Mox.  
+**Mox:** Widziałem różne rzeczy, Andreo… Wiem, kim jesteś.  
+**Andrea:** A teraz stoimy tu… z twoim kutasem w mojej cipce.  
+**Mox:** Co mam powiedzieć?... Jaki mam wybór?  
+**Andrea:** Będę cię chronić, Mox… Zaufaj mi, tak jak ja zaufałam tobie.  
+**Mox:** A co z Nellie? Chce odejść… Chce być z córką.  
+**Andrea:** Nellie sama zdecyduje.  
+**Mox:** Czy ma jakiś wybór?  
+**Andrea:** Każdy ma wybór, Mox.  
+**Ella:** Nie mam pojęcia, o czym wy dwoje, do cholery, mówicie, ale podoba mi się ten nowy układ.  
+**Andrea:** Nie wiesz? Przecież jestem komisarzem policji.  
+**Ella:** A Mox jest detektywem… Jasne… Macie swoich ludzi w środku.  
+**Mox:** Nie należę do Gildii.  
+**Andrea:** Nie myślmy o tym jak o Gildii… Stworzymy własną organizację, na naszych zasadach.  
+**Ella:** O tak, kurwa!  
+**Mox:** W co ja się wpakowałem?...  
+**Mox:** Ale te cipki… Jestem tylko zwykłym facetem.  
+**Mox:** Taka ciasna… Taka seksowna.  
+**Andrea:** Uważaj, dziewczyno. Jeszcze się w nim zakochasz.  
+**Ella:** Och, na to już za późno… Ale teraz sprawię, że ty zakochasz się we mnie.  
+**Andrea:** A jak zamierzasz to zrobić?  
+**Ella:** Nauczyłam się czegoś w branży kamerkowej.  
+**Andrea:** Ach! Co do cholery!  
+**Ella:** Trzy, dwa, jeden…  
+**Andrea:** Niesamowite! To ciśnienie we mnie! Jest takie silne!  
+**Mox:** Cholera! Ściska mi kutasa jak w imadle!  
+**Ella:** Zerżnij ją! Wyrżnij ją porządnie!  
+**Andrea:** Tak! Tak! Pieprz mnie!  
+**Mox:** O Boże! Ale intensywnie!  
+**Ella:** Tą ciasną cipką zaraz złamiesz mi nadgarstek!  
+**Andrea:** Zaraz dojdę!  
+**Ella:** Przygotuj się, Mox… Twój kutas zaraz przejdzie przez piekło!  
+**Mox:** Kurwa!  
+**Andrea:** O cholera! Jak to zrobiłaś?  
+**Ella:** Dużo ćwiczyłam, pani Kimura.  
+
+> **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+**Wybór gracza:**
+- Zakończ
+- [ikona 2]1
+- [ikona 2]2
+- [ikona 2]3
+
+<sub>Źródłowe ID (przykłady): tgo:choice_unclassified:2e28c02caee3e368d9a7, tgo:choice_unclassified:020388b1660442e449f3, tgo:choice_unclassified:bc9895b6734edcb41715, tgo:choice_unclassified:0b6278b02fdd68547756, tgo:custom_dialogue:0aba7481f026889f20d4, tgo:custom_dialogue:5eaf4383335a6e3b7dff, tgo:custom_dialogue:6b72509d180b48abe8cc, tgo:custom_dialogue:2c07fa4c5a771c36ce5f</sub>

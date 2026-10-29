@@ -2,7 +2,7 @@
 
 ## Stan
 
-Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-v1/`. Kanoniczny eksport źródłowy pozostaje bez zmian. Rozpoczęto roboczą partię UI w `translation/drafts/ui-01/`: 127 niepustych pól w 130 rekordach; 3 chronione wartości pozostają puste. Source ZIP v1 jest śledzony w `games/the-genesis-order/translation/packages/` i dostępny na Google Drive; patcher nie został zbudowany.
+Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-v1/` i pozostaje bez zmian. Wszystkie 427 draftów scalają się bez konfliktów: 39 917 niepustych tłumaczeń, 131 jawnie chronionych wartości, 5 181 zachowane rekordy nielokalizowalne i 0 nierozstrzygniętych rekordów do tłumaczenia. Audyt nie wykazał dalszych zwykłych fraz gracza do tłumaczenia; pozostałe ryzyka to redakcja i testy wyświetlania. Source ZIP v1 jest pakietem źródłowym; osobno zbudowano patch POC oraz Czytankę v1. Żaden artefakt nie został zweryfikowany w Windows/runtime.
 
 ## Zasady wejściowe
 
@@ -19,7 +19,7 @@ Eksport źródłowy znajduje się w `games/the-genesis-order/translation/export-
 
 - Odrzucone partie `map*-auto-01` (5 664 `custom_dialogue` + 1 293 pozostałych kategorii + 243 `noalpha` = **7 200 draftów**, commit `5539dc3`) jako tłumaczenie maszynowe bez zgody; zrewertowane `440217e` (`D156`, zachowano 3 pliki `1Hero`).
 - Obowiązuje tryb: **„Tak, kontynuuj tłumaczenie w pełni LLMowo, bez żadnych automatów. Wolno, ale dokładnie, z korektą.”** — każdy rekord tłumaczony przez LLM z uwzględnieniem mapy/eventu/mówcy i sąsiednich kwestii, z korektą, z zachowaniem `1Hero` i glosariusza (Toma/Anachorismos/Daemalius/Lilith) oraz terminologii projektu.
-- Buildery `translation/.build-*.py` muszą zawierać tłumaczenia LLM (nie generowane słownikowo), filtrować `known` + `keep_source_value` + `/^` + `noalpha`, odmawiać nadpisu (`Refusing` jeśli OUTPUT istnieje), wymagać `len==exact` + `validate 0` + `py_compile OK` + `36/36 unittest`.
+- Buildery `translation/.build-*.py` muszą zawierać tłumaczenia LLM (nie generowane słownikowo), filtrować `known` + `keep_source_value` + `/^` + `noalpha`, odmawiać nadpisu (`Refusing` jeśli OUTPUT istnieje), wymagać `len==exact` + `validate 0` + `py_compile OK` + pełnego przejścia aktualnego zestawu `unittest`.
 - Naruszenie zasady (użycie automatu dla przyspieszenia do 45 000) wymaga natychmiastowego revertu, niezależnie od liczby. Aspiracja 45 000 realizowana wyłącznie przez LLM.
 - Dowód i data: decyzja ustna 2026-10-29, wpisana do `AGENTS.md` / `docs/TRANSLATION_POLICY.md` / `games/the-genesis-order/AGENTS.md` i ADR poniżej; partia MT oznaczona w `EXPERIMENT_LOG.md` jako odrzucona.
 

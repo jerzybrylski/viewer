@@ -1,0 +1,59 @@
+# Indeks postaci i mówców — PL
+
+Zestawienie wynika wyłącznie z jawnych nagłówków/etykiet mówcy w rekordach. Liczba oznacza widoczne kwestie w Czytance, nie unikalne linie fabularne.
+
+- **Alia** — 189 kwestii.
+- **Amulet H.** — 35 kwestii.
+- **Andrea** — 1271 kwestii.
+- **Arianna** — 1093 kwestii.
+- **Bobby** — 439 kwestii.
+- **Brian** — 1121 kwestii.
+- **Carol** — 1459 kwestii.
+- **Chloe** — 1731 kwestii.
+- **Daemalius** — 23 kwestii.
+- **David** — 243 kwestii.
+- **Demon 1** — 61 kwestii.
+- **Demon 2** — 59 kwestii.
+- **Demon 3** — 61 kwestii.
+- **Demon Judy** — 18 kwestii.
+- **Diana** — 318 kwestii.
+- **Drab** — 80 kwestii.
+- **Duncan** — 330 kwestii.
+- **Ella** — 1287 kwestii.
+- **Erica** — 1641 kwestii.
+- **Evie** — 103 kwestii.
+- **Funkcjonariusz A** — 124 kwestii.
+- **Funkcjonariusz B** — 58 kwestii.
+- **Funkcjonariusz C** — 56 kwestii.
+- **Hannah** — 1688 kwestii.
+- **Heather** — 1397 kwestii.
+- **Henry** — 354 kwestii.
+- **Jon** — 360 kwestii.
+- **Judy** — 1817 kwestii.
+- **Kimberly** — 947 kwestii.
+- **Kobieta-popleczniczka** — 48 kwestii.
+- **Larry** — 165 kwestii.
+- **Lilith** — 77 kwestii.
+- **Lillian** — 891 kwestii.
+- **Madalyn** — 164 kwestii.
+- **Melissa** — 1421 kwestii.
+- **Mox** — 14599 kwestii.
+- **Mówca nieustalony (Ba)** — 2 kwestii — etykieta nieustalona; nie przypisano jej postaci.
+- **Mówca nieustalony (Bn)** — 2 kwestii — etykieta nieustalona; nie przypisano jej postaci.
+- **Mówca nieustalony (Ec)** — 1 kwestii — etykieta nieustalona; nie przypisano jej postaci.
+- **Mówca nieustalony (Ha)** — 2 kwestii — etykieta nieustalona; nie przypisano jej postaci.
+- **Mówca nieustalony (Ma)** — 1 kwestii — etykieta nieustalona; nie przypisano jej postaci.
+- **Narrator / mówca nieustalony** — 825 kwestii — etykieta nieustalona; nie przypisano jej postaci.
+- **Nellie** — 960 kwestii.
+- **Ochrona** — 65 kwestii.
+- **Oprych 1** — 38 kwestii.
+- **Oprych 2** — 55 kwestii.
+- **Paul** — 205 kwestii.
+- **Postać niezależna** — 538 kwestii.
+- **Prawnik** — 12 kwestii.
+- **Simon** — 55 kwestii.
+- **Smithfield** — 24 kwestii.
+- **Sędzia** — 81 kwestii.
+- **Tasha** — 650 kwestii.
+- **Wzmocniony sługa** — 8 kwestii.
+- **Zakapturzona postać** — 211 kwestii.

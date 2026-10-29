@@ -1,43 +1,85 @@
-# Handoff dla kolejnego agenta — The Genesis Order
+# Handoff — The Genesis Order PL
 
-Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Ostatnie zweryfikowane scalenie step11 obejmuje 20 610 niepustych tłumaczeń z 45 229 rekordów. Po step11 dodano **12 661 świeżych, unikalnych, ale niescalonych draftów w 110 osobnych plikach**, co daje projekcję **33 271**. Bieżąca aspiracja to 45 000, lecz wolno wypełniać i liczyć wyłącznie tekst faktycznie widoczny dla gracza; etykiety techniczne i tokeny sterujące pozostają nietłumaczone. Wcześniejszy teoretyczny pułap wynosi 41 356 (wobec obecnego stanu najwyżej 8 085 dalszych kwalifikujących się rekordów), więc akceptowalne jest zakończenie poniżej celu. Wszystkie partie są robocze i wymagają redakcji; patcha gry jeszcze nie ma.
+Stan: 2026-10-30. Statyczne tłumaczenie wszystkich kwalifikujących się rekordów oraz oba wskazane milestone’y są zbudowane. Patch **działa w grze** (POTWIERDZONE przez właściciela 2026-10-29 i ponownie 2026-10-30 na bieżącej paczce: polskie znaki, opcje PL, poprawne zawijanie). To nadal proof of concept w zakresie QA treści: nie ma pełnego przejścia gry, testu save/load ani weryfikacji na innych buildach. Nie uruchamiać kodu gry ani nie nadpisywać instalacji użytkownika.
 
-## Stan repo i artefaktów
+> **Najpierw przeczytaj [`RECOVERY_2026-10-29.md`](RECOVERY_2026-10-29.md).** Praca poprzedniego agenta nie była w Git i została odzyskana z patcha i ZIP-ów; tam jest metoda, hashe i dowody spójności. Nie powtarzaj odzyskiwania.
 
-- Pracuj na gałęzi bieżącej sesji Arena; nie zmieniaj gałęzi.
-- Kanoniczny eksport: `games/the-genesis-order/translation/export-v1/`, 45 229 rekordów, 25 JSONL + manifest. Wszystkie wiersze `401` poza rendererami oraz wszystkie opcje `102` są zatwierdzone jako pełnoprawny tekst gracza do tłumaczenia.
-- Source ZIP v1: `games/the-genesis-order/translation/packages/TGO_source_translation_package_v1.zip`; ZIP i `.sha256` są śledzone w Git. Identyczny ZIP umieszczono na Google Drive w `TGO/translation/packages/`.
-- ZIP obejmuje canonical JSONL, kontekstowy Markdown (497 dokumentów), instrukcję PL, manifest, glossary/politykę i raport zakresu. Nie zawiera oryginalnych assetów ani kodu gry.
-- Oryginalne źródła są dostępne na Google Drive: folder `TGO/www/data/` zawiera 306 plików, w tym `CommonEvents.json`. W bieżącym workspace źródła nie są zsynchronizowane do lokalnego ignorowanego `google_drive/`; nie prosić właściciela o ponowny upload. Przy potrzebie ponownego hashowania źródeł pobrać/synchronizować je z Drive.
-- Pełne `unittest` uruchomione w tej sesji: **36/36 passed**, w tym test najnowszych piętnastu partii dialogowych. Wcześniejszy Markdown import-check zweryfikował 45 229 rekordów i 0 brakujących ID; builder source ZIP sprawdza manifest coverage, zgodność liczby rekordów, unikalność ID i integralność archiwum.
-- Nie uruchamiano gry ani kodu gry. Source ZIP i kanoniczny eksport pozostają źródłowe; partie do step11 zawierają UI, 705 wskazówek, wybory, powtarzalny dialog, 20 scen common events (1 922 wiersze), 15 Common Events ze step10 (1 014), Common Event 25 (304), 50 nowych follow-upów Common Events ze step11 (2 730), Map 20 (985), Map 31 (700), Map 3 (728), Map 24 (168), Map 23 (219), Map 116 (135) i Map 9 (101) oraz pozostałe kategorie. Pełny scalony stan: `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step11.jsonl` (ignorowany artefakt): 20 610 niepustych, 131 chronionych i 24 488 oczekujących; SHA-256 `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`. Po step11 dodano dotąd **12 661 draftów w 110 plikach**. Pierwsza partia 5 004 obejmuje Map 9/23/24/116 (1 001), Map 41/55 (557), Map 44 (203), Map 82 (328), Map 54 (370), Map 6 (230), Map 26 (359) i Common Events (1 956 w 57 eventach); druga partia 5 136 obejmuje Mapy 201/15/157/16/144/13/4/21/33/141/11/76/62/49/78/30/28/125/27/32/87. Ostatnie 2 521 to cztery partie Common Events (792), Map 12 (140), Map 19 (185), Map 25 (148), Map 34 (143), Map 52 (135), Map 61 (156), Map 94 (139), Map 101 (142), Map 114 (178), Map 151 (192) i Map 203 (171); wszystkie 792 zinwentaryzowane naturalne wiersze Common Events są już opracowane. Roboczy podzbiór map ma teraz 6 549 kandydatów, ale nie wszystkie muszą być tekstem gracza. Lista plików i ID znajduje się w `translation/drafts/README.md`. Wszystkie partie są osobne i niescalone; nie traktować ich jako część licznika step11.
+## Stan i liczby
 
-## Zatwierdzony zakres i liczniki
+- Kanoniczny eksport `translation/export-v1/`: **45 229** rekordów; pozostaje źródłem i nie jest modyfikowany przez merge.
+- Wszystkie **427** partii draftów scalają się bez konfliktów: **39 917** niepustych tłumaczeń, **131** jawnie chronionych wartości, **5 181** zachowane rekordy nielokalizowalne, **0** nierozstrzygniętych tłumaczalnych rekordów.
+- Pełne testy: `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **144/144 OK**.
+- Scalenie draftów odtwarza bajt w bajt `payload/translations.jsonl` z patcha POC (SHA-256 `8c926724c35413b6b3ab4a5cfbda5c06b4332ed03be7e5d20f47c9adfd7c0722`) — nic nie istnieje tylko w ZIP-ie.
+- Tekst wtopiony w obrazy/wideo pozostaje poza zakresem. Zachowuj stabilne ID, source, kontekst, tokeny i `keep_source_value`; tłumaczenia słownikowe/statystyczne są zabronione — stosuj kontekst sceny i ADR projektu.
 
-- Wszystkie **1 122** nie-rendererowe wiersze `401` są pełnoprawnym tekstem widocznym dla gracza i do tłumaczenia.
-- Wszystkie **2 110** opcji `102` w **695** grupach są pełnoprawnym tekstem widocznym dla gracza i do tłumaczenia; decyzja właściciela zatwierdza pełne włączenie ich do zakresu.
-- Łącznie 1 513 nie-rendererowych `401`: 1 122 wiadomości + 378 UI telefonu + 13 natywnych tekstów telefonu; osiem renderer scaffolds jest pominiętych.
-- JS: 78 plików, 563 kandydatury = 35 potwierdzonych UI, 528 wykluczeń z jawnym powodem, 0 nierozstrzygniętych.
-- Pozostałe główne kategorie: CE60 38 638; Arianna hints 705; CE223 649; CE224 captions 134; wartości przez `\\V[...]` 262 (z czego ceny/markery chronione); 131 chronionych rekordów `keep_source_value` łącznie.
-- Zgodnie z decyzją właściciela tekst wtopiony w obrazy i wideo nie jest tłumaczony. Dynamiczne dane runtime, np. nazwy urządzeń/użytkowników, nie są statycznymi stringami gry.
+## Rodzaj gramatyczny (2026-10-30)
 
-## Następne zadania
+Właściciel zgłosił z gry, że „tłumaczenie nie trzyma rodzajów”: Judy mówi o sobie po męsku, bohater mówi o niej po męsku. To był skutek metody — drafty powstawały bez wiedzy o mówcy. `tools/fix_grammatical_gender.py` ustawia rodzaj i jest już **wykonany na korpusie**: **618 rekordów / 679 form / 229 plików** (536 form 1. osoby z czasownikami, 21 „bym”, 116 form 2. osoby, 5 „byś”, 1 „sam/sama”); drugi przebieg daje 0 zmian. Stan: **0** kwestii kobiecych z męską pierwszą osobą i **0** męskich z żeńską.
 
-1. Cel +10 000 po step11 został już przekroczony; obecnie jest 33 271 unikalnych niepustych tłumaczeń i 12 661 nowych draftów po step11. Kontynuować ku aspiracyjnym 45 000 wyłącznie przez faktyczny tekst widoczny dla gracza; nie wypełniać technicznych etykiet, statusów ani tokenów sterujących, a w razie potrzeby zaakceptować niższy wynik. Roboczy podzbiór naturalnego dialogu map pozostawia 6 549 kandydatów; weryfikować tekst przed tłumaczeniem. Redagować/QA drafty po stabilnym `id`; wszystkie pliki są zestawione w `translation/drafts/README.md`. Sensowny dialog Map 20, Map 31 i Map 3 jest już pokryty. Aktualne zamienniki wcześniejszych partii to `inventory-names-02`, `native-messages-03` i `phone-contact-ui-02`; `inventory-names-02` zawiera map labels, więc nie dodawać osobno `map-labels-01`. Zachować konfliktochronne narzędzie `tools/merge_translation_batches.py` na późniejsze, jawnie zatwierdzone scalenie.
-2. Nie zmieniać ID, locatorów, source hashes, `source_text` ani tokenów. Zachować wszystkie rekordy `keep_source_value` dokładnie.
-3. Po tłumaczeniu uruchomić Markdown import-check i `apply_translation.py --check`; rozliczyć braki, duplikaty, tokeny i konflikty.
-4. Ustalić docelowy build/layout i zaprojektować patcher Windows z backupem/rollbackiem; testować najpierw na kopiach syntetycznych.
-5. ZIP patcha/finalnej polskiej dystrybucji jest osobną bramką. Source ZIP v1 zawiera tekst źródłowy, nie tłumaczenie ani patch.
+Zasady, których nie wolno „poprawiać” w drugą stronę: pierwsza osoba bierze płeć mówcy z `custom_header`; druga osoba — płeć adresata, ale tylko przy jednoznacznej obsadzie sceny; narrator i mówca nieznany nie są adresatami; trzecia osoba nie jest ruszana automatycznie (coreferencja). Reszta jest w `translation/reports/gender_fix_v1.json` → `residual` i w [`GENDER_AUDIT.md`](GENDER_AUDIT.md): 169 kwestii bez mówcy z 1. osobą, 2 122 z 2. osobą bez dowodu adresata w zdaniu, 192 „sam/sama”, 50 zdań z 3. osobą do przeglądu. To materiał do QA w grze, nie do automatycznej zmiany.
 
-## Odtworzenie artefaktów
+## Gotowe artefakty
+
+1. **Standalone patch POC:** `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`, SHA-256 `e647f76efdc72d90e4b137020702dcda9d91eee08f311e392a8c04899abb1ae0`. Manifest i fingerprinty 238 plików źródłowych są też w repo jako `translation/reports/patch_manifest_v0.1.1.json` i `translation/reports/source_fingerprints_v0.1.1.json` — to jedyna kopia, której nie da się odtworzyć bez oryginałów gry, więc nie usuwaj jej. Zawiera 39 917 tłumaczeń, fingerprinty 238 źródeł, backup/restore i one-click patcher; nie zawiera plików gry. Patcher nie wymaga podawania ścieżki: `APPLY.bat`/`COFNIJ.bat` uruchamiają `patcher.py` bez argumentów, a `patcher/locator.py` pamięta ostatnią instalację, przeszukuje biblioteki Steam i typowe foldery gier, przy kilku trafieniach pokazuje listę, a w ostateczności otwiera okno wyboru folderu. ZIP/CRC i testy syntetyczne przechodzą. **Nie testowano Windows ani gry.**
+2. **Czytanka PL v1:** katalog `reading/v1/`, standalone ZIP `translation/packages/TGO_readalong_PL_v1.zip`, SHA-256 `ea11cdeb56f014e970a7d871cd01fb28f595f4610012ed06be21c5ca834c3085`. Zawiera pełny skrypt, **4 394** osobne epizody i `reading_order.tsv` (4 134 map/event/page + 260 Common Events), a także indeks 55 mówców i 291 lokacji. Uwzględnia statycznie rozpoznanych mówców, warunki, rozgałęzienia, wybory i jawne placeholders dla danych dynamicznych. Mówcy niepewni są oznaczeni, nigdy zgadywani.
+3. **Ograniczenie chronologii:** BFS od mapy startowej 38 znajduje potencjalne ścieżki do **221/291** map, bez ewaluacji warunków/przełączników/runtime. Common Events sortowane są według pierwszego statycznego wywołania. README Czytanki ostrzega, że kolejność jest przybliżona, a nie kanoniczna; sceny opcjonalne mogą być poza kolejnością pojedynczego przejścia.
+
+## Publikacja na Google Drive
+
+Folder `TGO/translation/packages/` (`1FYzfQsDJKBaI_GBjlA8qhtS9I9h5_5KM`): patch `1I_IAEk7lqvXTlBbWWiHKIJJHbA12VF6L` (MD5 `f334eb89…`) + sidecar `1t3ppvwrEAy5pzP7TyO7sfwaUCpIqNfdg`, Czytanka `1eUuZTR2LM1ZJtmYkUpQPecI4iwKjr_mv` (MD5 `939a1646…`) + sidecar `1gE35EpQ8eGtz94oElvNXjYDpFjN3fHO_`. MD5 na Drive zgadzają się z plikami w Git; poprzednie wydania są w koszu. Przy każdej przebudowie paczek **podmień też sidecar** — stary `.sha256` obok nowego ZIP-a jest gorszy niż brak pliku.
+
+## Źródła / odtwarzanie
+
+Statyczne źródła gry są w ignorowanym `google_drive/tgo_source/`; drafty i canonical export są śledzone w repo. Nie zmieniaj `export-v1/` i nie zapisuj merge nad draftami. Patcher i Czytankę odtwarzaj do pustych ścieżek (narzędzia celowo odmawiają nadpisywania):
 
 ```bash
 python3 -m unittest discover -s games/the-genesis-order/tests -v
-python3 games/the-genesis-order/tools/export_translation.py
-python3 games/the-genesis-order/tools/markdown_translation.py build --replace
-python3 games/the-genesis-order/tools/apply_translation.py --input games/the-genesis-order/translation/export-v1 --check
-python3 games/the-genesis-order/tools/markdown_translation.py import --check
-python3 games/the-genesis-order/tools/build_translation_package.py
+python3 games/the-genesis-order/tools/audit_translation_coverage.py
+python3 games/the-genesis-order/tools/audit_draft_coverage.py --markdown-out games/the-genesis-order/docs/COVERAGE_AUDIT.md
+python3 games/the-genesis-order/tools/build_standalone_patch.py
+python3 games/the-genesis-order/tools/build_readalong.py
 ```
 
-Binarne assety gry pozostają poza Git; tekstowe dane i tłumaczenia śledzić w repo. Nie kopiować tekstów SRW do TGO.
+Szczegółowy zakres i ograniczenia: `STATUS.md`, `ROADMAP_TRANSLATION.md`, `COUNT_REPORT.md` i `TRANSLATION_POLICY.md`.
+
+## Następne zadania (w tej kolejności)
+
+> **Wszystkie decyzje redakcyjne są zamknięte** (R-01…R-11 w [`EDITORIAL_DECISIONS.md`](EDITORIAL_DECISIONS.md)). Właściciel uznał pozostałe uwagi redakcyjne za nieistotne i **nie chce już zmian w treści korpusu**; jedyny dopuszczony wyjątek (rodzaj gramatyczny) został wykonany 2026-10-30. Nie zaczynaj kolejnej redakcji korpusu bez jego wyraźnego polecenia.
+
+1. **QA treści w grze** — pełne przejście z patchem, test save/load, najdłuższe kwestie w wąskich okienkach UI, wybory i komunikaty błędów. To jedyny otwarty zakres jakości; raportuj właścicielowi konkretne zdania zamiast zmieniać je „na wyczucie”.
+2. **Zgłoszenia właściciela po grze** — każdą poprawkę dostarczaj jako nowy batch draftów pod stabilnym `id`, potem przebuduj oba artefakty (niżej) i podbij hashe.
+3. **28 rekordów `needs_review`** — 24 opcje wyboru z samym imieniem z `\\c[n]\\v[n]` oraz 4 wartości telefonu/natywne (`Madalyn.`, `Morgan #142`, `Morgan.`, `Amulet K.`). Zostają w źródle; tłumaczyć tylko na wyraźne polecenie, nie hurtem.
+4. **Przebudowa artefaktów po każdej zmianie treści:** `build_standalone_patch.py`, `build_readalong.py`, nowe `.sha256`, wpis w `EXPERIMENT_LOG.md`, testy. Kolejność i tryby offline opisane niżej.
+5. **Audyt redakcyjny:** `python3 tools/audit_editorial_quality.py` (raport do `translation/reports/editorial_qa_v1.json` i `docs/EDITORIAL_QA.md`; `--fix` poprawia tylko spacje/interpunkcję). Whitelist `REVIEWED` w narzędziu zawiera trafienia sprawdzone ręcznie — dopisuj tam każdy nowy fałszywy alarm **z uzasadnieniem**, nie wyłączaj całej klasy.
+
+## Zasady i pułapki
+
+- ADR 001: żadnego automatycznego MT poza LLM w kontekście sceny; każdy builder ma ręczne tłumaczenia, filtr `known` + `keep_source_value` + `/^` + `noalpha`, `len==exact`, `validate 0`, `py_compile`, pełny zielony zestaw testów i odmowę nadpisania pliku.
+- ADR 002 (**przyjęty, wariant B**): `translation_tokens_match()` normalizuje kody czcionek bez argumentu (`\fb`, `\fi`, `\fr`), gdy następuje po nich litera. **Nie twórz `export-v2`** i nie zmieniaj `export-v1/`, żeby „naprawić” tokeny.
+- `translation/pending/` i `tools/markup_signature.py` **nie istnieją** — usunięte wraz z przyjęciem ADR 002. Nie odtwarzaj ich.
+- Drafty czytaj **rekurencyjnie** (`rglob`); partie leżą też w `hints/`, `ui-01/` i `follow-ups/`.
+- Nigdy nie uruchamiaj `.build-*.py` na istniejącym pliku wyjściowym; determinizm sprawdzaj na kopii katalogu.
+- Commit i push po każdym zamkniętym etapie. Poprzedni agent stracił całą pracę przez brak pusha.
+
+## Przebudowa obu paczek bez źródeł gry (POTWIERDZONE)
+
+`data/` gry nie jest w repozytorium, a sandbox nie ma wyjścia sieciowego do Google, więc przebudowa wymaga dwóch jawnych
+trybów offline. Oba są już zaimplementowane i przetestowane:
+
+```bash
+cd games/the-genesis-order
+# 1) patch — czyta fingerprinty źródeł z export-v1 (nie potrzebuje data/)
+python3 tools/build_standalone_patch.py --output /tmp/patch.zip
+cp /tmp/patch.zip translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip
+
+# 2) Czytanka — potrzebuje tylko System.json, CommonEvents.json i MapInfos.json;
+#    numerację rozdziałów i indeks lokacji dziedziczy z poprzedniego wydania
+python3 tools/build_readalong.py --source-root /ścieżka/do/data \
+    --output /tmp/reading --zip /tmp/reading.zip \
+    --previous-order reading/v1/reading_order.tsv \
+    --locations-index reading/v1/index_locations_PL.md
+```
+
+Po podmianie plików w repo trzeba przeliczyć `translation/reports/coverage_audit_v1.json`
+(`python3 tools/audit_translation_coverage.py`), wstawić manifest z ZIP-a do `translation/reports/patch_manifest_v0.1.1.json`
+i uruchomić testy — `tests/test_patch_artifacts.py` pilnuje, żeby ZIP, sidecar, raporty i `reading/v1` nie rozjechały się z Git.

@@ -1,3 +1,4 @@
+import hashlib
 import json
 import sys
 import tempfile
@@ -8,6 +9,10 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'tools'))
 import export_translation as exporter
 import merge_translation_batches as merger
+
+
+REPO_ROOT = Path(__file__).resolve().parents[3]
+TRANSLATION = REPO_ROOT / 'games/the-genesis-order/translation'
 
 
 class MergeTests(unittest.TestCase):
@@ -68,10 +73,59 @@ class MergeTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, 'canonical source export'):
                 merger.merge_batches(self.canonical, [self.batch], tracked / 'export-v1/merged.jsonl', self.root / 'private')
 
+    def test_nested_batch_folders_are_found(self):
+        nested = self.root / 'drafts' / 'hints'
+        nested.mkdir(parents=True)
+        self.write(nested / 'nested.jsonl', [dict(self.row, translation='Przedmiot %1')])
+        self.assertEqual(merger.merge_batches(self.canonical, [self.root / 'drafts'],
+                                              self.out, self.root / 'private')['with_translation'], 1)
+
     def test_reject_output_outside_private_root(self):
         self.write(self.batch, [self.row])
         with self.assertRaisesRegex(ValueError, 'under the translation workspace'):
             merger.merge_batches(self.canonical, [self.batch], self.root / 'out', self.root / 'private')
+
+    def test_current_full_draft_corpus_is_reconciled(self):
+        batches = sorted((TRANSLATION / 'drafts').rglob('*.jsonl'))
+        self.assertEqual(len(batches), 427)
+        with tempfile.TemporaryDirectory(dir=TRANSLATION) as temp_dir:
+            output = Path(temp_dir) / 'full-merge.jsonl'
+            report = merger.merge_batches(
+                TRANSLATION / 'export-v1', batches, output,
+                REPO_ROOT / 'google_drive',
+            )
+        self.assertEqual(report['records'], 45_229)
+        self.assertEqual(report['with_translation'], 39_917)
+        self.assertEqual(report['protected'], 131)
+        self.assertEqual(report['pending_translatable'], 5_181)
+
+    def test_patch_payload_is_reproducible_from_tracked_drafts(self):
+        """ZIP patcha musi dać się odtworzyć wyłącznie z plików w Git.
+
+        Liczymy payload dokładnie tak, jak robi to builder (same przetłumaczone
+        wiersze, ten sam porządek i serializacja) i porównujemy z hashem
+        zapisanym w manifeście opublikowanej paczki.
+        """
+        manifest = json.loads(
+            (TRANSLATION / 'reports' / 'patch_manifest_v0.1.1.json').read_text(encoding='utf-8'))
+        batches = sorted((TRANSLATION / 'drafts').rglob('*.jsonl'))
+        with tempfile.TemporaryDirectory(dir=TRANSLATION) as temp_dir:
+            merged = Path(temp_dir) / 'merged.jsonl'
+            merger.merge_batches(TRANSLATION / 'export-v1', batches, merged,
+                                 REPO_ROOT / 'google_drive')
+            digest = hashlib.sha256()
+            rows = 0
+            with merged.open(encoding='utf-8') as stream:
+                for line in stream:
+                    if not line.strip():
+                        continue
+                    row = json.loads(line)
+                    if not (row.get('translation') or '').strip():
+                        continue
+                    digest.update((json.dumps(row, ensure_ascii=False, sort_keys=True) + '\n').encode('utf-8'))
+                    rows += 1
+        self.assertEqual(rows, manifest['translated_record_count'])
+        self.assertEqual(digest.hexdigest(), manifest['translations_sha256'])
 
 
 if __name__ == '__main__':

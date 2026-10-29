@@ -150,6 +150,23 @@ class ApplyTranslationTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Markup/token mismatch"):
             applier.validate_record(row, False)
 
+    def test_yep_no_argument_font_code_can_precede_translated_text(self):
+        row = exporter.record(
+            category="native_message", status="confirmed_text_surface",
+            text=r"\fbCraft this item?", source_file="data/Map046.json",
+            source_hash="0" * 64,
+            locator={"file": "data/Map046.json", "event_id": 1,
+                     "page_number": 2, "command_index": 35,
+                     "command_code": 401,
+                     "json_path": "/events/1/pages/1/list/35/parameters/0"},
+            context={}, structure={"command_code": 401},
+        )
+        row["translation"] = r"\fbWytworzyć ten przedmiot?"
+        self.assertEqual(applier.validate_record(row, False), row["translation"])
+        row["translation"] = r"\fiWytworzyć ten przedmiot?"
+        with self.assertRaisesRegex(ValueError, "Markup/token mismatch"):
+            applier.validate_record(row, False)
+
     def test_positional_and_punctuation_controls_are_preserved_with_v1_signature(self):
         locator = {"file": "data/Items.json", "json_path": "/1/name"}
         row = exporter.record(

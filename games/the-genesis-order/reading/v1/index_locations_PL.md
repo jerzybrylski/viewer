@@ -1,0 +1,295 @@
+# Indeks lokacji — PL
+
+Nazwy pochodzą z przetłumaczonych etykiet map; w razie ich braku użyto źródłowej nazwy MapInfos. Osiągalność jest statyczna i nie uwzględnia warunków/runtime.
+
+- **Mapa 038 — START** — potencjalnie osiągalna, BFS 0; epizodów: 1.
+- **Mapa 036 — PUSTE** — potencjalnie osiągalna, BFS 1; epizodów: 0.
+- **Mapa 033 — Wschodnie skrzydło** — potencjalnie osiągalna, BFS 1; epizodów: 50.
+- **Mapa 003 — Mapa świata** — potencjalnie osiągalna, BFS 2; epizodów: 69.
+- **Mapa 017 — Komisariat policji** — potencjalnie osiągalna, BFS 2; epizodów: 29.
+- **Mapa 032 — Recepcja** — potencjalnie osiągalna, BFS 2; epizodów: 44.
+- **Mapa 034 — Biuro Melissy** — potencjalnie osiągalna, BFS 2; epizodów: 17.
+- **Mapa 004 — Apartamenty** — potencjalnie osiągalna, BFS 3; epizodów: 45.
+- **Mapa 005 — Channel 4** — potencjalnie osiągalna, BFS 3; epizodów: 29.
+- **Mapa 006 — Kościół** — potencjalnie osiągalna, BFS 3; epizodów: 52.
+- **Mapa 007 — Apartamentowce** — potencjalnie osiągalna, BFS 3; epizodów: 20.
+- **Mapa 008 — Pomost** — potencjalnie osiągalna, BFS 3; epizodów: 8.
+- **Mapa 009 — Farma** — potencjalnie osiągalna, BFS 3; epizodów: 91.
+- **Mapa 010 — Las** — potencjalnie osiągalna, BFS 3; epizodów: 24.
+- **Mapa 011 — Siłownia** — potencjalnie osiągalna, BFS 3; epizodów: 35.
+- **Mapa 012 — Dom bohatera** — potencjalnie osiągalna, BFS 3; epizodów: 15.
+- **Mapa 027 — Wewnątrz** — potencjalnie osiągalna, BFS 3; epizodów: 8.
+- **Mapa 028 — Sypialnia** — potencjalnie osiągalna, BFS 3; epizodów: 106.
+- **Mapa 013 — Centrum handlowe** — potencjalnie osiągalna, BFS 3; epizodów: 29.
+- **Mapa 014 — Sklep** — potencjalnie osiągalna, BFS 3; epizodów: 15.
+- **Mapa 015 — Magazyn** — potencjalnie osiągalna, BFS 3; epizodów: 60.
+- **Mapa 016 — Dom Heather** — potencjalnie osiągalna, BFS 3; epizodów: 32.
+- **Mapa 035 — Pokój przesłuchań** — potencjalnie osiągalna, BFS 3; epizodów: 12.
+- **Mapa 059 — Lewe wejście** — potencjalnie osiągalna, BFS 3; epizodów: 14.
+- **Mapa 060 — Siłownia** — potencjalnie osiągalna, BFS 3; epizodów: 26.
+- **Mapa 079 — Górna część wspólna** — potencjalnie osiągalna, BFS 3; epizodów: 26.
+- **Mapa 128 — Biuro Andrei** — potencjalnie osiągalna, BFS 3; epizodów: 13.
+- **Mapa 203 — Sala sądowa** — potencjalnie osiągalna, BFS 3; epizodów: 13.
+- **Mapa 257 — Gabinet sędziego** — potencjalnie osiągalna, BFS 3; epizodów: 5.
+- **Mapa 018 — Dom Andrei** — potencjalnie osiągalna, BFS 3; epizodów: 24.
+- **Mapa 019 — Rezydencja** — potencjalnie osiągalna, BFS 3; epizodów: 73.
+- **Mapa 199 — Gruzy przed wejściem** — potencjalnie osiągalna, BFS 3; epizodów: 12.
+- **Mapa 050 — Gra w otwieranie zamków** — potencjalnie osiągalna, BFS 3; epizodów: 1.
+- **Mapa 051 — Wejście Elli** — potencjalnie osiągalna, BFS 4; epizodów: 16.
+- **Mapa 133 — Splądrowane** — potencjalnie osiągalna, BFS 4; epizodów: 3.
+- **Mapa 206 — Mieszkanie Eriki** — potencjalnie osiągalna, BFS 4; epizodów: 7.
+- **Mapa 267 — Wejście Judy** — potencjalnie osiągalna, BFS 4; epizodów: 7.
+- **Mapa 081 — Hol** — potencjalnie osiągalna, BFS 4; epizodów: 22.
+- **Mapa 020 — Hol wejściowy** — potencjalnie osiągalna, BFS 4; epizodów: 109.
+- **Mapa 094 — Zachód, 2. piętro** — potencjalnie osiągalna, BFS 4; epizodów: 32.
+- **Mapa 121 — Wschód, 2. piętro** — potencjalnie osiągalna, BFS 4; epizodów: 23.
+- **Mapa 114 — Wejście do apartamentu Melissy** — potencjalnie osiągalna, BFS 4; epizodów: 15.
+- **Mapa 204 — Mieszkanie Andrei** — potencjalnie osiągalna, BFS 4; epizodów: 9.
+- **Mapa 194 — Północ jeziora** — potencjalnie osiągalna, BFS 4; epizodów: 0.
+- **Mapa 195 — Południe jeziora** — potencjalnie osiągalna, BFS 4; epizodów: 0.
+- **Mapa 197 — Zachód jeziora** — potencjalnie osiągalna, BFS 4; epizodów: 0.
+- **Mapa 023 — Dom na farmie** — potencjalnie osiągalna, BFS 4; epizodów: 66.
+- **Mapa 041 — Stodoła** — potencjalnie osiągalna, BFS 4; epizodów: 45.
+- **Mapa 062 — Pole** — potencjalnie osiągalna, BFS 4; epizodów: 41.
+- **Mapa 053 — Wodospad** — potencjalnie osiągalna, BFS 4; epizodów: 14.
+- **Mapa 069 — Nad farmą** — potencjalnie osiągalna, BFS 4; epizodów: 11.
+- **Mapa 070 — Nad wejściem** — potencjalnie osiągalna, BFS 4; epizodów: 9.
+- **Mapa 071 — Na zachód od wejścia** — potencjalnie osiągalna, BFS 4; epizodów: 7.
+- **Mapa 072 — Na północ od kościoła** — potencjalnie osiągalna, BFS 4; epizodów: 43.
+- **Mapa 045 — Strefa szafek** — potencjalnie osiągalna, BFS 4; epizodów: 11.
+- **Mapa 219 — Strych** — potencjalnie osiągalna, BFS 4; epizodów: 0.
+- **Mapa 030 — Restauracja** — potencjalnie osiągalna, BFS 4; epizodów: 42.
+- **Mapa 031 — Sklep XXX** — potencjalnie osiągalna, BFS 4; epizodów: 64.
+- **Mapa 029 — Wnętrze sklepu** — potencjalnie osiągalna, BFS 4; epizodów: 87.
+- **Mapa 124 — Wnętrze** — potencjalnie osiągalna, BFS 4; epizodów: 16.
+- **Mapa 141 — Otwarte wnętrze** — potencjalnie osiągalna, BFS 4; epizodów: 29.
+- **Mapa 024 — Przedsionek** — potencjalnie osiągalna, BFS 4; epizodów: 63.
+- **Mapa 054 — Podwórko** — potencjalnie osiągalna, BFS 4; epizodów: 52.
+- **Mapa 061 — Prysznic** — potencjalnie osiągalna, BFS 4; epizodów: 23.
+- **Mapa 127 — 2. piętro — prawa strona** — potencjalnie osiągalna, BFS 4; epizodów: 19.
+- **Mapa 146 — Zachodnie skrzydło** — potencjalnie osiągalna, BFS 4; epizodów: 8.
+- **Mapa 160 — Strzelnica** — potencjalnie osiągalna, BFS 4; epizodów: 15.
+- **Mapa 176 — 2. piętro — lewa strona** — potencjalnie osiągalna, BFS 4; epizodów: 9.
+- **Mapa 275 — Sale konferencyjne** — potencjalnie osiągalna, BFS 4; epizodów: 3.
+- **Mapa 076 — Przedsionek** — potencjalnie osiągalna, BFS 4; epizodów: 23.
+- **Mapa 078 — Jadalnia** — potencjalnie osiągalna, BFS 4; epizodów: 20.
+- **Mapa 129 — Ogród zimowy** — potencjalnie osiągalna, BFS 4; epizodów: 6.
+- **Mapa 043 — Na wschód od wejścia** — potencjalnie osiągalna, BFS 4; epizodów: 20.
+- **Mapa 044 — Na północ od wejścia** — potencjalnie osiągalna, BFS 4; epizodów: 68.
+- **Mapa 042 — Na zachód od wejścia** — potencjalnie osiągalna, BFS 4; epizodów: 27.
+- **Mapa 026 — Wejście** — potencjalnie osiągalna, BFS 4; epizodów: 46.
+- **Mapa 066 — Tajne pomieszczenie** — potencjalnie osiągalna, BFS 4; epizodów: 10.
+- **Mapa 192 — Zachodnia część dziedzińca** — potencjalnie osiągalna, BFS 4; epizodów: 6.
+- **Mapa 193 — Wschodnia część dziedzińca** — potencjalnie osiągalna, BFS 4; epizodów: 8.
+- **Mapa 239 — Gra w cumshoty** — potencjalnie osiągalna, BFS 4; epizodów: 0.
+- **Mapa 040 — Samouczek** — potencjalnie osiągalna, BFS 5; epizodów: 1.
+- **Mapa 052 — Sypialnia Elli** — potencjalnie osiągalna, BFS 5; epizodów: 15.
+- **Mapa 132 — Splądrowane** — potencjalnie osiągalna, BFS 5; epizodów: 4.
+- **Mapa 123 — Piętro Elli** — potencjalnie osiągalna, BFS 5; epizodów: 7.
+- **Mapa 131 — Splądrowane** — potencjalnie osiągalna, BFS 5; epizodów: 6.
+- **Mapa 268 — Piętro Eriki** — potencjalnie osiągalna, BFS 5; epizodów: 2.
+- **Mapa 269 — Piętro Judy** — potencjalnie osiągalna, BFS 5; epizodów: 2.
+- **Mapa 083 — Recepcja Channel 4** — potencjalnie osiągalna, BFS 5; epizodów: 23.
+- **Mapa 165 — Wschodni korytarz** — potencjalnie osiągalna, BFS 5; epizodów: 4.
+- **Mapa 166 — Ochrona** — potencjalnie osiągalna, BFS 5; epizodów: 12.
+- **Mapa 021 — Kaplica** — potencjalnie osiągalna, BFS 5; epizodów: 31.
+- **Mapa 055 — Sypialnia Judy** — potencjalnie osiągalna, BFS 5; epizodów: 39.
+- **Mapa 056 — Na zachód od wejścia** — potencjalnie osiągalna, BFS 5; epizodów: 28.
+- **Mapa 073 — Na wschód od wejścia** — potencjalnie osiągalna, BFS 5; epizodów: 10.
+- **Mapa 122 — Korytarz** — potencjalnie osiągalna, BFS 5; epizodów: 8.
+- **Mapa 144 — Biblioteka** — potencjalnie osiągalna, BFS 5; epizodów: 65.
+- **Mapa 161 — 2. piętro — pokój zachodni** — potencjalnie osiągalna, BFS 5; epizodów: 5.
+- **Mapa 168 — Kuchnia Meli** — potencjalnie osiągalna, BFS 5; epizodów: 8.
+- **Mapa 290 — Kuchnia Andrei** — potencjalnie osiągalna, BFS 5; epizodów: 0.
+- **Mapa 196 — Południowy zachód jeziora** — potencjalnie osiągalna, BFS 5; epizodów: 0.
+- **Mapa 047 — Piętro domu na farmie** — potencjalnie osiągalna, BFS 5; epizodów: 12.
+- **Mapa 048 — Pokój Carol** — potencjalnie osiągalna, BFS 5; epizodów: 11.
+- **Mapa 112 — Garderoba** — potencjalnie osiągalna, BFS 5; epizodów: 6.
+- **Mapa 119 — Pokój Hannah** — potencjalnie osiągalna, BFS 5; epizodów: 10.
+- **Mapa 086 — Za rezydencją** — potencjalnie osiągalna, BFS 5; epizodów: 30.
+- **Mapa 097 — Zachodni strumień** — potencjalnie osiągalna, BFS 5; epizodów: 19.
+- **Mapa 117 — Na zachód nad wejściem** — potencjalnie osiągalna, BFS 5; epizodów: 21.
+- **Mapa 118 — Nad wodospadem** — potencjalnie osiągalna, BFS 5; epizodów: 19.
+- **Mapa 140 — Staw przy kościele** — potencjalnie osiągalna, BFS 5; epizodów: 14.
+- **Mapa 153 — Najbardziej wysunięty na północ strumień** — potencjalnie osiągalna, BFS 5; epizodów: 8.
+- **Mapa 162 — Casula Plus** — potencjalnie osiągalna, BFS 5; epizodów: 14.
+- **Mapa 169 — Kuchnia** — potencjalnie osiągalna, BFS 5; epizodów: 25.
+- **Mapa 246 — Zaplecze** — potencjalnie osiągalna, BFS 5; epizodów: 2.
+- **Mapa 025 — Kuchnia** — potencjalnie osiągalna, BFS 5; epizodów: 31.
+- **Mapa 064 — Piętro** — potencjalnie osiągalna, BFS 5; epizodów: 13.
+- **Mapa 096 — Sypialnia Chloe** — potencjalnie osiągalna, BFS 5; epizodów: 19.
+- **Mapa 101 — Sypialnia Heather** — potencjalnie osiągalna, BFS 5; epizodów: 23.
+- **Mapa 145 — Pomieszczenie wewnętrzne 2** — potencjalnie osiągalna, BFS 5; epizodów: 3.
+- **Mapa 177 — Magazyn** — potencjalnie osiągalna, BFS 5; epizodów: 2.
+- **Mapa 274 — Zachodnie biuro na 2. piętrze** — potencjalnie osiągalna, BFS 5; epizodów: 5.
+- **Mapa 282 — Biuro Snithfield** — potencjalnie osiągalna, BFS 5; epizodów: 6.
+- **Mapa 077 — Prawy korytarz** — potencjalnie osiągalna, BFS 5; epizodów: 19.
+- **Mapa 120 — Hol wejściowy** — potencjalnie osiągalna, BFS 5; epizodów: 17.
+- **Mapa 130 — Na północ od ogrodu zimowego** — potencjalnie osiągalna, BFS 5; epizodów: 9.
+- **Mapa 057 — Jadalnia** — potencjalnie osiągalna, BFS 5; epizodów: 31.
+- **Mapa 058 — Biuro Charlesa** — potencjalnie osiągalna, BFS 5; epizodów: 10.
+- **Mapa 087 — Tylne wejście** — potencjalnie osiągalna, BFS 5; epizodów: 21.
+- **Mapa 107 — Zachód** — potencjalnie osiągalna, BFS 5; epizodów: 41.
+- **Mapa 116 — Piwnica — pokój R** — potencjalnie osiągalna, BFS 5; epizodów: 56.
+- **Mapa 125 — Wejście do szczeliny** — potencjalnie osiągalna, BFS 5; epizodów: 18.
+- **Mapa 148 — Zachodnie biuro** — potencjalnie osiągalna, BFS 5; epizodów: 7.
+- **Mapa 149 — Północny zachód** — potencjalnie osiągalna, BFS 5; epizodów: 16.
+- **Mapa 181 — Wschód** — potencjalnie osiągalna, BFS 5; epizodów: 6.
+- **Mapa 183 — Pokój socjalny** — potencjalnie osiągalna, BFS 5; epizodów: 3.
+- **Mapa 185 — Pokój w bunkrze** — potencjalnie osiągalna, BFS 5; epizodów: 18.
+- **Mapa 188 — Sypialnia — wschód** — potencjalnie osiągalna, BFS 5; epizodów: 3.
+- **Mapa 189 — Toaleta — zachód** — potencjalnie osiągalna, BFS 5; epizodów: 1.
+- **Mapa 190 — Główna sypialnia** — potencjalnie osiągalna, BFS 5; epizodów: 15.
+- **Mapa 063 — Jaskinia** — potencjalnie osiągalna, BFS 5; epizodów: 8.
+- **Mapa 068 — Schody** — potencjalnie osiągalna, BFS 5; epizodów: 1.
+- **Mapa 102 — Pod kościołem** — potencjalnie osiągalna, BFS 5; epizodów: 29.
+- **Mapa 137 — Główne wejście** — potencjalnie osiągalna, BFS 5; epizodów: 5.
+- **Mapa 084 — Prawy korytarz Channel 4** — potencjalnie osiągalna, BFS 6; epizodów: 11.
+- **Mapa 143 — Recepcja 2** — potencjalnie osiągalna, BFS 6; epizodów: 16.
+- **Mapa 251 — Magazyn** — potencjalnie osiągalna, BFS 6; epizodów: 3.
+- **Mapa 252 — Magazyn po Simonie** — potencjalnie osiągalna, BFS 6; epizodów: 5.
+- **Mapa 022 — Magazyn** — potencjalnie osiągalna, BFS 6; epizodów: 7.
+- **Mapa 049 — Strych** — potencjalnie osiągalna, BFS 6; epizodów: 25.
+- **Mapa 074 — Wschodnia część magazynu** — potencjalnie osiągalna, BFS 6; epizodów: 11.
+- **Mapa 095 — Łazienka Judy** — potencjalnie osiągalna, BFS 6; epizodów: 7.
+- **Mapa 100 — Sypialnia Briana** — potencjalnie osiągalna, BFS 6; epizodów: 23.
+- **Mapa 167 — Łazienka Briana** — potencjalnie osiągalna, BFS 6; epizodów: 4.
+- **Mapa 230 — Sypialnia Meli** — potencjalnie osiągalna, BFS 6; epizodów: 3.
+- **Mapa 198 — Skrajny zachód jeziora** — potencjalnie osiągalna, BFS 6; epizodów: 2.
+- **Mapa 113 — Łazienka** — potencjalnie osiągalna, BFS 6; epizodów: 4.
+- **Mapa 110 — Ślepy zaułek przy strumieniu** — potencjalnie osiągalna, BFS 6; epizodów: 6.
+- **Mapa 098 — Wejście do Mrocznej Kaplicy** — potencjalnie osiągalna, BFS 6; epizodów: 22.
+- **Mapa 099 — Mroczna Kaplica** — potencjalnie osiągalna, BFS 6; epizodów: 16.
+- **Mapa 138 — Północny strumień** — potencjalnie osiągalna, BFS 6; epizodów: 0.
+- **Mapa 139 — Strumień przy rezydencji** — potencjalnie osiągalna, BFS 6; epizodów: 11.
+- **Mapa 154 — WoNo — kościół** — potencjalnie osiągalna, BFS 6; epizodów: 5.
+- **Mapa 225 — Północny ślepy zaułek** — potencjalnie osiągalna, BFS 6; epizodów: 8.
+- **Mapa 258 — Północny wschód** — potencjalnie osiągalna, BFS 6; epizodów: 42.
+- **Mapa 065 — Łazienka** — potencjalnie osiągalna, BFS 6; epizodów: 6.
+- **Mapa 134 — Główna łazienka** — potencjalnie osiągalna, BFS 6; epizodów: 6.
+- **Mapa 240 — Garaż** — potencjalnie osiągalna, BFS 6; epizodów: 10.
+- **Mapa 147 — Kuchnia** — potencjalnie osiągalna, BFS 6; epizodów: 15.
+- **Mapa 163 — Korytarz** — potencjalnie osiągalna, BFS 6; epizodów: 4.
+- **Mapa 109 — Spiżarnia** — potencjalnie osiągalna, BFS 6; epizodów: 10.
+- **Mapa 126 — Szczelina — prawy dolny róg** — potencjalnie osiągalna, BFS 6; epizodów: 11.
+- **Mapa 150 — Biuro w północno-zachodniej części** — potencjalnie osiągalna, BFS 6; epizodów: 4.
+- **Mapa 155 — Szczelina — lewy dolny róg** — potencjalnie osiągalna, BFS 6; epizodów: 27.
+- **Mapa 158 — Skrajny zachód** — potencjalnie osiągalna, BFS 6; epizodów: 15.
+- **Mapa 159 — Drugie biuro** — potencjalnie osiągalna, BFS 6; epizodów: 4.
+- **Mapa 180 — Daleki wschód** — potencjalnie osiągalna, BFS 6; epizodów: 3.
+- **Mapa 184 — Składzik** — potencjalnie osiągalna, BFS 6; epizodów: 3.
+- **Mapa 186 — Toaleta — północny zachód** — potencjalnie osiągalna, BFS 6; epizodów: 5.
+- **Mapa 187 — Sypialnia — daleki zachód** — potencjalnie osiągalna, BFS 6; epizodów: 1.
+- **Mapa 201 — Pokój R — zniszczony** — potencjalnie osiągalna, BFS 6; epizodów: 21.
+- **Mapa 108 — Kuchnia** — potencjalnie osiągalna, BFS 6; epizodów: 14.
+- **Mapa 067 — Nad farmą** — potencjalnie osiągalna, BFS 6; epizodów: 15.
+- **Mapa 103 — Wejście do bunkra** — potencjalnie osiągalna, BFS 6; epizodów: 9.
+- **Mapa 106 — Środkowa część bunkra** — potencjalnie osiągalna, BFS 6; epizodów: 15.
+- **Mapa 217 — Grobowiec Casuli** — potencjalnie osiągalna, BFS 6; epizodów: 7.
+- **Mapa 276 — Na wschód od podziemi kościoła** — potencjalnie osiągalna, BFS 6; epizodów: 4.
+- **Mapa 104 — Bunkier** — potencjalnie osiągalna, BFS 6; epizodów: 7.
+- **Mapa 142 — Główne wejście od północy** — potencjalnie osiągalna, BFS 6; epizodów: 4.
+- **Mapa 172 — Pod tajnym pomieszczeniem** — potencjalnie osiągalna, BFS 6; epizodów: 12.
+- **Mapa 151 — Piekło** — potencjalnie osiągalna, BFS 6; epizodów: 43.
+- **Mapa 082 — Studio** — potencjalnie osiągalna, BFS 7; epizodów: 26.
+- **Mapa 115 — Sala multimedialna** — potencjalnie osiągalna, BFS 7; epizodów: 14.
+- **Mapa 085 — Szatnia** — potencjalnie osiągalna, BFS 7; epizodów: 23.
+- **Mapa 152 — Wschodnia część strychu** — potencjalnie osiągalna, BFS 7; epizodów: 6.
+- **Mapa 135 — Północna część Mrocznej Kaplicy** — potencjalnie osiągalna, BFS 7; epizodów: 6.
+- **Mapa 214 — Rzeka 2** — potencjalnie osiągalna, BFS 7; epizodów: 3.
+- **Mapa 216 — Rzeka 4** — potencjalnie osiągalna, BFS 7; epizodów: 2.
+- **Mapa 164 — Skarb** — potencjalnie osiągalna, BFS 7; epizodów: 2.
+- **Mapa 207 — Skarb — PUSTE** — potencjalnie osiągalna, BFS 7; epizodów: 1.
+- **Mapa 208 — Sypialnia** — potencjalnie osiągalna, BFS 7; epizodów: 3.
+- **Mapa 291 — Czytelnia** — potencjalnie osiągalna, BFS 7; epizodów: 8.
+- **Mapa 182 — Wschodnia wieża** — potencjalnie osiągalna, BFS 7; epizodów: 6.
+- **Mapa 191 — Zachodnia wieża** — potencjalnie osiągalna, BFS 7; epizodów: 9.
+- **Mapa 105 — Środek** — potencjalnie osiągalna, BFS 7; epizodów: 13.
+- **Mapa 156 — Na zachód od wylotu wody** — potencjalnie osiągalna, BFS 7; epizodów: 6.
+- **Mapa 173 — Zachodnie schody** — potencjalnie osiągalna, BFS 7; epizodów: 2.
+- **Mapa 277 — Pokój rupieci** — potencjalnie osiągalna, BFS 7; epizodów: 7.
+- **Mapa 136 — Tajne wejście** — potencjalnie osiągalna, BFS 7; epizodów: 10.
+- **Mapa 170 — Dolna część, środek** — potencjalnie osiągalna, BFS 7; epizodów: 2.
+- **Mapa 171 — Górna część, środek** — potencjalnie osiągalna, BFS 7; epizodów: 3.
+- **Mapa 175 — Południowy zachód** — potencjalnie osiągalna, BFS 7; epizodów: 1.
+- **Mapa 157 — Północ** — potencjalnie osiągalna, BFS 7; epizodów: 37.
+- **Mapa 178 — Zachód** — potencjalnie osiągalna, BFS 7; epizodów: 13.
+- **Mapa 200 — Zniszczona część północno-zachodnia** — potencjalnie osiągalna, BFS 7; epizodów: 18.
+- **Mapa 202 — Świątynia** — potencjalnie osiągalna, BFS 7; epizodów: 16.
+- **Mapa 215 — Rzeka 3** — potencjalnie osiągalna, BFS 8; epizodów: 5.
+- **Mapa 111 — Południowa część środka** — potencjalnie osiągalna, BFS 8; epizodów: 3.
+- **Mapa 174 — Ślepy zaułek** — potencjalnie osiągalna, BFS 8; epizodów: 5.
+- **Mapa 218 — CIEMNOŚĆ** — potencjalnie osiągalna, BFS 8; epizodów: 1.
+- **Mapa 245 — Obszar Tikpaka** — potencjalnie osiągalna, BFS 8; epizodów: 5.
+- **Mapa 179 — Północny zachód** — potencjalnie osiągalna, BFS 8; epizodów: 18.
+- **Mapa 205 — Zniszczone wejście** — potencjalnie osiągalna, BFS 8; epizodów: 3.
+- **Mapa 002 — MAPA TESTOWA** — poza grafem osiągalności od startu; epizodów: 20.
+- **Mapa 001 — PRZED EKRANEM TYTUŁOWYM** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 039 — Test** — poza grafem osiągalności od startu; epizodów: 15.
+- **Mapa 037 — OBSZAR BONUSOWY** — poza grafem osiągalności od startu; epizodów: 129.
+- **Mapa 210 — DODATKI** — poza grafem osiągalności od startu; epizodów: 33.
+- **Mapa 046 — Rzemiosło** — poza grafem osiągalności od startu; epizodów: 47.
+- **Mapa 080 — Gra logiczna** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 075 — TEST** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 089 — PUSTE — NIE UŻYWAĆ** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 090 — Samouczek 2** — poza grafem osiągalności od startu; epizodów: 1.
+- **Mapa 091 — Samouczek 3** — poza grafem osiągalności od startu; epizodów: 1.
+- **Mapa 092 — Samouczek 4** — poza grafem osiągalności od startu; epizodów: 1.
+- **Mapa 093 — PUSTE** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 209 — Menu główne** — poza grafem osiągalności od startu; epizodów: 55.
+- **Mapa 211 — Mapa 1** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 088 — Mapa 2** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 212 — Mapa 3** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 213 — Mapa 4** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 220 — Mapa 5** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 221 — Mapa 6** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 222 — Mapa 7** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 223 — Mapa 8** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 224 — Mapa 9** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 226 — Mapa 10** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 227 — Mapa 11** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 228 — Mapa 12** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 229 — Mapa 13** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 231 — Mapa 14** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 232 — Mapa 15** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 233 — Mapa 16** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 234 — Mapa 17** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 235 — Mapa 18** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 236 — Mapa 19** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 237 — Mapa 20** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 238 — Mapa 21** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 241 — Mapa 22** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 242 — Mapa 23** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 243 — Mapa 24** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 244 — Mapa 25** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 250 — Mapa 26** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 249 — Mapa 27** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 248 — Mapa 28** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 247 — Mapa 29** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 253 — Mapa 30** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 254 — Mapa 31** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 255 — Mapa 32** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 256 — Mapa 33** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 262 — Mapa 34** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 260 — Mapa 35** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 261 — Mapa 36** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 259 — Mapa 37** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 266 — Mapa 38** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 264 — Mapa 39** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 265 — Mapa 40** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 263 — Mapa 41** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 270 — Mapa 42** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 271 — Mapa 43** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 272 — Mapa 44** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 273 — Mapa 45** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 278 — Mapa 46** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 279 — Mapa 47** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 280 — Mapa 48** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 281 — Mapa 49** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 284 — Mapa 50** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 285 — Mapa 51** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 286 — Mapa 52** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 283 — Mapa 53** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 289 — Mapa 54** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 288 — Mapa 55** — poza grafem osiągalności od startu; epizodów: 0.
+- **Mapa 287 — Mapa 56** — poza grafem osiągalności od startu; epizodów: 0.

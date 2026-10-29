@@ -71,5 +71,20 @@ Uwaga: powyższa tabela łączy kategorie semantycznie; pojedyncze rekordy nie s
 
 - Wszystkie 1 122 wiersze `401` i 1 930 opcji są pełnoprawnym tekstem gracza do tłumaczenia i muszą pozostać w pełnym zakresie.
 - Tekst wtopiony w obrazy i wideo pozostaje poza zakresem na wyraźną decyzję właściciela. Runtime’owe wartości dostarczane przez użytkownika/urządzenia i obliczane liczby nie są statycznymi tekstami źródłowymi.
-- Nie zweryfikowano renderowania polskich glifów, długości, łamania wierszy ani zachowania UI w działającej grze. Przygotowano source ZIP v1 (pełny statyczny eksport z kontekstem, nie patch); nie ma tłumaczenia ani finalnego patcha.
+- Nie zweryfikowano renderowania polskich glifów, długości, łamania wierszy ani zachowania UI w działającej grze. Source ZIP v1 jest pakietem źródłowym; osobny patch POC nie jest zatwierdzoną dystrybucją i wymaga testów Windows/runtime.
 - Surowe assety nie są śledzone w Git; kanoniczne wyodrębnione JSON-y, dokumentacja, narzędzia i testy są śledzone zgodnie z decyzją właściciela.
+
+
+## Aktualizacja po ukończeniu przekładu i milestone’ów — 2026-10-29
+
+- Scalenie wszystkich **427** draftów obejmuje 45 229 rekordów: **39 917** niepustych tłumaczeń, **131** jawnie chronionych rekordów `keep_source_value`, **5 181** pozostałych zachowanych rekordów nielokalizowalnych i **0** nierozstrzygniętych rekordów do tłumaczenia. Audyt: `translation/reports/coverage_audit_v1.json`.
+- Standalone patch POC: `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`; 39 917 tłumaczeń, 238 fingerprintowanych źródeł, 427 batchy. Zawiera one-click patcher oraz backup/restore, bez plików gry. SHA-256 `ba13f5298e6ea904ee97f525db66521644ff8d874a2515ee08330a38209a1f26`.
+- Czytanka PL v1: `reading/v1/`, ZIP `translation/packages/TGO_readalong_PL_v1.zip`; **4 394** rozdziały (4 134 map/event/page i 260 Common Events), 221/291 map osiągalnych potencjalnie od startu w statycznym BFS, 833 wiersze z mówcą nieustalonym jawnie oznaczone; indeksy obejmują 55 etykiet mówców i 291 lokacji. Kolejność nie jest kanoniczna; gra/runtime nie była uruchamiana. ZIP zawiera 4 399 wpisów (4 394 epizody + 5 plików indeksowych/skryptowych); SHA-256 `32d3469a07150860b23c01cb8f2bffaef56c721b8285ba6a7209e2db425a2c0b`.
+- Po dodaniu testów generatora Czytanek pełny zestaw: **54/54 passed**. To statyczna walidacja, nie QA językowe ani test instalacji Windows.
+
+### Redakcja odmiany imion (R-09, 2026-10-29)
+
+- **Zakres:** wyłącznie imiona na `-a` z tabelą form (`Erica, Andrea, Arianna, Melissa, Ella, Toma, Diana, Tasha, Alia`).
+- **Zmienione:** 383 wystąpienia w 380 rekordach, 148 plików — wołacz po przecinku 247, wołacz całej kwestii 89, wołacz na początku zdania 29, dopełniacz po rzeczowniku/przyimku 18.
+- **Bez zmian:** 628 wystąpień, w których przypadek nie wynika ze składni (mianownik po `jest`, konstrukcje z `z`/`o`/`na`, nazwiska). Świadomie nie zgadujemy — raport: `translation/reports/declension_r09_report.json`.
+- **Nie zmieniono:** żadnego słowa poza samym imieniem; tokeny `\c[n]` i znaczniki renderera zostają nietknięte (test regresyjny).

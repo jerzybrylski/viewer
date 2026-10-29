@@ -38,7 +38,7 @@ Daty, źródła i hashe plików znajdują się w [`EXPERIMENT_LOG.md`](EXPERIMEN
 - Dokładny produktowy build instalacji właściciela oraz kompletność plików względem tego builda.
 - Wszystkie wyeksportowane wiersze `401` i opcje `102` są zatwierdzone jako tekst do tłumaczenia; zakres opisano w `COUNT_REPORT.md`.
 - Renderowanie/fallback polskich liter, pomiary długości, łamanie wierszy i zachowanie okien wymagają osobnego, zatwierdzonego testu runtime na kopii.
-- Nie zbudowano patchera Windows, migracji save'ów ani obsługi osiągnięć; to późniejszy etap po tłumaczeniu i zatwierdzeniu scope.
+- Patcher standalone istnieje jako POC z backup/restore; nie przeszedł testów Windows/docelowego builda. Migracji save'ów ani obsługi osiągnięć nie przygotowano.
 - Tekst osadzony w obrazach/audio/wideo oraz wartości dostarczane dynamicznie przez urządzenia/użytkownika nie są statycznym tekstem źródłowym.
 
 Przetwarzanie jest statyczne: JSON parsowano, JS skanowano jako tekst; nie uruchamiano gry ani kodu z jej plików. Binarne assety gry pozostają poza Git; tekstowe dane i narzędzia podlegają śledzeniu w Git. Aktualny eksport znajduje się w `games/the-genesis-order/translation/export-v1/`.

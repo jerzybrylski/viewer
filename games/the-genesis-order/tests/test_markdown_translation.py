@@ -74,6 +74,26 @@ class MarkdownTranslationTests(unittest.TestCase):
             self.assertEqual(imported["source_text"], self.row["source_text"])
             self.assertEqual(imported["translation"], translated)
 
+    def test_markdown_import_accepts_translation_after_yep_no_argument_font_code(self):
+        source_text = r"\fbCraft this item?"
+        row = dict(self.row, source_text=source_text,
+                   markup_tokens=exporter.tokens(source_text))
+        self.input.write_text(json.dumps(row, ensure_ascii=False) + "\n", encoding="utf-8")
+        translated = r"\fbWytworzyć ten przedmiot?"
+        with patch.object(markdown, "REPO_ROOT", self.root):
+            markdown.build_markdown(self.input, self.out)
+            doc = self.out / "maps" / "Map001.md"
+            text = doc.read_text(encoding="utf-8")
+            text = text.replace(
+                "TGO-TRANSLATION: \"\"",
+                "TGO-TRANSLATION: " + json.dumps(translated, ensure_ascii=False),
+            )
+            doc.write_text(text, encoding="utf-8")
+            report = markdown.import_markdown(self.input, self.out, self.import_out)
+        self.assertEqual(report["records_with_translation"], 1)
+        imported = json.loads(self.import_out.read_text(encoding="utf-8"))
+        self.assertEqual(imported["translation"], translated)
+
     def test_markdown_import_rejects_protected_source_value_changes(self):
         protected = exporter.record(
             category="ui.variable_value", status="confirmed_text_surface",

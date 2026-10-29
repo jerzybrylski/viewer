@@ -1,0 +1,312 @@
+{
+  "schema": "tgo-editorial-qa-v1",
+  "reviewed_as_correct": 7,
+  "translated_record_count": 39917,
+  "length": {
+    "median": 30,
+    "p95": 78,
+    "max": 205
+  },
+  "issues": {
+    "dash_em": {
+      "count": 92,
+      "auto_fixable": false,
+      "samples": [
+        {
+          "id": "tgo:arianna_hint:30fdfd7bf5de71913ad1",
+          "text": "Znajdź klucz do szafki na ściance wspinaczkowej na siłowni, a potem otwórz szafkę — jest w niej coś, czego potrzebujesz."
+        },
+        {
+          "id": "tgo:arianna_hint:4973527531e983daff39",
+          "text": "Ukończyłeś ten rozdział! Ale bez obaw — nowe treści pojawią się już za kilka tygodni."
+        },
+        {
+          "id": "tgo:custom_dialogue:5e08b3ff2f3d2dd166f7",
+          "text": "Ukończyłeś ten rozdział! Ale bez obaw — nowe treści pojawią się już za kilka tygodni."
+        },
+        {
+          "id": "tgo:custom_dialogue:7f9d4f4baa4d31a7f6b4",
+          "text": "Nie tylko mordowała — porywała ludzi."
+        },
+        {
+          "id": "tgo:custom_dialogue:dfa271d9d2041452ac10",
+          "text": "Mężczyzna twoich lubieżnych pragnień jest gotów — z pulsującym kutasem i nieposkromioną żądzą, by zasiać w tobie swoje nasienie."
+        },
+        {
+          "id": "tgo:custom_dialogue:c7fb4ef9d7c67ce7c641",
+          "text": "Jeśli dobrze pójdzie, kto wie — może wyniknie z tego coś więcej."
+        },
+        {
+          "id": "tgo:custom_dialogue:d465bdd23fc80bb68609",
+          "text": "A dlaczego Madalyn? Pomijając, że jest tylko jedną zakonnicą — po co miałaby to robić? Jaki miałaby motyw?"
+        },
+        {
+          "id": "tgo:custom_dialogue:4106ab6c081a4492c7b0",
+          "text": "Jak sama powiedziała — teraz nasza kolej."
+        }
+      ]
+    },
+    "dash_en": {
+      "count": 0,
+      "auto_fixable": false,
+      "samples": []
+    },
+    "english_leftover": {
+      "count": 0,
+      "auto_fixable": false,
+      "samples": []
+    },
+    "lowercase_start": {
+      "count": 0,
+      "auto_fixable": false,
+      "samples": []
+    },
+    "repeated_word": {
+      "count": 0,
+      "auto_fixable": false,
+      "samples": []
+    }
+  },
+  "long_lines": [
+    {
+      "id": "tgo:native_message_unclassified:2b304f6593aad094c03d",
+      "length": 205,
+      "text": "Śledź \\c[27]NLT-Media.com\\c[0] i \\c[27]Patreon.com/NLT\\c[0], by otrzymywać informacje o kolejnej grze. Dołącz też do \\c[29]Discorda\\c[0] i napisz, co chcesz zobaczyć w nadchodzących rozdziałach bonusowych!"
+    },
+    {
+      "id": "tgo:custom_dialogue:2a3ab7d6f72d8d0f6167",
+      "length": 194,
+      "text": "Zastanawiałeś się kiedyś, co jest na belkach pod sufitem w wysokiej sali gimnastycznej? Próbowałem się tam dostać, wiercąc dziurę w ścianie na piętrze, ale wyrzucili mnie ze szkoły za wandalizm."
+    },
+    {
+      "id": "tgo:native_message_unclassified:720ea19df0d4c3a55803",
+      "length": 182,
+      "text": "Wracając do rezydencji, policz kamienne lwy nad kominkami, potem idź na południe i policz strażników na czerwonym dywanie. Następnie znów rusz na południe i policz strażników zegara."
+    }
+  ],
+  "repeated_phrases": [
+    {
+      "phrase": "do cholery",
+      "count": 324,
+      "example": {
+        "id": "tgo:custom_dialogue:dd12fd1a9ee3e24a00f3",
+        "text": "Skąd, do cholery, mam wiedzieć, co masz teraz zrobić? Daj mi coś konkretnego."
+      }
+    },
+    {
+      "phrase": "po prostu",
+      "count": 300,
+      "example": {
+        "id": "tgo:custom_dialogue:6d83518641672a13ce8f",
+        "text": "Och… Myślałem, że po prostu będziesz wiedział, co robić."
+      }
+    },
+    {
+      "phrase": "wygląda na",
+      "count": 273,
+      "example": {
+        "id": "tgo:arianna_hint:903cca78ef67dd10e0e4",
+        "text": "Ella wygląda na przygnębioną. Pociesz ją."
+      }
+    },
+    {
+      "phrase": "wygląda na to",
+      "count": 211,
+      "example": {
+        "id": "tgo:custom_dialogue:c3041a55e9cb10b8e858",
+        "text": "Wygląda na to, że da się złożyć ten klucz. Tylko jak?"
+      }
+    },
+    {
+      "phrase": "nadzieję że",
+      "count": 199,
+      "example": {
+        "id": "tgo:arianna_hint:4fd53cf9e75d2a3f9605",
+        "text": "Mam nadzieję, że w rezydencji nadal będzie bezpiecznie, mimo że pilnuje jej mniej funkcjonariuszy."
+      }
+    },
+    {
+      "phrase": "mam nadzieję",
+      "count": 187,
+      "example": {
+        "id": "tgo:arianna_hint:4fd53cf9e75d2a3f9605",
+        "text": "Mam nadzieję, że w rezydencji nadal będzie bezpiecznie, mimo że pilnuje jej mniej funkcjonariuszy."
+      }
+    },
+    {
+      "phrase": "mam nadzieję że",
+      "count": 177,
+      "example": {
+        "id": "tgo:arianna_hint:4fd53cf9e75d2a3f9605",
+        "text": "Mam nadzieję, że w rezydencji nadal będzie bezpiecznie, mimo że pilnuje jej mniej funkcjonariuszy."
+      }
+    },
+    {
+      "phrase": "w porządku",
+      "count": 176,
+      "example": {
+        "id": "tgo:arianna_hint:2a054112542435d0382b",
+        "text": "Sprawdź, czy u Heather i Chloe wszystko w porządku."
+      }
+    },
+    {
+      "phrase": "się dzieje",
+      "count": 156,
+      "example": {
+        "id": "tgo:arianna_hint:0809eb90a8778c5d2418",
+        "text": "Chloe poszła do kościoła. Może sprawdzisz, co tam się dzieje?"
+      }
+    },
+    {
+      "phrase": "gdzie jest",
+      "count": 156,
+      "example": {
+        "id": "tgo:arianna_hint:6b8333476eb95c9b4b7f",
+        "text": "Gdzie jest Andrea?"
+      }
+    },
+    {
+      "phrase": "center br",
+      "count": 151,
+      "example": {
+        "id": "tgo:native_message_unclassified:af1ff4f237ebb484bd15",
+        "text": "<center><br><br>Spóźnił się pan, panie Canmore."
+      }
+    },
+    {
+      "phrase": "odtwórz scenę",
+      "count": 144,
+      "example": {
+        "id": "tgo:choice_unclassified:75336dc74d0b32fa005b",
+        "text": "Odtwórz scenę"
+      }
+    },
+    {
+      "phrase": "nie martw",
+      "count": 142,
+      "example": {
+        "id": "tgo:custom_dialogue:33862ab113bee6f7c476",
+        "text": "Nie martw się, 1Hero. Nie wpędzę cię w kłopoty."
+      }
+    },
+    {
+      "phrase": "martw się",
+      "count": 141,
+      "example": {
+        "id": "tgo:custom_dialogue:33862ab113bee6f7c476",
+        "text": "Nie martw się, 1Hero. Nie wpędzę cię w kłopoty."
+      }
+    },
+    {
+      "phrase": "nie martw się",
+      "count": 141,
+      "example": {
+        "id": "tgo:custom_dialogue:33862ab113bee6f7c476",
+        "text": "Nie martw się, 1Hero. Nie wpędzę cię w kłopoty."
+      }
+    },
+    {
+      "phrase": "się stało",
+      "count": 132,
+      "example": {
+        "id": "tgo:arianna_hint:b62db69f00916328209f",
+        "text": "Porozmawiaj z Andreą o tym, co się stało."
+      }
+    },
+    {
+      "phrase": "myślisz że",
+      "count": 127,
+      "example": {
+        "id": "tgo:custom_dialogue:9aeadbd4bd4bb51bf24d",
+        "text": "Myślisz, że w piekle prowadzą dokumentację? Chętnie zobaczyłbym, jakie akta można tam znaleźć!"
+      }
+    },
+    {
+      "phrase": "w rezydencji",
+      "count": 122,
+      "example": {
+        "id": "tgo:arianna_hint:0cf47103a5f6d602c15c",
+        "text": "Sprawdź mapę. Znaleziony klucz otwiera drzwi w rezydencji."
+      }
+    },
+    {
+      "phrase": "w kościele",
+      "count": 116,
+      "example": {
+        "id": "tgo:arianna_hint:7d190a6451bb75ad061d",
+        "text": "W kościele jest specjalna receptura. Znajdziesz ją?"
+      }
+    },
+    {
+      "phrase": "do skrzyni",
+      "count": 115,
+      "example": {
+        "id": "tgo:choice_unclassified:741ae0c5d7d09f1ce3d3",
+        "text": "Kup \\c[3]klucz do skrzyni\\c[0] za \\c[17]$20,000"
+      }
+    },
+    {
+      "phrase": "center br br",
+      "count": 115,
+      "example": {
+        "id": "tgo:native_message_unclassified:af1ff4f237ebb484bd15",
+        "text": "<center><br><br>Spóźnił się pan, panie Canmore."
+      }
+    },
+    {
+      "phrase": "do zobaczenia",
+      "count": 113,
+      "example": {
+        "id": "tgo:custom_dialogue:556e467dcea726e790df",
+        "text": "Do zobaczenia."
+      }
+    },
+    {
+      "phrase": "nigdy nie",
+      "count": 109,
+      "example": {
+        "id": "tgo:custom_dialogue:9426f1f0cb42bd818314",
+        "text": "Jeśli widzisz wazon, rozbij go! Nigdy nie wiadomo, co jest w środku."
+      }
+    },
+    {
+      "phrase": "co się dzieje",
+      "count": 105,
+      "example": {
+        "id": "tgo:custom_dialogue:7e8cc8b78b66d2357e1d",
+        "text": "Co się dzieje?"
+      }
+    },
+    {
+      "phrase": "nie jestem",
+      "count": 104,
+      "example": {
+        "id": "tgo:choice_unclassified:e71343f92c90fb6c06e9",
+        "text": "Nie jestem gotowy. Muszę się pouczyć."
+      }
+    }
+  ],
+  "name_variants": {
+    "Daemalius": {
+      "Daemaliusa": 7,
+      "Daemalius": 24,
+      "Daemaliusem": 2,
+      "Daemaliusie": 1
+    },
+    "Toma Leolo": {
+      "Tomy Leolo": 15,
+      "Toma Leolo": 34
+    },
+    "Anachorismos": {
+      "Anachorismos": 2
+    },
+    "The Genesis Order": {
+      "The Genesis Order": 1
+    }
+  },
+  "auto_fix": {
+    "planned": 0,
+    "applied": 0,
+    "change_log": []
+  }
+}

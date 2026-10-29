@@ -17,7 +17,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
-from export_translation import EXTRA_CONTROL_RE, canonical_id, tokens
+from export_translation import EXTRA_CONTROL_RE, canonical_id, tokens, translation_tokens_match
 from build_source_manifest import PLUGIN_ASSIGNMENT, plugin_rows
 from scan_js_text_candidates import iter_literals
 
@@ -110,7 +110,7 @@ def validate_record(row: dict[str, Any], require_complete: bool) -> str | None:
         if require_complete and not protected:
             raise ValueError(f"Translation is empty for {row['id']}")
         return None
-    if tokens(row["translation"]) != row["markup_tokens"]:
+    if not translation_tokens_match(row["source_text"], row["translation"], row["markup_tokens"]):
         raise ValueError(f"Markup/token mismatch in translation for {row['id']}")
     if EXTRA_CONTROL_RE.findall(row["translation"]) != EXTRA_CONTROL_RE.findall(row["source_text"]):
         raise ValueError(f"Additional control/placeholder mismatch in translation for {row['id']}")
