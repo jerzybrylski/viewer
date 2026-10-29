@@ -200,6 +200,11 @@ def audit(canonical_dir: Path, drafts_dir: Path) -> dict[str, Any]:
     }
 
 
+def fmt(value: int) -> str:
+    """Group thousands with a space, as used in the Polish documentation."""
+    return f"{value:,}".replace(",", " ")
+
+
 def render_markdown(report: dict[str, Any]) -> str:
     lines = [
         "# Audyt pokrycia draftów — The Genesis Order",
@@ -210,15 +215,15 @@ def render_markdown(report: dict[str, Any]) -> str:
         "",
         "## Podsumowanie",
         "",
-        f"- Rekordy kanoniczne: **{report['canonical_records']}**.",
-        f"- Pliki draftów: **{report['draft_files']}**, wierszy: **{report['draft_rows']}**.",
-        f"- Unikalne ID z niepustym tłumaczeniem: **{report['covered_ids']}**.",
-        f"- Puste rekordy ogółem: **{report['blank_records']}**, w tym "
-        f"**{report['blank_protected']}** chronionych `keep_source_value` i "
-        f"**{report['blank_translatable']}** do rozstrzygnięcia.",
-        f"- Konflikty niepustych wariantów: **{len(report['conflicts'])}**.",
+        f"- Rekordy kanoniczne: **{fmt(report['canonical_records'])}**.",
+        f"- Pliki draftów: **{fmt(report['draft_files'])}**, wierszy: **{fmt(report['draft_rows'])}**.",
+        f"- Unikalne ID z niepustym tłumaczeniem: **{fmt(report['covered_ids'])}**.",
+        f"- Puste rekordy ogółem: **{fmt(report['blank_records'])}**, w tym "
+        f"**{fmt(report['blank_protected'])}** chronionych `keep_source_value` i "
+        f"**{fmt(report['blank_translatable'])}** do rozstrzygnięcia.",
+        f"- Konflikty niepustych wariantów: **{fmt(len(report['conflicts']))}**.",
         f"- Tłumaczenia identyczne ze źródłem w kategorii prozatorskiej: "
-        f"**{len(report['identical_translations'])}**.",
+        f"**{fmt(len(report['identical_translations']))}**.",
         "",
         "## Kubełki pustych rekordów",
         "",
@@ -237,15 +242,15 @@ def render_markdown(report: dict[str, Any]) -> str:
         "needs_review": "realny tekst bez tłumaczenia — wymaga decyzji i draftu",
     }
     for name, count in report["bucket_counts"].items():
-        lines.append(f"| `{name}` | {count} | {meanings.get(name, '')} |")
+        lines.append(f"| `{name}` | {fmt(count)} | {meanings.get(name, '')} |")
     lines += ["", "## Pokrycie według kategorii", "",
               "| Kategoria | Rekordy | Z tłumaczeniem | Puste |", "|---|---:|---:|---:|"]
     for category, total in report["canonical_categories"].items():
         covered = report["covered_per_category"].get(category, 0)
         blank = report["blank_per_category"].get(category, 0)
-        lines.append(f"| `{category}` | {total} | {covered} | {blank} |")
+        lines.append(f"| `{category}` | {fmt(total)} | {fmt(covered)} | {fmt(blank)} |")
     review = report["buckets"].get("needs_review", [])
-    lines += ["", f"## Rekordy `needs_review` ({len(review)})", ""]
+    lines += ["", f"## Rekordy `needs_review` ({fmt(len(review))})", ""]
     if review:
         lines += ["| ID | Kategoria | Źródło | Zdarzenie |", "|---|---|---|---|"]
         for item in review:
@@ -255,7 +260,7 @@ def render_markdown(report: dict[str, Any]) -> str:
     else:
         lines.append("Brak — wszystkie pozostałe puste rekordy są techniczne, nazwowe lub chronione.")
     conflicts = report["conflicts"]
-    lines += ["", f"## Konflikty niepustych wariantów ({len(conflicts)})", ""]
+    lines += ["", f"## Konflikty niepustych wariantów ({fmt(len(conflicts))})", ""]
     if conflicts:
         lines += ["| ID | Źródło | Warianty |", "|---|---|---|"]
         for item in conflicts:
@@ -265,7 +270,7 @@ def render_markdown(report: dict[str, Any]) -> str:
     else:
         lines.append("Brak konfliktów.")
     identical = report["identical_translations"]
-    lines += ["", f"## Tłumaczenia identyczne ze źródłem ({len(identical)})", ""]
+    lines += ["", f"## Tłumaczenia identyczne ze źródłem ({fmt(len(identical))})", ""]
     if identical:
         lines += ["| ID | Kategoria | Plik | Tekst |", "|---|---|---|---|"]
         for item in identical:

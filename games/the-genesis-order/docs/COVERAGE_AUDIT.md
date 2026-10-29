@@ -4,10 +4,10 @@
 
 ## Podsumowanie
 
-- Rekordy kanoniczne: **45229**.
-- Pliki draftów: **425**, wierszy: **45742**.
-- Unikalne ID z niepustym tłumaczeniem: **39821**.
-- Puste rekordy ogółem: **5408**, w tym **131** chronionych `keep_source_value` i **5277** do rozstrzygnięcia.
+- Rekordy kanoniczne: **45 229**.
+- Pliki draftów: **425**, wierszy: **45 742**.
+- Unikalne ID z niepustym tłumaczeniem: **39 821**.
+- Puste rekordy ogółem: **5 408**, w tym **131** chronionych `keep_source_value` i **5 277** do rozstrzygnięcia.
 - Konflikty niepustych wariantów: **40**.
 - Tłumaczenia identyczne ze źródłem w kategorii prozatorskiej: **616**.
 
@@ -16,10 +16,10 @@
 | Kubełek | Rekordy | Znaczenie |
 |---|---:|---|
 | `blocked_by_signature` | 94 | sygnatura v1 skleja tag `\fb` z pierwszym słowem (ADR 002) |
-| `command` | 3742 | komendy `custom_dialogue` zaczynające się od `/` — sterowanie, nie proza |
+| `command` | 3 742 | komendy `custom_dialogue` zaczynające się od `/` — sterowanie, nie proza |
 | `credits_roster` | 234 | listy nazw wspierających — nazw nie tłumaczymy |
 | `identifier` | 7 | kody, liczby i krótkie markery |
-| `markup_only` | 1072 | po usunięciu tokenów nie zostaje żadna litera |
+| `markup_only` | 1 072 | po usunięciu tokenów nie zostaje żadna litera |
 | `needs_review` | 30 | realny tekst bez tłumaczenia — wymaga decyzji i draftu |
 | `proper_name` | 91 | imiona postaci, nazwy przedmiotów, podpisy galerii |
 | `protected` | 131 | `keep_source_value` — wartość musi zostać bez zmian |
@@ -30,15 +30,15 @@
 | Kategoria | Rekordy | Z tłumaczeniem | Puste |
 |---|---:|---:|---:|
 | `arianna_hint` | 705 | 705 | 0 |
-| `choice_option` | 1930 | 1416 | 514 |
+| `choice_option` | 1 930 | 1 416 | 514 |
 | `credits` | 239 | 2 | 237 |
-| `custom_dialogue` | 38638 | 34714 | 3924 |
+| `custom_dialogue` | 38 638 | 34 714 | 3 924 |
 | `database.actors.name` | 28 | 0 | 28 |
 | `database.items.name` | 477 | 475 | 2 |
 | `image_caption` | 134 | 66 | 68 |
 | `item_found_label` | 649 | 648 | 1 |
 | `map_label` | 291 | 290 | 1 |
-| `native_message` | 1122 | 692 | 430 |
+| `native_message` | 1 122 | 692 | 430 |
 | `phone_contact_ui` | 378 | 352 | 26 |
 | `phone_text` | 30 | 26 | 4 |
 | `system.armorTypes` | 6 | 6 | 0 |
