@@ -1,6 +1,6 @@
 # Handoff — The Genesis Order PL
 
-Stan: 2026-10-29. Statyczne tłumaczenie wszystkich kwalifikujących się rekordów oraz oba wskazane milestone’y są zbudowane. To nadal proof of concept: gra, instalator Windows, glify/łamanie tekstu i działanie w runtime nie były testowane. Nie uruchamiać kodu gry ani nie nadpisywać instalacji użytkownika.
+Stan: 2026-10-29. Statyczne tłumaczenie wszystkich kwalifikujących się rekordów oraz oba wskazane milestone’y są zbudowane. Patch **działa w grze** (POTWIERDZONE przez właściciela 2026-10-29: polskie znaki, opcje PL, poprawne zawijanie). To nadal proof of concept w zakresie QA treści: nie ma pełnego przejścia gry, testu save/load ani weryfikacji na innych buildach. Nie uruchamiać kodu gry ani nie nadpisywać instalacji użytkownika.
 
 > **Najpierw przeczytaj [`RECOVERY_2026-10-29.md`](RECOVERY_2026-10-29.md).** Praca poprzedniego agenta nie była w Git i została odzyskana z patcha i ZIP-ów; tam jest metoda, hashe i dowody spójności. Nie powtarzaj odzyskiwania.
 
@@ -38,7 +38,7 @@ Szczegółowy zakres i ograniczenia: `STATUS.md`, `ROADMAP_TRANSLATION.md`, `COU
 2. **Redakcja językowa 39 917 draftów** po stabilnym `id`: spójność z glosariuszem, długości linii, powtarzalne powiedzenia. **Największy konkretny dług: odmiana imion** — imiona na `-a` są odmienione tylko w 21–50% wystąpień (Erica 140/318, Andrea 108/294, Ella 88/263), więc w korpusie obok siebie stoją „sypialni Andrei” i „z Andrea”. Tabela i decyzja: R-09 w `EDITORIAL_DECISIONS.md`. Audyt wskazuje też 617 tłumaczeń identycznych ze źródłem — po odfiltrowaniu imion i wykrzyknień zostaje 37 wielowyrazowych, wszystkie to nazwy własne, pseudonimy i linki.
 3. **28 rekordów w kubełku `needs_review`** — 24 opcje wyboru, które są samym imieniem z `\c[n]\v[n]`, oraz 4 wartości telefonu/natywne: `Madalyn.`, `Morgan #142`, `Morgan.`, `Amulet K.` ([`COVERAGE_AUDIT.md`](COVERAGE_AUDIT.md)). Przejrzeć pojedynczo i zdecydować, czy zostają w źródle, nie tłumaczyć hurtem.
 4. **Przebudowa artefaktów po redakcji:** `build_standalone_patch.py`, `build_readalong.py` (ok. 9 s przy dostępnych źródłach), aktualizacja `.sha256` i wpis w `EXPERIMENT_LOG.md`.
-5. **Testy patchera na kopii wspieranego builda Windows:** sprawdzić backup/restore, placeholdery, glify, UI i niezmienność oryginału. Nie publikować POC jako zatwierdzonego spolszczenia przed tym QA.
+5. **QA treści w grze (zamiast testów fontów — te już przeszły):** pełne przejście z patchem, sprawdzenie save/load, długich kwestii w wąskich okienkach UI, wyborów i komunikatów błędów. Zebrać listę zdań do redakcji i poprawiać je partiami draftów, nie „na żywo” w plikach gry.
 
 ## Zasady i pułapki
 

@@ -2,7 +2,7 @@
 
 **Cel:** przygotować bezpieczny pipeline od zweryfikowanych źródeł RPG Maker MV, przez tłumaczenie z kontekstem, po lokalny patcher Windows. Tekstów SRW nie kopiujemy do TGO; przenoszone są wyłącznie ogólne praktyki: stabilne ID, JSONL, walidacja placeholderów, branch-aware Markdown i staging bez nadpisywania oryginału.
 
-**Aktualny gate:** statyczne skanowanie, eksport, tłumaczenia kwalifikującego się tekstu, standalone patch POC oraz Czytanka PL v1 są zbudowane. Merge 427 draftów: 45 229 rekordów, 39 917 tłumaczeń, 131 jawnie chronionych, 5 181 zachowane nielokalizowalne, 0 nierozstrzygniętych. Korpus odtworzony ze scalenia draftów jest bajt w bajt zgodny z payloadem patcha POC, więc nic nie istnieje tylko w ZIP-ie. Pozostają: decyzje redakcyjne z `EDITORIAL_DECISIONS.md`, redakcja językowa, testy fontów/łamania oraz Windows/runtime i QA w kopii gry; obrazy/wideo są wyłączone z zakresu.
+**Aktualny gate:** statyczne skanowanie, eksport, tłumaczenia kwalifikującego się tekstu, standalone patch POC oraz Czytanka PL v1 są zbudowane. Merge 427 draftów: 45 229 rekordów, 39 917 tłumaczeń, 131 jawnie chronionych, 5 181 zachowane nielokalizowalne, 0 nierozstrzygniętych. Korpus odtworzony ze scalenia draftów jest bajt w bajt zgodny z payloadem patcha POC, więc nic nie istnieje tylko w ZIP-ie. Decyzje z `EDITORIAL_DECISIONS.md` są zamknięte, a patch **działa w grze** (POTWIERDZONE 2026-10-29: polskie znaki, opcje PL, zawijanie tekstu). Pozostają: redakcja językowa i pełne QA treści w grze; obrazy/wideo są wyłączone z zakresu.
 
 ## Kanoniczny przepływ
 

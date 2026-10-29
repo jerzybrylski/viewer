@@ -431,3 +431,11 @@
 - **Bezpieczeństwo bez zmian:** lokalizator tylko czyta katalogi; weryfikacja 238 hashy, staging i backup działają jak wcześniej. Odrzucenie folderu nie zmienia niczego w grze.
 - **Testy:** nowe `tests/test_patcher_locator.py` (19 testów: rozpoznawanie instalacji, limity głębokości, parsowanie VDF, pamięć, scénariusze wyboru i fallbacki) + 4 testy CLI w `tests/test_standalone_patcher.py` (proces potomny, zapis konfiguracji, `--forget`, czysty błąd bez kandydatów) + 3 testy w `tests/test_patch_artifacts.py` (ZIP zawiera `locator.py`, pliki patchera zgodne z repo bajt w bajt, launchery nie zawierają `set /p`). Razem **114/114 OK**.
 - **Artefakt:** patch przebudowany (13 wpisów, +`locator.py`), SHA-256 `f60a2ff512e397ffa1d730bc0d48a5949fbc2541ef7516e9302998cd8d512277`, 3 747 899 B; `payload/translations.jsonl` bez zmian (`d90191df…`), więc treść tłumaczeń jest identyczna. Sprawdzono end-to-end na rozpakowanym ZIP-ie: pierwsze uruchomienie znajduje instalację, drugie używa zapamiętanej, a `apply` na atrapie kończy się czystym błędem bez modyfikacji plików.
+
+## 2026-10-29 (noc) — patch potwierdzony w grze: R-11 zamknięte
+
+- **Raport właściciela po wgraniu patcha v0.1.1 na jego kopię gry:** „Napisy mają polską czcionkę, opcje są po polsku, napisy dobrze się zawijają i łamią.” To pierwsze potwierdzenie z działającej gry w całym projekcie — do tej pory wszystkie wyniki były statyczne.
+- **Co to zamyka:** **R-11** (największe ryzyko projektu — brak polskich glifów w czcionce gry) jest **POTWIERDZONE**: ą/ć/ę/ł/ń/ó/ś/ź/ż wyświetlają się, opcje są przetłumaczone, zawijanie i łamanie długich kwestii działa. Nie trzeba podmieniać czcionki ani zmieniać polityki tłumaczenia długości linii.
+- **Co pozostaje NIEZWERYFIKOWANE:** pełne przejście gry (wszystkie mapy i warianty), zachowanie po wczytaniu save’a, najdłuższe kwestie w najwęższych okienkach UI oraz inne buildy produktu niż testowany. To QA treści, nie ryzyko techniczne.
+- **Brak zmian w artefaktach:** patch `f60a2ff5…` (3 747 899 B) i Czytanka `74a3b096…` pozostają aktualne; zmieniono wyłącznie dokumentację (STATUS, EDITORIAL_DECISIONS, HANDOFF, ten wpis).
+- **Następny krok:** QA treści w grze partiami — zebrać zdania do redakcji i poprawiać je jako nowe drafty, bez ruszania plików gry.

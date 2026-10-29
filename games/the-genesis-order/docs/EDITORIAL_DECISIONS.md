@@ -4,7 +4,7 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 
 **Stan:** 2026-10-29, po decyzjach właściciela. Liczby: 427 partii, **39 917** tłumaczeń, 131 rekordów chronionych, **5 181** świadomie zachowanych w źródle, 0 nierozstrzygniętych.
 
-**Wszystkie pozycje są rozstrzygnięte.** R-01, R-02, R-07, R-08, R-09 — wykonane (zmiany w korpusie i paczkach). R-03, R-04, R-05, R-06, R-10 — właściciel uznał za nieistotne: **zostaje wariant obecny, bez żadnych zmian**. R-11 (fonty) — weryfikacja u właściciela po wgraniu patcha; jedyna otwarta niewiadoma i jedyny warunek sensu publikacji.
+**Wszystkie pozycje są rozstrzygnięte.** R-01, R-02, R-07, R-08, R-09 — wykonane (zmiany w korpusie i paczkach). R-03, R-04, R-05, R-06, R-10 — właściciel uznał za nieistotne: **zostaje wariant obecny, bez żadnych zmian**. R-11 (fonty) — **POTWIERDZONE W GRZE** 2026-10-29: polskie znaki, opcje PL i zawijanie tekstu działają. Lista decyzji jest zamknięta.
 
 ## Jak czytać
 
@@ -133,9 +133,10 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 - **Alternatywy:** „Kościół WoNo”, „WoNoChurch” bez zmian.
 - **Do decyzji:** A) stan obecny, B) „Kościół WoNo”, C) bez zmian.
 
-## R-11 — Fonty i polskie glify (NIEZNANE)
+## R-11 — Fonty i polskie glify — **POTWIERDZONE W GRZE (2026-10-29)**
 
-- **Stan:** nie sprawdzono, czy czcionki w grze zawierają ą/ć/ę/ł/ń/ó/ś/ź/ż ani jak łamie się dłuższy polski tekst.
+- **Stan:** **POTWIERDZONE przez właściciela na jego kopii gry** (2026-10-29, po wgraniu patcha v0.1.1): napisy wyświetlają się **polską czcionką** (ą/ć/ę/ł/ń/ó/ś/ź/ż są widoczne), **opcje są po polsku**, a tekst **dobrze się zawija i łamie**. To zdejmuje największe ryzyko projektu.
+- **Co pozostaje NIEZWERYFIKOWANE:** pełne przejście gry (wszystkie mapy i warianty), zachowanie po wczytaniu save’a, długie kwestie w wąskich oknach UI oraz inne buildy produktu niż ten, na którym testowano. To już QA treści, nie ryzyko techniczne.
 - **Ryzyko:** to najpoważniejsze ryzyko całego projektu — jeśli font nie ma glifów, cała praca jest niewidoczna w grze.
 - **Do decyzji:** test na kopii gry (Windows) albo świadome zaakceptowanie ryzyka w POC.
 
@@ -155,4 +156,4 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 | R-08 | `TEXT`/`TEKST` (TEST MAP) | **rozstrzygnięte: przywrócony `TEXT`** — wykonane |
 | R-09 | Odmiana imion | **rozstrzygnięte: ujednolicić odmianę** — wykonane w 380 rekordach (patrz wyżej) |
 | R-10 | `WoNoChurch` | **rozstrzygnięte: bez zmian** — „WoNo — kościół” |
-| R-11 | Fonty | **w toku u właściciela** — test po wgraniu patcha; jedyna otwarta niewiadoma |
+| R-11 | Fonty | **POTWIERDZONE W GRZE** — polskie znaki, opcje PL i zawijanie tekstu działają |
