@@ -414,3 +414,10 @@
 - **Artefakty:** patch `TGO_PL_translation_patch_POC_v0.1.1.zip` SHA-256 `914e73fa9e9022aabbe9a5fcb5dfef553d6100b6f266e8fde9e256f8344e6789` (3 740 219 B, 39 917 tłumaczeń, 238 fingerprintów — `fingerprints_sha256` bez zmian `22aaa094…`, bo źródła gry się nie zmieniły); Czytanka `TGO_readalong_PL_v1.zip` SHA-256 `74a3b096a07e92de32f6b5ac42e9f297cf4a33adf2db21fdd92359f60ec04c4f`.
 - **Odtwarzalność:** nowy test w `tests/test_merge_translation_batches.py` scala drafty z Git i porównuje SHA-256 payloadu z manifestem → `d90191df69ca4194b6d59071ce6a4a40a3dfa5ac52c5a5b20f5ff9b726a44458`. Testy: **88/88 OK**.
 - **Nie zrobiono:** nic nie uruchomiono w Windows ani w grze; R-11 (glify) nadal NIEZNANE i nadal blokuje sens całości.
+
+## 2026-10-29 (noc) — zamknięcie listy decyzji: R-03/R-04/R-05/R-06/R-10 zostają bez zmian
+
+- **Decyzja właściciela:** pozostałe pozycje redakcyjne uznane za nieistotne; obowiązuje stan obecny korpusu. **Nie zmieniono ani jednego rekordu tłumaczenia ani ani jednego bajtu paczek** — przebudowa nie była potrzebna, więc hashe z poprzedniego kroku pozostają aktualne (patch `914e73fa…`, Czytanka `74a3b096…`).
+- **Zmiana wyłącznie w dokumentacji:** `EDITORIAL_DECISIONS.md` (każda pozycja ma status, datę i wariant obowiązujący), `STATUS.md`.
+- **Otwarte:** R-11 — polskie glify i łamanie tekstu w grze. Właściciel testuje patch na własnej kopii i wróci z informacją, czy działa i czy znaki są widoczne.
+- **Testy:** bez zmian względem poprzedniego kroku — `88/88 OK`.

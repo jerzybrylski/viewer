@@ -2,7 +2,9 @@
 
 Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co innego** albo gdzie przyjęto wariant bez jednoznacznego rozstrzygnięcia. Pozycje rozstrzygnięte przez właściciela mają w nagłówku **ROZSTRZYGNIĘTE**, datę decyzji i opis wykonania; pozostałe czekają na decyzję. Każda pozycja ma ID, więc decyzję zapisuje się jednym zdaniem („R-03: wariant B”).
 
-**Stan:** 2026-10-29, po decyzjach właściciela. Liczby: 427 partii, **39 917** tłumaczeń, 131 rekordów chronionych, **5 181** świadomie zachowanych w źródle, 0 nierozstrzygniętych. Decyzje: **R-01, R-02, R-07, R-08, R-09 rozstrzygnięte i wykonane**; R-11 wstrzymane przez właściciela (wróci po wgraniu patcha); R-03, R-04, R-05, R-06, R-10 czekają.
+**Stan:** 2026-10-29, po decyzjach właściciela. Liczby: 427 partii, **39 917** tłumaczeń, 131 rekordów chronionych, **5 181** świadomie zachowanych w źródle, 0 nierozstrzygniętych.
+
+**Wszystkie pozycje są rozstrzygnięte.** R-01, R-02, R-07, R-08, R-09 — wykonane (zmiany w korpusie i paczkach). R-03, R-04, R-05, R-06, R-10 — właściciel uznał za nieistotne: **zostaje wariant obecny, bez żadnych zmian**. R-11 (fonty) — weryfikacja u właściciela po wgraniu patcha; jedyna otwarta niewiadoma i jedyny warunek sensu publikacji.
 
 ## Jak czytać
 
@@ -36,7 +38,9 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 - **Do decyzji:** potwierdzić `Channel 4` (stan obecny) albo przywrócić „Kanał 4” (wtedy trzeba też poprawić 63 zdania, gdzie nazwa pełni funkcję rzeczownika).
 - **Uwaga:** nazwa wchodzi do polskich zdań w formie nieodmienionej („w wieżowcu Channel 4”, nie „w wieżowcu Kanale 4”). To spójne z decyzją R-09 o formach bazowych, ale jest odczuwalne stylistycznie.
 
-## R-03 — Etykiety map (wszystkie 291, w tym 40 przepisanych)
+## R-03 — Etykiety map (wszystkie 291, w tym 40 przepisanych) — **ROZSTRZYGNIĘTE: zostaje stan obecny**
+
+> **Decyzja właściciela (2026-10-29): pozycja nieistotna — nie zmieniać.** Obowiązuje obecny korpus: 291 etykiet, 288 przetłumaczonych, 3 bez zmian (`Channel 4`, `START`, `Test`).
 
 - **Stan (POTWIERDZONE):** `drafts/inventory-names-01.jsonl` zawiera **wszystkie 291** etykiet map: **288** przetłumaczonych, **3** bez zmian (`Channel 4`, `START`, `Test`). W ostatnim uzgodnieniu przepisano **40** etykiet — plik jest bajt w bajt zgodny z wersją z PR #5.
 - **Przykłady przepisanych:** `PRE TITLE` → „PRZED EKRANEM TYTUŁOWYM”, `MC Home` → „Dom bohatera”, `Strip Center` → „Centrum handlowe”, `Foyer` → „Hol wejściowy”, `Storage` → „Magazyn”, `Police Station` → „Komisariat policji”.
@@ -44,21 +48,27 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 - **Do decyzji:** A) zostawić wszystkie 288 tłumaczeń (stan obecny), B) przywrócić robocze nazwy tam, gdzie mapa jest nieosiągalna, C) punktowo — właściciel wskazuje mapy widoczne w grze.
 - **Uwaga:** 70 z 291 map jest nieosiągalnych w statycznym BFS od startu (`reading/v1/README_PL.md`), więc część etykiet może być martwa — ale BFS jest przybliżony, nie dowodem.
 
-## R-04 — „Craft this item?”: „Wytworzyć ten przedmiot?” czy „Wytworzyć przedmiot?”
+## R-04 — „Craft this item?”: „Wytworzyć ten przedmiot?” czy „Wytworzyć przedmiot?” — **ROZSTRZYGNIĘTE: zostaje stan obecny**
+
+> **Decyzja właściciela (2026-10-29): pozycja nieistotna — nie zmieniać.** Obowiązuje „Wytworzyć ten przedmiot?” (94 rekordy Map 46).
 
 - **Stan:** w korpusie finalnym **„Wytworzyć ten przedmiot?”** (94 rekordy Map 46, identyczne powtórzenia).
 - **Alternatywa:** „Wytworzyć przedmiot?” — krótsze, mniej „urzedowe”; mieści się lepiej w wąskim okienku UI.
 - **Do decyzji:** A) „Wytworzyć ten przedmiot?”, B) „Wytworzyć przedmiot?”, C) „Wytworzyć?” (najkrótsze, ale traci dopełnienie).
 - **Koszt zmiany:** jeden rekord źródłowy × 47 wystąpień; builder przebudowuje deterministycznie.
 
-## R-05 — „You have items missing from this recipe.”
+## R-05 — „You have items missing from this recipe.” — **ROZSTRZYGNIĘTE: zostaje stan obecny**
+
+> **Decyzja właściciela (2026-10-29): pozycja nieistotna — nie zmieniać.** Obowiązuje „Brakuje ci przedmiotów potrzebnych do tego przepisu.” (94 rekordy).
 
 - **Stan:** „Brakuje ci przedmiotów potrzebnych do tego przepisu.”
 - **Alternatywa:** „Brakuje przedmiotów z tej receptury.” — krótsze, ale „receptura” brzmi technicznie.
 - **Do decyzji:** A) stan obecny, B) krótszy wariant.
 - **Uwaga:** to komunikat błędu widoczny przy każdej nieudanej próbie craftingu, więc długość ma znaczenie dla czytelności.
 
-## R-06 — `He’s going to be` → „Będzie”
+## R-06 — `He’s going to be` → „Będzie” — **ROZSTRZYGNIĘTE: zostaje stan obecny**
+
+> **Decyzja właściciela (2026-10-29): pozycja nieistotna — nie zmieniać.** Obowiązuje „Będzie<br>” (komenda 430) przed „Wkurzony, kumasz?” (431).
 
 - **Stan (POTWIERDZONE, kolejność sprawdzona w evencie):** to **pierwsza** z dwóch linii wiadomości w wątku `M. Deluna` — kolejność komend 430 → 431: „He’s going to be<br>” → **„Będzie<br>”**, a zaraz po niej „pissed, ya know?” → „Wkurzony, kumasz?”. Razem czytają się jako „Będzie wkurzony, kumasz?”.
 - **Alternatywa:** „On będzie” (bliżej składni angielskiej, ale w polskim zaimka się nie powtarza).
@@ -115,7 +125,9 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 > **Świadome ograniczenie:** to nie jest pełna odmiana wszystkich ~1 400 wystąpień — wolimy 628 form mianownikowych
 > niż 200 błędnych form w zdaniach z przyimkami niejednoznacznymi (`z`, `o`, `na`).
 
-## R-10 — `WoNoChurch` → „WoNo — kościół”
+## R-10 — `WoNoChurch` → „WoNo — kościół” — **ROZSTRZYGNIĘTE: zostaje stan obecny**
+
+> **Decyzja właściciela (2026-10-29): pozycja nieistotna — nie zmieniać.** Obowiązuje „WoNo — kościół”.
 
 - **Stan:** częściowe tłumaczenie: niejasny prefiks `WoNo` zachowany, oczywisty człon przetłumaczony.
 - **Alternatywy:** „Kościół WoNo”, „WoNoChurch” bez zmian.
@@ -135,12 +147,12 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 |---|---|---|
 | R-01 | Tytuł gry | **rozstrzygnięte: wariant B** (oryginał) — wykonane |
 | R-02 | `Channel 4` | **rozstrzygnięte: marka bez zmian** — korpus już spójny |
-| R-03 | 40 etykiet map | zostawić, potem punktowo wyciszyć martwe mapy |
-| R-04 | Crafting — pytanie | „Wytworzyć przedmiot?” (krótsze) |
-| R-05 | Crafting — błąd | stan obecny |
-| R-06 | Telefon | „Będzie” |
+| R-03 | Etykiety map | **rozstrzygnięte: bez zmian** — 288 przetłumaczonych zostaje |
+| R-04 | Crafting — pytanie | **rozstrzygnięte: bez zmian** — „Wytworzyć ten przedmiot?” |
+| R-05 | Crafting — błąd | **rozstrzygnięte: bez zmian** |
+| R-06 | Telefon | **rozstrzygnięte: bez zmian** — „Będzie” |
 | R-07 | Placeholdery | **rozstrzygnięte: przywrócone angielskie** — wykonane |
 | R-08 | `TEXT`/`TEKST` (TEST MAP) | **rozstrzygnięte: przywrócony `TEXT`** — wykonane |
 | R-09 | Odmiana imion | **rozstrzygnięte: ujednolicić odmianę** — wykonane w 380 rekordach (patrz wyżej) |
-| R-10 | `WoNoChurch` | „Kościół WoNo” |
-| R-11 | Fonty | **wstrzymane przez właściciela** — wróci po wgraniu patcha; blokuje sens całości |
+| R-10 | `WoNoChurch` | **rozstrzygnięte: bez zmian** — „WoNo — kościół” |
+| R-11 | Fonty | **w toku u właściciela** — test po wgraniu patcha; jedyna otwarta niewiadoma |
