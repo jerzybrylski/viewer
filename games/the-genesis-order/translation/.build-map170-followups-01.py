@@ -1,0 +1,35 @@
+#!/usr/bin/env python3
+"""Build Polish drafts for Map 170 follow-ups (LLM)."""
+import json
+from pathlib import Path
+ROOT = Path(__file__).resolve().parent
+CANON = ROOT / 'export-v1/custom_dialogue.jsonl'
+OUTPUT = ROOT / 'drafts/custom-dialogue-map170-followups-01.jsonl'
+TRANSLATIONS = {
+    "tgo:custom_dialogue:882cda05ab8d2cd928e0": "Te drzwi nie mają klamki. Muszą otwierać się elektronicznie… Ale jak? Gdzieś jest klawiatura?",
+    "tgo:custom_dialogue:2bd1818de84749398e27": "Wygląda, że na klawiaturze są odciski na niektórych przyciskach.",
+    "tgo:custom_dialogue:bc4240428252e841b4a4": "Klawiatura… Ale jaki jest kod?...",
+    "tgo:custom_dialogue:695559966fbb8587dfb8": "Mógłbym zdjąć odciski z tej klawiatury?",
+}
+known=set()
+for p in (ROOT/'drafts').rglob('*.jsonl'):
+    for line in p.read_text(encoding='utf-8').splitlines():
+        if line.strip():
+            r=json.loads(line)
+            if r.get('translation','').strip(): known.add(r['id'])
+rows=[]
+unmapped=set()
+for line in CANON.read_text(encoding='utf-8').splitlines():
+    if not line.strip(): continue
+    r=json.loads(line)
+    ctx=r.get('context') or {}
+    src=' '.join(r.get('source_text','').strip().split())
+    if r['id'] in known or r.get('category')!='custom_dialogue' or ctx.get('source_kind')!='map' or ctx.get('map_id')!=170 or ctx.get('translation_policy')=='keep_source_value' or not src or src.lstrip().startswith('/') or not any(c.isalpha() for c in src): continue
+    tr=TRANSLATIONS.get(r['id'])
+    if tr is None: unmapped.add((ctx.get('event_id'), r['id'], src)); continue
+    r['translation']=tr; rows.append(r)
+if unmapped: raise SystemExit('Unmapped '+repr(sorted(unmapped)))
+if OUTPUT.exists(): raise SystemExit(f'Refusing {OUTPUT}')
+if len(rows)!=4: raise SystemExit(f'Expected 4, got {len(rows)}')
+OUTPUT.write_text(''.join(json.dumps(x, ensure_ascii=False, sort_keys=True)+'\n' for x in rows), encoding='utf-8')
+print(f'Wrote {len(rows)} Map170')

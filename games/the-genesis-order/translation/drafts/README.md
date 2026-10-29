@@ -4,7 +4,7 @@ Stan na 2026-10-29. Wszystkie pliki w tym katalogu są **roboczymi zwrotkami** p
 
 ## Aktualny scalony stan
 
-Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step11.jsonl`. Narzędzie `games/the-genesis-order/tools/merge_translation_batches.py` zweryfikowało **45 229 rekordów**: **20 610 niepustych tłumaczeń**, **131 rekordów chronionych** oraz **24 488 tłumaczalnych pól oczekujących**. Po step11 powstało dotąd **12 661 nowych, unikalnych draftów w 110 osobnych plikach**: pierwsze 10 140 przekroczyło dawny cel +10 000 o 140, a dalsze partie dodały 2 521. Łączna projekcja wynosi **33 271 unikalnych niepustych tłumaczeń** (liczonych po ID, bez powielania alternatywnych draftów). Bieżący cel 45 000 dotyczy wyłącznie faktycznego tekstu widocznego dla gracza; etykiety techniczne i tokeny sterujące pozostają nietłumaczone i nie są wliczane. Wcześniejszy teoretyczny pułap po odjęciu 131 chronionych rekordów i 3 742 tokenów sterujących to 41 356, więc od obecnego stanu może pozostać najwyżej 8 085 kwalifikujących się rekordów; rzeczywista liczba może być niższa, a osiągnięcie 45 000 nie jest gwarantowane. Wszystkie dodatki pozostają osobnymi, niescalonymi i wymagającymi redakcji partiami; szczegóły znajdują się poniżej. Pierwsza tabela opisuje skład pełnego scalenia step11, a nie nowych przyrostów. Nie jest to eksport kanoniczny. SHA-256 step11: `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`.
+Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step11.jsonl`. Narzędzie `games/the-genesis-order/tools/merge_translation_batches.py` zweryfikowało **45 229 rekordów**: **20 610 niepustych tłumaczeń**, **131 rekordów chronionych** oraz **24 488 tłumaczalnych pól oczekujących**. Po step11 powstało dotąd **19 321 nowych, unikalnych draftów w 259 osobnych plikach**: pierwsze 10 140 przekroczyło dawny cel +10 000 o 140, dalsze partie dodały 2 521, partie Map 6/41/44 dodały 392, Map 96 dodała 126, Map 51 dodała 119, Map 60 dodała 119, Map 200 dodała 129, Map 202 dodała 123, Map 55 (118) i Map 121 (118) dodały 236, Map 57 (116), Map 104 (117), Map 108 (116) dodały 349, Map 81 (106) dodał 106, Map 85 (102) dodał 102, Map 24 (101) i Map 115 (101) dodały 202 oraz Map 17 (100), Map 35 (100), Map 79 (100) i Map 5 (97) dodały 397 oraz Map 56 (95) dodała 95, Map 100 (95) dodała 95, Map 63 (92), Map 83 (90) i Map 98 (88) dodały 270, Map 128 (85), Map 158 (85), Map 183 (85) i Map 42 (83) dodały 338, Map 70 (83) dodała 83, Map 18 (82), Map 53 (82) i Map 120 (81) dodały 245, Map 73 (79) i Map 137 (79) dodały 158, Map 257 (77) i Map 59 (75) dodały 152, Map 102 (75), Map 43 (74) i Map 48 (73) dodały 222, Map 77 (68), Map 47 (67) i Map 124 (67) dodały 202, Map 72 (66), Map 240 (66), Map 140 (61) i Map 116 (60) dodały 253, Map 153 (58), Map 190 (57) i Map 245 (54) dodały 169, Map 109 (51), Map 86 (49), Map 99 (49) i Map 204 (48) dodały 197, Map 159 (47), Map 22 (46), Map 217 (46) i Map 119 (45) dodały 184, Map 145 (45), Map 105 (44), Map 291 (43) i Map 206 (42) dodały 174, Map 7 (41), Map 149 (41), Map 160 (40) i Map 132 (39) dodały 161, Map 58 (38), Map 162 (38), Map 267 (38) i Map 97 (37) dodały 151, Map 106 (37), Map 64 (36), Map 147 (35), Map 84 (33) i Map 127 (33) dodały 174, Map 65 (32), Map 166 (32), Map 107 (31), Map 134 (30) i Map 69 (28) dodały 153, Map 95 (26), Map 246 (26), Map 45 (24), Map 122 (24), Map 10 (23) i Map 168 (23) dodały 146, Map 179 (23), Map 129 (22), Map 150 (21), Map 185 (20), Map 230 (20) i Map 14 (19) dodały 125, Map 103 (18), Map 142 (17), Map 252 (17), Map 126 (16), Map 130 (16) i Map 277 (16) dodały 100, Map 139 (15), Map 143 (15), Map 67 (14), Map 172 (14), Map 275 (14) i Map 276 (14) dodały 86, Map 131 (13), Map 135 (12), Map 146 (11), Map 136 (10), Map 174 (10) i Map 215 (10) dodały 66, Map 24 (111) dodała 111, Map 66 (9), Map 186 (9), Map 282 (9), Map 29 (8), Map 113 (8) i Map 68 (7) dodały 50, Map 155 (7), Map 167 (7), Map 181 (7) i Map 274 (7) dodały 28 oraz Map 154 (6), Map 169 (6), Map 176 (5), Map 117 (4), Map 156 (4) i Map 165 (4) dodały 29 oraz Map 170 (4), Map 133 (3), Map 152 (3), Map 182 (3), Map 199 (3), Map 205 (3), Map 74 (2), Map 118 (2), Map 148 (2), Map 180 (2), Map 193 (2), Map 214 (2), Map 216 (2), Map 218 (2), Map 258 (2), Map 39 (1), Map 112 (1), Map 123 (1), Map 161 (1), Map 164 (1) i Map 188 (1) dodały 43 (LLM). Łączna projekcja wynosi **39 931 unikalnych niepustych tłumaczeń** (liczonych po ID, bez powielania alternatywnych draftów; zweryfikowano `34156→39931`). Bieżący cel 45 000 dotyczy wyłącznie faktycznego tekstu widocznego dla gracza; etykiety techniczne i tokeny sterujące pozostają nietłumaczone i nie są wliczane. Wcześniejszy teoretyczny pułap po odjęciu 131 chronionych rekordów i 3 742 tokenów sterujących to 41 356, więc od obecnego stanu może pozostać najwyżej 1 425 kwalifikujących się rekordów; rzeczywista liczba może być niższa, a osiągnięcie 45 000 nie jest gwarantowane. Wszystkie dodatki pozostają osobnymi, niescalonymi i wymagającymi redakcji partiami; szczegóły znajdują się poniżej. Pierwsza tabela opisuje skład pełnego scalenia step11, a nie nowych przyrostów. Nie jest to eksport kanoniczny. SHA-256 step11: `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`.
 
 ## Aktualnie używane partie
 
@@ -108,7 +108,164 @@ Po osiągnięciu pierwszego przyrostu dodano jeszcze cztery partie Common Events
 | Map 203 — courtroom, 8 eventów | `custom-dialogue-map203-courtroom-followups-01.jsonl` | 171 |
 | **Suma dalszych partii** | **15 osobnych plików** | **2 521** |
 
-Łącznie po step11 jest teraz **12 661 świeżych, unikalnych ID w 110 plikach**, co daje projekcję **33 271** niepustych tłumaczeń. Test sprawdza zgodność wszystkich 2 521 nowych rekordów z eksportem kanonicznym, kompletność, tokeny/placeholdery, brak slash-prefixed komend, brak ID chronionych oraz brak duplikatów i nakładania z wcześniejszymi draftami. Wszystkie 792 zinwentaryzowane wiersze naturalnego tekstu Common Events są już opracowane. Z wcześniejszego roboczego podzbioru map pozostało **6 549** wierszy po odjęciu Map 12 (140), Map 19 (185), Map 25 (148), Map 34 (143), Map 52 (135), Map 61 (156), Map 94 (139), Map 101 (142), Map 114 (178), Map 151 (192) i Map 203 (171) — to liczba kandydatów, nie gwarancja, że każdy jest tekstem widocznym dla gracza. Kontynuować tylko faktyczny tekst gracza; nie wypełniać technicznych etykiet ani tokenów sterujących, nawet jeśli końcowy licznik pozostanie poniżej 45 000. Partie wymagają redakcji, są niescalone, a kanoniczny eksport i source ZIP v1 pozostają bez zmian.
+Łącznie po step11 jest teraz **19 321 świeżych, unikalnych ID w 259 plikach**, co daje projekcję **39 931** niepustych tłumaczeń (poprzednio 39 888 przed Map170/133/152/182/199/205/74/118/148/180/193/214/216/218/258/39/112/123/161/164/188). Test sprawdza zgodność wszystkich 2 521 nowych rekordów z eksportem kanonicznym, kompletność, tokeny/placeholdery, brak slash-prefixed komend, brak ID chronionych oraz brak duplikatów i nakładania z wcześniejszymi draftami. Wszystkie 792 zinwentaryzowane wiersze naturalnego tekstu Common Events są już opracowane. Z wcześniejszego roboczego podzbioru map pozostało **0** wierszy po odjęciu Map 6 (137), Map 41 (130), Map 44 (125), Map 96 (126), Map 51 (119), Map 60 (119), Map 200 (129), Map 202 (123), Map 55 (118), Map 121 (118), Map 57 (116), Map 104 (117), Map 108 (116), Map 81 (106), Map 85 (102), Map 24 (101), Map 115 (101), Map 17 (100), Map 35 (100), Map 79 (100), Map 5 (97), Map 56 (95), Map 100 (95), Map 63 (92), Map 83 (90), Map 98 (88), Map 128 (85), Map 158 (85), Map 183 (85), Map 42 (83), Map 70 (83), Map 18 (82), Map 53 (82), Map 120 (81), Map 73 (79), Map 137 (79), Map 257 (77), Map 59 (75), Map 102 (75), Map 43 (74), Map 48 (73), Map 77 (68), Map 47 (67), Map 124 (67), Map 72 (66), Map 240 (66), Map 140 (61), Map 116 (60), Map 153 (58), Map 190 (57), Map 245 (54), Map 109 (51), Map 86 (49), Map 99 (49), Map 204 (48), Map 159 (47), Map 22 (46), Map 217 (46), Map 119 (45), Map 145 (45), Map 105 (44), Map 291 (43), Map 206 (42), Map 7 (41), Map 149 (41), Map 160 (40), Map 132 (39), Map 58 (38), Map 162 (38), Map 267 (38), Map 97 (37), Map 106 (37), Map 64 (36), Map 147 (35), Map 84 (33), Map 127 (33), Map 65 (32), Map 166 (32), Map 107 (31), Map 134 (30), Map 69 (28), Map 95 (26), Map 246 (26), Map 45 (24), Map 122 (24), Map 10 (23), Map 168 (23), Map 179 (23), Map 129 (22), Map 150 (21), Map 185 (20), Map 230 (20), Map 14 (19), Map 103 (18), Map 142 (17), Map 252 (17), Map 126 (16), Map 130 (16), Map 277 (16), Map 139 (15), Map 143 (15), Map 67 (14), Map 172 (14), Map 275 (14), Map 276 (14), Map 131 (13), Map 135 (12), Map 146 (11), Map 136 (10), Map 174 (10), Map 215 (10), Map 24 (111), Map 66 (9), Map 186 (9), Map 282 (9), Map 29 (8), Map 113 (8), Map 68 (7), Map 155 (7), Map 167 (7), Map 181 (7), Map 274 (7), Map 154 (6), Map 169 (6), Map 176 (5), Map 117 (4), Map 156 (4), Map 165 (4), Map 170 (4), Map 133 (3), Map 152 (3), Map 182 (3), Map 199 (3), Map 205 (3), Map 74 (2), Map 118 (2), Map 148 (2), Map 180 (2), Map 193 (2), Map 214 (2), Map 216 (2), Map 218 (2), Map 258 (2), Map 39 (1), Map 112 (1), Map 123 (1), Map 161 (1), Map 164 (1), Map 188 (1) oraz Map 12 (140), Map 19 (185), Map 25 (148), Map 34 (143), Map 52 (135), Map 61 (156), Map 94 (139), Map 101 (142), Map 114 (178), Map 151 (192) i Map 203 (171) — to liczba kandydatów, nie gwarancja, że każdy jest tekstem widocznym dla gracza. Kontynuować tylko faktyczny tekst gracza; nie wypełniać technicznych etykiet ani tokenów sterujących, nawet jeśli końcowy licznik pozostanie poniżej 45 000. Partie wymagają redakcji, są niescalone, a kanoniczny eksport i source ZIP v1 pozostają bez zmian.
+
+### Kolejne partie — Map 6, 41, 44, 96, 51, 60, 200 i 202 (1 008 draftów)
+
+| Zakres | Plik | Drafty |
+|---|---|---:|
+| Map 6 — church, 16 eventów | `custom-dialogue-map6-church-followups-02.jsonl` | 137 |
+| Map 41 — farm/barn, 15 eventów | `custom-dialogue-map41-followups-02.jsonl` | 130 |
+| Map 44 — mansion, 22 eventy | `custom-dialogue-map44-mansion-followups-02.jsonl` | 125 |
+| Map 96 — farm/cottage, 10 eventów | `custom-dialogue-map96-followups-01.jsonl` | 126 |
+| Map 51 — cam/stream, 8 eventów | `custom-dialogue-map51-followups-01.jsonl` | 119 |
+| Map 60 — police/gym, 12 eventów | `custom-dialogue-map60-followups-01.jsonl` | 119 |
+| Map 200 — hell/portal, 15 eventów | `custom-dialogue-map200-followups-01.jsonl` | 129 |
+| Map 202 — Hell temple, 8 eventów | `custom-dialogue-map202-followups-01.jsonl` | 123 |
+| Map 55 — church, 14 eventów | `custom-dialogue-map55-followups-02.jsonl` | 118 |
+| Map 121 — chapel/police, 18 eventów | `custom-dialogue-map121-followups-01.jsonl` | 118 |
+| Map 57 — mansion, 8 eventów | `custom-dialogue-map57-followups-01.jsonl` | 116 |
+| Map 104 — hideout, 3 eventy | `custom-dialogue-map104-followups-01.jsonl` | 117 |
+| Map 108 — mansion kitchen, 6 eventów | `custom-dialogue-map108-followups-01.jsonl` | 116 |
+| Map 81 — Channel 4, 12 eventów | `custom-dialogue-map81-followups-01.jsonl` | 106 |
+| Map 85 — Channel 4, 11 eventów | `custom-dialogue-map85-followups-01.jsonl` | 102 |
+| Map 24 — farm, 9 eventów | `custom-dialogue-map24-followups-01.jsonl` | 101 |
+| Map 115 — mansion, 4 eventy | `custom-dialogue-map115-followups-01.jsonl` | 101 |
+| Map 17 — police station, 12+ eventów | `custom-dialogue-map17-followups-01.jsonl` | 100 |
+| Map 35 — interrogation, 12 eventów | `custom-dialogue-map35-followups-01.jsonl` | 100 |
+| Map 79 — commissioner house | `custom-dialogue-map79-followups-01.jsonl` | 100 |
+| Map 5 — mansion interior | `custom-dialogue-map5-followups-01.jsonl` | 97 |
+| Map 56 — church, 12 eventów | `custom-dialogue-map56-followups-01.jsonl` | 95 |
+| Map 100 — attic/safe, 14 eventów | `custom-dialogue-map100-followups-01.jsonl` | 95 |
+| Map 63 — cave, 11 eventów | `custom-dialogue-map63-followups-01.jsonl` | 92 |
+| Map 83 — Channel 4, 11 eventów | `custom-dialogue-map83-followups-01.jsonl` | 90 |
+| Map 98 — forest/bugs, 10 eventów | `custom-dialogue-map98-followups-01.jsonl` | 88 |
+| Map 128 — station aftermath, 9 eventów | `custom-dialogue-map128-followups-01.jsonl` | 85 |
+| Map 158 — Duncan hideout, 10 eventów | `custom-dialogue-map158-followups-01.jsonl` | 85 |
+| Map 183 — Hell/Lilith, 10 eventów | `custom-dialogue-map183-followups-01.jsonl` | 85 |
+| Map 42 — mansion maids, 11 eventów | `custom-dialogue-map42-followups-01.jsonl` | 83 |
+| Map 70 — church forest, 10 eventów | `custom-dialogue-map70-followups-01.jsonl` | 83 |
+| Map 18 — commissioner dinner, 10 eventów | `custom-dialogue-map18-followups-01.jsonl` | 82 |
+| Map 53 — waterfall, 10 eventów | `custom-dialogue-map53-followups-01.jsonl` | 82 |
+| Map 120 — secret painting, 10 eventów | `custom-dialogue-map120-followups-01.jsonl` | 81 |
+| Map 73 — church bathroom, 10 eventów | `custom-dialogue-map73-followups-01.jsonl` | 79 |
+| Map 137 — dungeon, 10 eventów | `custom-dialogue-map137-followups-01.jsonl` | 79 |
+| Map 257 — court/Carol farm, 10 eventów | `custom-dialogue-map257-followups-01.jsonl` | 77 |
+| Map 59 — gym interrogation, 10 eventów | `custom-dialogue-map59-followups-01.jsonl` | 75 |
+| Map 102 — cave/bunker, 10 eventów | `custom-dialogue-map102-followups-01.jsonl` | 75 |
+| Map 43 — Lillian amulets, 10 eventów | `custom-dialogue-map43-followups-01.jsonl` | 74 |
+| Map 48 — Carol farm continuation, 10 eventów | `custom-dialogue-map48-followups-01.jsonl` | 73 |
+| Map 77 — mansion party, 10 eventów | `custom-dialogue-map77-followups-01.jsonl` | 68 |
+| Map 47 — Carol/Hannah church, 10 eventów | `custom-dialogue-map47-followups-01.jsonl` | 67 |
+| Map 124 — warehouse/Jon, 10 eventów | `custom-dialogue-map124-followups-01.jsonl` | 67 |
+| Map 72 — forest/Judy, 10 eventów | `custom-dialogue-map72-followups-01.jsonl` | 66 |
+| Map 240 — Heather car/ECU, 10 eventów | `custom-dialogue-map240-followups-01.jsonl` | 66 |
+| Map 140 — swamp alligator, 10 eventów | `custom-dialogue-map140-followups-01.jsonl` | 61 |
+| Map 116 — rift/Lilith, 10 eventów | `custom-dialogue-map116-followups-01.jsonl` | 60 |
+| Map 153 — alligator Hannah/Alia, 10 eventów | `custom-dialogue-map153-followups-01.jsonl` | 58 |
+| Map 190 — mansion chests, 10 eventów | `custom-dialogue-map190-followups-01.jsonl` | 57 |
+| Map 245 — Tikpak treasure, 10 eventów | `custom-dialogue-map245-followups-01.jsonl` | 54 |
+| Map 109 — sewer grates, 10 eventów | `custom-dialogue-map109-followups-01.jsonl` | 51 |
+| Map 86 — Diana/Henry, 10 eventów | `custom-dialogue-map86-followups-01.jsonl` | 49 |
+| Map 99 — chapel/Daemalius, 10 eventów | `custom-dialogue-map99-followups-01.jsonl` | 49 |
+| Map 204 — Andrea crypto, 10 eventów | `custom-dialogue-map204-followups-01.jsonl` | 48 |
+| Map 159 — spies/Ella, 10 eventów | `custom-dialogue-map159-followups-01.jsonl` | 47 |
+| Map 22 — church Judy, 10 eventów | `custom-dialogue-map22-followups-01.jsonl` | 46 |
+| Map 217 — Casula temple trap, 10 eventów | `custom-dialogue-map217-followups-01.jsonl` | 46 |
+| Map 119 — Hannah apartment, 10 eventów | `custom-dialogue-map119-followups-01.jsonl` | 45 |
+| Map 145 — interrogation, 10 eventów | `custom-dialogue-map145-followups-01.jsonl` | 45 |
+| Map 105 — cave Hannah, 10 eventów | `custom-dialogue-map105-followups-01.jsonl` | 44 |
+| Map 291 — lotion quest, 10 eventów | `custom-dialogue-map291-followups-01.jsonl` | 43 |
+| Map 206 — Chloe apartment, 10 eventów | `custom-dialogue-map206-followups-01.jsonl` | 42 |
+| Map 7 — Melissa cat, 10 eventów | `custom-dialogue-map7-followups-01.jsonl` | 41 |
+| Map 149 — Madalyn capture, 10 eventów | `custom-dialogue-map149-followups-01.jsonl` | 41 |
+| Map 160 — shooting range, 10 eventów | `custom-dialogue-map160-followups-01.jsonl` | 40 |
+| Map 132 — ransacked Ella, 10 eventów | `custom-dialogue-map132-followups-01.jsonl` | 39 |
+| Map 58 — Charles office, 10 eventów | `custom-dialogue-map58-followups-01.jsonl` | 38 |
+| Map 162 — Casula ruin puzzle, 10 eventów | `custom-dialogue-map162-followups-01.jsonl` | 38 |
+| Map 267 — Judy rat trap, 10 eventów | `custom-dialogue-map267-followups-01.jsonl` | 38 |
+| Map 97 — West Creek skinny, 10 eventów | `custom-dialogue-map97-followups-01.jsonl` | 37 |
+| Map 106 — cave Nellie, 10 eventów | `custom-dialogue-map106-followups-01.jsonl` | 37 |
+| Map 64 — Carol swimsuit, 10 eventów | `custom-dialogue-map64-followups-01.jsonl` | 36 |
+| Map 147 — feast cornbread, 10 eventów | `custom-dialogue-map147-followups-01.jsonl` | 35 |
+| Map 84 — TV transmitter, 10 eventów | `custom-dialogue-map84-followups-01.jsonl` | 33 |
+| Map 127 — commissioner wallet, 10 eventów | `custom-dialogue-map127-followups-01.jsonl` | 33 |
+| Map 65 — Hannah baloney pony, 10 eventów | `custom-dialogue-map65-followups-01.jsonl` | 32 |
+| Map 166 — security room Buddy, 10 eventów | `custom-dialogue-map166-followups-01.jsonl` | 32 |
+| Map 107 — Ella spy, 10 eventów | `custom-dialogue-map107-followups-01.jsonl` | 31 |
+| Map 134 — cat locked, 10 eventów | `custom-dialogue-map134-followups-01.jsonl` | 30 |
+| Map 69 — baby goat Gatorzilla, 10 eventów | `custom-dialogue-map69-followups-01.jsonl` | 28 |
+| Map 95 — Nellie shower, 10 eventów | `custom-dialogue-map95-followups-01.jsonl` | 26 |
+| Map 246 — church porn, 10 eventów | `custom-dialogue-map246-followups-01.jsonl` | 26 |
+| Map 45 — locker phone, 10 eventów | `custom-dialogue-map45-followups-01.jsonl` | 24 |
+| Map 122 — church surrounded, 10 eventów | `custom-dialogue-map122-followups-01.jsonl` | 24 |
+| Map 10 — Tasha friends path, 10 eventów | `custom-dialogue-map10-followups-01.jsonl` | 23 |
+| Map 168 — Andrea house noise, 10 eventów | `custom-dialogue-map168-followups-01.jsonl` | 23 |
+| Map 179 — temple bells, 10 eventów | `custom-dialogue-map179-followups-01.jsonl` | 23 |
+| Map 129 — Andrea hot tub, 10 eventów | `custom-dialogue-map129-followups-01.jsonl` | 22 |
+| Map 150 — Tasha rescue, 10 eventów | `custom-dialogue-map150-followups-01.jsonl` | 21 |
+| Map 185 — mansion Daemalius, 10 eventów | `custom-dialogue-map185-followups-01.jsonl` | 20 |
+| Map 230 — shooting range bet, 10 eventów | `custom-dialogue-map230-followups-01.jsonl` | 20 |
+| Map 14 — sunburn aloe, 10 eventów | `custom-dialogue-map14-followups-01.jsonl` | 19 |
+| Map 103 — Guild bunker, 10 eventów | `custom-dialogue-map103-followups-01.jsonl` | 18 |
+| Map 142 — backstabber, 10 eventów | `custom-dialogue-map142-followups-01.jsonl` | 17 |
+| Map 252 — attacked boxes, 10 eventów | `custom-dialogue-map252-followups-01.jsonl` | 17 |
+| Map 126 — rift Mother, 10 eventów | `custom-dialogue-map126-followups-01.jsonl` | 16 |
+| Map 130 — hot tub, 10 eventów | `custom-dialogue-map130-followups-01.jsonl` | 16 |
+| Map 277 — relic trap Lillian, 10 eventów | `custom-dialogue-map277-followups-01.jsonl` | 16 |
+| Map 139 — swim cave, 10 eventów | `custom-dialogue-map139-followups-01.jsonl` | 15 |
+| Map 143 — TV studio, 10 eventów | `custom-dialogue-map143-followups-01.jsonl` | 15 |
+| Map 67 — escape route, 10 eventów | `custom-dialogue-map67-followups-01.jsonl` | 14 |
+| Map 172 — bunker walls, 10 eventów | `custom-dialogue-map172-followups-01.jsonl` | 14 |
+| Map 275 — raccoon cat, 10 eventów | `custom-dialogue-map275-followups-01.jsonl` | 14 |
+| Map 276 — Lillian goodbye, 10 eventów | `custom-dialogue-map276-followups-01.jsonl` | 14 |
+| Map 131 — safe katana, 10 eventów | `custom-dialogue-map131-followups-01.jsonl` | 13 |
+| Map 135 — bunker button, 10 eventów | `custom-dialogue-map135-followups-01.jsonl` | 12 |
+| Map 146 — mansion jealous, 10 eventów | `custom-dialogue-map146-followups-01.jsonl` | 11 |
+| Map 136 — chapel trap, 10 eventów | `custom-dialogue-map136-followups-01.jsonl` | 10 |
+| Map 174 — Judy rift, 10 eventów | `custom-dialogue-map174-followups-01.jsonl` | 10 |
+| Map 215 — rapids stones, 10 eventów | `custom-dialogue-map215-followups-01.jsonl` | 10 |
+| Map 24 — Heather farm dinner, 10 eventów | `custom-dialogue-map24-followups-05.jsonl` | 111 |
+| Map 66 — statue throw, 10 eventów | `custom-dialogue-map66-followups-01.jsonl` | 9 |
+| Map 186 — toilet hair, 10 eventów | `custom-dialogue-map186-followups-01.jsonl` | 9 |
+| Map 282 — laptop gone, 10 eventów | `custom-dialogue-map282-followups-01.jsonl` | 9 |
+| Map 29 — suit shopping, 10 eventów | `custom-dialogue-map29-followups-01.jsonl` | 8 |
+| Map 113 — wrench valve, 10 eventów | `custom-dialogue-map113-followups-01.jsonl` | 8 |
+| Map 68 — cave Lillian, 10 eventów | `custom-dialogue-map68-followups-01.jsonl` | 7 |
+| Map 155 — rift objects, 10 eventów | `custom-dialogue-map155-followups-01.jsonl` | 7 |
+| Map 167 — Heather forty, 10 eventów | `custom-dialogue-map167-followups-01.jsonl` | 7 |
+| Map 181 — dead end Tesla, 10 eventów | `custom-dialogue-map181-followups-01.jsonl` | 7 |
+| Map 274 — mint cat, 10 eventów | `custom-dialogue-map274-followups-01.jsonl` | 7 |
+| Map 154 — beaver dam, 10 eventów | `custom-dialogue-map154-followups-01.jsonl` | 6 |
+| Map 169 — kitchen siphon, 10 eventów | `custom-dialogue-map169-followups-01.jsonl` | 6 |
+| Map 176 — lunch glue, 10 eventów | `custom-dialogue-map176-followups-01.jsonl` | 5 |
+| Map 117 — gas barrel puzzle, 10 eventów | `custom-dialogue-map117-followups-01.jsonl` | 4 |
+| Map 156 — too heavy, 10 eventów | `custom-dialogue-map156-followups-01.jsonl` | 4 |
+| Map 165 — homeless clothes, 10 eventów | `custom-dialogue-map165-followups-01.jsonl` | 4 |
+| Map 170 — keypad prints, 10 eventów | `custom-dialogue-map170-followups-01.jsonl` | 4 |
+| Map 133 — Erica mess, 10 eventów | `custom-dialogue-map133-followups-01.jsonl` | 3 |
+| Map 152 — spiders, 10 eventów | `custom-dialogue-map152-followups-01.jsonl` | 3 |
+| Map 182 — generator pulley, 10 eventów | `custom-dialogue-map182-followups-01.jsonl` | 3 |
+| Map 199 — Judy early, 10 eventów | `custom-dialogue-map199-followups-01.jsonl` | 3 |
+| Map 205 — Henry father, 10 eventów | `custom-dialogue-map205-followups-01.jsonl` | 3 |
+| Map 74 — offering plate, 10 eventów | `custom-dialogue-map74-followups-01.jsonl` | 2 |
+| Map 118 — tree item, 10 eventów | `custom-dialogue-map118-followups-01.jsonl` | 2 |
+| Map 148 — secret passage, 10 eventów | `custom-dialogue-map148-followups-01.jsonl` | 2 |
+| Map 180 — we're in, 10 eventów | `custom-dialogue-map180-followups-01.jsonl` | 2 |
+| Map 193 — amulet coin, 10 eventów | `custom-dialogue-map193-followups-01.jsonl` | 2 |
+| Map 214 — get bearings, 10 eventów | `custom-dialogue-map214-followups-01.jsonl` | 2 |
+| Map 216 — cave, 10 eventów | `custom-dialogue-map216-followups-01.jsonl` | 2 |
+| Map 218 — dark, 10 eventów | `custom-dialogue-map218-followups-01.jsonl` | 2 |
+| Map 258 — view judge, 10 eventów | `custom-dialogue-map258-followups-01.jsonl` | 2 |
+| Map 39 — church time, 10 eventów | `custom-dialogue-map39-followups-01.jsonl` | 1 |
+| Map 112 — shelf item, 10 eventów | `custom-dialogue-map112-followups-01.jsonl` | 1 |
+| Map 123 — Dick's talk, 10 eventów | `custom-dialogue-map123-followups-01.jsonl` | 1 |
+| Map 161 — where from, 10 eventów | `custom-dialogue-map161-followups-01.jsonl` | 1 |
+| Map 164 — Andrea collection, 10 eventów | `custom-dialogue-map164-followups-01.jsonl` | 1 |
+| Map 188 — outside sound, 10 eventów | `custom-dialogue-map188-followups-01.jsonl` | 1 |
+| **Suma nowych partii** | **149 plików** | **6 660** |
+
+Nowe 6 660 ID (885 + 123 + 236 + 349 + 106 + 102 + 202 + 397 + 95 + 95 + 270 + 338 + 83 + 245 + 158 + 152 + 222 + 202 + 253 + 169 + 197 + 184 + 174 + 161 + 151 + 174 + 153 + 146 + 125 + 100 + 86 + 66 + 111 + 50 + 28 + 29 + 43) przeszły audyt zgodności z kanonicznym eksportem, kompletności, tokenów i braku overlapu; buildery odmawiają nadpisania i przechodzą `py_compile`. Projekcja po tych partiach wynosi 39 931 (zweryfikowano 34 156→39 931). Tłumaczenia Map 202/55/121/57/104/108/81/85/24/115/17/35/79/5/56/100/63/83/98/128/158/183/42/70/18/53/120/73/137/257/59/102/43/48/77/47/124/72/240/140/116/153/190/245/109/86/99/204/159/22/217/119/145/105/291/206/7/149/160/132/58/162/267/97/106/64/147/84/127/65/166/107/134/69/95/246/45/122/10/168/179/129/150/185/230/14/103/142/252/126/130/277/139/143/67/172/275/276/131/135/146/136/174/215/24/66/186/282/29/113/68/155/167/181/274/154/169/176/117/156/165/170/133/152/182/199/205/74/118/148/180/193/214/216/218/258/39/112/123/161/164/188 wykonane w pełni LLM-owo w kontekście, z korektą tonu i terminologii, bez automatów.
 
 Wcześniejsze wersje partii pozostają dla historii, ale nie należy ich scalać razem z nowszymi zamiennikami: używaj `inventory-names-02`, `native-messages-03` i `phone-contact-ui-02`, nie ich wcześniejszych wariantów. Batch `map-labels-01.jsonl` został już uwzględniony w `inventory-names-02.jsonl`. Sceny obejmują 13 wcześniejszych i 7 kolejnych plików; aktualny zestaw zawiera Common Event 25, 15 scen Common Events ze step10 oraz 50 follow-upów Common Events ze step11 (2 730 wierszy), a także dialog Map 20/31, eventy Map 3 (22, 31, 37, 39, 41, 45, 47, 56; sensowny dialog Map 3 jest pokryty) i follow-upy Map 23/24/9/116, pierwsze partie Map 41/55/44/82/54/6/26 i 57 Common Events oraz 21 nowszych partii map wyszczególnionych powyżej. Wszystkie partie pozostają do redakcji; znaczniki komend/statusów nie są tłumaczone na ślepo.
 
