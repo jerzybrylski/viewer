@@ -10,6 +10,10 @@ import export_translation as exporter
 import merge_translation_batches as merger
 
 
+REPO_ROOT = Path(__file__).resolve().parents[3]
+TRANSLATION = REPO_ROOT / 'games/the-genesis-order/translation'
+
+
 class MergeTests(unittest.TestCase):
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
@@ -72,6 +76,20 @@ class MergeTests(unittest.TestCase):
         self.write(self.batch, [self.row])
         with self.assertRaisesRegex(ValueError, 'under the translation workspace'):
             merger.merge_batches(self.canonical, [self.batch], self.root / 'out', self.root / 'private')
+
+    def test_current_full_draft_corpus_is_reconciled(self):
+        batches = sorted((TRANSLATION / 'drafts').rglob('*.jsonl'))
+        self.assertEqual(len(batches), 424)
+        with tempfile.TemporaryDirectory(dir=TRANSLATION) as temp_dir:
+            output = Path(temp_dir) / 'full-merge.jsonl'
+            report = merger.merge_batches(
+                TRANSLATION / 'export-v1', batches, output,
+                REPO_ROOT / 'google_drive',
+            )
+        self.assertEqual(report['records'], 45_229)
+        self.assertEqual(report['with_translation'], 39_820)
+        self.assertEqual(report['protected'], 131)
+        self.assertEqual(report['pending_translatable'], 5_278)
 
 
 if __name__ == '__main__':
