@@ -10,6 +10,7 @@ Statyczny audyt i eksport są zakończone. Kanoniczny eksport w `translation/exp
 
 ## Zasady dla TGO
 
+- **ZAKAZ MT poza LLM (ADR 2026-10-29): ZABRONIONE jest automatyczne maszynowe tłumaczenie słownikowe/auto_translate poza LLM.** Wszystkie drafty TGO muszą być tłumaczone **wyłącznie przez LLM w kontekście sceny** (mapa/event/mówca/sąsiednie kwestie), **wolno ale dokładnie, z korektą**, z zachowaniem `1Hero` i terminologii (Toma/Anachorismos/Daemalius/Lilith). Partie `map*-auto-01` (7 200 draftów, commit 5539dc3) zostały odrzucone decyzją właściciela 2026-10-29: „Nie było zgody na tłumaczenie maszynowe. Wszystko miało być tłumaczone przez LLM w kontekście.” i zrewertowane (440217e). Każde użycie automatu wymaga revertu, bez względu na presję na liczbę 45 000.
 - Nie proś o całą instalację ani media. Użytkownik przesłał już tekstowe dane, JS i fonty.
 - Nie uruchamiaj kodu gry ani skryptów JS z instalacji; czytaj JSON bezpiecznym parserem, a JS analizuj statycznie. Nie nadpisuj oryginałów, zapisów ani ustawień.
 - Licz osobno bloki dialogów, linie kontynuacji, opcje wyboru, UI/bazy danych i teksty w skryptach/pluginach. Nie sumuj ich bez wyjaśnienia i nie traktuj każdej linii skryptu jako tekstu do tłumaczenia.
