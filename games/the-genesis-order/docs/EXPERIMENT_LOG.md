@@ -247,3 +247,10 @@
 - Dodano **203** osobne drafty z sześciu eventów Map 44: 27 (73), 102 (31), 93 (28), 24 (24), 25 (24) i 51 (23). Łączny przyrost po step11 wynosi **4 576 rekordów w 68 plikach**; z step11 daje to 25 186 niepustych tłumaczeń, a do celu 30 610 pozostają 5 424.
 - Audyt tych rekordów i wszystkich wcześniejszych draftów potwierdził unikalne ID, brak nakładania z niepustymi tłumaczeniami step11, zgodność metadanych kanonicznych oraz poprawność markup/control. Wszystkie partie pozostają rozdzielone i niescalone.
 - Step11 nadal jest ostatnim pełnym merge (20 610 tłumaczeń; SHA-256 `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`). Eksport kanoniczny i source ZIP v1 bez zmian; nie uruchamiano gry/runtime i nie tworzono patcha.
+
+
+## 2026-10-29 — Map 82 i Common Event follow-ups
+
+- Dodano **428** osobnych, niepustych draftów: Map 82 (328 w 14 eventach związanych z Channel 4) oraz Common Events 340, 354, 359, 440 i 122 (łącznie 100). Przyrost po step11 wynosi teraz **5 004 rekordy w 74 plikach**; z bazowym step11 daje to 25 614 tłumaczeń i pozostawia 4 996 do celu 30 610.
+- Audyt wszystkich draftów potwierdził unikalność ID, brak nakładania z niepustymi tłumaczeniami step11, zgodność metadanych z eksportem kanonicznym, niepuste/przycięte tłumaczenia oraz poprawność markup/control. `python3 -m unittest discover -s games/the-genesis-order/tests -q`: **35/35 passed**; nowe buildery przechodzą `py_compile`.
+- Partie pozostają osobne i niescalone. Step11 pozostaje ostatnim pełnym merge (20 610 tłumaczeń; SHA-256 `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`); kanoniczny eksport i source ZIP v1 nie zostały zmienione. Nie uruchamiano gry/runtime ani nie tworzono patcha.

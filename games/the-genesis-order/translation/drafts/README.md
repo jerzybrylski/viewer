@@ -4,7 +4,7 @@ Stan na 2026-10-29. Wszystkie pliki w tym katalogu są **roboczymi zwrotkami** p
 
 ## Aktualny scalony stan
 
-Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step11.jsonl`. Narzędzie `games/the-genesis-order/tools/merge_translation_batches.py` zweryfikowało **45 229 rekordów**: **20 610 niepustych tłumaczeń**, **131 rekordów chronionych** oraz **24 488 tłumaczalnych pól oczekujących**. Zgodnie z najnowszą instrukcją rozpoczęto przyrost 10 000 nowych draftów (cel 30 610 łącznie): po step11 dodano **4 576 nowych, unikalnych rekordów**, pozostało 5 424. Po walidacji łączny licznik draftów wynosi 25 186. Te rekordy są opisane osobno poniżej i nie należą do step11. Poniższa tabela opisuje skład ostatniego pełnego scalenia, a nie nowego przyrostu. Nie jest to eksport kanoniczny. SHA-256 step11: `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`.
+Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step11.jsonl`. Narzędzie `games/the-genesis-order/tools/merge_translation_batches.py` zweryfikowało **45 229 rekordów**: **20 610 niepustych tłumaczeń**, **131 rekordów chronionych** oraz **24 488 tłumaczalnych pól oczekujących**. Zgodnie z najnowszą instrukcją rozpoczęto przyrost 10 000 nowych draftów (cel 30 610 łącznie): po step11 dodano **5 004 nowe, unikalne rekordy**, pozostało 4 996. Po walidacji łączny licznik draftów wynosi 25 614. Te rekordy są opisane osobno poniżej i nie należą do step11. Poniższa tabela opisuje skład ostatniego pełnego scalenia, a nie nowego przyrostu. Nie jest to eksport kanoniczny. SHA-256 step11: `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`.
 
 ## Aktualnie używane partie
 
@@ -35,7 +35,7 @@ Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_dr
 
 ## Nowy przyrost po step11 — jeszcze niescalony
 
-Wszystkie poniższe pliki zawierają łącznie **4 576** świeżych rekordów draftów: 1 001 dialogów z Map 9/23/24/116, 557 z Map 41/55, 203 z Map 44, 370 z Map 54, 230 z Map 6, 359 z Map 26 oraz 1 856 kwestii w 52 Common Events. Nie są częścią merged step11 ani tabeli wyżej. Weryfikacja sprawdziła 4 576 unikalnych ID, brak ID już przetłumaczonych w step11, zgodność metadanych z kanonicznym eksportem oraz markup/control tokens. Po walidacji łączny licznik wynosi 25 186; do bieżącego celu 30 610 pozostało 5 424.
+Wszystkie poniższe pliki zawierają łącznie **5 004** świeże rekordy draftów: 1 001 dialogów z Map 9/23/24/116, 557 z Map 41/55, 203 z Map 44, 328 z Map 82, 370 z Map 54, 230 z Map 6, 359 z Map 26 oraz 1 956 kwestii w 57 Common Events. Nie są częścią merged step11 ani tabeli wyżej. Weryfikacja sprawdziła 5 004 unikalne ID, brak ID już przetłumaczonych w step11, zgodność metadanych z kanonicznym eksportem oraz markup/control tokens. Po walidacji łączny licznik wynosi 25 614; do bieżącego celu 30 610 pozostało 4 996.
 
 | Zakres | Plik(i) | Drafty |
 |---|---|---:|
@@ -47,13 +47,15 @@ Wszystkie poniższe pliki zawierają łącznie **4 576** świeżych rekordów dr
 | Map 55 (events 3, 6, 25, 32) | `custom-dialogue-map55-followups-01.jsonl` | 255 |
 | Common Events 257, 305, 307, 317, 324, 325, 327, 328, 330, 331, 332, 335, 350, 351, 365, 388, 393, 394, 398, 401, 403, 409, 411, 415, 416, 419, 421, 426, 439, 442, 443, 445, 451, 459, 464, 465, 467, 475, 483, 490 | po jednym `custom-dialogue-common-event-<ID>-01.jsonl` | 1 539 |
 | Map 44 (eventy 27, 102, 93, 24, 25, 51) | `custom-dialogue-map44-mansion-followups-01.jsonl` | 203 |
+| Map 82 (eventy 67, 24, 71, 45, 32, 20, 19, 75, 3, 21, 33, 34, 59, 62) | `custom-dialogue-map82-channel4-followups-01.jsonl` | 328 |
 | Map 54 (27 eventów) | `custom-dialogue-map54-backyard-followups-01.jsonl` | 370 |
 | Map 6 (eventy 5, 17, 28, 38) | `custom-dialogue-map6-church-followups-01.jsonl` | 230 |
 | Map 26 (23 eventy) | `custom-dialogue-map26-mansion-followups-01.jsonl` | 359 |
 | Common Events 277, 304, 316, 334, 349, 363, 368, 384, 396, 452, 456, 470 | po jednym `custom-dialogue-common-event-<ID>-02.jsonl` | 317 |
-| **Suma przyrostu** |  | **4 576** |
+| Common Events 122, 340, 354, 359, 440 | po jednym `custom-dialogue-common-event-<ID>-01.jsonl` | 100 |
+| **Suma przyrostu** |  | **5 004** |
 
-Wcześniejsze wersje partii pozostają dla historii, ale nie należy ich scalać razem z nowszymi zamiennikami: używaj `inventory-names-02`, `native-messages-03` i `phone-contact-ui-02`, nie ich wcześniejszych wariantów. Batch `map-labels-01.jsonl` został już uwzględniony w `inventory-names-02.jsonl`. Sceny obejmują 13 wcześniejszych i 7 kolejnych plików; aktualny zestaw zawiera Common Event 25, 15 scen Common Events ze step10 oraz 50 follow-upów Common Events ze step11 (2 730 wierszy), a także dialog Map 20/31, eventy Map 3 (22, 31, 37, 39, 41, 45, 47, 56; sensowny dialog Map 3 jest pokryty) i follow-upy Map 23/24/9/116 oraz nowe partie Map 41/55/44/54/6/26 i 52 Common Events z bieżącego przyrostu. Wszystkie partie pozostają do redakcji; znaczniki komend/statusów nie są tłumaczone na ślepo.
+Wcześniejsze wersje partii pozostają dla historii, ale nie należy ich scalać razem z nowszymi zamiennikami: używaj `inventory-names-02`, `native-messages-03` i `phone-contact-ui-02`, nie ich wcześniejszych wariantów. Batch `map-labels-01.jsonl` został już uwzględniony w `inventory-names-02.jsonl`. Sceny obejmują 13 wcześniejszych i 7 kolejnych plików; aktualny zestaw zawiera Common Event 25, 15 scen Common Events ze step10 oraz 50 follow-upów Common Events ze step11 (2 730 wierszy), a także dialog Map 20/31, eventy Map 3 (22, 31, 37, 39, 41, 45, 47, 56; sensowny dialog Map 3 jest pokryty) i follow-upy Map 23/24/9/116 oraz nowe partie Map 41/55/44/82/54/6/26 i 57 Common Events z bieżącego przyrostu. Wszystkie partie pozostają do redakcji; znaczniki komend/statusów nie są tłumaczone na ślepo.
 
 ## Walidacja i zasady
 
