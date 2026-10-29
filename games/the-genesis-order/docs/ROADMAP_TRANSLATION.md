@@ -2,7 +2,7 @@
 
 **Cel:** przygotować bezpieczny pipeline od zweryfikowanych źródeł RPG Maker MV, przez tłumaczenie z kontekstem, po lokalny patcher Windows. Tekstów SRW nie kopiujemy do TGO; przenoszone są wyłącznie ogólne praktyki: stabilne ID, JSONL, walidacja placeholderów, branch-aware Markdown i staging bez nadpisywania oryginału.
 
-**Aktualny gate:** statyczne skanowanie i eksport są zakończone. Właściciel zatwierdził wszystkie nie-rendererowe wiersze `401` i wszystkie opcje `102` jako pełnoprawny tekst do tłumaczenia. Source ZIP v1 jest śledzony w repozytorium i udostępniony na Google Drive. Tekst wtopiony w obrazy i wideo jest poza zakresem na decyzję właściciela. Trwa robocze tłumaczenie UI i wskazówek Arianny: 262 niepuste pola, 44 836 tłumaczalnych oczekuje; patcha gry jeszcze nie ma.
+**Aktualny gate:** statyczne skanowanie i eksport są zakończone. Właściciel zatwierdził wszystkie nie-rendererowe wiersze `401` i wszystkie opcje `102` jako pełnoprawny tekst do tłumaczenia. Source ZIP v1 jest śledzony w repozytorium i udostępniony na Google Drive. Tekst wtopiony w obrazy i wideo jest poza zakresem na decyzję właściciela. Robocze partie obejmują UI, wskazówki, wybory, teksty danych i wybrane sceny: w ostatnim scaleniu **12 692 niepuste tłumaczenia**, **131 chronionych rekordów** i **32 406 tłumaczalnych pól oczekujących**. Tłumaczenia wymagają redakcji; patcha gry jeszcze nie ma.
 
 ## Kanoniczny przepływ
 
@@ -26,8 +26,8 @@ Repozytorium śledzi wszystkie narzędzia, tekstowe dane źródłowe i robocze t
 | 3. Kanoniczny eksport | JSONL ze stabilnym ID, hashami, locatorami, kontekstem i tokenami | **45 229 rekordów; wszystkie kontrole pokrycia przeszły** |
 | 4. Round-trip | walidator i safe write-back do kopii; testy syntetyczne | **Gotowe statycznie**; `--check` weryfikuje 45 229 rekordów / 238 źródeł |
 | 5. Kontekst/pakiet źródłowy | JSONL, instrukcje, glossary/polityka, raport, manifest i Markdown źródłowy | **ZIP v1 wygenerowany i sprawdzony**: 45 229 rekordów / 497 dokumentów; archiwum śledzone w Git i wysyłane na Google Drive |
-| 6. Rozpoczęcie tłumaczenia | zatwierdzone zasady językowe, glosariusz, partie i kontrola terminologii | **W toku**; roboczy glosariusz i partie UI oraz wskazówek (127 niepustych pól UI + 135 wskazówek = 262) w Git; dalsza redakcja i testy potrzebne |
-| 7. Import tłumaczenia | walidacja ID, tokenów, braków, nadmiarów i konfliktów | **Częściowo**: scalenie sprawdziło 45 229 rekordów, 262 niepuste pola, 131 chronionych wartości i 44 836 oczekujących; pełna weryfikacja hashy źródeł wymaga ich lokalnego pobrania |
+| 6. Rozpoczęcie tłumaczenia | zatwierdzone zasady językowe, glosariusz, partie i kontrola terminologii | **W toku**; aktualne partie mają 12 692 niepuste tłumaczenia (m.in. pełne 705 wskazówek i 13 scen); redakcja i testy gry/wyświetlania nadal potrzebne |
+| 7. Import tłumaczenia | walidacja ID, tokenów, braków, nadmiarów i konfliktów | **Częściowo**: aktualne scalenie sprawdziło 45 229 rekordów, 12 692 tłumaczenia, 131 chronionych wartości i 32 406 oczekujących; pełna weryfikacja hashy źródeł wymaga ich lokalnego pobrania |
 | 8. Patcher Windows | wykrycie kopii/builda, backup, atomowy staging, raport/rollback, testy syntetyczne | **Nie rozpoczęto**; wymaga tłumaczenia i docelowego layoutu |
 | 9. Finalny patch / polska dystrybucja | przetłumaczony tekst i instalowalny patch | **Nie istnieją**; osobna bramka po tłumaczeniu/QA |
 

@@ -1,6 +1,6 @@
 # Status — The Genesis Order
 
-**Stan: audyt i eksport zakończone; trwa robocze tłumaczenie UI i wskazówek Arianny.** To nie jest patch gry ani przetłumaczona dystrybucja. Aktualizacja: 2026-10-29.
+**Stan: audyt i eksport zakończone; trwa robocze tłumaczenie wielu kategorii.** To nie jest patch gry ani przetłumaczona dystrybucja. Aktualizacja: 2026-10-29.
 
 ## Wynik bieżący
 
@@ -9,7 +9,7 @@
 - Markdown: **497 dokumentów / 45 229 rekordów**. Source ZIP: `games/the-genesis-order/translation/packages/TGO_source_translation_package_v1.zip`; archiwum jest śledzone w Git i publikowane na Google Drive w `TGO/translation/packages/`. ZIP nie zawiera assetów źródłowych ani kodu gry.
 - Pakiet obejmuje canonical JSONL, kontekstowy Markdown, instrukcję PL, manifest, glossary/politykę i raport zakresu. To pełny zatwierdzony pakiet statycznych tekstów źródłowych do tłumaczenia, nie patch ani gotowa polska dystrybucja.
 - Pełne testy uruchomione 2026-10-29: **35/35 passed**; builder sprawdza zgodność rekordów, coverage flag i integralność ZIP-a.
-- Kanoniczny eksport i source ZIP pozostają źródłowe. Robocza partia UI w `translation/drafts/ui-01/`: 130 rekordów, 127 niepustych pól i 3 chronione wartości puste; trzy partie wskazówek Arianny zawierają 135 rekordów. Łącznie jest 262 niepustych pól (127 UI + 135 wskazówek). Scalenie zwrotek zweryfikowało 45 229 rekordów, 131 wartości chronionych i 44 836 tłumaczalnych pól oczekujących. Tłumaczenia wymagają redakcji; w tej sesji nie sprawdzano hashy oryginalnych plików gry, bo nie są zsynchronizowane w workspace. Patchera Windows nie zbudowano, gry/runtime nie uruchamiano.
+- Kanoniczny eksport i source ZIP pozostają źródłowe. Aktualne partie robocze scalono do ignorowanego pliku `google_drive/the-genesis-order/translation/merged-tgo-12692-reviewed-2026-10-29.jsonl`: 45 229 rekordów, **12 692 niepuste tłumaczenia**, 131 chronionych rekordów i **32 406 tłumaczalnych pól oczekujących**. W Git zapisano UI, wszystkie 705 wskazówek, 2 110 opcji (1 583 niepuste), powtarzalne kwestie, 13 scen common events (1 088 wierszy) i partie pozostałych kategorii. Wszystko jest robocze i wymaga redakcji; w tej sesji nie sprawdzano hashy oryginalnych plików gry, bo nie są zsynchronizowane w workspace. Patchera Windows nie zbudowano, gry/runtime nie uruchamiano.
 
 ## Pokrycie
 

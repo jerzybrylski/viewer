@@ -27,3 +27,7 @@ Decyzje **robocze**, oparte na locatorach i kontekście kanonicznego eksportu v1
 ## Konwencja partii UI 01
 
 Dla komunikatów z dynamicznym `%1` stosujemy bezosobowe konstrukcje, żeby nie zgadywać rodzaju ani odmiany nazwy. Kolejność i liczba tokenów pozostają niezmienione. Marki, nazwy plików i widoczne nazwy obcych przycisków pozostają oryginalne. Nie zakładamy limitu szerokości ani dostępności polskich znaków; potrzebny jest test runtime. Teksty są wersją roboczą do redakcji w kontekście.
+
+## Robocza konwencja w scenach erotycznych
+
+Zachowujemy bezpośredni rejestr źródła, bez eufemizowania ani zaostrzania go: `cock` → „kutas”, `pussy` → „cipka”, czasownik `cum` → „dojść”, rzeczownik `cum` → „sperma”; anatomiczne `penis` pozostaje „penis”. Religijne określenie `Sister` jako zwrot do zakonnicy tłumaczymy „siostro”. Formy są robocze i mogą wymagać korekty w pełnym kontekście scen.

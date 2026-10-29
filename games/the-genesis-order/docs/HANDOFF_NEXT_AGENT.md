@@ -1,6 +1,6 @@
 # Handoff dla kolejnego agenta — The Genesis Order
 
-Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Istnieją robocze partie UI oraz trzy partie wskazówek Arianny; patcha gry jeszcze nie ma.
+Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Ostatnie scalenie partii roboczych obejmuje 12 692 niepuste tłumaczenia z 45 229 rekordów; dalsza redakcja i testy są potrzebne, patcha gry jeszcze nie ma.
 
 ## Stan repo i artefaktów
 
@@ -10,7 +10,7 @@ Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Istni
 - ZIP obejmuje canonical JSONL, kontekstowy Markdown (497 dokumentów), instrukcję PL, manifest, glossary/politykę i raport zakresu. Nie zawiera oryginalnych assetów ani kodu gry.
 - Oryginalne źródła są dostępne na Google Drive: folder `TGO/www/data/` zawiera 306 plików, w tym `CommonEvents.json`. W bieżącym workspace źródła nie są zsynchronizowane do lokalnego ignorowanego `google_drive/`; nie prosić właściciela o ponowny upload. Przy potrzebie ponownego hashowania źródeł pobrać/synchronizować je z Drive.
 - Pełne `unittest` uruchomione w tej sesji: **35/35 passed**. Wcześniejszy Markdown import-check zweryfikował 45 229 rekordów i 0 brakujących ID; builder source ZIP sprawdza manifest coverage, zgodność liczby rekordów, unikalność ID i integralność archiwum.
-- Nie uruchamiano gry ani kodu gry. W source ZIP i kanonicznym eksporcie pola `translation` są puste; osobne drafty zawierają UI (130 rekordów, 127 niepustych tłumaczeń) i 135 wskazówek w trzech partiach.
+- Nie uruchamiano gry ani kodu gry. Source ZIP i kanoniczny eksport pozostają źródłowe; osobne partie robocze zawierają UI, 705 wskazówek, wybory, powtarzalny dialog, 13 scen oraz pozostałe kategorie. Pełny scalony stan: `google_drive/the-genesis-order/translation/merged-tgo-12692-reviewed-2026-10-29.jsonl` (ignorowany artefakt, nie commitowany).
 
 ## Zatwierdzony zakres i liczniki
 
@@ -23,7 +23,7 @@ Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Istni
 
 ## Następne zadania
 
-1. Kontynuować tłumaczenie po stabilnym `id`. Wszystkie partie są w śledzonym `translation/drafts/` (UI: 130 rekordów / 127 niepustych; wskazówki: 135 rekordów w trzech partiach; 262 niepuste pola łącznie); Drive to tylko kopia. Scalaj narzędziem `tools/merge_translation_batches.py`, wykrywaj konflikty i nie nadpisuj pracy. Pozostaje 44 836 tłumaczalnych pól, a 131 wartości jest chronionych.
+1. Kontynuować tłumaczenie po stabilnym `id`; obecny merge ma 12 692 niepuste tłumaczenia, 131 chronionych rekordów i 32 406 oczekujących. Aktualne zamienniki to `inventory-names-02`, `native-messages-03` i `phone-contact-ui-02`; `inventory-names-02` zawiera map labels, więc nie dodawać osobno `map-labels-01`. Pełny zestaw partii opisuje `translation/drafts/README.md`. Scalaj narzędziem `tools/merge_translation_batches.py`, wykrywaj konflikty i nie nadpisuj pracy.
 2. Nie zmieniać ID, locatorów, source hashes, `source_text` ani tokenów. Zachować wszystkie rekordy `keep_source_value` dokładnie.
 3. Po tłumaczeniu uruchomić Markdown import-check i `apply_translation.py --check`; rozliczyć braki, duplikaty, tokeny i konflikty.
 4. Ustalić docelowy build/layout i zaprojektować patcher Windows z backupem/rollbackiem; testować najpierw na kopiach syntetycznych.
