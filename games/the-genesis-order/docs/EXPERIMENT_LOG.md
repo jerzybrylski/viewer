@@ -254,3 +254,11 @@
 - Dodano **428** osobnych, niepustych draftów: Map 82 (328 w 14 eventach związanych z Channel 4) oraz Common Events 340, 354, 359, 440 i 122 (łącznie 100). Przyrost po step11 wynosi teraz **5 004 rekordy w 74 plikach**; z bazowym step11 daje to 25 614 tłumaczeń i pozostawia 4 996 do celu 30 610.
 - Audyt wszystkich draftów potwierdził unikalność ID, brak nakładania z niepustymi tłumaczeniami step11, zgodność metadanych z eksportem kanonicznym, niepuste/przycięte tłumaczenia oraz poprawność markup/control. `python3 -m unittest discover -s games/the-genesis-order/tests -q`: **35/35 passed**; nowe buildery przechodzą `py_compile`.
 - Partie pozostają osobne i niescalone. Step11 pozostaje ostatnim pełnym merge (20 610 tłumaczeń; SHA-256 `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`); kanoniczny eksport i source ZIP v1 nie zostały zmienione. Nie uruchamiano gry/runtime ani nie tworzono patcha.
+
+## 2026-10-29 — osiągnięcie przyrostu +10 000 po step11
+
+- Dodano **5 136** kolejnych draftów w 21 partiach map: Map 201 (316), 15 (299), 157 (290), 16 (284), 144 (283), 13 (266), 4 (258), 21 (252), 33 (250), 141 (247), 11 (244), 76 (243), 62 (235), 49 (227), 78 (223), 30 (219), 28 (214), 125 (199), 27 (197), 32 (195) i 87 (195). W Map 87 wygenerowano wszystkie 195 dopuszczonych wierszy; to powoduje przekroczenie celu o 140.
+- Zredagowano 24 tłumaczenia w dziesięciu draftach map (11, 27, 30, 32, 49, 62, 76, 78, 125 i 141) oraz zsynchronizowano matching entries w builderach.
+- Po step11 przybyło łącznie **10 140** unikalnych, osobnych draftów w **95 plikach**; razem z baseline step11 daje to projekcję **30 750** niepustych tłumaczeń. Cel +10 000 został przekroczony o 140. Wszystkie partie pozostają niescalone i nadal wymagają redakcji.
+- Końcowy audyt nowych 5 136 wierszy potwierdził unikalność i brak nakładania z 25 614 wcześniej śledzonymi ID, zgodność metadanych ze źródłem kanonicznym, niepuste/przycięte tłumaczenia oraz zachowanie markup/control tokens. Wszystkie nowe buildery przechodzą `py_compile`; pełne testy `unittest`: **35/35 passed**.
+- Kanoniczny eksport oraz source ZIP v1 pozostały bez zmian. Nie scalano nowych partii, nie uruchamiano gry/runtime ani nie tworzono patcha.
