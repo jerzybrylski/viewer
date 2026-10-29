@@ -25,7 +25,7 @@ Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Odtwa
 
 1. **Nie tłumaczyć już nowych partii map.** Statyczna proza jest wyczerpana; zamiast licznika uruchamiać `tools/audit_draft_coverage.py` i pracować na liście 30 pozycji z `needs_review` oraz na konfliktach etykiet.
 2. **Decyzja właściciela w sprawie ADR 002** (sygnatura markup v2 dla `\fb`): po akceptacji przenieść `translation/pending/crafting-ui-map46-01.jsonl` (94 rekordy) do `drafts/` i przeliczyć pokrycie. Do tego czasu nie ruszać walidatora.
-3. **Uzgodnić 40 etykiet map** (PR #5) i poprawić pozostawione po angielsku `Channel 4` w `inventory-names-02.jsonl` oraz `map-labels-01.jsonl`; potwierdzić decyzję o nazwach własnych (`Madalyn.`, `Morgan.`, `Amulet K.`, `Morgan #142`, `WoNoChurch`, `The Genesis Order`, 24 opcje postaci).
+3. **Uzgodnić 40 etykiet map** (PR #5) i rozstrzygnąć `Channel 4` — warianty „Kanał 4” (`inventory-names-01`) i `Channel 4` (nowsze partie), przy czym glosariusz zachowuje markę w wskazówkach, więc potrzebna jest jawna decyzja właściciela; potwierdzić też decyzję o pozostałych nazwach własnych (`Madalyn.`, `Morgan.`, `Amulet K.`, `Morgan #142`, `WoNoChurch`, `The Genesis Order`, 24 opcje postaci).
 4. **Redakcja i QA** 39 821 draftów po stabilnym `id`: spójność terminologii z glosariuszem, długości linii, tokeny, powtarzalne powiedzenia; potem Markdown import-check i `apply_translation.py --check` na skompletowanym pliku.
 5. **Patcher Windows** (etap 8 roadmapy): docelowy build/layout, backup, atomowy staging, raport/rollback, testy na kopiach syntetycznych; test in-game dopiero z wynikiem od właściciela.
 6. ZIP patcha/finalnej polskiej dystrybucji pozostaje osobną bramką; source ZIP v1 zawiera tekst źródłowy, nie tłumaczenie.
