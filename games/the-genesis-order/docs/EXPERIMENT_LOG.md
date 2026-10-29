@@ -281,3 +281,9 @@
 - Dodano **171** osobnych draftów naturalnego dialogu z 8 eventów Map 203 (rozprawa sądowa i dalsza rozmowa). Tłumaczą kwestie wypowiadane w scenie, bez nagłówków sterujących.
 - Łączny przyrost po step11 wynosi teraz **11 658 unikalnych draftów w 103 osobnych plikach**, co daje projekcję **32 268** niepustych tłumaczeń. Roboczy podzbiór naturalnego dialogu map ma **7 552** wiersze; każdy nadal wymaga oceny, czy faktycznie jest tekstem gracza.
 - Builder Map 203 przechodzi `py_compile`, utworzył batch 171 wierszy i odmawia nadpisania istniejącego pliku. Pełne `unittest`: **36/36 OK**; regresyjny audyt wszystkich ośmiu batchy potwierdził zgodność z kanonicznym eksportem, kompletność, zachowanie tokenów i brak overlapu. Wszystkie osiem builderów przechodzi `py_compile`. Partie pozostają oddzielne i niescalone; kanoniczny eksport i source ZIP v1 bez zmian.
+
+## 2026-10-29 — Map 61 gym i Map 25 dinner follow-ups
+
+- Dodano **304** osobne drafty naturalnego dialogu: Map 61 (**156 w 15 eventach**) oraz Map 25 (**148 w 16 eventach**). Obie mapy mają oddzielne pliki JSONL, chociaż wspólny builder generuje je niezależnie.
+- Łączny przyrost po step11 wynosi teraz **11 962 unikalne drafty w 105 osobnych plikach**, co daje projekcję **32 572** niepustych tłumaczeń. Pozostały roboczy podzbiór naturalnego dialogu map liczy **7 248** wierszy; każdy nadal wymaga oceny pod kątem tekstu widocznego dla gracza.
+- Builder Map 61/25 przechodzi `py_compile`, wygenerował dwa oddzielne pliki i odmawia nadpisania istniejących batchy. Pełne `unittest`: **36/36 OK**; audyt wszystkich dziesięciu najnowszych batchy potwierdził 1 822 unikalne ID, brak overlapu, zgodność metadanych z kanonicznym eksportem i poprawność markup/control tokens. Wszystkie dziewięć builderów przechodzi `py_compile`. Kanoniczny eksport i source ZIP v1 pozostają bez zmian; partie są osobne i niescalone.
