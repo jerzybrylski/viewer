@@ -262,3 +262,16 @@
 - Po step11 przybyło łącznie **10 140** unikalnych, osobnych draftów w **95 plikach**; razem z baseline step11 daje to projekcję **30 750** niepustych tłumaczeń. Cel +10 000 został przekroczony o 140. Wszystkie partie pozostają niescalone i nadal wymagają redakcji.
 - Końcowy audyt nowych 5 136 wierszy potwierdził unikalność i brak nakładania z 25 614 wcześniej śledzonymi ID, zgodność metadanych ze źródłem kanonicznym, niepuste/przycięte tłumaczenia oraz zachowanie markup/control tokens. Wszystkie nowe buildery przechodzą `py_compile`; pełne testy `unittest`: **35/35 passed**.
 - Kanoniczny eksport oraz source ZIP v1 pozostały bez zmian. Nie scalano nowych partii, nie uruchamiano gry/runtime ani nie tworzono patcha.
+
+## 2026-10-29 — naturalny dialog Common Events, Map 151 i Map 19
+
+- Dodano **1 169** osobnych draftów naturalnego dialogu: Common Events (**205 + 200 + 195 + 192 = 792**), Map 151 (**192 w 26 eventach**) i Map 19 (**185 w 20 eventach**). Wszystkie 792 zinwentaryzowane naturalne wiersze Common Events są już opracowane. Wcześniejszy roboczy podzbiór map zmniejszył się z 8 278 do **7 901** wierszy; nie jest to gwarancja, że każdy pozostały wiersz jest tekstem widocznym dla gracza.
+- Łączny przyrost po step11 wynosi **11 309 unikalnych draftów w 101 plikach**; wraz z bazą step11 daje to **31 919 unikalnych niepustych tłumaczeń**. Kontynuujemy ku aspiracyjnemu celowi 45 000, ale wypełniamy i liczymy wyłącznie rzeczywisty tekst gracza. Wcześniejszy teoretyczny pułap po wyłączeniu 131 chronionych rekordów i 3 742 tokenów sterujących wynosi 41 356; od obecnego stanu może więc pozostać najwyżej 9 437 kwalifikujących się rekordów, a faktyczny wynik może być niższy.
+- Audyt nowych 1 169 rekordów potwierdził zgodność metadanych ze źródłem kanonicznym, niepuste tłumaczenia, poprawność markup/control tokens, brak ID chronionych, brak slash-prefixed komend, brak duplikatów w nowych partiach i brak overlapu z wcześniejszymi niepustymi draftami. Dodano test regresyjny tych właściwości; pełne `unittest`: **36/36 OK**, a wszystkie sześć builderów przechodzi `py_compile`.
+- Step11 pozostaje ostatnim pełnym merge (20 610 tłumaczeń; SHA-256 `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`). Partie pozostają osobne i niescalone; kanoniczny eksport i source ZIP v1 bez zmian. Nie uruchamiano gry/runtime ani nie tworzono patcha.
+
+## 2026-10-29 — Map 114 story follow-ups
+
+- Dodano **178** osobnych draftów naturalnego dialogu z 10 eventów Map 114. Żaden z ich stabilnych ID nie występował wcześniej w niepustych draftach.
+- Łącznie po step11 jest teraz **11 487** świeżych, unikalnych draftów w **102 osobnych plikach**, co daje projekcję **32 097** niepustych tłumaczeń. Pozostały roboczy podzbiór naturalnego dialogu map liczy **7 723** wiersze; kwalifikowalność każdego wymaga oceny, więc nie jest to obietnica osiągnięcia 45 000.
+- Builder Map 114 przechodzi `py_compile` i utworzył batch 178 wierszy, odmawiając nadpisania istniejącego pliku. Pełne `unittest`: **36/36 OK**, w tym regresyjny audyt wszystkich siedmiu batchy; wszystkie siedem builderów przechodzi `py_compile`. Kanoniczny eksport i source ZIP v1 pozostają bez zmian; partie są odseparowane i wymagają redakcji.

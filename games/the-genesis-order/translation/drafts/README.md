@@ -4,7 +4,7 @@ Stan na 2026-10-29. Wszystkie pliki w tym katalogu są **roboczymi zwrotkami** p
 
 ## Aktualny scalony stan
 
-Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step11.jsonl`. Narzędzie `games/the-genesis-order/tools/merge_translation_batches.py` zweryfikowało **45 229 rekordów**: **20 610 niepustych tłumaczeń**, **131 rekordów chronionych** oraz **24 488 tłumaczalnych pól oczekujących**. Po step11 utworzono **10 140 nowych, unikalnych draftów** (cel +10 000 został przekroczony o 140), więc projekcja wynosi **30 750** niepustych tłumaczeń. Wszystkie dodatki pozostają osobnymi, niescalonymi partiami; szczegóły znajdują się poniżej i nie należą do step11. Pierwsza tabela opisuje skład ostatniego pełnego scalenia, a nie nowego przyrostu. Nie jest to eksport kanoniczny. SHA-256 step11: `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`.
+Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step11.jsonl`. Narzędzie `games/the-genesis-order/tools/merge_translation_batches.py` zweryfikowało **45 229 rekordów**: **20 610 niepustych tłumaczeń**, **131 rekordów chronionych** oraz **24 488 tłumaczalnych pól oczekujących**. Po step11 powstało dotąd **11 487 nowych, unikalnych draftów w 102 osobnych plikach**: pierwsze 10 140 przekroczyło dawny cel +10 000 o 140, a dalsze partie dodały 1 347. Łączna projekcja wynosi **32 097 unikalnych niepustych tłumaczeń** (liczonych po ID, bez powielania alternatywnych draftów). Bieżący cel 45 000 dotyczy wyłącznie faktycznego tekstu widocznego dla gracza; etykiety techniczne i tokeny sterujące pozostają nietłumaczone i nie są wliczane. Wcześniejszy teoretyczny pułap po odjęciu 131 chronionych rekordów i 3 742 tokenów sterujących to 41 356, więc od obecnego stanu może pozostać najwyżej 9 259 kwalifikujących się rekordów; rzeczywista liczba może być niższa, a osiągnięcie 45 000 nie jest gwarantowane. Wszystkie dodatki pozostają osobnymi, niescalonymi i wymagającymi redakcji partiami; szczegóły znajdują się poniżej. Pierwsza tabela opisuje skład pełnego scalenia step11, a nie nowych przyrostów. Nie jest to eksport kanoniczny. SHA-256 step11: `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`.
 
 ## Aktualnie używane partie
 
@@ -33,9 +33,9 @@ Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_dr
 | Napisy końcowe | `credits-01.jsonl` | 2 |
 | **Łącznie w aktualnym scaleniu** |  | **20 610** |
 
-## Nowy przyrost po step11 — jeszcze niescalony
+## Pierwszy przyrost po step11 — 10 140 draftów, jeszcze niescalony
 
-Pierwszy zestaw po step11 obejmuje **5 004** świeże rekordy draftów w 74 plikach: 1 001 dialogów z Map 9/23/24/116, 557 z Map 41/55, 203 z Map 44, 328 z Map 82, 370 z Map 54, 230 z Map 6, 359 z Map 26 oraz 1 956 kwestii w 57 Common Events. Nie są częścią merged step11 ani tabeli wyżej. Dodatkowe **5 136** rekordów w 21 nowszych plikach opisano w następnej tabeli. Audyt wszystkich 10 140 nowych ID potwierdził unikalność, brak nakładania z tłumaczeniami step11, zgodność metadanych z kanonicznym eksportem, niepuste/przycięte tłumaczenia oraz markup/control tokens. Projekcja wynosi 30 750 niepustych tłumaczeń; cel +10 000 został przekroczony o 140. Wszystkie partie nadal wymagają redakcji.
+Pierwszy zestaw po step11 obejmuje **5 004** świeże rekordy draftów w 74 plikach: 1 001 dialogów z Map 9/23/24/116, 557 z Map 41/55, 203 z Map 44, 328 z Map 82, 370 z Map 54, 230 z Map 6, 359 z Map 26 oraz 1 956 kwestii w 57 Common Events. Nie są częścią merged step11 ani tabeli wyżej. Dodatkowe **5 136** rekordów w 21 nowszych plikach opisano w następnej tabeli. Audyt wszystkich 10 140 nowych ID potwierdził unikalność, brak nakładania z tłumaczeniami step11, zgodność metadanych z kanonicznym eksportem, niepuste/przycięte tłumaczenia oraz markup/control tokens. Na tym pierwszym etapie projekcja wynosiła 30 750 niepustych tłumaczeń, o 140 ponad ówczesny cel +10 000. Wszystkie partie nadal wymagają redakcji.
 
 | Zakres | Plik(i) | Drafty |
 |---|---|---:|
@@ -83,7 +83,24 @@ Pierwszy zestaw po step11 obejmuje **5 004** świeże rekordy draftów w 74 plik
 | **Suma drugiego zestawu** |  | **5 136** |
 | **Łącznie po step11** | **95 plików** | **10 140** |
 
-Przyrost jest o **140** rekordów większy od celu 10 000; projekcja łącznie ze step11 wynosi **30 750**. Partie pozostają oddzielne od step11 i nie zostały scalone.
+Pierwszy przyrost był o **140** rekordów większy od ówczesnego celu 10 000; projekcja wynosiła wtedy **30 750**. Partie pozostają oddzielne od step11 i nie zostały scalone.
+
+## Dalsze partie naturalnego dialogu — 1 347 draftów
+
+Po osiągnięciu pierwszego przyrostu dodano jeszcze cztery partie Common Events oraz dialog z Map 114, Map 151 i Map 19:
+
+| Zakres | Plik | Drafty |
+|---|---|---:|
+| Common Events — NPC barks / follow-ups | `custom-dialogue-common-event-npc-barks-followups-01.jsonl` | 205 |
+| Common Events — NPC barks / follow-ups | `custom-dialogue-common-event-npc-barks-followups-02.jsonl` | 200 |
+| Common Events — dialogue follow-ups | `custom-dialogue-common-event-dialogue-followups-03.jsonl` | 195 |
+| Common Events — story follow-ups | `custom-dialogue-common-event-story-followups-04.jsonl` | 192 |
+| Map 114 — 10 eventów | `custom-dialogue-map114-followups-01.jsonl` | 178 |
+| Map 151 — Hell, 26 eventów | `custom-dialogue-map151-hell-followups-02.jsonl` | 192 |
+| Map 19 — Mansion, 20 eventów | `custom-dialogue-map19-followups-01.jsonl` | 185 |
+| **Suma dalszych partii** | **7 osobnych plików** | **1 347** |
+
+Łącznie po step11 jest teraz **11 487 świeżych, unikalnych ID w 102 plikach**, co daje projekcję **32 097** niepustych tłumaczeń. Test sprawdza zgodność wszystkich 1 347 nowych rekordów z eksportem kanonicznym, kompletność, tokeny/placeholdery, brak slash-prefixed komend, brak ID chronionych oraz brak duplikatów i nakładania z wcześniejszymi draftami. Wszystkie 792 zinwentaryzowane wiersze naturalnego tekstu Common Events są już opracowane. Z wcześniejszego roboczego podzbioru map pozostało **7 723** wiersze po odjęciu Map 114 (178), Map 151 (192) i Map 19 (185) — to liczba kandydatów, nie gwarancja, że każdy jest tekstem widocznym dla gracza. Kontynuować tylko faktyczny tekst gracza; nie wypełniać technicznych etykiet ani tokenów sterujących, nawet jeśli końcowy licznik pozostanie poniżej 45 000. Partie wymagają redakcji, są niescalone, a kanoniczny eksport i source ZIP v1 pozostają bez zmian.
 
 Wcześniejsze wersje partii pozostają dla historii, ale nie należy ich scalać razem z nowszymi zamiennikami: używaj `inventory-names-02`, `native-messages-03` i `phone-contact-ui-02`, nie ich wcześniejszych wariantów. Batch `map-labels-01.jsonl` został już uwzględniony w `inventory-names-02.jsonl`. Sceny obejmują 13 wcześniejszych i 7 kolejnych plików; aktualny zestaw zawiera Common Event 25, 15 scen Common Events ze step10 oraz 50 follow-upów Common Events ze step11 (2 730 wierszy), a także dialog Map 20/31, eventy Map 3 (22, 31, 37, 39, 41, 45, 47, 56; sensowny dialog Map 3 jest pokryty) i follow-upy Map 23/24/9/116, pierwsze partie Map 41/55/44/82/54/6/26 i 57 Common Events oraz 21 nowszych partii map wyszczególnionych powyżej. Wszystkie partie pozostają do redakcji; znaczniki komend/statusów nie są tłumaczone na ślepo.
 
