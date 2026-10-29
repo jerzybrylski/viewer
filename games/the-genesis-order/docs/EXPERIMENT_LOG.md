@@ -213,3 +213,9 @@
 - Dodano kolejne **186** draftów: Map 24 (eventy 55 i 28: 57), Map 23 (event 44: 39), Map 116 (event 4: 57) i Map 9 (event 124: 33). Łącznie od step7 przybyło 816 rekordów; tłumaczenia nadal są robocze i wymagają redakcji.
 - Scalenie `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step9.jsonl` zweryfikowało **45 229 rekordów, 16 866 niepustych tłumaczeń, 131 chronionych wartości i 28 232 tłumaczalne pola oczekujące**. SHA-256: `602131c2146ef9ecea113f9c7282e10199af552d1ba3af4dde891bc63fff2ee3`. Do celu 30 000 pozostaje 13 134.
 - `python3 -m unittest discover -s games/the-genesis-order/tests -q`: **35/35 OK**; `git diff --check` i `py_compile` builderów: bez błędów. Eksport kanoniczny i source ZIP pozostają bez zmian; patcha gry nie utworzono.
+
+## 2026-10-29 — scalenie step10, Common Event follow-ups
+
+- Dodano **1 014** tłumaczeń dialogowych w 15 Common Events: 438 (74), 344 (72), 477 (68), 346 (70), 447 (70), 430 (68), 348 (68), 433 (68), 326 (65), 314 (66), 372 (66), 399 (65), 323 (64), 342 (65) i 364 (65). Są to drafty wymagające redakcji.
+- Scalenie `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step10.jsonl` zweryfikowało **45 229 rekordów, 17 880 niepustych tłumaczeń, 131 chronionych wartości i 27 218 pól oczekujących**. SHA-256: `8eecd334a39b914ff6f738de0761bfcba11280b3e40a99b27c9ba8bcbf318619`. Do celu 30 000 pozostaje 12 120.
+- Testy `unittest`: **35/35 OK**; buildery Common Events przechodzą `py_compile`, a `git diff --check` jest czysty. Eksport kanoniczny i source ZIP bez zmian; patcha gry nie utworzono.

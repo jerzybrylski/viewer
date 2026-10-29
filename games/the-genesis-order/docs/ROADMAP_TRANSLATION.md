@@ -2,7 +2,7 @@
 
 **Cel:** przygotować bezpieczny pipeline od zweryfikowanych źródeł RPG Maker MV, przez tłumaczenie z kontekstem, po lokalny patcher Windows. Tekstów SRW nie kopiujemy do TGO; przenoszone są wyłącznie ogólne praktyki: stabilne ID, JSONL, walidacja placeholderów, branch-aware Markdown i staging bez nadpisywania oryginału.
 
-**Aktualny gate:** statyczne skanowanie i eksport są zakończone. Właściciel zatwierdził wszystkie nie-rendererowe wiersze `401` i wszystkie opcje `102` jako pełnoprawny tekst do tłumaczenia. Source ZIP v1 jest śledzony w repozytorium i udostępniony na Google Drive. Tekst wtopiony w obrazy i wideo jest poza zakresem na decyzję właściciela. Robocze partie obejmują UI, wskazówki, wybory, teksty danych, 20 scen common events oraz dialog Map 20/31, wybrane eventy Map 3 i pierwsze partie Map 23/24/9/116: w ostatnim scaleniu **16 866 niepustych tłumaczeń**, **131 chronionych rekordów** i **28 232 tłumaczalne pola oczekujące**. Bieżący cel to 30 000; tłumaczenia wymagają redakcji i nie są patchem gry.
+**Aktualny gate:** statyczne skanowanie i eksport są zakończone. Właściciel zatwierdził wszystkie nie-rendererowe wiersze `401` i wszystkie opcje `102` jako pełnoprawny tekst do tłumaczenia. Source ZIP v1 jest śledzony w repozytorium i udostępniony na Google Drive. Tekst wtopiony w obrazy i wideo jest poza zakresem na decyzję właściciela. Robocze partie obejmują UI, wskazówki, wybory, teksty danych, 20 scen common events, 15 dodatkowych Common Events oraz dialog Map 20/31, wybrane eventy Map 3 i pierwsze partie Map 23/24/9/116: w ostatnim scaleniu **17 880 niepustych tłumaczeń**, **131 chronionych rekordów** i **27 218 tłumaczalnych pól oczekujących**. Bieżący cel to 30 000; tłumaczenia wymagają redakcji i nie są patchem gry.
 
 ## Kanoniczny przepływ
 
@@ -26,8 +26,8 @@ Repozytorium śledzi wszystkie narzędzia, tekstowe dane źródłowe i robocze t
 | 3. Kanoniczny eksport | JSONL ze stabilnym ID, hashami, locatorami, kontekstem i tokenami | **45 229 rekordów; wszystkie kontrole pokrycia przeszły** |
 | 4. Round-trip | walidator i safe write-back do kopii; testy syntetyczne | **Gotowe statycznie**; `--check` weryfikuje 45 229 rekordów / 238 źródeł |
 | 5. Kontekst/pakiet źródłowy | JSONL, instrukcje, glossary/polityka, raport, manifest i Markdown źródłowy | **ZIP v1 wygenerowany i sprawdzony**: 45 229 rekordów / 497 dokumentów; archiwum śledzone w Git i wysyłane na Google Drive |
-| 6. Rozpoczęcie tłumaczenia | zatwierdzone zasady językowe, glosariusz, partie i kontrola terminologii | **W toku**; aktualne partie mają 16 866 niepustych tłumaczeń w drodze do celu 30 000 (w tym pełne 705 wskazówek, 20 scen i dialog kilku map); redakcja i testy gry/wyświetlania nadal potrzebne |
-| 7. Import tłumaczenia | walidacja ID, tokenów, braków, nadmiarów i konfliktów | **Częściowo**: aktualne scalenie sprawdziło 45 229 rekordów, 16 866 tłumaczeń, 131 chronionych wartości i 28 232 oczekujące; pełna weryfikacja hashy źródeł wymaga ich lokalnego pobrania |
+| 6. Rozpoczęcie tłumaczenia | zatwierdzone zasady językowe, glosariusz, partie i kontrola terminologii | **W toku**; aktualne partie mają 17 880 niepustych tłumaczeń w drodze do celu 30 000 (w tym pełne 705 wskazówek, 20 scen i dialog kilku map); redakcja i testy gry/wyświetlania nadal potrzebne |
+| 7. Import tłumaczenia | walidacja ID, tokenów, braków, nadmiarów i konfliktów | **Częściowo**: aktualne scalenie sprawdziło 45 229 rekordów, 17 880 tłumaczeń, 131 chronionych wartości i 27 218 oczekujących; pełna weryfikacja hashy źródeł wymaga ich lokalnego pobrania |
 | 8. Patcher Windows | wykrycie kopii/builda, backup, atomowy staging, raport/rollback, testy syntetyczne | **Nie rozpoczęto**; wymaga tłumaczenia i docelowego layoutu |
 | 9. Finalny patch / polska dystrybucja | przetłumaczony tekst i instalowalny patch | **Nie istnieją**; osobna bramka po tłumaczeniu/QA |
 
