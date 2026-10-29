@@ -219,3 +219,10 @@
 - Dodano **1 014** tłumaczeń dialogowych w 15 Common Events: 438 (74), 344 (72), 477 (68), 346 (70), 447 (70), 430 (68), 348 (68), 433 (68), 326 (65), 314 (66), 372 (66), 399 (65), 323 (64), 342 (65) i 364 (65). Są to drafty wymagające redakcji.
 - Scalenie `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step10.jsonl` zweryfikowało **45 229 rekordów, 17 880 niepustych tłumaczeń, 131 chronionych wartości i 27 218 pól oczekujących**. SHA-256: `8eecd334a39b914ff6f738de0761bfcba11280b3e40a99b27c9ba8bcbf318619`. Do celu 30 000 pozostaje 12 120.
 - Testy `unittest`: **35/35 OK**; buildery Common Events przechodzą `py_compile`, a `git diff --check` jest czysty. Eksport kanoniczny i source ZIP bez zmian; patcha gry nie utworzono.
+
+
+## 2026-10-29 — scalenie step11, 50 Common Event follow-ups
+
+- Po step10 dodano **2 730** roboczych tłumaczeń w 50 Common Events: 313 (48), 315 (49), 320 (58), 339 (58), 341 (61), 353 (44), 355 (50), 356 (61), 357 (56), 358 (51), 362 (50), 366 (40), 373 (62), 374 (47), 375 (52), 376 (64), 378 (47), 380 (63), 381 (45), 383 (48), 385 (62), 387 (65), 390 (49), 391 (64), 392 (54), 395 (62), 397 (55), 405 (50), 412 (52), 418 (63), 420 (53), 427 (53), 428 (48), 431 (48), 432 (64), 434 (58), 435 (60), 436 (62), 437 (58), 441 (56), 446 (52), 450 (51), 453 (59), 455 (48), 457 (62), 474 (48), 479 (53), 482 (48), 493 (60) i 495 (59). Wymagają redakcji.
+- Scalenie `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step11.jsonl` zweryfikowało **45 229 rekordów, 20 610 niepustych tłumaczeń, 131 chronionych wartości i 24 488 pól oczekujących**. SHA-256: `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`. Do celu 30 000 pozostaje **9 390**. Step11 dodaje 2 730 względem step10; wcześniejsze tłumaczenia zachowano bez zmian.
+- `python3 -m unittest discover -s games/the-genesis-order/tests -q`: **35/35 OK**; nowe buildery przechodzą `py_compile`; walidator merge sprawdził zgodność ID i metadanych, tokeny, chronione wartości i konflikty. Kanoniczny eksport oraz source ZIP v1 pozostają bez zmian; patcha gry nie utworzono i gry/runtime nie uruchamiano.

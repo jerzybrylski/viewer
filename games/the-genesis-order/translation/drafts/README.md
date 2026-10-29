@@ -4,7 +4,7 @@ Stan na 2026-10-29. Wszystkie pliki w tym katalogu są **roboczymi zwrotkami** p
 
 ## Aktualny scalony stan
 
-Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step10.jsonl`. Narzędzie `games/the-genesis-order/tools/merge_translation_batches.py` zweryfikowało **45 229 rekordów**: **17 880 niepustych tłumaczeń**, **131 rekordów chronionych** oraz **27 218 tłumaczalnych pól oczekujących**. Bieżący cel to 30 000 niepustych tłumaczeń; zostało 12 120. Scalenie można odtworzyć z aktywnych partii poniżej. Nie jest to eksport kanoniczny.
+Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step11.jsonl`. Narzędzie `games/the-genesis-order/tools/merge_translation_batches.py` zweryfikowało **45 229 rekordów**: **20 610 niepustych tłumaczeń**, **131 rekordów chronionych** oraz **24 488 tłumaczalnych pól oczekujących**. Bieżący cel to 30 000 niepustych tłumaczeń; zostało 9 390. Scalenie można odtworzyć z aktywnych partii poniżej. Nie jest to eksport kanoniczny. SHA-256 step11: `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`.
 
 ## Aktualnie używane partie
 
@@ -16,7 +16,8 @@ Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_dr
 | Powtarzalny dialog | `custom-dialogue-repeated-01.jsonl`–`-06.jsonl` | 6 498 |
 | Wybrane sceny common events | wszystkie `custom-dialogue-scene-*-01.jsonl` (20 plików) | 1 922 |
 | Common Event 25 — teksty systemowe | `custom-dialogue-npc-system-01.jsonl` | 304 |
-| Dodatkowe sceny Common Events | wszystkie `custom-dialogue-common-event-*-01.jsonl` (15 plików) | 1 014 |
+| Dodatkowe sceny Common Events (step10) | `custom-dialogue-common-event-*-01.jsonl` (15 plików) | 1 014 |
+| Common Event follow-ups (step11) | 50 plików `custom-dialogue-common-event-*-01.jsonl` | 2 730 |
 | Dialog Map 20 (Foyer) | wszystkie `custom-dialogue-map20-*.jsonl` | 985 |
 | Dialog Map 31 | wszystkie `custom-dialogue-map31-*.jsonl` | 700 |
 | Dialog Map 3 | wszystkie `custom-dialogue-map3-*.jsonl` | 728 |
@@ -30,9 +31,9 @@ Najnowsze pełne scalenie znajduje się poza Git, w ignorowanym pliku `google_dr
 | Teksty telefonu i wartości zmiennych | `phone-and-vars-01.jsonl` | 133 |
 | Typy systemowe | `system-types-01.jsonl` | 34 |
 | Napisy końcowe | `credits-01.jsonl` | 2 |
-| **Łącznie w aktualnym scaleniu** |  | **17 880** |
+| **Łącznie w aktualnym scaleniu** |  | **20 610** |
 
-Wcześniejsze wersje partii pozostają dla historii, ale nie należy ich scalać razem z nowszymi zamiennikami: używaj `inventory-names-02`, `native-messages-03` i `phone-contact-ui-02`, nie ich wcześniejszych wariantów. Batch `map-labels-01.jsonl` został już uwzględniony w `inventory-names-02.jsonl`. Sceny obejmują 13 wcześniejszych i 7 nowych plików; dodatki po poprzednim merge zawierają Common Event 25, 15 dalszych scen Common Events oraz dialog Map 20/31 i eventy Map 3 (22, 31, 37, 39, 41, 45, 47, 56; sensowny dialog Map 3 jest pokryty) oraz follow-upy Map 23/24/9/116. Wszystkie partie pozostają do redakcji; znaczniki komend/statusów nie są tłumaczone na ślepo.
+Wcześniejsze wersje partii pozostają dla historii, ale nie należy ich scalać razem z nowszymi zamiennikami: używaj `inventory-names-02`, `native-messages-03` i `phone-contact-ui-02`, nie ich wcześniejszych wariantów. Batch `map-labels-01.jsonl` został już uwzględniony w `inventory-names-02.jsonl`. Sceny obejmują 13 wcześniejszych i 7 kolejnych plików; aktualny zestaw zawiera Common Event 25, 15 scen Common Events ze step10 oraz 50 nowych follow-upów Common Events ze step11 (2 730 wierszy), a także dialog Map 20/31, eventy Map 3 (22, 31, 37, 39, 41, 45, 47, 56; sensowny dialog Map 3 jest pokryty) i follow-upy Map 23/24/9/116. Wszystkie partie pozostają do redakcji; znaczniki komend/statusów nie są tłumaczone na ślepo.
 
 ## Walidacja i zasady
 

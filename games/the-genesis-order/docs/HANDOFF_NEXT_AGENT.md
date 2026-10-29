@@ -1,6 +1,6 @@
 # Handoff dla kolejnego agenta — The Genesis Order
 
-Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Ostatnie zweryfikowane scalenie obejmuje 17 880 niepustych tłumaczeń z 45 229 rekordów; aktywny cel to 30 000, więc pozostaje 12 120. Wszystkie partie są robocze i wymagają redakcji; patcha gry jeszcze nie ma.
+Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Ostatnie zweryfikowane scalenie step11 obejmuje 20 610 niepustych tłumaczeń z 45 229 rekordów; aktywny cel to 30 000, więc pozostaje 9 390. Wszystkie partie są robocze i wymagają redakcji; patcha gry jeszcze nie ma.
 
 ## Stan repo i artefaktów
 
@@ -10,7 +10,7 @@ Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Ostat
 - ZIP obejmuje canonical JSONL, kontekstowy Markdown (497 dokumentów), instrukcję PL, manifest, glossary/politykę i raport zakresu. Nie zawiera oryginalnych assetów ani kodu gry.
 - Oryginalne źródła są dostępne na Google Drive: folder `TGO/www/data/` zawiera 306 plików, w tym `CommonEvents.json`. W bieżącym workspace źródła nie są zsynchronizowane do lokalnego ignorowanego `google_drive/`; nie prosić właściciela o ponowny upload. Przy potrzebie ponownego hashowania źródeł pobrać/synchronizować je z Drive.
 - Pełne `unittest` uruchomione w tej sesji: **35/35 passed**. Wcześniejszy Markdown import-check zweryfikował 45 229 rekordów i 0 brakujących ID; builder source ZIP sprawdza manifest coverage, zgodność liczby rekordów, unikalność ID i integralność archiwum.
-- Nie uruchamiano gry ani kodu gry. Source ZIP i kanoniczny eksport pozostają źródłowe; osobne partie robocze zawierają UI, 705 wskazówek, wybory, powtarzalny dialog, 20 scen common events (1 922 wiersze), 15 dodatkowych Common Events (1 014), Common Event 25 (304), Map 20 (985), Map 31 (700), Map 3 (728), Map 24 (168), Map 23 (219), Map 116 (135) i Map 9 (101) oraz pozostałe kategorie. Pełny scalony stan: `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step10.jsonl` (ignorowany artefakt).
+- Nie uruchamiano gry ani kodu gry. Source ZIP i kanoniczny eksport pozostają źródłowe; osobne partie robocze zawierają UI, 705 wskazówek, wybory, powtarzalny dialog, 20 scen common events (1 922 wiersze), 15 Common Events ze step10 (1 014), Common Event 25 (304), 50 nowych follow-upów Common Events ze step11 (2 730), Map 20 (985), Map 31 (700), Map 3 (728), Map 24 (168), Map 23 (219), Map 116 (135) i Map 9 (101) oraz pozostałe kategorie. Pełny scalony stan: `google_drive/the-genesis-order/translation/merged-tgo-working-2026-10-29-step11.jsonl` (ignorowany artefakt): 20 610 niepustych, 131 chronionych i 24 488 oczekujących; SHA-256 `ac4897fea1585267e6390d36b417ccf628c768c2200870e2ccf100aaf5d003ea`.
 
 ## Zatwierdzony zakres i liczniki
 
@@ -23,7 +23,7 @@ Stan: 2026-10-29. Kanoniczny statyczny eksport i source ZIP v1 są gotowe. Ostat
 
 ## Następne zadania
 
-1. Kontynuować tłumaczenie po stabilnym `id` w kierunku celu 30 000; obecny merge ma 17 880 niepustych tłumaczeń, 131 chronionych rekordów i 27 218 oczekujących. Sensowny dialog Map 20, Map 31 i Map 3 jest już pokryty. Dodano pierwsze partie dialogu Map 23, 24, 9 i 116; wciąż pozostaje tam wiele nieprzetłumaczonych wierszy. Aktualne zamienniki to `inventory-names-02`, `native-messages-03` i `phone-contact-ui-02`; `inventory-names-02` zawiera map labels, więc nie dodawać osobno `map-labels-01`. Pełny zestaw partii opisuje `translation/drafts/README.md`. Scalaj narzędziem `tools/merge_translation_batches.py`, wykrywaj konflikty i nie nadpisuj pracy.
+1. Kontynuować tłumaczenie po stabilnym `id` w kierunku celu 30 000; merge step11 ma 20 610 niepustych tłumaczeń, 131 chronionych rekordów i 24 488 oczekujących (9 390 do celu). Sensowny dialog Map 20, Map 31 i Map 3 jest już pokryty. Dodano pierwsze partie dialogu Map 23, 24, 9 i 116; wciąż pozostaje tam wiele nieprzetłumaczonych wierszy. Aktualne zamienniki to `inventory-names-02`, `native-messages-03` i `phone-contact-ui-02`; `inventory-names-02` zawiera map labels, więc nie dodawać osobno `map-labels-01`. Pełny zestaw partii opisuje `translation/drafts/README.md`. Scalaj narzędziem `tools/merge_translation_batches.py`, wykrywaj konflikty i nie nadpisuj pracy.
 2. Nie zmieniać ID, locatorów, source hashes, `source_text` ani tokenów. Zachować wszystkie rekordy `keep_source_value` dokładnie.
 3. Po tłumaczeniu uruchomić Markdown import-check i `apply_translation.py --check`; rozliczyć braki, duplikaty, tokeny i konflikty.
 4. Ustalić docelowy build/layout i zaprojektować patcher Windows z backupem/rollbackiem; testować najpierw na kopiach syntetycznych.
