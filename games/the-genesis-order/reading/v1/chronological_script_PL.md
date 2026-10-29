@@ -22475,7 +22475,7 @@
 **Mox:** Ja? Byłem zajęty rozmową z Bobbym. Widzisz u mnie twój… zagubiony długopis?  
 **Sędzia:** Dobrze wiesz, co zostało zabrane.  
 **Mox:** Jeśli tak ci zależy, czemu nie zgłosisz kradzieży?  
-**Mox:** A może zgłoszenie kradzieży obrazu – który już został zgłoszony jako skradziony – byłoby problemem?  
+**Mox:** A może zgłoszenie kradzieży obrazu — który już został zgłoszony jako skradziony — byłoby problemem?  
 **Sędzia:** …  
 **Mox:** Miłego dnia, Wysoki Sądzie.  
 **Sędzia:** Swój awans zawdzięczasz mnie, detektywie… Nie zapominaj o tym.  
@@ -56714,7 +56714,7 @@
 
 **Melissa:** /greet  
 **Mox:** /greet  
-**Melissa:** Powiedziałabym, że to jak szukanie igły w stogu siana, ale nauczyłam się cię nie nie doceniać.  
+**Melissa:** Powiedziałabym, że to jak szukanie igły w stogu siana, ale nauczyłam się cię nie doceniać.  
 
 ---
 
@@ -69137,7 +69137,7 @@
 **Mox:** Czy mam czas, by się przygotować?  
 **Kimberly:** Przed twoim wywiadem mamy segment o seksie.  
 **Mox:** Segment o seksie!?  
-**Paul:** Oglądalność nie kłamie, Mox – przyciąga wielu widzów.  
+**Paul:** Oglądalność nie kłamie, Mox — przyciąga wielu widzów.  
 **Kimberly:** Wszyscy ostatnio myślą o seksie, jak widać.  
 **Paul:** Chodźmy, przejdźmy do studia.  
 

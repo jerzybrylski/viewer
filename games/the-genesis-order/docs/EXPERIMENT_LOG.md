@@ -439,3 +439,13 @@
 - **Co pozostaje NIEZWERYFIKOWANE:** pełne przejście gry (wszystkie mapy i warianty), zachowanie po wczytaniu save’a, najdłuższe kwestie w najwęższych okienkach UI oraz inne buildy produktu niż testowany. To QA treści, nie ryzyko techniczne.
 - **Brak zmian w artefaktach:** patch `f60a2ff5…` (3 747 899 B) i Czytanka `74a3b096…` pozostają aktualne; zmieniono wyłącznie dokumentację (STATUS, EDITORIAL_DECISIONS, HANDOFF, ten wpis).
 - **Następny krok:** QA treści w grze partiami — zebrać zdania do redakcji i poprawiać je jako nowe drafty, bez ruszania plików gry.
+
+## 2026-10-29 (noc) — audyt redakcyjny: korpus czysty, poprawione 4 rekordy
+
+- **Cel:** właściciel wybrał redakcję treści jako następny krok. Zamiast „poprawiać na wyczucie” zmierzyłem korpus nowym narzędziem `tools/audit_editorial_quality.py`, które rozdziela **usterki techniczne** (mierzalne) od **obserwacji stylistycznych** (do decyzji redaktora).
+- **Wynik pomiaru (POTWIERDZONE, 39 917 tłumaczeń):** podwójnych spacji w treści **0**; spacje brzegowe w **174** rekordach, z czego **173 odzwierciedlają źródło** (czyli są celowe — dlatego narzędzie porównuje ze `source_text` i nie rusza takich przypadków); powtórzone słowo **3**; resztki angielskie **1** (tytuł gry wg R-01); zdania zaczynające się z małej litery **3** (wszystkie to ciągi dalsze komunikatów).
+- **Poprawki (4 rekordy, wszystkie bez czytania w kontekst niezbędnego):** `nie nie doceniać` → `nie doceniać`; usunięta spacja na końcu `Zasz? ` (źródło jej nie ma); dwie półpauzy wtrąceń `–` → `—` (spójność z 90 pozostałymi); zakres `2–21` **zostawiony** jako poprawna półpauza liczbowa.
+- **Fałszywe alarmy (7) zapisane w whitelistcie z uzasadnieniem:** „niczego na nie nie wylej” („na nie” + negacja), „To to wszystko wywołało” (zaimek + „to wszystko”), zakres „2–21”, „The Genesis Order” (R-01), trzy ciągi dalsze wiadomości telefonu/UI. Dzięki temu kolejne przebiegi nie zgłaszają ich ponownie, a nowe trafienia nadal są widoczne.
+- **Styl (raport, nie zmiana):** „do cholery” 344, „po prostu” 300, „wygląda na to” 211, „mam nadzieję” 187, „w porządku” 183. To poprawna polszczyzna, ale powtarzalna — urozmaicenie wymaga redakcji w kontekście sceny (LLM), nie podmiany mechanicznej.
+- **Artefakty przebudowane po poprawkach:** patch `e71a8d92…` (3 747 899 B, payload `de3e2bff…`), Czytanka `6aa6a602…` (3 312 563 B). Oba wgrane na Drive i zweryfikowane po MD5 (`fa50e1c1…`, `8602b3d1…`); poprzednie wydania w koszu.
+- **Testy:** nowe `tests/test_editorial_quality.py` (10 testów: detekcja powtórzeń, whitelist, bezpieczeństwo `--fix` przy „!!” i spacjach ze źródła, czystość opublikowanego raportu). Razem **124/124 OK**.
