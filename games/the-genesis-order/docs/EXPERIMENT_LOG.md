@@ -384,3 +384,10 @@
 - **Stuby mapy testowej (POTWIERDZONE):** 7 rekordów `Text goes here` to `native_message` z TEST MAP EV001, a `TEXT` to `phone_text` z TEST MAP EV021 — oba to placeholdery dewelopera, nie produkcyjne UI. Wpływa to na priorytet decyzji R-07/R-08.
 - **Crafting i telefon (POTWIERDZONE):** 94 rekordy Map 46 mają spójne „Wytworzyć ten przedmiot?” / „Brakuje ci przedmiotów potrzebnych do tego przepisu.”; fragment telefonu `He’s going to be<br>` poprzedza linię `pissed, ya know?` → „Wkurzony, kumasz?”, więc razem czytają się jako „Będzie wkurzony, kumasz?”.
 - **Wynik:** `docs/EDITORIAL_DECISIONS.md` przepisany na podstawie tych pomiarów (11 pozycji, każda z dowodem i rekomendacją). Progu „wszystko przetłumaczone” to nie zmienia: 39 926 tłumaczeń, 0 nierozstrzygniętych. Nie zmieniano żadnego draftu ani eksportu.
+
+## 2026-10-29 — manifest i fingerprinty źródeł wyjęte z ZIP-a do Git
+
+- **Powód:** przegląd kompletności ZIP-a patcha POC wykazał, że `payload/patch_manifest.json` (1,6 KB) i `payload/source_fingerprints.json` (21,5 KB, 238 hashy `data/*.json`) istniały **wyłącznie w archiwum**. Pozostałe wpisy ZIP-a są albo identyczne z repo (patcher, BAT-y, narzędzia), albo odtwarzalne (translations.jsonl ze scalenia draftów), a README różni się tylko wstrzykniętym licznikiem.
+- **Działanie:** oba pliki wyodrębniono bez modyfikacji do `translation/reports/patch_manifest_v0.1.1.json` i `translation/reports/source_fingerprints_v0.1.1.json`. SHA-256 fingerprintów `22aaa094c93fc85d8c40082ed23c634082220744130914914926ab33cf005d23` zgadza się z polem `fingerprints_sha256` w manifeście, więc to autentyczny artefakt, nie rekonstrukcja.
+- **Znaczenie:** to jedyna kopia dająca się zweryfikować tylko przy źródłach gry; bez niej patcher nie miałby czym potwierdzić wersji builda, a strata ZIP-a oznaczałaby utratę danych nieodtwarzalnych. Teraz każdy bajt ZIP-a jest albo w Git, albo dowodnie odtwarzalny z Git.
+- **Kontrole:** `unittest` 60/60 OK; brak zmian w draftach i eksporcie.

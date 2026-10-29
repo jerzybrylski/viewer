@@ -1,0 +1,40 @@
+{
+  "canonical_record_count": 45229,
+  "compatibility_policy": "All source files referenced by export-v1 must match their recorded SHA-256; otherwise the patcher refuses to modify the installation.",
+  "draft_batch_count": 427,
+  "engine": "RPG Maker MV / NW.js (engine version 1.6.1 observed; product build not confirmed)",
+  "fingerprints_sha256": "22aaa094c93fc85d8c40082ed23c634082220744130914914926ab33cf005d23",
+  "game_files_included": false,
+  "patch_version": "0.1.1-poc",
+  "pending_untranslated_record_count": 0,
+  "product_build": "unconfirmed; exact source fingerprints required",
+  "protected_record_count": 131,
+  "protected_records_by_category": {
+    "ui.plugin_static": 3,
+    "ui.variable_value": 128
+  },
+  "runtime_tested": false,
+  "schema": "tgo-standalone-patch-v1",
+  "source_file_count": 238,
+  "source_preserved_nonlocalized_by_category": {
+    "choice_option": 514,
+    "credits": 237,
+    "custom_dialogue": 3924,
+    "database.actors.name": 27,
+    "database.items.name": 2,
+    "image_caption": 68,
+    "item_found_label": 1,
+    "native_message": 329,
+    "phone_contact_ui": 26,
+    "phone_text": 3,
+    "system.currencyUnit": 1,
+    "ui.variable_value": 27,
+    "ui_choice": 13
+  },
+  "source_preserved_nonlocalized_record_count": 5172,
+  "title": "The Genesis Order — Polish translation proof of concept",
+  "translated_record_count": 39926,
+  "translation_coverage_sha256": "a6ca33a13fde28cef45242e9e5d201b1bcbbdcbb9895a95f188f0b329e21f4b9",
+  "translation_coverage_status": "complete",
+  "translations_sha256": "e2898d6f33399779f3703831287488293f32ec0cec64a06acfb37c68d154311e"
+}
