@@ -371,7 +371,7 @@
   - 259 builderów przechodzi `py_compile`; skan `subprocess|urllib|socket|eval` nie znalazł wywołań (jedno trafienie to słowo „socket” w tłumaczeniu).
 - **Sprzątanie własnego obejścia:** usunięto `translation/pending/`, `tools/markup_signature.py` i `tests/test_markup_signature.py`. Odzyskana reguła `translation_tokens_match()` rozwiązuje ten sam problem w samym walidatorze, więc ADR 002 przyjęto jako **wariant B** (bez tworzenia `export-v2`, bez zmiany kanonicznego eksportu). Usunięto też mój draft `phone-select-item-fragment-01.jsonl`, bo ten rekord jest w odzyskanym `visible-ui-remaining-01.jsonl` — dwa pliki dałyby konflikt.
 - **Dokumentacja:** nowe `docs/EDITORIAL_DECISIONS.md` (11 pozycji do decyzji: tytuł gry, `Channel 4`, 40 etykiet map, warianty craftingu i telefonu, `TEXT`/`TEKST`, odmiana imion, placeholdery TEST MAP, fonty) i `docs/RECOVERY_2026-10-29.md`; zaktualizowane `STATUS.md`, `HANDOFF_NEXT_AGENT.md`, `ROADMAP_TRANSLATION.md`, `AGENTS.md`, `README.md` (projektu i repo), `PROJECTS.md`, `TRANSLATION_FORMAT.md`, `drafts/README.md`. Historyczne wpisy dziennika zachowane bez zmian.
-- **Kontrole:** `python3 -m unittest discover -s games/the-genesis-order/tests -q` → **60/60 OK**; `tools/audit_translation_coverage.py` → `status: complete`; `audit_draft_coverage.py` → 427 plików, 0 konfliktów. Nie uruchamiano gry ani kodu gry.
+- **Kontrole:** `python3 -m unittest discover -s games/the-genesis-order/tests -q` → **69/69 OK**; `tools/audit_translation_coverage.py` → `status: complete`; `audit_draft_coverage.py` → 427 plików, 0 konfliktów. Nie uruchamiano gry ani kodu gry.
 - **Supersesja wcześniejszych wpisów:** liczby 36/36, 51/51 i 54/54 w powyższych wpisach są zapisem chwili, w której je uzyskano. Wpisy z `translation/pending/`, `tools/markup_signature.py` i propozycją ADR 002 opisują stan sprzed decyzji; obowiązuje wariant B opisany w ADR 002 i w wpisie wyżej.
 
 ## 2026-10-29 — analiza spójności redakcyjnej korpusu (po odzyskaniu)
@@ -390,4 +390,17 @@
 - **Powód:** przegląd kompletności ZIP-a patcha POC wykazał, że `payload/patch_manifest.json` (1,6 KB) i `payload/source_fingerprints.json` (21,5 KB, 238 hashy `data/*.json`) istniały **wyłącznie w archiwum**. Pozostałe wpisy ZIP-a są albo identyczne z repo (patcher, BAT-y, narzędzia), albo odtwarzalne (translations.jsonl ze scalenia draftów), a README różni się tylko wstrzykniętym licznikiem.
 - **Działanie:** oba pliki wyodrębniono bez modyfikacji do `translation/reports/patch_manifest_v0.1.1.json` i `translation/reports/source_fingerprints_v0.1.1.json`. SHA-256 fingerprintów `22aaa094c93fc85d8c40082ed23c634082220744130914914926ab33cf005d23` zgadza się z polem `fingerprints_sha256` w manifeście, więc to autentyczny artefakt, nie rekonstrukcja.
 - **Znaczenie:** to jedyna kopia dająca się zweryfikować tylko przy źródłach gry; bez niej patcher nie miałby czym potwierdzić wersji builda, a strata ZIP-a oznaczałaby utratę danych nieodtwarzalnych. Teraz każdy bajt ZIP-a jest albo w Git, albo dowodnie odtwarzalny z Git.
-- **Kontrole:** `unittest` 60/60 OK; brak zmian w draftach i eksporcie.
+- **Kontrole:** `unittest` 69/69 OK; brak zmian w draftach i eksporcie.
+
+## 2026-10-29 — testy artefaktów: ZIP ↔ repo ↔ liczby
+
+- **Problem:** spójność, którą udowodniłem jednorazowo przy odzyskiwaniu (sidecar = archiwum, manifest = payload, Czytanka w ZIP-ie = `reading/v1/`), nie była niczym pilnowana. Kolejna przebudowa mogła ją cicho zepsuć.
+- **Działanie:** nowy `tests/test_patch_artifacts.py` (9 testów, ~1,7 s) czyta wyłącznie archiwa i pliki repo, bez uruchamiania jakiegokolwiek kodu z ZIP-ów:
+  - sidecar `.sha256` zgadza się z bajtami obu ZIP-ów;
+  - żaden ZIP nie zawiera assetów gry (`.rpgmvp`, `.rpgmvo`, `.exe`, `.dll`, audio itd.);
+  - `translations_sha256`, `fingerprints_sha256` i `translation_coverage_sha256` z manifestu zgadzają się z payloadem, który ZIP faktycznie zawiera;
+  - kopie w `translation/reports/` są identyczne z payloadem (fingerprinty i pokrycie po bajtach, manifest po polach);
+  - 238 fingerprintów to poprawne SHA-256, a liczba wierszy w `translations.jsonl` i ich unikalność zgadzają się z manifestem;
+  - manifest jasno deklaruje `runtime_tested: false`, `game_files_included: false` i `pending_untranslated_record_count: 0`;
+  - **wszystkie 4 399 wpisów Czytanki jest bajt w bajt równe plikom z `reading/v1/`**, a epizodów jest 4 394.
+- **Wynik:** `python3 -m unittest discover -s games/the-genesis-order/tests -q` → **69/69 OK**. Testy pinują teraz nie tylko liczby korpusu (427 partii, 45 229/39 926/131/5 172 w teście scalania), ale też to, że opublikowane paczki odpowiadają zawartości Git.

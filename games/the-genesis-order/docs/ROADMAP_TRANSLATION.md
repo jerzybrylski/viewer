@@ -45,7 +45,7 @@ Repozytorium śledzi narzędzia, tekstowe dane, robocze tłumaczenia oraz osobne
 - Statyczne wartości widoczne przez `\\V[...]`: 262 niepuste rekordy; 132 whitespace-only layout values pominięte; 128 kwot/markerów chronionych `keep_source_value`.
 - JavaScript: 78 plików, 563 kandydatury; 35 UI (4 engine-static, 9 parametrów pluginów, 22 static plugin UI), 528 wykluczeń, 0 otwartych.
 - 34 pola `note` w Items.json zawierają tagi/metadane bez prozy. 1 570 plugin commands to polecenia sterujące lub parametry, nie jawne teksty UI. Dynamiczne nazwy urządzeń/użytkowników są danymi runtime, nie stringami lokalizacyjnymi.
-- `apply_translation.py --check`: w poprzednim sprawdzeniu 45 229 rekordów / hashe 238 źródeł bez zapisu; najnowszy pełny `unittest` po odzyskaniu pracy: **60/60 passed** (patcher, Czytanka, bramka pokrycia, audyt draftów).
+- `apply_translation.py --check`: w poprzednim sprawdzeniu 45 229 rekordów / hashe 238 źródeł bez zapisu; najnowszy pełny `unittest` po odzyskaniu pracy: **69/69 passed** (patcher, Czytanka, bramka pokrycia, audyt draftów).
 
 Source ZIP: `games/the-genesis-order/translation/packages/TGO_source_translation_package_v1.zip`; SHA-256 w sąsiednim `.sha256`. Odtwarzanie: `python3 games/the-genesis-order/tools/build_translation_package.py`. ZIP nie zawiera oryginalnych assetów ani kodu gry. Tekst wtopiony w obrazy i wideo jest poza zakresem na decyzję właściciela.
 

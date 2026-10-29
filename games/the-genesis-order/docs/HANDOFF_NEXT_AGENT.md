@@ -8,7 +8,7 @@ Stan: 2026-10-29. Statyczne tłumaczenie wszystkich kwalifikujących się rekord
 
 - Kanoniczny eksport `translation/export-v1/`: **45 229** rekordów; pozostaje źródłem i nie jest modyfikowany przez merge.
 - Wszystkie **427** partii draftów scalają się bez konfliktów: **39 926** niepustych tłumaczeń, **131** jawnie chronionych wartości, **5 172** zachowane rekordy nielokalizowalne, **0** nierozstrzygniętych tłumaczalnych rekordów.
-- Pełne testy: `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **60/60 OK**.
+- Pełne testy: `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **69/69 OK**.
 - Scalenie draftów odtwarza bajt w bajt `payload/translations.jsonl` z patcha POC (SHA-256 `e2898d6f33399779f3703831287488293f32ec0cec64a06acfb37c68d154311e`) — nic nie istnieje tylko w ZIP-ie.
 - Tekst wtopiony w obrazy/wideo pozostaje poza zakresem. Zachowuj stabilne ID, source, kontekst, tokeny i `keep_source_value`; tłumaczenia słownikowe/statystyczne są zabronione — stosuj kontekst sceny i ADR projektu.
 
