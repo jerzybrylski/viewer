@@ -103,6 +103,31 @@ class PatchPayloadConsistencyTest(unittest.TestCase):
         self.assertEqual(self.manifest['pending_untranslated_record_count'], 0)
 
 
+class PatcherPackageTest(unittest.TestCase):
+    """Paczka musi zawierać komplet plików patchera — inaczej instalator nie działa."""
+
+    def test_zip_ships_patcher_with_locator(self):
+        with zipfile.ZipFile(PATCH_ZIP) as zipped:
+            names = set(zipped.namelist())
+            for name in ('patcher.py', 'locator.py', 'APPLY.bat', 'COFNIJ.bat', 'README_PL.md'):
+                with self.subTest(name=name):
+                    self.assertIn('TGO_PL_translation_patch_POC_v0.1.1/' + name, names)
+
+    def test_shipped_patcher_files_match_repository(self):
+        with zipfile.ZipFile(PATCH_ZIP) as zipped:
+            for name in ('patcher.py', 'locator.py', 'APPLY.bat', 'COFNIJ.bat'):
+                with self.subTest(name=name):
+                    shipped = zipped.read('TGO_PL_translation_patch_POC_v0.1.1/' + name)
+                    self.assertEqual(sha256_bytes(shipped), sha256_file(TGO / 'patcher' / name))
+
+    def test_launchers_do_not_ask_for_a_path(self):
+        for name in ('APPLY.bat', 'COFNIJ.bat'):
+            with self.subTest(name=name):
+                text = (TGO / 'patcher' / name).read_text(encoding='utf-8')
+                self.assertNotIn('set /p', text)
+                self.assertIn('patcher.py', text)
+
+
 class ReadalongMatchesTrackedTreeTest(unittest.TestCase):
     def test_every_archive_entry_equals_tracked_file(self):
         with zipfile.ZipFile(READALONG_ZIP) as zipped:

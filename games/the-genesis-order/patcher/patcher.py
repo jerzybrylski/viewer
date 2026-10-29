@@ -19,9 +19,14 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parent
 PAYLOAD = ROOT / "payload"
-TOOLS = ROOT / "tools"
-sys.path.insert(0, str(TOOLS))
+# W rozpakowanej paczce narzędzia leżą w ROOT/tools; w repozytorium — w tools/ obok.
+TOOLS = ROOT / "tools" if (ROOT / "tools").is_dir() else ROOT.parent / "tools"
+for _path in (TOOLS, ROOT):
+    if str(_path) not in sys.path:
+        sys.path.insert(0, str(_path))
+sys.path.insert(0, str(ROOT))
 from apply_translation import apply_records, read_jsonl_files, validate_record  # noqa: E402
+from locator import Config, ConsoleGui, TkGui, resolve_install  # noqa: E402
 
 PATCH_MANIFEST = PAYLOAD / "patch_manifest.json"
 TRANSLATIONS = PAYLOAD / "translations.jsonl"
@@ -306,13 +311,59 @@ def rollback(install_path: Path) -> dict[str, Any]:
     return {"status": "rolled_back", "files": len(verified), "backups_kept": True}
 
 
+def patch_version() -> str:
+    try:
+        return str(json.loads(PATCH_MANIFEST.read_text(encoding="utf-8")).get("patch_version", ""))
+    except (OSError, json.JSONDecodeError):
+        return ""
+
+
+def locate_only(gui: ConsoleGui, config: Config, extra_roots: list[Path], assume_yes: bool,
+                interactive: bool) -> int:
+    install_root = resolve_install(None, action="locate", config=config, gui=gui,
+                                   interactive=interactive, assume_yes=assume_yes,
+                                   extra_roots=extra_roots)
+    print(json.dumps({"status": "located", "game_path": str(install_root)}, ensure_ascii=False, indent=2))
+    return 0
+
+
 def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("action", choices=("apply", "rollback"))
-    parser.add_argument("game_folder", type=Path, help="folder containing www/index.html")
+    parser = argparse.ArgumentParser(
+        description="Bezpieczny instalator/cofanie patcha TGO PL. Sam znajduje instalację gry.",
+    )
+    parser.add_argument("action", nargs="?", default="apply", choices=("apply", "rollback", "locate"),
+                        help="apply (domyślnie), rollback albo locate — tylko pokaż/pamiętaj ścieżkę")
+    parser.add_argument("game_folder", nargs="?", type=Path,
+                        help="opcjonalny katalog gry; bez niego patcher użyje pamięci/autodetekcji/okna wyboru")
+    parser.add_argument("--game", dest="game_option", type=Path, default=None,
+                        help="to samo co game_folder, w formie opcji")
+    parser.add_argument("--no-gui", action="store_true", help="bez okien dialogowych (tryb konsolowy)")
+    parser.add_argument("--yes", action="store_true",
+                        help="nie pytaj o potwierdzenie zapamiętanej/znalezionej instalacji")
+    parser.add_argument("--search-root", type=Path, action="append", default=[],
+                        help="dodatkowy katalog do przeszukania (można podać wielokrotnie)")
+    parser.add_argument("--forget", action="store_true", help="zapomnij zapamiętaną ścieżkę i wyjdź")
     args = parser.parse_args()
-    result = install(args.game_folder) if args.action == "apply" else rollback(args.game_folder)
+
+    config = Config()
+    if args.forget:
+        print("Zapomniano zapamiętaną instalację." if config.forget() else "Nie było zapamiętanej instalacji.")
+        return 0
+
+    gui: ConsoleGui = ConsoleGui() if args.no_gui else TkGui()
+    explicit = args.game_option or args.game_folder
+    interactive = not args.yes
+
+    if args.action == "locate":
+        return locate_only(gui, config, args.search_root, args.yes, interactive)
+
+    install_root = resolve_install(explicit, action=args.action, config=config, gui=gui,
+                                   interactive=interactive, assume_yes=args.yes,
+                                   extra_roots=args.search_root)
+    result = install(install_root) if args.action == "apply" else rollback(install_root)
+    config.save(install_root, patch_version=patch_version(), action=args.action)
     print(json.dumps(result, ensure_ascii=False, indent=2))
+    print(f"Zapamiętana instalacja: {install_root}")
     if result["status"] == "installed":
         print("Patch zastosowany; kopie oryginałów pozostawiono w .tgo-pl-originals. Zamknij grę przed każdym użyciem patchera.")
     elif result["status"] == "rolled_back":

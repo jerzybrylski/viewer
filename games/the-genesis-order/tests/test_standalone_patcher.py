@@ -1,5 +1,7 @@
 import hashlib
 import json
+import os
+import subprocess
 import sys
 import tempfile
 import unittest
@@ -104,6 +106,56 @@ class StandalonePatcherTests(unittest.TestCase):
         result = standalone.rollback(self.install)
         self.assertEqual(result["status"], "rolled_back")
         self.assertEqual((self.install / "www" / "data" / "Items.json").read_bytes(), self.items_bytes)
+
+
+class PatcherCliLocatingTests(unittest.TestCase):
+    """CLI bez wpisywania ścieżki: autodetekcja, pamięć i tryb locate."""
+
+    def setUp(self):
+        self.temp = tempfile.TemporaryDirectory()
+        self.root = Path(self.temp.name)
+        self.install = self.root / "The Genesis Order"
+        (self.install / "www" / "data").mkdir(parents=True)
+        (self.install / "www" / "index.html").write_text("<html></html>", encoding="utf-8")
+        (self.install / "www" / "data" / "System.json").write_text("[]\n", encoding="utf-8")
+        self.config = self.root / "config" / "config.json"
+        self.env = dict(os.environ, TGO_PATCH_CONFIG=str(self.config))
+
+    def tearDown(self):
+        self.temp.cleanup()
+
+    def run_cli(self, *args):
+        return subprocess.run(
+            [sys.executable, str(ROOT / "patcher" / "patcher.py"), *args],
+            capture_output=True, text=True, encoding="utf-8", env=self.env, timeout=120,
+        )
+
+    def test_locate_persists_path_and_finds_it_without_arguments(self):
+        first = self.run_cli("locate", "--no-gui", "--yes", "--search-root", str(self.root))
+        self.assertEqual(first.returncode, 0, first.stderr)
+        self.assertIn("located", first.stdout)
+        saved = json.loads(self.config.read_text(encoding="utf-8"))
+        self.assertEqual(Path(saved["game_path"]), self.install)
+
+    def test_forget_clears_memory(self):
+        self.run_cli("locate", "--no-gui", "--yes", "--search-root", str(self.root))
+        forgotten = self.run_cli("--forget")
+        self.assertEqual(forgotten.returncode, 0, forgotten.stderr)
+        saved = json.loads(self.config.read_text(encoding="utf-8"))
+        self.assertNotIn("game_path", saved)
+
+    def test_without_memory_and_without_candidate_it_fails_cleanly(self):
+        empty = self.root / "pusty"
+        empty.mkdir()
+        result = self.run_cli("locate", "--no-gui", "--yes", "--search-root", str(empty))
+        self.assertEqual(result.returncode, 2)
+        self.assertIn("--game", result.stderr)
+
+    def test_help_documents_automatic_lookup(self):
+        result = self.run_cli("--help")
+        self.assertEqual(result.returncode, 0)
+        self.assertIn("--no-gui", result.stdout)
+        self.assertIn("locate", result.stdout)
 
 
 if __name__ == "__main__":

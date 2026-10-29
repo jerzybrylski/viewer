@@ -20,6 +20,8 @@ CANONICAL = TRANSLATION / "export-v1"
 PACKAGE_SOURCE = ROOT / "patcher"
 TOOLS_SOURCE = ROOT / "tools"
 DEFAULT_OUTPUT = TRANSLATION / "packages" / "TGO_PL_translation_patch_POC_v0.1.1.zip"
+# Pliki patchera kopiowane do paczki: program, moduł lokalizujący instalację, launchery i README.
+PACKAGE_FILES = ("patcher.py", "locator.py", "APPLY.bat", "COFNIJ.bat", "README_PL.md")
 BUNDLED_TOOLS = (
     "apply_translation.py",
     "export_translation.py",
@@ -59,7 +61,7 @@ def build(output: Path) -> dict[str, object]:
         raise FileExistsError(f"Refusing to overwrite package or hash: {output}")
     if not PACKAGE_SOURCE.is_dir():
         raise FileNotFoundError(PACKAGE_SOURCE)
-    for name in ("patcher.py", "APPLY.bat", "COFNIJ.bat", "README_PL.md"):
+    for name in PACKAGE_FILES:
         if not (PACKAGE_SOURCE / name).is_file():
             raise FileNotFoundError(PACKAGE_SOURCE / name)
     for name in BUNDLED_TOOLS:
@@ -94,7 +96,7 @@ def build(output: Path) -> dict[str, object]:
         tools = package / "tools"
         payload.mkdir(parents=True)
         tools.mkdir(parents=True)
-        for name in ("patcher.py", "APPLY.bat", "COFNIJ.bat", "README_PL.md"):
+        for name in PACKAGE_FILES:
             shutil.copyfile(PACKAGE_SOURCE / name, package / name)
         for name in BUNDLED_TOOLS:
             shutil.copyfile(TOOLS_SOURCE / name, tools / name)

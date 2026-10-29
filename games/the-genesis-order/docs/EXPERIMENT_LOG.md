@@ -421,3 +421,13 @@
 - **Zmiana wyłącznie w dokumentacji:** `EDITORIAL_DECISIONS.md` (każda pozycja ma status, datę i wariant obowiązujący), `STATUS.md`.
 - **Otwarte:** R-11 — polskie glify i łamanie tekstu w grze. Właściciel testuje patch na własnej kopii i wróci z informacją, czy działa i czy znaki są widoczne.
 - **Testy:** bez zmian względem poprzedniego kroku — `88/88 OK`.
+
+## 2026-10-29 (noc) — patcher sam znajduje instalację (koniec wpisywania ścieżki z ręki)
+
+- **Zarzut właściciela:** dotychczasowy `APPLY.bat` wymagał wklepania ścieżki do gry. To bez sensu — patcher powinien sam znajdować instalację albo otwierać okno wyboru jak patch OE, i pamiętać wybór na przyszłość.
+- **Działanie:** nowy moduł `patcher/locator.py` (bez zależności zewnętrznych) realizuje cztery kroki w stałej kolejności: argument/`--game` → **zapamiętana ścieżka** → **autodetekcja** (rejestr i `libraryfolders.vdf` Steam, `steamapps/common`, `Games`, `GOG Games`, `Epic Games` na wszystkich dyskach, foldery z „genesis” w nazwie, Pulpit/Pobrane/Dokumenty, katalog patchera) → **okno wyboru folderu** (`tkinter`, z fallbackiem konsolowym). Przy kilku instalacjach pokazuje listę do wyboru.
+- **Pamięć:** `%APPDATA%\TGO_PL_patch\config.json` (na Linux/macOS `~/.config/tgo-pl-patch/config.json`, nadpisywalne przez `TGO_PATCH_CONFIG`) — zapisuje wyłącznie ścieżkę, wersję patchera i datę. `patcher.py --forget` czyści pamięć. Odrzucenie zapamiętanej instalacji nie powoduje, że patcher proponuje ją ponownie w tym samym uruchomieniu.
+- **`APPLY.bat` / `COFNIJ.bat`:** usunięto `set /p` — nie pytają już o ścieżkę; przekazują argumenty dalej, więc przeciągnięcie folderu nadal działa.
+- **Bezpieczeństwo bez zmian:** lokalizator tylko czyta katalogi; weryfikacja 238 hashy, staging i backup działają jak wcześniej. Odrzucenie folderu nie zmienia niczego w grze.
+- **Testy:** nowe `tests/test_patcher_locator.py` (19 testów: rozpoznawanie instalacji, limity głębokości, parsowanie VDF, pamięć, scénariusze wyboru i fallbacki) + 4 testy CLI w `tests/test_standalone_patcher.py` (proces potomny, zapis konfiguracji, `--forget`, czysty błąd bez kandydatów) + 3 testy w `tests/test_patch_artifacts.py` (ZIP zawiera `locator.py`, pliki patchera zgodne z repo bajt w bajt, launchery nie zawierają `set /p`). Razem **114/114 OK**.
+- **Artefakt:** patch przebudowany (13 wpisów, +`locator.py`), SHA-256 `f60a2ff512e397ffa1d730bc0d48a5949fbc2541ef7516e9302998cd8d512277`, 3 747 899 B; `payload/translations.jsonl` bez zmian (`d90191df…`), więc treść tłumaczeń jest identyczna. Sprawdzono end-to-end na rozpakowanym ZIP-ie: pierwsze uruchomienie znajduje instalację, drugie używa zapamiętanej, a `apply` na atrapie kończy się czystym błędem bez modyfikacji plików.
