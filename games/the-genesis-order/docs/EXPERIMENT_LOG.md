@@ -275,3 +275,9 @@
 - Dodano **178** osobnych draftów naturalnego dialogu z 10 eventów Map 114. Żaden z ich stabilnych ID nie występował wcześniej w niepustych draftach.
 - Łącznie po step11 jest teraz **11 487** świeżych, unikalnych draftów w **102 osobnych plikach**, co daje projekcję **32 097** niepustych tłumaczeń. Pozostały roboczy podzbiór naturalnego dialogu map liczy **7 723** wiersze; kwalifikowalność każdego wymaga oceny, więc nie jest to obietnica osiągnięcia 45 000.
 - Builder Map 114 przechodzi `py_compile` i utworzył batch 178 wierszy, odmawiając nadpisania istniejącego pliku. Pełne `unittest`: **36/36 OK**, w tym regresyjny audyt wszystkich siedmiu batchy; wszystkie siedem builderów przechodzi `py_compile`. Kanoniczny eksport i source ZIP v1 pozostają bez zmian; partie są odseparowane i wymagają redakcji.
+
+## 2026-10-29 — Map 203 courtroom follow-ups
+
+- Dodano **171** osobnych draftów naturalnego dialogu z 8 eventów Map 203 (rozprawa sądowa i dalsza rozmowa). Tłumaczą kwestie wypowiadane w scenie, bez nagłówków sterujących.
+- Łączny przyrost po step11 wynosi teraz **11 658 unikalnych draftów w 103 osobnych plikach**, co daje projekcję **32 268** niepustych tłumaczeń. Roboczy podzbiór naturalnego dialogu map ma **7 552** wiersze; każdy nadal wymaga oceny, czy faktycznie jest tekstem gracza.
+- Builder Map 203 przechodzi `py_compile`, utworzył batch 171 wierszy i odmawia nadpisania istniejącego pliku. Pełne `unittest`: **36/36 OK**; regresyjny audyt wszystkich ośmiu batchy potwierdził zgodność z kanonicznym eksportem, kompletność, zachowanie tokenów i brak overlapu. Wszystkie osiem builderów przechodzi `py_compile`. Partie pozostają oddzielne i niescalone; kanoniczny eksport i source ZIP v1 bez zmian.

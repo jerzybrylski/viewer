@@ -19,6 +19,7 @@ BATCH_COUNTS = {
     'custom-dialogue-map151-hell-followups-02.jsonl': 192,
     'custom-dialogue-map19-followups-01.jsonl': 185,
     'custom-dialogue-map114-followups-01.jsonl': 178,
+    'custom-dialogue-map203-courtroom-followups-01.jsonl': 171,
 }
 
 
