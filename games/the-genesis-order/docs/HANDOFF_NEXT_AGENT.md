@@ -110,3 +110,7 @@ Poprawiono siedem kolejnych błędów i zapisano 77 potwierdzonych rozstrzygnię
 ### Krytyczne: opętanie i nagłówki
 
 CE454 i CE456: `Er` to ciało Erici, faktycznie mówi Daemalius; zastosowano męską pierwszą osobę i żeńską drugą wobec Lilith. Wcześniejsza ręczna korekta `fc45bddff4fb76abcab1` na żeńską była błędna i została cofnięta. Nie określać tożsamości automatycznie z nagłówka. `fix_grammatical_gender.py --apply` zablokowano, aby zapobiec ponownemu uszkodzeniu. Pełny kontekst, ID i aktualne hashe na końcu `GENDER_AUDIT_2026-10-30.md`. Rejestr 188 confirmed, 30 corrected, 5 deferred, 39 694 unreviewed. Testy 155 OK; nowy ZIP nie jest sprawdzony w grze ani opublikowany na Drive. Kontynuować audyt; nie ogłaszać ukończenia.
+
+### Dalszy przegląd
+
+38 kolejnych dawnych form pierwszej osoby potwierdzono, cztery rekordy poprawiono; rejestr liczy 226 confirmed, 34 corrected, 5 deferred, 39 652 bez decyzji. Aktualne hashe i ID są w końcowej sekcji `GENDER_AUDIT_2026-10-30.md`. 155 testów OK, patch nie jest testowany w grze ani publikowany na Drive. Kontynuować przegląd scen oraz poprzednich zmian; nie utożsamiać nagłówka ciała z rzeczywistą tożsamością w opętaniu.

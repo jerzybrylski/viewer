@@ -16315,7 +16315,7 @@
 **Mox:** Proszę. Zaprogramuję go tak, żebyś mogła zadzwonić do nas jednym przyciskiem…  
 **Mox:** Gotowe. Naciśnij ten przycisk, a połączysz się z nami.  
 **Arianna:** Ale zgrany z nas zespół!  
-**Diana:** Nigdy nie byłam skłonny do modlitwy, ale chyba teraz warto zacząć.  
+**Diana:** Nigdy nie byłam skłonna do modlitwy, ale chyba teraz warto zacząć.  
 **Arianna:** Nie zaszkodzi!  
 **Mox:** Wszystko będzie dobrze.  
 **Mox:** Powodzenia.  
@@ -18683,8 +18683,8 @@
 **Mox:** To nieprawda, Hannah.  
 **Chloe:** Nie wiedziałam, że tu będzie.  
 **Mox:** Tak, zaprosiłem ją.  
-**Erica:** Nie powiedziałaś im, że przyjdę?  
-**Mox:** Co? Przecież wszystkie się przyjaźnimy.  
+**Erica:** Nie powiedziałeś im, że przyjdę?  
+**Mox:** Co? Przecież wszyscy się przyjaźnimy.  
 **Judy:** Witaj, Erico. Jestem siostrą Judy.  
 **Erica:** To ty jesteś zakonnicą? Wyglądasz ślicznie.  
 **Judy:** Ojej. Dziękuję za komplement.  
@@ -50954,7 +50954,7 @@
 
 **Hannah:** /greet  
 **Mox:** /greet  
-**Hannah:** Myślałam, że miałaś iść do łóżka?  
+**Hannah:** Myślałam, że miałeś iść do łóżka?  
 
 ---
 

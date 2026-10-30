@@ -52,6 +52,10 @@ CASES = {
     '37b388a1d2c7a43dadef': 'Eee… Niczego nie widziałeś.',
     '57b98b0dcff229da0aa4': 'Jak zawsze piękna.',
     'e45029b4b9ee9c7538b9': 'Masz mnie za idiotę? Co planujesz zrobić?',
+    'cf4117322af096480ff1': 'Nie powiedziałeś im, że przyjdę?',
+    'd598afd8b9e319055625': 'Co? Przecież wszyscy się przyjaźnimy.',
+    '6f17daf4a48c9e3eb989': 'Nigdy nie byłam skłonna do modlitwy, ale chyba teraz warto zacząć.',
+    '2ac50544bcb806cb9383': 'Myślałam, że miałeś iść do łóżka?',
 }
 
 
