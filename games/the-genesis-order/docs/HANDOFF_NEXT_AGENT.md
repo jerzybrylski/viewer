@@ -114,3 +114,7 @@ CE454 i CE456: `Er` to ciało Erici, faktycznie mówi Daemalius; zastosowano mę
 ### Dalszy przegląd
 
 38 kolejnych dawnych form pierwszej osoby potwierdzono, cztery rekordy poprawiono; rejestr liczy 226 confirmed, 34 corrected, 5 deferred, 39 652 bez decyzji. Aktualne hashe i ID są w końcowej sekcji `GENDER_AUDIT_2026-10-30.md`. 155 testów OK, patch nie jest testowany w grze ani publikowany na Drive. Kontynuować przegląd scen oraz poprzednich zmian; nie utożsamiać nagłówka ciała z rzeczywistą tożsamością w opętaniu.
+
+### Systemowa kolejka partii
+
+Na prośbę właściciela dodano `tools/prepare_gender_review_batches.py`, który z odtwarzalnego inwentarza tworzy priorytetyzowane grupy identycznych źródeł/przekładów z indywidualnymi ID, sąsiedztwem i warunkami. Polecenia, wyniki i ważne ograniczenia (w tym brak automatycznej walidacji hasha sąsiedztwa i brak dowodu kompletności) w `GENDER_SYSTEM_REVIEW.md`. Na obecnym stanie 14 178 rekordów ma sygnały, 25 479 bez sygnału nadal wymagają przeglądu; nie są to liczniki błędów. Kontynuować partiami, decyzje i tłumaczenia rozstrzygać w kontekście, nie stosować automatycznych zamian. Korpus ani ZIP-y nie zmienione; 163 testy OK. Audyt nieukończony.
