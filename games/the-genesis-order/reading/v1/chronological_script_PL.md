@@ -11079,7 +11079,7 @@
 **Mox:** To się więcej nie powtórzy.  
 **Melissa:** Idę na salę gimnastyczną. Jest coś, co powinieneś mi powiedzieć, zanim zalogujesz się na komputerze?  
 **Mox:** W jakiej sprawie?  
-**Melissa:** To ty mi powiedz. Jest coś, o czym powinienem wiedzieć?  
+**Melissa:** To ty mi powiedz. Jest coś, o czym powinnam wiedzieć?  
 **Mox:** Masz na myśli… dostęp do akt Gildii? Mogę to wyjaśnić.  
 **Melissa:** To sprawa Davida. Nie denerwuj go.  
 **Mox:** A, no tak.  
@@ -11997,7 +11997,7 @@
 **Erica:** Lillian do ciebie dzwoniła?  
 **Mox:** Tak… Chyba zaprasza nas na kolację.  
 **Erica:** I zamierzasz to założyć?  
-**Mox:** Eee, nie powinnam?  
+**Mox:** Eee, nie powinienem?  
 **Erica:** Lillian to elegancka kobieta, Mox.  
 **Mox:** No cholera.  
 **Erica:** Jest dobrze. Po prostu chodźmy.  
@@ -16656,7 +16656,7 @@
 **Arianna:** Pokój erotyczny na górze jest trochę nudny.  
 **Mox:** /shock  
 **Arianna:** Na początku było trochę ekscytująco, ale teraz to już straszna nuda.  
-**Arianna:** Powinienem był zażądać remontu tego pokoju.  
+**Arianna:** Powinnam była zażądać remontu tego pokoju.  
 **Mox:** Ależ pewność siebie.  
 **Mox:** Chwila, tak dużo używałaś zabawek erotycznych, że ci się znudziły?  
 **Arianna:** Czasem wpada któraś z dziewczyn…  
@@ -16681,7 +16681,7 @@
 **Arianna:** Pokój erotyczny na górze jest trochę nudny.  
 **Mox:** /shock  
 **Arianna:** Na początku było trochę ekscytująco, ale teraz to już straszna nuda.  
-**Arianna:** Powinienem był zażądać remontu tego pokoju.  
+**Arianna:** Powinnam była zażądać remontu tego pokoju.  
 **Mox:** Ależ pewność siebie.  
 **Mox:** Chwila, tak dużo używałaś zabawek erotycznych, że ci się znudziły?  
 **Arianna:** Czasem wpada któraś z dziewczyn…  
@@ -18639,7 +18639,7 @@
 **Heather:** Spędza tyle czasu w kościele… Czemu nie przyjdzie do mnie, jeśli ma problemy?  
 **Mox:** Chyba Chloe ma problemy, z którymi musi sobie sama poradzić.  
 **Heather:** Co się dzieje? Coś wiesz?  
-**Mox:** Nie powinnam mówić. Ale ma sprzeczne myśli.  
+**Mox:** Nie powinienem mówić. Ale ma sprzeczne myśli.  
 **Carol:** Dziewczyna w jej wieku powinna bzykać się z chłopakami, a widzę, że się powstrzymuje.  
 **Heather:** Och, Carol. Wątpię, żeby właśnie o to chodziło.  
 **Mox:** …  
@@ -19788,8 +19788,8 @@
 
 **Melissa:** Co jest, do cholery? Złapali cię?  
 **Mox:** Ugadałem go. Wszystko gra.  
-**Melissa:** Cholera. Może powinienem zdobyć nakaz przeszukania.  
-**Mox:** Spokojnie. Zachowujesz się, jakbyś chciał wkurzyć Andreę.  
+**Melissa:** Cholera. Może powinnam zdobyć nakaz przeszukania.  
+**Mox:** Spokojnie. Zachowujesz się, jakbyś chciała wkurzyć Andreę.  
 **Melissa:** Mam dość bezczynnego siedzenia.  
 **Mox:** Mam plan… Potrzebujemy tylko czegoś dużego… Wielkości samochodu.  
 **Melissa:** /shock  
@@ -25555,7 +25555,7 @@
 **Mox:** Myślisz, że ojciec Zephaniah mógł o nich pisać?  
 **Nellie:** Jaki ojciec?  
 **Brian:** Dlaczego miałby mieć z tym coś wspólnego?  
-**Mox:** Ja… Nie wiem, czy powinnam mówić.  
+**Mox:** Ja… Nie wiem, czy powinienem mówić.  
 **Nellie:** Mox?  
 **Mox:** Znalazłem jeden z amuletów.  
 **Nellie:** Naprawdę?  
@@ -26714,7 +26714,7 @@
 
 **Tasha:** Dobrze się bawicie?  
 **Nellie:** Tasho?  
-**Brian:** Powinnam była wiedzieć, że narobisz kłopotów, Nellie.  
+**Brian:** Powinienem był wiedzieć, że narobisz kłopotów, Nellie.  
 **Nellie:** To Mox zaczął!  
 **Judy:** Ojcze!  
 **Brian:** Musimy sobie porozmawiać, siostro Judy.  
@@ -27521,7 +27521,7 @@
 **Diana:** Mówiłaś, że uratował ci życie… Wyciągnij go stamtąd, Mox.  
 **Mox:** Jak?  
 **Diana:** Spotkaj się ze mną tam, gdzie spotkałeś dziewczynę w czerni. Mogę pomóc.  
-**Melissa:** Powinienem cię aresztować.  
+**Melissa:** Powinnam cię aresztować.  
 **Diana:** Najpierw musisz mnie złapać.  
 **Melissa:** Dziewczyna w czerni?  
 **Mox:** Ja… Nie wiem, o czym ona mówi.  
@@ -27920,7 +27920,7 @@
 
 **Mox:** O nie. Czy Hannah płacze na górze?  
 **Mox:** Hannah rzadko płacze, ale kiedy już zacznie, robi się tak, jakby nadszedł koniec świata…  
-**Mox:** Może powinnam dać jej chwilę, żeby się uspokoiła.  
+**Mox:** Może powinienem dać jej chwilę, żeby się uspokoiła.  
 **Mox:** Chwila, co ona robi?  
 
 ---
@@ -28060,7 +28060,7 @@
 **Chloe:** Dzięki, że przy mnie jesteś, Mox.  
 **Chloe:** Jesteś dobrym nauczycielem.  
 **Mox:** Mam nadzieję, że Hannah już cię nie łaskocze.  
-**Chloe:** Haha. Może powinienem przy niej nie zdejmować spodni.  
+**Chloe:** Haha. Może powinnam przy niej nie zdejmować spodni.  
 
 ---
 
@@ -29112,7 +29112,7 @@
 **Carol:** Nie wiem. Cały czas tu jest.  
 **Mox:** Ale się wyprowadziła.  
 **Carol:** Upiera się, że musi opiekować się swoimi zwierzakami.  
-**Carol:** W ogóle nie powinienem był pozwolić jej ich zatrzymać.  
+**Carol:** W ogóle nie powinnam była pozwolić jej ich zatrzymać.  
 **Carol:** Tak się do nich przywiązała, że właściwie wcale się nie wyprowadziła.  
 **Mox:** Podoba ci się, że ciągle jest w domu.  
 **Carol:** Jeśli zależy ci na własnym dobru, zabierzesz to do grobu.  
@@ -29132,7 +29132,7 @@
 **Carol:** Nie wiem. Cały czas tu jest.  
 **Mox:** Ale się wyprowadziła.  
 **Carol:** Upiera się, że musi opiekować się swoimi zwierzakami.  
-**Carol:** W ogóle nie powinienem był pozwolić jej ich zatrzymać.  
+**Carol:** W ogóle nie powinnam była pozwolić jej ich zatrzymać.  
 **Carol:** Tak się do nich przywiązała, że właściwie wcale się nie wyprowadziła.  
 **Mox:** Podoba ci się, że ciągle jest w domu.  
 **Carol:** Jeśli zależy ci na własnym dobru, zabierzesz to do grobu.  
@@ -30998,7 +30998,7 @@
 
 ## Mapa 053 — Wodospad / event 36 / strona 1
 
-**Mox:** Przysięgam, widziałem, jak coś tędy przeszło. Powinnam ostrzec ojca Solomona, że widziałem coś w pobliżu.  
+**Mox:** Przysięgam, widziałem, jak coś tędy przeszło. Powinienem ostrzec ojca Solomona, że widziałem coś w pobliżu.  
 
 ---
 
@@ -31440,7 +31440,7 @@
 **Hannah:** Cholera, Mox! Jak ty to zrobiłeś?  
 **Ella:** Wygląda na to, że ktoś ostatnio ćwiczył.  
 **Chloe:** Odważymy się iść dalej?  
-**Mox:** Jeśli chcesz iść na wędrówkę, może powinnam iść z tobą.  
+**Mox:** Jeśli chcesz iść na wędrówkę, może powinienem iść z tobą.  
 **Hannah:** Tak, tatusiu! Pokaż nam, małym dziewczynkom, drogę!  
 **Mox:** Hej! Po prostu staram się być miły.  
 **Ella:** Oczywiście, że możesz iść z nami!  
@@ -39165,7 +39165,7 @@
 **Carol:** Po śladach na liściach oceniam, że mamy jakieś sześć gąsienic.  
 **Mox:** Możesz to stwierdzić, tylko patrząc na liście?  
 **Carol:** Dobrze wychodzi mi dostrzeganie wskazówek. Na pewno wiesz, o czym mówię.  
-**Heather:** Co jest z wami dwojgiem? Jest coś, o czym powinienem wiedzieć?  
+**Heather:** Co jest z wami dwojgiem? Jest coś, o czym powinnam wiedzieć?  
 **Mox:** Och, eee. To nic… Czyli szukamy sześciu gąsienic?  
 **Carol:** No dalej, ludziska. Szukajmy!  
 **Mox:** /solve  
@@ -46790,7 +46790,7 @@
 **Mox:** Jeśli coś się wydarzy, zadzwoń do nas, a przyjdziemy z pomocą.  
 **Judy:** Jesteś bardzo miły.  
 **Mox:** Nie ma za co.  
-**Mox:** Jeśli nie masz nic przeciwko, powinnam już iść.  
+**Mox:** Jeśli nie masz nic przeciwko, powinienem już iść.  
 **Judy:** Och, na pewno masz napięty grafik.  
 **Mox:** Takie życie śledczego.  
 **Judy:** Do widzenia, Mox.  
@@ -47053,7 +47053,7 @@
 **Mox:** To moja wina. Zostawmy to… Siostro Judy, nie zrobiłaś nic złego.  
 **Chloe:** Czyli… Przez cały czas pilnowałaś drzwi?  
 **Judy:** Jak jastrząb.  
-**Mox:** Powinnam już iść i zostawić was samych.  
+**Mox:** Powinienem już iść i zostawić was samych.  
 **Judy:** Uwolniłaś już umysł od nieczystych myśli, Chloe?  
 **Chloe:** …  
 **Judy:** Chloe?  
@@ -47589,7 +47589,7 @@
 **Judy:** W imieniu wszystkich, których skrzywdziła, proszę, powstrzymaj ją.  
 **Mox:** Wygląda na to, że mam po swojej stronie siły dobra.  
 **Judy:** Masz je, Mox.  
-**Mox:** Robi się późno. Może powinnam już zostawić cię samego.  
+**Mox:** Robi się późno. Może powinienem już zostawić cię samą.  
 **Judy:** Masz dziś wieczorem jakieś plany?  
 **Mox:** Och. Może zostanę jeszcze trochę na mieście, zanim wrócę do domu.  
 **Judy:** Ciężko pracujesz. Cieszę się, że pomagasz przywrócić spokój ofiarom Madalyn.  
@@ -49991,7 +49991,7 @@
 **Mox:** Nellie może wrócić do więzienia.  
 **Heather:** Ojej. Szkoda.  
 **Nellie:** Nic wielkiego. Przywykłam do tego, że mnie wyruchują.  
-**Heather:** Chyba powinienem już iść.  
+**Heather:** Chyba powinnam już iść.  
 **Nellie:** Jesteś przepiękną kobietą, Heather.  
 **Heather:** Dziękuję.  
 **Mox:** Nie pytaj, Nellie.  
@@ -54249,7 +54249,7 @@
 **Judy:** To było takie śliskie.  
 **Mox:** Możesz uważać, że to obrzydliwe. Nie musisz tego robić.  
 **Judy:** Muszę przyznać, że nie spodziewałam się połknąć aż tyle.  
-**Mox:** Chyba powinnam się odwdzięczyć.  
+**Mox:** Chyba powinienem się odwdzięczyć.  
 **Judy:** Co masz na myśli?  
 **Mox:** Zdejmij spódnicę.  
 **Mox:** Teraz ja sprawię ci przyjemność.  
@@ -55713,7 +55713,7 @@
 **Lillian:** Bardzo chętnie dołączę następnym razem, gdy ty i Erica poczujecie ochotę na odrobinę ekscytacji.  
 **Mox:** Haha. Jestem pewien, że bardzo by chciała.  
 **Lillian:** Robi się późno. Jeśli nie masz nic przeciwko, chciałabym zostać sama.  
-**Mox:** Tak, Lillian. Powinnam już iść.  
+**Mox:** Tak, Lillian. Powinienem już iść.  
 **Lillian:** Do widzenia, Mox.  
 **Mox:** Czy ją oszukałem, czy to ona oszukuje mnie?  
 **Mox:** Muszę dowiedzieć się, co dzieje się pod kuchnią…  
@@ -60466,7 +60466,7 @@
 **Judy:** A teraz, gdy zostałam… Może nie jestem na właściwym miejscu.  
 **Mox:** Chcesz powiedzieć, że nie chcesz być zakonnicą?  
 **Judy:** Nigdy nie myślałam, że zapragnę grzechu. Moja wola jest słaba.  
-**Mox:** To nieprawda. Madalyn mnie oszukała. Nie powinnam była tego robić.  
+**Mox:** To nieprawda. Madalyn mnie oszukała. Nie powinienem był tego robić.  
 **Judy:** Nie obwiniaj jej i nie obwiniaj siebie.  
 **Judy:** Gdy byłam młoda, tak bardzo starałam się znaleźć partnera. Pragnęłam romansu, ale nigdy nie nadszedł…  
 **Judy:** A teraz to jedyne, o czym mogę myśleć.  
@@ -67924,7 +67924,7 @@
 **Mox:** Następnym razem ubierz ją seksownie, Kimberly.  
 **Melissa:** Mox!  
 **Kimberly:** Nie mogę się doczekać.  
-**Melissa:** Chyba powinienem już iść.  
+**Melissa:** Chyba powinnam już iść.  
 **Kimberly:** Nie spiesz się, Melisso. Jesteśmy tu sami…  
 **Kimberly:** Pogadajmy.  
 **Melissa:** Nie ma już wiele do dodania. Przesłuchanie utknęło w martwym punkcie.  

@@ -548,3 +548,6 @@ Na prośbę właściciela przygotowano `tools/prepare_gender_review_batches.py`:
 
 ### 2026-10-30 — wąska kolejka rodzaju
 Na żądanie mniejszej listy dodano `tools/focus_gender_candidates.py`: 126 hipotez na aktualnym inwentarzu, bez arbitralnego limitu i bez zmian korpusu. Wykrywa 19/34 historycznych tekstów `before` w wybranej, niereprezentatywnej próbie (zawierającej cofniętą korektę opętania). Fałszywe alarmy i istotne braki opisano w `GENDER_SYSTEM_REVIEW.md`; pełny audyt pozostaje otwarty.
+
+### 2026-10-30 — kontekstowy przegląd wąskiej kolejki
+Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa osobne ID tych samych scen na różnych stronach). Jedna korekta dotyczy adresatki Melissy w sąsiedniej kwestii. Rejestr 226 confirmed / 59 corrected / 5 deferred, 39 627 bez decyzji. Nowe wąskie sito: 102 hipotezy, nie liczba błędów; audyt nadal nieukończony. Szeroką kolejkę uzupełniono o `powinienem/powinnam`. Szczegóły i hashe w `GENDER_AUDIT_2026-10-30.md`; 168 testów OK, bez testu w grze.

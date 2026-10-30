@@ -75,3 +75,11 @@ Stan rejestru 223: **188 confirmed, 30 corrected, 5 deferred**; 39 694 bez decyz
 Potwierdzono 38 kolejnych form pierwszej osoby we wcześniej automatycznie edytowanych kwestiach. Poprawiono cztery rekordy: `cf4117322af096480ff1` (Erica → Mox „powiedziałaś” → „powiedziałeś”), `d598afd8b9e319055625` (Mox o grupie z nim samym „wszystkie” → „wszyscy”), `6f17daf4a48c9e3eb989` (Diana o sobie „byłam skłonny” → „byłam skłonna”) i `2ac50544bcb806cb9383` (Hannah → Mox „miałaś” → „miałeś”). Szczegóły w rejestrze decyzji.
 
 Stan 265 decyzji: 226 confirmed, 34 corrected, 5 deferred; 39 652 bez decyzji. Patch SHA-256 `85cd1f7b8ea384b36a004ca25ee396ea0127b1b320727721d6da31ddd6f7190b`, Czytanka `655d95ec01d86a537845407cc62e28ec43e8aa8e511a32e6c021a4803f36392e`. Wcześniejsze hashe są historyczne. 155 testów OK w sandboxie, bez testu nowej paczki w grze lub publikacji na Drive. Audyt nieukończony.
+
+## Kontynuacja — przegląd wybranych „powinienem / powinnam”
+
+Po sprawdzeniu źródła i sąsiednich kwestii poprawiono **25 rekordów**, w tym dwie pary powtórzeń z osobnymi ID i warunkami stron. Przykłady: Mox mówi „Powinienem ostrzec ojca Solomona”, Arianna „Powinnam była zażądać remontu”, Carol „nie powinnam była pozwolić”, a Brian „Powinienem był wiedzieć”. W rozmowie z Judy zmieniono też „zostawić cię samego” na „samą”; w sąsiedniej scenie Mox mówi do Melissy „jakbyś chciała wkurzyć Andreę”. Wszystkie zmiany przed/po, ID i uzasadnienia są w rejestrze decyzji. Nie rozstrzygano pozostałych kandydatów hurtowo.
+
+Wąskie sito po zmianie zwraca 102 hipotezy (74 adresat, 8 pierwsza osoba, 11 orzecznik, 9 `sam/sama`), a nie potwierdzone błędy. Szerokie sito uzupełniono o flagę `powinienem/powinnam`, której wcześniej brakowało; historyczne wyniki liczbowe szerokiej kolejki w poprzednim rozdziale dotyczą poprzedniej wersji. W rejestrze: 226 confirmed, 59 corrected, 5 deferred, a 39 627 rekordów bez decyzji; potwierdzenie jest ograniczone do rozpatrywanej formy. Kolejka jest niepełna i audyt nadal trwa.
+
+Patch SHA-256 `731605d4048f96c9d46bc3fae640b65c97237402af2fc299837ae8b182816538`, Czytanka `4b3183d56ac1216727f41ed8795090c5313c3cc6b91adbfa856f770a5e2f3ba2`. Patch i Czytanka są zsynchronizowane z draftami; 168 testów OK. Nie uruchamiano gry ani nie publikowano nowych paczek na Drive.

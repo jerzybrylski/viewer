@@ -121,3 +121,6 @@ Na prośbę właściciela dodano `tools/prepare_gender_review_batches.py`, któr
 
 ### Aktualizacja: wąskie sito rodzaju (2026-10-30)
 Użytkownik oczekiwał kilkuset konkretniej uzasadnionych kandydatów zamiast 14 178 szerokich sygnałów. `tools/focus_gender_candidates.py` daje 126 hipotez bez limitu i bez zmian tekstu, ale ma jawne fałszywe alarmy i tylko 19/34 w niereprezentatywnym teście historycznym. Szczegóły, komendy i ograniczenia w `docs/GENDER_SYSTEM_REVIEW.md`. Najpierw czytać scenę i weryfikować mówcę, gałąź oraz adresata; wąska kolejka nie zastępuje pełnego audytu ani szerszej kolejki. Brak nowych korekt korpusu lub przebudowy paczek w tej zmianie.
+
+### Aktualizacja: przegląd wąskiej kolejki (2026-10-30)
+Poprawiono kontekstowo 25 rekordów (24 z kolejki + jedna sąsiednia kwestia do Melissy). ID, wcześniejsze formy i kontekst w rejestrze decyzji; pełne omówienie i hashe w `GENDER_AUDIT_2026-10-30.md`. W rejestrze 226 confirmed, 59 corrected, 5 deferred; 39 627 bez decyzji. Wąskie sito na nowym inwentarzu: 102 hipotezy, bez gwarancji ani pełnego pokrycia. W szerokim sicie dodano sygnał `powinienem/powinnam`, więc należy wygenerować nowy inwentarz i kolejki. Patch i Czytanka zsynchronizowane, 168 testów OK; testu w grze i publikacji Drive nie było. Kontynuować kontekstową weryfikację, w tym sceny opętania i rekordy bez sygnału.

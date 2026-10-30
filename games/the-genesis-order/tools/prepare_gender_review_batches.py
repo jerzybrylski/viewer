@@ -68,6 +68,8 @@ def signals(row: dict) -> list[str]:
     wrong_pattern = FIRST_F if gender == 'M' else FIRST_M if gender == 'F' else None
     if wrong_pattern and any(m.group().lower() not in NOUN_INSTRUMENTAL for m in wrong_pattern.finditer(text)):
         found.append('mozliwa_niezgodnosc_pierwszej_osoby')
+    if re.search(r'\b(?:powinienem|powinnam)\b', text, re.I):
+        found.append('powinienem_powinnam_podmiot_do_ustalenia')
     if DETACHED_1.search(text):
         found.append('rozdzielny_tryb_pierwszej_osoby')
     if DETACHED_2.search(text):
@@ -95,6 +97,7 @@ def signals(row: dict) -> list[str]:
 
 WEIGHTS = {
     'mozliwa_niezgodnosc_pierwszej_osoby': 8,
+    'powinienem_powinnam_podmiot_do_ustalenia': 3,
     'rozdzielny_tryb_pierwszej_osoby': 5,
     'rozdzielny_tryb_adresata': 5,
     'sam_sama_podmiot_do_ustalenia': 3,
