@@ -1,5 +1,30 @@
 # Handoff — The Genesis Order PL
 
+## Najważniejsze na następną sesję — 2026-10-30
+
+**Zadanie:** kontynuować pełny kontekstowy audyt rodzaju w tłumaczeniu The Genesis Order, następnie ręcznie poprawiać jednoznaczne błędy. Audyt **nie jest ukończony**. Właściciel chce podejścia systemowego, ale odrzucił szeroką listę 14 tys. sygnałów jako kolejkę pierwszego wyboru; oczekuje kilkuset konkretniej uzasadnionych kandydatów. Ograniczona kolejka nie zastępuje przeglądu pozostałych kwestii. Tłumaczenie i korekty wykonuje LLM w kontekście sceny; słownikowe, regułowe i statystyczne MT są zabronione.
+
+**Stan po commicie `9cbc502`:** w ostatniej partii poprawiono 25 rekordów (w tym jedna sąsiednia kwestia do Melissy). Rejestr `translation/reports/gender_review_decisions.jsonl` zawiera 226 `confirmed`, 59 `corrected`, 5 `deferred`; 39 627 przetłumaczonych rekordów pozostaje bez decyzji. `confirmed` dotyczy badanej formy, nie całego tekstu. `deferred` nie oznacza poprawności. W ostatnim pomiarze wąskie sito wskazało 102 hipotezy, nie potwierdzone błędy. Na dawnym, niereprezentatywnym zbiorze 34 tekstów `before` wskazało 19; próbka obejmuje także cofniętą błędną korektę, nie jest miarą rzeczywistej czułości. Pełne testy: 168 OK. Patch i Czytanka są zsynchronizowane; **nowych wersji nie testowano w grze ani nie publikowano na Drive**.
+
+**Ostrożność:** nagłówek to wskazówka o ciele, nie pewna tożsamość. W common eventach 454 i 456 w ciele Erici mówi Daemalius; wcześniejsza zmiana `fc45bddff4fb76abcab1` na żeńską była błędna i została cofnięta. Adresat wywnioskowany z sąsiednich kwestii oraz zgodna gałąź również nie są dowodem. Czytać źródło, pełną scenę i warunki; niepewne przypadki odkładać. Nigdy nie stosować hurtowej korekty: `fix_grammatical_gender.py --apply` jest celowo zablokowane. Wyniki i liczby w dalszych sekcjach są historyczne i mogły zostać zastąpione; nie traktować starych twierdzeń o „zerze błędów” i automatycznym wyznaczaniu mówcy jako aktualnych.
+
+**Następne kroki:**
+1. Przeczytać `AGENTS.md` repozytorium i gry, końcowe sekcje `docs/GENDER_AUDIT_2026-10-30.md`, `docs/GENDER_SYSTEM_REVIEW.md` i wpisy decyzji. Zachować istniejące ID, źródło, kontekst i tokeny.
+2. Wygenerować świeży inwentarz i kolejkę; pliki wyjściowe nie mogą już istnieć:
+   ```bash
+   python3 games/the-genesis-order/tools/inventory_gender_review.py --output /tmp/tgo-inventory-next.jsonl
+   python3 games/the-genesis-order/tools/focus_gender_candidates.py --input /tmp/tgo-inventory-next.jsonl --output /tmp/tgo-focus-next.jsonl
+   ```
+   ID sąsiadów z kolejki odszukać w inwentarzu, a gdy trzeba korzystać z pełnej sceny i `reading/v1/episodes/`. Szeroka kolejka `prepare_gender_review_batches.py` nadal jest dostępna i obejmuje teraz także `powinienem/powinnam`; nie używać starych offsetów z innego snapshotu.
+3. Po indywidualnym przeglądzie zapisać decyzje z uzasadnieniem i fingerprintem. Fingerprint nie obejmuje sąsiadów: zmiana sąsiedniej kwestii wymaga ponownej oceny. Zmiany treści ograniczyć do zleconych korekt rodzaju, zsynchronizować drafty i Czytankę, przebudować patch oraz sidecary i manifest; nie modyfikować kanonicznego eksportu ani uruchamiać kodu gry.
+4. Uruchomić `python3 -m unittest discover -s games/the-genesis-order/tests -q`, sprawdzić spójność archiwów, zanotować wyniki i ograniczenia. Kontynuować także wcześniejsze 618 zmian automatycznych, drugą i trzecią osobę oraz rekordy bez sygnału.
+
+**Artefakty:** patch `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`, SHA-256 `731605d4048f96c9d46bc3fae640b65c97237402af2fc299837ae8b182816538`; Czytanka `translation/packages/TGO_readalong_PL_v1.zip`, SHA-256 `4b3183d56ac1216727f41ed8795090c5313c3cc6b91adbfa856f770a5e2f3ba2`. Bieżąca gałąź `arena/9b9f33dc-viewer`, draft PR https://github.com/jerzybrylski/viewer/pull/8. Nie zmieniać gałęzi.
+
+---
+
+## Wcześniejsze wpisy — zapis historyczny
+
 Stan: 2026-10-30. Statyczne tłumaczenie wszystkich kwalifikujących się rekordów oraz oba wskazane milestone’y są zbudowane. Patch **działa w grze** (POTWIERDZONE przez właściciela 2026-10-29 i ponownie 2026-10-30 na bieżącej paczce: polskie znaki, opcje PL, poprawne zawijanie). To nadal proof of concept w zakresie QA treści: nie ma pełnego przejścia gry, testu save/load ani weryfikacji na innych buildach. Nie uruchamiać kodu gry ani nie nadpisywać instalacji użytkownika.
 
 > **Najpierw przeczytaj [`RECOVERY_2026-10-29.md`](RECOVERY_2026-10-29.md).** Praca poprzedniego agenta nie była w Git i została odzyskana z patcha i ZIP-ów; tam jest metoda, hashe i dowody spójności. Nie powtarzaj odzyskiwania.
