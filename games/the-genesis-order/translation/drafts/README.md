@@ -6,12 +6,14 @@ Stan na 2026-10-29 (po odzyskaniu pracy). Wszystkie pliki w tym katalogu są **r
 
 `tools/audit_draft_coverage.py` czyta wszystkie pliki tego katalogu **rekurencyjnie** (także `hints/`, `ui-01/` i `follow-ups/`) i porównuje je z kanonicznym eksportem:
 
-- **39 926** unikalnych ID z niepustym tłumaczeniem w **427** plikach,
-- **5 172** rekordów świadomie zachowanych w źródle + **131** chronionych `keep_source_value`,
+- **39 917** unikalnych ID z niepustym tłumaczeniem w **427** plikach (stan zweryfikowany ponownie 2026-10-30),
+- **5 181** rekordów świadomie zachowanych w źródle + **131** chronionych `keep_source_value`,
 - **0** konfliktów niepustych wariantów i **0** nierozstrzygniętych rekordów,
-- **617** tłumaczeń identycznych ze źródłem, z czego wielowyrazowe to wyłącznie nazwy własne, pseudonimy i linki.
+- **510** tłumaczeń identycznych ze źródłem (liczone po unikalnych ID), z czego **30** wielowyrazowych to nazwy własne i pseudonimy.
 
-Scalenie draftów odtwarza bajt w bajt `payload/translations.jsonl` z patcha POC (SHA-256 `e2898d6f33399779f3703831287488293f32ec0cec64a06acfb37c68d154311e`), więc nic nie istnieje tylko w ZIP-ie. Bramka [`tools/audit_translation_coverage.py`](../../tools/audit_translation_coverage.py) raportuje `status: complete`. Pełne tabele: [`../../docs/COVERAGE_AUDIT.md`](../../docs/COVERAGE_AUDIT.md). Metoda odzyskania korpusu: [`../../docs/RECOVERY_2026-10-29.md`](../../docs/RECOVERY_2026-10-29.md). Otwarte decyzje redakcyjne: [`../../docs/EDITORIAL_DECISIONS.md`](../../docs/EDITORIAL_DECISIONS.md).
+> **Dlaczego 39 917, a nie 39 926?** Wcześniejsze pomiary (2026-10-29, m.in. w `RECOVERY_2026-10-29.md`) podawały 39 926 tłumaczeń i 5 172 rekordów zachowanych w źródle. Różnica **9 rekordów** to wykonane potem decyzje właściciela: R-01 (tytuł gry po angielsku, 1), R-07 (placeholdery `TEST MAP`, 7) i R-08 (`TEXT`, 1). Te rekordy wróciły do źródła, więc 39 926 − 9 = **39 917**, a 5 172 + 9 = **5 181**. Dziś źródłem prawdy jest `translation/reports/coverage_audit_v1.json`; liczby są zgodne z manifestem patcha i z testami.
+
+Scalenie draftów odtwarza bajt w bajt `payload/translations.jsonl` z patcha POC (SHA-256 `8c926724c35413b6b3ab4a5cfbda5c06b4332ed03be7e5d20f47c9adfd7c0722`), więc nic nie istnieje tylko w ZIP-ie. Bramka [`tools/audit_translation_coverage.py`](../../tools/audit_translation_coverage.py) raportuje `status: complete`. Pełne tabele: [`../../docs/COVERAGE_AUDIT.md`](../../docs/COVERAGE_AUDIT.md). Metoda odzyskania korpusu: [`../../docs/RECOVERY_2026-10-29.md`](../../docs/RECOVERY_2026-10-29.md). Otwarte decyzje redakcyjne: [`../../docs/EDITORIAL_DECISIONS.md`](../../docs/EDITORIAL_DECISIONS.md).
 
 Poniższe sekcje są zapisem wcześniejszych audytów (wtedy 425–426 plików) i pozostają jako historia pomiarów.
 

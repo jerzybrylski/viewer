@@ -138,6 +138,19 @@ NOUN_PAIRS_MASC = {
 # Czasowniki w czasie teraźniejszym, które kończą się jak forma przeszła.
 PRESENT_TENSE = {"działam", "słucham", "mam", "znam", "wychodzę"}
 
+# Złożenia czasownika „iść”. Forma żeńska ma temat na „...sz” (weszła, przyszła),
+# męska na „...szed” (wszedł, przyszedł) — samo odcięcie końcówki daje tu bzdurę
+# („weszłam” → „weszłem”). Dodatkowo „w-”, „z-”, „od-” i „pod-” przybierają przed
+# „szedł” samogłoskę „e”: wszedł ↔ weszła, odszedł ↔ odeszła. Lista przedrostków
+# jest zamknięta, żeby narzędzie nie „naprawiało” innych czasowników na „-szłam”
+# (np. „usłyszłam” nie jest złożeniem „iść” i zostaje do ręcznego przeglądu).
+IST_PREFIXES = {
+    "", "w", "we", "z", "ze", "od", "ode", "pod", "pode", "po", "do",
+    "prze", "przy", "wy", "za", "obe", "roz",
+}
+IST_MASC_PREFIX = {"we": "w", "ze": "z", "ode": "od", "pode": "pod"}
+IST_FEM_PREFIX = {"w": "we", "z": "ze", "od": "ode", "pod": "pode"}
+
 # Tematy, których nie da się zamienić samą końcówką.
 STEM_FIXES = {
     "szed": "sz",        # przyszedł → przyszła, wszedł → weszła
@@ -268,6 +281,32 @@ def vocative_gender(sentence: str) -> str | None:
     return genders.pop() if len(genders) == 1 else None
 
 
+def ist_compound_stem(base: str, direction: str) -> tuple[bool, str | None]:
+    """Rozpoznaje złożenie „iść” w formie docelowej.
+
+    ``base`` to forma bez końcówki osobowej („wesz”, „przysz”, „wszed”),
+    ``direction`` — płeć docelowa (``"F"`` = żeńska, ``"M"`` = męska).
+    Zwraca parę ``(wzorzec_rozpoznany, temat_docelowy)``. Drugi element jest
+    ``None``, gdy wyraz wygląda na złożenie „iść”, ale przedrostka nie ma na
+    zamkniętej liście („usłyszłam”) — wtedy lepiej nic nie zmieniać niż zgadywać.
+    Para ``(False, None)`` znaczy „to nie ten wzorzec”, więc działają zwykłe reguły.
+    """
+    low = base.lower()
+    if direction == "M":
+        if not low.endswith("sz"):
+            return False, None
+        prefix = low[:-2]
+        if prefix not in IST_PREFIXES:
+            return True, None
+        return True, IST_MASC_PREFIX.get(prefix, prefix) + "szed"
+    if not low.endswith("szed"):
+        return False, None
+    prefix = low[:-4]
+    if prefix not in IST_PREFIXES:
+        return True, None
+    return True, IST_FEM_PREFIX.get(prefix, prefix) + "sz"
+
+
 def swap_verb_form(word: str, gender: str, person: str) -> str | None:
     """Zamiana końcówki czasownika; zwraca formę docelową albo ``None``."""
     low = word.lower()
@@ -283,11 +322,18 @@ def swap_verb_form(word: str, gender: str, person: str) -> str | None:
         if not low.endswith(suffix):
             continue
         base = word[: len(word) - len(suffix)]
-        fixed_base = base
-        for stem, replacement in STEM_FIXES.items():
-            if low.endswith(stem + suffix):
-                fixed_base = word[: len(word) - len(stem) - len(suffix)] + replacement
-                break
+        recognized, ist_stem = ist_compound_stem(base, gender)
+        if recognized and ist_stem is None:
+            # wygląda jak „-szłam”, ale to nie złożenie „iść” — nie zgadujemy
+            return None
+        if ist_stem is not None:
+            fixed_base = ist_stem
+        else:
+            fixed_base = base
+            for stem, replacement in STEM_FIXES.items():
+                if low.endswith(stem + suffix):
+                    fixed_base = word[: len(word) - len(stem) - len(suffix)] + replacement
+                    break
         target = fixed_base + pairs[suffix]
         if word[:1].isupper():
             target = target[:1].upper() + target[1:]

@@ -8,7 +8,7 @@ Stan: 2026-10-30. Statyczne tłumaczenie wszystkich kwalifikujących się rekord
 
 - Kanoniczny eksport `translation/export-v1/`: **45 229** rekordów; pozostaje źródłem i nie jest modyfikowany przez merge.
 - Wszystkie **427** partii draftów scalają się bez konfliktów: **39 917** niepustych tłumaczeń, **131** jawnie chronionych wartości, **5 181** zachowane rekordy nielokalizowalne, **0** nierozstrzygniętych tłumaczalnych rekordów.
-- Pełne testy: `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **144/144 OK**.
+- Pełne testy: `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **148/148 OK**.
 - Scalenie draftów odtwarza bajt w bajt `payload/translations.jsonl` z patcha POC (SHA-256 `8c926724c35413b6b3ab4a5cfbda5c06b4332ed03be7e5d20f47c9adfd7c0722`) — nic nie istnieje tylko w ZIP-ie.
 - Tekst wtopiony w obrazy/wideo pozostaje poza zakresem. Zachowuj stabilne ID, source, kontekst, tokeny i `keep_source_value`; tłumaczenia słownikowe/statystyczne są zabronione — stosuj kontekst sceny i ADR projektu.
 
@@ -17,6 +17,13 @@ Stan: 2026-10-30. Statyczne tłumaczenie wszystkich kwalifikujących się rekord
 Właściciel zgłosił z gry, że „tłumaczenie nie trzyma rodzajów”: Judy mówi o sobie po męsku, bohater mówi o niej po męsku. To był skutek metody — drafty powstawały bez wiedzy o mówcy. `tools/fix_grammatical_gender.py` ustawia rodzaj i jest już **wykonany na korpusie**: **618 rekordów / 679 form / 229 plików** (536 form 1. osoby z czasownikami, 21 „bym”, 116 form 2. osoby, 5 „byś”, 1 „sam/sama”); drugi przebieg daje 0 zmian. Stan: **0** kwestii kobiecych z męską pierwszą osobą i **0** męskich z żeńską.
 
 Zasady, których nie wolno „poprawiać” w drugą stronę: pierwsza osoba bierze płeć mówcy z `custom_header`; druga osoba — płeć adresata, ale tylko przy jednoznacznej obsadzie sceny; narrator i mówca nieznany nie są adresatami; trzecia osoba nie jest ruszana automatycznie (coreferencja). Reszta jest w `translation/reports/gender_fix_v1.json` → `residual` i w [`GENDER_AUDIT.md`](GENDER_AUDIT.md): 169 kwestii bez mówcy z 1. osobą, 2 122 z 2. osobą bez dowodu adresata w zdaniu, 192 „sam/sama”, 50 zdań z 3. osobą do przeglądu. To materiał do QA w grze, nie do automatycznej zmiany.
+
+## Weryfikacja po sesji (2026-10-30, wpis (4) w dzienniku)
+
+- **Liczby są przeliczone, nie przepisane:** 427 partii, **39 917** tłumaczeń, **131** chronionych, **5 181** zachowanych w źródle, **0** konfliktów. Różnica wobec starszych dokumentów (39 926 / 5 172) to **9 rekordów** z decyzji R-01/R-07/R-08, które wróciły do źródła. Nie „poprawiaj” tego z powrotem.
+- **Testy: 148/148 OK.** Wcześniejsze wpisy w `EXPERIMENT_LOG.md` podają 124/124, 144/144, a jeden (sekcja „(2)”) 147/147 — ten ostatni opisywał stan, którego nie ma w repo; jest tam jawna korekta.
+- **Naprawione zabezpieczenie `iść`:** `tools/fix_grammatical_gender.py` ma teraz `ist_compound_stem()` z zamkniętą listą przedrostków (`weszłam ↔ wszedłem`, `zeszłam ↔ zszedłem`, `odeszłam ↔ odszedłem`, `podeszłam ↔ podszedłem`, `przyszłam ↔ przyszedłem`…). Wyraz na `-szłam`, który nie jest złożeniem „iść” (np. `usłyszłam`), jest **zostawiany bez zmian** — nie zgadujemy.
+- **Artefakty bez zmian:** kontrola narzędzia daje 0 zmian w korpusie, więc patch `e647f76e…`, Czytanka `ea11cdeb…`, manifest i sidecary pozostają aktualne; nie przebudowywano ich i nie publikowano ponownie.
 
 ## Gotowe artefakty
 
