@@ -16044,7 +16044,7 @@
 **Heather:** O! Ale masz mięśnie!  
 **Mox:** Cholera! Nie oszczędzasz się, co?  
 **Heather:** Powiedziałabym, że całkiem dobrze o siebie dbam. Co ty na to?  
-**Mox:** Jak zawsze piękny.  
+**Mox:** Jak zawsze piękna.  
 **Heather:** To mój chłopak.  
 
 ---
@@ -20703,7 +20703,7 @@
 **Erica:** Chcę poczuć w sobie twojego kutasa!  
 **Erica:** O tak! Pieprz mnie, Mox.  
 **Mox:** Lubię ryzyko, Erico. Nie widzisz tego?  
-**Erica:** Och! Ale jesteśmy niegrzeczne!  
+**Erica:** Och! Ale jesteśmy niegrzeczni!  
 **Mox:** Mów ciszej. Ktoś przechodzący obok może nas usłyszeć.  
 **Erica:** Myślałam, że lubisz ryzyko.  
 **Mox:** Chcesz, żeby nas przyłapano? To sprawi, że dojdziesz mocniej?  
@@ -23445,13 +23445,13 @@
 ## Common Event 456 — SCN - Daemalis vs Lillian
 
 **Lillian:** Zostaw ich, Daemalius!  
-**Erica:** Siostro… Nie widziałam tej twarzy od dziesięcioleci.  
+**Erica:** Siostro… Nie widziałem tej twarzy od dziesięcioleci.  
 **Lillian:** Nie da się tego załatwić pokojowo… prawda?  
-**Erica:** Oddałam ci duszę, a ty wykorzystałeś ją, by sprowadzić Lilith na ten świat? Gdzie twoja lojalność?  
+**Erica:** Oddałem ci duszę, a ty wykorzystałaś ją, by sprowadzić Lilith na ten świat? Gdzie twoja lojalność?  
 **Lillian:** Byłeś wybrańcem. I co z tego? Dlaczego miałoby ci się cokolwiek należeć?  
-**Erica:** Mieliśmy działać razem! Miałeś moją duszę! Dlaczego uwięziłeś mnie w tym kamieniu?  
+**Erica:** Mieliśmy działać razem! Miałaś moją duszę! Dlaczego uwięziłaś mnie w tym kamieniu?  
 **Lillian:** Żeby zrobić miejsce dla kogoś znacznie lepszego od ciebie.  
-**Erica:** Zadarłeś z niewłaściwym demonem!  
+**Erica:** Zadarłaś z niewłaściwym demonem!  
 **Lillian:** Myślisz, że dorównujesz Lilith?  
 **Erica:** Przekonajmy się!  
 **Erica:** Wciąż wykorzystujesz swoją seksualność, żeby dostać to, czego chcesz?  
@@ -23461,7 +23461,7 @@
 **Carol:** Puść ją!  
 **Chloe:** Mamo!  
 **Heather:** O cholera!  
-**Erica:** Och, Heather… Odkąd cię zobaczyłam, marzę, żeby dotknąć twojego ciała.  
+**Erica:** Och, Heather… Odkąd cię zobaczyłem, marzę, żeby dotknąć twojego ciała.  
 **Heather:** Eriko?  
 **Erica:** Aaargh!  
 **Erica:** Och, Carol! Ależ masz seksowne ciało mamusi!...  
@@ -32734,7 +32734,7 @@
 **Simon:** Wróciłem po telefon…  
 **Simon:** Hej! Gdzie masz spodnie?...  
 **Simon:** Co to ma znaczyć?  
-**Mox:** Eee… Niczego nie widziałaś.  
+**Mox:** Eee… Niczego nie widziałeś.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 210.
 
@@ -40598,7 +40598,7 @@
 **Judy:** Co masz na myśli?  
 **Kimberly:** Który facet nie lubi gorącej sceny pod prysznicem z dwiema pięknymi kobietami?  
 **Mox:** Zaczekaj! Mam na sobie ubranie!  
-**Kimberly:** Trzeba było o tym pomyśleć, zanim założyłaś kajdanki.  
+**Kimberly:** Trzeba było o tym pomyśleć, zanim założyłeś kajdanki.  
 **Mox:** To nie ja założyłem kajdanki!  
 **Judy:** Biedny Mox.  
 **Mox:** Cholera! Moja kurtka!  
@@ -41995,7 +41995,7 @@
 **Andrea:** Jeszcze z wami nie skończyłam.  
 **Mox:** Auć! To boli!  
 **Melissa:** Nie podejrzewałam, że cię na to stać, Kimura.  
-**Andrea:** Wciąż nie wiesz, kiedy trzymać język za zębami… Może chcesz zostać ukarany.  
+**Andrea:** Wciąż nie wiesz, kiedy trzymać język za zębami… Może chcesz zostać ukarana.  
 **Melissa:** Spróbuj.  
 **Melissa:** O kurwa!  
 **Andrea:** Tak… Tak… Podoba ci się.  
@@ -45101,9 +45101,9 @@
 **Erica:** Mój ulubiony pokój w rezydencji.  
 **Carol:** Nie znam lepszego miejsca na porządne wypełnienie.  
 **Heather:** Ale masz co złapać, Mox.  
-**Mox:** Nie myślałaś chyba, że przyjdę nieprzygotowana?  
+**Mox:** Nie myślałaś chyba, że przyjdę nieprzygotowany?  
 **Hannah:** To magiczny kamień!  
-**Kimberly:** Wróciłaś po kawałki?  
+**Kimberly:** Wróciłeś po kawałki?  
 **Mox:** Znalazłem tylko ten… Nie wiem, dokąd podziały się pozostałe.  
 **Ella:** Och! Wow… Eee… Na pewno przepadły na zawsze.  
 **Andrea:** Eee… Tak!... Chyba wszyscy możemy być spokojniejsi, skoro tylko Mox ma ten kawałek.  
@@ -62623,7 +62623,7 @@
 **Arianna:** Wynoś się z tego ciała! Natychmiast!  
 **Erica:** Anioł? Na Ziemi?  
 **Mox:** Kim ty, do cholery, jesteś?  
-**Erica:** Otworzyłam szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzyła.  
+**Erica:** Otworzyłem szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzył.  
 **Diana:** Madalyn zawarła sojusz z Lilith.  
 **Erica:** Suka! Oszukała mnie!  
 **Drab:** Ani kroku dalej!  
@@ -67220,7 +67220,7 @@
 **Lilith:** Mox, nie możesz pozwolić, by ten ksiądz znów się tu zbliżył.  
 **Mox:** Boisz się go.  
 **Lilith:** Chce, by zakonnica bezpiecznie wróciła do domu. Ty pewnie też tego chcesz.  
-**Mox:** Masz Tomę. Dałem ci to, czego potrzebowałeś, więc puść Judy.  
+**Mox:** Masz Tomę. Dałem ci to, czego potrzebowałaś, więc puść Judy.  
 **Lilith:** Rozejrzyj się, Mox. To świat, który nazywamy domem od zarania dziejów.  
 **Mox:** Jest do dupy… Rozumiem.  
 **Lilith:** Wasz świat dostał fałszywą matkę. Bóg tego świata odebrał mi wszystko…  
@@ -68526,7 +68526,7 @@
 **Kimberly:** Rozgryziemy to, Mox.  
 **Mox:** Jeśli Andrea dowie się, że ci w tym pomagam, moja kariera jest skończona.  
 **Kimberly:** Wiem, że to dla ciebie duże ryzyko. Ale wynagrodzimy twój wysiłek.  
-**Mox:** Nie zamierzam brać łapówek. Jestem w to zaangażowana tylko dlatego, że chcę wiedzieć, co dzieje się w rezydencji…  
+**Mox:** Nie zamierzam brać łapówek. Jestem w to zaangażowany tylko dlatego, że chcę wiedzieć, co dzieje się w rezydencji…  
 **Mox:** Kimura nie jest zachwycona pomysłem, bym ingerował w… jej własne operacje.  
 **Kimberly:** Czego mi nie mówisz?  
 **Mox:** Chodzi o skradziony obraz.  
@@ -72094,7 +72094,7 @@
 **Lilith:** I kto miałby rządzić?  
 **Daemalius:** Oczywiście znalazłoby się miejsce dla królowej.  
 **Lilith:** Co za hojna oferta.  
-**Daemalius:** Masz mnie za idiotkę? Co planujesz zrobić?  
+**Daemalius:** Masz mnie za idiotę? Co planujesz zrobić?  
 **Brian:** Cholera… Jej ciało ucieka.  
 **Lilith:** Chcesz to? Chodź i weź!  
 **Brian:** Uciekaj!  

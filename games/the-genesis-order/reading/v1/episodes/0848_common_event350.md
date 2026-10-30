@@ -14,7 +14,7 @@
 **Erica:** Chcę poczuć w sobie twojego kutasa!  
 **Erica:** O tak! Pieprz mnie, Mox.  
 **Mox:** Lubię ryzyko, Erico. Nie widzisz tego?  
-**Erica:** Och! Ale jesteśmy niegrzeczne!  
+**Erica:** Och! Ale jesteśmy niegrzeczni!  
 **Mox:** Mów ciszej. Ktoś przechodzący obok może nas usłyszeć.  
 **Erica:** Myślałam, że lubisz ryzyko.  
 **Mox:** Chcesz, żeby nas przyłapano? To sprawi, że dojdziesz mocniej?  

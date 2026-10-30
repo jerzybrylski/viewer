@@ -106,3 +106,7 @@ Poprawiono zgłoszone „będziesz mi winien” na „winna” oraz siedem dalsz
 ### Kontynuacja audytu kontekstowego
 
 Poprawiono siedem kolejnych błędów i zapisano 77 potwierdzonych rozstrzygnięć kontekstowych; szczegóły i aktualne hashe w końcowej sekcji `GENDER_AUDIT_2026-10-30.md`. Rejestr: 98 confirmed, 15 corrected, 3 deferred, 39 801 bez decyzji; spośród 618 dawnych automatycznych zmian 535 pozostaje bez decyzji i jedna odłożona. Odtwarzać kolejkę z `inventory_gender_review.py`, weryfikować sceny i odrębnie mówcę/adresata, aktualizować rejestr i testy. Audyt nie jest skończony; paczki nie zostały potwierdzone w grze ani opublikowane na Drive.
+
+### Krytyczne: opętanie i nagłówki
+
+CE454 i CE456: `Er` to ciało Erici, faktycznie mówi Daemalius; zastosowano męską pierwszą osobę i żeńską drugą wobec Lilith. Wcześniejsza ręczna korekta `fc45bddff4fb76abcab1` na żeńską była błędna i została cofnięta. Nie określać tożsamości automatycznie z nagłówka. `fix_grammatical_gender.py --apply` zablokowano, aby zapobiec ponownemu uszkodzeniu. Pełny kontekst, ID i aktualne hashe na końcu `GENDER_AUDIT_2026-10-30.md`. Rejestr 188 confirmed, 30 corrected, 5 deferred, 39 694 unreviewed. Testy 155 OK; nowy ZIP nie jest sprawdzony w grze ani opublikowany na Drive. Kontynuować audyt; nie ogłaszać ukończenia.

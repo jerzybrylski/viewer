@@ -6,7 +6,11 @@ kogo mówi** (druga osoba) i **o kim mówi** (trzecia osoba). Tłumaczenie
 powstawało partiami, bez wiedzy o mówcy, więc w tekście mieszały się formy
 męskie i żeńskie. To narzędzie przywraca zgodność.
 
-Zakres automatycznej poprawki (``--apply``):
+UWAGA: ``--apply`` jest obecnie wyłączone. Poniższe wzorce opisują dawną
+heurystykę; wyniki nie są dowodem błędu i wymagają przeglądu kontekstowego.
+Nagłówek może wskazywać ciało postaci, a nie faktycznego mówcę (opętanie).
+
+Dawny zakres automatycznej poprawki:
 
 * **pierwsza osoba** — czasowniki (``-łem``/``-łam``, ``-łbym``/``-łabym``)
   oraz orzeczniki po ``jestem/byłem/zostałem/czuję się/będę`` biorą rodzaj mówcy;
@@ -688,6 +692,12 @@ def main(argv: Iterable[str] | None = None) -> int:
     parser.add_argument("--report", type=Path, default=REPORT_JSON)
     parser.add_argument("--markdown", type=Path, default=REPORT_MD)
     args = parser.parse_args(argv)
+    if args.apply:
+        parser.error(
+            "Automatyczny zapis jest wyłączony: nagłówek nie zawsze identyfikuje "
+            "faktycznego mówcę (np. opętanie), a adresat wymaga kontekstu sceny. "
+            "Korzystaj z ręcznego audytu i rejestru decyzji."
+        )
 
     rows = load_rows()
     vocabulary = build_vocabulary(rows)

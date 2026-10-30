@@ -9,7 +9,8 @@ CASES = {
     '731681528f0229140315': 'Nie proszę, żebyś cokolwiek mówił.',
     '772aac3f30b35ea1f16c': 'Gdybym cię nie znał, pomyślałbym, że próbujesz mi zaimponować.',
     'e6206f90f7f810868ff3': 'Gdybym to wiedział, powiedziałbym ci.',
-    'fc45bddff4fb76abcab1': 'Otworzyłam szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzyła.',
+    # Nagłówek Erica wskazuje ciało; w scenie mówi Daemalius.
+    'fc45bddff4fb76abcab1': 'Otworzyłem szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzył.',
     '1e453d51ecdd12c719e8': 'Chcesz, żebym ją puściła?',
     '989a5b730672c05374b5': 'Może gdybym ją przesunął, słyszelibyśmy lepiej.',
     'b548da6db98c6e1482b3': 'Co ja bym bez ciebie zrobił, Nellie?',
@@ -36,6 +37,21 @@ CASES = {
     '80f1339b592193226eb3': 'Sam niewiele wiem, ale słyszałem, że krąży wirus zwiększający popęd seksualny.',
     'a69f5a23d51d2a760972': 'Owszem. A z tego, co słyszę, ty i Chloe też podziwialiście stąd widoki.',
     '6e980340b70fea0bc53a': 'Powinnam była wiedzieć, żeby ci nie mówić, Carol.',
+    'b85b3157f8693c481d1c': 'Nie myślałaś chyba, że przyjdę nieprzygotowany?',
+    'bcf7057b4048b621fa3b': 'Wróciłeś po kawałki?',
+    'ec3d9c8b8435db8fe730': 'Och! Ale jesteśmy niegrzeczni!',
+    '319431f0cc23d669a940': 'Trzeba było o tym pomyśleć, zanim założyłeś kajdanki.',
+    '534e3783b66a9268a4b3': 'Wciąż nie wiesz, kiedy trzymać język za zębami… Może chcesz zostać ukarana.',
+    'b0d06fae7aa8280dd2af': 'Masz Tomę. Dałem ci to, czego potrzebowałaś, więc puść Judy.',
+    'bc0a7c67383dd0bbc1c4': 'Siostro… Nie widziałem tej twarzy od dziesięcioleci.',
+    '0637a5f45ab867cdf577': 'Oddałem ci duszę, a ty wykorzystałaś ją, by sprowadzić Lilith na ten świat? Gdzie twoja lojalność?',
+    '8f439e4428239d8b2619': 'Mieliśmy działać razem! Miałaś moją duszę! Dlaczego uwięziłaś mnie w tym kamieniu?',
+    '17cd9e74af03bf68be65': 'Zadarłaś z niewłaściwym demonem!',
+    '4efea59625145e305e3f': 'Och, Heather… Odkąd cię zobaczyłem, marzę, żeby dotknąć twojego ciała.',
+    '4e4c3750fcc1d3bec31b': 'Nie zamierzam brać łapówek. Jestem w to zaangażowany tylko dlatego, że chcę wiedzieć, co dzieje się w rezydencji…',
+    '37b388a1d2c7a43dadef': 'Eee… Niczego nie widziałeś.',
+    '57b98b0dcff229da0aa4': 'Jak zawsze piękna.',
+    'e45029b4b9ee9c7538b9': 'Masz mnie za idiotę? Co planujesz zrobić?',
 }
 
 

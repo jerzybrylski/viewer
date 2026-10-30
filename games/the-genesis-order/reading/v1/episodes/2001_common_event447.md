@@ -20,7 +20,7 @@
 **Judy:** Co masz na myśli?  
 **Kimberly:** Który facet nie lubi gorącej sceny pod prysznicem z dwiema pięknymi kobietami?  
 **Mox:** Zaczekaj! Mam na sobie ubranie!  
-**Kimberly:** Trzeba było o tym pomyśleć, zanim założyłaś kajdanki.  
+**Kimberly:** Trzeba było o tym pomyśleć, zanim założyłeś kajdanki.  
 **Mox:** To nie ja założyłem kajdanki!  
 **Judy:** Biedny Mox.  
 **Mox:** Cholera! Moja kurtka!  

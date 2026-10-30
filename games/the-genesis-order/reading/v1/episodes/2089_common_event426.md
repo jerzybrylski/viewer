@@ -30,7 +30,7 @@
 **Andrea:** Jeszcze z wami nie skończyłam.  
 **Mox:** Auć! To boli!  
 **Melissa:** Nie podejrzewałam, że cię na to stać, Kimura.  
-**Andrea:** Wciąż nie wiesz, kiedy trzymać język za zębami… Może chcesz zostać ukarany.  
+**Andrea:** Wciąż nie wiesz, kiedy trzymać język za zębami… Może chcesz zostać ukarana.  
 **Melissa:** Spróbuj.  
 **Melissa:** O kurwa!  
 **Andrea:** Tak… Tak… Podoba ci się.  
