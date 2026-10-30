@@ -12,6 +12,13 @@ import build_readalong  # noqa: E402
 import fix_grammatical_gender as gender  # noqa: E402
 
 
+class UnsafeAutomationTests(unittest.TestCase):
+    def test_apply_is_disabled_before_any_writes(self):
+        with self.assertRaises(SystemExit) as error:
+            gender.main(['--apply'])
+        self.assertEqual(error.exception.code, 2)
+
+
 class SpeakerMapTests(unittest.TestCase):
     def test_map_matches_readalong(self):
         """Kody mówców muszą być te same, co w Czytance — inaczej role się rozjadą."""

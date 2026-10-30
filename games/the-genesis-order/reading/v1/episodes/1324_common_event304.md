@@ -36,7 +36,7 @@
 **Mox:** Naprawdę mówisz poważnie?  
 **Hannah:** No jasne! Zasmakuj w soczystej cipce Hannah Ray!  
 **Mox:** Ja… nie wiem, co powiedzieć.  
-**Hannah:** Nie proszę, żebyś cokolwiek mówiła.  
+**Hannah:** Nie proszę, żebyś cokolwiek mówił.  
 **Hannah:** Ale z ciebie naiwniak!  
 **Mox:** Hej! To boli!  
 **Hannah:** Stracisz szansę u Chloe, jeśli będziesz się zabawiał z jej najlepszą przyjaciółką.  

@@ -78,7 +78,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 3.
 
-**Brian:** Dobra robota. Jestem ci winna przysługę.  
+**Brian:** Dobra robota. Jestem ci winien przysługę.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 

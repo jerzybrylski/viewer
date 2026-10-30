@@ -5,7 +5,7 @@
 **Mox:** Szukam Eriki Abraham.  
 **Jon:** Ma kłopoty?  
 **Erica:** O co, do cholery, chodzi?  
-**Jon:** Nawet jeśli trafisz do więzienia, nadal będziesz mi winien pieniądze.  
+**Jon:** Nawet jeśli trafisz do więzienia, nadal będziesz mi winna pieniądze.  
 **Mox:** Eriko?  
 **Erica:** Spadaj, Jon.  
 **Jon:** Masz tydzień, Eriko.  

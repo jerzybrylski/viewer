@@ -17,7 +17,7 @@
 **Mox:** Nellie może wrócić do więzienia.  
 **Heather:** Ojej. Szkoda.  
 **Nellie:** Nic wielkiego. Przywykłam do tego, że mnie wyruchują.  
-**Heather:** Chyba powinienem już iść.  
+**Heather:** Chyba powinnam już iść.  
 **Nellie:** Jesteś przepiękną kobietą, Heather.  
 **Heather:** Dziękuję.  
 **Mox:** Nie pytaj, Nellie.  

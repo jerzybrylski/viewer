@@ -36,7 +36,7 @@
 **Simon:** Wróciłem po telefon…  
 **Simon:** Hej! Gdzie masz spodnie?...  
 **Simon:** Co to ma znaczyć?  
-**Mox:** Eee… Niczego nie widziałaś.  
+**Mox:** Eee… Niczego nie widziałeś.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 210.
 

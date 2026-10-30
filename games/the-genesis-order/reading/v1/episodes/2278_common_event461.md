@@ -63,9 +63,9 @@
 **Erica:** Mój ulubiony pokój w rezydencji.  
 **Carol:** Nie znam lepszego miejsca na porządne wypełnienie.  
 **Heather:** Ale masz co złapać, Mox.  
-**Mox:** Nie myślałaś chyba, że przyjdę nieprzygotowana?  
+**Mox:** Nie myślałaś chyba, że przyjdę nieprzygotowany?  
 **Hannah:** To magiczny kamień!  
-**Kimberly:** Wróciłaś po kawałki?  
+**Kimberly:** Wróciłeś po kawałki?  
 **Mox:** Znalazłem tylko ten… Nie wiem, dokąd podziały się pozostałe.  
 **Ella:** Och! Wow… Eee… Na pewno przepadły na zawsze.  
 **Andrea:** Eee… Tak!... Chyba wszyscy możemy być spokojniejsi, skoro tylko Mox ma ten kawałek.  

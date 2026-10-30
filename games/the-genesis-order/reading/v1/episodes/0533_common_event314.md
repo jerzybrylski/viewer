@@ -67,7 +67,7 @@
 **Heather:** Złap mnie za nogi, kochanie.  
 **Mox:** A ty nawet się nie spociłaś.  
 **Heather:** Widzisz? Ćwiczenia ze starszą panią nie są takie trudne, prawda?  
-**Mox:** Gdybym cię nie znała, pomyślałbym, że próbujesz mi zaimponować.  
+**Mox:** Gdybym cię nie znał, pomyślałbym, że próbujesz mi zaimponować.  
 **Heather:** Nie pogardzę komplementem.  
 **Mox:** Nie trać koncentracji, młoda damo.  
 **Heather:** Tak, proszę pana.  

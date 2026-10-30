@@ -1,5 +1,30 @@
 # Handoff — The Genesis Order PL
 
+## Najważniejsze na następną sesję — 2026-10-30
+
+**Zadanie:** kontynuować pełny kontekstowy audyt rodzaju w tłumaczeniu The Genesis Order, następnie ręcznie poprawiać jednoznaczne błędy. Audyt **nie jest ukończony**. Właściciel chce podejścia systemowego, ale odrzucił szeroką listę 14 tys. sygnałów jako kolejkę pierwszego wyboru; oczekuje kilkuset konkretniej uzasadnionych kandydatów. Ograniczona kolejka nie zastępuje przeglądu pozostałych kwestii. Tłumaczenie i korekty wykonuje LLM w kontekście sceny; słownikowe, regułowe i statystyczne MT są zabronione.
+
+**Stan po commicie `9cbc502`:** w ostatniej partii poprawiono 25 rekordów (w tym jedna sąsiednia kwestia do Melissy). Rejestr `translation/reports/gender_review_decisions.jsonl` zawiera 226 `confirmed`, 59 `corrected`, 5 `deferred`; 39 627 przetłumaczonych rekordów pozostaje bez decyzji. `confirmed` dotyczy badanej formy, nie całego tekstu. `deferred` nie oznacza poprawności. W ostatnim pomiarze wąskie sito wskazało 102 hipotezy, nie potwierdzone błędy. Na dawnym, niereprezentatywnym zbiorze 34 tekstów `before` wskazało 19; próbka obejmuje także cofniętą błędną korektę, nie jest miarą rzeczywistej czułości. Pełne testy: 168 OK. Patch i Czytanka są zsynchronizowane; **nowych wersji nie testowano w grze ani nie publikowano na Drive**.
+
+**Ostrożność:** nagłówek to wskazówka o ciele, nie pewna tożsamość. W common eventach 454 i 456 w ciele Erici mówi Daemalius; wcześniejsza zmiana `fc45bddff4fb76abcab1` na żeńską była błędna i została cofnięta. Adresat wywnioskowany z sąsiednich kwestii oraz zgodna gałąź również nie są dowodem. Czytać źródło, pełną scenę i warunki; niepewne przypadki odkładać. Nigdy nie stosować hurtowej korekty: `fix_grammatical_gender.py --apply` jest celowo zablokowane. Wyniki i liczby w dalszych sekcjach są historyczne i mogły zostać zastąpione; nie traktować starych twierdzeń o „zerze błędów” i automatycznym wyznaczaniu mówcy jako aktualnych.
+
+**Następne kroki:**
+1. Przeczytać `AGENTS.md` repozytorium i gry, końcowe sekcje `docs/GENDER_AUDIT_2026-10-30.md`, `docs/GENDER_SYSTEM_REVIEW.md` i wpisy decyzji. Zachować istniejące ID, źródło, kontekst i tokeny.
+2. Wygenerować świeży inwentarz i kolejkę; pliki wyjściowe nie mogą już istnieć:
+   ```bash
+   python3 games/the-genesis-order/tools/inventory_gender_review.py --output /tmp/tgo-inventory-next.jsonl
+   python3 games/the-genesis-order/tools/focus_gender_candidates.py --input /tmp/tgo-inventory-next.jsonl --output /tmp/tgo-focus-next.jsonl
+   ```
+   ID sąsiadów z kolejki odszukać w inwentarzu, a gdy trzeba korzystać z pełnej sceny i `reading/v1/episodes/`. Szeroka kolejka `prepare_gender_review_batches.py` nadal jest dostępna i obejmuje teraz także `powinienem/powinnam`; nie używać starych offsetów z innego snapshotu.
+3. Po indywidualnym przeglądzie zapisać decyzje z uzasadnieniem i fingerprintem. Fingerprint nie obejmuje sąsiadów: zmiana sąsiedniej kwestii wymaga ponownej oceny. Zmiany treści ograniczyć do zleconych korekt rodzaju, zsynchronizować drafty i Czytankę, przebudować patch oraz sidecary i manifest; nie modyfikować kanonicznego eksportu ani uruchamiać kodu gry.
+4. Uruchomić `python3 -m unittest discover -s games/the-genesis-order/tests -q`, sprawdzić spójność archiwów, zanotować wyniki i ograniczenia. Kontynuować także wcześniejsze 618 zmian automatycznych, drugą i trzecią osobę oraz rekordy bez sygnału.
+
+**Artefakty:** patch `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`, SHA-256 `731605d4048f96c9d46bc3fae640b65c97237402af2fc299837ae8b182816538`; Czytanka `translation/packages/TGO_readalong_PL_v1.zip`, SHA-256 `4b3183d56ac1216727f41ed8795090c5313c3cc6b91adbfa856f770a5e2f3ba2`. Bieżąca gałąź `arena/9b9f33dc-viewer`, draft PR https://github.com/jerzybrylski/viewer/pull/8. Nie zmieniać gałęzi.
+
+---
+
+## Wcześniejsze wpisy — zapis historyczny
+
 Stan: 2026-10-30. Statyczne tłumaczenie wszystkich kwalifikujących się rekordów oraz oba wskazane milestone’y są zbudowane. Patch **działa w grze** (POTWIERDZONE przez właściciela 2026-10-29 i ponownie 2026-10-30 na bieżącej paczce: polskie znaki, opcje PL, poprawne zawijanie). To nadal proof of concept w zakresie QA treści: nie ma pełnego przejścia gry, testu save/load ani weryfikacji na innych buildach. Nie uruchamiać kodu gry ani nie nadpisywać instalacji użytkownika.
 
 > **Najpierw przeczytaj [`RECOVERY_2026-10-29.md`](RECOVERY_2026-10-29.md).** Praca poprzedniego agenta nie była w Git i została odzyskana z patcha i ZIP-ów; tam jest metoda, hashe i dowody spójności. Nie powtarzaj odzyskiwania.
@@ -90,3 +115,37 @@ python3 tools/build_readalong.py --source-root /ścieżka/do/data \
 Po podmianie plików w repo trzeba przeliczyć `translation/reports/coverage_audit_v1.json`
 (`python3 tools/audit_translation_coverage.py`), wstawić manifest z ZIP-a do `translation/reports/patch_manifest_v0.1.1.json`
 i uruchomić testy — `tests/test_patch_artifacts.py` pilnuje, żeby ZIP, sidecar, raporty i `reading/v1` nie rozjechały się z Git.
+
+## Aktualizacja: zgłoszenie Hannah → Mox (2026-10-30)
+
+Właściciel wskazał „Nie proszę, żebyś cokolwiek mówiła” w odpowiedzi na kwestię Moxa. Poprawiono ją i trzy inne jednoznaczne konstrukcje warunkowe; szczegóły i ID w końcowym wpisie `EXPERIMENT_LOG.md`. Wcześniejsze stwierdzenie „0 kwestii” dotyczyło wyłącznie wzorców rozpoznawanych przez skrypt, nie całego korpusu. **Audyt kontekstowy rodzajów pozostaje otwarty**. Aktualny patch SHA-256 `9697ac198428cc00606b56978dcedbe68ca239f387a4b705de88c48bb228156c`, Czytanka `13bd38c8dd15a4721ceff308b6e5a53adda9374fab5414248f568ce0ef612fc7`; supersedują starsze hashe w tym dokumencie. Nowej paczki nie testowano w grze i nie publikowano na Drive. 150 testów OK. Czytankę zaktualizowano punktowo i przepakowano, a nie odtworzono ze źródeł gry.
+
+## Audyt rodzaju — kolejna sesja, NIEUKOŃCZONY
+
+Właściciel zlecił pełny przegląd wszystkich rodzajów. Rozpoczęto go, poprawiając kolejnych 11 jednoznacznych błędów i tworząc odtwarzalny inwentarz 39 917 tłumaczeń. Liczby, ID, ograniczenia, polecenie i aktualne hashe: `GENDER_AUDIT_2026-10-30.md`. Kolejka oznacza wszystko jako nieprzejrzane i jest tylko początkiem: konieczne są przegląd kontekstowy i trwały rejestr decyzji, w tym poprzednich 618 automatycznych zmian oraz rekordów bez flag. Nie ogłaszać audytu skończonym. 152 testy OK; nowy patch nie testowany w grze i nie opublikowany na Drive.
+
+### Jon → Erica i rejestr decyzji
+
+Poprawiono zgłoszone „będziesz mi winien” na „winna” oraz siedem dalszych błędów. Trwały rejestr `translation/reports/gender_review_decisions.jsonl`: 8 `corrected`, 21 `confirmed`, 3 `deferred`; dalsze 39 885 rekordów nie mają decyzji w rejestrze. Szczegóły, ograniczenia fingerprintów, aktualne hashe i następne kroki w `GENDER_AUDIT_2026-10-30.md`. Kolejkę odtwarza `tools/inventory_gender_review.py`; dane z innych scen/gałęzi nie mogą być dowodem adresata bez analizy. Kontynuować, nie deklarować pełnego audytu. 154 testy OK, nowego ZIP-a nie sprawdzono w grze ani na Drive.
+
+### Kontynuacja audytu kontekstowego
+
+Poprawiono siedem kolejnych błędów i zapisano 77 potwierdzonych rozstrzygnięć kontekstowych; szczegóły i aktualne hashe w końcowej sekcji `GENDER_AUDIT_2026-10-30.md`. Rejestr: 98 confirmed, 15 corrected, 3 deferred, 39 801 bez decyzji; spośród 618 dawnych automatycznych zmian 535 pozostaje bez decyzji i jedna odłożona. Odtwarzać kolejkę z `inventory_gender_review.py`, weryfikować sceny i odrębnie mówcę/adresata, aktualizować rejestr i testy. Audyt nie jest skończony; paczki nie zostały potwierdzone w grze ani opublikowane na Drive.
+
+### Krytyczne: opętanie i nagłówki
+
+CE454 i CE456: `Er` to ciało Erici, faktycznie mówi Daemalius; zastosowano męską pierwszą osobę i żeńską drugą wobec Lilith. Wcześniejsza ręczna korekta `fc45bddff4fb76abcab1` na żeńską była błędna i została cofnięta. Nie określać tożsamości automatycznie z nagłówka. `fix_grammatical_gender.py --apply` zablokowano, aby zapobiec ponownemu uszkodzeniu. Pełny kontekst, ID i aktualne hashe na końcu `GENDER_AUDIT_2026-10-30.md`. Rejestr 188 confirmed, 30 corrected, 5 deferred, 39 694 unreviewed. Testy 155 OK; nowy ZIP nie jest sprawdzony w grze ani opublikowany na Drive. Kontynuować audyt; nie ogłaszać ukończenia.
+
+### Dalszy przegląd
+
+38 kolejnych dawnych form pierwszej osoby potwierdzono, cztery rekordy poprawiono; rejestr liczy 226 confirmed, 34 corrected, 5 deferred, 39 652 bez decyzji. Aktualne hashe i ID są w końcowej sekcji `GENDER_AUDIT_2026-10-30.md`. 155 testów OK, patch nie jest testowany w grze ani publikowany na Drive. Kontynuować przegląd scen oraz poprzednich zmian; nie utożsamiać nagłówka ciała z rzeczywistą tożsamością w opętaniu.
+
+### Systemowa kolejka partii
+
+Na prośbę właściciela dodano `tools/prepare_gender_review_batches.py`, który z odtwarzalnego inwentarza tworzy priorytetyzowane grupy identycznych źródeł/przekładów z indywidualnymi ID, sąsiedztwem i warunkami. Polecenia, wyniki i ważne ograniczenia (w tym brak automatycznej walidacji hasha sąsiedztwa i brak dowodu kompletności) w `GENDER_SYSTEM_REVIEW.md`. Na obecnym stanie 14 178 rekordów ma sygnały, 25 479 bez sygnału nadal wymagają przeglądu; nie są to liczniki błędów. Kontynuować partiami, decyzje i tłumaczenia rozstrzygać w kontekście, nie stosować automatycznych zamian. Korpus ani ZIP-y nie zmienione; 163 testy OK. Audyt nieukończony.
+
+### Aktualizacja: wąskie sito rodzaju (2026-10-30)
+Użytkownik oczekiwał kilkuset konkretniej uzasadnionych kandydatów zamiast 14 178 szerokich sygnałów. `tools/focus_gender_candidates.py` daje 126 hipotez bez limitu i bez zmian tekstu, ale ma jawne fałszywe alarmy i tylko 19/34 w niereprezentatywnym teście historycznym. Szczegóły, komendy i ograniczenia w `docs/GENDER_SYSTEM_REVIEW.md`. Najpierw czytać scenę i weryfikować mówcę, gałąź oraz adresata; wąska kolejka nie zastępuje pełnego audytu ani szerszej kolejki. Brak nowych korekt korpusu lub przebudowy paczek w tej zmianie.
+
+### Aktualizacja: przegląd wąskiej kolejki (2026-10-30)
+Poprawiono kontekstowo 25 rekordów (24 z kolejki + jedna sąsiednia kwestia do Melissy). ID, wcześniejsze formy i kontekst w rejestrze decyzji; pełne omówienie i hashe w `GENDER_AUDIT_2026-10-30.md`. W rejestrze 226 confirmed, 59 corrected, 5 deferred; 39 627 bez decyzji. Wąskie sito na nowym inwentarzu: 102 hipotezy, bez gwarancji ani pełnego pokrycia. W szerokim sicie dodano sygnał `powinienem/powinnam`, więc należy wygenerować nowy inwentarz i kolejki. Patch i Czytanka zsynchronizowane, 168 testów OK; testu w grze i publikacji Drive nie było. Kontynuować kontekstową weryfikację, w tym sceny opętania i rekordy bez sygnału.

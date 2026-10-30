@@ -49,7 +49,7 @@
 **Judy:** To było takie śliskie.  
 **Mox:** Możesz uważać, że to obrzydliwe. Nie musisz tego robić.  
 **Judy:** Muszę przyznać, że nie spodziewałam się połknąć aż tyle.  
-**Mox:** Chyba powinnam się odwdzięczyć.  
+**Mox:** Chyba powinienem się odwdzięczyć.  
 **Judy:** Co masz na myśli?  
 **Mox:** Zdejmij spódnicę.  
 **Mox:** Teraz ja sprawię ci przyjemność.  

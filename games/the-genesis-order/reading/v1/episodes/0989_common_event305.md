@@ -39,7 +39,7 @@
 **Lillian:** O ile wiem, stało się to na początku tego roku, jakieś pięć, może sześć miesięcy temu.  
 **Melissa:** Czy ktoś mógł rozmawiać z Madalyn?  
 **Lillian:** Tak. Mamy pokojówkę.  
-**Melissa:** Chętnie bym z nią porozmawiał.  
+**Melissa:** Chętnie bym z nią porozmawiała.  
 **Lillian:** Nie mieszka z nami. Przyjeżdża do nas z miasta.  
 **Mox:** Gdzie mieszka? Może nam pani powiedzieć?  
 **Lillian:** Mieszka w apartamentowcu w centrum. Nazywa się Erica Abraham.  
