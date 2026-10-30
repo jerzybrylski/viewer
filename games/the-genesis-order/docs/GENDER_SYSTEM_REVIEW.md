@@ -31,11 +31,15 @@ Polecenia nie nadpisują istniejącego pliku wyjściowego. Inwentarz i partie s�
 
 ## Pomiar na stanie repozytorium z 2026-10-30 (po przeglądzie wąskiej kolejki)
 
-- 39 917 przetłumaczonych rekordów, **393** decyzje w rejestrze (257 `confirmed`, 130 `corrected`, 6 `deferred`); 39 530 rekordów kwalifikuje się do ponownego / pierwszego przeglądu.
-- 14 158 rekordów z co najmniej jednym sygnałem, zgrupowanych w 13 280 grup; **25 372** bez sygnału nadal wymaga przeglądu. Liczby są przybliżeniem nakładu selekcji, nie liczbą błędów. Priorytety są heurystyczne, duża liczba trafień jest poprawna.
+- 39 917 przetłumaczonych rekordów, **755** decyzji w rejestrze (611 `confirmed`, 130 `corrected`, 14 `deferred`); 39 530 rekordów kwalifikuje się do ponownego / pierwszego przeglądu.
+- 14 158 rekordów z co najmniej jednym sygnałem, zgrupowanych w 13 280 grup; **28 409** bez sygnału nadal wymaga przeglądu. Liczby są przybliżeniem nakładu selekcji, nie liczbą błędów. Priorytety są heurystyczne, duża liczba trafień jest poprawna.
 - Wąskie sito po przeglądzie zwraca **1** pozycję (odłożona kwestia Kimberly, `eb528be8f3a7a510c15d`). To nie jest miara kompletności: sito obejmuje wybrane wzorce i nie widzi większości rekordów bez sygnału.
 - Kontrolny test na 34 historycznych poprawionych rekordach z rejestru wykrywa sygnał dla 34/34 dawnych tekstów bez korzystania ze znacznika wcześniejszej edycji. To zbiór celowo dobranych znanych błędów użytych w projektowaniu; wynik **nie jest miarą skuteczności na reszcie gry**, nie potwierdza jakości kontekstu ani nie obejmuje fałszywie dodatnich wyników.
 - Testy jednostkowe sprawdzają znane przykłady, brak automatycznych zmian, grupowanie z oddzielnymi ID, filtrowanie jawnie sprzecznych gałęzi, brak fikcyjnej sceny oraz zmiany hasha przy zmianie sąsiedniej kwestii. Pełną zgodność w grze należy potwierdzić osobno.
+
+## Sygnały o wysokiej precyzji — nie wymagają dalszego przeglądu pojedynczo
+
+Trzy rodziny sprawdzono w całości (362 hipotezy): `winien/winna` (43), forma po `bym/żebym/gdybym` (181) i `powinienem/powinnam` (138). Wynik: **355 potwierdzeń, 7 odłożeń, 0 korekt**. Wszystkie odłożenia to postaci bez mapowanej płci (systemowy NPC z CE25, „Ochrona”). Te sygnały nadają się więc wyłącznie jako kontrola, a nie jako kolejka robocza — masę błędów trzeba szukać w `inna_forma_rodzajowa`, `orzecznik_do_przegladu`, `mozliwy_przymiotnik_lub_rzeczownik` oraz w rekordach bez sygnału.
 
 ## Podgląd sceny (narzędzie tylko do odczytu)
 
@@ -51,7 +55,7 @@ python3 games/the-genesis-order/tools/show_gender_scene.py \
 
 ## Następny etap
 
-Przeglądać partie według priorytetu, stosując glosariusz i źródło, z kontekstem całej sceny tam, gdzie kilka linijek nie wystarcza. Sygnały są wyłącznie filtrem: obejmują również formy poprawne i nie wyłapują wszystkich problemów. Potrzebny jest dalszy przegląd rekordów bez sygnału (25 372) oraz testy runtime; nigdy nie deklarować kompletnego audytu na podstawie pustej kolejki kandydatów.
+Przeglądać partie według priorytetu, stosując glosariusz i źródło, z kontekstem całej sceny tam, gdzie kilka linijek nie wystarcza. Sygnały są wyłącznie filtrem: obejmują również formy poprawne i nie wyłapują wszystkich problemów. Potrzebny jest dalszy przegląd rekordów bez sygnału (28 409) oraz testy runtime; nigdy nie deklarować kompletnego audytu na podstawie pustej kolejki kandydatów.
 
 ## Węższa kolejka sprzeczności (2026-10-30)
 

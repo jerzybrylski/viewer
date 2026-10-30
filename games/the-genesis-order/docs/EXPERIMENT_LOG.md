@@ -565,3 +565,19 @@ Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa oso
 **Artefakty:** `python3 tools/build_standalone_patch.py --output /tmp/tgo-gender-queue-20261030.zip` → SHA-256 `9f71e99aaaeea93d3cea15c08d96c739e47da7e2074367095e6dd7de3a37c943` (39 917 tłumaczeń, 238 fingerprintów, 427 partii). Czytanka zmieniona punktowo (62 epizody, 71 kwestii w `chronological_script_PL.md`) i przepakowana z zachowaniem listy 4 399 wpisów → SHA-256 `8504ac12e1cea42084ab62bbfcd07e38b8b5fb139b6b5478ff2c5ea31267b565`. Sidecary, `patch_manifest_v0.1.1.json` i `coverage_audit_v1.json` zaktualizowane z payloadu ZIP-a.
 
 **Testy:** `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **173 OK**. Nowe: `tests/test_show_gender_scene.py` (5 testów). Archiwa, manifest, raporty i `reading/v1` są spójne (`tests/test_patch_artifacts.py`). **Nie testowano paczek w grze ani na Windows i nie publikowano ich na Drive** — to kolejna partia audytu, nie pełna naprawa rodzaju.
+
+## 2026-10-30 — trzy rodziny sygnałów rodzaju (362 hipotezy, 0 korekt)
+
+**Wejście:** rejestr 393 decyzje po przeglądzie wąskiej kolejki; świeży inwentarz `/tmp/tgo-inventory-s3.jsonl` (39 917 tłumaczeń, 11 379 z sygnałem, 28 409 bez sygnału). Zamiast kolejnego losowego ciągu grup wybrano całe rodziny sygnałów po nazwie: `winien_winna_podmiot_do_ustalenia` (43), `rozdzielny_tryb_pierwszej_osoby` (181), `powinienem_powinnam_podmiot_do_ustalenia` (138).
+
+**Metoda:** dla każdego rekordu porównanie formy z płcią mówcy z mapowania (`speaker_of`/`gender_of`), przy wątpliwościach scena z `tools/show_gender_scene.py`. Zero zapisów w tekstach — partia miała rozstrzygnąć, czy te sygnały w ogóle zawierają błędy.
+
+**Wynik:** 362 hipotezy → **355 `confirmed`, 7 `deferred`, 0 `corrected`**. Odłożenia to wyłącznie postaci bez mapowanej płci: sześć kwestii systemowego NPC z CE25 (sklep/poradniki; angielski neutralny) i „Ochrona”.
+
+**Wniosek:** `winien/winna`, forma po `bym/żebym` i `powinienem/powinnam` są niemal czystymi sygnałami — nie wymagają dalszego przeglądu pojedynczo, służą jako kontrola. Pozostała masa błędu leży w `inna_forma_rodzajowa` (9 699), `orzecznik_do_przegladu` (1 865), `mozliwy_przymiotnik_lub_rzeczownik` (4 248) i w rekordach bez sygnału.
+
+**Stan rejestru:** **755** decyzji — 611 `confirmed`, 130 `corrected`, 14 `deferred`; **39 162** rekordy bez decyzji. Z 618 dawnych automatycznych zmian nadal 396 bez decyzji (ta partia ich nie dotyczyła).
+
+**Artefakty:** bez zmian — tekst tłumaczeń nie był ruszany, więc patch `9f71e99aaaeea93d3cea15c08d96c739e47da7e2074367095e6dd7de3a37c943` i Czytanka `8504ac12e1cea42084ab62bbfcd07e38b8b5fb139b6b5478ff2c5ea31267b565` pozostają aktualne.
+
+**Testy:** `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **173 OK**. Audyt nadal nieukończony; potwierdzenie dotyczy wyłącznie rozpatrzonej formy.

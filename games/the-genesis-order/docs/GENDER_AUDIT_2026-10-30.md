@@ -120,3 +120,28 @@ Zmiany objęły **49 plików draftów**, bez ruszania ID, źródła, kontekstu i
 Patch przebudowany ze scalenia draftów: `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`, SHA-256 `9f71e99aaaeea93d3cea15c08d96c739e47da7e2074367095e6dd7de3a37c943` (39 917 tłumaczeń, 238 fingerprintów, 427 partii). Czytanka zmieniona punktowo — 62 epizody, 71 kwestii w skrypcie — i przepakowana z zachowaniem listy wpisów: `translation/packages/TGO_readalong_PL_v1.zip`, SHA-256 `8504ac12e1cea42084ab62bbfcd07e38b8b5fb139b6b5478ff2c5ea31267b565`. Manifest i sidecary zaktualizowane.
 
 **173 testy OK** (`python3 -m unittest discover -s games/the-genesis-order/tests -q`), w tym nowe testy podglądu sceny. Paczek **nie testowano w grze** ani nie publikowano na Drive. **Audyt pozostaje nieukończony** — nieprzejrzane są tysiące rekordów bez sygnału, 396 wcześniejszych automatycznych zmian i cała druga/trzecia osoba poza wąskim sitem.
+
+## Kontynuacja — trzy rodziny sygnałów (362 hipotezy, 0 korekt)
+
+Po wyczerpaniu wąskiego sita sprawdzono trzy kolejne, wąskie rodziny sygnałów z szerokiej kolejki — już nie przez `focus_gender_candidates.py`, lecz przez bezpośredni wybór rekordów po nazwie sygnału i weryfikację liniową (kwestia + mapowanie mówcy, scena tylko przy wątpliwościach):
+
+| Sygnał | Hipotezy | Potwierdzone | Odłożone | Korekty |
+|---|---:|---:|---:|---:|
+| `winien_winna_podmiot_do_ustalenia` | 43 | 43 | 0 | 0 |
+| `rozdzielny_tryb_pierwszej_osoby` | 181 | 175 | 6 | 0 |
+| `powinienem_powinnam_podmiot_do_ustalenia` | 138 | 137 | 1 | 0 |
+| **razem** | **362** | **355** | **7** | **0** |
+
+### Wnioski
+
+- **Te trzy heurystyki są niemal czyste.** Po 102 hipotezach wąskiego sita (70 korekt) można było oczekiwać dalszych błędów, tymczasem wszystkie 362 sprawdzone formy były zgodne z płcią mówcy lub adresata. `winien/winna` i `powinienem/powinnam` nie wymagają już dalszego przeglądu pojedynczo — wystarczy je zostawić jako sygnał kontrolny.
+- **`rozdzielny_tryb_pierwszej_osoby` łapie formę po `bym/żebym/gdybym`, więc prawie zawsze trafia w poprawną pierwszą osobę** („Chciałabym”, „żebym mogła”, „gdybym wiedziała”). Sygnał myli się tylko wtedy, gdy podmiotem jest ktoś inny niż mówca — w tej partii się to nie zdarzyło.
+- **Odłożenia dotyczą wyłącznie postaci bez mapowanej płci:** sześć kwestii systemowego NPC-a z CE25 (sklep/poradniki) i jedna „Ochrona”. Angielski jest tu neutralny, a scena nie daje podstaw; forma męska zostaje jako redakcyjna domyślna, ale bez wpisu `confirmed`.
+- **Reszta błędu siedzi gdzie indziej.** Największe masy to `inna_forma_rodzajowa` (9 699), `mozliwy_przymiotnik_lub_rzeczownik` (4 248) i `orzecznik_do_przegladu` (1 865) oraz **28 409 rekordów bez żadnego sygnału** — dopiero tam trzeba szukać dalszych niezgodności.
+
+### Stan po tej partii
+
+- Rejestr: **755 decyzji** — 611 `confirmed`, 130 `corrected`, 14 `deferred`; **39 162** przetłumaczone rekordy bez decyzji.
+- Z 618 wcześniejszych automatycznych zmian: bez decyzji pozostaje **396** (ta partia ich nie dotyczyła).
+- Tekst tłumaczeń w tej partii **nie zmienił się**, więc patch (`9f71e99a…`) i Czytanka (`8504ac12…`) pozostają te same — nie było potrzeby przebudowy paczek.
+- `confirmed` nadal znaczy „rozpatrzona forma jest poprawna”, a nie „całe zdanie jest bezbłędne”. Audyt pozostaje **nieukończony**.
