@@ -6,7 +6,7 @@
 **Arianna:** Wynoś się z tego ciała! Natychmiast!  
 **Erica:** Anioł? Na Ziemi?  
 **Mox:** Kim ty, do cholery, jesteś?  
-**Erica:** Otworzyłam szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzył.  
+**Erica:** Otworzyłam szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzyła.  
 **Diana:** Madalyn zawarła sojusz z Lilith.  
 **Erica:** Suka! Oszukała mnie!  
 **Drab:** Ani kroku dalej!  

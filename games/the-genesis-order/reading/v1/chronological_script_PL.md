@@ -15518,7 +15518,7 @@
 **Heather:** Złap mnie za nogi, kochanie.  
 **Mox:** A ty nawet się nie spociłaś.  
 **Heather:** Widzisz? Ćwiczenia ze starszą panią nie są takie trudne, prawda?  
-**Mox:** Gdybym cię nie znała, pomyślałbym, że próbujesz mi zaimponować.  
+**Mox:** Gdybym cię nie znał, pomyślałbym, że próbujesz mi zaimponować.  
 **Heather:** Nie pogardzę komplementem.  
 **Mox:** Nie trać koncentracji, młoda damo.  
 **Heather:** Tak, proszę pana.  
@@ -27854,7 +27854,7 @@
 **Mox:** Naprawdę mówisz poważnie?  
 **Hannah:** No jasne! Zasmakuj w soczystej cipce Hannah Ray!  
 **Mox:** Ja… nie wiem, co powiedzieć.  
-**Hannah:** Nie proszę, żebyś cokolwiek mówiła.  
+**Hannah:** Nie proszę, żebyś cokolwiek mówił.  
 **Hannah:** Ale z ciebie naiwniak!  
 **Mox:** Hej! To boli!  
 **Hannah:** Stracisz szansę u Chloe, jeśli będziesz się zabawiał z jej najlepszą przyjaciółką.  
@@ -41901,7 +41901,7 @@
 **Kimberly:** Czyli jednak istnieje jakieś powiązanie?  
 **Mox:** Nie ma żadnego powiązania. Ale wiem, że podejrzewasz, że może być.  
 **Kimberly:** Charles był przywódcą Gildii. Po prostu się przyznaj.  
-**Mox:** Gdybym to wiedziała, powiedziałbym ci.  
+**Mox:** Gdybym to wiedział, powiedziałbym ci.  
 **Kimberly:** Naprawdę?  
 **Mox:** Nie za darmo.  
 **Kimberly:** Aha, czyli szukasz łapówki?  
@@ -62623,7 +62623,7 @@
 **Arianna:** Wynoś się z tego ciała! Natychmiast!  
 **Erica:** Anioł? Na Ziemi?  
 **Mox:** Kim ty, do cholery, jesteś?  
-**Erica:** Otworzyłam szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzył.  
+**Erica:** Otworzyłam szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzyła.  
 **Diana:** Madalyn zawarła sojusz z Lilith.  
 **Erica:** Suka! Oszukała mnie!  
 **Drab:** Ani kroku dalej!  
