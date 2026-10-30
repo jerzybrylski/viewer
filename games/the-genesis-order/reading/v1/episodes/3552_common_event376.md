@@ -47,7 +47,7 @@
 **Mox:** Zdarza mi się czasem łamać zasady.  
 **Kimberly:** Mówisz moim językiem, Mox.  
 **Mox:** Czego spodziewasz się tu znaleźć?  
-**Kimberly:** Sama mi powiedz.  
+**Kimberly:** Sam mi powiedz.  
 **Mox:** Wierzysz w duchy?  
 **Kimberly:** Moja cipka zawróciła ci w głowie.  
 **Mox:** Poczekajmy i zobaczmy, co odbierzesz z tych nadajników.  

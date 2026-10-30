@@ -200,3 +200,32 @@ Kontrola po zmianie: w całym korpusie **żadna opcja dialogowa nie zawiera już
 - Patch: SHA-256 `dcf81b8ea7b1b981e7068f2c1b5d6eaea0a2d8a73d966fc25d6bfd3cfb943087`; payload `f984bd55…`.
 - Czytanka: epizod `1710_map031_event027_page01.md` i sekcja „Mapa 031 — Sklep XXX / event 27” w skrypcie; przepakowana bez zmiany listy 4 399 wpisów — SHA-256 `a80ae034b0ec3e608c2a91b302f8d73b67d5e0b5f7fd0912a4dac5c6d863bdf9`.
 - **173 testy OK**. Paczek nie testowano w grze. Audyt pozostaje **nieukończony**.
+
+## Kontynuacja — `sam / sama` (176 hipotez, 4 korekty)
+
+Ostatnia duża rodzina wąskich sygnałów. `sam/sama` jest z natury wieloznaczne: raz dotyczy mówcy, raz adresata, raz rzeczownika („ta sama kobieta”, „ten sam system”, „w sam raz”, „sam na sam”, „sama rozkosz”), a czasem osoby trzeciej. Dlatego każdą kwestię czytano z dwiema sąsiednimi liniami, a sporne — z całą sceną.
+
+| Wynik | Liczba |
+|---|---:|
+| `confirmed` | 172 |
+| `corrected` | 4 |
+
+**Korekty:**
+
+- `24adafd634e947f16454` (CE376, Kimberly) — „**Sama** mi powiedz.” → „**Sam** mi powiedz.”; Kimberly odpowiada Moxowi („You tell me”), więc adresat jest mężczyzną.
+- `353823739e0b29f504f0` (AFTER NEWS - Erica, Mox) — „Cóż… **Sama** nie wiem.” → „**Sam** nie wiem.”; mówi Mox.
+- `ac26f591659a19ec7c00` (map 76, ELLA, Mox) — „Zostawię was, a **sama** sprawdzę” → „**sam** sprawdzę”; podmiotem jest Mox.
+- `2a2b18d9a9b797094670` (Nellie - After FUCK, Oprych 1) — „Poradzisz sobie **sam**?” → „**sama**?”; Oprych pyta Nellie, która odpowiada „Dam radę”.
+
+Trzy z czterech błędów to ta sama pomyłka: forma żeńska w kwestii **Moxa**, czyli ten sam wzorzec, który dominował w partii 102 hipotez. Czwarty to znowu adresat płci żeńskiej.
+
+### Wniosek o sygnale
+
+Rodzina `sam/sama` nie jest czysta (4/176), ale też nie jest to „fałszywy alarm” — są to prawdziwe błędy. Sygnał działa więc jako kolejka robocza tylko wtedy, gdy rozstrzygnie się podmiot; przy `sama myśl`, `sam na sam`, `w sam raz` i `ta sama` trzeba go odrzucać. Po tej partii **wąskie sito nie zwraca już żadnej nieprzejrzanej hipotezy**.
+
+### Stan po tej partii
+
+- Rejestr: **1 059 decyzji** — 889 `confirmed`, 155 `corrected`, 15 `deferred`; **38 858** rekordów bez decyzji.
+- Patch: SHA-256 `ba6f50b2457883f06c1fb1908e1e4846973d2054a8bae79d32d47b3ac28ad445`; payload `9fa2b264…`.
+- Czytanka: 4 epizody i 4 wystąpienia w skrypcie; SHA-256 `5beb42a8cf95936410601ad2248c6642d14750d40e776f2366e725d9f9e38658`.
+- **173 testy OK**. Paczek nie testowano w grze. Audyt pozostaje **nieukończony** — kolejne masy to `orzecznik_do_przegladu` (1 865), `inna_forma_rodzajowa` (9 699) i 28 409 rekordów bez sygnału.

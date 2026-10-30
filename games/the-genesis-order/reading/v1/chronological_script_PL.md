@@ -38846,7 +38846,7 @@
 **Erica:** Znalazłeś obraz w rezydencji? Nic mi nie mówiłeś.  
 **Mox:** To nie ja go znalazłem. Ktoś inny.  
 **Chloe:** Kto?  
-**Mox:** Cóż… Sama nie wiem.  
+**Mox:** Cóż… Sam nie wiem.  
 **Ella:** Na co więc czekamy? Wiesz, gdzie jest Duncan?  
 **Mox:** To zależy od komisarz. Ja tu nie dowodzę.  
 **Judy:** Na pewno złapiesz tych złodziei, Mox. Jesteś taki bystry.  
@@ -41802,7 +41802,7 @@
 **Andrea:** Wysłuchanie jej chyba nie zaszkodzi, prawda?  
 **Andrea:** W końcu jesteśmy sąsiadkami. Powinnyśmy częściej spędzać razem czas, nie sądzisz?  
 **Melissa:** …  
-**Mox:** Zostawię was, a sama sprawdzę, co u pozostałych gości.  
+**Mox:** Zostawię was, a sam sprawdzę, co u pozostałych gości.  
 
 ---
 
@@ -63964,7 +63964,7 @@
 **Mox:** Zdarza mi się czasem łamać zasady.  
 **Kimberly:** Mówisz moim językiem, Mox.  
 **Mox:** Czego spodziewasz się tu znaleźć?  
-**Kimberly:** Sama mi powiedz.  
+**Kimberly:** Sam mi powiedz.  
 **Mox:** Wierzysz w duchy?  
 **Kimberly:** Moja cipka zawróciła ci w głowie.  
 **Mox:** Poczekajmy i zobaczmy, co odbierzesz z tych nadajników.  
@@ -66600,7 +66600,7 @@
 **Nellie:** Idźcie… po… broń!  
 **Oprych 1:** …  
 **Oprych 2:** No dalej.  
-**Oprych 1:** Wrócimy za 8 minut. Poradzisz sobie sam?  
+**Oprych 1:** Wrócimy za 8 minut. Poradzisz sobie sama?  
 **Nellie:** Dam radę. Jest związany.  
 
 ---

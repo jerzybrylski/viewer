@@ -622,3 +622,23 @@ Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa oso
 **Artefakty:** patch `dcf81b8ea7b1b981e7068f2c1b5d6eaea0a2d8a73d966fc25d6bfd3cfb943087` (payload `f984bd55…`); Czytanka `a80ae034b0ec3e608c2a91b302f8d73b67d5e0b5f7fd0912a4dac5c6d863bdf9` (epizod map 31 / EV027 + sekcja skryptu). Sidecary i raporty zsynchronizowane.
 
 **Testy:** 173 OK. Audyt nieukończony.
+
+## 2026-10-30 — rodzina `sam/sama`: 176 hipotez, 4 korekty
+
+**Metoda:** kwestia + dwie sąsiednie linie, sporne z całą sceną (`show_gender_scene.py`). Sygnał wieloznaczny: mówca, adresat, rzeczownik („ta sama”, „w sam raz”, „sam na sam”, „sama myśl”) albo osoba trzecia.
+
+**Wynik:** 172 `confirmed`, 4 `corrected`.
+
+**Korekty:**
+- `24adafd634e947f16454` (CE376, Kimberly → Mox) — „Sama mi powiedz.” → „Sam mi powiedz.”
+- `353823739e0b29f504f0` (AFTER NEWS - Erica, Mox) — „Cóż… Sama nie wiem.” → „Sam nie wiem.”
+- `ac26f591659a19ec7c00` (map 76 ELLA, Mox) — „a sama sprawdzę” → „a sam sprawdzę”
+- `2a2b18d9a9b797094670` (Nellie - After FUCK, Oprych 1 → Nellie) — „Poradzisz sobie sam?” → „sama?”
+
+**Uwaga o rejestrze:** przy dopisywaniu decyzji cztery poprawione rekordy trafiły dwa razy (jako `corrected` i `confirmed`), bo nadal niosą sygnał `sam/sama`. Duplikaty wykryto i scalono do wpisów `corrected`; inwentarz nie zgłasza `stale`, więc fingerprinty zgadzają się z tekstem.
+
+**Stan rejestru:** 1 059 decyzji — 889 `confirmed`, 155 `corrected`, 15 `deferred`; 38 858 rekordów bez decyzji. Wąskie sito nie zwraca już nieprzejrzanych hipotez.
+
+**Artefakty:** patch `ba6f50b2457883f06c1fb1908e1e4846973d2054a8bae79d32d47b3ac28ad445` (payload `9fa2b264…`); Czytanka `5beb42a8cf95936410601ad2248c6642d14750d40e776f2366e725d9f9e38658`.
+
+**Testy:** 173 OK. Audyt nieukończony.
