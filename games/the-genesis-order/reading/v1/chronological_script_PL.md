@@ -772,7 +772,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 2.
 
-**Chloe:** Jestem ci winien przysługę.  
+**Chloe:** Jestem ci winna przysługę.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 3.
 
@@ -1392,7 +1392,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 3.
 
-**Brian:** Dobra robota. Jestem ci winna przysługę.  
+**Brian:** Dobra robota. Jestem ci winien przysługę.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 
@@ -2514,7 +2514,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 3.
 
-**Nellie:** Jestem ci winien przysługę.  
+**Nellie:** Jestem ci winna przysługę.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 1.
 
@@ -11872,7 +11872,7 @@
 **Mox:** Szukam Eriki Abraham.  
 **Jon:** Ma kłopoty?  
 **Erica:** O co, do cholery, chodzi?  
-**Jon:** Nawet jeśli trafisz do więzienia, nadal będziesz mi winien pieniądze.  
+**Jon:** Nawet jeśli trafisz do więzienia, nadal będziesz mi winna pieniądze.  
 **Mox:** Eriko?  
 **Erica:** Spadaj, Jon.  
 **Jon:** Masz tydzień, Eriko.  
@@ -25564,7 +25564,7 @@
 **Nellie:** Czyli musimy znaleźć jeszcze tylko jeden.  
 **Mox:** Nie oddam go Madalyn. Przecież nawet nie wiemy, do czego służy.  
 **Nellie:** Nie na to się pisałam. Z szaloną przywódczynią gangu jeszcze jakoś można sobie poradzić, ale z demonem? Mam już tego dość.  
-**Brian:** Jeśli zadajesz się z przywódczyniami gangów, nie chcę, żebyś kręcił się koło mnie.  
+**Brian:** Jeśli zadajesz się z przywódczyniami gangów, nie chcę, żebyś kręciła się koło mnie.  
 **Mox:** Zaufaj jej, ojcze Solomon. Ma swoje powody.  
 **Brian:** Mogę zobaczyć amulet?  
 **Mox:** Jasne. Proszę.  
@@ -54752,7 +54752,7 @@
 ## Mapa 077 — Prawy korytarz / event 6 / strona 1
 
 **Andrea:** /greet  
-**Mox:** Mało brakowało, a byś mnie zabił.  
+**Mox:** Mało brakowało, a byś mnie zabiła.  
 **Andrea:** O czym ty, do cholery, mówisz? Gdzie byłeś?  
 **Mox:** Byłem w legowisku Duncana, z lufą przy głowie.  
 **Andrea:** Kazałam ci mieć Duncana na oku, nie próbować go aresztować.  
@@ -57988,7 +57988,7 @@
 **Tasha:** Łał! Coś mnie ominęło?  
 **Henry:** Cholera. Co wy wszyscy robiliście?  
 **Lillian:** Nie! Wszystko niszczycie!  
-**Brian:** Mówiłem, żebyś się cofnął!  
+**Brian:** Mówiłem, żebyś się cofnęła!  
 **Lillian:** Jeśli mnie chcesz, to chodź i mnie złap!  
 **Mox:** Zmierza do szczeliny!  
 **Diana:** Do szczeliny?  
@@ -68380,7 +68380,7 @@
 **Mox:** Brzmi dobrze.  
 **Kimberly:** I jak poszło niańczenie?  
 **Mox:** Ugh, nie rozmawiajmy o tym.  
-**Mox:** To co z tą przysługą, którą jesteś mi winien?  
+**Mox:** To co z tą przysługą, którą jesteś mi winna?  
 **Kimberly:** Co masz na myśli?  
 **Mox:** Pamiętam, że ta kanapa była całkiem wygodna.  
 **Mox:** Może zadbamy, żeby było nam na niej naprawdę wygodnie?  

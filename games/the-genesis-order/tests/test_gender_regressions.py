@@ -21,6 +21,14 @@ CASES = {
     '831f21f7534cd4f71410': 'A gdyby wypadło na ciebie? Chcesz, żebym cię pocałował?',
     '00f7684301aab72ed57d': 'Chętnie bym z nią porozmawiała.',
     '6be01627eba58ff91c0e': 'Chcę, żebyś dla mnie doszła.',
+    'b293c6c1c4ecf9a593a2': 'Nawet jeśli trafisz do więzienia, nadal będziesz mi winna pieniądze.',
+    '0724f59b187952bcfe79': 'Mało brakowało, a byś mnie zabiła.',
+    '6107621dcc1a42c5b14b': 'Jeśli zadajesz się z przywódczyniami gangów, nie chcę, żebyś kręciła się koło mnie.',
+    'e7ecd71c8b880a6f51c3': 'Mówiłem, żebyś się cofnęła!',
+    'c9cf57b12f673e7b22c6': 'Dobra robota. Jestem ci winien przysługę.',
+    '318d6be44e989ae84fce': 'Jestem ci winna przysługę.',
+    '004b101d7150c5bf5af8': 'Jestem ci winna przysługę.',
+    'da85a14ff34c9b0573b3': 'To co z tą przysługą, którą jesteś mi winna?',
 }
 
 

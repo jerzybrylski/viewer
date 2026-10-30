@@ -98,3 +98,7 @@ Właściciel wskazał „Nie proszę, żebyś cokolwiek mówiła” w odpowiedzi
 ## Audyt rodzaju — kolejna sesja, NIEUKOŃCZONY
 
 Właściciel zlecił pełny przegląd wszystkich rodzajów. Rozpoczęto go, poprawiając kolejnych 11 jednoznacznych błędów i tworząc odtwarzalny inwentarz 39 917 tłumaczeń. Liczby, ID, ograniczenia, polecenie i aktualne hashe: `GENDER_AUDIT_2026-10-30.md`. Kolejka oznacza wszystko jako nieprzejrzane i jest tylko początkiem: konieczne są przegląd kontekstowy i trwały rejestr decyzji, w tym poprzednich 618 automatycznych zmian oraz rekordów bez flag. Nie ogłaszać audytu skończonym. 152 testy OK; nowy patch nie testowany w grze i nie opublikowany na Drive.
+
+### Jon → Erica i rejestr decyzji
+
+Poprawiono zgłoszone „będziesz mi winien” na „winna” oraz siedem dalszych błędów. Trwały rejestr `translation/reports/gender_review_decisions.jsonl`: 8 `corrected`, 21 `confirmed`, 3 `deferred`; dalsze 39 885 rekordów nie mają decyzji w rejestrze. Szczegóły, ograniczenia fingerprintów, aktualne hashe i następne kroki w `GENDER_AUDIT_2026-10-30.md`. Kolejkę odtwarza `tools/inventory_gender_review.py`; dane z innych scen/gałęzi nie mogą być dowodem adresata bez analizy. Kontynuować, nie deklarować pełnego audytu. 154 testy OK, nowego ZIP-a nie sprawdzono w grze ani na Drive.

@@ -102,7 +102,7 @@
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 2.
 
-**Chloe:** Jestem ci winien przysługę.  
+**Chloe:** Jestem ci winna przysługę.  
 
 > **Ścieżka warunkowa:** MESSAGE HOLDER = zmienna #48 → VOICEOVER Random Number = 3.
 
