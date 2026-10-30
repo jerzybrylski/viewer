@@ -23,7 +23,7 @@
 **Andrea:** Jak ty się w ogóle we mnie mieścisz? Rozciągasz mnie!  
 **Mox:** Ściśnij mojego kutasa tą mokrą, ciepłą cipką!  
 **Andrea:** Bierz mnie, Mox!  
-**Mox:** Jesteś mój, kochanie!  
+**Mox:** Jesteś moja, kochanie!  
 **Andrea:** Tak!  
 **Andrea:** Zasłużyłeś, kochanie. Zasłużyłeś na moją cipkę!  
 **Mox:** Czuję każdy twój centymetr! Wypełniam cię całą!  

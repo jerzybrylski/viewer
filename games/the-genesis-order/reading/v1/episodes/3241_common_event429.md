@@ -29,7 +29,7 @@
 **Mox:** To tylko zabawa, Chloe.  
 **Chloe:** Mam… się rozebrać?  
 **Carol:** Wstydzisz się?  
-**Chloe:** Po prostu… Nigdy nie widziałeś mnie nago.  
+**Chloe:** Po prostu… Nigdy nie widziałaś mnie nago.  
 **Carol:** Mogę powiedzieć to samo… To pierwszy raz dla nas obojga.  
 **Carol:** Nieźle, dziewczyno! Piersi pięknie ci urosły.  
 **Chloe:** Tak myślisz?  

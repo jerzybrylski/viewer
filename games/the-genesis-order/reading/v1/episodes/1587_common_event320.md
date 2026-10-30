@@ -33,7 +33,7 @@
 **Ella:** Daj mi swój. Wyślę ci nagrodę za dobrze wykonaną robotę.  
 **Mox:** A co cię skłania do myślenia, że rozdaje swój numer?  
 **Ella:** Trudno cię zdobyć?  
-**Mox:** Skoro jesteś sławny, mogę zrobić wyjątek.  
+**Mox:** Skoro jesteś sławna, mogę zrobić wyjątek.  
 **Ella:** Jasne…  
 **Ella:** Powiedz mi, Mox. Masz dziewczynę?  
 **Mox:** Na razie jestem żonaty z pracą.  

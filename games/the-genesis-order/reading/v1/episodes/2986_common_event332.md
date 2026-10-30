@@ -25,7 +25,7 @@
 **Erica:** Był tak potężny, że rozbito go na sześć części i rozrzucono po całej krainie, by żaden mężczyzna nie mógł go złożyć.  
 **Mox:** Zniszczyli magiczny posąg, żeby mężczyźni się nie napalali?  
 **Erica:** Cóż… Tak głosi legenda. Wiem, że to nie ma sensu.  
-**Mox:** Czyli jeśli znajdziesz wszystkie sześć części, będziesz dochodził jeszcze częściej?  
+**Mox:** Czyli jeśli znajdziesz wszystkie sześć części, będziesz dochodziła jeszcze częściej?  
 **Erica:** Legenda tak nie mówi. Posąg zapewnia wiele mocy seksualnych, ale nie wiem dokładnie jakich.  
 **Erica:** Podobno każda część daje inną moc…  
 **Erica:** Nigdy w to nie wierzyłam. Nikt nie wierzył…  

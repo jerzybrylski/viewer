@@ -1,6 +1,41 @@
 # Handoff — The Genesis Order PL
 
-## Najważniejsze na następną sesję — 2026-10-30
+## Najważniejsze na następną sesję — 2026-10-30 (po przeglądzie wąskiej kolejki i trzech rodzin sygnałów)
+
+**Zadanie:** kontynuować kontekstowy audyt rodzaju w The Genesis Order. Wąska kolejka jest **przejrzana w całości** (102 hipotezy → 70 korekt, 31 potwierdzeń, 1 odłożenie, plus jedna korekta sąsiedniej kwestii), ale to nie koniec audytu: **28 409 rekordów nie ma żadnego sygnału**, a 396 z 618 wcześniejszych automatycznych zmian nie ma decyzji. Właściciel oczekuje pracy systemowej i konkretnych uzasadnień, nie hurtowych zamian; MT słownikowe/regułowe/statystyczne jest zabronione, decyduje LLM w kontekście sceny.
+
+**Aktualizacja po etapie „orzecznik, wycinek 2. osoby”:** przejrzano 343 rekordy `orzecznik` w scenach dwuosobowych (adresat wyznaczony przez jedynego rozmówcę) — **335 potwierdzeń, 8 korekt**, m.in. Mox do Andrei „Jesteś mój” → „moja”, Tasha do Moxa „Aż tak popularna jesteś?” → „popularny”. Rejestr: **1 402** decyzje (1 224 `confirmed`, 163 `corrected`, 15 `deferred`), **38 515** rekordów bez decyzji. Patch `247d972b…` (payload `954690d3…`), Czytanka `76717517…`. Uwaga warsztatowa: `old` w pliku korekt budować z **bieżącego** tekstu rekordu i podmieniać sam fragment — pełne zdanie bywa inne, niż widać w sąsiedztwie. Kolejka: pozostałe 1 446 `orzecznik` (804 drugiej osoby w scenach wielomówczych, 985 pierwszej osoby), `inna_forma_rodzajowa` (9 699), rekordy bez sygnału (28 409).
+
+**Aktualizacja po ostatnim etapie (ta sama sesja, commit „sam/sama”):** sprawdzono rodzinę `sam/sama` — 176 hipotez, **172 potwierdzenia, 4 korekty** (trzy to żeńska forma w kwestii Moxa, jedna to błąd adresata: Oprych pyta Nellie). Po tej partii **wąskie sito nie zwraca żadnej nieprzejrzanej hipotezy**. Rejestr: **1 059** decyzji (889 `confirmed`, 155 `corrected`, 15 `deferred`), **38 858** rekordów bez decyzji. Patch `ba6f50b2…` (payload `9fa2b264…`), Czytanka `5beb42a8…`. Kolejka na następną sesję: `orzecznik_do_przegladu` (1 865), `inna_forma_rodzajowa` (9 699), rekordy bez sygnału (28 409) oraz 369 nierozpatrzonych pierwszosobowych auto-zmian.
+
+**Aktualizacja po kolejnym etapie (ta sama sesja, commit „opcje dialogowe”):** przejrzano `change_log` 384 nierozpatrzonych wcześniejszych auto-zmian — 15 edycji drugiej osoby (EV027, Mox → Alia) potwierdzono w scenie, 369 pierwszosobowych zostało **bez decyzji** (ryzyko ograniczone do błędnego mapowania mówcy; w tej grupie nie ma scen opętania). Wykryto i zamknięto **lukę kategorii**: `choice_option` (1 416 rekordów) nie jest objęte żadnym sygnałem i nie ma nagłówka mówcy — w EV027 stało 18 męskich form drugiej osoby, wszystkie poprawiono na żeńskie. Po zmianie żadna opcja w korpusie nie zawiera formy `-łeś/-łaś`. Rejestr: **883** decyzje (717 `confirmed`, 151 `corrected`, 15 `deferred`), **39 034** rekordy bez decyzji. Patch `dcf81b8e…` (payload `f984bd55…`), Czytanka `a80ae034…`.
+
+**Aktualizacja po ostatnim etapie (ta sama sesja, commit „rodzina adresacka”):** sprawdzono ostatnią niesprawdzoną rodzinę sygnałów — `rozdzielny_tryb_adresata` (94 hipotezy): **91 potwierdzeń, 3 korekty, 1 odłożenie**. Rejestr ma **850** decyzji (702 `confirmed`, 133 `corrected`, 15 `deferred`), a **39 067** rekordów pozostaje bez decyzji. Patch przebudowany (`a89bf8b4…`), Czytanka przepakowana (`c0f43601…`, 2 epizody i 3 wystąpienia w skrypcie). **Wniosek:** rodziny „mówcowe” (`bym`, `winien`, `powinienem`) są czyste i nie wymagają czytania; rodziny „adresackie” (`byś`) wymagają scen, bo nagłówek nie koduje adresata. Kolejny krok to `sam/sama` (180), `orzecznik_do_przegladu` (1 865), `inna_forma_rodzajowa` (9 699) i **28 409** rekordów bez sygnału.
+
+**Aktualizacja po kolejnym etapie (ta sama sesja, commit „trzy rodziny sygnałów”):** sprawdzono całe trzy rodziny sygnałów o wysokiej precyzji — 362 hipotezy, **355 potwierdzeń, 7 odłożeń, 0 korekt**. Rejestr ma teraz **755** decyzji (611 `confirmed`, 130 `corrected`, 14 `deferred`), a **39 162** rekordy pozostają bez decyzji. Odłożenia to wyłącznie postaci bez mapowanej płci (sześć kwestii systemowego NPC z CE25 i „Ochrona”). Tekst tłumaczeń się nie zmienił, więc patch `9f71e99a…` i Czytanka `8504ac12…` zostają bez zmian. Wniosek dla następnego agenta: **te trzy sygnały nie są już kolejką roboczą** — masę błędu trzeba szukać w `inna_forma_rodzajowa` (9 699), `orzecznik_do_przegladu` (1 865), `mozliwy_przymiotnik_lub_rzeczownik` (4 248) oraz w **28 409** rekordach bez sygnału.
+
+**Stan po poprzednim etapie (commit „przegląd całej wąskiej kolejki”):** rejestr `translation/reports/gender_review_decisions.jsonl` ma **393** decyzje — 257 `confirmed`, 130 `corrected`, 6 `deferred`; **39 524** przetłumaczone rekordy pozostają bez decyzji. Z 618 dawnych automatycznych zmian: 206 potwierdzonych, 13 poprawionych, 3 odłożone, 396 nieprzejrzanych. Wąskie sito `focus_gender_candidates.py` zwraca **1** pozycję (odłożona kwestia Kimberly `eb528be8f3a7a510c15d`) — to brak pokrycia, nie brak błędów. Szerokie sito: 39 530 kwalifikujących się rekordów, 14 158 z sygnałem w 13 280 grupach, 25 372 bez sygnału.
+
+**Nowe narzędzie:** `tools/show_gender_scene.py` wypisuje całą scenę z inwentarza (mówca, EN, PL, znacznik kwestii) i nic nie zapisuje. Używać go zamiast zgadywania z trzech sąsiednich linijek; test `tests/test_show_gender_scene.py` pilnuje braku zapisów.
+
+**Ostrożność (bez zmian):** nagłówek to ciało, nie zawsze mówca — w CE454/CE456 mówi Daemalius w ciele Erici, a forma męska jest tam poprawna. Adresata nie ustala się z obsady sceny ani z sąsiedztwa bez odpowiedzi z formą osobową lub wołaczem. Niepewne przypadki odkładać (`deferred`), nie „poprawiać na wyczucie”. `fix_grammatical_gender.py --apply` pozostaje zablokowane.
+
+**Następne kroki:**
+1. Wygenerować świeży inwentarz i kolejki (pliki wyjściowe nie mogą istnieć):
+   ```bash
+   python3 games/the-genesis-order/tools/inventory_gender_review.py --output /tmp/tgo-inventory-next.jsonl
+   python3 games/the-genesis-order/tools/prepare_gender_review_batches.py --input /tmp/tgo-inventory-next.jsonl --output /tmp/tgo-batches-next.jsonl --max-groups 100 --context 3
+   ```
+   Partie szerokie obejmują teraz także rekordy bez sygnału w dalszych stronach `--offset`, ale offset jest ważny **tylko** dla jednego snapshotu.
+2. Przeglądać partiami po pełnej scenie (`show_gender_scene.py`), z glosariuszem i źródłem; decyzje zapisywać z ID, fingerprintem i uzasadnieniem.
+3. Po każdej partii: drafty → `build_standalone_patch.py`, punktowa aktualizacja Czytanki + przepakowanie ZIP-a, sidecary, manifest, `coverage_audit_v1.json`, testy, wpis w `EXPERIMENT_LOG.md`.
+4. Osobno wrócić do 396 nieprzejrzanych wcześniejszych automatycznych zmian i do rekordów bez sygnału; nie ogłaszać audytu ukończonym.
+
+**Artefakty:** patch `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`, SHA-256 `247d972b439493fbd74e1386e4344dcdabebcc8901e2bb1e5b076cd839f41b28` (payload `954690d3…`); Czytanka `translation/packages/TGO_readalong_PL_v1.zip`, SHA-256 `767175173730fd8279ce4a0bdcb991464aac163da72df6f5dfd1de919f69f107`. Gałąź `arena/13fcaf73-viewer`, PR https://github.com/jerzybrylski/viewer/pull/9. **173 testy OK**; paczek nie testowano w grze ani nie publikowano na Drive.
+
+---
+
+## Poprzedni stan (sesja zakończona commitem `9cbc502`, zapis historyczny)
 
 **Zadanie:** kontynuować pełny kontekstowy audyt rodzaju w tłumaczeniu The Genesis Order, następnie ręcznie poprawiać jednoznaczne błędy. Audyt **nie jest ukończony**. Właściciel chce podejścia systemowego, ale odrzucił szeroką listę 14 tys. sygnałów jako kolejkę pierwszego wyboru; oczekuje kilkuset konkretniej uzasadnionych kandydatów. Ograniczona kolejka nie zastępuje przeglądu pozostałych kwestii. Tłumaczenie i korekty wykonuje LLM w kontekście sceny; słownikowe, regułowe i statystyczne MT są zabronione.
 

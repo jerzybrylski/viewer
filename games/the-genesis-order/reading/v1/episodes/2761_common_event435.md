@@ -10,8 +10,8 @@
 **Hannah:** Nie wiem. Dziś słodko wyglądasz.  
 **Mox:** Słodko? Nigdy nie używałaś tego słowa.  
 **Hannah:** Może coś mnie podnieciło.  
-**Chloe:** Co zrobiłeś?  
-**Hannah:** Chciałbyś wiedzieć, co?  
+**Chloe:** Co zrobiłaś?  
+**Hannah:** Chciałabyś wiedzieć, co?  
 **Hannah:** Zdejmij spodnie!  
 **Chloe:** Hannah! Jesteś mokra!  
 **Mox:** Chyba Hannah chce, żeby wasza przyjaźń weszła na wyższy poziom.  

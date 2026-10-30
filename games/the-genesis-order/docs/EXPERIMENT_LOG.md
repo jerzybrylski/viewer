@@ -551,3 +551,110 @@ Na żądanie mniejszej listy dodano `tools/focus_gender_candidates.py`: 126 hipo
 
 ### 2026-10-30 — kontekstowy przegląd wąskiej kolejki
 Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa osobne ID tych samych scen na różnych stronach). Jedna korekta dotyczy adresatki Melissy w sąsiedniej kwestii. Rejestr 226 confirmed / 59 corrected / 5 deferred, 39 627 bez decyzji. Nowe wąskie sito: 102 hipotezy, nie liczba błędów; audyt nadal nieukończony. Szeroką kolejkę uzupełniono o `powinienem/powinnam`. Szczegóły i hashe w `GENDER_AUDIT_2026-10-30.md`; 168 testów OK, bez testu w grze.
+
+## 2026-10-30 — przegląd całej wąskiej kolejki rodzaju (102 hipotezy)
+
+**Wejście:** inwentarz odtworzony z walidowanego scalenia draftów (`tools/inventory_gender_review.py --output /tmp/tgo-inventory-s1.jsonl`, 39 917 tłumaczeń) i wąska kolejka `tools/focus_gender_candidates.py` (`/tmp/tgo-focus-s1.jsonl`): **102 hipotezy** (74 adresat z sąsiedztwa, 32 pierwsza osoba, 11 orzecznik, 9 `sam/sama`, kategorie się pokrywają). Każdą kwestię czytano w kontekście **całej sceny** nowym narzędziem tylko do odczytu `tools/show_gender_scene.py` (dodane w tej zmianie; `tests/test_show_gender_scene.py` pilnuje, że nic nie zapisuje).
+
+**Wynik przeglądu:** 70 korekt, 31 potwierdzeń, 1 odłożenie; dodatkowo jedna korekta sąsiedniej kwestii w tej samej scenie. Razem **71 zmian w 49 plikach draftów**. Rozkład: 51 form drugiej osoby (adresat), 9 orzeczników, 8 `powinienem/powinnam`, 3 `sam/sama`. ID, `before`, fingerprint i uzasadnienia: `translation/reports/gender_review_decisions.jsonl`; omówienie: `GENDER_AUDIT_2026-10-30.md`.
+
+**Ważne ustalenia:** 31 hipotez było fałszywych (m.in. „Sam” o adresacie, o pająku i o penisie, „otwarta księga” i „ciepły bałwan” jako utarte wyrażenia, „winna” o osobie trzeciej). W CE454 i CE456 forma męska jest poprawna, bo mówi Daemalius w ciele Erici — bez czytania sceny zostałaby „naprawiona” w złą stronę. Jedno odłożenie: `eb528be8f3a7a510c15d` (Kimberly w studiu — adresat i liczba nie do ustalenia z sąsiedztwa). Korekta spoza kolejki: `d6d8d21aa612f12c74a5` („Czemu jesteś taki naburmuszony?” Dawida do Moxa).
+
+**Stan rejestru:** 393 decyzje — 257 `confirmed`, 130 `corrected`, 6 `deferred`; 39 524 rekordy bez decyzji. Z 618 wcześniejszych automatycznych zmian: 206 `confirmed`, 13 `corrected`, 3 `deferred`, 396 bez decyzji. Wąskie sito zwraca teraz **1** pozycję (to odłożenie), a szerokie: 39 530 kwalifikujących się, 14 158 z sygnałem w 13 280 grupach, 25 372 bez sygnału — nadal nieprzejrzane. Puste sito **nie** jest dowodem kompletności audytu.
+
+**Artefakty:** `python3 tools/build_standalone_patch.py --output /tmp/tgo-gender-queue-20261030.zip` → SHA-256 `9f71e99aaaeea93d3cea15c08d96c739e47da7e2074367095e6dd7de3a37c943` (39 917 tłumaczeń, 238 fingerprintów, 427 partii). Czytanka zmieniona punktowo (62 epizody, 71 kwestii w `chronological_script_PL.md`) i przepakowana z zachowaniem listy 4 399 wpisów → SHA-256 `8504ac12e1cea42084ab62bbfcd07e38b8b5fb139b6b5478ff2c5ea31267b565`. Sidecary, `patch_manifest_v0.1.1.json` i `coverage_audit_v1.json` zaktualizowane z payloadu ZIP-a.
+
+**Testy:** `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **173 OK**. Nowe: `tests/test_show_gender_scene.py` (5 testów). Archiwa, manifest, raporty i `reading/v1` są spójne (`tests/test_patch_artifacts.py`). **Nie testowano paczek w grze ani na Windows i nie publikowano ich na Drive** — to kolejna partia audytu, nie pełna naprawa rodzaju.
+
+## 2026-10-30 — trzy rodziny sygnałów rodzaju (362 hipotezy, 0 korekt)
+
+**Wejście:** rejestr 393 decyzje po przeglądzie wąskiej kolejki; świeży inwentarz `/tmp/tgo-inventory-s3.jsonl` (39 917 tłumaczeń, 11 379 z sygnałem, 28 409 bez sygnału). Zamiast kolejnego losowego ciągu grup wybrano całe rodziny sygnałów po nazwie: `winien_winna_podmiot_do_ustalenia` (43), `rozdzielny_tryb_pierwszej_osoby` (181), `powinienem_powinnam_podmiot_do_ustalenia` (138).
+
+**Metoda:** dla każdego rekordu porównanie formy z płcią mówcy z mapowania (`speaker_of`/`gender_of`), przy wątpliwościach scena z `tools/show_gender_scene.py`. Zero zapisów w tekstach — partia miała rozstrzygnąć, czy te sygnały w ogóle zawierają błędy.
+
+**Wynik:** 362 hipotezy → **355 `confirmed`, 7 `deferred`, 0 `corrected`**. Odłożenia to wyłącznie postaci bez mapowanej płci: sześć kwestii systemowego NPC z CE25 (sklep/poradniki; angielski neutralny) i „Ochrona”.
+
+**Wniosek:** `winien/winna`, forma po `bym/żebym` i `powinienem/powinnam` są niemal czystymi sygnałami — nie wymagają dalszego przeglądu pojedynczo, służą jako kontrola. Pozostała masa błędu leży w `inna_forma_rodzajowa` (9 699), `orzecznik_do_przegladu` (1 865), `mozliwy_przymiotnik_lub_rzeczownik` (4 248) i w rekordach bez sygnału.
+
+**Stan rejestru:** **755** decyzji — 611 `confirmed`, 130 `corrected`, 14 `deferred`; **39 162** rekordy bez decyzji. Z 618 dawnych automatycznych zmian nadal 396 bez decyzji (ta partia ich nie dotyczyła).
+
+**Artefakty:** bez zmian — tekst tłumaczeń nie był ruszany, więc patch `9f71e99aaaeea93d3cea15c08d96c739e47da7e2074367095e6dd7de3a37c943` i Czytanka `8504ac12e1cea42084ab62bbfcd07e38b8b5fb139b6b5478ff2c5ea31267b565` pozostają aktualne.
+
+**Testy:** `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **173 OK**. Audyt nadal nieukończony; potwierdzenie dotyczy wyłącznie rozpatrzonej formy.
+
+## 2026-10-30 — rodzina adresacka (`byś/żebyś`): 94 hipotezy, 3 korekty
+
+**Wejście:** rejestr 755 decyzji; pozostała niesprawdzona rodzina wąskich sygnałów — `rozdzielny_tryb_adresata` (94 rekordy).
+
+**Metoda:** dla każdej kwestii ustalenie adresata z odpowiedzi w tej samej wymianie; w trzech przypadkach pełna scena (`show_gender_scene.py`).
+
+**Wynik:** 91 `confirmed`, 3 `corrected`, 1 `deferred`.
+
+**Korekty:**
+- `e09c348f912ef4a2eed3` (CE457, Andrea) — „żebyś **wyprał** mi mózg” → „**wyprała**”; adresatką jest Demon 3, mówiąca o sobie po żeńsku („Powinnam zlasować ci mózg”, „moje siostry”) i odpowiadająca w następnej linii.
+- `603bf710b817cd67ac81` (map 183, Lillian) — „byś je **strzegł**” → „**strzegła**”; adresatką jest Arianna (prosi w kolejnej kwestii o ciało Erici).
+- `ef785d1b24497be208b8` (map 183, Lillian) — „Jesteś **ślepy**” → „**ślepa**”; korekta spoza sygnału, z czytania tej samej sceny (Arianna mówi „Jesteś szalona”, Lillian odpowiada jej wprost).
+
+**Odłożenie:** `b01c024477b41be0102e` — „Nigdy byś jej nie znalazł”: z wymiany nie da się ustalić adresata (Mox, Nellie czy Ella).
+
+**Wniosek:** sygnały „mówcowe” (`bym`, `winien`, `powinienem`) są czyste (0 korekt na 362), a „adresackie” trafiają w realne błędy (3/94) — adresata nie koduje nagłówek, więc te kwestie trzeba czytać scenami. Pozostałe masy: `sam/sama` (180), `orzecznik_do_przegladu` (1 865), `inna_forma_rodzajowa` (9 699) i 28 409 rekordów bez sygnału.
+
+**Stan rejestru:** 850 decyzji — 702 `confirmed`, 133 `corrected`, 15 `deferred`; 39 067 rekordów bez decyzji.
+
+**Artefakty:** patch `a89bf8b4cbe54a57ae9ada195c57c1a5db5ec085a8d5485b3ef62410cf2f3fad` (payload `3a0f99995121bcd1dfaa6499ecc576b4c33f177c05711cffbaddedb98c464e58`); Czytanka `c0f436017091dba5bac1d196ecc7909aca4893633a1e631452a54b3961ec8b35` (4 399 wpisów). Sidecary i raporty zsynchronizowane z payloadu.
+
+**Testy:** 173 OK. Paczek nie testowano w grze; audyt nieukończony.
+
+## 2026-10-30 — wcześniejsze auto-zmiany i luka `choice_option`
+
+**Wejście:** 384 rekordy z wcześniejszych automatycznych zmian bez decyzji; `change_log` w `translation/reports/gender_fix_v1.json` (618 wpisów z `before`/`after`/mówcą/płcią).
+
+**Metoda:** przegląd samej zmiany, nie całej linii. Podział: 399 edycji pierwszej osoby, 15 drugiej osoby. Dla drugiej osoby — weryfikacja w scenie (wszystkie w EV027, Mox pyta Alię). Dla pierwszej — sprawdzenie, czy w grupie są sceny opętania (nie ma) i uznanie, że ryzyko sprowadza się do błędnego mapowania mówcy; te 369 rekordów **pozostaje bez decyzji**.
+
+**Odkrycie:** `choice_option` (1 416 rekordów) nie jest objęte żadnym sygnałem — heurystyki patrzą na kwestie mówione, a opcje gracza nie mają nagłówka. W EV027 (map 31, przesłuchanie Alii, mówcy: tylko Mox i Alia) stało 18 męskich form drugiej osoby.
+
+**Korekty (18):** `byłeś → byłaś`, `przyjechałeś → przyjechałaś`, `robiłeś → robiłaś`, `rzucałeś → rzucałaś`, `jadłeś → jadłaś`. Po zmianie w całym korpusie **0 z 1 416** opcji zawiera formę drugiej osoby — kategoria wyczerpana.
+
+**Potwierdzenia (15):** edycje EV027 z `change_log` — poprawne.
+
+**Stan rejestru:** 883 decyzje — 717 `confirmed`, 151 `corrected`, 15 `deferred`; 39 034 rekordy bez decyzji.
+
+**Artefakty:** patch `dcf81b8ea7b1b981e7068f2c1b5d6eaea0a2d8a73d966fc25d6bfd3cfb943087` (payload `f984bd55…`); Czytanka `a80ae034b0ec3e608c2a91b302f8d73b67d5e0b5f7fd0912a4dac5c6d863bdf9` (epizod map 31 / EV027 + sekcja skryptu). Sidecary i raporty zsynchronizowane.
+
+**Testy:** 173 OK. Audyt nieukończony.
+
+## 2026-10-30 — rodzina `sam/sama`: 176 hipotez, 4 korekty
+
+**Metoda:** kwestia + dwie sąsiednie linie, sporne z całą sceną (`show_gender_scene.py`). Sygnał wieloznaczny: mówca, adresat, rzeczownik („ta sama”, „w sam raz”, „sam na sam”, „sama myśl”) albo osoba trzecia.
+
+**Wynik:** 172 `confirmed`, 4 `corrected`.
+
+**Korekty:**
+- `24adafd634e947f16454` (CE376, Kimberly → Mox) — „Sama mi powiedz.” → „Sam mi powiedz.”
+- `353823739e0b29f504f0` (AFTER NEWS - Erica, Mox) — „Cóż… Sama nie wiem.” → „Sam nie wiem.”
+- `ac26f591659a19ec7c00` (map 76 ELLA, Mox) — „a sama sprawdzę” → „a sam sprawdzę”
+- `2a2b18d9a9b797094670` (Nellie - After FUCK, Oprych 1 → Nellie) — „Poradzisz sobie sam?” → „sama?”
+
+**Uwaga o rejestrze:** przy dopisywaniu decyzji cztery poprawione rekordy trafiły dwa razy (jako `corrected` i `confirmed`), bo nadal niosą sygnał `sam/sama`. Duplikaty wykryto i scalono do wpisów `corrected`; inwentarz nie zgłasza `stale`, więc fingerprinty zgadzają się z tekstem.
+
+**Stan rejestru:** 1 059 decyzji — 889 `confirmed`, 155 `corrected`, 15 `deferred`; 38 858 rekordów bez decyzji. Wąskie sito nie zwraca już nieprzejrzanych hipotez.
+
+**Artefakty:** patch `ba6f50b2457883f06c1fb1908e1e4846973d2054a8bae79d32d47b3ac28ad445` (payload `9fa2b264…`); Czytanka `5beb42a8cf95936410601ad2248c6642d14750d40e776f2366e725d9f9e38658`.
+
+**Testy:** 173 OK. Audyt nieukończony.
+
+## 2026-10-30 — `orzecznik` w drugiej osobie, wycinek scen dwuosobowych (343, 8 korekt)
+
+**Wycinek:** 2 866 rekordów `orzecznik` → 1 789 bez decyzji → z nich 819 drugiej osoby → 343 w scenach z dokładnie jednym innym mówcą o znanej płci (adresat wyznaczony bez zgadywania).
+
+**Wynik:** 335 `confirmed`, 8 `corrected`.
+
+**Korekty:** Mox → Andrea „Jesteś mój” → „moja” (`700867fe8bd6c4d95fb4`); Mox → Ella „jesteś sławny” → „sławna” (`538d43ac9d06104f5b22`); Mox → Arianna „będziesz musiał” → „musiała” (`37eee3a725a0b0f794f4`); Mox → Erica „będziesz dochodził” → „dochodziła” (`cc1e71a441df00816b80`); Mox → Melissa „mniejszy” → „mniejsza” (`31ddd9da57784bf35f28`); Mox → Nellie „trzymał” → „trzymała” (`94a6a20e5e4174717bcb`); Tasha → Mox „popularna jesteś” → „popularny” (`1266b865a66d249a5831`); Tasha → Mox „Powinnaś zapuścić wąsy” → „Powinieneś” (`ee89ee8235a44e211bc2`).
+
+**Błąd procesu (naprawiony):** dwa `old` w pliku korekt obejmowały tylko fragment, a rekord zawierał całe zdanie — skrypt odmówił zapisu. Od teraz `old`/`new` budowane z bieżącego tekstu rekordu, podmieniana jest tylko forma.
+
+**Stan rejestru:** 1 402 decyzje — 1 224 `confirmed`, 163 `corrected`, 15 `deferred`; 38 515 rekordów bez decyzji; brak duplikatów i `stale`.
+
+**Artefakty:** patch `247d972b439493fbd74e1386e4344dcdabebcc8901e2bb1e5b076cd839f41b28` (payload `954690d3…`); Czytanka `767175173730fd8279ce4a0bdcb991464aac163da72df6f5dfd1de919f69f107`.
+
+**Testy:** 173 OK. Audyt nieukończony.

@@ -18,7 +18,7 @@
 **Hannah:** Hahaha!  
 **Hannah:** Auć!  
 **Ella:** Wygląda na to, że wygrałam.  
-**Hannah:** Oszukiwałeś!  
+**Hannah:** Oszukiwałaś!  
 **Ella:** Jak to!?  
 **Hannah:** Nie wiem! Ale jesteś zbyt dziewczęca, by pokonać prawdziwą kobietę, taką jak ja.  
 **Ella:** Teraz pieprzysz głupoty.  

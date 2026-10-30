@@ -3,7 +3,7 @@
 **Mox:** Judy?  
 **Judy:** Ależ ze mnie idiotka. Chyba mnie przyłapałeś.  
 **Mox:** Nadal potrzebujesz papieru toaletowego?  
-**Judy:** Mogłabyś coś dla mnie zrobić?  
+**Judy:** Mógłbyś coś dla mnie zrobić?  
 **Mox:** Czego teraz potrzebujesz?  
 **Judy:** Może tylko szybki numerek.  
 **Mox:** W tyłek?  

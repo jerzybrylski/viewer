@@ -64,7 +64,7 @@
 **Demon 2:** Ich miejsce jest w piekle, razem z nami!  
 **Demon 3:** Śmiesz krzywdzić moje siostry?! Powinnam zlasować ci mózg!  
 **Nellie:** Zlasuj nam mózgi!  
-**Andrea:** Chcę, żebyś wyprał mi mózg seksem!  
+**Andrea:** Chcę, żebyś wyprała mi mózg seksem!  
 **Erica:** Jestem taka niegrzeczna!  
 **Demon 3:** Dobrze! Poddaj się swoim pragnieniom!  
 **Erica:** O kurwa!  

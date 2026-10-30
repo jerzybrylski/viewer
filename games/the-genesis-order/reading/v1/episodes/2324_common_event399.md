@@ -14,7 +14,7 @@
 **Mox:** Cholera, Ello. Naprawdę wiesz, co robisz.  
 **Ella:** A nie mówiłam?  
 **Chloe:** Jak duży jest następny?  
-**Ella:** Jesteś gotowy?  
+**Ella:** Jesteś gotowa?  
 **Chloe:** Chyba jestem gotowa.  
 **Ella:** Zróbmy to.  
 **Chloe:** Ja pierdolę! Już wszedł?  
