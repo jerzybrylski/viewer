@@ -39,3 +39,16 @@ Polecenia nie nadpisują istniejącego pliku wyjściowego. Inwentarz i partie s�
 ## Następny etap
 
 Przeglądać partie według priorytetu, stosując glosariusz i źródło, z kontekstem całej sceny tam, gdzie kilka linijek nie wystarcza. Sygnały są wyłącznie filtrem: obejmują również formy poprawne i nie wyłapują wszystkich problemów. Potrzebny jest dalszy przegląd rekordów bez sygnału oraz testy runtime; nigdy nie deklarować kompletnego audytu na podstawie pustej kolejki kandydatów.
+
+## Węższa kolejka sprzeczności (2026-10-30)
+
+Na prośbę o kolejkę znacznie mniejszą niż 14 tys. dodano `tools/focus_gender_candidates.py`. Nie ucina wyników do ustalonej liczby i nie zmienia tłumaczenia. Wykrywa wybrane sprzeczności form pierwszej osoby z przypisanym nagłówkiem, drugiej osoby z hipotetycznym rozmówcą oraz ograniczony zestaw orzeczników i `sam/sama`. Jeżeli najbliżsi różni mówcy po obu stronach wskazują różne osoby, nie wybiera adresata. Wynik podaje ID, tekst i uzasadnienie, ale ID sąsiadów trzeba odnaleźć w inwentarzu lub szerszej kolejce; przed decyzją trzeba przeczytać rzeczywistą scenę.
+
+```bash
+python3 games/the-genesis-order/tools/inventory_gender_review.py --output /tmp/tgo-focus-inventory.jsonl
+python3 games/the-genesis-order/tools/focus_gender_candidates.py --input /tmp/tgo-focus-inventory.jsonl --output /tmp/tgo-focus.jsonl
+```
+
+Na aktualnym inwentarzu: **126 rekordów** (74 z hipotezą adresata, 32 pierwsza osoba, 11 orzecznik, 9 `sam/sama`; kategorie mogą się pokrywać). To nie liczba potwierdzonych błędów ani oszacowanie liczby wszystkich błędów. Przegląd kilku wyników wykazał fałszywe alarmy, np. „Erica! Zabrałaś duszę Eriki!?” z hipotetycznym adresatem Drab oraz „Sam nie zwiotczeje” przypisane mówiącej. Nagłówek może wskazywać ciało w scenie opętania; także nazwa sąsiada nie dowodzi adresata ani ścieżki. Precyzji nie zmierzono na reprezentatywnej próbie.
+
+Kontrola czułości: w pamięci przywrócono pole `before` każdego z 34 wpisów `corrected` rejestru, nadano im status `unreviewed`, pozostawiono bieżące sąsiedztwo, po czym uruchomiono `focus()` dla całego inwentarza. Sito wskazało **19 z 34**. To nie jest reprezentatywna próba ani szacunek rzeczywistej czułości: przykłady były znane podczas projektowania, a rejestr obejmuje także cofniętą własną korektę opętania (`fc45...`), więc nie wszystkie pola `before` są błędami. Pozostałe 15 nie dostało sygnału. W szczególności samo wąskie sito nie wystarcza do pełnego audytu; należy zachować szerszą kolejkę i badać również rekordy bez sygnału. Wyniki wymagają indywidualnego rozstrzygnięcia, nigdy masowej korekty.

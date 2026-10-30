@@ -118,3 +118,6 @@ CE454 i CE456: `Er` to ciało Erici, faktycznie mówi Daemalius; zastosowano mę
 ### Systemowa kolejka partii
 
 Na prośbę właściciela dodano `tools/prepare_gender_review_batches.py`, który z odtwarzalnego inwentarza tworzy priorytetyzowane grupy identycznych źródeł/przekładów z indywidualnymi ID, sąsiedztwem i warunkami. Polecenia, wyniki i ważne ograniczenia (w tym brak automatycznej walidacji hasha sąsiedztwa i brak dowodu kompletności) w `GENDER_SYSTEM_REVIEW.md`. Na obecnym stanie 14 178 rekordów ma sygnały, 25 479 bez sygnału nadal wymagają przeglądu; nie są to liczniki błędów. Kontynuować partiami, decyzje i tłumaczenia rozstrzygać w kontekście, nie stosować automatycznych zamian. Korpus ani ZIP-y nie zmienione; 163 testy OK. Audyt nieukończony.
+
+### Aktualizacja: wąskie sito rodzaju (2026-10-30)
+Użytkownik oczekiwał kilkuset konkretniej uzasadnionych kandydatów zamiast 14 178 szerokich sygnałów. `tools/focus_gender_candidates.py` daje 126 hipotez bez limitu i bez zmian tekstu, ale ma jawne fałszywe alarmy i tylko 19/34 w niereprezentatywnym teście historycznym. Szczegóły, komendy i ograniczenia w `docs/GENDER_SYSTEM_REVIEW.md`. Najpierw czytać scenę i weryfikować mówcę, gałąź oraz adresata; wąska kolejka nie zastępuje pełnego audytu ani szerszej kolejki. Brak nowych korekt korpusu lub przebudowy paczek w tej zmianie.
