@@ -12,7 +12,7 @@
 
 ### Decyzja
 
-ZABRONIONE jest automatyczne MT słownikowe/regułowe/statystyczne poza LLM w kontekście sceny. Dozwolone wyłącznie LLM w kontekście (mapa/event/mówca/sąsiednie kwestie), z korektą, z zachowaniem `1Hero` i glosariusza (Toma/Anachorismos/Daemalius/Lilith). Buildery muszą mieć ręczne tłumaczenia LLM, filtr `known`+`keep_source_value`+`/^`+`noalpha`, `len==exact`, `validate 0`, `py_compile OK` i pełny zielony aktualny zestaw testów (obecnie `88/88`).
+ZABRONIONE jest automatyczne MT słownikowe/regułowe/statystyczne poza LLM w kontekście sceny. Dozwolone wyłącznie LLM w kontekście (mapa/event/mówca/sąsiednie kwestie), z korektą, z zachowaniem `1Hero` i glosariusza (Toma/Anachorismos/Daemalius/Lilith). Buildery muszą mieć ręczne tłumaczenia LLM, filtr `known`+`keep_source_value`+`/^`+`noalpha`, `len==exact`, `validate 0`, `py_compile OK` i pełny zielony aktualny zestaw testów (obecnie `148/148`).
 
 ### Konsekwencje
 

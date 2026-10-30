@@ -54,6 +54,51 @@ class VerbFormTests(unittest.TestCase):
         self.assertIsNone(gender.swap_verb_form("kościołem", "F", "1"))
         self.assertIsNone(gender.swap_verb_form("działam", "M", "1"))
 
+    def test_ist_compounds_feminine_to_masculine(self):
+        """Złożenia „iść” wymagają „szed”, nie „sz” — inaczej wychodzi „weszłem”."""
+        cases = {
+            "weszłam": "wszedłem",
+            "zeszłam": "zszedłem",
+            "odeszłam": "odszedłem",
+            "podeszłam": "podszedłem",
+            "przyszłam": "przyszedłem",
+            "doszłam": "doszedłem",
+            "poszłam": "poszedłem",
+            "obeszłam": "obeszedłem",
+            "zeszłabym": "zszedłbym",
+            "weszłaś": "wszedłeś",
+            "przyszłaś": "przyszedłeś",
+        }
+        for fem, masc in cases.items():
+            person = "2" if fem.endswith(("łaś", "łabyś")) else "1"
+            with self.subTest(fem=fem):
+                self.assertEqual(gender.swap_verb_form(fem, "M", person), masc)
+
+    def test_ist_compounds_masculine_to_feminine(self):
+        """Kierunek odwrotny: „wszedłem” → „weszłam”, a nie „wszłam”."""
+        cases = {
+            "wszedłem": "weszłam",
+            "zszedłem": "zeszłam",
+            "odszedłem": "odeszłam",
+            "podszedłem": "podeszłam",
+            "przeszedłem": "przeszłam",
+            "wyszedłem": "wyszłam",
+            "przyszedłem": "przyszłam",
+        }
+        for masc, fem in cases.items():
+            with self.subTest(masc=masc):
+                self.assertEqual(gender.swap_verb_form(masc, "F", "1"), fem)
+
+    def test_unknown_prefix_is_not_guessed(self):
+        """„usłyszłam” nie jest złożeniem „iść” — lepiej nie zmieniać niż zgadywać."""
+        self.assertIsNone(gender.swap_verb_form("usłyszłam", "M", "1"))
+        self.assertIsNone(gender.ist_compound_stem("usłysz", "M")[1])
+
+    def test_ist_lookalike_does_not_block_normal_verbs(self):
+        """Zwykłe czasowniki na „-łam” dalej działają zwykłą regułą."""
+        self.assertEqual(gender.swap_verb_form("znalazłam", "M", "1"), "znalazłem")
+        self.assertEqual(gender.swap_verb_form("powiedziałam", "M", "1"), "powiedziałem")
+
 
 class PredicateTests(unittest.TestCase):
     def edits(self, text: str, gender_code: str, person: str = "1"):
