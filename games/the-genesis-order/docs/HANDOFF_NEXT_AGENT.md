@@ -94,3 +94,7 @@ i uruchomić testy — `tests/test_patch_artifacts.py` pilnuje, żeby ZIP, sidec
 ## Aktualizacja: zgłoszenie Hannah → Mox (2026-10-30)
 
 Właściciel wskazał „Nie proszę, żebyś cokolwiek mówiła” w odpowiedzi na kwestię Moxa. Poprawiono ją i trzy inne jednoznaczne konstrukcje warunkowe; szczegóły i ID w końcowym wpisie `EXPERIMENT_LOG.md`. Wcześniejsze stwierdzenie „0 kwestii” dotyczyło wyłącznie wzorców rozpoznawanych przez skrypt, nie całego korpusu. **Audyt kontekstowy rodzajów pozostaje otwarty**. Aktualny patch SHA-256 `9697ac198428cc00606b56978dcedbe68ca239f387a4b705de88c48bb228156c`, Czytanka `13bd38c8dd15a4721ceff308b6e5a53adda9374fab5414248f568ce0ef612fc7`; supersedują starsze hashe w tym dokumencie. Nowej paczki nie testowano w grze i nie publikowano na Drive. 150 testów OK. Czytankę zaktualizowano punktowo i przepakowano, a nie odtworzono ze źródeł gry.
+
+## Audyt rodzaju — kolejna sesja, NIEUKOŃCZONY
+
+Właściciel zlecił pełny przegląd wszystkich rodzajów. Rozpoczęto go, poprawiając kolejnych 11 jednoznacznych błędów i tworząc odtwarzalny inwentarz 39 917 tłumaczeń. Liczby, ID, ograniczenia, polecenie i aktualne hashe: `GENDER_AUDIT_2026-10-30.md`. Kolejka oznacza wszystko jako nieprzejrzane i jest tylko początkiem: konieczne są przegląd kontekstowy i trwały rejestr decyzji, w tym poprzednich 618 automatycznych zmian oraz rekordów bez flag. Nie ogłaszać audytu skończonym. 152 testy OK; nowy patch nie testowany w grze i nie opublikowany na Drive.

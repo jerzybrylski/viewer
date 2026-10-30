@@ -26,7 +26,7 @@
 **Mox:** Ale ciasno!  
 **Ella:** Pieprzyć to! Pieprzyć to!  
 **Ella:** Rżnij mnie! Uderzaj mnie w tyłek biodrami!  
-**Mox:** Chcę, żebyś dla mnie doszedł.  
+**Mox:** Chcę, żebyś dla mnie doszła.  
 **Ella:** Zaraz! Zaraz dojdę!  
 **Mox:** Kurwa! Zaraz też przez ciebie dojdę!  
 **Ella:** Chcę, żebyś spuścił mi się na twarz! Zalej ją swoją spermą!  

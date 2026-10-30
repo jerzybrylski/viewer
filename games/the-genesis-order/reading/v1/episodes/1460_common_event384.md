@@ -9,7 +9,7 @@
 **Madalyn:** Agh!!!  
 **Madalyn:** Woda święcona!?  
 **Mox:** Nie uciekniesz! A teraz ją puść!  
-**Madalyn:** Chcesz, żebym ją puścił?  
+**Madalyn:** Chcesz, żebym ją puściła?  
 **Mox:** Zrób to!  
 **Madalyn:** No dalej, dziewczyno…  
 **Madalyn:** Okażmy naszemu bohaterskiemu detektywowi trochę wdzięczności.  

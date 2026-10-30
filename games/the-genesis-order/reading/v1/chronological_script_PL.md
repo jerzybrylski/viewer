@@ -22885,7 +22885,7 @@
 **Lillian:** O ile wiem, stało się to na początku tego roku, jakieś pięć, może sześć miesięcy temu.  
 **Melissa:** Czy ktoś mógł rozmawiać z Madalyn?  
 **Lillian:** Tak. Mamy pokojówkę.  
-**Melissa:** Chętnie bym z nią porozmawiał.  
+**Melissa:** Chętnie bym z nią porozmawiała.  
 **Lillian:** Nie mieszka z nami. Przyjeżdża do nas z miasta.  
 **Mox:** Gdzie mieszka? Może nam pani powiedzieć?  
 **Lillian:** Mieszka w apartamentowcu w centrum. Nazywa się Erica Abraham.  
@@ -29679,7 +29679,7 @@
 
 ## Mapa 041 — Stodoła / event 35 / strona 1
 
-**Mox:** To worek nawozu, ale jest za ciężki, żebym go nosiła…  
+**Mox:** To worek nawozu, ale jest za ciężki, żebym go nosił…  
 **Mox:** Może gdybym był silniejszy, dałbym radę go wziąć.  
 
 ---
@@ -30457,7 +30457,7 @@
 **Madalyn:** Agh!!!  
 **Madalyn:** Woda święcona!?  
 **Mox:** Nie uciekniesz! A teraz ją puść!  
-**Madalyn:** Chcesz, żebym ją puścił?  
+**Madalyn:** Chcesz, żebym ją puściła?  
 **Mox:** Zrób to!  
 **Madalyn:** No dalej, dziewczyno…  
 **Madalyn:** Okażmy naszemu bohaterskiemu detektywowi trochę wdzięczności.  
@@ -30668,7 +30668,7 @@
 **Hannah:** Oczywiście, że jest wyboista! Przecież tam są ziarenka!  
 **Ella:** Przychodzi mi do głowy coś, co chciałabym zrobić z tą kukurydzą, poza ugotowaniem jej.  
 **Carol:** Hahahahaha! Och, Ello, ale z ciebie żartownisia!  
-**Mox:** Haha! Chętnie bym to zobaczyła.  
+**Mox:** Haha! Chętnie bym to zobaczył.  
 **Ella:** Lepiej uważaj. Mogę ci zrobić niezłe przedstawienie.  
 **Hannah:** Nie chcemy oglądać kukurydzy w twojej cholernej cipce.  
 **Carol:** Trochę kultury, Hannah. Jest naszym gościem.  
@@ -31936,7 +31936,7 @@
 **Mox:** Ale ciasno!  
 **Ella:** Pieprzyć to! Pieprzyć to!  
 **Ella:** Rżnij mnie! Uderzaj mnie w tyłek biodrami!  
-**Mox:** Chcę, żebyś dla mnie doszedł.  
+**Mox:** Chcę, żebyś dla mnie doszła.  
 **Ella:** Zaraz! Zaraz dojdę!  
 **Mox:** Kurwa! Zaraz też przez ciebie dojdę!  
 **Ella:** Chcę, żebyś spuścił mi się na twarz! Zalej ją swoją spermą!  
@@ -40302,7 +40302,7 @@
 ## Mapa 061 — Prysznic / event 4 / strona 1
 
 **Mox:** Co za palant!  
-**Mox:** Gdybym go trafiła, leżałby nieprzytomny!  
+**Mox:** Gdybym go trafił, leżałby nieprzytomny!  
 **Mox:** Czemu tak bardzo starałem się zaimponować Melissie?  
 **Mox:** Trzeba było po prostu poczekać, aż pierwszy wykona ruch.  
 **Mox:** /curse  
@@ -59258,7 +59258,7 @@
 **Mox:** Zgadzam się. Może po prostu usiądziemy i pogadamy.  
 **Hannah:** Kręcę ponownie!  
 **Hannah:** Wygląda na to, że Chloe wygrała!  
-**Mox:** A gdyby wypadło na ciebie? Chcesz, żebym cię pocałowała?  
+**Mox:** A gdyby wypadło na ciebie? Chcesz, żebym cię pocałował?  
 **Hannah:** Nie wypadło na mnie! Wypadło na Chloe i teraz musisz ją pocałować.  
 **Chloe:** Chyba zasady to zasady.  
 **Mox:** Naprawdę to zrobimy?  
@@ -64459,7 +64459,7 @@
 **Nellie:** Mówiłam, że go znajdę.  
 **Duncan:** Witaj ponownie, detektywie Canmore.  
 **Nellie:** Oto on. Dokładnie jak prosiłeś.  
-**Duncan:** Co ja bym bez ciebie zrobiła, Nellie?  
+**Duncan:** Co ja bym bez ciebie zrobił, Nellie?  
 **Drab:** Mamy go zamknąć?  
 **Duncan:** Wyjdźcie… Wszyscy.  
 **Drab:** Na pewno?  
@@ -65406,7 +65406,7 @@
 **Arianna:** Nie, nie ma mowy.  
 **Arianna:** Takie rzeczy nie powinny być wynoszone z ich wymiaru.  
 **Ella:** …  
-**Ella:** Pewnie nie ma sposobu, żebym cię przekonał do oddania tego?  
+**Ella:** Pewnie nie ma sposobu, żebym cię przekonała do oddania tego?  
 **Arianna:** Zdecydowanie nie.  
 **Ella:** …  
 **Ella:** Wiesz co… Chyba masz rację. Zabieranie rzeczy z Piekła jest zbyt niebezpieczne.  
@@ -65622,7 +65622,7 @@
 **Mox:** Co do cholery?  
 **Erica:** Widzisz? Mówiłam ci.  
 **Mox:** Wygląda na to, że ta beczka coś zasłania…  
-**Mox:** Może gdybym ją przesunęła, słyszelibyśmy lepiej.  
+**Mox:** Może gdybym ją przesunął, słyszelibyśmy lepiej.  
 **Erica:** Próbowałam ją przesunąć. Jest naprawdę ciężka.  
 **Mox:** Pozwól, spróbuję ją przesunąć.  
 
@@ -66271,7 +66271,7 @@
 
 ## Mapa 217 — Grobowiec Casuli / event 20 / strona 1
 
-**Erica:** Gdybym ja budował to miejsce, na pewno zrobiłabym drogę ucieczki.  
+**Erica:** Gdybym ja budowała to miejsce, na pewno zrobiłabym drogę ucieczki.  
 **Mox:** Szukajmy dalej.  
 **Erica:** Może mapa ma wskazówkę.  
 

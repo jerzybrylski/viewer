@@ -10,6 +10,17 @@ CASES = {
     '772aac3f30b35ea1f16c': 'Gdybym cię nie znał, pomyślałbym, że próbujesz mi zaimponować.',
     'e6206f90f7f810868ff3': 'Gdybym to wiedział, powiedziałbym ci.',
     'fc45bddff4fb76abcab1': 'Otworzyłam szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzyła.',
+    '1e453d51ecdd12c719e8': 'Chcesz, żebym ją puściła?',
+    '989a5b730672c05374b5': 'Może gdybym ją przesunął, słyszelibyśmy lepiej.',
+    'b548da6db98c6e1482b3': 'Co ja bym bez ciebie zrobił, Nellie?',
+    '805322718946b90a0c26': 'Pewnie nie ma sposobu, żebym cię przekonała do oddania tego?',
+    'a74a05017f8faa31c858': 'Gdybym ja budowała to miejsce, na pewno zrobiłabym drogę ucieczki.',
+    '44e2f920fc02d2107b08': 'To worek nawozu, ale jest za ciężki, żebym go nosił…',
+    'b51aa795298dc2e34fb5': 'Gdybym go trafił, leżałby nieprzytomny!',
+    '6111effb5c551baea025': 'Haha! Chętnie bym to zobaczył.',
+    '831f21f7534cd4f71410': 'A gdyby wypadło na ciebie? Chcesz, żebym cię pocałował?',
+    '00f7684301aab72ed57d': 'Chętnie bym z nią porozmawiała.',
+    '6be01627eba58ff91c0e': 'Chcę, żebyś dla mnie doszła.',
 }
 
 
