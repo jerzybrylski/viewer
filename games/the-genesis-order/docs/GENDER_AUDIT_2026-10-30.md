@@ -229,3 +229,36 @@ Rodzina `sam/sama` nie jest czysta (4/176), ale też nie jest to „fałszywy al
 - Patch: SHA-256 `ba6f50b2457883f06c1fb1908e1e4846973d2054a8bae79d32d47b3ac28ad445`; payload `9fa2b264…`.
 - Czytanka: 4 epizody i 4 wystąpienia w skrypcie; SHA-256 `5beb42a8cf95936410601ad2248c6642d14750d40e776f2366e725d9f9e38658`.
 - **173 testy OK**. Paczek nie testowano w grze. Audyt pozostaje **nieukończony** — kolejne masy to `orzecznik_do_przegladu` (1 865), `inna_forma_rodzajowa` (9 699) i 28 409 rekordów bez sygnału.
+
+## Kontynuacja — `orzecznik_do_przegladu`, wycinek drugiej osoby (343 hipotezy, 8 korekt)
+
+Rodzina `orzecznik` liczy 1 789 nierozpatrzonych rekordów, więc podzielono ją na wycinki. Pierwszy: **druga osoba w scenach dwuosobowych** — tam adresata wyznacza jedyny inny mówca o znanej płci (343 rekordy). To najbezpieczniejszy wycinek, bo nie wymaga zgadywania obsady.
+
+| Wynik | Liczba |
+|---|---:|
+| `confirmed` | 335 |
+| `corrected` | 8 |
+
+**Korekty (wszystkie to orzecznik lub forma osobowa niezgodna z adresatem):**
+
+- `700867fe8bd6c4d95fb4` (CE464) — Mox do Andrei: „Jesteś **mój**, kochanie!” → „**moja**”.
+- `538d43ac9d06104f5b22` (CE320) — Mox do Elli: „Skoro jesteś **sławny**” → „**sławna**”.
+- `37eee3a725a0b0f794f4` (ARIANNA, MC Home) — Mox do Arianny: „będziesz **musiał** żyć dalej” → „**musiała**”.
+- `cc1e71a441df00816b80` (CE332) — Mox do Erici: „będziesz **dochodził**” → „**dochodziła**”.
+- `31ddd9da57784bf35f28` (EV008) — Mox do Melissy: „Jesteś o połowę **mniejszy**” → „**mniejsza**”.
+- `94a6a20e5e4174717bcb` (EV050) — Mox do Nellie: „będziesz **trzymał** mnie w niewiedzy” → „**trzymała**”.
+- `1266b865a66d249a5831` (MAIN TASHA) — Tasha do Moxa: „Aż tak **popularna** jesteś?” → „**popularny**”.
+- `ee89ee8235a44e211bc2` (EV014) — Tasha do Moxa: „**Powinnaś** zapuścić wąsy” → „**Powinieneś**”.
+
+Sześć błędów to żeńska forma tam, gdzie mówi lub jest adresowany mężczyzna; dwa odwrotnie — Tasha zwraca się do Moxa po żeńsku.
+
+### Szczegół metodologiczny
+
+Dwa razy skrypt korekt odmówił zapisu, bo `old` w moim pliku obejmował tylko fragment zdania, a rekord zawierał całą wypowiedź. Poprawka: budowanie `old`/`new` z **bieżącego** tekstu rekordu i podmiana samego fragmentu. Warto tak robić zawsze — pełne zdanie bywa inne, niż wynika z sąsiedztwa.
+
+### Stan po tej partii
+
+- Rejestr: **1 402 decyzje** — 1 224 `confirmed`, 163 `corrected`, 15 `deferred`; **38 515** rekordów bez decyzji. Brak duplikatów ID, brak `stale` w inwentarzu.
+- Patch: SHA-256 `247d972b439493fbd74e1386e4344dcdabebcc8901e2bb1e5b076cd839f41b28`; payload `954690d3…`.
+- Czytanka: 8 epizodów i 8 wystąpień w skrypcie; SHA-256 `767175173730fd8279ce4a0bdcb991464aac163da72df6f5dfd1de919f69f107`.
+- **173 testy OK**. Paczek nie testowano w grze. Audyt nieukończony — pozostało 1 446 rekordów `orzecznik` (w tym 804 drugiej osoby w scenach wielomówczych) i 985 pierwszej osoby.

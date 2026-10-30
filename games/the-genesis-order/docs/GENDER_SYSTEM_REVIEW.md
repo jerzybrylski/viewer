@@ -31,7 +31,7 @@ Polecenia nie nadpisują istniejącego pliku wyjściowego. Inwentarz i partie s�
 
 ## Pomiar na stanie repozytorium z 2026-10-30 (po przeglądzie wąskiej kolejki)
 
-- 39 917 przetłumaczonych rekordów, **1 059** decyzji w rejestrze (889 `confirmed`, 155 `corrected`, 15 `deferred`); 39 530 rekordów kwalifikuje się do ponownego / pierwszego przeglądu.
+- 39 917 przetłumaczonych rekordów, **1 402** decyzje w rejestrze (1 224 `confirmed`, 163 `corrected`, 15 `deferred`); 39 530 rekordów kwalifikuje się do ponownego / pierwszego przeglądu.
 - 14 158 rekordów z co najmniej jednym sygnałem, zgrupowanych w 13 280 grup; **28 409** bez sygnału nadal wymaga przeglądu. Liczby są przybliżeniem nakładu selekcji, nie liczbą błędów. Priorytety są heurystyczne, duża liczba trafień jest poprawna.
 - Wąskie sito po przeglądzie zwraca **1** pozycję (odłożona kwestia Kimberly, `eb528be8f3a7a510c15d`). To nie jest miara kompletności: sito obejmuje wybrane wzorce i nie widzi większości rekordów bez sygnału.
 - Kontrolny test na 34 historycznych poprawionych rekordach z rejestru wykrywa sygnał dla 34/34 dawnych tekstów bez korzystania ze znacznika wcześniejszej edycji. To zbiór celowo dobranych znanych błędów użytych w projektowaniu; wynik **nie jest miarą skuteczności na reszcie gry**, nie potwierdza jakości kontekstu ani nie obejmuje fałszywie dodatnich wyników.

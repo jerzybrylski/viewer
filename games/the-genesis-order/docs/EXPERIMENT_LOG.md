@@ -642,3 +642,19 @@ Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa oso
 **Artefakty:** patch `ba6f50b2457883f06c1fb1908e1e4846973d2054a8bae79d32d47b3ac28ad445` (payload `9fa2b264…`); Czytanka `5beb42a8cf95936410601ad2248c6642d14750d40e776f2366e725d9f9e38658`.
 
 **Testy:** 173 OK. Audyt nieukończony.
+
+## 2026-10-30 — `orzecznik` w drugiej osobie, wycinek scen dwuosobowych (343, 8 korekt)
+
+**Wycinek:** 2 866 rekordów `orzecznik` → 1 789 bez decyzji → z nich 819 drugiej osoby → 343 w scenach z dokładnie jednym innym mówcą o znanej płci (adresat wyznaczony bez zgadywania).
+
+**Wynik:** 335 `confirmed`, 8 `corrected`.
+
+**Korekty:** Mox → Andrea „Jesteś mój” → „moja” (`700867fe8bd6c4d95fb4`); Mox → Ella „jesteś sławny” → „sławna” (`538d43ac9d06104f5b22`); Mox → Arianna „będziesz musiał” → „musiała” (`37eee3a725a0b0f794f4`); Mox → Erica „będziesz dochodził” → „dochodziła” (`cc1e71a441df00816b80`); Mox → Melissa „mniejszy” → „mniejsza” (`31ddd9da57784bf35f28`); Mox → Nellie „trzymał” → „trzymała” (`94a6a20e5e4174717bcb`); Tasha → Mox „popularna jesteś” → „popularny” (`1266b865a66d249a5831`); Tasha → Mox „Powinnaś zapuścić wąsy” → „Powinieneś” (`ee89ee8235a44e211bc2`).
+
+**Błąd procesu (naprawiony):** dwa `old` w pliku korekt obejmowały tylko fragment, a rekord zawierał całe zdanie — skrypt odmówił zapisu. Od teraz `old`/`new` budowane z bieżącego tekstu rekordu, podmieniana jest tylko forma.
+
+**Stan rejestru:** 1 402 decyzje — 1 224 `confirmed`, 163 `corrected`, 15 `deferred`; 38 515 rekordów bez decyzji; brak duplikatów i `stale`.
+
+**Artefakty:** patch `247d972b439493fbd74e1386e4344dcdabebcc8901e2bb1e5b076cd839f41b28` (payload `954690d3…`); Czytanka `767175173730fd8279ce4a0bdcb991464aac163da72df6f5dfd1de919f69f107`.
+
+**Testy:** 173 OK. Audyt nieukończony.

@@ -13353,7 +13353,7 @@
 **Nellie:** Wygląda na puste.  
 **Mox:** Planujesz to obrabować?  
 **Nellie:** Nie w tej chwili.  
-**Mox:** Wiem, że Andrea ma jednostkę pod przykrywką. Powiesz mi, o co chodzi, czy dalej będziesz trzymał mnie w niewiedzy?  
+**Mox:** Wiem, że Andrea ma jednostkę pod przykrywką. Powiesz mi, o co chodzi, czy dalej będziesz trzymała mnie w niewiedzy?  
 **Nellie:** Niech na razie pozostanie w tajemnicy.  
 **Mox:** Powinienem powiedzieć Andrei o niej? Skoro teraz pracuję nad sprawą Gildii, powinienem wiedzieć, kto jest w jednostce pod przykrywką.  
 
@@ -16225,7 +16225,7 @@
 **Arianna:** Czy ty też coś do mnie czujesz, tak jak ja do ciebie?  
 **Mox:** Oczywiście, że mi na tobie zależy.  
 **Mox:** Wiesz, że w moim życiu jest wiele ważnych kobiet…  
-**Mox:** A ty jesteś demonem, a ja człowiekiem… Kiedyś umrę, a ty będziesz musiał żyć dalej.  
+**Mox:** A ty jesteś demonem, a ja człowiekiem… Kiedyś umrę, a ty będziesz musiała żyć dalej.  
 **Arianna:** To mnie smuci.  
 **Mox:** Możemy się tym cieszyć, póki trwa.  
 **Arianna:** Jak cieszyć się tym, póki trwa?  
@@ -27739,7 +27739,7 @@
 **Andrea:** Jak ty się w ogóle we mnie mieścisz? Rozciągasz mnie!  
 **Mox:** Ściśnij mojego kutasa tą mokrą, ciepłą cipką!  
 **Andrea:** Bierz mnie, Mox!  
-**Mox:** Jesteś mój, kochanie!  
+**Mox:** Jesteś moja, kochanie!  
 **Andrea:** Tak!  
 **Andrea:** Zasłużyłeś, kochanie. Zasłużyłeś na moją cipkę!  
 **Mox:** Czuję każdy twój centymetr! Wypełniam cię całą!  
@@ -32045,7 +32045,7 @@
 **Ella:** Daj mi swój. Wyślę ci nagrodę za dobrze wykonaną robotę.  
 **Mox:** A co cię skłania do myślenia, że rozdaje swój numer?  
 **Ella:** Trudno cię zdobyć?  
-**Mox:** Skoro jesteś sławny, mogę zrobić wyjątek.  
+**Mox:** Skoro jesteś sławna, mogę zrobić wyjątek.  
 **Ella:** Jasne…  
 **Ella:** Powiedz mi, Mox. Masz dziewczynę?  
 **Mox:** Na razie jestem żonaty z pracą.  
@@ -33082,7 +33082,7 @@
 **Mox:** Tasho, potrzebuję dwustronnego dildo.  
 **Tasha:** Dla twoich mam?  
 **Mox:** Co!? Nie! To dla… mojej dziewczyny i… drugiej dziewczyny.  
-**Tasha:** Aż tak popularna jesteś?  
+**Tasha:** Aż tak popularny jesteś?  
 **Mox:** Wystarczająco. Masz to czy nie?  
 **Tasha:** Mam na stanie tylko jednostronne dildo…  
 **Tasha:** Ale mogę sprzedać ci dwa.  
@@ -34074,7 +34074,7 @@
 **Mox:** Aaargh!  
 **Tasha:** Słuchaj! Zmień styl i przez jakiś czas się nie wychylaj. Wtedy odzyskasz pracę.  
 **Mox:** To tak nie działa.  
-**Tasha:** Powinnaś zapuścić wąsy. Będziesz wyglądać bardziej jak gliniarz. Na pewno im się spodoba.  
+**Tasha:** Powinieneś zapuścić wąsy. Będziesz wyglądać bardziej jak gliniarz. Na pewno im się spodoba.  
 **Mox:** To najgłupszy pomysł, jaki słyszałem.  
 **Tasha:** Proszę. Weź to.  
 **Tasha:** Załóż je i oczaruj wszystkich.  
@@ -41171,7 +41171,7 @@
 **Melissa:** Masz ochotę wejść ze mną na ring?  
 **Mox:** Żartujesz…  
 **Melissa:** Trenowałam. Ty obijałeś się. Pokonam cię bez problemu.  
-**Mox:** Jesteś o połowę mniejszy ode mnie.  
+**Mox:** Jesteś o połowę mniejsza ode mnie.  
 **Melissa:** Nie przesadzaj.  
 **Mox:** Dobra… Rozstrzygniemy remis sparingiem.  
 **Melissa:** Wskakuj w strój, duży chłopcze. Zróbmy to.  
@@ -55912,7 +55912,7 @@
 **Erica:** Był tak potężny, że rozbito go na sześć części i rozrzucono po całej krainie, by żaden mężczyzna nie mógł go złożyć.  
 **Mox:** Zniszczyli magiczny posąg, żeby mężczyźni się nie napalali?  
 **Erica:** Cóż… Tak głosi legenda. Wiem, że to nie ma sensu.  
-**Mox:** Czyli jeśli znajdziesz wszystkie sześć części, będziesz dochodził jeszcze częściej?  
+**Mox:** Czyli jeśli znajdziesz wszystkie sześć części, będziesz dochodziła jeszcze częściej?  
 **Erica:** Legenda tak nie mówi. Posąg zapewnia wiele mocy seksualnych, ale nie wiem dokładnie jakich.  
 **Erica:** Podobno każda część daje inną moc…  
 **Erica:** Nigdy w to nie wierzyłam. Nikt nie wierzył…  
