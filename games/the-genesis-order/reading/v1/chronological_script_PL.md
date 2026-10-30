@@ -58620,7 +58620,7 @@
 **Mox:** Jak sprawić, by Erica trafiła do piekła?  
 **Lillian:** Przez bluźnierstwo.  
 **Arianna:** Jesteś szalona.  
-**Lillian:** Jesteś ślepy.  
+**Lillian:** Jesteś ślepa.  
 **Ella:** Jak Erica ma dopuścić się bluźnierstwa, jeśli już nie żyje?  
 **Lillian:** Musi użyć świętej relikwii jako zabawki erotycznej.  
 **Mox:** Cholera.  
@@ -58648,7 +58648,7 @@
 **Lillian:** Erica zasługuje na życie. Powiedz jej, co ma zrobić, a ja ją uratuję, gdy wejdzie do piekła.  
 **Mox:** Arianno?  
 **Arianna:** Spróbuję… Ale nie zaryzykuję upadku z łaski… Nie chcę stać się demonem.  
-**Lillian:** Teraz oddaj mi moje ciało, a ciało Erici będzie twoje, byś je strzegł.  
+**Lillian:** Teraz oddaj mi moje ciało, a ciało Erici będzie twoje, byś je strzegła.  
 **Ella:** Jakiekolwiek wałki, a utnę ci głowę.  
 **Lillian:** Głowę Erici?  
 **Ella:** Słuszna uwaga.  
@@ -70479,7 +70479,7 @@
 **Demon 2:** Ich miejsce jest w piekle, razem z nami!  
 **Demon 3:** Śmiesz krzywdzić moje siostry?! Powinnam zlasować ci mózg!  
 **Nellie:** Zlasuj nam mózgi!  
-**Andrea:** Chcę, żebyś wyprał mi mózg seksem!  
+**Andrea:** Chcę, żebyś wyprała mi mózg seksem!  
 **Erica:** Jestem taka niegrzeczna!  
 **Demon 3:** Dobrze! Poddaj się swoim pragnieniom!  
 **Erica:** O kurwa!  

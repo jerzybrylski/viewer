@@ -31,7 +31,7 @@ Polecenia nie nadpisują istniejącego pliku wyjściowego. Inwentarz i partie s�
 
 ## Pomiar na stanie repozytorium z 2026-10-30 (po przeglądzie wąskiej kolejki)
 
-- 39 917 przetłumaczonych rekordów, **755** decyzji w rejestrze (611 `confirmed`, 130 `corrected`, 14 `deferred`); 39 530 rekordów kwalifikuje się do ponownego / pierwszego przeglądu.
+- 39 917 przetłumaczonych rekordów, **850** decyzji w rejestrze (702 `confirmed`, 133 `corrected`, 15 `deferred`); 39 530 rekordów kwalifikuje się do ponownego / pierwszego przeglądu.
 - 14 158 rekordów z co najmniej jednym sygnałem, zgrupowanych w 13 280 grup; **28 409** bez sygnału nadal wymaga przeglądu. Liczby są przybliżeniem nakładu selekcji, nie liczbą błędów. Priorytety są heurystyczne, duża liczba trafień jest poprawna.
 - Wąskie sito po przeglądzie zwraca **1** pozycję (odłożona kwestia Kimberly, `eb528be8f3a7a510c15d`). To nie jest miara kompletności: sito obejmuje wybrane wzorce i nie widzi większości rekordów bez sygnału.
 - Kontrolny test na 34 historycznych poprawionych rekordach z rejestru wykrywa sygnał dla 34/34 dawnych tekstów bez korzystania ze znacznika wcześniejszej edycji. To zbiór celowo dobranych znanych błędów użytych w projektowaniu; wynik **nie jest miarą skuteczności na reszcie gry**, nie potwierdza jakości kontekstu ani nie obejmuje fałszywie dodatnich wyników.
@@ -39,7 +39,7 @@ Polecenia nie nadpisują istniejącego pliku wyjściowego. Inwentarz i partie s�
 
 ## Sygnały o wysokiej precyzji — nie wymagają dalszego przeglądu pojedynczo
 
-Trzy rodziny sprawdzono w całości (362 hipotezy): `winien/winna` (43), forma po `bym/żebym/gdybym` (181) i `powinienem/powinnam` (138). Wynik: **355 potwierdzeń, 7 odłożeń, 0 korekt**. Wszystkie odłożenia to postaci bez mapowanej płci (systemowy NPC z CE25, „Ochrona”). Te sygnały nadają się więc wyłącznie jako kontrola, a nie jako kolejka robocza — masę błędów trzeba szukać w `inna_forma_rodzajowa`, `orzecznik_do_przegladu`, `mozliwy_przymiotnik_lub_rzeczownik` oraz w rekordach bez sygnału.
+Trzy „mówcowe” rodziny sprawdzono w całości (362 hipotezy): `winien/winna` (43), forma po `bym/żebym/gdybym` (181) i `powinienem/powinnam` (138). Wynik: **355 potwierdzeń, 7 odłożeń, 0 korekt**. Rodzina adresacka (`byś/żebyś`, 94 hipotezy) dała jednak **3 korekty** przy 91 potwierdzeniach — adresata nie koduje nagłówek, więc te kwestie trzeba czytać scenami. Wszystkie odłożenia to postaci bez mapowanej płci (systemowy NPC z CE25, „Ochrona”). Te sygnały nadają się więc wyłącznie jako kontrola, a nie jako kolejka robocza — masę błędów trzeba szukać w `inna_forma_rodzajowa`, `orzecznik_do_przegladu`, `mozliwy_przymiotnik_lub_rzeczownik` oraz w rekordach bez sygnału.
 
 ## Podgląd sceny (narzędzie tylko do odczytu)
 

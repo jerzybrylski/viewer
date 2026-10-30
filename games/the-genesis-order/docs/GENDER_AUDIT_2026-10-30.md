@@ -145,3 +145,33 @@ Po wyczerpaniu wąskiego sita sprawdzono trzy kolejne, wąskie rodziny sygnałó
 - Z 618 wcześniejszych automatycznych zmian: bez decyzji pozostaje **396** (ta partia ich nie dotyczyła).
 - Tekst tłumaczeń w tej partii **nie zmienił się**, więc patch (`9f71e99a…`) i Czytanka (`8504ac12…`) pozostają te same — nie było potrzeby przebudowy paczek.
 - `confirmed` nadal znaczy „rozpatrzona forma jest poprawna”, a nie „całe zdanie jest bezbłędne”. Audyt pozostaje **nieukończony**.
+
+## Kontynuacja — `rozdzielny_tryb_adresata` (94 hipotezy, 3 korekty)
+
+Ostatnia niesprawdzona rodzina wąskich sygnałów: forma po `byś/żebyś/gdybyś`, czyli druga osoba. Inaczej niż przy pierwszej osobie, tu trzeba ustalić **adresata**, więc każdą kwestię porównano z odpowiedzią w tej samej wymianie (a w trzech przypadkach z całą sceną).
+
+| Wynik | Liczba |
+|---|---:|
+| `confirmed` | 91 |
+| `corrected` | 2 |
+| `deferred` | 1 |
+
+**Korekty:**
+
+- `e09c348f912ef4a2eed3` (CE457, Andrea): „Chcę, żebyś **wyprał** mi mózg seksem!” → „**wyprała**”. Adresatką jest Demon 3 — mówi o sobie po żeńsku („Powinnam zlasować ci mózg”, „moje siostry”) i odpowiada na tę kwestię w następnej linii.
+- `603bf710b817cd67ac81` (map 183 / event Nellie, Lillian): „…a ciało Erici będzie twoje, byś je **strzegł**” → „**strzegła**”. Adresatką jest Arianna, która w kolejnej kwestii prosi: „Najpierw oddaj mi ciało Erici”.
+
+**Korekta spoza sygnału, znaleziona przy czytaniu tej samej sceny:** `ef785d1b24497be208b8` (map 183, Lillian) — „Jesteś **ślepy**” → „Jesteś **ślepa**”, bo Arianna mówi „Jesteś szalona”, a Lillian odpowiada jej wprost.
+
+**Odłożenie:** `b01c024477b41be0102e` (map 183, Lillian) — „Nigdy byś jej nie znalazł”. Z wymiany nie da się ustalić, czy Lillian mówi do Moxa, Nellie czy Elli; obie formy są równie prawdopodobne, więc tekst zostaje bez zmian.
+
+### Wniosek — pierwsza i druga osoba to nie to samo
+
+Sąsiedni sygnał pierwszej osoby (181 hipotez) nie dał ani jednej korekty, a adresacki — 3 na 94. Powód jest strukturalny: forma po `bym` prawie zawsze dotyczy mówcy, więc heurystyka jest czysta; forma po `byś` zależy od adresata, a tego nagłówek nie koduje. **Rodziny „adresackie” trzeba nadal czytać scenami, rodzin „mówcowych” nie.**
+
+### Stan po tej partii
+
+- Rejestr: **850 decyzji** — 702 `confirmed`, 133 `corrected`, 15 `deferred`; **39 067** rekordów bez decyzji.
+- Patch: `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`, SHA-256 `a89bf8b4cbe54a57ae9ada195c57c1a5db5ec085a8d5485b3ef62410cf2f3fad` (3 748 011 B, 39 917 tłumaczeń, 238 fingerprintów, 427 partii); payload `3a0f9999…`.
+- Czytanka: 2 epizody i 3 wystąpienia w skrypcie zaktualizowane, przepakowana bez zmiany listy 4 399 wpisów — SHA-256 `c0f436017091dba5bac1d196ecc7909aca4893633a1e631452a54b3961ec8b35`.
+- **173 testy OK**. Paczek nie testowano w grze ani nie publikowano na Drive. Audyt pozostaje **nieukończony**.

@@ -581,3 +581,26 @@ Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa oso
 **Artefakty:** bez zmian — tekst tłumaczeń nie był ruszany, więc patch `9f71e99aaaeea93d3cea15c08d96c739e47da7e2074367095e6dd7de3a37c943` i Czytanka `8504ac12e1cea42084ab62bbfcd07e38b8b5fb139b6b5478ff2c5ea31267b565` pozostają aktualne.
 
 **Testy:** `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **173 OK**. Audyt nadal nieukończony; potwierdzenie dotyczy wyłącznie rozpatrzonej formy.
+
+## 2026-10-30 — rodzina adresacka (`byś/żebyś`): 94 hipotezy, 3 korekty
+
+**Wejście:** rejestr 755 decyzji; pozostała niesprawdzona rodzina wąskich sygnałów — `rozdzielny_tryb_adresata` (94 rekordy).
+
+**Metoda:** dla każdej kwestii ustalenie adresata z odpowiedzi w tej samej wymianie; w trzech przypadkach pełna scena (`show_gender_scene.py`).
+
+**Wynik:** 91 `confirmed`, 3 `corrected`, 1 `deferred`.
+
+**Korekty:**
+- `e09c348f912ef4a2eed3` (CE457, Andrea) — „żebyś **wyprał** mi mózg” → „**wyprała**”; adresatką jest Demon 3, mówiąca o sobie po żeńsku („Powinnam zlasować ci mózg”, „moje siostry”) i odpowiadająca w następnej linii.
+- `603bf710b817cd67ac81` (map 183, Lillian) — „byś je **strzegł**” → „**strzegła**”; adresatką jest Arianna (prosi w kolejnej kwestii o ciało Erici).
+- `ef785d1b24497be208b8` (map 183, Lillian) — „Jesteś **ślepy**” → „**ślepa**”; korekta spoza sygnału, z czytania tej samej sceny (Arianna mówi „Jesteś szalona”, Lillian odpowiada jej wprost).
+
+**Odłożenie:** `b01c024477b41be0102e` — „Nigdy byś jej nie znalazł”: z wymiany nie da się ustalić adresata (Mox, Nellie czy Ella).
+
+**Wniosek:** sygnały „mówcowe” (`bym`, `winien`, `powinienem`) są czyste (0 korekt na 362), a „adresackie” trafiają w realne błędy (3/94) — adresata nie koduje nagłówek, więc te kwestie trzeba czytać scenami. Pozostałe masy: `sam/sama` (180), `orzecznik_do_przegladu` (1 865), `inna_forma_rodzajowa` (9 699) i 28 409 rekordów bez sygnału.
+
+**Stan rejestru:** 850 decyzji — 702 `confirmed`, 133 `corrected`, 15 `deferred`; 39 067 rekordów bez decyzji.
+
+**Artefakty:** patch `a89bf8b4cbe54a57ae9ada195c57c1a5db5ec085a8d5485b3ef62410cf2f3fad` (payload `3a0f99995121bcd1dfaa6499ecc576b4c33f177c05711cffbaddedb98c464e58`); Czytanka `c0f436017091dba5bac1d196ecc7909aca4893633a1e631452a54b3961ec8b35` (4 399 wpisów). Sidecary i raporty zsynchronizowane z payloadu.
+
+**Testy:** 173 OK. Paczek nie testowano w grze; audyt nieukończony.
