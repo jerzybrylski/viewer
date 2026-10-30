@@ -15351,7 +15351,7 @@
 
 **Larry:** /greet  
 **Mox:** /greet  
-**Larry:** Znalazłaś jakieś baterie?  
+**Larry:** Znalazłeś jakieś baterie?  
 **Mox:** /show  
 **Larry:** /thanks  
 **Larry:** Zaraz je naprawię.  
@@ -19798,7 +19798,7 @@
 **Mox:** Niezupełnie. Ale chyba uda mi się namówić go, żeby pokazał mi ten tajny magazyn…  
 **Mox:** Może prowadzi do bunkra.  
 **Melissa:** Nie martwisz się Andreą?  
-**Mox:** Sam mówiłaś, że chcesz działać…  
+**Mox:** Sama mówiłaś, że chcesz działać…  
 **Mox:** Zróbmy to razem i zachowajmy to w tajemnicy.  
 **Melissa:** Nie jedyny sekret, jaki ukrywamy.  
 **Mox:** No i?  
@@ -27304,7 +27304,7 @@
 **Melissa:** /shock  
 **Mox:** Użyła swoich mocy, żeby się teleportować!  
 **Melissa:** To szaleństwo!  
-**Mox:** Mówiłaś, że to miejsce jest nawiedzone. Nie byłaś tak daleki od prawdy, jak myślałem.  
+**Mox:** Mówiłaś, że to miejsce jest nawiedzone. Nie byłaś tak daleka od prawdy, jak myślałem.  
 **Melissa:** Demon?... Co tu się dzieje?  
 **Mox:** Cholera! Erica!  
 **Melissa:** Eriko?  
@@ -44478,7 +44478,7 @@
 **Erica:** Miałam przytłaczającą ochotę na… seks.  
 **Mox:** Oglądałaś wiadomości?  
 **Erica:** Dlaczego pytasz?  
-**Mox:** Sama niewiele wiem, ale słyszałem, że krąży wirus zwiększający popęd seksualny.  
+**Mox:** Sam niewiele wiem, ale słyszałem, że krąży wirus zwiększający popęd seksualny.  
 **Erica:** Myślisz, że w tej rezydencji jest ten wirus?  
 **Mox:** Cokolwiek właśnie zobaczyłem, to nie jest normalne.  
 **Erica:** Teraz mnie przestraszyłeś.  
@@ -61104,8 +61104,8 @@
 **Chloe:** Mox!  
 **Carol:** A niech mnie, wilk o tobie mowa.  
 **Mox:** Widziałaś widok?  
-**Carol:** Owszem. A z tego, co słyszę, ty i Chloe też podziwiałyście stąd widoki.  
-**Chloe:** Powinienem był wiedzieć, żeby ci nie mówić, Carol.  
+**Carol:** Owszem. A z tego, co słyszę, ty i Chloe też podziwialiście stąd widoki.  
+**Chloe:** Powinnam była wiedzieć, żeby ci nie mówić, Carol.  
 **Mox:** Haha. Cóż… Nie myli się.  
 **Carol:** Nie mogę powiedzieć, żeby moje igraszki z Mox były równie przytulne jak to miejsce.  
 **Chloe:** Igraszki?  
@@ -66291,7 +66291,7 @@
 **Mox:** To nie grobowiec… Ukrywał skarb!  
 **Erica:** Cholera! To wygląda drogo!  
 **Mox:** Może będziemy bogaci.  
-**Erica:** Ja będę bogaty. To była moja robota.  
+**Erica:** Ja będę bogata. To była moja robota.  
 **Mox:** Podzleciłaś mi to. Należy mi się połowa.  
 **Erica:** Nic nie dostaniemy, jeśli się stąd nie wydostaniemy.  
 **Mox:** Przeszukaliśmy wszędzie. Jakieś inne pomysły?  

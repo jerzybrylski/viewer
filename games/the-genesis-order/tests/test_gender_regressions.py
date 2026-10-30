@@ -29,6 +29,13 @@ CASES = {
     '318d6be44e989ae84fce': 'Jestem ci winna przysługę.',
     '004b101d7150c5bf5af8': 'Jestem ci winna przysługę.',
     'da85a14ff34c9b0573b3': 'To co z tą przysługą, którą jesteś mi winna?',
+    'bff363d1ef4587740825': 'Znalazłeś jakieś baterie?',
+    '0c61171540385c7b127a': 'Mówiłaś, że to miejsce jest nawiedzone. Nie byłaś tak daleka od prawdy, jak myślałem.',
+    'b475e41cafd81b039306': 'Sama mówiłaś, że chcesz działać…',
+    '57c9fd33f3b925191a82': 'Ja będę bogata. To była moja robota.',
+    '80f1339b592193226eb3': 'Sam niewiele wiem, ale słyszałem, że krąży wirus zwiększający popęd seksualny.',
+    'a69f5a23d51d2a760972': 'Owszem. A z tego, co słyszę, ty i Chloe też podziwialiście stąd widoki.',
+    '6e980340b70fea0bc53a': 'Powinnam była wiedzieć, żeby ci nie mówić, Carol.',
 }
 
 

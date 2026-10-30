@@ -45,3 +45,19 @@ Właściciel wskazał kwestię Jona po „O co, do cholery, chodzi?” Erici. W 
 Powstał trwały rejestr `translation/reports/gender_review_decisions.jsonl`: **8 poprawionych, 21 potwierdzonych w zakresie badanej formy, 3 odłożone**, łącznie 32 decyzje. Pozostałe 39 885 rekordów mają w kolejce status `unreviewed`; w tym są także wcześniejsze poprawki, których nie przeniesiono do rejestru. Odłożone nie są zatwierdzone. Każda decyzja ma ID, uzasadnienie i fingerprint ID, źródła, tłumaczenia oraz kontekstu; zmiana tych pól oznacza `stale`. Fingerprint **nie obejmuje sąsiednich kwestii**, więc po ich zmianie rozstrzygnięcie też wymaga ręcznego ponownego sprawdzenia. Potwierdzenie dotyczy rozpatrywanego rodzaju, nie całkowitej poprawności zdania. Dodano również flagę `winien_winna` (34 rekordy); to kandydaci, nie liczba błędów.
 
 Aktualny patch SHA-256 `03ecb5b767f6b87f42dc9edc1a07461fa8f558effebb72fbfae126b8b846a080`, Czytanka `47a4aec5ffc80b5003a3cd7c6aa087f1d2a2b5a98debc3d2c0aae1f51e7a657e`, nadpisują wcześniejsze hashe powyżej. Patch i Czytanka zaktualizowane w Git, nie w Drive; 154 testy OK w sandboxie. Testy nie dowodzą działania nowego ZIP-a w grze. **Pełen audyt nadal nieukończony.**
+
+## Kontynuacja — weryfikacja poprzednich automatycznych poprawek
+
+W tej partii przejrzano 77 uprzednio zmienionych kwestii dotyczących adresata i potwierdzono badane formy z uzasadnieniem w rejestrze. Znaleziono i ręcznie poprawiono kolejne **7** błędów (w tym trzy w kwestiach poprzednio edytowanych automatycznie):
+
+- `bff363d1ef4587740825`: Larry → Mox „Znalazłaś” → „Znalazłeś”.
+- `0c61171540385c7b127a`: Mox → Melissa „Nie byłaś tak daleki” → „daleka”.
+- `b475e41cafd81b039306`: Mox → Melissa „Sam mówiłaś” → „Sama mówiłaś”.
+- `57c9fd33f3b925191a82`: Erica o sobie „będę bogaty” → „bogata”.
+- `80f1339b592193226eb3`: Mox o sobie „Sama niewiele wiem” → „Sam”.
+- `a69f5a23d51d2a760972`: Carol o Moxie i Chloe „podziwiałyście” → „podziwialiście”.
+- `6e980340b70fea0bc53a`: Chloe o sobie „Powinienem był wiedzieć” → „Powinnam była wiedzieć”.
+
+Rejestr: 116 decyzji, w tym **98 potwierdzonych**, **15 poprawionych**, **3 odłożone**; 39 801 rekordów nie ma decyzji. Z 618 rekordów wcześniejszej automatycznej korekty 78 ma status potwierdzony, 4 poprawiony, 1 odłożony, a 535 nadal nieprzejrzany w rejestrze. Liczby rejestru nadal nie obejmują pierwszych 15 punktowych poprawek dokonanych przed jego utworzeniem. Każde potwierdzenie dotyczy określonej formy, nie całego zdania.
+
+Patch SHA-256 `31acc39b0bacd18ee8474c97059790ea446b28e5292d401b4f41512003839a12`; Czytanka `f9d3f7766b281559b26bf5e033a14f9f199ef05c8fd221a964c556f0ab878706`. Poprzednie hashe w niniejszym dokumencie są historyczne. 154 testy OK; aktualne paczki nie były testowane w grze ani publikowane na Drive. Przegląd jest kontynuowany, **nie jest ukończony**.
