@@ -175,3 +175,28 @@ Sąsiedni sygnał pierwszej osoby (181 hipotez) nie dał ani jednej korekty, a a
 - Patch: `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`, SHA-256 `a89bf8b4cbe54a57ae9ada195c57c1a5db5ec085a8d5485b3ef62410cf2f3fad` (3 748 011 B, 39 917 tłumaczeń, 238 fingerprintów, 427 partii); payload `3a0f9999…`.
 - Czytanka: 2 epizody i 3 wystąpienia w skrypcie zaktualizowane, przepakowana bez zmiany listy 4 399 wpisów — SHA-256 `c0f436017091dba5bac1d196ecc7909aca4893633a1e631452a54b3961ec8b35`.
 - **173 testy OK**. Paczek nie testowano w grze ani nie publikowano na Drive. Audyt pozostaje **nieukończony**.
+
+## Kontynuacja — wcześniejsze auto-zmiany i luka „opcji dialogowych”
+
+### 1. Przegląd wcześniejszych automatycznych zmian (384 bez decyzji)
+
+Zamiast czytać 384 kwestie od zera wykorzystano `change_log` z `translation/reports/gender_fix_v1.json`, który dla każdej z 618 dawnych zmian zapisuje `before`, `after`, mówcę, płeć i podstawę adresata. Dzięki temu przegląd dotyczy samej zmiany, a nie całej linii.
+
+- **399 z 414 edycji to pierwsza osoba** (`1os_czasownik` 337, `1os_orzecznik` 60, `1os_warunkowy` 2). W tej grupie nie ma ani jednej sceny opętania (sprawdzono nazwy eventów), a narzędzie zawsze dopasowywało formę do płci mówcy z mapowania — więc ryzyko jest tu małe z definicji, a nie z lektury.
+- **15 edycji drugiej osoby** opierało się na słabej przesłance „jednolita płeć pozostałych mówców sceny”. Wszystkie 15 pochodzi z EV027 (map 31, przesłuchanie w sklepie XXX). Sprawdzone w scenie: Mox pyta Alię, więc formy żeńskie („robiłaś”, „przyjechałaś”) są poprawne. Zarejestrowane jako `confirmed`.
+- Pozostałe 369 pierwszosobowych zmian **pozostaje bez decyzji** — nie udajemy przeglądu, którego nie było; ich ryzyko jest ograniczone do błędnego mapowania mówcy.
+
+### 2. Opcje dialogowe — kategoria poza wszystkimi sygnałami
+
+Przy okazji sprawdzania EV027 wyszło, że **`choice_option` (1 416 rekordów) nie jest objęte żadnym sygnałem**: heurystyki patrzą na kwestie mówione, a opcje gracza nie mają nagłówka mówcy. Dlatego zdanie „Co robiłeś tuż przed przyjściem tutaj?” wciąż stało w scenie, w której Mox przesłuchuje wyłącznie Alię, podczas gdy odpowiadająca mu kwestia mówiona była już poprawiona na „robiłaś”.
+
+Sprawdzono wszystkie 48 opcji w tej stronie eventu (mówcy: wyłącznie Mox i Alia) i poprawiono **18 rekordów** — wszystkie formy drugiej osoby żeńskiej: `byłeś → byłaś`, `przyjechałeś → przyjechałaś`, `robiłeś → robiłaś`, `rzucałeś → rzucałaś`, `jadłeś → jadłaś`. Pełna lista ID jest w rejestrze decyzji; basis każdego wpisu odsyła do sceny map 31 / EV027.
+
+Kontrola po zmianie: w całym korpusie **żadna opcja dialogowa nie zawiera już formy drugiej osoby** (0 z 1 416). Opcje nie mają rodzaju gramatycznego w innych miejscach, więc ta kategoria jest wyczerpana.
+
+### Stan po tej partii
+
+- Rejestr: **883 decyzje** — 717 `confirmed`, 151 `corrected`, 15 `deferred`; **39 034** rekordy bez decyzji.
+- Patch: SHA-256 `dcf81b8ea7b1b981e7068f2c1b5d6eaea0a2d8a73d966fc25d6bfd3cfb943087`; payload `f984bd55…`.
+- Czytanka: epizod `1710_map031_event027_page01.md` i sekcja „Mapa 031 — Sklep XXX / event 27” w skrypcie; przepakowana bez zmiany listy 4 399 wpisów — SHA-256 `a80ae034b0ec3e608c2a91b302f8d73b67d5e0b5f7fd0912a4dac5c6d863bdf9`.
+- **173 testy OK**. Paczek nie testowano w grze. Audyt pozostaje **nieukończony**.

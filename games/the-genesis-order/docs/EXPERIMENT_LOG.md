@@ -604,3 +604,21 @@ Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa oso
 **Artefakty:** patch `a89bf8b4cbe54a57ae9ada195c57c1a5db5ec085a8d5485b3ef62410cf2f3fad` (payload `3a0f99995121bcd1dfaa6499ecc576b4c33f177c05711cffbaddedb98c464e58`); Czytanka `c0f436017091dba5bac1d196ecc7909aca4893633a1e631452a54b3961ec8b35` (4 399 wpisów). Sidecary i raporty zsynchronizowane z payloadu.
 
 **Testy:** 173 OK. Paczek nie testowano w grze; audyt nieukończony.
+
+## 2026-10-30 — wcześniejsze auto-zmiany i luka `choice_option`
+
+**Wejście:** 384 rekordy z wcześniejszych automatycznych zmian bez decyzji; `change_log` w `translation/reports/gender_fix_v1.json` (618 wpisów z `before`/`after`/mówcą/płcią).
+
+**Metoda:** przegląd samej zmiany, nie całej linii. Podział: 399 edycji pierwszej osoby, 15 drugiej osoby. Dla drugiej osoby — weryfikacja w scenie (wszystkie w EV027, Mox pyta Alię). Dla pierwszej — sprawdzenie, czy w grupie są sceny opętania (nie ma) i uznanie, że ryzyko sprowadza się do błędnego mapowania mówcy; te 369 rekordów **pozostaje bez decyzji**.
+
+**Odkrycie:** `choice_option` (1 416 rekordów) nie jest objęte żadnym sygnałem — heurystyki patrzą na kwestie mówione, a opcje gracza nie mają nagłówka. W EV027 (map 31, przesłuchanie Alii, mówcy: tylko Mox i Alia) stało 18 męskich form drugiej osoby.
+
+**Korekty (18):** `byłeś → byłaś`, `przyjechałeś → przyjechałaś`, `robiłeś → robiłaś`, `rzucałeś → rzucałaś`, `jadłeś → jadłaś`. Po zmianie w całym korpusie **0 z 1 416** opcji zawiera formę drugiej osoby — kategoria wyczerpana.
+
+**Potwierdzenia (15):** edycje EV027 z `change_log` — poprawne.
+
+**Stan rejestru:** 883 decyzje — 717 `confirmed`, 151 `corrected`, 15 `deferred`; 39 034 rekordy bez decyzji.
+
+**Artefakty:** patch `dcf81b8ea7b1b981e7068f2c1b5d6eaea0a2d8a73d966fc25d6bfd3cfb943087` (payload `f984bd55…`); Czytanka `a80ae034b0ec3e608c2a91b302f8d73b67d5e0b5f7fd0912a4dac5c6d863bdf9` (epizod map 31 / EV027 + sekcja skryptu). Sidecary i raporty zsynchronizowane.
+
+**Testy:** 173 OK. Audyt nieukończony.

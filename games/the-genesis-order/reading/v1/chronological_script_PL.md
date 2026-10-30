@@ -34591,288 +34591,288 @@
 ## Mapa 031 — Sklep XXX / event 27 / strona 1
 
 **Wybór gracza:**
-- Gdzie dziś byłeś?
-- Co robiłeś tuż przed przyjściem tutaj?
+- Gdzie dziś byłaś?
+- Co robiłaś tuż przed przyjściem tutaj?
 - Gdzie jest biblioteka?
 - Gdzie cię wysadzono?
 - Jakie jest ostatnie miejsce, które pamiętasz?
 - Anuluj
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?».
 
 **Mox:** Gdzie dziś byłaś?  
 **Alia:** Byłam w bibliotece, a potem mama mnie tu podwiozła.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?».
 
 **Mox:** Co robiłaś tuż przed przyjściem tutaj?  
 **Alia:** Rzucałam kamieniami.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?».
 
 **Mox:** Gdzie jest biblioteka?  
 **Alia:** W Cape Vedra, niedaleko mojego domu.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?».
 
 **Mox:** Gdzie cię wysadzono?  
 **Alia:** Oczywiście tuż przed wejściem.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
 **Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1.
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1.
 
 **Wybór gracza:**
-- Co robiłeś po przyjściu tutaj?
+- Co robiłaś po przyjściu tutaj?
 - Gdzie jest biblioteka?
-- Co robiłeś po lunchu?
-- Jakim samochodem przyjechałeś?
-- Co robiłeś tuż przed przyjściem tutaj?
+- Co robiłaś po lunchu?
+- Jakim samochodem przyjechałaś?
+- Co robiłaś tuż przed przyjściem tutaj?
 - Anuluj
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?».
 
 **Mox:** Co robiłaś, kiedy już tu dotarłaś?  
 **Alia:** Byłam głodna, więc coś zjadłam.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?».
 
 **Mox:** Gdzie jest biblioteka?  
 **Alia:** W Cape Vedra, niedaleko mojego domu.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?».
 
 **Mox:** Co robiłaś po lunchu?  
 **Alia:** Miałam trochę pieniędzy, więc poszłam na zakupy.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?».
 
 **Mox:** Jakim samochodem przyjechałaś?  
 **Alia:** Czarnym samochodem!  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?».
 
 **Mox:** Co robiłaś tuż przed przyjściem tutaj?  
 **Alia:** Rzucałam kamieniami.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2.
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2.
 
 **Wybór gracza:**
-- Gdzie rzucałeś kamieniami?
+- Gdzie rzucałaś kamieniami?
 - Jakie jest ostatnie miejsce, które pamiętasz?
-- Jakim samochodem przyjechałeś?
-- Co robiłeś tuż przed przyjściem tutaj?
+- Jakim samochodem przyjechałaś?
+- Co robiłaś tuż przed przyjściem tutaj?
 - Gdzie jest biblioteka?
 - Anuluj
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?».
 
 **Mox:** Gdzie rzucałaś kamieniami?  
 **Alia:** Oczywiście do jeziora.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
 **Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?».
 
 **Mox:** Jakim samochodem przyjechałaś?  
 **Alia:** Czarnym samochodem!  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?».
 
 **Mox:** Co robiłaś tuż przed przyjściem tutaj?  
 **Alia:** Rzucałam kamieniami.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?».
 
 **Mox:** Gdzie jest biblioteka?  
 **Alia:** W Cape Vedra, niedaleko mojego domu.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3.
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3.
 
 **Wybór gracza:**
 - Gdzie cię wysadzono?
 - Jakie jest ostatnie miejsce, które pamiętasz?
 - Jak nazywały się książki?
 - Dokąd poszła twoja mama?
-- Jakim samochodem przyjechałeś?
+- Jakim samochodem przyjechałaś?
 - Anuluj
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?».
 
 **Mox:** Gdzie cię wysadzono?  
 **Alia:** Oczywiście tuż przed wejściem.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
 **Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?».
 
 **Mox:** Jak nazywały się książki?  
 **Alia:** Nie mam pojęcia… Mama je dla mnie wybrała.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?».
 
 **Mox:** Dokąd poszła twoja mama?  
 **Alia:** Chyba wróciła do domu…  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?».
 
 **Mox:** Jakim samochodem przyjechałaś?  
 **Alia:** Czarnym samochodem!  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4.
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 4.
 
 **Wybór gracza:**
-- Co robiłeś po przyjściu tutaj?
+- Co robiłaś po przyjściu tutaj?
 - Jakie jest ostatnie miejsce, które pamiętasz?
 - Jak nazywały się książki?
 - Dokąd poszła twoja mama?
-- Jakim samochodem przyjechałeś?
+- Jakim samochodem przyjechałaś?
 - Anuluj
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4 → wybór «Co robiłeś po przyjściu tutaj?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 4 → wybór «Co robiłaś po przyjściu tutaj?».
 
 **Mox:** Co robiłaś tuż przed przyjściem tutaj?  
 **Alia:** Rzucałam kamieniami.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 4 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
 **Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 4 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?».
 
 **Mox:** Jak nazywały się książki?  
 **Alia:** Nie mam pojęcia… Mama je dla mnie wybrała.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 4 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?».
 
 **Mox:** Dokąd poszła twoja mama?  
 **Alia:** Chyba wróciła do domu…  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 4 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?».
 
 **Mox:** Jakim samochodem przyjechałaś?  
 **Alia:** Czarnym samochodem!  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłeś po lunchu?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 4 → wybór «Co robiłeś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 5.
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 1 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Co robiłaś po lunchu?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → Alia Interragation = 2 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jakim samochodem przyjechałaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → Alia Interragation = 3 → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 4 → wybór «Co robiłaś po przyjściu tutaj?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Jak nazywały się książki?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 5.
 
 **Mox:** ...  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6.
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6.
 
 **Wybór gracza:**
-- Co jadłeś?
-- Co robiłeś po lunchu?
+- Co jadłaś?
+- Co robiłaś po lunchu?
 - Gdzie cię wysadzono?
 - Jakie jest ostatnie miejsce, które pamiętasz?
 - Dokąd poszła twoja mama?
 - Anuluj
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?».
 
 **Mox:** Co zjadłaś?  
 **Alia:** Chciałam kanapkę z keczupem, ale kucharz kazał mi zrobić ją samej i nazwał mnie idiotką.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?».
 
 **Mox:** Co robiłaś po lunchu?  
 **Alia:** Miałam trochę pieniędzy, więc poszłam na zakupy.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?».
 
 **Mox:** Gdzie cię wysadzono?  
 **Alia:** Oczywiście tuż przed wejściem.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
 **Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?».
 
 **Mox:** Dokąd poszła twoja mama?  
 **Alia:** Chyba wróciła do domu…  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7.
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7.
 
 **Wybór gracza:**
-- Co robiłeś tuż przed przyjściem tutaj?
+- Co robiłaś tuż przed przyjściem tutaj?
 - Gdzie jest biblioteka?
 - Jakie jest ostatnie miejsce, które pamiętasz?
 - Dokąd poszła twoja mama?
-- Jakim samochodem przyjechałeś?
+- Jakim samochodem przyjechałaś?
 - Anuluj
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłaś tuż przed przyjściem tutaj?».
 
 **Mox:** Co robiłaś tuż przed przyjściem tutaj?  
 **Alia:** Rzucałam kamieniami.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?».
 
 **Mox:** Gdzie jest biblioteka?  
 **Alia:** W Cape Vedra, niedaleko mojego domu.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
 **Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?».
 
 **Mox:** Dokąd poszła twoja mama?  
 **Alia:** Chyba wróciła do domu…  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?».
 
 **Mox:** Jakim samochodem przyjechałaś?  
 **Alia:** Czarnym samochodem!  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8.
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 8.
 
 **Wybór gracza:**
-- Gdzie rzucałeś kamieniami?
+- Gdzie rzucałaś kamieniami?
 - Jakie jest ostatnie miejsce, które pamiętasz?
 - Dokąd poszła twoja mama?
-- Co robiłeś po lunchu?
+- Co robiłaś po lunchu?
 - Gdzie cię wysadzono?
 - Anuluj
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8 → wybór «Gdzie rzucałeś kamieniami?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 8 → wybór «Gdzie rzucałaś kamieniami?».
 
 **Mox:** Gdzie rzucałaś kamieniami?  
 **Alia:** Oczywiście do jeziora.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 8 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Mox:** Jakie jest ostatnie miejsce, które pamiętasz?  
 **Alia:** Rozmawiałam z Tashą… A teraz czyta. Pamiętasz! Nieprawdaż?  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 8 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?».
 
 **Mox:** Dokąd poszła twoja mama?  
 **Alia:** Chyba wróciła do domu…  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Co robiłeś po lunchu?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 8 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Co robiłaś po lunchu?».
 
 **Mox:** Co robiłaś po lunchu?  
 **Alia:** Miałam trochę pieniędzy, więc poszłam na zakupy.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłeś?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałeś?» → Alia Interragation = 8 → wybór «Gdzie rzucałeś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Co robiłeś po lunchu?» → wybór «Gdzie cię wysadzono?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → Alia Interragation = 6 → wybór «Co jadłaś?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → Alia Interragation = 7 → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Jakim samochodem przyjechałaś?» → Alia Interragation = 8 → wybór «Gdzie rzucałaś kamieniami?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?» → wybór «Dokąd poszła twoja mama?» → wybór «Co robiłaś po lunchu?» → wybór «Gdzie cię wysadzono?».
 
 **Mox:** Gdzie cię wysadzono?  
 **Alia:** Oczywiście tuż przed wejściem.  
 
-> **Ścieżka warunkowa:** wybór «Gdzie dziś byłeś?» → wybór «Co robiłeś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
+> **Ścieżka warunkowa:** wybór «Gdzie dziś byłaś?» → wybór «Co robiłaś tuż przed przyjściem tutaj?» → wybór «Gdzie jest biblioteka?» → wybór «Gdzie cię wysadzono?» → wybór «Jakie jest ostatnie miejsce, które pamiętasz?».
 
 **Alia:** Wróć do mnie, jeśli będziesz potrzebować dalszej pomocy.  
 
