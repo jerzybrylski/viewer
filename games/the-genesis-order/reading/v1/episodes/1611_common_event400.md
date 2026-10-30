@@ -24,7 +24,7 @@
 **Chloe:** Mox miał sporo pracy, pomagając nam uporać się z… pewnymi uczuciami.  
 **Ella:** Ty niegrzeczny chłopczyku!  
 **Mox:** Hej! Nie przekroczyłem granicy!... Poza tym jednym przypadkiem.  
-**Ella:** No więc… Co zrobiłaś?  
+**Ella:** No więc… Co zrobiłeś?  
 **Mox:** Nie przyszłaś tu, żeby o tym rozmawiać.  
 **Ella:** Wiem… Ale to bardzo ciekawe.  
 **Chloe:** Nie chcę zdominować rozmowy.  
@@ -78,7 +78,7 @@
 **Chloe:** Przygotować do seksu analnego?  
 **Ella:** Oczywiście! Będzie fajnie, a twojej cipki nie musimy nawet dotykać.  
 **Mox:** Nie wprawiaj jej w zakłopotanie.  
-**Chloe:** No… W końcu zrobiłaś to z siostrą Judy.  
+**Chloe:** No… W końcu zrobiłeś to z siostrą Judy.  
 **Mox:** Eee… Chcesz spróbować?  
 **Chloe:** Jeśli tylko nie będzie bolało.  
 **Ella:** Jesteś w dobrych rękach, kochana! Zostaw to mnie!  

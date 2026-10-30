@@ -85,7 +85,7 @@
 **Mox:** Podobała ci się cipka na twarzy?  
 **Arianna:** Świetnie!  
 **Arianna:** Bardzo podobało mi się, jak się ruszała!  
-**Demon 2:** Dobrze, że zwracałeś uwagę.  
+**Demon 2:** Dobrze, że zwracałaś uwagę.  
 **Arianna:** Wiesz co… Chyba chcę spróbować zrobić to sama.  
 **Mox:** To może być gorące.  
 
@@ -106,7 +106,7 @@
 **Arianna:** Było fajnie!  
 **Evie:** Nieźle, dziewczyno! Świetna robota!  
 **Arianna:** Naprawdę umiesz używać języka.  
-**Evie:** Mam nadzieję, że uważałeś.  
+**Evie:** Mam nadzieję, że uważałaś.  
 **Arianna:** Uważałam!  
 
 <sub>Źródłowe ID (przykłady): tgo:choice_unclassified:ffd9ade096558a64c9ec, tgo:choice_unclassified:639625487fcead0035f3, tgo:choice_unclassified:b55c4ef40a4e5e738398, tgo:choice_unclassified:884fa47c6d059bfca54b, tgo:choice_unclassified:024e86b1fc81fccd30cd, tgo:custom_dialogue:5b2553005f717317c0dd, tgo:custom_dialogue:bd01033519d4376978ab, tgo:custom_dialogue:fe4f23031b424aa1af48</sub>

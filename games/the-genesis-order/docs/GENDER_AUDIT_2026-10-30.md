@@ -83,3 +83,40 @@ Po sprawdzeniu źródła i sąsiednich kwestii poprawiono **25 rekordów**, w ty
 Wąskie sito po zmianie zwraca 102 hipotezy (74 adresat, 8 pierwsza osoba, 11 orzecznik, 9 `sam/sama`), a nie potwierdzone błędy. Szerokie sito uzupełniono o flagę `powinienem/powinnam`, której wcześniej brakowało; historyczne wyniki liczbowe szerokiej kolejki w poprzednim rozdziale dotyczą poprzedniej wersji. W rejestrze: 226 confirmed, 59 corrected, 5 deferred, a 39 627 rekordów bez decyzji; potwierdzenie jest ograniczone do rozpatrywanej formy. Kolejka jest niepełna i audyt nadal trwa.
 
 Patch SHA-256 `731605d4048f96c9d46bc3fae640b65c97237402af2fc299837ae8b182816538`, Czytanka `4b3183d56ac1216727f41ed8795090c5313c3cc6b91adbfa856f770a5e2f3ba2`. Patch i Czytanka są zsynchronizowane z draftami; 168 testów OK. Nie uruchamiano gry ani nie publikowano nowych paczek na Drive.
+
+## Kontynuacja — przegląd całej wąskiej kolejki (102 hipotezy)
+
+Tym razem przeglądnięto **wszystkie 102 hipotezy** wąskiego sita (`focus_gender_candidates.py`) na świeżym inwentarzu z commita `9cbc502`, czytając każdą scenę w całości — nie tylko sąsiednie kwestie. Do tego celu dodano narzędzie tylko do odczytu `tools/show_gender_scene.py` (inwentarz → scena w kolejności poleceń, nagłówek, mapa mówcy, EN i PL; zero zapisów, pilnuje tego `tests/test_show_gender_scene.py`). Rezultat: **70 korekt, 31 potwierdzeń i 1 odłożenie** — plus **jedna korekta sąsiedniej kwestii** w tej samej scenie (map 33, event 48, strona 8).
+
+### Co się okazało
+
+- **Fałszywe alarmy bywają liczne, ale nie dominują:** 31 z 102 hipotez było poprawnych. Najczęstsze przyczyny: „Sam/Sama” odnosiło się do adresata, do rzeczy (pająk, penis), do rzeczownika w utartym wyrażeniu („otwarta księga”, „ciepły bałwan”) albo do trzeciej osoby (Andrea/Nellie), a nie do mówcy.
+- **Opętanie nadal myli heurystykę:** w CE456 „Byłeś wybrańcem” i w CE454 „Skąd się wziąłeś?” są poprawne, bo mówi Daemalius w ciele Erici; hipoteza wskazywała Ericę jako adresatkę. Bez czytania sceny te dwie kwestie zostałaby „naprawione” w złą stronę.
+- **Nagłówek ≠ adresat:** 51 korekt dotyczy drugiej osoby, gdzie adresatem okazywał się mężczyzna, gdy hipoteza wskazywała kobietę (lub odwrotnie) — rozstrzygały dopiero następne kwestie tej samej wymiany (odpowiedź z formą osobową, wołacz, imię).
+- **Powtórzone identyczne źródła mają osobne decyzje:** dwa razy „Dobrze, że zwracałeś uwagę” (CE492 i EV110), dwa razy „Myślałem, że wiedziałaś…” (EV027, strony 5 i 6), trzy razy ta sama kwestia Elli w trzech różnych scenach (map 190 / EV009, map 192 / EV004, map 193 / EV004 — po jednym ID na scenę). Każde wystąpienie dostało własny wpis w rejestrze.
+- **Jedno odłożenie:** `eb528be8f3a7a510c15d` (Kimberly w studiu) — wypowiedź dotyczy Melissy albo obojga rozmówców („Ustalcie wspólną wersję”), a „Rozbiłeś Gildię” może odnosić się do Moxa; sąsiedztwo nie rozstrzyga adresata ani liczby, więc tekst zostaje bez zmian.
+- **Poza kolejką, przy okazji czytania sceny:** `d6d8d21aa612f12c74a5` („Czemu jesteś taka naburmuszona?” Dawida do Moxa) → „taki naburmuszony”. To jedyna zmiana spoza 102 hipotez i jest zapisana w rejestrze z uzasadnieniem.
+
+### Rozkład 71 zmian
+
+| Klasa formy | Liczba |
+|---|---:|
+| druga osoba (adresat) | 51 |
+| orzecznik przymiotnikowy (`pewien/pewna`, `gotowy/gotowa`, `dobra/dobry`, `zła/zły`, `godny/godna`, `dorosłaś/dorosłeś`) | 9 |
+| `powinienem / powinnam` | 8 |
+| `sam / sama` | 3 |
+
+Zmiany objęły **49 plików draftów**, bez ruszania ID, źródła, kontekstu i tokenów. Pełne `before`, fingerprint i uzasadnienie każdej decyzji są w `translation/reports/gender_review_decisions.jsonl`.
+
+### Stan rejestru i kolejek
+
+- Rejestr: **393 decyzje** — 257 `confirmed`, 130 `corrected`, 6 `deferred`; **39 524** przetłumaczone rekordy bez decyzji. `confirmed` nadal dotyczy wyłącznie rozpatrzonej formy, nie całego zdania, i nie unieważnia sąsiedztwa (fingerprint nie obejmuje sąsiadów).
+- Z 618 rekordów wcześniejszej automatycznej korekty: 206 `confirmed`, 13 `corrected`, 3 `deferred`, **396** nadal bez decyzji.
+- Wąskie sito po zmianach zwraca **1 hipotezę** — to właśnie odłożona kwestia Kimberly, a nie „zero błędów”. Puste sito nie jest dowodem kompletności: obejmuje tylko wybrane wzorce.
+- Szerokie sito: 39 530 rekordów kwalifikujących się do przeglądu, 14 158 z sygnałem w 13 280 grupach, **25 372 bez sygnału** nadal wymagają przeglądu.
+
+### Artefakty i testy
+
+Patch przebudowany ze scalenia draftów: `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`, SHA-256 `9f71e99aaaeea93d3cea15c08d96c739e47da7e2074367095e6dd7de3a37c943` (39 917 tłumaczeń, 238 fingerprintów, 427 partii). Czytanka zmieniona punktowo — 62 epizody, 71 kwestii w skrypcie — i przepakowana z zachowaniem listy wpisów: `translation/packages/TGO_readalong_PL_v1.zip`, SHA-256 `8504ac12e1cea42084ab62bbfcd07e38b8b5fb139b6b5478ff2c5ea31267b565`. Manifest i sidecary zaktualizowane.
+
+**173 testy OK** (`python3 -m unittest discover -s games/the-genesis-order/tests -q`), w tym nowe testy podglądu sceny. Paczek **nie testowano w grze** ani nie publikowano na Drive. **Audyt pozostaje nieukończony** — nieprzejrzane są tysiące rekordów bez sygnału, 396 wcześniejszych automatycznych zmian i cała druga/trzecia osoba poza wąskim sitem.

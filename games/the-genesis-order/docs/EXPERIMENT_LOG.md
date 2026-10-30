@@ -551,3 +551,17 @@ Na żądanie mniejszej listy dodano `tools/focus_gender_candidates.py`: 126 hipo
 
 ### 2026-10-30 — kontekstowy przegląd wąskiej kolejki
 Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa osobne ID tych samych scen na różnych stronach). Jedna korekta dotyczy adresatki Melissy w sąsiedniej kwestii. Rejestr 226 confirmed / 59 corrected / 5 deferred, 39 627 bez decyzji. Nowe wąskie sito: 102 hipotezy, nie liczba błędów; audyt nadal nieukończony. Szeroką kolejkę uzupełniono o `powinienem/powinnam`. Szczegóły i hashe w `GENDER_AUDIT_2026-10-30.md`; 168 testów OK, bez testu w grze.
+
+## 2026-10-30 — przegląd całej wąskiej kolejki rodzaju (102 hipotezy)
+
+**Wejście:** inwentarz odtworzony z walidowanego scalenia draftów (`tools/inventory_gender_review.py --output /tmp/tgo-inventory-s1.jsonl`, 39 917 tłumaczeń) i wąska kolejka `tools/focus_gender_candidates.py` (`/tmp/tgo-focus-s1.jsonl`): **102 hipotezy** (74 adresat z sąsiedztwa, 32 pierwsza osoba, 11 orzecznik, 9 `sam/sama`, kategorie się pokrywają). Każdą kwestię czytano w kontekście **całej sceny** nowym narzędziem tylko do odczytu `tools/show_gender_scene.py` (dodane w tej zmianie; `tests/test_show_gender_scene.py` pilnuje, że nic nie zapisuje).
+
+**Wynik przeglądu:** 70 korekt, 31 potwierdzeń, 1 odłożenie; dodatkowo jedna korekta sąsiedniej kwestii w tej samej scenie. Razem **71 zmian w 49 plikach draftów**. Rozkład: 51 form drugiej osoby (adresat), 9 orzeczników, 8 `powinienem/powinnam`, 3 `sam/sama`. ID, `before`, fingerprint i uzasadnienia: `translation/reports/gender_review_decisions.jsonl`; omówienie: `GENDER_AUDIT_2026-10-30.md`.
+
+**Ważne ustalenia:** 31 hipotez było fałszywych (m.in. „Sam” o adresacie, o pająku i o penisie, „otwarta księga” i „ciepły bałwan” jako utarte wyrażenia, „winna” o osobie trzeciej). W CE454 i CE456 forma męska jest poprawna, bo mówi Daemalius w ciele Erici — bez czytania sceny zostałaby „naprawiona” w złą stronę. Jedno odłożenie: `eb528be8f3a7a510c15d` (Kimberly w studiu — adresat i liczba nie do ustalenia z sąsiedztwa). Korekta spoza kolejki: `d6d8d21aa612f12c74a5` („Czemu jesteś taki naburmuszony?” Dawida do Moxa).
+
+**Stan rejestru:** 393 decyzje — 257 `confirmed`, 130 `corrected`, 6 `deferred`; 39 524 rekordy bez decyzji. Z 618 wcześniejszych automatycznych zmian: 206 `confirmed`, 13 `corrected`, 3 `deferred`, 396 bez decyzji. Wąskie sito zwraca teraz **1** pozycję (to odłożenie), a szerokie: 39 530 kwalifikujących się, 14 158 z sygnałem w 13 280 grupach, 25 372 bez sygnału — nadal nieprzejrzane. Puste sito **nie** jest dowodem kompletności audytu.
+
+**Artefakty:** `python3 tools/build_standalone_patch.py --output /tmp/tgo-gender-queue-20261030.zip` → SHA-256 `9f71e99aaaeea93d3cea15c08d96c739e47da7e2074367095e6dd7de3a37c943` (39 917 tłumaczeń, 238 fingerprintów, 427 partii). Czytanka zmieniona punktowo (62 epizody, 71 kwestii w `chronological_script_PL.md`) i przepakowana z zachowaniem listy 4 399 wpisów → SHA-256 `8504ac12e1cea42084ab62bbfcd07e38b8b5fb139b6b5478ff2c5ea31267b565`. Sidecary, `patch_manifest_v0.1.1.json` i `coverage_audit_v1.json` zaktualizowane z payloadu ZIP-a.
+
+**Testy:** `python3 -m unittest discover -s games/the-genesis-order/tests -q` — **173 OK**. Nowe: `tests/test_show_gender_scene.py` (5 testów). Archiwa, manifest, raporty i `reading/v1` są spójne (`tests/test_patch_artifacts.py`). **Nie testowano paczek w grze ani na Windows i nie publikowano ich na Drive** — to kolejna partia audytu, nie pełna naprawa rodzaju.

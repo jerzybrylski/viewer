@@ -29,16 +29,29 @@ python3 games/the-genesis-order/tools/prepare_gender_review_batches.py \
 
 Polecenia nie nadpisują istniejącego pliku wyjściowego. Inwentarz i partie są odtwarzalne i nie są śledzone w Git. Po zmianie draftów lub rejestru trzeba utworzyć **nowy inwentarz** i zacząć od początku jego kolejki: `offset` odnosi się do jednego konkretnego snapshotu i nie jest stabilnym kursorem pomiędzy snapshotami. Jednoznaczne zmiany wprowadzać ręcznie w draftach z zachowaniem ID/source/tokenów i walidować; każde rozstrzygnięcie zapisać osobno w `translation/reports/gender_review_decisions.jsonl`, w tym powód, a niepewne oznaczyć `deferred`. Po zmianach zsynchronizować Czytankę, przebudować patch i sidecary, wykonać testy oraz wpisać wyniki do dziennika.
 
-## Pomiar na stanie repozytorium z 2026-10-30
+## Pomiar na stanie repozytorium z 2026-10-30 (po przeglądzie wąskiej kolejki)
 
-- 39 917 przetłumaczonych rekordów, 265 istniejących decyzji (w tym 5 `deferred`); 39 657 rekordów kwalifikuje się do ponownego / pierwszego przeglądu.
-- 14 178 rekordów z co najmniej jednym sygnałem, zgrupowanych w 13 297 grup; **25 479** bez sygnału nadal wymaga przeglądu. Liczby są przybliżeniem nakładu selekcji, nie liczbą błędów. Priorytety są heurystyczne, duża liczba trafień jest poprawna.
+- 39 917 przetłumaczonych rekordów, **393** decyzje w rejestrze (257 `confirmed`, 130 `corrected`, 6 `deferred`); 39 530 rekordów kwalifikuje się do ponownego / pierwszego przeglądu.
+- 14 158 rekordów z co najmniej jednym sygnałem, zgrupowanych w 13 280 grup; **25 372** bez sygnału nadal wymaga przeglądu. Liczby są przybliżeniem nakładu selekcji, nie liczbą błędów. Priorytety są heurystyczne, duża liczba trafień jest poprawna.
+- Wąskie sito po przeglądzie zwraca **1** pozycję (odłożona kwestia Kimberly, `eb528be8f3a7a510c15d`). To nie jest miara kompletności: sito obejmuje wybrane wzorce i nie widzi większości rekordów bez sygnału.
 - Kontrolny test na 34 historycznych poprawionych rekordach z rejestru wykrywa sygnał dla 34/34 dawnych tekstów bez korzystania ze znacznika wcześniejszej edycji. To zbiór celowo dobranych znanych błędów użytych w projektowaniu; wynik **nie jest miarą skuteczności na reszcie gry**, nie potwierdza jakości kontekstu ani nie obejmuje fałszywie dodatnich wyników.
 - Testy jednostkowe sprawdzają znane przykłady, brak automatycznych zmian, grupowanie z oddzielnymi ID, filtrowanie jawnie sprzecznych gałęzi, brak fikcyjnej sceny oraz zmiany hasha przy zmianie sąsiedniej kwestii. Pełną zgodność w grze należy potwierdzić osobno.
 
+## Podgląd sceny (narzędzie tylko do odczytu)
+
+Do decyzji potrzebna jest cała scena, nie trzy sąsiednie linijki. `tools/show_gender_scene.py` czyta inwentarz i wypisuje kwestie jednej mapy/eventu/strony albo jednego Common Eventu w kolejności poleceń: znacznik `>>`, indeks polecenia, nagłówek z rozpoznanym mówcą i płcią, tekst źródłowy i przekład. Narzędzie **nic nie zapisuje** (pilnuje tego `tests/test_show_gender_scene.py`) i nie ocenia tłumaczenia.
+
+```bash
+python3 games/the-genesis-order/tools/inventory_gender_review.py --output /tmp/tgo-inventory.jsonl
+python3 games/the-genesis-order/tools/show_gender_scene.py \
+  --inventory /tmp/tgo-inventory.jsonl --id tgo:custom_dialogue:0523d4464428d26ef567 --window 40
+python3 games/the-genesis-order/tools/show_gender_scene.py \
+  --inventory /tmp/tgo-inventory.jsonl --locator map:144:40:3 --only-scene
+```
+
 ## Następny etap
 
-Przeglądać partie według priorytetu, stosując glosariusz i źródło, z kontekstem całej sceny tam, gdzie kilka linijek nie wystarcza. Sygnały są wyłącznie filtrem: obejmują również formy poprawne i nie wyłapują wszystkich problemów. Potrzebny jest dalszy przegląd rekordów bez sygnału oraz testy runtime; nigdy nie deklarować kompletnego audytu na podstawie pustej kolejki kandydatów.
+Przeglądać partie według priorytetu, stosując glosariusz i źródło, z kontekstem całej sceny tam, gdzie kilka linijek nie wystarcza. Sygnały są wyłącznie filtrem: obejmują również formy poprawne i nie wyłapują wszystkich problemów. Potrzebny jest dalszy przegląd rekordów bez sygnału (25 372) oraz testy runtime; nigdy nie deklarować kompletnego audytu na podstawie pustej kolejki kandydatów.
 
 ## Węższa kolejka sprzeczności (2026-10-30)
 
@@ -49,6 +62,8 @@ python3 games/the-genesis-order/tools/inventory_gender_review.py --output /tmp/t
 python3 games/the-genesis-order/tools/focus_gender_candidates.py --input /tmp/tgo-focus-inventory.jsonl --output /tmp/tgo-focus.jsonl
 ```
 
-Na aktualnym inwentarzu: **126 rekordów** (74 z hipotezą adresata, 32 pierwsza osoba, 11 orzecznik, 9 `sam/sama`; kategorie mogą się pokrywać). To nie liczba potwierdzonych błędów ani oszacowanie liczby wszystkich błędów. Przegląd kilku wyników wykazał fałszywe alarmy, np. „Erica! Zabrałaś duszę Eriki!?” z hipotetycznym adresatem Drab oraz „Sam nie zwiotczeje” przypisane mówiącej. Nagłówek może wskazywać ciało w scenie opętania; także nazwa sąsiada nie dowodzi adresata ani ścieżki. Precyzji nie zmierzono na reprezentatywnej próbie.
+Po przeglądzie całej tej kolejki (2026-10-30, 70 korekt, 31 potwierdzeń, 1 odłożenie) sito zwraca **1** hipotezę — odłożoną kwestię Kimberly. Wcześniejszy pomiar opisany niżej dotyczy stanu przed tym przeglądem.
+
+Na ówczesnym inwentarzu: **126 rekordów** (74 z hipotezą adresata, 32 pierwsza osoba, 11 orzecznik, 9 `sam/sama`; kategorie mogą się pokrywać). To nie liczba potwierdzonych błędów ani oszacowanie liczby wszystkich błędów. Przegląd kilku wyników wykazał fałszywe alarmy, np. „Erica! Zabrałaś duszę Eriki!?” z hipotetycznym adresatem Drab oraz „Sam nie zwiotczeje” przypisane mówiącej. Nagłówek może wskazywać ciało w scenie opętania; także nazwa sąsiada nie dowodzi adresata ani ścieżki. Precyzji nie zmierzono na reprezentatywnej próbie.
 
 Kontrola czułości: w pamięci przywrócono pole `before` każdego z 34 wpisów `corrected` rejestru, nadano im status `unreviewed`, pozostawiono bieżące sąsiedztwo, po czym uruchomiono `focus()` dla całego inwentarza. Sito wskazało **19 z 34**. To nie jest reprezentatywna próba ani szacunek rzeczywistej czułości: przykłady były znane podczas projektowania, a rejestr obejmuje także cofniętą własną korektę opętania (`fc45...`), więc nie wszystkie pola `before` są błędami. Pozostałe 15 nie dostało sygnału. W szczególności samo wąskie sito nie wystarcza do pełnego audytu; należy zachować szerszą kolejkę i badać również rekordy bez sygnału. Wyniki wymagają indywidualnego rozstrzygnięcia, nigdy masowej korekty.

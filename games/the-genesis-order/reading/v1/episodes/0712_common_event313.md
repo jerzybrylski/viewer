@@ -38,7 +38,7 @@
 **Erica:** Co masz na myśli?  
 **Mox:** Podobno ma duszę demona.  
 **Erica:** Co!? Mówisz poważnie?  
-**Mox:** Sama w to nie wierzę. Ale sądzę, że zamordowała Charlesa.  
+**Mox:** Sam w to nie wierzę. Ale sądzę, że zamordowała Charlesa.  
 **Erica:** Ale twoja szefowa tak nie uważa?  
 **Mox:** Nie słucha mnie.  
 **Erica:** Mogę ci pomóc, Mox…  

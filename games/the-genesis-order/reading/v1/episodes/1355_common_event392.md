@@ -39,7 +39,7 @@
 **Carol:** Dawaj, nie oszczędzaj mnie. Nie zrobisz mi krzywdy.  
 **Carol:** O rany! Chyba jeszcze nigdy nie byłam tak wypełniona.  
 **Mox:** Carol… Ale dobrze!  
-**Carol:** Jesteś w tym dobra.  
+**Carol:** Jesteś w tym dobry.  
 **Mox:** Masz taki słodki tyłeczek.  
 **Carol:** Chcesz to zrobić Judy, prawda?  
 **Mox:** Carol… Proszę.  

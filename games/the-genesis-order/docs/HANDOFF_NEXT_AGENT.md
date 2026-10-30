@@ -1,6 +1,31 @@
 # Handoff — The Genesis Order PL
 
-## Najważniejsze na następną sesję — 2026-10-30
+## Najważniejsze na następną sesję — 2026-10-30 (po przeglądzie wąskiej kolejki)
+
+**Zadanie:** kontynuować kontekstowy audyt rodzaju w The Genesis Order. Wąska kolejka jest **przejrzana w całości** (102 hipotezy → 70 korekt, 31 potwierdzeń, 1 odłożenie, plus jedna korekta sąsiedniej kwestii), ale to nie koniec audytu: **25 372 rekordy nie mają żadnego sygnału**, a 396 z 618 wcześniejszych automatycznych zmian nie ma decyzji. Właściciel oczekuje pracy systemowej i konkretnych uzasadnień, nie hurtowych zamian; MT słownikowe/regułowe/statystyczne jest zabronione, decyduje LLM w kontekście sceny.
+
+**Stan po tej sesji (commit z opisem „przegląd całej wąskiej kolejki”):** rejestr `translation/reports/gender_review_decisions.jsonl` ma **393** decyzje — 257 `confirmed`, 130 `corrected`, 6 `deferred`; **39 524** przetłumaczone rekordy pozostają bez decyzji. Z 618 dawnych automatycznych zmian: 206 potwierdzonych, 13 poprawionych, 3 odłożone, 396 nieprzejrzanych. Wąskie sito `focus_gender_candidates.py` zwraca **1** pozycję (odłożona kwestia Kimberly `eb528be8f3a7a510c15d`) — to brak pokrycia, nie brak błędów. Szerokie sito: 39 530 kwalifikujących się rekordów, 14 158 z sygnałem w 13 280 grupach, 25 372 bez sygnału.
+
+**Nowe narzędzie:** `tools/show_gender_scene.py` wypisuje całą scenę z inwentarza (mówca, EN, PL, znacznik kwestii) i nic nie zapisuje. Używać go zamiast zgadywania z trzech sąsiednich linijek; test `tests/test_show_gender_scene.py` pilnuje braku zapisów.
+
+**Ostrożność (bez zmian):** nagłówek to ciało, nie zawsze mówca — w CE454/CE456 mówi Daemalius w ciele Erici, a forma męska jest tam poprawna. Adresata nie ustala się z obsady sceny ani z sąsiedztwa bez odpowiedzi z formą osobową lub wołaczem. Niepewne przypadki odkładać (`deferred`), nie „poprawiać na wyczucie”. `fix_grammatical_gender.py --apply` pozostaje zablokowane.
+
+**Następne kroki:**
+1. Wygenerować świeży inwentarz i kolejki (pliki wyjściowe nie mogą istnieć):
+   ```bash
+   python3 games/the-genesis-order/tools/inventory_gender_review.py --output /tmp/tgo-inventory-next.jsonl
+   python3 games/the-genesis-order/tools/prepare_gender_review_batches.py --input /tmp/tgo-inventory-next.jsonl --output /tmp/tgo-batches-next.jsonl --max-groups 100 --context 3
+   ```
+   Partie szerokie obejmują teraz także rekordy bez sygnału w dalszych stronach `--offset`, ale offset jest ważny **tylko** dla jednego snapshotu.
+2. Przeglądać partiami po pełnej scenie (`show_gender_scene.py`), z glosariuszem i źródłem; decyzje zapisywać z ID, fingerprintem i uzasadnieniem.
+3. Po każdej partii: drafty → `build_standalone_patch.py`, punktowa aktualizacja Czytanki + przepakowanie ZIP-a, sidecary, manifest, `coverage_audit_v1.json`, testy, wpis w `EXPERIMENT_LOG.md`.
+4. Osobno wrócić do 396 nieprzejrzanych wcześniejszych automatycznych zmian i do rekordów bez sygnału; nie ogłaszać audytu ukończonym.
+
+**Artefakty:** patch `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`, SHA-256 `9f71e99aaaeea93d3cea15c08d96c739e47da7e2074367095e6dd7de3a37c943`; Czytanka `translation/packages/TGO_readalong_PL_v1.zip`, SHA-256 `8504ac12e1cea42084ab62bbfcd07e38b8b5fb139b6b5478ff2c5ea31267b565`. Gałąź `arena/13fcaf73-viewer`, PR https://github.com/jerzybrylski/viewer/pull/9. **173 testy OK**; paczek nie testowano w grze ani nie publikowano na Drive.
+
+---
+
+## Poprzedni stan (sesja zakończona commitem `9cbc502`, zapis historyczny)
 
 **Zadanie:** kontynuować pełny kontekstowy audyt rodzaju w tłumaczeniu The Genesis Order, następnie ręcznie poprawiać jednoznaczne błędy. Audyt **nie jest ukończony**. Właściciel chce podejścia systemowego, ale odrzucił szeroką listę 14 tys. sygnałów jako kolejkę pierwszego wyboru; oczekuje kilkuset konkretniej uzasadnionych kandydatów. Ograniczona kolejka nie zastępuje przeglądu pozostałych kwestii. Tłumaczenie i korekty wykonuje LLM w kontekście sceny; słownikowe, regułowe i statystyczne MT są zabronione.
 
