@@ -12,6 +12,7 @@ import argparse
 import csv
 import json
 import re
+import sys
 import tempfile
 import zipfile
 from collections import Counter, defaultdict, deque
@@ -32,6 +33,10 @@ DEFAULT_ZIP = ROOT / "translation" / "packages" / "TGO_readalong_PL_v1.zip"
 # W grze pozostaje placeholder `1Hero` podstawiany w runtime — to nie jest
 # tłumaczenie tekstu gry, tylko sposób prezentacji skryptu.
 HERO_NAME = "Mox"
+
+# Moduł odmiany imienia bohatera leży obok (ten sam katalog co ten skrypt).
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import hero_declension  # noqa: E402
 
 SPEAKERS = {
     "Mc": HERO_NAME, "Ad": "Andrea", "Ar": "Arianna", "Bo": "Bobby",
@@ -98,8 +103,14 @@ def clean_reading_text(value: str) -> str:
 
 
 def hero_text(value: str) -> str:
-    """Show the hero's real name instead of the game's ``1Hero`` placeholder."""
-    return value.replace("1Hero", HERO_NAME)
+    """Pokaż imię bohatera zamiast placeholdera ``1Hero`` — w poprawnym przypadku.
+
+    W grze placeholder zostaje (imię jest dynamiczne, podstawiane w runtime),
+    ale Czytanka ma stałe imię „Mox”, więc może je odmieniać. Reguły i decyzje:
+    ``tools/hero_declension.py``; raport: ``translation/reports/hero_declension_v1.json``.
+    """
+    text, _decisions = hero_declension.decline_text(value)
+    return text
 
 
 def source_map_paths(source_root: Path) -> dict[int, Path]:
@@ -844,6 +855,7 @@ def build(source_root: Path, output: Path, zip_path: Path,
 - Każda kwestia ma jawnego mówcę, gdy można go statycznie odczytać z kodu nagłówka; nierozpoznane nagłówki są oznaczone, nie zgadywane.
 - **Ścieżka warunkowa** zachowuje wybory i warunki z kontekstu eventu. Wybory są listowane w miejscu polecenia. Mówca, etykiety i dialog pochodzą ze scalonych tłumaczeń; wartości kontrolne i nazwy własne pozostają źródłowe.
 - Wartości `\\V[n]`, `\\N[n]` i `\\P[n]` są oznaczane jako zmienna, imię aktora lub członek drużyny; `\\I[n]` jako ikona. Niepewne wartości nie są zgadywane.
+- **Imię bohatera:** w grze pozostaje placeholder `1Hero` (podstawiane imieniem gracza w runtime), ale w Czytance bohater nazywa się **Mox** i jest odmieniany przez przypadki (`Moxa`, `Moxowi`, `Moxem`, `Moxie`). Odmiana działa na warstwie Czytanki i nie zmienia tekstu gry; reguły i raport decyzji: `tools/hero_declension.py` i `translation/reports/hero_declension_v1.json`.
 {movie_bullet}
 ## Ważne ograniczenie chronologii
 

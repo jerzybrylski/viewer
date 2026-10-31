@@ -16,7 +16,7 @@
 **Chloe:** Mox!?  
 **Mox:** Aaargh!  
 **Hannah:** Co tam się dzieje?  
-**Chloe:** Coś jest nie tak z Mox!  
+**Chloe:** Coś jest nie tak z Moxem!  
 
 > **🎬 Wstawka wideo:** `HnChWtf3.mp4` (zapętlone)
 
@@ -39,7 +39,7 @@
 **Mox:** O Boże…  
 **Hannah:** Wynoś się stamtąd! Nie chcemy, żebyś tam dłużej siedział!  
 **Mox:** Nie wiem, czy mówienie do niego pomoże.  
-**Chloe:** Panie, chroń Mox.  
+**Chloe:** Panie, chroń Moxa.  
 
 > **🎬 Wstawka wideo:** `HnChWtf6.mp4` (zapętlone)
 

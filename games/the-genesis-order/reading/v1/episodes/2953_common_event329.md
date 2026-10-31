@@ -168,7 +168,7 @@
 > **🎬 Wstawka wideo:** `LiErDnr18.mp4` (zapętlone)
 
 **Lillian:** Mężczyzna twoich lubieżnych pragnień jest gotów — z pulsującym kutasem i nieposkromioną żądzą, by zasiać w tobie swoje nasienie.  
-**Erica:** Musimy doprowadzić Mox do orgazmu.  
+**Erica:** Musimy doprowadzić Moxa do orgazmu.  
 **Lillian:** Tak, oczywiście. Jego potrzeby są naszymi potrzebami.  
 **Erica:** Co… co mamy zrobić?  
 **Lillian:** Myślę, że wiesz, co będzie dalej.  

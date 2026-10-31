@@ -6100,7 +6100,7 @@
 **Mox:** Nie muszę jej przesłuchiwać. Chcę po prostu z nią porozmawiać.  
 **Melissa:** Jeśli ktoś ma z nią rozmawiać, to David.  
 **Mox:** Co!? On nawet jej nie zna!  
-**David:** Mam mnóstwo pracy. Zgłaszam Mox.  
+**David:** Mam mnóstwo pracy. Zgłaszam Moxa.  
 **Melissa:** A ty jak dobrze ją znasz, Mox?  
 **Mox:** Hej, oboje jesteśmy młodzi i atrakcyjni. Pozwól, że użyję swojego uroku.  
 **Melissa:** Choć strasznie mnie irytujesz, masz trochę racji.  
@@ -12075,7 +12075,7 @@
 **Ella:** Czyli jesteś detektywem!  
 **Mox:** Ello?  
 **Ella:** Wiesz, kim jestem!?  
-**Erica:** Skąd znasz Mox?  
+**Erica:** Skąd znasz Moxa?  
 **Ella:** Nie mogłam nie usłyszeć waszej rozmowy. Bardzo przepraszam, że dziś rano spławiłam cię na siłowni.  
 **Mox:** Jeden z twoich fanów powiedział mi, kim jesteś.  
 **Erica:** Fani?  
@@ -13411,7 +13411,7 @@
 **Hannah:** Jak chcesz.  
 **Hannah:** Do zobaczenia, siostro i tato!  
 **Brian:** Co za ciekawa dziewczyna.  
-**Judy:** Włączmy telewizor. Chcę zobaczyć program Mox.  
+**Judy:** Włączmy telewizor. Chcę zobaczyć program Moxa.  
 **Mox:** Nie spodziewaj się zbyt wiele. To dość krótki materiał.  
 **Chloe:** Chodź! Chodźmy to obejrzeć.  
 
@@ -14816,7 +14816,7 @@
 **Hannah:** O rany! Co będzie na kolację?  
 **Mox:** Jeśli masz ochotę, urządzamy dziś przyjęcie z Chloe i Judy.  
 **Hannah:** Urządzacie przyjęcie?  
-**Heather:** Dziewczyny będą oglądać Mox w wiadomościach. Dołącz do nich, Hannah.  
+**Heather:** Dziewczyny będą oglądać Moxa w wiadomościach. Dołącz do nich, Hannah.  
 **Carol:** Brzmi świetnie. Chyba nas, starszych pań, nie zaproszono.  
 **Heather:** Och, Carol. Tym razem odpuśćmy.  
 **Hannah:** Ale co będzie na kolację?  
@@ -15491,7 +15491,7 @@
 **Larry:** Ja mógłbym być twoim ochroniarzem, Ello!  
 **Mox:** Ty? Ten facet, który ją nękał?  
 **Larry:** Eee…  
-**Ella:** Och, yyy, to miła propozycja. Ale chyba wolę zostać z Mox.  
+**Ella:** Och, yyy, to miła propozycja. Ale chyba wolę zostać z Moxem.  
 **Ella:** Mox, może zrobimy trochę cardio na rowerkach?  
 **Larry:** Rowerki nie działają jak trzeba. Coś jest z nimi nie tak.  
 **Mox:** W czym problem?  
@@ -16769,7 +16769,7 @@
 **Erica:** Nie mogłam znaleźć spodenek.  
 **Chloe:** Hannah! Powinniśmy byli najpierw zadzwonić!  
 **Hannah:** Skąd miałam wiedzieć, że Mox ma gościa?  
-**Erica:** Cześć, Hannah. Nie przejmuj się mną. Właśnie z Mox wstaliśmy.  
+**Erica:** Cześć, Hannah. Nie przejmuj się mną. Właśnie z Moxem wstaliśmy.  
 **Hannah:** Ty cwaniaku. Nie mówiłeś, że masz dziewczynę.  
 **Mox:** To nie tak, jak wygląda! Prowadziłem śledztwo w sprawie Madalyn.  
 **Chloe:** W samej bieliźnie?  
@@ -22793,7 +22793,7 @@
 **Hannah:** Świetny pomysł, Chloe, ale Mox nie może iść. Nie ma teraz czasu, bo ma nową dziewczynę.  
 **Mox:** Przestaniesz tak mówić, Hannah? Nie mam dziewczyny.  
 **Hannah:** Koleżanka do seksu. Jak zwał, tak zwał.  
-**Chloe:** Nie bądź niemiła dla Mox.  
+**Chloe:** Nie bądź niemiła dla Moxa.  
 **Hannah:** Nie jestem niemiła. Po prostu mówię, jak jest.  
 **Mox:** Jeśli chcecie iść do lasu, daleko nie zajdziecie. Wszystko zarosło.  
 **Hannah:** Lepiej poczekać do jesieni. Wtedy ścieżki będą dostępne.  
@@ -25015,7 +25015,7 @@
 **Mox:** Nie słyszałeś? Andrea jest teraz sąsiadką Melissy.  
 **Paul:** Chwila… Co się stało z twoją rezydencją?  
 **Andrea:** Powiedzmy, że teraz mieszkam trochę skromniej.  
-**David:** Musimy jak najszybciej znaleźć zastępstwo za Mox.  
+**David:** Musimy jak najszybciej znaleźć zastępstwo za Moxa.  
 **Hannah:** Mogę zostać detektywem?  
 **Chloe:** Haha! Wyobrażasz to sobie?  
 **Hannah:** Hej!  
@@ -28395,7 +28395,7 @@
 **Erica:** Była naga… Alternatywą był habit.  
 **Judy:** Moim zdaniem ładnie wygląda.  
 **Tasha:** Czemu tak długo cię nie było?  
-**Brian:** Demony porwały Mox.  
+**Brian:** Demony porwały Moxa.  
 **Melissa:** Demony?  
 **Mox:** Cóż… Udało mi się uciec.  
 **Brian:** Lillian go wypuściła.  
@@ -29071,7 +29071,7 @@
 **Hannah:** O cholera! Nie pozwolę, żeby ktoś zrobił z mojego ciała śmierdzącego trupa!  
 **Mox:** Jeśli potrzebuje tylko mojego nasienia, może być już za późno.  
 **Melissa:** Jaki jest plan?  
-**Brian:** Zostań tutaj z dziewczynami. Pójdę z Mox do rozdarcia.  
+**Brian:** Zostań tutaj z dziewczynami. Pójdę z Moxem do rozdarcia.  
 **Heather:** Nie powinniśmy wezwać policji?  
 **Melissa:** To nie takie proste.  
 **Mox:** Operacja Andrei odbywa się w rezydencji… Policja nie może tam wejść.  
@@ -29576,7 +29576,7 @@
 **Carol:** Dopóki mam swojego przystojniaka, jestem szczęśliwa.  
 **Heather:** Cóż… Nie podejmujmy pochopnych decyzji.  
 **Carol:** Co w ciebie wstąpiło, Heather?  
-**Heather:** Chloe bez przerwy opowiada, jak bardzo podkochuje się w Mox, a teraz jeszcze dzieli się nim z tobą…  
+**Heather:** Chloe bez przerwy opowiada, jak bardzo podkochuje się w Moxie, a teraz jeszcze dzieli się nim z tobą…  
 **Heather:** A co ze mną?  
 **Carol:** Wygląda na to, że ktoś powinien porozmawiać z Chloe. I nie chodzi o nas.  
 **Heather:** Cholera… Nie panuję nad sobą.  
@@ -29641,7 +29641,7 @@
 **Mox:** Znowu to samo.  
 **Nellie:** Jak często wy dwoje to robicie?  
 **Mox:** To nie twoja sprawa, Nellie.  
-**Nellie:** Cóż… Wiesz, siostro Judy, pieprzyłam się z Mox już mnóstwo razy.  
+**Nellie:** Cóż… Wiesz, siostro Judy, pieprzyłam się z Moxem już mnóstwo razy.  
 **Judy:** /shock  
 
 > **🎬 Wstawka wideo:** `JuNe3sm6.mp4` (zapętlone)
@@ -30018,7 +30018,7 @@
 **Nellie:** Mox, Andrea nie wie, że tu jestem… ale… Duncan cię szuka.  
 **Mox:** /shock  
 **Henry:** Czy Duncan tu idzie?  
-**Nellie:** Nie… Chce spotkać się z Mox w rezydencji.  
+**Nellie:** Nie… Chce spotkać się z Moxem w rezydencji.  
 **Mox:** Spotkać się? Jesteś pewna, że nie próbuje mnie zabić?  
 **Diana:** To oczywista pułapka.  
 **Nellie:** Mox… Powiedział mi coś… Coś, w co nie wierzę, ale…  
@@ -31293,7 +31293,7 @@
 **Carol:** Przy takiej burzy nie sądzę, żebyście mogły bezpiecznie stąd wyjść.  
 **Mox:** Ostatnio pogoda naprawdę wariuje.  
 **Hannah:** W telewizji nic nie ma!  
-**Judy:** Zwykle nie oglądam telewizji, ale widziałam Mox w wiadomościach.  
+**Judy:** Zwykle nie oglądam telewizji, ale widziałam Moxa w wiadomościach.  
 **Chloe:** Tak. To było fajne.  
 **Mox:** Wiecie, dziewczyny, jutro znowu będę w telewizji.  
 **Judy:** Naprawdę?!  
@@ -31303,7 +31303,7 @@
 **Chloe:** Chodzi o tych złych facetów z jaskini?  
 **Mox:** Tak… Trudno to wyjaśnić. Chyba lepiej nic nie mówić.  
 **Hannah:** No weź! Powiedz mi!  
-**Carol:** Spokojnie, Hannah. Nie wprawiaj Mox w zakłopotanie. Nie zawsze może opowiadać o pracy…  
+**Carol:** Spokojnie, Hannah. Nie wprawiaj Moxa w zakłopotanie. Nie zawsze może opowiadać o pracy…  
 **Carol:** To poważne sprawy.  
 **Judy:** Robi się późno. Ciekawe, czy burza trochę ustąpi.  
 **Carol:** Możecie zostać na noc.  
@@ -32186,7 +32186,7 @@
 **Carol:** …  
 **Carol:** Cóż, byłam zajęta na zewnątrz.  
 **Carol:** …  
-**Carol:** Z Mox.  
+**Carol:** Z Moxem.  
 **Carol:** …  
 **Carol:** No pewnie. Opowiem ci później.  
 **Mox:** Czemu Hannah dzwoni?  
@@ -32405,7 +32405,7 @@
 
 > **🎬 Wstawka wideo:** `HnCaElKtch15.mp4` (zapętlone)
 
-**Hannah:** Pieprzysz się z Mox!  
+**Hannah:** Pieprzysz się z Moxem!  
 **Ella:** Pozwól kobiecie trochę się zabawić.  
 **Mox:** Kurwa!…  
 **Carol:** Nie zazdrość, Hannah. Teraz kolej na mamusię.  
@@ -33967,7 +33967,7 @@
 **Carol:** Co tu się dzieje?  
 **Heather:** Mox!?  
 **Melissa:** Mam nadzieję, że nie przeszkadzamy. Mieliśmy mały wypadek i znaleźliśmy się na waszej posesji.  
-**Carol:** To ty jesteś detektywką, która pracuje z Mox?  
+**Carol:** To ty jesteś detektywką, która pracuje z Moxem?  
 **Hannah:** Jest jego szefową.  
 **Mox:** Prowadziliśmy śledztwo, kiedy utknęliśmy w jaskiniach.  
 **Heather:** W sprawie morderstwa?  
@@ -34041,9 +34041,9 @@
 **Ella:** Tworzą uroczą parę.  
 **Carol:** Awww! Słyszałaś?  
 **Hannah:** Nie jesteśmy parą! Przestań się z nas nabijać!  
-**Ella:** Daj spokój. Wszystkie straciłyśmy głowę dla Mox.  
+**Ella:** Daj spokój. Wszystkie straciłyśmy głowę dla Moxa.  
 **Carol:** Masz całkowitą rację.  
-**Hannah:** Mamo! Pieprzysz się z Mox!  
+**Hannah:** Mamo! Pieprzysz się z Moxem!  
 **Mox:** Eee…  
 **Carol:** Nie bądź pruderyjna, dziewczyno. Chłopak ma mnóstwo miłości do rozdania.  
 **Ella:** I rzeczywiście hojnie ją rozdaje.  
@@ -34562,7 +34562,7 @@
 **Chloe:** Mox!?  
 **Mox:** Aaargh!  
 **Hannah:** Co tam się dzieje?  
-**Chloe:** Coś jest nie tak z Mox!  
+**Chloe:** Coś jest nie tak z Moxem!  
 
 > **🎬 Wstawka wideo:** `HnChWtf3.mp4` (zapętlone)
 
@@ -34585,7 +34585,7 @@
 **Mox:** O Boże…  
 **Hannah:** Wynoś się stamtąd! Nie chcemy, żebyś tam dłużej siedział!  
 **Mox:** Nie wiem, czy mówienie do niego pomoże.  
-**Chloe:** Panie, chroń Mox.  
+**Chloe:** Panie, chroń Moxa.  
 
 > **🎬 Wstawka wideo:** `HnChWtf6.mp4` (zapętlone)
 
@@ -34723,7 +34723,7 @@
 
 ## Mapa 053 — Wodospad / event 24 / strona 1
 
-**Hannah:** Jeśli wciąż ci zimno, Chloe, powinnaś poprosić Mox, żeby oblał cię spermą…  
+**Hannah:** Jeśli wciąż ci zimno, Chloe, powinnaś poprosić Moxa, żeby oblał cię spermą…  
 **Hannah:** Woda teraz wydaje się ciepła!  
 **Chloe:** Chyba odpuszczę.  
 **Mox:** Muszę dojść do sedna. Coś tu nie gra.  
@@ -36219,9 +36219,9 @@
 **Ella:** Mogłeś powiedzieć, że jestem gamingową dziewczyną.  
 **Chloe:** Ojej. Czym się zajmujesz?  
 **Ella:** Takimi… przyjemnymi rzeczami.  
-**Ella:** Jesteś tu z Mox?  
+**Ella:** Jesteś tu z Moxem?  
 **Chloe:** Wcześniej jadłam tu lunch z przyjaciółką.  
-**Ella:** Miałam nadzieję porwać Mox na chwilę.  
+**Ella:** Miałam nadzieję porwać Moxa na chwilę.  
 **Chloe:** Chętnie jeszcze porozmawiam. Może napijemy się czegoś.  
 **Ella:** No cóż… eee…  
 **Mox:** Jasne. Przyniosę drinki. Na co macie ochotę?  
@@ -38236,12 +38236,12 @@
 **Heather:** Wow! Naprawdę!?  
 **Nellie:** …  
 **Carol:** Szpiegiem? Kogo szpiegujesz?  
-**Nellie:** Nie słuchaj Mox. Wcale nie zna mnie tak dobrze, jak mu się wydaje.  
+**Nellie:** Nie słuchaj Moxa. Wcale nie zna mnie tak dobrze, jak mu się wydaje.  
 **Tasha:** To moja mama. Zakładam, że wy dwie jesteście lesbijkami, które wychowują Mox.  
 **Carol:** Hahaha!  
 **Heather:** Ojej!  
-**Carol:** Nie jesteśmy parą, młoda damo. Przyszłyśmy tu z Mox poszukać wrażeń.  
-**Nellie:** Skoro znasz Mox, masz już dość wrażeń.  
+**Carol:** Nie jesteśmy parą, młoda damo. Przyszłyśmy tu z Moxem poszukać wrażeń.  
+**Nellie:** Skoro znasz Moxa, masz już dość wrażeń.  
 **Heather:** Chyba wiem, co tu się dzieje.  
 **Carol:** Powiedz, Nellie… Ty i Mox kiedyś… ten tego?  
 **Tasha:** Co?!  
@@ -38731,7 +38731,7 @@
 **Henry:** Tasha!? Masz kłopoty?  
 **Tasha:** Ha, mniej więcej.  
 **Nellie:** Hahaha!  
-**Nellie:** Hej, może Henry mógłby pomóc Mox?  
+**Nellie:** Hej, może Henry mógłby pomóc Moxowi?  
 **Mox:** Nie widzę, jak duch mógłby pomóc.  
 **Henry:** Hej! Doskonale nadaję się do pomocy! Pozwólcie mi pomóc!  
 **Tasha:** Nawet nie wiesz, o czym rozmawiamy.  
@@ -42254,7 +42254,7 @@
 **Mox:** Eee… Chyba mógłbym.  
 **Hannah:** Nawet nie próbuj się wykręcić!  
 **Carol:** Hannah! Zachowuj się.  
-**Heather:** Ciągle próbuję namówić Mox, żeby poszedł ze mną na siłownię. Może Hannah lepiej pójdzie z wyrobieniem mu formy.  
+**Heather:** Ciągle próbuję namówić Moxa, żeby poszedł ze mną na siłownię. Może Hannah lepiej pójdzie z wyrobieniem mu formy.  
 **Mox:** Hej! Jestem w świetnej formie!  
 **Carol:** Owszem. Przystojny z niego facet, jeśli mogę tak powiedzieć.  
 **Hannah:** Mamo! Nie mów tak o nim.  
@@ -43895,7 +43895,7 @@
 **Mox:** Tak… Jesteś.  
 **Carol:** Umiesz sprawić, że kobieta się uśmiecha.  
 **Heather:** Mam łopaty.  
-**Carol:** Ściółka jest mokra dzięki Mox. Zaczynajmy.  
+**Carol:** Ściółka jest mokra dzięki Moxowi. Zaczynajmy.  
 **Carol:** Skończone!  
 **Heather:** Dzięki za pomoc, Mox… Przepraszamy, że się z ciebie nabijałyśmy.  
 **Mox:** Chętnie pomogę dwóm pięknym młodym damom.  
@@ -46501,7 +46501,7 @@
 
 ## Mapa 076 — Przedsionek / event 23 / strona 1
 
-**Andrea:** Nellie! Powiedziałaś Mox?  
+**Andrea:** Nellie! Powiedziałaś Moxowi?  
 **Mox:** Jesteśmy w tym razem.  
 **Andrea:** Cóż, cieszę się, że tak uważasz, bo wszyscy mamy przejebane.  
 **Nellie:** Jaki jest plan?  
@@ -46567,7 +46567,7 @@
 **Ella:** Cóż mogę powiedzieć? Uwielbiam dobre imprezy.  
 **Ella:** Choć na razie wypadłam z branży streamingu.  
 **Kimberly:** Szkoda. Bardzo podobała mi się twoja twórczość.  
-**Kimberly:** Zwłaszcza twoja współpraca z Mox.  
+**Kimberly:** Zwłaszcza twoja współpraca z Moxem.  
 **Ella:** Kto wie, może kiedyś zrobimy bis.  
 **Mox:** Nie mogę powiedzieć, że to niemożliwe.  
 **Chloe:** /shock  
@@ -46612,7 +46612,7 @@
 **Andrea:** Podobno niedawno pozwolił, by ktoś naruszył ważne dowody.  
 **Melissa:** Nowy komisarz chce iść w kierunku, który mi odpowiada.  
 **Melissa:** Nie podoba mi się tylko cena, jaką trzeba zapłacić za twoje metody.  
-**Nellie:** Przysługa za przysługę jeszcze nikomu nie zaszkodziła. Zapytaj Mox.  
+**Nellie:** Przysługa za przysługę jeszcze nikomu nie zaszkodziła. Zapytaj Moxa.  
 **Mox:** To nie takie złe, Melisso. Nikt tak naprawdę na tym nie cierpi.  
 **Andrea:** Właśnie. Czasem niektórym trzeba po prostu pomóc coś przenieść.  
 **Andrea:** Co za różnica, jeśli zginie kilka artefaktów?  
@@ -46723,7 +46723,7 @@
 **Andrea:** To rodzinny sekret, dziewczyny.  
 **Kimberly:** Choć miło mi się z wami gawędzi, chyba mamy do przeprowadzenia wywiad.  
 **Andrea:** Nie bądź taki oficjalny…  
-**Andrea:** Porozmawiajcie z Mox. Zaniosę szklanki do kuchni.  
+**Andrea:** Porozmawiajcie z Moxem. Zaniosę szklanki do kuchni.  
 **Kimberly:** Andrea sprowadziła cię tu, żebyś mnie oczarował, prawda?  
 **Mox:** Co? Jestem tym od Gildii. Przyszedłem porozmawiać o rezydencji.  
 **Kimberly:** Czyli jednak istnieje jakieś powiązanie?  
@@ -49483,7 +49483,7 @@
 ## Mapa 026 — Wejście / event 15 / strona 10
 
 **Lillian:** Erica. Właśnie cię szukałam.  
-**Erica:** Przepraszam, Lillian. Robiłam sobie przerwę z Mox.  
+**Erica:** Przepraszam, Lillian. Robiłam sobie przerwę z Moxem.  
 **Lillian:** Mox, co tu robisz?  
 **Mox:** Tylko sprawdzam, czy wszystko w porządku…  
 **Mox:** Ekipa Channel 4 News próbowała na zewnątrz przeprowadzić wywiad z policjantami.  
@@ -51706,7 +51706,7 @@
 **Mox:** A, tak. Mówiono mi, że dobrze wypadałem przed kamerą.  
 **Ella:** Wiesz, że tak uważam!  
 **Chloe:** Musisz tylko ostrożniej wybierać kamery.  
-**Ella:** Hahaha. Och, Chloe. Może pomożesz mi namówić Mox na wspólny występ.  
+**Ella:** Hahaha. Och, Chloe. Może pomożesz mi namówić Moxa na wspólny występ.  
 **Mox:** Nawet sobie z tego nie żartuj.  
 **Ella:** Żartuję.  
 **Chloe:** Chyba powinnam wracać do domu. Powiedziałam mamie, że wrócę po kolacji z siostrą Judy.  
@@ -52682,7 +52682,7 @@
 **Judy:** Ja… Eee…  
 **Mox:** Chętnie posłucham.  
 **Judy:** Ale, Mox…  
-**Chloe:** Judy! Chodzi o Mox, prawda?  
+**Chloe:** Judy! Chodzi o Moxa, prawda?  
 **Judy:** To tylko…  
 **Mox:** Nic nie szkodzi, siostro Judy. Mogę wyjść.  
 **Judy:** Nie, zaczekaj… Zostań. Nic się nie stało.  
@@ -53828,7 +53828,7 @@
 **Chloe:** Wy dwoje… zrobiliście coś seksualnego?  
 **Mox:** Powiedz jej, Judy.  
 **Judy:** Mox… Pokazał mi, jak… się dotykać.  
-**Chloe:** Judy! Nie wiedziałam, że poprosisz Mox o pomoc!  
+**Chloe:** Judy! Nie wiedziałam, że poprosisz Moxa o pomoc!  
 **Judy:** Nie chciałam! Po prostu… musiałam wiedzieć.  
 **Mox:** Tłumienie tych uczuć nie jest zdrowe.  
 **Chloe:** Wiem… Też próbowałam.  
@@ -53842,7 +53842,7 @@
 **Judy:** Są jakieś nowe sztuczki?  
 **Chloe:** Judy! Może nie powinnaś tak się w to angażować.  
 **Judy:** Ale jeśli można stłumić te uczucia, to chyba warto spróbować.  
-**Chloe:** Ale… przy Mox?  
+**Chloe:** Ale… przy Moxie?  
 **Mox:** Spokojnie, Chloe. Nie zamierzam was wykorzystywać…  
 **Mox:** Żadnego seksu. Obiecuję.  
 **Judy:** To taki dobry człowiek.  
@@ -54020,7 +54020,7 @@
 
 > **🎬 Wstawka wideo:** `JuChMcMst19.mp4` (zapętlone)
 
-**Judy:** To wyszło z Mox?  
+**Judy:** To wyszło z Moxa?  
 **Mox:** Wszystko w porządku, Chloe?  
 **Chloe:** Tak… To przyjemne.  
 **Judy:** Jest ciepła?  
@@ -55269,9 +55269,9 @@
 **Carol:** Myślisz, że zakonnica miałaby coś przeciwko plamom na prześcieradłach?  
 **Heather:** Carol!... Ale wstyd.  
 **Mox:** Nie martw się. Brian jest spoko.  
-**Carol:** Jak mówię Mox… Zabawa jest dopiero wtedy, gdy czasem dacie się złapać.  
+**Carol:** Jak mówię Moxowi… Zabawa jest dopiero wtedy, gdy czasem dacie się złapać.  
 **Heather:** Chciałabym mieć twoje podejście do życia, Carol.  
-**Carol:** Dojdziesz do tego. Musisz tylko pozwolić Mox wyruchać ten kij z twojej dupy.  
+**Carol:** Dojdziesz do tego. Musisz tylko pozwolić Moxowi wyruchać ten kij z twojej dupy.  
 **Mox:** Yyy… Nie sądzę, że tak to przysłowie brzmi.  
 **Heather:** Hej. Ktoś musi na nas uważać.  
 **Carol:** Haha. Na wiele się to zdało.  
@@ -55814,7 +55814,7 @@
 **Brian:** /greet  
 **Mox:** Mam wodę święconą i krucyfiksy. Co teraz?  
 **Brian:** Musimy rozstawić je w kościele. Gdy demon zobaczy choć jeden z tych cacek, ucieknie, gdzie pieprz rośnie.  
-**Judy:** Proszę się nie martwić, ojcze. Niech ojciec dalej się uczy. Pomogę Mox z krucyfiksami.  
+**Judy:** Proszę się nie martwić, ojcze. Niech ojciec dalej się uczy. Pomogę Moxowi z krucyfiksami.  
 **Brian:** /thanks  
 **Judy:** /order  
 
@@ -57311,7 +57311,7 @@
 **Mox:** Wszyscy grzeczni?  
 **Judy:** Będziemy wszyscy spać na tym łóżku?  
 **Mox:** Haha. Ja będę spać na kanapie.  
-**Hannah:** Byłoby strasznie przytulnie mieć Mox z nami.  
+**Hannah:** Byłoby strasznie przytulnie mieć Moxa z nami.  
 **Chloe:** Koniec z gadką o seksie, Hannah.  
 **Hannah:** Nic nie mówiłam!  
 **Mox:** Robi się późno, kiedy pójdziecie spać?  
@@ -58532,7 +58532,7 @@
 
 > **🎬 Wstawka wideo:** `HnHeGtr7.mp4` (zapętlone)
 
-**Hannah:** Teraz moja kolej! Chcę ujeżdżać Mox!  
+**Hannah:** Teraz moja kolej! Chcę ujeżdżać Moxa!  
 **Mox:** To nie zawody!  
 **Heather:** Jak sama powiedziała — teraz nasza kolej.  
 
@@ -59629,7 +59629,7 @@
 **Chloe:** Kiedy wszyscy skończą jeść, możemy przenieść się z rozmową do salonu.  
 **Erica:** Brzmi dobrze.  
 **Ella:** Kolacja była pyszna.  
-**Judy:** Dzięki Mox.  
+**Judy:** Dzięki Moxowi.  
 **Hannah:** Lepiej schowajmy alkohol. Nie chcemy, żeby Heather wiedziała, że piliśmy.  
 
 ---
@@ -62492,7 +62492,7 @@
 > **🎬 Wstawka wideo:** `LiErDnr18.mp4` (zapętlone)
 
 **Lillian:** Mężczyzna twoich lubieżnych pragnień jest gotów — z pulsującym kutasem i nieposkromioną żądzą, by zasiać w tobie swoje nasienie.  
-**Erica:** Musimy doprowadzić Mox do orgazmu.  
+**Erica:** Musimy doprowadzić Moxa do orgazmu.  
 **Lillian:** Tak, oczywiście. Jego potrzeby są naszymi potrzebami.  
 **Erica:** Co… co mamy zrobić?  
 **Lillian:** Myślę, że wiesz, co będzie dalej.  
@@ -63299,13 +63299,13 @@
 **Mox:** O cholera!  
 **Andrea:** Wiedziałam, że mogę na tobie polegać, Mox.  
 **Duncan:** Masz tupet, że tu przychodzisz. Zamierzasz mnie zabić?  
-**Ella:** Pomogłam Mox.  
+**Ella:** Pomogłam Moxowi.  
 **Andrea:** Posłuchaj jej. Uratowała mi życie, a pewnie i twoje.  
 **Mox:** Śledziliśmy twojego zbira przez stary bunkier.  
 **Ella:** No tak. Udało nam się go wytropić.  
 **Duncan:** Skurwysyn! Na pewno chciał się na mnie zemścić.  
 **Andrea:** Cóż, już nie żyje.  
-**Duncan:** Dzięki Mox.  
+**Duncan:** Dzięki Moxowi.  
 **Mox:** Co my teraz, do cholery, zrobimy? Udawać, że uciekł?  
 **Duncan:** Zabijmy Morgan, a potem zakopmy oba ciała w lesie.  
 **Andrea:** Duncan! Twoja obsesja na punkcie zemsty doprowadzi mnie do zguby.  
@@ -63354,7 +63354,7 @@
 **Ella:** Jestem twoją kobietą.  
 **Andrea:** Udowodnij to.  
 **Ella:** Zabiłam tego płatnego mordercę. To nie wystarczy?  
-**Andrea:** Mam własne sposoby sprawdzania ludzi wokół siebie… Zapytaj Mox.  
+**Andrea:** Mam własne sposoby sprawdzania ludzi wokół siebie… Zapytaj Moxa.  
 **Mox:** Mówisz poważnie?  
 **Andrea:** Rozbierz się, Morgan Deluna.  
 **Ella:** Mów mi Ella.  
@@ -63375,7 +63375,7 @@
 
 **Andrea:** Co myślisz, kochanie? Zebraliśmy najseksowniejszą ekipę?  
 **Mox:** Łał! Trudno się z tym nie zgodzić.  
-**Ella:** Mamy puścić Mox płazem?  
+**Ella:** Mamy puścić Moxa płazem?  
 **Andrea:** Nie ma mowy.  
 
 > **🎬 Wstawka wideo:** `AdElMsn3.mp4` (zapętlone)
@@ -65174,7 +65174,7 @@
 **Mox:** Tak, Lillian.  
 **Kimberly:** Rozumiemy.  
 **Zakapturzona postać:** Pozwól mi pomóc. Mogę poszukać fragmentów Tomy.  
-**Lillian:** Absolutnie nie. Musisz pozostać w ukryciu. Musimy zyskać dla Mox na czasie.  
+**Lillian:** Absolutnie nie. Musisz pozostać w ukryciu. Musimy zyskać dla Moxa na czasie.  
 **Zakapturzona postać:** Oczywiście, Matko.  
 **Zakapturzona postać:** Nasz czas dobiega końca. Nie zawiedź Matki.  
 **Mox:** Panuję nad sytuacją.  
@@ -65389,7 +65389,7 @@
 
 ## Mapa 125 — Wejście do szczeliny / event 63 / strona 1
 
-**Tasha:** Wygląda na to, że Duncan nie zabił Mox.  
+**Tasha:** Wygląda na to, że Duncan nie zabił Moxa.  
 **Brian:** No najwyższy czas. Co cię tak zatrzymało?  
 **Mox:** Yyy… Bez konkretnego powodu.  
 **Mox:** Dokąd poszli Henry i Diana?  
@@ -67312,7 +67312,7 @@
 
 **Carol:** Hannah też ma swoją kolej…  
 **Carol:** No już, wy dwoje. Nie wstydźcie się.  
-**Chloe:** Nie przeszkadza ci, że Hannah sypia z Mox?  
+**Chloe:** Nie przeszkadza ci, że Hannah sypia z Moxem?  
 **Carol:** Oczywiście. Żadna z nas nie chce zagarniać całej zabawy dla siebie. To byłoby niegrzeczne.  
 **Mox:** To tylko zabawa, Chloe.  
 **Chloe:** Mam… się rozebrać?  
@@ -68566,7 +68566,7 @@
 **Erica:** Wiesz… Jest tu całkiem przytulnie.  
 **Mox:** Chodź. Zanieśmy tę książkę ojcu Solomonowi.  
 **Erica:** Dokąd ten pośpiech?  
-**Chloe:** Co? Chcesz pieprzyć się z Mox w kościele?  
+**Chloe:** Co? Chcesz pieprzyć się z Moxem w kościele?  
 **Erica:** No dalej! Będzie ekscytująco!  
 **Chloe:** To znaczy… To chyba lekka przesada, nie?  
 **Mox:** Po prostu chodźmy.  
@@ -68993,7 +68993,7 @@
 **Carol:** Owszem. A z tego, co słyszę, ty i Chloe też podziwialiście stąd widoki.  
 **Chloe:** Powinnam była wiedzieć, żeby ci nie mówić, Carol.  
 **Mox:** Haha. Cóż… Nie myli się.  
-**Carol:** Nie mogę powiedzieć, żeby moje igraszki z Mox były równie przytulne jak to miejsce.  
+**Carol:** Nie mogę powiedzieć, żeby moje igraszki z Moxem były równie przytulne jak to miejsce.  
 **Chloe:** Igraszki?  
 **Mox:** Och! Eee!...  
 **Carol:** Tak! Chłopak ostatnio zapewnia mi mnóstwo rozkoszy. Jesteśmy szczęściarami.  
@@ -70567,7 +70567,7 @@
 > **🎬 Wstawka wideo:** `LiKiDC4.mp4` (zapętlone)
 
 **Kimberly:** Nieźle, kobieto. Wiesz, jak ugościć gościa.  
-**Lillian:** Byłaś niegrzeczną dziewczynką. Zwłaszcza wobec Mox.  
+**Lillian:** Byłaś niegrzeczną dziewczynką. Zwłaszcza wobec Moxa.  
 **Kimberly:** Może powinnam mu to wynagrodzić.  
 **Lillian:** Myślałam o tym samym.  
 
@@ -75816,7 +75816,7 @@
 **Brian:** /order  
 **Demon 1:** Nie tak szybko!  
 **Demon 2:** Zapłacisz mi za to!  
-**Lillian:** Spokojnie. Kapłan wyprał Mox mózg. On nie rozumie, co się dzieje.  
+**Lillian:** Spokojnie. Kapłan wyprał Moxa mózg. On nie rozumie, co się dzieje.  
 **Mox:** To ty pierzesz Kimberly mózg!  
 **Demon 3:** Uciekła.  
 **Lillian:** Puśćcie ich. Kimberly rozumie, w jakiej jesteśmy sytuacji. Postąpi właściwie.  
@@ -76623,9 +76623,9 @@
 **Mox:** Wszyscy wracać do rezydencji!  
 **Henry:** Jeszcze nie skończyliśmy.  
 **Mox:** Znajdę Ericę. Reszta do środka.  
-**Henry:** Diana… Dopilnuj, żeby Duncan nie uciekł. Idę z Mox.  
+**Henry:** Diana… Dopilnuj, żeby Duncan nie uciekł. Idę z Moxem.  
 **Diana:** Nie zgiń przez to, Henry.  
-**Hannah:** Ja też idę z Mox!  
+**Hannah:** Ja też idę z Moxem!  
 **Carol:** O nie, nie pójdziesz!  
 **Funkcjonariusz A:** No dalej, wszyscy! Musimy iść!  
 **Bobby:** /order  
@@ -76667,7 +76667,7 @@
 
 > **Ścieżka warunkowa:** Ext House Impressive ≥ 17.
 
-**Heather:** Jestem taka dumna z Mox. Stworzył sobie taki piękny dom.  
+**Heather:** Jestem taka dumna z Moxem. Stworzył sobie taki piękny dom.  
 
 > **Ścieżka warunkowa:** Ext House Impressive ≥ 17 → Int House Impressive ≥ 23.
 
@@ -76837,7 +76837,7 @@
 **Melissa:** Przepraszam za spóźnienie.  
 **Paul:** W samą porę. Za pięć minut wchodzimy na żywo.  
 **Kimberly:** Jak wygląda?  
-**Paul:** Zbliżenia na Mox.  
+**Paul:** Zbliżenia na Moxa.  
 **Melissa:** …  
 **Melissa:** Od tego zależą nasze posady. Jeśli coś pójdzie nie tak, wylecimy.  
 **Kimberly:** Rozbiłeś Gildię. Nie zwolnią cię po tej transmisji.  
@@ -76963,7 +76963,7 @@
 **Kimberly:** Co powiesz, detektywie? Dasz mi spróbować?  
 **Melissa:** /shock  
 **Mox:** Cholera, Kimberly. Nie tracisz czasu.  
-**Melissa:** Moje życie seksualne z Mox to nie twoja sprawa.  
+**Melissa:** Moje życie seksualne z Moxem to nie twoja sprawa.  
 **Kimberly:** Dzielimy się jego kutasem. To jak najbardziej nasza wspólna sprawa.  
 **Melissa:** …  
 **Mox:** Ona nie kłamie.  
@@ -80674,11 +80674,11 @@
 **Evie:** Właśnie pomogłyśmy. Na pewno lepiej rozumiesz już demony.  
 **Arianna:** Och, chodziło mi o mój problem.  
 **Demon 3:** Jaki problem?  
-**Arianna:** Nie chcę skrzywdzić Mox, kiedy uprawiamy seks, i nie wiem, co zrobić z tymi uczuciami.  
+**Arianna:** Nie chcę skrzywdzić Moxa, kiedy uprawiamy seks, i nie wiem, co zrobić z tymi uczuciami.  
 **Demon 2:** Ha, ha, skrzywdzić go? Czy wy dwoje się z nami oszczędzaliście?  
 **Demon 3:** Może powinniśmy wszyscy zaliczyć jeszcze jedną rundkę…  
 **Arianna:** Proszę, potrzebuję odpowiedzi. Chyba chodzi o to uczucie, które ciągle teraz we mnie jest…  
-**Arianna:** O to, że pragnę Mox.  
+**Arianna:** O to, że pragnę Moxa.  
 **Demon 1:** Żądza jest u demonów czymś normalnym, mała.  
 **Arianna:** Nie, to coś innego! Wcześniej było dziko i erotycznie… Teraz jest jakoś inaczej, łagodniej…  
 **Arianna:** Po prostu chcę być blisko niego.  
@@ -80702,7 +80702,7 @@
 **Arianna:** Na pewno mogę coś zrobić?  
 **Evie:** Niestety nie.  
 **Evie:** Z drugiej strony ludzie dobrze znają się na takich sprawach.  
-**Evie:** Może zdołasz się z tym uporać razem z Mox.  
+**Evie:** Może zdołasz się z tym uporać razem z Moxem.  
 **Arianna:** Mox?  
 **Mox:** Arianno, może wrócimy do domu?  
 **Arianna:** Skoro tak uważasz…  

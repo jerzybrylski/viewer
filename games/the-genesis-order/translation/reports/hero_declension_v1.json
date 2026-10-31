@@ -1,0 +1,590 @@
+{
+  "schema": "tgo-hero-declension-report-v1",
+  "decision": "R-12 — imię bohatera w Czytance ma poprawne formy przypadków",
+  "mode": "audit (drafty bez zmian; odmiana na warstwie Czytanki)",
+  "hero": {
+    "name": "Mox",
+    "forms": {
+      "nom": "Mox",
+      "voc": "Mox",
+      "gen": "Moxa",
+      "dat": "Moxowi",
+      "acc": "Moxa",
+      "ins": "Moxem",
+      "loc": "Moxie"
+    }
+  },
+  "records_with_placeholder": 2431,
+  "occurrences": 2433,
+  "records_changed_in_reading": 67,
+  "by_case": {
+    "acc": 26,
+    "brak": 2,
+    "dat": 9,
+    "gen": 7,
+    "ins": 23,
+    "loc": 2,
+    "nom": 472,
+    "voc": 1892
+  },
+  "by_reason": {
+    "wołacz (forma równa mianownikowi)": 1892,
+    "brak słowa rządzącego — mianownik": 350,
+    "przyimek z (domyślnie) → ins": 23,
+    "brak rządu („że”) — mianownik": 23,
+    "brak rządu („i”) — mianownik": 8,
+    "brak rządu („to”) — mianownik": 7,
+    "brak rządu („a”) — mianownik": 6,
+    "brak rządu („może”) — mianownik": 5,
+    "brak rządu („kutas”) — mianownik": 4,
+    "brak rządu („kutasa”) — mianownik": 4,
+    "brak rządu („siusiaka”) — mianownik": 3,
+    "brak rządu („żeby”) — mianownik": 3,
+    "brak rządu („biedny”) — mianownik": 3,
+    "brak rządu („detektyw”) — mianownik": 3,
+    "przyimek dla → gen": 3,
+    "przyimek dzięki → dat": 3,
+    "brak rządu („mi”) — mianownik": 2,
+    "brak rządu („gdyby”) — mianownik": 2,
+    "brak rządu („czemu”) — mianownik": 2,
+    "brak rządu („ale”) — mianownik": 2,
+    "brak rządu („się”) — mianownik": 2,
+    "brak rządu („tu”) — mianownik": 2,
+    "czasownik znasz → acc": 2,
+    "brak rządu („tylko”) — mianownik": 2,
+    "czasownik namówić → acc": 2,
+    "czasownik zapytaj → acc": 2,
+    "czasownik chroń → acc": 1,
+    "brak rządu („imię”) — mianownik": 1,
+    "brak rządu („sprawie”) — mianownik": 1,
+    "brak rządu („nam”) — mianownik": 1,
+    "brak rządu („dziwkami”) — mianownik": 1,
+    "czasownik ujeżdżać → acc": 1,
+    "brak rządu („przykład”) — mianownik": 1,
+    "brak rządu („każmy”) — mianownik": 1,
+    "czasownik puścić → acc": 1,
+    "brak rządu („detektywa”) — mianownik": 1,
+    "brak rządu („jak”) — mianownik": 1,
+    "brak rządu („oto”) — mianownik": 1,
+    "czasownik mieć → acc": 1,
+    "czasownik zabił → acc": 1,
+    "brak rządu („programu”) — mianownik": 1,
+    "brak rządu („czy”) — mianownik": 1,
+    "czasownik pomogę → dat": 1,
+    "czasownik wyprał → acc": 1,
+    "czasownik skrzywdzić → acc": 1,
+    "czasownik pragnę → acc": 1,
+    "czasownik porwały → acc": 1,
+    "brak rządu („domu”) — mianownik": 1,
+    "brak rządu („oskarżonego”) — mianownik": 1,
+    "przyimek za (domyślnie) → acc": 1,
+    "przyimek o + chodzi → acc": 1,
+    "czasownik widziałam → acc": 1,
+    "czasownik wprawiaj → acc": 1,
+    "brak rządu („siusiaku”) — mianownik": 1,
+    "brak rządu („oglądajmy”) — mianownik": 1,
+    "brak rządu („głowie”) — mianownik": 1,
+    "brak rządu („pomoże”) — mianownik": 1,
+    "czasownik porwać → acc": 1,
+    "czasownik pomóc → dat": 1,
+    "czasownik słuchaj → gen": 1,
+    "brak rządu („wychowują”) — mianownik": 1,
+    "brak rządu („sperma”) — mianownik": 1,
+    "brak rządu („młody”) — mianownik": 1,
+    "czasownik zgłaszam → acc": 1,
+    "brak rządu („najwyraźniej”) — mianownik": 1,
+    "brak rządu („przyjaciel”) — mianownik": 1,
+    "czasownik poprosić → acc": 1,
+    "brak rządu („najpierw”) — mianownik": 1,
+    "brak rządu („chyba”) — mianownik": 1,
+    "brak rządu („oj”) — mianownik": 1,
+    "czasownik poprosisz → acc": 1,
+    "przyimek przy → loc": 1,
+    "brak rządu („wizyta”) — mianownik": 1,
+    "rzeczownik program → gen": 1,
+    "brak rządu („bo”) — mianownik": 1,
+    "brak rządu („co”) — mianownik": 1,
+    "brak rządu („cholery”) — mianownik": 1,
+    "czasownik mówię → dat": 1,
+    "czasownik pozwolić → dat": 1,
+    "czasownik powiedziałaś → dat": 1,
+    "czasownik „pamiętaj” poza tabelą rządu": 1,
+    "brak rządu („jedno”) — mianownik": 1,
+    "przyimek na (domyślnie) → acc": 1,
+    "brak rządu („santivy”) — mianownik": 1,
+    "brak rządu („kłamie”) — mianownik": 1,
+    "czasownik pomogłam → dat": 1,
+    "czasownik oglądać → acc": 1,
+    "brak rządu („głową”) — mianownik": 1,
+    "brak rządu („rannego”) — mianownik": 1,
+    "przyimek w (domyślnie) → loc": 1,
+    "brak rządu („ci”) — mianownik": 1,
+    "brak rządu („wyraźnie”) — mianownik": 1,
+    "czasownik „potem” poza tabelą rządu": 1,
+    "brak rządu („niż”) — mianownik": 1,
+    "przyimek z + wyszło (źródło) → gen": 1,
+    "brak rządu („wdzięczna”) — mianownik": 1,
+    "brak rządu („której”) — mianownik": 1,
+    "przyimek wobec → gen": 1,
+    "czasownik doprowadzić → acc": 1
+  },
+  "examples_by_case": {
+    "voc": [
+      "Chyba ty też nie wiesz, co robisz, Mox.",
+      "Zaprosiłeś już Chloe na randkę, Mox?",
+      "Powiedz mi, Mox. Kiedy ostatnio się pieprzyłeś?"
+    ],
+    "nom": [
+      "Ja zdjęłam koszulkę… Mox też zdjął…",
+      "Mox! Co ukrywasz?",
+      "Nazywam się pan Canmore… Mox Canmore."
+    ],
+    "ins": [
+      "Coś jest nie tak z Moxem!",
+      "Moje życie seksualne z Moxem to nie twoja sprawa.",
+      "Cóż… Wiesz, siostro Judy, pieprzyłam się z Moxem już mnóstwo razy."
+    ],
+    "acc": [
+      "Panie, chroń Moxa.",
+      "Teraz moja kolej! Chcę ujeżdżać Moxa!",
+      "Mamy puścić Moxa płazem?"
+    ],
+    "gen": [
+      "Absolutnie nie. Musisz pozostać w ukryciu. Musimy zyskać dla Moxa na czasie.",
+      "Nie bądź niemiła dla Moxa.",
+      "Nie słuchaj Moxa. Wcale nie zna mnie tak dobrze, jak mu się wydaje."
+    ],
+    "dat": [
+      "Proszę się nie martwić, ojcze. Niech ojciec dalej się uczy. Pomogę Moxowi z krucyfiksami.",
+      "Hej, może Henry mógłby pomóc Moxowi?",
+      "Ściółka jest mokra dzięki Moxowi. Zaczynajmy."
+    ],
+    "loc": [
+      "Ale… przy Moxie?",
+      "Chloe bez przerwy opowiada, jak bardzo podkochuje się w Moxie, a teraz jeszcze dzieli się nim z tobą…"
+    ],
+    "brak": [
+      "Pamiętaj, Mox: trzymaj się moich wskazówek.",
+      "Włożyłam sobie wibrator w tyłek, a potem Mox zerżnął mnie w cipkę."
+    ]
+  },
+  "changes": [
+    {
+      "id": "tgo:custom_dialogue:7974e18a5a43fd99505b",
+      "file": "translation/drafts/custom-dialogue-common-event-326-01.jsonl",
+      "before": "Coś jest nie tak z 1Hero!",
+      "after": "Coś jest nie tak z Moxem!"
+    },
+    {
+      "id": "tgo:custom_dialogue:de7235cc0e9cb7e58b4f",
+      "file": "translation/drafts/custom-dialogue-common-event-326-01.jsonl",
+      "before": "Panie, chroń 1Hero.",
+      "after": "Panie, chroń Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:d10c854ebc8a615c20f2",
+      "file": "translation/drafts/custom-dialogue-common-event-420-01.jsonl",
+      "before": "Moje życie seksualne z 1Hero to nie twoja sprawa.",
+      "after": "Moje życie seksualne z Moxem to nie twoja sprawa."
+    },
+    {
+      "id": "tgo:custom_dialogue:ee21c3623391b2480cd0",
+      "file": "translation/drafts/custom-dialogue-common-event-430-01.jsonl",
+      "before": "Teraz moja kolej! Chcę ujeżdżać 1Hero!",
+      "after": "Teraz moja kolej! Chcę ujeżdżać Moxa!"
+    },
+    {
+      "id": "tgo:custom_dialogue:e88744bdaa68ebdd936a",
+      "file": "translation/drafts/custom-dialogue-common-event-438-01.jsonl",
+      "before": "Cóż… Wiesz, siostro Judy, pieprzyłam się z 1Hero już mnóstwo razy.",
+      "after": "Cóż… Wiesz, siostro Judy, pieprzyłam się z Moxem już mnóstwo razy."
+    },
+    {
+      "id": "tgo:custom_dialogue:339c499902f9918921b1",
+      "file": "translation/drafts/custom-dialogue-common-event-439-01.jsonl",
+      "before": "Mamy puścić 1Hero płazem?",
+      "after": "Mamy puścić Moxa płazem?"
+    },
+    {
+      "id": "tgo:custom_dialogue:b66104136c3522295c46",
+      "file": "translation/drafts/custom-dialogue-common-event-npc-barks-followups-02.jsonl",
+      "before": "Jestem taka dumna z 1Hero. Stworzył sobie taki piękny dom.",
+      "after": "Jestem taka dumna z Moxem. Stworzył sobie taki piękny dom."
+    },
+    {
+      "id": "tgo:custom_dialogue:5187630e4fcaa92e8ecd",
+      "file": "translation/drafts/custom-dialogue-map11-gym-followups-01.jsonl",
+      "before": "Och, yyy, to miła propozycja. Ale chyba wolę zostać z 1Hero.",
+      "after": "Och, yyy, to miła propozycja. Ale chyba wolę zostać z Moxem."
+    },
+    {
+      "id": "tgo:custom_dialogue:d8d10ee0030e55f4f250",
+      "file": "translation/drafts/custom-dialogue-map119-followups-01.jsonl",
+      "before": "Byłoby strasznie przytulnie mieć 1Hero z nami.",
+      "after": "Byłoby strasznie przytulnie mieć Moxa z nami."
+    },
+    {
+      "id": "tgo:custom_dialogue:b89e5142b2e2644859c8",
+      "file": "translation/drafts/custom-dialogue-map121-followups-01.jsonl",
+      "before": "Nie… Chce spotkać się z 1Hero w rezydencji.",
+      "after": "Nie… Chce spotkać się z Moxem w rezydencji."
+    },
+    {
+      "id": "tgo:custom_dialogue:d4d88b2a2d9ad6c6e9e6",
+      "file": "translation/drafts/custom-dialogue-map125-toma-rift-followups-01.jsonl",
+      "before": "Absolutnie nie. Musisz pozostać w ukryciu. Musimy zyskać dla 1Hero na czasie.",
+      "after": "Absolutnie nie. Musisz pozostać w ukryciu. Musimy zyskać dla Moxa na czasie."
+    },
+    {
+      "id": "tgo:custom_dialogue:02a120bf0757336c490a",
+      "file": "translation/drafts/custom-dialogue-map125-toma-rift-followups-01.jsonl",
+      "before": "Wygląda na to, że Duncan nie zabił 1Hero.",
+      "after": "Wygląda na to, że Duncan nie zabił Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:109c53f4cf231a8b3e84",
+      "file": "translation/drafts/custom-dialogue-map144-library-followups-01.jsonl",
+      "before": "Proszę się nie martwić, ojcze. Niech ojciec dalej się uczy. Pomogę 1Hero z krucyfiksami.",
+      "after": "Proszę się nie martwić, ojcze. Niech ojciec dalej się uczy. Pomogę Moxowi z krucyfiksami."
+    },
+    {
+      "id": "tgo:custom_dialogue:88a79768e5c8945fddb0",
+      "file": "translation/drafts/custom-dialogue-map151-hell-followups-02.jsonl",
+      "before": "Spokojnie. Kapłan wyprał 1Hero mózg. On nie rozumie, co się dzieje.",
+      "after": "Spokojnie. Kapłan wyprał Moxa mózg. On nie rozumie, co się dzieje."
+    },
+    {
+      "id": "tgo:custom_dialogue:b1052612a166b8b7cd15",
+      "file": "translation/drafts/custom-dialogue-map151-hell-followups-02.jsonl",
+      "before": "Diana… Dopilnuj, żeby Duncan nie uciekł. Idę z 1Hero.",
+      "after": "Diana… Dopilnuj, żeby Duncan nie uciekł. Idę z Moxem."
+    },
+    {
+      "id": "tgo:custom_dialogue:69fa6cf943867936906e",
+      "file": "translation/drafts/custom-dialogue-map151-hell-followups-02.jsonl",
+      "before": "Ja też idę z 1Hero!",
+      "after": "Ja też idę z Moxem!"
+    },
+    {
+      "id": "tgo:custom_dialogue:a67c89f964b9ca6ce837",
+      "file": "translation/drafts/custom-dialogue-map157-hell-followups-01.jsonl",
+      "before": "Nie chcę skrzywdzić 1Hero, kiedy uprawiamy seks, i nie wiem, co zrobić z tymi uczuciami.",
+      "after": "Nie chcę skrzywdzić Moxa, kiedy uprawiamy seks, i nie wiem, co zrobić z tymi uczuciami."
+    },
+    {
+      "id": "tgo:custom_dialogue:163cc29846c90c128241",
+      "file": "translation/drafts/custom-dialogue-map157-hell-followups-01.jsonl",
+      "before": "O to, że pragnę 1Hero.",
+      "after": "O to, że pragnę Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:e90b8206f124ce153096",
+      "file": "translation/drafts/custom-dialogue-map157-hell-followups-01.jsonl",
+      "before": "Może zdołasz się z tym uporać razem z 1Hero.",
+      "after": "Może zdołasz się z tym uporać razem z Moxem."
+    },
+    {
+      "id": "tgo:custom_dialogue:632bdaee5c8ea73b671e",
+      "file": "translation/drafts/custom-dialogue-map16-heather-home-followups-01.jsonl",
+      "before": "Nie bądź niemiła dla 1Hero.",
+      "after": "Nie bądź niemiła dla Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:d5778a4901de51bafc17",
+      "file": "translation/drafts/custom-dialogue-map20-event-115-01.jsonl",
+      "before": "Zostań tutaj z dziewczynami. Pójdę z 1Hero do rozdarcia.",
+      "after": "Zostań tutaj z dziewczynami. Pójdę z Moxem do rozdarcia."
+    },
+    {
+      "id": "tgo:custom_dialogue:e46451543f5a2854bfb1",
+      "file": "translation/drafts/custom-dialogue-map20-event-61-01.jsonl",
+      "before": "Demony porwały 1Hero.",
+      "after": "Demony porwały Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:2ad0bb7b80d7dba7c698",
+      "file": "translation/drafts/custom-dialogue-map203-courtroom-followups-01.jsonl",
+      "before": "Musimy jak najszybciej znaleźć zastępstwo za 1Hero.",
+      "after": "Musimy jak najszybciej znaleźć zastępstwo za Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:c627c65e0866ba0b6330",
+      "file": "translation/drafts/custom-dialogue-map21-chapel-followups-01.jsonl",
+      "before": "Judy! Chodzi o 1Hero, prawda?",
+      "after": "Judy! Chodzi o Moxa, prawda?"
+    },
+    {
+      "id": "tgo:custom_dialogue:a6e4f2277d6990bc1709",
+      "file": "translation/drafts/custom-dialogue-map23-event-44-01.jsonl",
+      "before": "Z 1Hero.",
+      "after": "Z Moxem."
+    },
+    {
+      "id": "tgo:custom_dialogue:e0d34b21a5306d8e3378",
+      "file": "translation/drafts/custom-dialogue-map23-followups-01.jsonl",
+      "before": "Zwykle nie oglądam telewizji, ale widziałam 1Hero w wiadomościach.",
+      "after": "Zwykle nie oglądam telewizji, ale widziałam Moxa w wiadomościach."
+    },
+    {
+      "id": "tgo:custom_dialogue:d4abeba4e896cc608193",
+      "file": "translation/drafts/custom-dialogue-map23-followups-01.jsonl",
+      "before": "Spokojnie, Hannah. Nie wprawiaj 1Hero w zakłopotanie. Nie zawsze może opowiadać o pracy…",
+      "after": "Spokojnie, Hannah. Nie wprawiaj Moxa w zakłopotanie. Nie zawsze może opowiadać o pracy…"
+    },
+    {
+      "id": "tgo:custom_dialogue:849121f2ba58b47032f1",
+      "file": "translation/drafts/custom-dialogue-map26-mansion-followups-01.jsonl",
+      "before": "Przepraszam, Lillian. Robiłam sobie przerwę z 1Hero.",
+      "after": "Przepraszam, Lillian. Robiłam sobie przerwę z Moxem."
+    },
+    {
+      "id": "tgo:custom_dialogue:8902b185f499e4d26fb5",
+      "file": "translation/drafts/custom-dialogue-map27-housewarming-followups-01.jsonl",
+      "before": "Cześć, Hannah. Nie przejmuj się mną. Właśnie z 1Hero wstaliśmy.",
+      "after": "Cześć, Hannah. Nie przejmuj się mną. Właśnie z Moxem wstaliśmy."
+    },
+    {
+      "id": "tgo:custom_dialogue:57848f0c978760b4c719",
+      "file": "translation/drafts/custom-dialogue-map30-dicks-restaurant-followups-01.jsonl",
+      "before": "Jesteś tu z 1Hero?",
+      "after": "Jesteś tu z Moxem?"
+    },
+    {
+      "id": "tgo:custom_dialogue:d66a614c9c0bebdc925d",
+      "file": "translation/drafts/custom-dialogue-map30-dicks-restaurant-followups-01.jsonl",
+      "before": "Miałam nadzieję porwać 1Hero na chwilę.",
+      "after": "Miałam nadzieję porwać Moxa na chwilę."
+    },
+    {
+      "id": "tgo:custom_dialogue:44fa9a493b35ed36d845",
+      "file": "translation/drafts/custom-dialogue-map31-alia-treasure-01.jsonl",
+      "before": "Hej, może Henry mógłby pomóc 1Hero?",
+      "after": "Hej, może Henry mógłby pomóc Moxowi?"
+    },
+    {
+      "id": "tgo:custom_dialogue:6e920af163af65ede3a8",
+      "file": "translation/drafts/custom-dialogue-map31-event-15-01.jsonl",
+      "before": "Nie słuchaj 1Hero. Wcale nie zna mnie tak dobrze, jak mu się wydaje.",
+      "after": "Nie słuchaj Moxa. Wcale nie zna mnie tak dobrze, jak mu się wydaje."
+    },
+    {
+      "id": "tgo:custom_dialogue:68578af4951dc7d63424",
+      "file": "translation/drafts/custom-dialogue-map31-event-15-01.jsonl",
+      "before": "Nie jesteśmy parą, młoda damo. Przyszłyśmy tu z 1Hero poszukać wrażeń.",
+      "after": "Nie jesteśmy parą, młoda damo. Przyszłyśmy tu z Moxem poszukać wrażeń."
+    },
+    {
+      "id": "tgo:custom_dialogue:d7818b468e352833dea0",
+      "file": "translation/drafts/custom-dialogue-map31-event-15-01.jsonl",
+      "before": "Skoro znasz 1Hero, masz już dość wrażeń.",
+      "after": "Skoro znasz Moxa, masz już dość wrażeń."
+    },
+    {
+      "id": "tgo:custom_dialogue:5a1306ce584bfbccefd5",
+      "file": "translation/drafts/custom-dialogue-map33-east-wing-followups-01.jsonl",
+      "before": "Mam mnóstwo pracy. Zgłaszam 1Hero.",
+      "after": "Mam mnóstwo pracy. Zgłaszam Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:60c6ea019879d7cb23d7",
+      "file": "translation/drafts/custom-dialogue-map4-apartments-followups-01.jsonl",
+      "before": "Skąd znasz 1Hero?",
+      "after": "Skąd znasz Moxa?"
+    },
+    {
+      "id": "tgo:custom_dialogue:14a4750b7d34cb650345",
+      "file": "translation/drafts/custom-dialogue-map49-church-attic-followups-01.jsonl",
+      "before": "Co? Chcesz pieprzyć się z 1Hero w kościele?",
+      "after": "Co? Chcesz pieprzyć się z Moxem w kościele?"
+    },
+    {
+      "id": "tgo:custom_dialogue:4a1fc42a4e0d62da1865",
+      "file": "translation/drafts/custom-dialogue-map49-church-attic-followups-01.jsonl",
+      "before": "Nie mogę powiedzieć, żeby moje igraszki z 1Hero były równie przytulne jak to miejsce.",
+      "after": "Nie mogę powiedzieć, żeby moje igraszki z Moxem były równie przytulne jak to miejsce."
+    },
+    {
+      "id": "tgo:custom_dialogue:eabd1cd82b52b837c6c9",
+      "file": "translation/drafts/custom-dialogue-map52-ella-chloe-followups-01.jsonl",
+      "before": "Hahaha. Och, Chloe. Może pomożesz mi namówić 1Hero na wspólny występ.",
+      "after": "Hahaha. Och, Chloe. Może pomożesz mi namówić Moxa na wspólny występ."
+    },
+    {
+      "id": "tgo:custom_dialogue:b9a83851f4b64c08b3c5",
+      "file": "translation/drafts/custom-dialogue-map53-followups-01.jsonl",
+      "before": "Jeśli wciąż ci zimno, Chloe, powinnaś poprosić 1Hero, żeby oblał cię spermą…",
+      "after": "Jeśli wciąż ci zimno, Chloe, powinnaś poprosić Moxa, żeby oblał cię spermą…"
+    },
+    {
+      "id": "tgo:custom_dialogue:38c0117358c38fd55059",
+      "file": "translation/drafts/custom-dialogue-map54-backyard-followups-01.jsonl",
+      "before": "Ściółka jest mokra dzięki 1Hero. Zaczynajmy.",
+      "after": "Ściółka jest mokra dzięki Moxowi. Zaczynajmy."
+    },
+    {
+      "id": "tgo:custom_dialogue:37a45c4543c06902cf7b",
+      "file": "translation/drafts/custom-dialogue-map55-followups-01.jsonl",
+      "before": "Judy! Nie wiedziałam, że poprosisz 1Hero o pomoc!",
+      "after": "Judy! Nie wiedziałam, że poprosisz Moxa o pomoc!"
+    },
+    {
+      "id": "tgo:custom_dialogue:890a051e8930763e300e",
+      "file": "translation/drafts/custom-dialogue-map55-followups-01.jsonl",
+      "before": "Ale… przy 1Hero?",
+      "after": "Ale… przy Moxie?"
+    },
+    {
+      "id": "tgo:custom_dialogue:6989474f7bb9905ecdf9",
+      "file": "translation/drafts/custom-dialogue-map6-church-followups-02.jsonl",
+      "before": "Włączmy telewizor. Chcę zobaczyć program 1Hero.",
+      "after": "Włączmy telewizor. Chcę zobaczyć program Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:77e49f953cb3c5202d89",
+      "file": "translation/drafts/custom-dialogue-map62-farm-cave-followups-01.jsonl",
+      "before": "To ty jesteś detektywką, która pracuje z 1Hero?",
+      "after": "To ty jesteś detektywką, która pracuje z Moxem?"
+    },
+    {
+      "id": "tgo:custom_dialogue:6eb7e851ae30bd0115a6",
+      "file": "translation/drafts/custom-dialogue-map62-farm-cave-followups-01.jsonl",
+      "before": "Daj spokój. Wszystkie straciłyśmy głowę dla 1Hero.",
+      "after": "Daj spokój. Wszystkie straciłyśmy głowę dla Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:38f06dac31d7f55888a4",
+      "file": "translation/drafts/custom-dialogue-map62-farm-cave-followups-01.jsonl",
+      "before": "Mamo! Pieprzysz się z 1Hero!",
+      "after": "Mamo! Pieprzysz się z Moxem!"
+    },
+    {
+      "id": "tgo:custom_dialogue:fa4631bc30645a171891",
+      "file": "translation/drafts/custom-dialogue-map73-followups-01.jsonl",
+      "before": "Jak mówię 1Hero… Zabawa jest dopiero wtedy, gdy czasem dacie się złapać.",
+      "after": "Jak mówię Moxowi… Zabawa jest dopiero wtedy, gdy czasem dacie się złapać."
+    },
+    {
+      "id": "tgo:custom_dialogue:077e1ee821c9bee09264",
+      "file": "translation/drafts/custom-dialogue-map73-followups-01.jsonl",
+      "before": "Dojdziesz do tego. Musisz tylko pozwolić 1Hero wyruchać ten kij z twojej dupy.",
+      "after": "Dojdziesz do tego. Musisz tylko pozwolić Moxowi wyruchać ten kij z twojej dupy."
+    },
+    {
+      "id": "tgo:custom_dialogue:7be84a9389cddd79a634",
+      "file": "translation/drafts/custom-dialogue-map76-kimura-home-followups-01.jsonl",
+      "before": "Nellie! Powiedziałaś 1Hero?",
+      "after": "Nellie! Powiedziałaś Moxowi?"
+    },
+    {
+      "id": "tgo:custom_dialogue:fef7ffc47539e17c623e",
+      "file": "translation/drafts/custom-dialogue-map76-kimura-home-followups-01.jsonl",
+      "before": "Zwłaszcza twoja współpraca z 1Hero.",
+      "after": "Zwłaszcza twoja współpraca z Moxem."
+    },
+    {
+      "id": "tgo:custom_dialogue:8491e9ceef195e5b632e",
+      "file": "translation/drafts/custom-dialogue-map76-kimura-home-followups-01.jsonl",
+      "before": "Przysługa za przysługę jeszcze nikomu nie zaszkodziła. Zapytaj 1Hero.",
+      "after": "Przysługa za przysługę jeszcze nikomu nie zaszkodziła. Zapytaj Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:0c043718aa436de1c601",
+      "file": "translation/drafts/custom-dialogue-map78-channel4-kimura-followups-01.jsonl",
+      "before": "Porozmawiajcie z 1Hero. Zaniosę szklanki do kuchni.",
+      "after": "Porozmawiajcie z Moxem. Zaniosę szklanki do kuchni."
+    },
+    {
+      "id": "tgo:custom_dialogue:524e0998b3b3bd45edee",
+      "file": "translation/drafts/custom-dialogue-map82-channel4-followups-01.jsonl",
+      "before": "Zbliżenia na 1Hero.",
+      "after": "Zbliżenia na Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:3036a08f94c94cbf9101",
+      "file": "translation/drafts/custom-dialogue-map87-mansion-ambush-followups-01.jsonl",
+      "before": "Pomogłam 1Hero.",
+      "after": "Pomogłam Moxowi."
+    },
+    {
+      "id": "tgo:custom_dialogue:f6734c14b006ec846816",
+      "file": "translation/drafts/custom-dialogue-map87-mansion-ambush-followups-01.jsonl",
+      "before": "Mam własne sposoby sprawdzania ludzi wokół siebie… Zapytaj 1Hero.",
+      "after": "Mam własne sposoby sprawdzania ludzi wokół siebie… Zapytaj Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:d15333a8d68c2cc656c7",
+      "file": "translation/drafts/custom-dialogue-map9-events-82-55-97-17-95-01.jsonl",
+      "before": "Dziewczyny będą oglądać 1Hero w wiadomościach. Dołącz do nich, Hannah.",
+      "after": "Dziewczyny będą oglądać Moxa w wiadomościach. Dołącz do nich, Hannah."
+    },
+    {
+      "id": "tgo:custom_dialogue:4ed5e4b8fee00e1fe58e",
+      "file": "translation/drafts/custom-dialogue-map94-church-followups-01.jsonl",
+      "before": "Chloe bez przerwy opowiada, jak bardzo podkochuje się w 1Hero, a teraz jeszcze dzieli się nim z tobą…",
+      "after": "Chloe bez przerwy opowiada, jak bardzo podkochuje się w Moxie, a teraz jeszcze dzieli się nim z tobą…"
+    },
+    {
+      "id": "tgo:custom_dialogue:4e7efb8c2016a654a8a6",
+      "file": "translation/drafts/custom-dialogue-repeated-03.jsonl",
+      "before": "Dzięki 1Hero.",
+      "after": "Dzięki Moxowi."
+    },
+    {
+      "id": "tgo:custom_dialogue:bddead21a5a6aa127cf9",
+      "file": "translation/drafts/custom-dialogue-repeated-03.jsonl",
+      "before": "Dzięki 1Hero.",
+      "after": "Dzięki Moxowi."
+    },
+    {
+      "id": "tgo:custom_dialogue:95f93a94d26a2ccb6b5d",
+      "file": "translation/drafts/custom-dialogue-scene-carol-chloe-basement-01.jsonl",
+      "before": "Nie przeszkadza ci, że Hannah sypia z 1Hero?",
+      "after": "Nie przeszkadza ci, że Hannah sypia z Moxem?"
+    },
+    {
+      "id": "tgo:custom_dialogue:b1c8627d8790a1cc42a0",
+      "file": "translation/drafts/custom-dialogue-scene-chloe-judy-masturbation-01.jsonl",
+      "before": "To wyszło z 1Hero?",
+      "after": "To wyszło z Moxa?"
+    },
+    {
+      "id": "tgo:custom_dialogue:dd2a3dd2c7d0af5cec3c",
+      "file": "translation/drafts/custom-dialogue-scene-dinner-01.jsonl",
+      "before": "Ciągle próbuję namówić 1Hero, żeby poszedł ze mną na siłownię. Może Hannah lepiej pójdzie z wyrobieniem mu formy.",
+      "after": "Ciągle próbuję namówić Moxa, żeby poszedł ze mną na siłownię. Może Hannah lepiej pójdzie z wyrobieniem mu formy."
+    },
+    {
+      "id": "tgo:custom_dialogue:ac62ebb9d7ec175bfd5c",
+      "file": "translation/drafts/custom-dialogue-scene-hannah-ella-carol-01.jsonl",
+      "before": "Pieprzysz się z 1Hero!",
+      "after": "Pieprzysz się z Moxem!"
+    },
+    {
+      "id": "tgo:custom_dialogue:ad644a5579c52766d152",
+      "file": "translation/drafts/custom-dialogue-scene-kimberly-lillian-chapel-01.jsonl",
+      "before": "Byłaś niegrzeczną dziewczynką. Zwłaszcza wobec 1Hero.",
+      "after": "Byłaś niegrzeczną dziewczynką. Zwłaszcza wobec Moxa."
+    },
+    {
+      "id": "tgo:custom_dialogue:aed065c54f6eecf43c3f",
+      "file": "translation/drafts/custom-dialogue-scene-lillian-dinner-01.jsonl",
+      "before": "Musimy doprowadzić 1Hero do orgazmu.",
+      "after": "Musimy doprowadzić Moxa do orgazmu."
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "tgo:custom_dialogue:f6faa9275f65d05eb7fc",
+      "file": "translation/drafts/custom-dialogue-map82-channel4-followups-01.jsonl",
+      "text": "Pamiętaj, 1Hero: trzymaj się moich wskazówek.",
+      "reason": "czasownik „pamiętaj” poza tabelą rządu"
+    },
+    {
+      "id": "tgo:custom_dialogue:b28d7adc161aeba90d69",
+      "file": "translation/drafts/custom-dialogue-scene-chloe-ella-drinks-01.jsonl",
+      "text": "Włożyłam sobie wibrator w tyłek, a potem 1Hero zerżnął mnie w cipkę.",
+      "reason": "czasownik „potem” poza tabelą rządu"
+    }
+  ],
+  "unresolved_count": 2
+}

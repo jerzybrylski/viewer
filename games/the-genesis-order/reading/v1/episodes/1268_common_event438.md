@@ -38,7 +38,7 @@
 **Mox:** Znowu to samo.  
 **Nellie:** Jak często wy dwoje to robicie?  
 **Mox:** To nie twoja sprawa, Nellie.  
-**Nellie:** Cóż… Wiesz, siostro Judy, pieprzyłam się z Mox już mnóstwo razy.  
+**Nellie:** Cóż… Wiesz, siostro Judy, pieprzyłam się z Moxem już mnóstwo razy.  
 **Judy:** /shock  
 
 > **🎬 Wstawka wideo:** `JuNe3sm6.mp4` (zapętlone)

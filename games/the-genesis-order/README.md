@@ -15,6 +15,7 @@ Projekt lokalizacyjny RPG Maker MV 1.6.1 + NW.js. Statyczny audyt i przekład kw
 
 - Standalone patch POC: [`translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`](translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip) z one-click patcherem i backup/restore; bez plików gry. Nie testowano Windows/runtime. Jego payload odtwarza się bajt w bajt ze scalenia draftów.
 - Czytanka PL v1: [`reading/v1/`](reading/v1/) i [`translation/packages/TGO_readalong_PL_v1.zip`](translation/packages/TGO_readalong_PL_v1.zip); **4 397** epizodów, indeksy 55 mówców, 291 lokacji i 3 696 plików wideo; 221/291 potencjalnie osiągalnych map w statycznym BFS. Kolejność nie jest kanoniczna.
+- Imię bohatera w Czytance: gra używa placeholdera `1Hero` (imię gracza w runtime), więc drafty go zachowują; Czytanka podstawia stałe `Mox` i **odmienia** je przez przypadki (`tools/hero_declension.py`): 67/2 433 wystąpień zmienionych, 2 nierozstrzygnięte. Raport decyzji: [`translation/reports/hero_declension_v1.json`](translation/reports/hero_declension_v1.json); reguły: ADR 004 i R-12.
 - Wstawki wideo w Czytance: **3 812** statycznie potwierdzonych wywołań `ysp.VideoPlayer` w **305** rozdziałach, oznaczone jako `> **🎬 Wstawka wideo:** \`plik\``. Inwentarz: [`translation/reports/tgo_movie_calls_v1.json`](translation/reports/tgo_movie_calls_v1.json) (1 047 435 B, SHA-256 `284bfb04d901e0667411a5077ca1d12a8246f5eeaffb60d8f8d364893d1ba55c`), indeks: [`reading/v1/index_movies_PL.md`](reading/v1/index_movies_PL.md).
 - Fragmenty Czytanki z wstawkami wideo: [`reading/fragments/`](reading/fragments/) — 12 plików dostarczonych przez właściciela (`TGO1`…`TGO12`, w tym `TG7`–`TG9`), **72** wstawki wstawione w te same miejsca co w pliku matce, treść i CRLF bez zmian. Raport: [`translation/reports/tgo_reading_fragments_video_v1.json`](translation/reports/tgo_reading_fragments_video_v1.json).
 - Source ZIP v1: [`translation/packages/TGO_source_translation_package_v1.zip`](translation/packages/TGO_source_translation_package_v1.zip) — pełny zatwierdzony statyczny zakres, kopia publikowana na Google Drive.
@@ -36,6 +37,8 @@ python3 games/the-genesis-order/tools/apply_translation.py --input games/the-gen
 python3 games/the-genesis-order/tools/build_translation_package.py
 python3 games/the-genesis-order/tools/audit_translation_coverage.py
 python3 games/the-genesis-order/tools/audit_draft_coverage.py --markdown-out games/the-genesis-order/docs/COVERAGE_AUDIT.md
+python3 games/the-genesis-order/tools/audit_hero_declension.py --drafts games/the-genesis-order/translation/drafts \
+    --report games/the-genesis-order/translation/reports/hero_declension_v1.json
 python3 games/the-genesis-order/tools/build_standalone_patch.py
 python3 games/the-genesis-order/tools/scan_movie_calls.py --data-dir google_drive/tgo_source \
     --movie-files google_drive/TGO_FILES.csv --out /tmp/tgo_movie_calls.json

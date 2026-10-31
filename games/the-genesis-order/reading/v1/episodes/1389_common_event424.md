@@ -99,7 +99,7 @@
 
 > **🎬 Wstawka wideo:** `HnCaElKtch15.mp4` (zapętlone)
 
-**Hannah:** Pieprzysz się z Mox!  
+**Hannah:** Pieprzysz się z Moxem!  
 **Ella:** Pozwól kobiecie trochę się zabawić.  
 **Mox:** Kurwa!…  
 **Carol:** Nie zazdrość, Hannah. Teraz kolej na mamusię.  

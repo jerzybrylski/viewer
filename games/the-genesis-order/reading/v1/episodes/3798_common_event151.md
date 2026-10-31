@@ -6,7 +6,7 @@
 
 > **Ścieżka warunkowa:** Ext House Impressive ≥ 17.
 
-**Heather:** Jestem taka dumna z Mox. Stworzył sobie taki piękny dom.  
+**Heather:** Jestem taka dumna z Moxem. Stworzył sobie taki piękny dom.  
 
 > **Ścieżka warunkowa:** Ext House Impressive ≥ 17 → Int House Impressive ≥ 23.
 

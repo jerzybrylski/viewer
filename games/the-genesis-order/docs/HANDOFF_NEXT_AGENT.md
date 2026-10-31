@@ -1,5 +1,13 @@
 # Handoff — The Genesis Order PL
 
+## 2026-10-31 (najnowsze) — odmiana imienia bohatera w Czytance (`1Hero` → Mox w przypadkach)
+
+- **Zrobione:** `tools/hero_declension.py` (warstwa prezentacji Czytanki; drafty zachowują `1Hero`, bo gra podstawia imię gracza) + `tools/audit_hero_declension.py` (read-only raport decyzji) + `build_readalong.py` używa `decline_text()` zamiast `replace`. Reguły: przyimek jednoznaczny → przypadek; przyimek wieloznaczny + zamknięta lista wyjątków (`z` + źródło → dopełniacz, „chodzi o” → biernik); czasownik z zamkniętej tabeli; rzeczownik rządzący dopełniaczem („program Moxa”); wołacz/mianownik; **czasownik spoza tabeli = brak decyzji, nie zgadywanie**.
+- **Wynik:** 2 431 rekordów / 2 433 wystąpienia; **67** zmienionych (biernik 26, narzędnik 23, celownik 9, dopełniacz 7, miejscownik 2), 2 nierozstrzygnięte („Pamiętaj, 1Hero: …” — dwukropek po imieniu; „… a potem 1Hero zerżnął …” — mianownik poprawny). Czytanka przebudowana: **55** plików różni się (53 epizody + skrypt + README); w skrypcie 0 form „przyimek + Mox” i 0 `1Hero`. Nowy ZIP: 4 403 wpisy, SHA-256 `4a055e38362d2ee5db8b2f1ed4ce6ee7fff3950eabe010026941ba22c941718b`.
+- **Dokumenty:** ADR 004, R-12 w `EDITORIAL_DECISIONS.md`, wpis w `EXPERIMENT_LOG.md`, `reading/v1/README_PL.md` (nowy punkt o imieniu bohatera — generowany przez build). Testy: `tests/test_hero_declension.py` (14 testów), pełny `unittest`: **220 OK**.
+- **Publikacja:** `TGO/translation/packages/` — `TGO_readalong_PL_v1.zip` `1UhNAW0w38hZyFGIMyOey9c3jj1slXYo6` + sidecar `15vtzrZfOAjmxqKCU1IqNxCK5aSDT0cle`; poprzednie wydanie w koszu.
+- **Do zrobienia / uwagi:** (1) jeśli właściciel chce, te same reguły można rozszerzyć o kolejne czasowniki — dopisywanie do `VERB_CASES` w `hero_declension.py`, nie zgadywanie; (2) dwukropek po wołaczu („Pamiętaj, Mox: …”) wymaga poprawki heurystyki `_is_vocative`, jeśli takich kwestii będzie więcej; (3) 628 nierozstrzygniętych z R-09 (imiona żeńskie) i imiona męskie na spółgłoskę pozostają otwarte — patrz `declension_r09_report.json` i decyzja właściciela o niepoprawianiu ich „na siłę”.
+
 ## 2026-10-31 (aktualizacja) — fragmenty Czytanki od właściciela mają już wstawki wideo
 
 - **Zrobione:** 12 plików z Drive `TGO/dostawy/` (`TGO1`…`TGO6`, `TG7`–`TG9`, `TGO10`…`TGO12`) to autorskie cięcia pliku matki (105 bloków, 93 nagłówki epizodów, 1 829 kwestii). `tools/annotate_reading_fragments.py` dopasował każdy blok do epizodu matki i wstawił **72** znaczniki `🎬 Wstawka wideo` w te same miejsca co w matce; 64 kwestie spoza matki zostały nietknięte i są w raporcie.

@@ -5,7 +5,7 @@
 **Kimberly:** Co powiesz, detektywie? Dasz mi spróbować?  
 **Melissa:** /shock  
 **Mox:** Cholera, Kimberly. Nie tracisz czasu.  
-**Melissa:** Moje życie seksualne z Mox to nie twoja sprawa.  
+**Melissa:** Moje życie seksualne z Moxem to nie twoja sprawa.  
 **Kimberly:** Dzielimy się jego kutasem. To jak najbardziej nasza wspólna sprawa.  
 **Melissa:** …  
 **Mox:** Ona nie kłamie.  

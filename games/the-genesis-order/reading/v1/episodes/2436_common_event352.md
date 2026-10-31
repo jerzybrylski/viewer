@@ -147,7 +147,7 @@
 
 > **🎬 Wstawka wideo:** `JuChMcMst19.mp4` (zapętlone)
 
-**Judy:** To wyszło z Mox?  
+**Judy:** To wyszło z Moxa?  
 **Mox:** Wszystko w porządku, Chloe?  
 **Chloe:** Tak… To przyjemne.  
 **Judy:** Jest ciepła?  

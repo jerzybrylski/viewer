@@ -35,7 +35,7 @@
 
 **Carol:** Hannah też ma swoją kolej…  
 **Carol:** No już, wy dwoje. Nie wstydźcie się.  
-**Chloe:** Nie przeszkadza ci, że Hannah sypia z Mox?  
+**Chloe:** Nie przeszkadza ci, że Hannah sypia z Moxem?  
 **Carol:** Oczywiście. Żadna z nas nie chce zagarniać całej zabawy dla siebie. To byłoby niegrzeczne.  
 **Mox:** To tylko zabawa, Chloe.  
 **Chloe:** Mam… się rozebrać?  

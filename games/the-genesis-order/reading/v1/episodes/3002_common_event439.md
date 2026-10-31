@@ -12,7 +12,7 @@
 
 **Andrea:** Co myślisz, kochanie? Zebraliśmy najseksowniejszą ekipę?  
 **Mox:** Łał! Trudno się z tym nie zgodzić.  
-**Ella:** Mamy puścić Mox płazem?  
+**Ella:** Mamy puścić Moxa płazem?  
 **Andrea:** Nie ma mowy.  
 
 > **🎬 Wstawka wideo:** `AdElMsn3.mp4` (zapętlone)

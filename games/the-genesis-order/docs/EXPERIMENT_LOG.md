@@ -739,3 +739,41 @@ kwestie redakcyjne, brak nadpisania, brak pliku matki, dane repo). Pełny `unitt
 **Ograniczenia:** dopasowanie jest statyczne i nie ocenia warunków gry; wstawek ze scen nieobecnych we fragmencie nie ma
 gdzie oznaczyć. Gry nie uruchamiano, plików wideo nie kopiowano. Pliki na Drive pozostawiono bez zmian — wynik jest osobnym
 wydaniem (`reading/fragments/v1/`), nie nadpisaniem dostawy.
+
+---
+
+## 2026-10-31 — odmiana imienia bohatera w Czytance (`1Hero` → Mox w przypadkach)
+
+**Cel:** usunąć błąd fleksyjny widoczny w Czytance — mianownik `Mox` tam, gdzie polszczyzna wymaga formy zależnej
+(„z Mox”, „dla Mox”, „dzięki Mox”). Drafty zostają z `1Hero`, bo gra podstawia tam imię gracza.
+
+**Metoda (statyczna, bez uruchamiania gry):** nowy moduł `tools/hero_declension.py` (reguły: przyimek jednoznaczny →
+przypadek; przyimek wieloznaczny + zamknięta lista wyjątków; czasownik z zamkniętej tabeli; rzeczownik rządzący
+dopełniaczem; wołacz/mianownik; brak decyzji = mianownik + wpis `unresolved`). `build_readalong.py` używa
+`hero_declension.decline_text()` w miejscu dawnego `str.replace("1Hero", "Mox")`. Audyt
+`tools/audit_hero_declension.py` policzył decyzje na 417 draftach **przed** przebudową Czytanki.
+
+**Wynik [POTWIERDZONE]:** 2 431 rekordów / 2 433 wystąpienia `1Hero`; wołacz 1 892, mianownik 472, biernik 26,
+narzędnik 23, celownik 9, dopełniacz 7, miejscownik 2, brak decyzji 2 → **67 rekordów zmienionych** w Czytance.
+Przebudowa `reading/v1/`: **55** plików różni się od poprzedniego wydania (53 epizody + pełny skrypt + README),
+a w całym skrypcie **każda** zmieniona linia dotyczy `Mox`. Nowy ZIP: 4 403 wpisy, 4 397 rozdziałów,
+SHA-256 `4a055e38362d2ee5db8b2f1ed4ce6ee7fff3950eabe010026941ba22c941718b` (poprzedni `9bab2a58…`).
+
+**Kontrole:** (1) `grep` po przyimkach (`do, dla, z, o, przy, dzięki, za, w, na, przez, między…`) + `Mox` w pełnym
+skrypcie → **0** trafień; (2) w skrypcie **0** placeholderów `1Hero`; (3) w draftach **0** form `Moxa/Moxowi/Moxem/Moxie`
+(test `test_drafts_keep_placeholder`); (4) test `ReportTest` pilnuje liczb 2 431 / 2 433 / 67 / 2, żeby raport nie rozjechał
+się z Czytanką; (5) ręczne przejrzenie wszystkich 67 zmian — m.in. „Zgłaszam Moxa”, „program Moxa”,
+„Nie bądź niemiła dla Moxa”, „wolę zostać z Moxem”, „dzięki Moxowi”, „Chodzi o Moxa”.
+
+**Testy:** nowy `tests/test_hero_declension.py` (14 testów: tabela form, przyimki jednoznaczne i wieloznaczne,
+czasowniki, wołacz/mianownik, czasownik spoza tabeli → brak decyzji, wiele wystąpień, znaczniki `\c[n]`,
+brak formy „przyimek + Mox” w Czytance, spójność raportu, drafty z placeholderem). Pełny `unittest`: **220 OK**.
+
+**Ograniczenia [NIEZNANE]:** heurystyka wołacza myli się przy „Pamiętaj, 1Hero: …” (dwukropek po imieniu) — zostawione
+jako mianownik; czasu przeszłego czasownika nie rozpoznaje się morfologicznie, tylko po zamkniętej tabeli, więc nowe
+konstrukcje w przyszłych partiach wymagają dopisania formy do tabeli (zgadywanie jest wyłączone).
+[NIEZWERYFIKOWANE] odbiór w grze: te formy dotyczą wyłącznie Czytanki — gra podstawia imię gracza w runtime.
+
+**Publikacja:** ZIP Czytanki i sidecar w `TGO/translation/packages/` (`1FYzfQsDJKBaI_GBjlA8qhtS9I9h5_5KM`):
+`TGO_readalong_PL_v1.zip` `1UhNAW0w38hZyFGIMyOey9c3jj1slXYo6`, `.sha256` `15vtzrZfOAjmxqKCU1IqNxCK5aSDT0cle`;
+poprzednie wydanie (`15uMSEutxHXuzbb9kvGFmotoQLPqLzH7v`, `1vhcfpr8YdjXq0V13CZ7vfAYqu2YeoR2C`) przeniesione do kosza.

@@ -53,7 +53,7 @@
 
 > **🎬 Wstawka wideo:** `HnHeGtr7.mp4` (zapętlone)
 
-**Hannah:** Teraz moja kolej! Chcę ujeżdżać Mox!  
+**Hannah:** Teraz moja kolej! Chcę ujeżdżać Moxa!  
 **Mox:** To nie zawody!  
 **Heather:** Jak sama powiedziała — teraz nasza kolej.  
 

@@ -96,3 +96,31 @@ Wszystko inne zostaje w mianowniku i trafia do raportu jako pozycja do ręcznego
 - Narzędzie jest idempotentne i pokryte testami (`tests/test_unify_name_declension.py`), a jego wynik jest odtwarzalny z draftów w Git.
 - Prezentacja w Czytance: bohater widoczny jako **Mox**; w plikach gry placeholder `1Hero` zostaje nietknięty (podstawia go runtime).
 
+## ADR 004 — 2026-10-31: odmiana imienia bohatera tylko na warstwie Czytanki
+
+**Status:** obowiązuje
+**Decydent:** właściciel (jerzybrylski), zadanie „kontynuuj naprawę polskiego tłumaczenia — błędy w odmianie”, 2026-10-31
+**Data:** 2026-10-31
+
+### Tło
+
+W grze imię bohatera to placeholder `1Hero`, podmieniany w runtime imieniem gracza. W polskim zdaniu stoi on po przyimkach i czasownikach, które wymagają przypadka („z 1Hero”, „dla 1Hero”, „dzięki 1Hero”), więc dosłowne tłumaczenie daje niepoprawną formę: mianownik tam, gdzie polszczyzna wymaga dopełniacza, celownika, biernika, narzędnika albo miejscownika. Draftów nie da się „naprawić” fleksją, bo w grze jest zmienna nazwa — formę trzeba wyliczyć w miejscu użycia.
+
+### Decyzja
+
+Odmianę wykonuje `tools/hero_declension.py` **wyłącznie jako warstwa prezentacji Czytanki**: imię bohatera w Czytance to stałe `Mox`, więc można je odmienić. Drafty zachowują `1Hero` (placeholdery pozostają nietknięte, `build_readalong.py` zamienia je dopiero przy renderze).
+
+Reguły (każda decyzja ma `reason` i przypadek w raporcie):
+
+1. **Przyimek jednoznaczny** rządzi przypadkiem (`dla`, `do`, `od`, `bez` → dopełniacz; `ku`, `dzięki`, `wbrew` → celownik; `przez`, `na`, `za` → biernik; `z`, `pod`, `nad`, `przed`, `między` → narzędnik; `o`, `w`, `przy` → miejscownik).
+2. **Przyimek wieloznaczny** rozstrzyga słowo rządzące albo zamknięta lista wyjątków: `z` + źródło („To wyszło z Moxa”) → dopełniacz, `o` po `chodzi/mówi` → biernik lub miejscownik, `na/za` po czasowniku ruchu → biernik.
+3. **Czasownik z zamkniętej tabeli** (`chroń`, `pomóc`, `słuchaj`, `szukaj`, `zna`, `widział`, `porwać`, `pomogłam`…) rządzi przypadkiem; czasownik spoza tabeli nie jest zgadywany.
+4. **Rzeczownik rządzący dopełniaczem** („program Moxa”, „zastępstwo za Moxa”) → forma zależna od rzeczownika.
+5. **Wołacz** — imię zamyka klauzulę po przecinku, otwiera zdanie przecinkiem albo jest całą kwestią → `Mox`; **mianownik** — gdy imię jest podmiotem.
+6. **Wszystko inne** zostaje w mianowniku i trafia do `unresolved` w raporcie. Zasada nadrzędna: lepiej poprawny mianownik niż zgadnięty przypadek.
+
+### Konsekwencje
+
+- Wykonane: **67** rekordów / 67 wystąpień zmienionych w Czytance (biernik 26, narzędnik 23, celownik 9, dopełniacz 7, miejscownik 2); **2 433** wystąpienia `1Hero` w **2 431** rekordach, w tym 1 892 wołacze i 472 mianowniki bez zmian; **2** wystąpienia nierozstrzygnięte.
+- Zmiany są widoczne w `reading/v1/` (53 epizody, pełny skrypt, README), nie w `translation/drafts/`; test `tests/test_hero_declension.py` sprawdza, że drafty nie zawierają odmienionego imienia.
+- Nie łamie ADR 001: to nie jest MT ani zgadywanie treści — to morfologia jednego imienia w miejscu o rozstrzygalnej składni, z rejestrem decyzji.

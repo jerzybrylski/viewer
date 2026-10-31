@@ -33,7 +33,7 @@
 > **🎬 Wstawka wideo:** `LiKiDC4.mp4` (zapętlone)
 
 **Kimberly:** Nieźle, kobieto. Wiesz, jak ugościć gościa.  
-**Lillian:** Byłaś niegrzeczną dziewczynką. Zwłaszcza wobec Mox.  
+**Lillian:** Byłaś niegrzeczną dziewczynką. Zwłaszcza wobec Moxa.  
 **Kimberly:** Może powinnam mu to wynagrodzić.  
 **Lillian:** Myślałam o tym samym.  
 
