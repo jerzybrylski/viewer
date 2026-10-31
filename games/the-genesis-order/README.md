@@ -16,6 +16,7 @@ Projekt lokalizacyjny RPG Maker MV 1.6.1 + NW.js. Statyczny audyt i przekład kw
 - Standalone patch POC: [`translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`](translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip) z one-click patcherem i backup/restore; bez plików gry. Nie testowano Windows/runtime. Jego payload odtwarza się bajt w bajt ze scalenia draftów.
 - Czytanka PL v1: [`reading/v1/`](reading/v1/) i [`translation/packages/TGO_readalong_PL_v1.zip`](translation/packages/TGO_readalong_PL_v1.zip); 4 394 epizody, indeksy 55 mówców i 291 lokacji, 221/291 potencjalnie osiągalnych map w statycznym BFS. Kolejność nie jest kanoniczna.
 - Source ZIP v1: [`translation/packages/TGO_source_translation_package_v1.zip`](translation/packages/TGO_source_translation_package_v1.zip) — pełny zatwierdzony statyczny zakres, kopia publikowana na Google Drive.
+- Wstawki wideo: statyczny skaner [`tools/scan_movie_calls.py`](tools/scan_movie_calls.py) i tryb `--movie-calls` w [`tools/build_readalong.py`](tools/build_readalong.py) dodają do Czytanki znaczniki `🎬 Wstawka wideo` oraz `index_movies_PL.md` w katalogu wydania Czytanki. **Wymaga jednorazowego skanu `www/data` z instalacji**; do tego czasu znaczniki nie są jeszcze wstawione. Skan lokalny: [`tools/intake/INSTRUKCJA_WIDEO.txt`](tools/intake/INSTRUKCJA_WIDEO.txt).
 
 ## Dane i granice Gita
 
@@ -34,7 +35,8 @@ python3 games/the-genesis-order/tools/build_translation_package.py
 python3 games/the-genesis-order/tools/audit_translation_coverage.py
 python3 games/the-genesis-order/tools/audit_draft_coverage.py --markdown-out games/the-genesis-order/docs/COVERAGE_AUDIT.md
 python3 games/the-genesis-order/tools/build_standalone_patch.py
-python3 games/the-genesis-order/tools/build_readalong.py
+python3 games/the-genesis-order/tools/scan_movie_calls.py --data-dir google_drive/tgo_source --out /tmp/tgo_movie_calls.json
+python3 games/the-genesis-order/tools/build_readalong.py --movie-calls /tmp/tgo_movie_calls.json
 ```
 
 Eksporter weryfikuje zatwierdzony JS JSONL z `google_drive/the-genesis-order/translation/export-v1/reviewed_js_ui.jsonl` i zapisuje kanoniczny eksport w repo. Markdown domyślnie powstaje pod śledzonym `translation/`; staging kopii gry pod `google_drive/`.

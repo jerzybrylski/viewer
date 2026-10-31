@@ -361,12 +361,32 @@ def display_group(group: list[dict[str, Any]]) -> str:
     return "\n".join(lines)
 
 
+def row_command_index(row: dict[str, Any]) -> int | None:
+    """Pozycja polecenia, z której pochodzi rekord (kontekst albo locator)."""
+    context = row.get("context") or {}
+    value = context.get("command_index")
+    if value is None:
+        value = (row.get("source") or {}).get("locator", {}).get("command_index")
+    return value if isinstance(value, int) else None
+
+
+def movie_marker(call: dict[str, Any]) -> str:
+    """Znacznik wstawki wideo — jawna nazwa pliku albo uczciwe „nieustalone”."""
+    name = call.get("movie_file")
+    if name:
+        return f"> **🎬 Wstawka wideo:** `{name}`"
+    evidence = clean_reading_text(str(call.get("evidence") or ""))
+    suffix = f" — `{evidence}`" if evidence else ""
+    return f"> **🎬 Wstawka wideo:** nazwa nieustalona statycznie{suffix}"
+
+
 def render_episode(key: tuple[str, int | None, int | None, int | None],
                    rows: list[dict[str, Any]],
                    choice_groups: dict[str, list[dict[str, Any]]],
                    labels: dict[tuple[str, int], str],
                    switches: list[str], variables: list[str],
-                   map_name: str = "", common_name: str = "") -> tuple[str, dict[str, Any]]:
+                   map_name: str = "", common_name: str = "",
+                   movie_calls: list[dict[str, Any]] | None = None) -> tuple[str, dict[str, Any]]:
     """Render one episode as Markdown blocks.
 
     Kwestie dialogowe idą jedna pod drugą (twarde złamanie wiersza zamiast
@@ -394,6 +414,23 @@ def render_episode(key: tuple[str, int | None, int | None, int | None],
     if notes:
         blocks.append("> **Warunek strony:** " + "; ".join(notes) + ".")
 
+    pending_movies = sorted(
+        (dict(call, command_index=call.get("command_index") if isinstance(call.get("command_index"), int) else -1)
+         for call in (movie_calls or [])),
+        key=lambda call: call["command_index"],
+    )
+    movie_cursor = 0
+    movies_placed = 0
+
+    def flush_movies_before(limit: int) -> None:
+        """Wstaw znaczniki wideo, których polecenie poprzedza bieżącą kwestię."""
+        nonlocal movie_cursor, movies_placed
+        while movie_cursor < len(pending_movies) and pending_movies[movie_cursor]["command_index"] < limit:
+            flush()
+            blocks.append(movie_marker(pending_movies[movie_cursor]))
+            movie_cursor += 1
+            movies_placed += 1
+
     last_branch = object()
     printed_groups: set[str] = set()
     included = 0
@@ -413,6 +450,8 @@ def render_episode(key: tuple[str, int | None, int | None, int | None],
                 flush()
                 blocks.append(f"> **Ścieżka warunkowa:** {branch}.")
             last_branch = branch
+        command_index = row_command_index(row)
+        flush_movies_before(command_index if command_index is not None else 2 ** 62)
         if category in {"choice_option", "ui_choice"}:
             group_id = context.get("choice_group_id") or (row.get("structure") or {}).get("choice_group_id")
             if isinstance(group_id, str) and group_id not in printed_groups:
@@ -445,12 +484,16 @@ def render_episode(key: tuple[str, int | None, int | None, int | None],
             if part:
                 paragraph.append(f"**{speaker}:** {part}  ")
         included += 1
-    if included == 0:
-        return "", {"included": 0, "unknown_speakers": [], "speaker_counts": {}}
     flush()
+    while movie_cursor < len(pending_movies):
+        blocks.append(movie_marker(pending_movies[movie_cursor]))
+        movie_cursor += 1
+        movies_placed += 1
+    if included == 0 and movies_placed == 0:
+        return "", {"included": 0, "unknown_speakers": [], "speaker_counts": {}, "movie_calls": 0}
     return "\n\n".join(blocks), {
         "included": included, "unknown_speakers": unknown_speakers,
-        "speaker_counts": dict(speaker_counts),
+        "speaker_counts": dict(speaker_counts), "movie_calls": movies_placed,
     }
 
 
@@ -483,6 +526,85 @@ def location_index(maps: dict[int, dict[str, Any]], infos: dict[int, dict[str, A
         distance = map_distance.get(map_id)
         reachability = f"potencjalnie osiągalna, BFS {distance}" if distance is not None else "poza grafem osiągalności od startu"
         lines.append(f"- **Mapa {map_id:03d} — {name}** — {reachability}; epizodów: {episode_counts.get(map_id, 0)}.")
+    return "\n".join(lines) + "\n"
+
+
+MOVIE_CALLS_SCHEMA = "tgo-movie-calls-v1"
+
+
+def movie_call_key(call: dict[str, Any]) -> tuple[str, int | None, int | None, int | None]:
+    """Klucz epizodu dla wywołania wideo — ten sam, co dla rekordów tekstowych."""
+    if call.get("source_kind") == "map":
+        return ("map", call.get("map_id"), call.get("event_id"), call.get("page_number"))
+    return ("common_event", None, call.get("event_id"), None)
+
+
+def load_movie_calls(path: Path) -> tuple[dict[tuple[str, int | None, int | None, int | None], list[dict[str, Any]]], dict[str, Any]]:
+    """Wczytaj inwentarz wstawek wideo z `scan_movie_calls.py`.
+
+    Tylko statyczny odczyt: nazwy plików i pozycje poleceń. Brak pliku lub inny
+    schemat to błąd — nie zgadujemy wstawek.
+    """
+    report = read_json(path)
+    if not isinstance(report, dict) or report.get("schema") != MOVIE_CALLS_SCHEMA:
+        raise ValueError(f"Expected {MOVIE_CALLS_SCHEMA} in {path}")
+    grouped: dict[tuple[str, int | None, int | None, int | None], list[dict[str, Any]]] = defaultdict(list)
+    for call in report.get("calls") or []:
+        if not isinstance(call, dict):
+            continue
+        grouped[movie_call_key(call)].append(call)
+    for calls in grouped.values():
+        calls.sort(key=lambda call: call.get("command_index") if isinstance(call.get("command_index"), int) else -1)
+    return grouped, report
+
+
+def plural_pl(count: int, one: str, few: str, many: str) -> str:
+    """Odmiana rzeczownika po liczbie: 1 wywołanie / 2 wywołania / 5 wywołań."""
+    if count == 1:
+        return one
+    rest_ten, rest_hundred = count % 10, count % 100
+    if 2 <= rest_ten <= 4 and not 12 <= rest_hundred <= 14:
+        return few
+    return many
+
+
+def movie_index(entries: list[tuple[int, str, dict[str, Any]]]) -> str:
+    """Indeks plików wideo: gdzie w Czytance pojawia się dana wstawka."""
+    lines = [
+        "# Indeks wstawek wideo — PL",
+        "",
+        "Zestawienie pochodzi ze statycznego skanu poleceń `www/data` (`tools/scan_movie_calls.py`). "
+        "Podaje wyłącznie nazwy plików i miejsca wywołania; same pliki wideo nie są częścią repozytorium, "
+        "a kolejność rozdziałów jest przybliżona (patrz `README_PL.md`).",
+        "",
+    ]
+    if not entries:
+        lines.append("Brak statycznie potwierdzonych wywołań wideo w przeskanowanych danych.")
+        return "\n".join(lines) + "\n"
+    by_file: dict[str, list[tuple[int, str]]] = defaultdict(list)
+    unknown = 0
+    for sequence, title, call in entries:
+        name = call.get("movie_file")
+        if name:
+            by_file[name].append((sequence, title))
+        else:
+            unknown += 1
+    lines.append(f"- Plików wideo: **{len(by_file)}**; "
+                 f"{plural_pl(len(entries), 'wywołanie', 'wywołania', 'wywołań')}: **{len(entries)}**"
+                 + (f"; bez statycznej nazwy pliku: **{unknown}**" if unknown else "") + ".")
+    lines.append("")
+    for name in sorted(by_file, key=str.casefold):
+        places = by_file[name]
+        unique = sorted({title for _, title in places})
+        lines.append(
+            f"- **`{name}`** — {len(places)} {plural_pl(len(places), 'wywołanie', 'wywołania', 'wywołań')} "
+            f"w {len(unique)} {plural_pl(len(unique), 'rozdziale', 'rozdziałach', 'rozdziałach')}:"
+        )
+        for sequence, title in places:
+            lines.append(f"  - rozdział {sequence:04d} — {title}")
+    if unknown:
+        lines.append("")
+        lines.append("Wywołania bez statycznej nazwy pliku (argument dynamiczny) są oznaczone w Czytance bez zgadywania nazwy.")
     return "\n".join(lines) + "\n"
 
 
@@ -524,7 +646,8 @@ def previous_locations_index(path: Path | None) -> tuple[str, int, int] | None:
 
 def build(source_root: Path, output: Path, zip_path: Path,
           previous_order: Path | None = None,
-          locations_index: Path | None = None) -> dict[str, Any]:
+          locations_index: Path | None = None,
+          movie_calls_path: Path | None = None) -> dict[str, Any]:
     source_root = source_root.resolve()
     output = output.resolve()
     zip_path = zip_path.resolve()
@@ -548,6 +671,11 @@ def build(source_root: Path, output: Path, zip_path: Path,
         merge_report = merge_batches(CANONICAL, sorted(DRAFTS.rglob("*.jsonl")), merged, TRANSLATION)
         rows = [json.loads(line) for line in merged.read_text(encoding="utf-8").splitlines() if line.strip()]
 
+    movie_by_key: dict[tuple[str, int | None, int | None, int | None], list[dict[str, Any]]] = {}
+    movie_report: dict[str, Any] = {}
+    if movie_calls_path is not None:
+        movie_by_key, movie_report = load_movie_calls(movie_calls_path)
+
     choice_groups, label_by_group_index = choice_tables(rows)
     grouped: dict[tuple[str, int | None, int | None, int | None], list[dict[str, Any]]] = defaultdict(list)
     for row in rows:
@@ -557,6 +685,10 @@ def build(source_root: Path, output: Path, zip_path: Path,
             # Keep every player choice; they may encode story branches or useful menus.
             pass
         grouped[event_key(row)].append(row)
+    # Sceny, w których jest wyłącznie wstawka wideo (bez tekstu), też muszą trafić
+    # do Czytanki — inaczej znacznik nie miałby gdzie się pojawić.
+    for movie_key in movie_by_key:
+        grouped.setdefault(movie_key, [])
 
     map_names = {
         (row.get("context") or {}).get("map_id"): row for row in rows
@@ -565,6 +697,7 @@ def build(source_root: Path, output: Path, zip_path: Path,
     episodes: list[tuple[tuple[Any, ...], tuple[str, int | None, int | None, int | None], str]] = []
     unknown_speaker_ids: set[str] = set()
     speaker_counts: Counter[str] = Counter()
+    movie_placements: dict[tuple[str, int | None, int | None, int | None], int] = {}
     for key, event_rows in grouped.items():
         kind, map_id, event_id, page_number = key
         if kind == "map":
@@ -574,9 +707,11 @@ def build(source_root: Path, output: Path, zip_path: Path,
             map_row = map_names.get(map_id)
             name = clean_reading_text(row_translation(map_row)) if map_row else info.get("name", "")
             content, stats = render_episode(key, event_rows, choice_groups, label_by_group_index,
-                                            switches, variables, map_name=name)
+                                            switches, variables, map_name=name,
+                                            movie_calls=movie_by_key.get(key))
             unknown_speaker_ids.update(stats["unknown_speakers"])
             speaker_counts.update(stats["speaker_counts"])
+            movie_placements[key] = stats.get("movie_calls", 0)
             certainty = "map-first-potential-reach-order"
         else:
             first = common_order.get(event_id, (2_000_000, 2_000_000, event_id or 0, 0, 0, 0))
@@ -588,9 +723,11 @@ def build(source_root: Path, output: Path, zip_path: Path,
                           call_map or 0, first[3] if len(first) > 3 else 0,
                           first[5] if len(first) > 5 else 0, event_id or 0)
             content, stats = render_episode(key, event_rows, choice_groups, label_by_group_index,
-                                            switches, variables, common_name=common_name)
+                                            switches, variables, common_name=common_name,
+                                            movie_calls=movie_by_key.get(key))
             unknown_speaker_ids.update(stats["unknown_speakers"])
             speaker_counts.update(stats["speaker_counts"])
+            movie_placements[key] = stats.get("movie_calls", 0)
             certainty = "first-static-common-event-call"
         if content:
             episodes.append((event_sort, key, content))
@@ -610,15 +747,25 @@ def build(source_root: Path, output: Path, zip_path: Path,
         "# The Genesis Order — Czytanka PL (kolejność statycznie przybliżona)", "",
         "> To reader’s edition z zachowanymi warunkami i wyborami. Nie jest kanoniczną linią czasu: mapy uporządkowano według najwcześniejszej potencjalnej osiągalności od mapy startowej, bez wykonania warunków, przełączników ani danych runtime. Warianty mogą wystąpić w różnej kolejności albo nie wystąpić w jednym przejściu.", "",
     ]
+    if movie_by_key:
+        full_script.extend([
+            "> Wstawki wideo (krótkie klipy, zwykle 1–2 s) oznaczono w miejscu wywołania jako **🎬 Wstawka wideo** z nazwą pliku ze statycznego skanu `www/data`. Znacznik jest wskazówką redakcyjną, nie odtwarzaczem.", "",
+        ])
     file_manifest = []
+    movie_entries: list[tuple[int, str, dict[str, Any]]] = []
     for sequence, (sort_key, key, content) in enumerate(episodes, 1):
         kind, map_id, event_id, page_number = key
         filename = (f"{sequence:04d}_map{map_id:03d}_event{event_id:03d}_page{page_number:02d}.md"
                     if kind == "map" else f"{sequence:04d}_common_event{event_id:03d}.md")
         episode_path = episode_dir / filename
-        source_note = _source_note(", ".join(row["id"] for row in grouped[key][:8]))
+        episode_rows = grouped.get(key, [])
+        source_note = (_source_note(", ".join(row["id"] for row in episode_rows[:8]))
+                       if episode_rows else
+                       "<sub>Epizod bez tekstu: wyłącznie wstawka wideo wykryta statycznie.</sub>")
         episode_path.write_text(content + "\n\n" + source_note + "\n", encoding="utf-8", newline="\n")
         title = f"Map {map_id} event {event_id} page {page_number}" if kind == "map" else f"Common Event {event_id} {(common.get(event_id) or {}).get('name', '')}"
+        for call in movie_by_key.get(key, []):
+            movie_entries.append((sequence, title, call))
         inherited = previous.get((kind, map_id or 0, event_id or 0, page_number or 0)) or {}
         order_rows.append({
             "sequence": sequence, "episode": filename, "kind": kind,
@@ -642,6 +789,9 @@ def build(source_root: Path, output: Path, zip_path: Path,
     full_script_path.write_text("\n".join(full_script), encoding="utf-8", newline="\n")
     episode_counts = Counter(key[1] for _, key, _ in episodes if key[0] == "map" and key[1] is not None)
     (output / "index_characters_PL.md").write_text(character_index(speaker_counts), encoding="utf-8", newline="\n")
+    movie_calls_placed = len(movie_entries)
+    if movie_by_key:
+        (output / "index_movies_PL.md").write_text(movie_index(movie_entries), encoding="utf-8", newline="\n")
     inherited_index = previous_locations_index(locations_index)
     if inherited_index is not None:
         index_text, total_maps, inherited_reachable = inherited_index
@@ -657,6 +807,15 @@ def build(source_root: Path, output: Path, zip_path: Path,
     common_scene_count = sum(1 for _, key, _ in episodes if key[0] == "common_event")
     map_scene_count = sum(1 for _, key, _ in episodes if key[0] == "map")
 
+    movie_note = ""
+    if movie_by_key:
+        scenes_with_movies = sum(1 for _, key, _ in episodes if movie_placements.get(key))
+        movie_note = (f"- Wstawki wideo: **{movie_calls_placed}** "
+                      f"{plural_pl(movie_calls_placed, 'wywołanie', 'wywołania', 'wywołań')} w "
+                      f"**{scenes_with_movies}** {plural_pl(scenes_with_movies, 'rozdziale', 'rozdziałach', 'rozdziałach')}, "
+                      f"**{len(movie_report.get('movie_files') or [])}** "
+                      f"{plural_pl(len(movie_report.get('movie_files') or []), 'plik', 'pliki', 'plików')}; "
+                      f"inwentarz: `index_movies_PL.md`.\n")
     inheritance_note = ""
     if inherited_index is not None:
         inheritance_note = ("- Numeracja rozdziałów i indeks lokacji są dziedziczone z wydania v1: źródła gry nie są "
@@ -670,6 +829,7 @@ def build(source_root: Path, output: Path, zip_path: Path,
 - Każda kwestia ma jawnego mówcę, gdy można go statycznie odczytać z kodu nagłówka; nierozpoznane nagłówki są oznaczone, nie zgadywane.
 - **Ścieżka warunkowa** zachowuje wybory i warunki z kontekstu eventu. Wybory są listowane w miejscu polecenia. Mówca, etykiety i dialog pochodzą ze scalonych tłumaczeń; wartości kontrolne i nazwy własne pozostają źródłowe.
 - Wartości `\\V[n]`, `\\N[n]` i `\\P[n]` są oznaczane jako zmienna, imię aktora lub członek drużyny; `\\I[n]` jako ikona. Niepewne wartości nie są zgadywane.
+- **🎬 Wstawka wideo** to znacznik miejsca, w którym scenariusz uruchamia krótki klip (np. `AdChng1.mp4`). Nazwa pochodzi ze statycznego skanu poleceń `www/data`; znacznik nie odtwarza wideo i nie zmienia tekstu. Gdy argument polecenia jest dynamiczny, Czytanka pisze „nazwa nieustalona statycznie” zamiast zgadywać plik. Zestawienie plików jest w `index_movies_PL.md`.
 
 ## Ważne ograniczenie chronologii
 
@@ -681,7 +841,7 @@ To zachowuje ostrzeżenie z przykładowych skryptów SRW: warunkowe/sytuacyjne k
 
 {inheritance_note}- Korpus: {merge_report['records']:,} kanonicznych rekordów; {merge_report['with_translation']:,} rekordów z tłumaczeniem; nazwy własne, markery, kody i jawnie chronione wartości pozostają bez zmian.
 - W tym wydaniu: {map_scene_count} rozdziałów map/event/page i {common_scene_count} rozdziałów Common Events.
-- Gry nie uruchamiano. Nie dołączono assetów, mediów, kodu gry ani zapisów.
+{movie_note}- Gry nie uruchamiano. Nie dołączono assetów, mediów, kodu gry ani zapisów.
 - Źródłowe ID w plikach pozwalają wrócić do rekordu JSONL. Pełna lista kolejności znajduje się w `reading_order.tsv`.
 """
     (output / "README_PL.md").write_text(readme, encoding="utf-8", newline="\n")
@@ -707,6 +867,9 @@ To zachowuje ostrzeżenie z przykładowych skryptów SRW: warunkowe/sytuacyjne k
         "translation_records_merged": merge_report["with_translation"],
         "unknown_speaker_rows": len(unknown_speaker_ids),
         "indexed_speakers": len(speaker_counts),
+        "movie_calls_placed": movie_calls_placed,
+        "movie_files": len(movie_report.get("movie_files") or []),
+        "movie_calls_in_scan": len(movie_report.get("calls") or []),
     }
 
 
@@ -719,9 +882,11 @@ def main() -> None:
                         help="poprzedni reading_order.tsv — zachowuje numerację i metadane rozdziałów")
     parser.add_argument("--locations-index", type=Path, default=None,
                         help="poprzedni index_locations_PL.md — użyj, gdy brak danych map gry")
+    parser.add_argument("--movie-calls", type=Path, default=None,
+                        help="inwentarz wstawek wideo z scan_movie_calls.py — dodaje znaczniki 🎬 do Czytanki")
     args = parser.parse_args()
     print(json.dumps(build(args.source_root, args.output, args.zip, args.previous_order,
-                           args.locations_index), ensure_ascii=False, indent=2))
+                           args.locations_index, args.movie_calls), ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

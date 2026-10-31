@@ -658,3 +658,19 @@ Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa oso
 **Artefakty:** patch `247d972b439493fbd74e1386e4344dcdabebcc8901e2bb1e5b076cd839f41b28` (payload `954690d3…`); Czytanka `767175173730fd8279ce4a0bdcb991464aac163da72df6f5dfd1de919f69f107`.
 
 **Testy:** 173 OK. Audyt nieukończony.
+
+## 2026-10-31 — wstawki wideo: statyczny skaner i znaczniki w Czytance
+
+**Cel:** oznaczyć w Czytance PL miejsca scenariusza, w których gra uruchamia krótki klip wideo (1–2 s), wraz z nazwą pliku (np. `AdChng1.mp4`).
+
+**Zrobione (sandbox, bez uruchamiania gry):**
+- nowe narzędzie `tools/scan_movie_calls.py` czyta wyłącznie `www/data/CommonEvents.json` i `Map*.json` (katalog albo ZIP, np. oryginalny `data.zip`) i zapisuje inwentarz `tgo-movie-calls-v1`: pozycja `command_index`, mapa/event/strona, nazwa pliku, dowód (fragment polecenia), rozróżnienie `confirmed` / `dynamic` / `candidate`;
+- `tools/build_readalong.py` dostał `--movie-calls` i wstawia w Czytance znacznik `> **🎬 Wstawka wideo:** \`plik\`` dokładnie w miejscu polecenia (przed pierwszą kwestią po nim), a także generuje `index_movies_PL.md`; sceny zawierające wyłącznie klip (bez tekstu) też trafiają do Czytanki;
+- argument dynamiczny (np. `playMovie($gameVariables.value(12))`) jest opisany jako „nazwa nieustalona statycznie” — narzędzie nie zgaduje pliku;
+- nowa ścieżka intakena Windows: `tools/intake/SCAN_MOVIES_TGO.ps1` + `URUCHOM_SKAN_WIDEO.bat` + `INSTRUKCJA_WIDEO.txt` (tylko odczyt, wynik to jeden mały JSON).
+
+**Weryfikacja w sandboxie:** `test_movie_calls.py` (13 testów) oraz pełny przebieg `build_readalong.py` na syntetycznym `www/data` i prawdziwym korpusie: 4 394 epizody, 2/2 znaczniki wstawione, ZIP i sidecar zapisane. Cały pakiet testów: **185 OK**.
+
+**NIEZNANE / do potwierdzenia na danych gry:** rzeczywisty sposób wywołania wideo w TGO (wtyczka i API), liczba klipów i ich nazwy. Wymaga jednorazowego odczytu `www/data` z instalacji; do tego czasu znaczniki w opublikowanej Czytance **nie są** jeszcze wstawione, a lista wywołań pozostaje niepotwierdzona.
+
+**Ograniczenia:** skan jest statyczny i obejmuje wyłącznie polecenia z `www/data`; wywołania z kodu JS/pluginów oraz klipy uruchamiane wyłącznie warunkowo w runtime mogą pozostać poza inwentarzem. Gry nie uruchamiano; plików wideo nie kopiowano i nie dołączono do repo.

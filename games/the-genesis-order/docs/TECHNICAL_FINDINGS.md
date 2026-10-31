@@ -33,6 +33,13 @@ Daty, źródła i hashe plików znajdują się w [`EXPERIMENT_LOG.md`](EXPERIMEN
 - `gamefont.css` mapuje rodzinę `GameFont` na `JosefinSans-SemiBold.ttf`, której cmap zawiera tylko `óÓ`. YEP_MessageCore domyślnie używa `GameFont`; to ryzyko brakujących polskich znaków, ale przeglądarkowy fallback/runtime nie był testowany. `mplus-1m-regular.ttf` ma komplet glifów, lecz nie pojawia się na liście plików YEP_LoadCustomFonts.
 - Tytułowa `TitleFont` jest przypisana przez Eli_FontManager do Cinzel-Regular (18/18). Cmap potwierdza glify, nie wygląd, fallback, metryki ani łamanie wierszy.
 
+## Wstawki wideo w scenariuszu (2026-10-31)
+
+- **POTWIERDZONE (narzędzia):** `tools/scan_movie_calls.py` wykonuje statyczny, tylko-odczytowy skan `www/data` (katalog lub ZIP) i rozdziela trzy klasy sygnału: `confirmed` (literalna nazwa pliku `.mp4/.webm/.m4v/.mov` albo rozpoznane API typu `playMovie`/`VideoPlayer` z literalnym argumentem), `dynamic` (wywołanie API z argumentem zmiennym — nazwy nie ustalamy) i `candidate` (wzmianka „movie/video” w poleceniu pluginu/komentarzu bez nazwy pliku — do przeglądu). Blok skryptowy `355` z kontynuacjami `655` jest oceniany raz.
+- **POTWIERDZONE (build):** `tools/build_readalong.py --movie-calls` wstawia znaczniki `> **🎬 Wstawka wideo:** \`plik\`` na pozycji `command_index` i generuje `index_movies_PL.md`; sceny bez tekstu, a z klipem, również powstają.
+- **NIEROZSTRZYGNIĘTE:** mechanizm odtwarzania wideo w tej kopii gry nie jest jeszcze ustalony na danych — lista wtyczek w dokumentacji nie zawiera wtyczki filmowej, więc wywołanie może iść przez polecenie skryptowe (np. własne API). Rozstrzyga to dopiero inwentarz z rzeczywistego `www/data`.
+- **OGRANICZENIE:** skan pokrywa wyłącznie polecenia eventów. Wideo uruchamiane z kodu JS/pluginów albo zależne od warunków runtime może pozostać poza inwentarzem; tego nie zgadujemy.
+
 ## Nieznane / kolejne prace
 
 - Dokładny produktowy build instalacji właściciela oraz kompletność plików względem tego builda.
