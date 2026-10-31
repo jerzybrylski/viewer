@@ -4,6 +4,7 @@
 
 - **Zrobione:** 12 plików z Drive `TGO/dostawy/` (`TGO1`…`TGO6`, `TG7`–`TG9`, `TGO10`…`TGO12`) to autorskie cięcia pliku matki (105 bloków, 93 nagłówki epizodów, 1 829 kwestii). `tools/annotate_reading_fragments.py` dopasował każdy blok do epizodu matki i wstawił **72** znaczniki `🎬 Wstawka wideo` w te same miejsca co w matce; 64 kwestie spoza matki zostały nietknięte i są w raporcie.
 - **Wejścia/wyjścia w Git:** `reading/fragments/source/` (dostawa 1:1) i `reading/fragments/v1/` (wynik), raport `translation/reports/tgo_reading_fragments_video_v1.json`, opis `reading/fragments/README_PL.md`. Testy: **205 OK**.
+- **Publikacja:** `TGO/translation/czytanka-fragmenty/` (`1akyDTXcVj3Cke-BbkMUojUEsBecyAj8i`): 12 plików wynikowych + `README_PL.md` + raport. Dostawa w `TGO/dostawy/` nietknięta.
 - **Do zrobienia:** (1) jeśli właściciel chce, podmienić pliki na Drive w miejscu (teraz dostawa jest nietknięta, wynik jest osobnym wydaniem), (2) ta sama metoda zadziała na kolejnych fragmentach — wystarczy wrzucić je do `source/` i uruchomić narzędzie, (3) uwaga: `TGO12.txt` nie ma ani jednej wstawki, bo jego 10 epizodów nie ma wideo w matce — to nie błąd narzędzia.
 
 ## 2026-10-31 — wstawki wideo w Czytance

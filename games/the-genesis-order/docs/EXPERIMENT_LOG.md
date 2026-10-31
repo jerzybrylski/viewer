@@ -734,6 +734,8 @@ a rozbieżności to wyłącznie redakcje właściciela (np. „Jak zawsze piękn
 **Testy:** `tests/test_reading_fragments.py` (15 testów: wstawianie początkowe/śródblokowe/końcowe, zachowanie CRLF,
 kwestie redakcyjne, brak nadpisania, brak pliku matki, dane repo). Pełny `unittest`: **205 OK**.
 
+**Publikacja na Google Drive (nowa reguła: nowe pliki w `TGO/translation/`):** katalog `TGO/translation/czytanka-fragmenty/` (`1akyDTXcVj3Cke-BbkMUojUEsBecyAj8i`, rodzic `1bqtMBsYdL3N7ngTQ-4Tyb4XuJv3oAWHE`). Wgrane: 12 plików wynikowych (TGO1 `1jtMiXHLNznyd1sy5e8SK3qxNPJztyvHr`, TGO2 `1_KnjSUsxwyZ-XHyTefpZfLEAQecPT5B7`, TGO3 `1rrbOKPIt9MJqD-bsDuO0wSV_ewwoM2k7`, TGO4 `1n-553ADBUBt9PUi3Bwij1fTeXPHfS9Qs`, TGO5 `1FvMeAuG4vxhtchcCrccJOXsTvn4-aNcm`, TGO6 `1VXQ3BgMaED_81wa44gen-74zNUx1HdQ3`, TG7 `13rUSVhMKVdttlJ-bblaJM83rxY-oVX6f`, TG8 `1Tkfr2pqpGLfVpmIeGs8uyR8q2JAiKzBv`, TG9 `1EOvT7M4fbh5bFWIf3A9YmikZz2jklPZf`, TGO10 `11TocJ0Rvbxhg0_yTNSFAjkmA-r3W2YMp`, TGO11 `1eCu8Ivdv9czQYU9P38_ZdVFNrzOQROf6`, TGO12 `1jMvXX4h1yQpklMQveiStx892VVRqKPQm`), `README_PL.md` (`1F1oObgKaqOTENugva8mHNR4zYXfP-3c1`) i raport (`1clpC3WGPfIMSu03BTqmn27BmhHzqgKyK`). Pliki w `TGO/dostawy/` pozostały nietknięte — nie było nadpisania dostawy właściciela.
+
 **Ograniczenia:** dopasowanie jest statyczne i nie ocenia warunków gry; wstawek ze scen nieobecnych we fragmencie nie ma
 gdzie oznaczyć. Gry nie uruchamiano, plików wideo nie kopiowano. Pliki na Drive pozostawiono bez zmian — wynik jest osobnym
 wydaniem (`reading/fragments/v1/`), nie nadpisaniem dostawy.
