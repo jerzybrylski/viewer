@@ -93,6 +93,10 @@ Wszystko inne zostaje w mianowniku i trafia do raportu jako pozycja do ręcznego
 
 - Wykonane: 383 wystąpienia w 380 rekordach (148 plików). Bez zmian: 628 wystąpień niejednoznacznych — świadomie wolimy mianownik niż błędną formę.
 - Uzasadnienie nie łamie ADR 001: to nie jest automatyczne MT, a morfologia imienia w miejscu o rozstrzygalnej składni.
+
+### Uzupełnienie 2026-10-31 (R-13)
+
+Przejrzałem wszystkie 628 wystąpień odłożonych przez R-09: **617** to poprawne mianowniki (podmiot, orzecznik), więc nie wymagają zmiany. Pozostałe miejsca odmienił `tools/refine_name_declension.py`, używając **tych samych tabel rządu co odmiana bohatera** (`hero_declension`): przyimki jednoznaczne, przyimek domyślny z wyjątkami (`z` + źródło, „chodzi o”), zamknięta lista czasowników (`szuka`, `używały`, `strzegły`, `dopełni`…) i rzeczowniki rządzące dopełniaczem (`kawałki`, `posąg`, `pomocą`, `użyciem`). Do tego cztery zdania z decyzją redakcyjną i trzy napisy systemowe z dzierżawczym „’s” („Get Melissa’s phone number” → „Zdobądź numer telefonu Melissy”). Wynik: **22 rekordy**; 610 wystąpień nadal w mianowniku, bo przypadek jest nierozstrzygalny albo zdanie jest poprawne.
 - Narzędzie jest idempotentne i pokryte testami (`tests/test_unify_name_declension.py`), a jego wynik jest odtwarzalny z draftów w Git.
 - Prezentacja w Czytance: bohater widoczny jako **Mox**; w plikach gry placeholder `1Hero` zostaje nietknięty (podstawia go runtime).
 

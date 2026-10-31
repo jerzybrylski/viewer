@@ -1,5 +1,13 @@
 # Handoff — The Genesis Order PL
 
+## 2026-10-31 (najnowsze) — R-13: dokończona odmiana imion (628 form przejrzanych, 22 poprawki)
+
+- **Zrobione:** przejrzałem wszystkie **628** form odłożonych przez R-09. **617 to poprawne mianowniki** (382 podmioty na początku klauzuli, 226 orzeczników po „jest/to/czy”, 17 czasowników z podmiotem) — nie wymagają zmiany. Realne błędy były w nazwie artefaktu **Toma Leolo** i w trzech napisach systemowych z dzierżawczym „’s”. Nowe narzędzie `tools/refine_name_declension.py` używa **tych samych tabel rządu co odmiana bohatera** (`hero_declension`) + rzeczowników (`kawałki`, `posąg`, `pomocą`, `użyciem`, `szukaniu`) + czasowników (`szuka`, `używały`, `strzegły`, `dopełni` → dopełniacz; `sprowadzić`, `zdobądź`, `złóż`, `zniszcz` → biernik) + czterech decyzji kuratorskich i trzech napisów („Zdobądź numer telefonu Melissy”).
+- **Wynik:** **22 rekordy** (12 wystąpień regułowych: `noun` 5, `verb` 4, `preposition` 3; plus 7 poprawek napisów/decyzji), 12 plików draftów, raport `translation/reports/declension_refine_v1.json`. Drugi przebieg: 0 zmian.
+- **Artefakty:** patch `d505ad9c…` (payload `1c13a40d…`, 39 917 tłumaczeń), Czytanka `fef67df9…` (4 403 wpisy, 4 397 rozdziałów; 16 plików różni się od poprzedniego wydania). Testy: `tests/test_name_declension_refine.py` (10) + pełny `unittest`: **230 OK**.
+- **Publikacja:** `TGO/translation/packages/` — patch `1j95-XovU33y_kfBXVq1GqPa5czaABL3z`, Czytanka `1yqIcRUGItXVCcG0zzO20BrLGaMGTmlpw` (+ sidecary `1hyI9s-rpPeEr6N4Kr17LytqBA7WdKT9a`, `1aAgI5Bii7AbusMuLY0SEJAj7-86fjns7`); poprzednie wydania w koszu.
+- **Do zrobienia:** (1) kolejne partie tekstu wymagają dopisywania form do tabel `VERB_CASES`/`NOUN_GENITIVE_GOVERNORS` w `refine_name_declension.py` — nie zgadywać; (2) 610 form mianownikowych zostaje świadomie; (3) imiona męskie na spółgłoskę i nazwiska nadal nietknięte (decyzja właściciela).
+
 ## 2026-10-31 (najnowsze) — odmiana imienia bohatera w Czytance (`1Hero` → Mox w przypadkach)
 
 - **Zrobione:** `tools/hero_declension.py` (warstwa prezentacji Czytanki; drafty zachowują `1Hero`, bo gra podstawia imię gracza) + `tools/audit_hero_declension.py` (read-only raport decyzji) + `build_readalong.py` używa `decline_text()` zamiast `replace`. Reguły: przyimek jednoznaczny → przypadek; przyimek wieloznaczny + zamknięta lista wyjątków (`z` + źródło → dopełniacz, „chodzi o” → biernik); czasownik z zamkniętej tabeli; rzeczownik rządzący dopełniaczem („program Moxa”); wołacz/mianownik; **czasownik spoza tabeli = brak decyzji, nie zgadywanie**.

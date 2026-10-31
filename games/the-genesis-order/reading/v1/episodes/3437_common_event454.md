@@ -25,7 +25,7 @@
 
 **Erica:** Jestem Daemalius… Ludzie sprowadzili mnie na Ziemię setki lat temu.  
 **Drab:** Gadasz bez sensu. Szczelinę otwarto dopiero teraz.  
-**Drab:** Nie mogłeś tu być, zanim sprowadzono z powrotem Toma Leolo.  
+**Drab:** Nie mogłeś tu być, zanim sprowadzono z powrotem Tomę Leolo.  
 **Erica:** Toma Leolo?  
 **Drab:** Matka buduje armię. Jesteś z nami, czy mamy ci skopać tyłek?  
 **Erica:** To mój świat i tylko mój! Ta suka zginie!  

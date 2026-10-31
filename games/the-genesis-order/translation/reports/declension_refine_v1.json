@@ -1,0 +1,442 @@
+{
+  "schema": "tgo-declension-refine-v1",
+  "decision": "R-13 — dokończenie odmiany imion (rzeczowniki, czasowniki, przyimki, napisy systemowe)",
+  "mode": "apply",
+  "changed_rows": 22,
+  "changed_files": 12,
+  "changed_occurrences": 12,
+  "by_rule": {
+    "noun:fragmentów": 1,
+    "noun:kawałki": 1,
+    "noun:pomocą": 1,
+    "noun:posągu": 1,
+    "noun:użyciem": 1,
+    "preposition:o+chodzi": 1,
+    "preposition_default:z": 2,
+    "verb:dopełni": 1,
+    "verb:strzegły": 1,
+    "verb:szuka": 1,
+    "verb:używały": 1
+  },
+  "by_form": {
+    "Toma->Tomy": 9,
+    "Toma->Tomą": 2,
+    "Toma->Tomę": 1
+  },
+  "native_overrides": {
+    "Nie odbierzecie nam Tomy Leolo!": 1,
+    "Zdobądź numer telefonu \\c[14]Carol\\c[0]": 2,
+    "Zdobądź numer telefonu \\c[14]Hannah\\c[0]": 2,
+    "Zdobądź numer telefonu \\c[14]Melissy\\c[0]": 2,
+    "szukaniu… Tomy i amuletów": 1,
+    "z powrotem Tomę Leolo": 1,
+    "Żadna Toma nie jest warta utraty życia.": 1
+  },
+  "pending_occurrences": 610,
+  "pending_by_class": {
+    "początek-klauzuli": 381,
+    "inne:jest": 29,
+    "inne:że": 23,
+    "inne:to": 18,
+    "inne:czy": 16,
+    "inne:i": 13,
+    "inne:jak": 8,
+    "inne:może": 7,
+    "inne:chyba": 6,
+    "inne:się": 5,
+    "inne:mi": 4,
+    "inne:zanim": 4,
+    "czasownik-spoza-tabeli:jeśli": 4,
+    "inne:a": 4,
+    "inne:ale": 4,
+    "inne:żeby": 4,
+    "inne:dzwoni": 4,
+    "inne:gibka": 4,
+    "inne:niegrzeczna": 4,
+    "inne:imię": 3,
+    "inne:teraz": 3,
+    "inne:kiedy": 3,
+    "inne:co": 3,
+    "inne:mieszka": 2,
+    "inne:gdzie": 2,
+    "inne:gdy": 2,
+    "inne:by": 2,
+    "czasownik-spoza-tabeli:jestem": 2,
+    "inne:nie": 2,
+    "inne:ta": 2,
+    "czasownik-spoza-tabeli:czyli": 2,
+    "czasownik-spoza-tabeli:poszła": 2,
+    "inne:pochodzi": 1,
+    "inne:pocieszenie": 1,
+    "inne:oby": 1,
+    "inne:sama": 1,
+    "inne:najlepsza": 1,
+    "inne:pracuje": 1,
+    "inne:gildii": 1,
+    "inne:panna": 1
+  },
+  "pending_sample": [
+    {
+      "id": "tgo:custom_dialogue:e0847b7a63eaef51df90",
+      "name": "Erica",
+      "class": "inne:się",
+      "text": "Mieszka w apartamentowcu w centrum. Nazywa się Erica Abraham."
+    },
+    {
+      "id": "tgo:custom_dialogue:7a052eb5f972b20ecfc1",
+      "name": "Erica",
+      "class": "początek-klauzuli",
+      "text": "Erica!? Co się dzieje?"
+    },
+    {
+      "id": "tgo:custom_dialogue:131c0c35dc979ab0fcac",
+      "name": "Erica",
+      "class": "początek-klauzuli",
+      "text": "Erica?... Ona pomaga mi…"
+    },
+    {
+      "id": "tgo:custom_dialogue:2c907358d31dab6b92ef",
+      "name": "Tasha",
+      "class": "inne:pochodzi",
+      "text": "Ostatnio widziano go w Cape Vedra? Stamtąd pochodzi Tasha."
+    },
+    {
+      "id": "tgo:custom_dialogue:7130568f32d6e33db9fd",
+      "name": "Diana",
+      "class": "początek-klauzuli",
+      "text": "Diana Dimitriadis… Pracuje dla Gildii."
+    },
+    {
+      "id": "tgo:custom_dialogue:f28f23c3277a69af9c0b",
+      "name": "Ella",
+      "class": "początek-klauzuli",
+      "text": "Ella… Nigdy wcześniej tego nie robiłem."
+    },
+    {
+      "id": "tgo:custom_dialogue:9a6d7117e8ea2d812920",
+      "name": "Ella",
+      "class": "inne:imię",
+      "text": "Ma na imię Ella."
+    },
+    {
+      "id": "tgo:custom_dialogue:b4039b755377e595a7d6",
+      "name": "Ella",
+      "class": "inne:mieszka",
+      "text": "Dziwny zbieg okoliczności. Nikt nie powinien wiedzieć, gdzie mieszka Ella."
+    },
+    {
+      "id": "tgo:custom_dialogue:10b211320316bf5b7f93",
+      "name": "Ella",
+      "class": "początek-klauzuli",
+      "text": "Ella widziała, jak uciekasz z pudełkiem."
+    },
+    {
+      "id": "tgo:custom_dialogue:8b1d5f856cda0c17801d",
+      "name": "Toma",
+      "class": "początek-klauzuli",
+      "text": "Toma Leolo… To stara legenda przekazywana z pokolenia na pokolenie wśród rdzennych mieszkańców Casuli…"
+    },
+    {
+      "id": "tgo:custom_dialogue:bb1034dcdb379f056d37",
+      "name": "Melissa",
+      "class": "inne:pocieszenie",
+      "text": "Przykro mi, że muszę ci to powiedzieć. Jeśli to jakieś pocieszenie, Melissa nie wie o nas."
+    },
+    {
+      "id": "tgo:custom_dialogue:1237c4650b19557d3518",
+      "name": "Melissa",
+      "class": "inne:czy",
+      "text": "Zaczynałem się zastanawiać, czy Melissa ma w sobie jakąś erotyczną stronę…"
+    },
+    {
+      "id": "tgo:custom_dialogue:5659be7e331dd4af6c36",
+      "name": "Andrea",
+      "class": "inne:może",
+      "text": "Co ją tak podnieca? Może ja?... Kimberly?... A może Andrea?"
+    },
+    {
+      "id": "tgo:custom_dialogue:8e4f917a264fb029d73c",
+      "name": "Melissa",
+      "class": "początek-klauzuli",
+      "text": "Cholera! Melissa!"
+    },
+    {
+      "id": "tgo:custom_dialogue:80e3d08e5f5f22e3ef38",
+      "name": "Ella",
+      "class": "początek-klauzuli",
+      "text": "Kurwa! Ella! Ale jesteś ciasna!"
+    },
+    {
+      "id": "tgo:custom_dialogue:7e2144eb60cbde710035",
+      "name": "Andrea",
+      "class": "inne:oby",
+      "text": "Oby Andrea nie spieszyła się z powrotem."
+    },
+    {
+      "id": "tgo:custom_dialogue:b1767ace3dbf48b216d2",
+      "name": "Ella",
+      "class": "początek-klauzuli",
+      "text": "Ella… A jeśli nas przyłapią?"
+    },
+    {
+      "id": "tgo:custom_dialogue:ffebbd919855f320f0c7",
+      "name": "Andrea",
+      "class": "początek-klauzuli",
+      "text": "Andrea… Nie mogę na to pozwolić… Zagrożeni są ludzie, których znam."
+    },
+    {
+      "id": "tgo:custom_dialogue:4a5fbb0e4268a6f5556c",
+      "name": "Toma",
+      "class": "inne:to",
+      "text": "To Toma! Ta sama Toma, którą miała Madalyn!"
+    },
+    {
+      "id": "tgo:custom_dialogue:4a5fbb0e4268a6f5556c",
+      "name": "Toma",
+      "class": "inne:sama",
+      "text": "To Toma! Ta sama Toma, którą miała Madalyn!"
+    },
+    {
+      "id": "tgo:custom_dialogue:f4d2a23b77234c221bff",
+      "name": "Toma",
+      "class": "początek-klauzuli",
+      "text": "Mówiłem… Toma naprawdę istnieje… Musimy się stąd wydostać."
+    },
+    {
+      "id": "tgo:custom_dialogue:31d7de5bf10c16e9f223",
+      "name": "Toma",
+      "class": "inne:najlepsza",
+      "text": "To może być najlepsza Toma ze wszystkich!"
+    },
+    {
+      "id": "tgo:custom_dialogue:c75715d77e08c246d0c8",
+      "name": "Toma",
+      "class": "inne:to",
+      "text": "To Toma… Jej moc na nas działa."
+    },
+    {
+      "id": "tgo:custom_dialogue:008f21aafb607a064226",
+      "name": "Andrea",
+      "class": "inne:że",
+      "text": "Hej! To nie moja wina, że Andrea nie wtajemnicza cię w sprawę. Nie wyżywaj się na mnie."
+    },
+    {
+      "id": "tgo:custom_dialogue:4f30ac385cfab80e3c06",
+      "name": "Toma",
+      "class": "inne:się",
+      "text": "To prawda. To fragmenty czegoś, co nazywa się Toma Leolo."
+    },
+    {
+      "id": "tgo:custom_dialogue:dbf3416688d8132d339d",
+      "name": "Erica",
+      "class": "inne:pracuje",
+      "text": "Lillian? Ta kobieta, u której pracuje Erica?"
+    },
+    {
+      "id": "tgo:custom_dialogue:65c7a4928727b93d5b4f",
+      "name": "Andrea",
+      "class": "inne:gildii",
+      "text": "Jeśli nie rozbije Gildii, Andrea odeśle ją z powrotem do więzienia…"
+    },
+    {
+      "id": "tgo:custom_dialogue:530c6be2f90ff8206d2d",
+      "name": "Andrea",
+      "class": "początek-klauzuli",
+      "text": "Andrea!... Ktoś może nas zobaczyć!"
+    },
+    {
+      "id": "tgo:custom_dialogue:665cd695428ffa56cc64",
+      "name": "Erica",
+      "class": "początek-klauzuli",
+      "text": "Erica mnie nauczyła. Pochodzi z Casuli."
+    },
+    {
+      "id": "tgo:custom_dialogue:399c336aa51a86ced868",
+      "name": "Melissa",
+      "class": "początek-klauzuli",
+      "text": "Melissa i ja ciężko pracowaliśmy nad tą sprawą. Z radością informujemy, że odnaleziono cenny obraz „Burza na Morzu Galilejskim”."
+    },
+    {
+      "id": "tgo:custom_dialogue:563bd771b063e0af5983",
+      "name": "Andrea",
+      "class": "początek-klauzuli",
+      "text": "Andrea… Udowodniłaś swoje."
+    },
+    {
+      "id": "tgo:custom_dialogue:32e3ab82d991d533b05f",
+      "name": "Ella",
+      "class": "początek-klauzuli",
+      "text": "Ella! Co ty jej robisz?"
+    },
+    {
+      "id": "tgo:custom_dialogue:4129e58d1a8371464dfd",
+      "name": "Melissa",
+      "class": "inne:chyba",
+      "text": "Chyba Melissa też ma ochotę na trochę zabawy."
+    },
+    {
+      "id": "tgo:custom_dialogue:9833d8afbefd5217a343",
+      "name": "Melissa",
+      "class": "początek-klauzuli",
+      "text": "Melissa doskonale wie, co zrobić tymi ustami."
+    },
+    {
+      "id": "tgo:custom_dialogue:5b4d433008f07e553b5a",
+      "name": "Andrea",
+      "class": "początek-klauzuli",
+      "text": "Dobrze, że tu przyszłam… Andrea jest niesamowita!"
+    },
+    {
+      "id": "tgo:custom_dialogue:a2c23683f5ebc157f7ac",
+      "name": "Andrea",
+      "class": "początek-klauzuli",
+      "text": "Andrea jest taka perwersyjna!"
+    },
+    {
+      "id": "tgo:custom_dialogue:5eaf4383335a6e3b7dff",
+      "name": "Andrea",
+      "class": "inne:mi",
+      "text": "Możesz mówić mi Andrea Kimura."
+    },
+    {
+      "id": "tgo:custom_dialogue:a0c3e2aaae96c752d466",
+      "name": "Ella",
+      "class": "inne:teraz",
+      "text": "Najpierw Nellie, a teraz Ella… Trafiam na same najlepsze dziewczyny."
+    },
+    {
+      "id": "tgo:custom_dialogue:752f2091cf4bd8902e16",
+      "name": "Melissa",
+      "class": "początek-klauzuli",
+      "text": "Melissa! Erica! Zamknijcie oczy!"
+    },
+    {
+      "id": "tgo:custom_dialogue:752f2091cf4bd8902e16",
+      "name": "Erica",
+      "class": "początek-klauzuli",
+      "text": "Melissa! Erica! Zamknijcie oczy!"
+    }
+  ],
+  "changes": [
+    {
+      "id": "tgo:custom_dialogue:856a61c8df809f130681",
+      "file": "translation/drafts/custom-dialogue-common-event-story-followups-04.jsonl",
+      "name": "Toma",
+      "case": "gen",
+      "rule": "verb:strzegły",
+      "form": "Tomy",
+      "before": "Hmm… Czarownice z Casuli strzegły Toma Leolo. Może to o nich mowa jako o poganach w tej książce?",
+      "after": "Hmm… Czarownice z Casuli strzegły Tomy Leolo. Może to o nich mowa jako o poganach w tej książce?"
+    },
+    {
+      "id": "tgo:custom_dialogue:6ceee884e9e8fbc1ff28",
+      "file": "translation/drafts/custom-dialogue-map126-followups-01.jsonl",
+      "name": "Toma",
+      "case": "gen",
+      "rule": "noun:kawałki",
+      "form": "Tomy",
+      "before": "Znalazłeś kolejne kawałki Toma Leolo?",
+      "after": "Znalazłeś kolejne kawałki Tomy Leolo?"
+    },
+    {
+      "id": "tgo:custom_dialogue:331eaa8da8b9f955b224",
+      "file": "translation/drafts/custom-dialogue-map151-hell-followups-02.jsonl",
+      "name": "Toma",
+      "case": "gen",
+      "rule": "noun:pomocą",
+      "form": "Tomy",
+      "before": "Za pomocą Toma?",
+      "after": "Za pomocą Tomy?"
+    },
+    {
+      "id": "tgo:custom_dialogue:4b8a65536e52767ef613",
+      "file": "translation/drafts/custom-dialogue-map26-mansion-followups-01.jsonl",
+      "name": "Toma",
+      "case": "gen",
+      "rule": "verb:szuka",
+      "form": "Tomy",
+      "before": "Spokojnie. Szuka Toma Leolo?",
+      "after": "Spokojnie. Szuka Tomy Leolo?"
+    },
+    {
+      "id": "tgo:custom_dialogue:f41bff9b51d29b07f0cf",
+      "file": "translation/drafts/custom-dialogue-map26-mansion-followups-01.jsonl",
+      "name": "Toma",
+      "case": "gen",
+      "rule": "noun:użyciem",
+      "form": "Tomy",
+      "before": "I to powstrzyma Lillian przed użyciem Toma?",
+      "after": "I to powstrzyma Lillian przed użyciem Tomy?"
+    },
+    {
+      "id": "tgo:custom_dialogue:56b805de77c253fcc19b",
+      "file": "translation/drafts/custom-dialogue-map28-arianna-morning-followups-01.jsonl",
+      "name": "Toma",
+      "case": "gen",
+      "rule": "noun:posągu",
+      "form": "Tomy",
+      "before": "Używała fragmentu posągu Toma!",
+      "after": "Używała fragmentu posągu Tomy!"
+    },
+    {
+      "id": "tgo:custom_dialogue:e8f8acf7cb6947309c6a",
+      "file": "translation/drafts/custom-dialogue-map5-followups-01.jsonl",
+      "name": "Toma",
+      "case": "gen",
+      "rule": "verb:dopełni",
+      "form": "Tomy",
+      "before": "Lillian zamierza wszczepić moją spermę do Erici… To rytuał, który dopełni Toma Leolo... Niebezpiecznego magicznego idola.",
+      "after": "Lillian zamierza wszczepić moją spermę do Erici… To rytuał, który dopełni Tomy Leolo... Niebezpiecznego magicznego idola."
+    },
+    {
+      "id": "tgo:custom_dialogue:e4c564182f3d3bd5ae20",
+      "file": "translation/drafts/custom-dialogue-map6-church-followups-01.jsonl",
+      "name": "Toma",
+      "case": "ins",
+      "rule": "preposition_default:z",
+      "form": "Tomą",
+      "before": "Nie… Po prostu łapię trochę świeżego powietrza. Nie mogę rozgryźć tej zagadki z Toma Leolo.",
+      "after": "Nie… Po prostu łapię trochę świeżego powietrza. Nie mogę rozgryźć tej zagadki z Tomą Leolo."
+    },
+    {
+      "id": "tgo:custom_dialogue:8154576bb60b48ffb535",
+      "file": "translation/drafts/custom-dialogue-map6-church-followups-01.jsonl",
+      "name": "Toma",
+      "case": "ins",
+      "rule": "preposition_default:z",
+      "form": "Tomą",
+      "before": "Myślisz, że ma związek z Toma Leolo?",
+      "after": "Myślisz, że ma związek z Tomą Leolo?"
+    },
+    {
+      "id": "tgo:custom_dialogue:1ecf8f0113bc3af11ab6",
+      "file": "translation/drafts/custom-dialogue-map6-church-followups-01.jsonl",
+      "name": "Toma",
+      "case": "gen",
+      "rule": "noun:fragmentów",
+      "form": "Tomy",
+      "before": "Nie wiem… Madalyn szukała trzech takich amuletów… To Lillian szukała fragmentów Toma.",
+      "after": "Nie wiem… Madalyn szukała trzech takich amuletów… To Lillian szukała fragmentów Tomy."
+    },
+    {
+      "id": "tgo:custom_dialogue:e231935b2496c08cdac0",
+      "file": "translation/drafts/custom-dialogue-map6-church-followups-01.jsonl",
+      "name": "Toma",
+      "case": "acc",
+      "rule": "preposition:o+chodzi",
+      "form": "Tomę",
+      "before": "W naszej księdze jest mowa o Idolu Dusz… Jestem niemal pewien, że chodzi o Toma Leolo.",
+      "after": "W naszej księdze jest mowa o Idolu Dusz… Jestem niemal pewien, że chodzi o Tomę Leolo."
+    },
+    {
+      "id": "tgo:custom_dialogue:a719cfee5ede8c71ffd3",
+      "file": "translation/drafts/custom-dialogue-map94-church-followups-01.jsonl",
+      "name": "Toma",
+      "case": "gen",
+      "rule": "verb:używały",
+      "form": "Tomy",
+      "before": "Czarownice używały Toma, by wyrywać dusze ludzi, żeby demony mogły w ich ciałach przybywać na Ziemię.",
+      "after": "Czarownice używały Tomy, by wyrywać dusze ludzi, żeby demony mogły w ich ciałach przybywać na Ziemię."
+    }
+  ]
+}

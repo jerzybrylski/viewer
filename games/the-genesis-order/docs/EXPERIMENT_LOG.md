@@ -777,3 +777,59 @@ konstrukcje w przyszłych partiach wymagają dopisania formy do tabeli (zgadywan
 **Publikacja:** ZIP Czytanki i sidecar w `TGO/translation/packages/` (`1FYzfQsDJKBaI_GBjlA8qhtS9I9h5_5KM`):
 `TGO_readalong_PL_v1.zip` `1UhNAW0w38hZyFGIMyOey9c3jj1slXYo6`, `.sha256` `15vtzrZfOAjmxqKCU1IqNxCK5aSDT0cle`;
 poprzednie wydanie (`15uMSEutxHXuzbb9kvGFmotoQLPqLzH7v`, `1vhcfpr8YdjXq0V13CZ7vfAYqu2YeoR2C`) przeniesione do kosza.
+
+---
+
+## 2026-10-31 — dokończenie odmiany imion (R-13): przegląd 628 form i 22 poprawki
+
+**Cel:** zamknąć otwarty punkt R-09 — 628 wystąpień imion zostawionych „do przejrzenia” — i naprawić realne błędy
+fleksyjne, których nie dało się wtedy rozstrzygnąć.
+
+**Metoda (statyczna):** dla każdego z 628 wystąpień odczytałem najbliższe słowo rządzące w klauzuli
+(`hero_declension._words_before`, ta sama granica klauzuli co przy odmianie bohatera) i policzyłem klasy:
+
+| Klasa | Wystąpienia | Ocena |
+|---|---:|---|
+| początek klauzuli (podmiot) | 382 | mianownik poprawny |
+| rzeczownik/zaimek/przysłówek (orzecznik po „jest”, „to”, „czy”, „chyba”) | 226 | mianownik poprawny |
+| czasownik spoza tabeli | 17 | mianownik poprawny (podmiot: „jeśli Andrea dowie się…”, „Dokąd poszła Melissa?”) |
+| rząd z tabeli R-09 | 3 | do poprawy („z Toma Leolo”, „chodzi o Toma Leolo”) |
+
+Wniosek: **617/628 to poprawne mianowniki** — nie ma tam czego „naprawiać”. Realny błąd siedział w innym miejscu:
+nazwa artefaktu **Toma Leolo** (deklinowana jak imię żeńskie — „Toma została zniszczona”) stała w mianowniku po
+rzeczownikach i czasownikach rządzących dopełniaczem/biernikiem, a trzy napisy systemowe straciły angielski
+dzierżawczy „’s” („Get Melissa’s phone number” → „Zdobądź Melissa numer telefonu”).
+
+**Narzędzie [POTWIERDZONE]:** `tools/refine_name_declension.py` — importuje tabele rządu z `hero_declension`
+(przyimki jednoznaczne, przyimek domyślny z wyjątkami „z + źródło” i „chodzi o”, zamknięta lista czasowników)
+i dokłada własne: rzeczowniki rządzące dopełniaczem (`kawałki`, `posąg`, `pomocą`, `użyciem`, `fragmentów`,
+`szukaniu`) oraz czasowniki z korpusu (`szuka`, `używały`, `strzegły`, `dopełni` → dopełniacz; `sprowadzić`,
+`zdobądź`, `złóż`, `zniszcz`, `uratuj` → biernik). Cztery zdania wymagały decyzji redakcyjnej
+(`CURATED_OVERRIDES`), trzy napisy systemowe — poprawki szyku i dopełniacza (`NATIVE_OVERRIDES`).
+
+**Wynik [POTWIERDZONE]:** **22 rekordy / 12 wystąpień regułowych + 7 napisów kuratorskich** w 12 plikach draftów;
+rozkład: `noun:*` 5, `verb:*` 4, `preposition:*` 3 (`preposition_default:z` 2, `preposition:o+chodzi` 1).
+Drugi przebieg: **0 zmian** (idempotencja). Przykłady: „kawałki Tomy Leolo”, „Za pomocą Tomy?”, „Szuka Tomy Leolo?”,
+„z Tomą Leolo”, „o Tomę Leolo”, „strzegły Tomy Leolo”, „używały Tomy”, „dopełni Tomy Leolo”, „sprowadzono z powrotem
+Tomę Leolo”, „Żadna Toma nie jest warta utraty życia”, „Zdobądź numer telefonu Melissy”, „…Tomy i amuletów…”.
+
+**Przebudowa artefaktów:** patch `TGO_PL_translation_patch_POC_v0.1.1.zip` (3 748 049 B,
+SHA-256 `d505ad9c4e9ca99ef622f127c648a5aa8a4b8ec812098831ad3ec1e4fec2cbdb`, payload
+`1c13a40d338fc19b81a6730aa4374108c746a2cf8dac0c77237415c3b6def216`, 39 917 tłumaczeń, 238 fingerprintów —
+`fingerprints_sha256` bez zmian); Czytanka `TGO_readalong_PL_v1.zip` (3 384 425 B,
+SHA-256 `fef67df994a050da16038a6f5a35101663e00a54a2a044fda6f4f8390a3097fb`; 16 plików różni się od poprzedniego
+wydania: pełny skrypt + 9 epizodów + README-i epizodów z napisami systemowymi).
+
+**Kontrole:** (1) ręcznie przejrzałem **wszystkie 22 zmiany** przed zapisem; (2) `diff` skryptu Czytanki pokazuje
+wyłącznie poprawione zdania; (3) `tests/test_name_declension_refine.py` (10 testów: reguły, decyzje kuratorskie,
+napisy systemowe, brak zmian przy nierozstrzygalnym rządzie, idempotencja, obecność form w korpusie, spójność raportu,
+obecność poprawek w Czytance); (4) wpis w rejestrze `gender_review_decisions.jsonl` dla zmienionego zdania dostał nowy
+fingerprint z adnotacją R-13 (ustalenie rodzaju bez zmian); (5) pełny `unittest`: **230 OK**.
+
+**Ograniczenia [NIEZWERYFIKOWANE]:** runtime nietestowany; odmiana mianownikowa 610 wystąpień zostaje świadomie
+(m.in. „Żaden/Toma” poza jednym zdaniem, gdzie poprawiono rodzaj). Nowe konstrukcje wymagają dopisania formy do tabeli
+albo decyzji redakcyjnej — narzędzie nigdy nie zgaduje.
+
+**Publikacja:** `TGO/translation/packages/` — patch `1j95-XovU33y_kfBXVq1GqPa5czaABL3z` (+ sidecar
+`1hyI9s-rpPeEr6N4Kr17LytqBA7WdKT9a`), Czytanka `1yqIcRUGItXVCcG0zzO20BrLGaMGTmlpw` (+ sidecar
+`1aAgI5Bii7AbusMuLY0SEJAj7-86fjns7`); poprzednie wydania przeniesione do kosza.

@@ -12756,7 +12756,7 @@
 **Ochrona:** …  
 **Paul:** Chodź. Spójrzmy jeszcze raz na nagranie z monitoringu.  
 **Melissa:** Co mam zrobić?  
-**Mox:** Lillian zamierza wszczepić moją spermę do Erici… To rytuał, który dopełni Toma Leolo... Niebezpiecznego magicznego idola.  
+**Mox:** Lillian zamierza wszczepić moją spermę do Erici… To rytuał, który dopełni Tomy Leolo... Niebezpiecznego magicznego idola.  
 **Melissa:** Rytuał? Toma Leolo? Zwolnij… o czym ty mówisz?  
 **Mox:** Melisso, to zabrzmi szaleńczo, ale istnieje artefakt zwany Toma Leolo, który może przywrócić potępione dusze z piekła.  
 **Mox:** A umieszczając moją spermę w cipce Erici, rytuał zostanie dopełniony i uwolni demony na nasz świat.  
@@ -13213,11 +13213,11 @@
 **Mox:** Co słychać, ojcze?  
 **Brian:** Robię sobie przerwę na papierosa.  
 **Mox:** Palisz?  
-**Brian:** Nie… Po prostu łapię trochę świeżego powietrza. Nie mogę rozgryźć tej zagadki z Toma Leolo.  
+**Brian:** Nie… Po prostu łapię trochę świeżego powietrza. Nie mogę rozgryźć tej zagadki z Tomą Leolo.  
 **Mox:** Ojcze… Znalazłem kolejny amulet.  
 **Brian:** O Boże. Jakby sprawy nie były już wystarczająco skomplikowane…  
-**Mox:** Myślisz, że ma związek z Toma Leolo?  
-**Brian:** Nie wiem… Madalyn szukała trzech takich amuletów… To Lillian szukała fragmentów Toma.  
+**Mox:** Myślisz, że ma związek z Tomą Leolo?  
+**Brian:** Nie wiem… Madalyn szukała trzech takich amuletów… To Lillian szukała fragmentów Tomy.  
 **Brian:** Gdzie go znalazłeś?  
 **Mox:** Co dziwne, znalazłem go w domu komisarza.  
 **Brian:** Co zamierzasz zrobić?  
@@ -13237,7 +13237,7 @@
 **Brian:** Wiedzą co nieco o plemionach Casula z Cape Vedra…  
 **Brian:** Oby coś z ich biblioteki nam pomogło.  
 **Mox:** Czego chcesz się dowiedzieć?  
-**Brian:** W naszej księdze jest mowa o Idolu Dusz… Jestem niemal pewien, że chodzi o Toma Leolo.  
+**Brian:** W naszej księdze jest mowa o Idolu Dusz… Jestem niemal pewien, że chodzi o Tomę Leolo.  
 **Brian:** Jeśli znajdziemy księgę Casula, która uzupełni luki, ustalimy, co robi ten posąg i dlaczego Lillian tak bardzo go pragnie.  
 **Mox:** Powodzenia.  
 **Brian:** Jeśli zobaczysz Tashę, powiedz jej, żeby szybko wracała.  
@@ -20041,7 +20041,7 @@
 **Judy:** Co?  
 **Mox:** Mylisz się, Madalyn.  
 **Madalyn:** Twój czas minął, kochana.  
-**Judy:** Używała fragmentu posągu Toma!  
+**Judy:** Używała fragmentu posągu Tomy!  
 **Mox:** Cholera! Duncan ma pozostałe fragmenty…  
 **Mox:** To znaczy, że mają już wszystkie sześć fragmentów!  
 **Judy:** Co się stanie?  
@@ -29804,7 +29804,7 @@
 **Nellie:** Armia Upadłych?  
 **Tasha:** Ludzi, którzy umarli, przywrócono do życia.  
 **Brian:** Niezupełnie…  
-**Brian:** Czarownice używały Toma, by wyrywać dusze ludzi, żeby demony mogły w ich ciałach przybywać na Ziemię.  
+**Brian:** Czarownice używały Tomy, by wyrywać dusze ludzi, żeby demony mogły w ich ciałach przybywać na Ziemię.  
 **Nellie:** Hę?  
 **Mox:** Jak to działa?  
 **Brian:** Jedyni ludzie, którzy przeżyli Tomę Leolo, odwrócili wzrok.  
@@ -50203,8 +50203,8 @@
 **Erica:** Wszystko w porządku.  
 **Lillian:** Nie będę przeszkadzać ci w pracy.  
 **Erica:** Chcesz mi powiedzieć, że Madalyn wciąż jest w tej rezydencji?  
-**Mox:** Widziałem ją! Mówiła o szukaniu… Toma i amuletów… i…  
-**Erica:** Spokojnie. Szuka Toma Leolo?  
+**Mox:** Widziałem ją! Mówiła o szukaniu… Tomy i amuletów… i…  
+**Erica:** Spokojnie. Szuka Tomy Leolo?  
 **Mox:** Tak… Fragmentów… Szuka ich.  
 **Erica:** Jesteś pewien? Mówisz o tym, przez co unosiliśmy się w powietrzu?  
 **Mox:** Tak… Madalyn musiała mieć jeden z fragmentów… Na nią też zadziałał… Trudno to wyjaśnić.  
@@ -50969,7 +50969,7 @@
 **Melissa:** Czego szukamy?  
 **Mox:** Amulety…  
 **Mox:** Złoty z zielonym kamieniem, srebrny z czarnym i srebrny z żółtym diamentem.  
-**Melissa:** I to powstrzyma Lillian przed użyciem Toma?  
+**Melissa:** I to powstrzyma Lillian przed użyciem Tomy?  
 **Mox:** Cóż… Mniej więcej… Nie wiem dokładnie.  
 **Bobby:** To wszystko brzmi absurdalnie, ale nie mogę przymykać na to oczu. Dzieje się tu coś podejrzanego.  
 **Mox:** Ella i Nellie też pomagają w poszukiwaniach.  
@@ -64846,7 +64846,7 @@
 
 **Ella:** /greet  
 **Mox:** /greet  
-**Mox:** Uważaj, Ello. Żaden Toma nie jest wart utraty życia.  
+**Mox:** Uważaj, Ello. Żadna Toma nie jest warta utraty życia.  
 **Ella:** Nie martw się o mnie.  
 
 ---
@@ -65367,7 +65367,7 @@
 **Erica:** Fragmenty Tomy… Przestały świecić.  
 **Mox:** Weźcie je. Wynośmy się stąd.  
 **Wzmocniony sługa:** Aaaa!  
-**Zakapturzona postać:** Nie odbierzecie nam Toma Leolo!  
+**Zakapturzona postać:** Nie odbierzecie nam Tomy Leolo!  
 **Wzmocniony sługa:** Zabijcie ich!  
 **Zakapturzona postać:** Nie róbcie im krzywdy!  
 **Brian:** Zabieramy fragmenty Tomy.  
@@ -68737,7 +68737,7 @@
 **Brian:** ‘’Demony i poganie sprowadzają na siebie utratę łaski Niebios, czcząc fałszywego bożka.’’  
 **Judy:** To może oznaczać niemal wszystko. Jest tyle fałszywych bożków.  
 **Erica:** ‘’Plemię pogan, prowadzone przez kobiety i kierowane przez diabły z głębin, posługuje się Idolem Dusz, by sprowadzić armię upadłych.’’  
-**Erica:** Hmm… Czarownice z Casuli strzegły Toma Leolo. Może to o nich mowa jako o poganach w tej książce?  
+**Erica:** Hmm… Czarownice z Casuli strzegły Tomy Leolo. Może to o nich mowa jako o poganach w tej książce?  
 **Tasha:** Są tu jakieś ilustracje?  
 
 > **🎬 Wstawka wideo:** `BrRead3.mp4` (zapętlone)
@@ -70819,7 +70819,7 @@
 
 **Erica:** Jestem Daemalius… Ludzie sprowadzili mnie na Ziemię setki lat temu.  
 **Drab:** Gadasz bez sensu. Szczelinę otwarto dopiero teraz.  
-**Drab:** Nie mogłeś tu być, zanim sprowadzono z powrotem Toma Leolo.  
+**Drab:** Nie mogłeś tu być, zanim sprowadzono z powrotem Tomę Leolo.  
 **Erica:** Toma Leolo?  
 **Drab:** Matka buduje armię. Jesteś z nami, czy mamy ci skopać tyłek?  
 **Erica:** To mój świat i tylko mój! Ta suka zginie!  
@@ -72471,7 +72471,7 @@
 
 **Lillian:** /greet  
 **Mox:** /greet  
-**Lillian:** Znalazłeś kolejne kawałki Toma Leolo?  
+**Lillian:** Znalazłeś kolejne kawałki Tomy Leolo?  
 **Mox:** Jeszcze nie. Ale dam znać, jak tylko coś znajdę.  
 **Lillian:** Dobry chłopiec.  
 
@@ -75830,7 +75830,7 @@
 **Demon 1:** Oczywiście, że tak.  
 **Lillian:** Cieszę się, że tu jesteś, Mox. To świat pełen cierpienia…  
 **Lillian:** Mogę to naprawić.  
-**Mox:** Za pomocą Toma?  
+**Mox:** Za pomocą Tomy?  
 **Lillian:** Tak, kochanie. Toma wskaże drogę, a potępieni unikną wieczności cierpienia.  
 **Demon 3:** Tak, Matko! Nasze wyzwolenie jest blisko!  
 **Mox:** Cóż… To znaczy… Kto nie chciałby być wolny?  
@@ -84664,7 +84664,7 @@
 
 ## Mapa 209 — Menu główne / event 12 / strona 1
 
-**Narrator / mówca nieustalony:** Zdobądź Hannah numer telefonu, aby odblokować  
+**Narrator / mówca nieustalony:** Zdobądź numer telefonu Hannah, aby odblokować  
 
 ---
 
@@ -84688,7 +84688,7 @@
 
 ## Mapa 209 — Menu główne / event 20 / strona 1
 
-**Narrator / mówca nieustalony:** Zdobądź Carol numer telefonu, aby odblokować  
+**Narrator / mówca nieustalony:** Zdobądź numer telefonu Carol, aby odblokować  
 
 ---
 
@@ -84784,7 +84784,7 @@
 
 ## Mapa 209 — Menu główne / event 36 / strona 1
 
-**Narrator / mówca nieustalony:** Zdobądź Melissa numer telefonu, aby odblokować  
+**Narrator / mówca nieustalony:** Zdobądź numer telefonu Melissy, aby odblokować  
 
 ---
 

@@ -12,7 +12,7 @@
 **Brian:** ‘’Demony i poganie sprowadzają na siebie utratę łaski Niebios, czcząc fałszywego bożka.’’  
 **Judy:** To może oznaczać niemal wszystko. Jest tyle fałszywych bożków.  
 **Erica:** ‘’Plemię pogan, prowadzone przez kobiety i kierowane przez diabły z głębin, posługuje się Idolem Dusz, by sprowadzić armię upadłych.’’  
-**Erica:** Hmm… Czarownice z Casuli strzegły Toma Leolo. Może to o nich mowa jako o poganach w tej książce?  
+**Erica:** Hmm… Czarownice z Casuli strzegły Tomy Leolo. Może to o nich mowa jako o poganach w tej książce?  
 **Tasha:** Są tu jakieś ilustracje?  
 
 > **🎬 Wstawka wideo:** `BrRead3.mp4` (zapętlone)
