@@ -1,0 +1,262 @@
+
+## Mapa 006 — Kościół / event 5 / strona 1
+
+**Mox:** Chloe? Co tu robisz?  
+**Chloe:** Mox!?...  
+**Chloe:** Ja tylko…  
+**Chloe:** Co tu robisz?  
+**Mox:** Dzwonił ksiądz. Myślą, że ktoś włamał się zeszłej nocy.  
+**Chloe:** Przyjechałeś to zbadać?  
+**Mox:** Jestem tak samo zaskoczony jak ty.  
+**Chloe:** Wybacz, Mox. Muszę lecieć. Nadciąga burza.  
+**Mox:** Chloe, zaczekaj…  
+**Mox:** Spotykam się dziś wieczorem z twoją mamą.  
+**Chloe:** Kupiłeś ten dom?  
+**Mox:** Dzięki twojej mamie. Jest świetną agentką nieruchomości.  
+**Chloe:** Gratulacje, Mox…  
+**Chloe:** Musisz mnie kiedyś zaprosić.  
+**Mox:** Oczywiście.  
+**Mox:** Co, do cholery, Chloe robiłaby w kościele?  
+**Mox:** Czyżby zaczęła interesować się religią?  
+
+---
+
+## Mapa 020 — Hol wejściowy / event 8 / strona 1
+
+**Brian:** /greet  
+**Mox:** /greet  
+**Brian:** Przykro mi, ale piątkowe nabożeństwa odwołano z powodu zbyt małej frekwencji.  
+**Mox:** Nazywam się Mox. Pracuję w wydziale dochodzeniowo-śledczym.  
+**Judy:** Och! Dzięki Bogu, że już jesteś.  
+**Brian:** Witaj, Mox. Jestem ojciec Brian Solomon. Od niedawna pełnię tu posługę, w katedrze Ewy.  
+**Mox:** Miło cię poznać.  
+**Brian:** Szczerze mówiąc, nie spodziewałem się, że przyjdziesz tak szybko.  
+**Mox:** Cóż… Nie… To znaczy… Miałem dziś po południu trochę czasu.  
+**Mox:** Zapytam… Skąd znasz tę dziewczynę, która właśnie wyszła?  
+**Judy:** Och, ona nie sprawia kłopotów.  
+**Brian:** Wątpię, żeby miała coś wspólnego z tym, co słyszymy nocami.  
+**Mox:** Co słyszeliście?  
+**Judy:** Ktoś przeszukuje kościół.  
+**Brian:** Hałas dobiega chyba z magazynu, ale niczego tam nie zauważyliśmy.  
+**Mox:** Widzę, że niepokoją cię te odgłosy, ale czy nie sądzisz, że to pewnie jakieś zwierzę?  
+**Judy:** Proszę! Potraktuj to poważnie.  
+**Brian:** Wybacz siostrze Judy. Wiele przeszliśmy od śmierci ojca Zephaniaha.  
+**Judy:** Przepraszam. Po prostu… jesteśmy tu sami…  
+**Judy:** Ojciec Solomon i ja próbujemy postawić ten kościół na nogi.  
+**Mox:** Jeśli mogę spytać… Co się stało?  
+**Brian:** Krótko mówiąc… Ojciec Zephaniah był szaleńcem.  
+**Judy:** Ojcze!  
+**Brian:** Kościół tracił wiernych na długo przed moim przybyciem.  
+**Judy:** Ojciec Zephaniah był surowym człowiekiem…  
+**Judy:** Mówił o powtórnym przyjściu.  
+**Mox:** Powtórnym przyjściu? Masz na myśli powrót waszego Zbawiciela?  
+**Brian:** Rozumiem, że nie jesteś osobą religijną.  
+**Mox:** Wybacz, ojcze. Od dawna nie chodzę na lekcje religii.  
+**Brian:** Zephaniah miał skrajne poglądy, przez które wierni odchodzili z kościoła.  
+**Brian:** Wyprał mózgi wszystkim zakonnicom…  
+**Brian:** Wszyscy odeszli, z wyjątkiem Judy.  
+**Judy:** Nie znałam dobrze ojca Zephaniaha. Niedawno się tu przeprowadziłam, po tym jak zniszczono mój poprzedni kościół.  
+**Mox:** Wygląda na to, że wiele przeszłaś.  
+**Judy:** Od dawna nie czułam się jak w domu.  
+**Brian:** Jesteśmy tu tylko we dwoje, więc Judy boi się, że przyciągamy uwagę złodziei.  
+**Mox:** Co o tym sądzisz, ojcze Solomon?  
+**Brian:** Podejrzewam, że złodziej może mieć cztery łapy.  
+**Judy:** Wcale nie pomagasz.  
+**Brian:** Pokaż mu kościół, siostro. Niech poczuje się jak u siebie.  
+**Judy:** Tak, ojcze Solomon.  
+**Judy:** /greet  
+**Judy:** Jeśli pójdziesz za mną, pokażę ci nasz magazyn…  
+**Judy:** To stamtąd, jak sądzimy, dochodziły te odgłosy.  
+**Mox:** Prowadź.  
+---
+
+## Mapa 021 — Kaplica / event 13 / strona 1
+
+**Mox:** Wow. Ależ tu pięknie.  
+**Judy:** Prawda, że pięknie? O wiele ładniej niż w moim poprzednim kościele.  
+**Mox:** Gdzie był twój kościół?  
+**Judy:** Był częścią Uniwersytetu Saint Dame.  
+**Mox:** Naprawdę? Chloe studiowała na SDU.  
+**Judy:** Znasz Chloe?  
+**Mox:** Znam Chloe od dawna…  
+**Mox:** Znasz ją ze studiów, prawda?  
+**Judy:** Pracowałam na uczelni jako doradczyni.  
+**Mox:** Słyszałem, że to była niezła zagadka.  
+**Judy:** /shock  
+**Mox:** To znaczy… To, co wydarzyło się na Uniwersytecie Saint Dame… Musiało być dla ciebie trudne.  
+**Judy:** Przeszłości nie da się zmienić…  
+**Judy:** Ale może w North Santiva uda się zbudować nową przyszłość.  
+**Mox:** Jeśli nie masz nic przeciwko, chętnie obejrzę pomieszczenie gospodarcze.  
+**Judy:** Oczywiście.  
+
+---
+
+## Mapa 022 — Magazyn / event 5 / strona 1
+
+**Judy:** Wybacz ciemność. Kościół jest dość stary.  
+**Mox:** Przyznam, to miejsce mnie przeraża.  
+**Judy:** Zbudowano go w osiemnastym wieku…  
+**Judy:** Wiele z tego, co tu jest, pozostaje tajemnicą dla Ojca i dla mnie.  
+**Judy:** ...  
+**Judy:** Hałas!  
+**Mox:** Słyszałem to… Jest blisko.  
+
+---
+
+## Common Event 301 — SCN - Judy
+
+**Narrator / mówca nieustalony:** To coś ma świecić?  
+**Narrator / mówca nieustalony:** Ojej! Panie, miej nas w swojej opiece.  
+**Narrator / mówca nieustalony:** Hej! Wracaj!  
+**Narrator / mówca nieustalony:** Co to, do diabła, jest?  
+**Arianna:** Aaaa!  
+**Mox:** Aaaa!  
+**Arianna:** Gdzie ja jestem?  
+**Mox:** Co ty jesteś!?  
+**Arianna:** Ja... ja... Muszę iść!  
+
+---
+
+## Mapa 022 — Magazyn / event 7 / strona 1
+
+**Mox:** Co do cholery?  
+**Mox:** Muszę stąd zwiewać.  
+
+---
+
+## Mapa 021 — Kaplica / event 14 / strona 1
+
+**Judy:** Przepraszam, że cię zostawiłam, Mox… Przestraszyłam się.  
+**Mox:** Chyba znalazłem źródło tych hałasów…  
+
+---
+
+## Common Event 302 — SCN - Oracle
+
+**Mox:** Co to za rzecz?  
+**Judy:** Ja... Nigdy czegoś takiego nie widziałam. Nie wiem, co to może być.  
+**Mox:** Cokolwiek to jest, drżało i poruszało się samo.  
+**Judy:** Ojej... Co to za przeklęty drobiazg?  
+**Mox:** Boże, mam nadzieję, że to nie jest radioaktywne.  
+**Judy:** Ojej!  
+**Mox:** Nie masz nic przeciwko, jeśli zabiorę to na posterunek? Chętnie przyjrzę się temu z bliska.  
+**Judy:** Oczywiście. Proszę, zabierz to z tego miejsca.  
+**Mox:** Mam nadzieję, że teraz nie usłyszysz już żadnych hałasów.  
+
+---
+
+**Judy:** Mox. Nadal uważam, że grozi nam niebezpieczeństwo.  
+**Mox:** Co się stało?  
+**Judy:** To… Miewam takie sny…  
+**Mox:** Chyba czujesz się tu samotna… sama.  
+**Judy:** Może masz rację. Ale ostatnio coś się wydarzyło…  
+**Judy:** Nie potrafię tego dokładnie określić…  
+**Judy:** Ale nad tym miastem zapadł mrok. Czuję to.  
+**Mox:** Jeśli coś się wydarzy, zadzwoń do nas, a przyjdziemy z pomocą.  
+**Judy:** Jesteś bardzo miły.  
+**Mox:** Nie ma za co.  
+**Mox:** Jeśli nie masz nic przeciwko, powinienem już iść.  
+**Judy:** Och, na pewno masz napięty grafik.  
+**Mox:** Takie życie śledczego.  
+**Judy:** Do widzenia, Mox.  
+**Mox:** Do zobaczenia, siostro Judy.  
+
+---
+
+## Mapa 020 — Hol wejściowy / event 10 / strona 1
+
+**Arianna:** Ach! Znowu!  
+**Mox:** Cofnij się!  
+**Arianna:** Znam to miejsce!...  
+**Arianna:** Jestem na Ziemi!  
+**Mox:** No pewnie, że jesteś! A ty, do diabła, czym jesteś?  
+**Arianna:** Jak to możliwe? Nie mogę tu być… Nigdy nie trafiłam do Otchłani.  
+**Mox:** O czym ty mówisz? Skąd jesteś?  
+**Arianna:** Jestem z Empyreum, malutki.  
+**Mox:** Jesteś duchem?  
+**Arianna:** Czyż nie jesteś uroczy?  
+**Mox:** Nie rozumiem. Kim jesteś?  
+**Arianna:** Mam na imię Arianna. A ty?  
+**Mox:** Jestem… Mox.  
+**Arianna:** Witaj, Mox. Jestem tu, żeby ci pomóc.  
+**Mox:** Co masz na myśli?  
+**Arianna:** Szczegóły… Nie jestem pewna.  
+**Arianna:** Myślałam, że mam więcej czasu na przygotowania.  
+**Mox:** Na co się przygotować?  
+**Arianna:** Nigdy wcześniej nie byłam w twoim świecie…  
+**Arianna:** To…  
+**Arianna:** Co to za miejsce?  
+**Mox:** To kościół.  
+**Arianna:** Czy wszystko tutaj jest takie brzydkie?  
+**Mox:** Co?!  
+**Arianna:** Wszędzie jest brud. Kto tu odpowiada za sprzątanie?...  
+**Arianna:** To ty?  
+**Mox:** Brud? Nie widzę żadnego brudu.  
+**Arianna:** Biedny Ziemianinie. Pewnie nie znasz pojęcia czystości.  
+**Arianna:** W moim świecie robi się coś takiego jak… sprzątanie.  
+**Mox:** Wiem, co to sprzątanie.  
+**Arianna:** Świetnie! To posprzątajmy to paskudne miejsce.  
+**Mox:** Jeśli uważasz, że tu jest źle, reszty miasta wręcz nie zniesiesz.  
+**Arianna:** Ojej. Nie spodziewałam się tego.  
+**Mox:** Jak, do diabła, masz mi pomóc?  
+**Arianna:** Przekazuję wolę Boga.  
+**Mox:** Eee… Przemawiasz w imieniu Boga?  
+**Arianna:** Tak! Wreszcie rozumiesz.  
+**Mox:** To brzmi niedorzecznie… Ale seksowna laska z anatomicznie poprawnymi skrzydłami ptaka też.  
+**Arianna:** Jestem seksowną laską? Co to znaczy?  
+**Mox:** Nieważne…  
+**Mox:** Dobrze. Skoro znasz przyszłość, powiedz… Jaka jest wola Boga?  
+**Arianna:** No to zobaczmy…  
+**Arianna:** Dziś odwiedzisz rezydencję Wilkesów… Och! A Heather przekaże ci nowy dom…  
+**Arianna:** Ale masz szczęście.  
+**Mox:** Cholera! Skąd to wiedziałaś?  
+**Arianna:** Haha. Wiem wszystko, skarbie.  
+**Mox:** Wszystko?  
+**Arianna:** Cóż… Wszystko, co Istota Najwyższa pozwoliła mi zobaczyć.  
+**Mox:** Dobrze… To powiedz mi: rozwiążę sprawę morderstwa Wilkesów?  
+**Arianna:** Eee… Nie wiem.  
+**Mox:** Myślałem, że wiesz wszystko.  
+**Arianna:** Wiem tylko wtedy, gdy nadchodzi właściwy moment. Bez wskazówek Stwórcy jestem w ciemnościach.  
+**Arianna:** Moje moce działają tylko dzięki Jego wszechmocnym wskazówkom.  
+**Brian:** Wszystko w porządku, Mox? Z kim rozmawiasz?  
+**Mox:** Ojcze Solomonie!… Ja tylko… się modliłem.  
+**Brian:** Ale szybka przemiana. Chwała Panu.  
+**Mox:** Ja… Eee…  
+**Brian:** Znalazłeś coś w magazynie?...  
+**Brian:** Może ślady łap jakiegoś psotnego kota?  
+**Mox:** Znalazłem… coś dziwnego…  
+**Mox:** Tak, ślady łap. Chyba macie tu kota na wolności.  
+**Brian:** Powiedziałeś Judy?  
+**Mox:** Wszystko załatwione. Chyba udało mi się ją uspokoić.  
+**Brian:** Ostatnio jest tu ciężko, Mox.  
+**Brian:** Przykro mi, że musieliśmy ci zawracać głowę.  
+**Mox:** To żaden problem. Cieszę się, że mogłem pomóc.  
+**Brian:** Na zewnątrz szaleje niezła burza. Może zostaniesz na chwilę?  
+**Mox:** Muszę już lecieć. Prowadzę jeszcze inne śledztwo.  
+**Brian:** Nie każ im na siebie czekać.  
+**Mox:** Miło było cię poznać, ojcze Solomon.  
+**Mox:** Życzę ci wszystkiego dobrego.  
+**Brian:** Daj nam kilka miesięcy. Do Bożego Narodzenia będzie tu tętnić życie.  
+**Mox:** Powodzenia.  
+**Brian:** Niech Pan błogosławi twojej drodze.  
+**Narrator / mówca nieustalony:** Burza mija. Spotkajmy się w domu. Jestem z ciebie taka dumna!  
+**Mox:** To Heather… Dom jest gotowy.  
+**Mox:** Cholera… Zdążę odwiedzić dom i dotrzeć do rezydencji Wilkesów, zanim Melissa wyjdzie?  
+**Arianna:** Masz mnóstwo czasu, żeby zrobić jedno i drugie.  
+**Mox:** Skąd wiesz?  
+**Arianna:** Taka jest wola Boga.  
+**Mox:** Czyli… Mogę najpierw pojechać do domu?  
+**Arianna:** Tak!  
+**Mox:** A jeśli się spóźnię? Mogę najpierw pojechać do rezydencji, a potem do domu, nie każąc Heather czekać?  
+**Arianna:** Tak!  
+**Mox:** Naprawdę?  
+**Arianna:** Czasem kolejność nie ma znaczenia, o ile postępujesz zgodnie z Jego wolą.  
+**Mox:** To naprawdę dziwne.  
+**Arianna:** Przyzwyczaisz się, skarbie.  
+**Arianna:** Twoja podróż dopiero się zaczyna, Mox. Wciąż masz się jeszcze wiele nauczyć.  
+**Arianna:** Na początek otwórz ekwipunek i wybierz telefon.  
+
+---
+
+*〔Wskazówka: Idź do domu zaznaczonego na mapie. Ktoś tam na ciebie czeka.〕*
+

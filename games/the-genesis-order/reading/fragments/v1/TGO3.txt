@@ -1,0 +1,99 @@
+---
+
+## Mapa 012 — Dom bohatera / event 21 / strona 1
+
+**Heather:** Mox! Udało ci się dotrzeć!  
+**Mox:** Czyli wszystko gra? To wszystko moje?  
+
+## Common Event 303 — SCN - Heather Home
+
+> **🎬 Wstawka wideo:** `HeHomesale1.mp4` (zapętlone)
+
+**Heather:** No już, weź to, kochanie. Jest twoje.  
+
+> **🎬 Wstawka wideo:** `HeHomesale2.mp4` (zapętlone)
+
+**Mox:** Dzięki, Heather. Tak wiele dla mnie zrobiłaś.  
+**Heather:** Oczywiście, kochanie. Jesteś moim dużym chłopcem.  
+
+> **🎬 Wstawka wideo:** `HeHomesale3.mp4` (zapętlone)
+
+**Heather:** O! Ale masz mięśnie!  
+**Mox:** Cholera! Nie oszczędzasz się, co?  
+
+> **🎬 Wstawka wideo:** `HeHomesale4.mp4` (zapętlone)
+
+**Heather:** Powiedziałabym, że całkiem dobrze o siebie dbam. Co ty na to?  
+**Mox:** Jak zawsze piękny.  
+**Heather:** To mój chłopak.  
+
+---
+
+## Mapa 012 — Dom bohatera / event 35 / strona 1
+
+**Heather:** Chodź. Wejdźmy do środka!  
+
+---
+
+## Mapa 027 — Wewnątrz / event 65 / strona 1
+
+**Heather:** Na zewnątrz jest szorstka, ale w środku widzę w niej wielki potencjał.  
+**Mox:** Aż trudno mi uwierzyć, że to robię.  
+**Heather:** I jeszcze jedno, Mox. Gdybyś kiedykolwiek potrzebował pomocy, jestem do twojej dyspozycji.  
+**Mox:** Dzięki, Heather.  
+**Heather:** Jak idzie praca?  
+**Mox:** Wciąż jestem na służbie.  
+**Heather:** Nie będę cię zatrzymywać. Cieszę się, że mogę być tu z tobą w tej chwili.  
+**Mox:** Wspinam się po szczeblach kariery.  
+**Heather:** Masz jakieś wielkie plany na pierwszą noc w nowym domu?  
+**Mox:** Szczerze mówiąc, jeszcze o tym nie myślałem.  
+**Heather:** Lepiej zacznij myśleć. To miejsce trzeba jakoś urządzić.  
+**Mox:** Stoliki pod telewizor i pufy?  
+**Heather:** Bardzo śmieszne, Mox.  
+**Heather:** Wiesz… Jeśli dziś wieczorem nie masz planów, zaprosiłam Carol na kolację.  
+**Heather:** Dołączysz do nas?  
+**Mox:** Z Chloe?  
+**Heather:** Mam nadzieję. Wiesz, jaka ona jest.  
+**Heather:** Może zaprosisz Hannah? Wtedy Chloe może zostanie na dłużej.  
+**Mox:** Mam sporo pracy, ale chyba mogę do niej zajrzeć.  
+**Mox:** Widziałem dziś Chloe w kościele.  
+**Heather:** W kościele?  
+**Mox:** W Katedrze Ewy. Odwiedziła siostrę Judy.  
+**Heather:** Nie kojarzę. Kim jest siostra Judy?  
+**Mox:** Była doradczynią na Uniwersytecie Saint Dame.  
+**Heather:** Racja! Pamiętam ją.  
+**Heather:** Myślisz, że Chloe ma jakieś problemy?  
+**Mox:** Coś jest z nią nie tak, ale nie wiem co.  
+**Heather:** Czemu nie przyszła do mnie?... Jestem jej matką.  
+**Mox:** Nie zamartwiaj się, Heather. Cokolwiek się dzieje, na pewno sobie z tym poradzi.  
+**Heather:** Nie powiem jej, że coś mówiłeś, Mox.  
+**Mox:** Dzięki.  
+**Heather:** A teraz wracaj do pracy. Ten dom sam się nie spłaci.  
+**Mox:** Do zobaczenia na kolacji.  
+**Heather:** Przyprowadź Hannah.  
+**Mox:** Spróbuję.  
+**Arianna:** O rany! Co to za miejsce? Jesteśmy uwięzieni?  
+**Mox:** To mój dom.  
+**Arianna:** Mieszkasz w pudełku? Jak to działa?  
+**Mox:** Tak wyglądają domy na Ziemi… No… niektóre z nich.  
+**Arianna:** Och! Jest… uroczy.  
+
+**Mox:** Obecność anioła stróża jest dość surrealistyczna, ale muszę wkrótce jechać do rezydencji.  
+**Arianna:** Nie spiesz się, Mox. Twoja szefowa będzie tam, kiedy dotrzesz.  
+**Mox:** Takie jest Boże zrządzenie?  
+**Arianna:** Oczywiście!  
+**Mox:** A jeśli pojechałbym na farmę porozmawiać z Hannah? Spóźniłbym się?  
+**Arianna:** Nie.  
+**Mox:** Naprawdę? Wydaje mi się, że bym się spóźnił.  
+**Arianna:** Ta ścieżka jest otwarta, Mox. Idź za głosem serca.  
+**Mox:** Jeśli masz rację, takie informacje są bardzo przydatne.  
+**Arianna:** Taka moja rola. Mam pomagać!  
+**Arianna:** Jeśli kiedykolwiek utkniesz, po prostu poproś mnie o pomoc.  
+**Mox:** Jak mam cię… przywołać?  
+**Arianna:** Otwórz ekwipunek. Pamiętasz jak?  
+wybór «Tak. Wiem, jak otworzyć ekwipunek.».
+**Arianna:** Gdy będziesz potrzebował pomocy, wybierz Wyrocznię z ekwipunku. 
+*〔Wskazówka: Na farmie musisz porozmawiać z pewną zadziorną rudowłosą.〕*
+
+
+ 

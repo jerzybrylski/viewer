@@ -692,3 +692,48 @@ Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa oso
 **Testy:** `tests/test_movie_calls.py` (17 testów) + pełny `unittest`: **190 OK**. `tests/test_patch_artifacts.py` zaktualizowany o nowe liczby (4 397 epizodów / 4 403 wpisy).
 
 **Ograniczenia:** skan jest statyczny i obejmuje wyłącznie polecenia eventów; stan slotów odtwarzany jest w obrębie strony eventu, bez ewaluacji warunków i runtime. Gry nie uruchamiano, filmów nie kopiowano, patcha nie zmieniano.
+
+## 2026-10-31 — fragmenty Czytanki od właściciela: wstawki wideo dopisane do TGO1–TGO12
+
+**Wejścia (Google Drive, przez connector):** folder `TGO/dostawy/` (ID `1OzLwZyMo4ygfNFI6U_g9HGvU9Xnwh7WF`), 12 plików `.txt`:
+`TGO1.txt` (`1NUihCbOUQ3JouWVsamfJtQ0dWnLZpGBg`, 4 390 B), `TGO2.txt` (`1aEBXYbLnE_325PHxRBvHxGRc0Y_eAMUU`, 11 999 B),
+`TGO3.txt` (`1NGA6QcffnhmcioP22z5PVOWKgWVxqo2k`, 4 015 B), `TGO4.txt` (`1v5bOGJieJ2qNNnBbtm2kU8GenYYKD6ne`, 4 858 B),
+`TGO5.txt` (`18Fpkgh2TqrB8Czh2ET88cKKCiYD-c2_a`, 5 485 B), `TGO6.txt` (`1rX-Au0Rz9wwLJCeprVgsv5Jlki3jD_If`, 6 245 B),
+`TG7.txt` (`1jQEMoiyoqFYeSPYd8sp_aZ_cvJh0Hgdg`, 18 217 B), `TG8.txt` (`1RMqUhgWm-ijlKWvBFxd50Bw_CXXjU0ks`, 11 603 B),
+`TG9.txt` (`1BoVAA9V15f-e7gESuRbLdF1IGkMPgpUO`, 11 125 B), `TGO10.txt` (`1-qOcAc9Ex53S3Rw4dUumOmv4frZU2fIz`, 9 384 B),
+`TGO11.txt` (`1v4RXKPsuXS4tegYw655tSDX_sFwHqaYu`, 15 235 B), `TGO12.txt` (`1QU_s-bYuDaudvg83YAFJ20u0ljUjSVwS`, 5 434 B).
+
+**POTWIERDZONE (struktura dostawy):** to autorskie cięcia pliku matki, nie ciągłe wycinki — 105 bloków, w tym 93 z nagłówkiem `## ...`
+i 12 preambuł (kwestie przed pierwszym nagłówkiem). Wszystkie 93 nagłówki występują w `chronological_script_PL.md` dokładnie raz,
+więc nagłówek jest jednoznaczną kotwicą epizodu. Kolejność bloków odpowiada kolejności w pliku matce; nazwy `TG7`–`TG9`
+(bez „O”) zachowano 1:1 z dostawą.
+
+**Zrobione (sandbox, bez uruchamiania gry):**
+- nowe narzędzie `tools/annotate_reading_fragments.py`: parsuje plik matkę na epizody (nagłówek, kwestie, linie znaczników wideo),
+  dopasowuje kwestie bloku przez `difflib.SequenceMatcher` po normalizacji (białe znaki, cudzysłowy, myślniki, wielokropek)
+  i wstawia znacznik wyłącznie tam, gdzie w matce stoi on między dwiema dopasowanymi kwestiami albo między nagłówkiem epizodu
+  a pierwszą kwestią;
+- znaczniki kopiowane są **bajt w bajt z pliku matki** (z `(zapętlone)` i adnotacją o brakującym pliku, jeśli tam jest) — narzędzie
+  nie wymyśla nazw plików wideo;
+- kwestie spoza matki (redakcje właściciela, opcje wyboru, linie NPC) pozostają nietknięte i trafiają do raportu;
+- zachowany styl zakończeń linii (wszystkie 12 plików CRLF), kolejność i treść linii; dodawane są tylko linie znaczników i puste
+  linie wymagane przez Markdown;
+- odmowa pracy, gdy katalog wyjściowy albo raport już istnieją (ta sama reguła co w innych narzędziach).
+
+**Wynik:** **72** wstawki w 12 plikach (TGO1 1, TGO2 3, TGO3 4, TGO4 5, TGO5 3, TGO6 4, TG7 3, TG8 2, TG9 16, TGO10 15,
+TGO11 16, TGO12 0), 1 765/1 829 kwestii dopasowanych, 64 kwestie spoza matki (27 nie występuje w matce, 37 w innych epizodach).
+`TGO12.txt` jest bajt w bajt identyczny ze źródłem — **żaden z 10 epizodów tego fragmentu nie ma wstawki wideo w matce**
+(sprawdzone w matce, nie założone).
+
+**Kontrole:** (1) każda z 72 wstawek stoi między dwiema *sąsiednimi* kwestiami pliku matki — w całej dostawie nie ma przypadku,
+w którym znacznik przeskakuje pominiętą kwestię; (2) suma znaczników w 93 objętych epizodach matki = 72 = liczba wstawek
+w plikach wynikowych; (3) podobieństwo bloków wynikowych do epizodów matki: mediana 0,94, 66/93 bloków ≥ 0,90,
+a rozbieżności to wyłącznie redakcje właściciela (np. „Jak zawsze piękny.” vs „piękna.” w matce); (4) żadna niepusta linia
+źródła nie zginęła.
+
+**Testy:** `tests/test_reading_fragments.py` (15 testów: wstawianie początkowe/śródblokowe/końcowe, zachowanie CRLF,
+kwestie redakcyjne, brak nadpisania, brak pliku matki, dane repo). Pełny `unittest`: **205 OK**.
+
+**Ograniczenia:** dopasowanie jest statyczne i nie ocenia warunków gry; wstawek ze scen nieobecnych we fragmencie nie ma
+gdzie oznaczyć. Gry nie uruchamiano, plików wideo nie kopiowano. Pliki na Drive pozostawiono bez zmian — wynik jest osobnym
+wydaniem (`reading/fragments/v1/`), nie nadpisaniem dostawy.

@@ -1,0 +1,227 @@
+
+**Mox:** Przydałoby mi się coś takiego.
+
+## Mapa 013 — Centrum handlowe / event 41 / strona 1
+
+**Postać niezależna:** Pokutujcie! Zamknąć sklep z pornografią! North Santiva nie powinna tolerować pornografii!...  
+**Postać niezależna:** Przepraszam… Jestem roztrzęsiony, odkąd zgubiłem krucyfiks. To była ważna rodzinna pamiątka.  
+
+**Postać niezależna:** Czasem znajduję rzeczy na ziemi. Mam kiepski wzrok, więc muszę podejść naprawdę blisko, żeby je zobaczyć.  
+**Postać niezależna:** Moi znajomi wpadli do mnie, ale dom był tak brzydki, że nie chcieli zostać.  
+**Postać niezależna:** O tej porze roku ziemia bywa twarda. 
+**Postać niezależna:** Przy Dick’s kręcił się jakiś wściekły facet.  
+**Postać niezależna:** Wyglądasz, jakbyś miał wirusa seksu. Trzymaj się z daleka. 
+**Postać niezależna:** Trafiła mi się zardzewiała zabawka na ziemi, w cieniu drzewa. Zardzewiałe przedmioty czasem trudno zauważyć.  
+**Postać niezależna:** Mówią, że w lesie można znaleźć fajne artefakty. 
+**Postać niezależna:** Widziałem kogoś wynoszącego śmieci przy apartamentowcu. Co on, do cholery, wyprawiał?  
+**Postać niezależna:** W wiadomościach mówili o wirusie seksu. Brzmi przerażająco.  
+**Postać niezależna:** Gdybym się tak nie wstydził, poszedłbym do sklepu porno. Słyszałem, że Lisa Stonewell ma coś nowego.  
+**Postać niezależna:** Lubię dzwonić do ludzi z komórki. Też tak robisz? 
+
+**Postać niezależna:** Zgubiłem figurkę w lesie. Miała być prezentem dla mojej córki!  
+**Mox:** Może uda mi się ją dla ciebie znaleźć.  
+**Postać niezależna:** Jeśli ją znajdziesz, hojnie cię wynagrodzę.  
+**Mox:** /solve  
+
+---
+
+## Mapa 013 — Centrum handlowe / event 40 / strona 1
+
+**Postać niezależna:** Znalazłeś moją figurkę!  
+**Narrator / mówca nieustalony:** Dać mu swoją figurkę?  
+**Wybór gracza:** Tak
+**Postać niezależna:** Dziękuję! Proszę, przyjmij nagrodę.  
+
+*〔Wskazówka: Dawno nie zapisywałeś gry. Wybierz „Telefon” i zapisz, przystojniaku!〕*
+
+---
+
+## Mapa 031 — Sklep XXX / event 14 / strona 1
+
+**Mox:** Co jest, do cholery? Gdzie jest Tasha?  
+**Mox:** Musi być na zapleczu. Nie zostawiłaby sklepu bez opieki.  
+**Arianna:** Mox. Nigdzie w pobliżu nie wyczuwam Tashy.  
+**Mox:** Co? Co ona sobie myśli?  
+**Arianna:** Odbiera dostawę, która przybyła z dalekiej krainy.  
+**Mox:** Hmm. Ciekawe, skąd mogła przybyć.  
+
+---
+
+## Mapa 015 — Magazyn / event 21 / strona 1
+
+**Mox:** /greet  
+**Jon:** /greet  
+**Jon:** Hej. Kojarzę cię. Jesteś tym detektywem.  
+**Mox:** Pracujesz tutaj?  
+**Jon:** Jestem właścicielem tego budynku.  
+**Mox:** Masz sporo nieruchomości, co, Jon?  
+**Jon:** Jeśli nie jestem aresztowany, to spadaj!  
+**Mox:** Tasha! No jesteś!  
+**Tasha:** Śledzisz mnie, Mox?  
+**Mox:** Byłem w sklepie, ale cię tam nie było.  
+**Jon:** Wygląda na to, że każda dziewczyna, z którą mam interesy, jest jakoś z tobą powiązana, detektywie.  
+**Mox:** Wy się znacie?  
+**Tasha:** Jestem tu służbowo.  
+**Jon:** A ciebie to nie obchodzi, Mox.  
+**Tasha:** Przyszłam odebrać chińskie gadżety erotyczne.  
+**Jon:** Hej! Nie musisz rozgłaszać tego całemu światu, młoda damo.  
+**Mox:** Powinienem się tym martwić?  
+**Tasha:** Nie jesteś zbyt ufny, co, Jon?  
+**Jon:** Co ty na to, detektywie? Masz ochotę węszyć w moich sprawach?  
+**Mox:** Przyszedłem tylko poszukać Tashy.  
+**Jon:** Czemu wypytujesz moich klientów? Czego szukasz?  
+**Tasha:** Prowadzi śledztwo w sprawie półdemona-mordercy.  
+**Jon:** Nie pogrywaj ze mną, dziewczyno.  
+**Mox:** Może lepiej, żebym porozmawiał z Tashą na osobności.  
+**Jon:** Ta ruda kompletnie nie panuje nad impulsami.  
+**Tasha:** Pieprz się, Chewbacco.  
+**Tasha:** Spotkajmy się z powrotem w sklepie, Mox. Tam pogadamy.  
+**Jon:** To jak, naprawdę jesteś detektywem, czy tylko podrywasz te wszystkie laski?  
+**Mox:** Prowadzę śledztwo w sprawie morderstwa. Akurat tak się składa, że kręci się wokół niego mnóstwo seksownych kobiet.  
+**Jon:** Nieźle. Taki silny facet jak ty musi mieć dostęp do niezłej cipki.  
+**Mox:** Zachowuję profesjonalizm, Jon.  
+**Jon:** Jak chcesz.  
+**Mox:** Hej. Te rzeczy wyglądają znajomo.  
+**Jon:** To artefakty Casula. Prosto z rezerwatu.  
+**Mox:** Handlujesz artefaktami na oczach detektywa?  
+**Jon:** Nie spinaj się, detektywie. Mam licencję.  
+**Mox:** Naprawdę?  
+**Jon:** Mam cały zestaw licencji na prowadzenie tego magazynu.  
+**Mox:** Czyli nie tylko jesteś właścicielem budynku.  
+**Jon:** Mam rozległe znajomości. Może moglibyśmy się dogadać.  
+**Mox:** Nie będę kłamał. Dobrze byłoby znać kogoś z takimi znajomościami.  
+**Jon:** Znajomość kogoś z policji też by nie zaszkodziła.  
+**Jon:** Powiedz mi, zamierzasz wsadzić Ericę? Potrzebuję pieniędzy na czynsz, które mi płaci.  
+**Mox:** Nie jest aresztowana. Ale ma pracę. Tyle mogę ci powiedzieć.  
+**Mox:** Wkrótce dostaniesz pieniądze. Może trochę jej odpuść.  
+**Jon:** Już dość jej odpuszczałem. Ale mam wrażenie, że jest w niej coś więcej, niż mi mówisz.  
+**Mox:** Do zobaczenia, Jon.  
+**Jon:** Trzymaj się, detektywie.  
+
+---
+
+## Mapa 031 — Sklep XXX / event 7 / strona 3
+
+**Tasha:** /greet  
+**Mox:** Półdemon? Naprawdę?  
+**Tasha:** Opowieści, które mógłabym ci zdradzić o Madalyn, zwaliłyby cię z nóg.  
+**Mox:** Zaczynam się zastanawiać, czy mogę ci ufać.  
+**Tasha:** Nie wierzysz w zjawiska nadprzyrodzone, prawda?  
+**Mox:** Jestem detektywem. Nie wierzę w nic, na co nie mam dowodów.  
+**Tasha:** Jeśli zamierzasz dopaść Madalyn, może czas zmienić poglądy.  
+**Mox:** Zaspokój moją ciekawość. Dlaczego myślisz, że jest demonem?  
+
+---
+
+## Common Event 312 — SCN - Madalyns Past
+
+**Narrator / mówca nieustalony:** Madalyn nie jest demonem. Jej matka była człowiekiem, a ojciec demonem.  
+**Narrator / mówca nieustalony:** Ta historia robi się coraz ciekawsza.  
+**Narrator / mówca nieustalony:** Myślisz, że oszalałem, ale Madalyn potrafi zatruwać umysły.  
+**Narrator / mówca nieustalony:** Ona potrafi kontrolować ludzi?  
+**Narrator / mówca nieustalony:** Bez trudu.  
+**Narrator / mówca nieustalony:** Zabrała duszę demona swojemu bratu…  
+**Narrator / mówca nieustalony:** Wzmacnia jej zdolności ponad wszystko, z czym możesz sobie poradzić.  
+**Narrator / mówca nieustalony:** Jej brat?  
+**Narrator / mówca nieustalony:** Daemalius. Dusza, która przetrwała setki lat.  
+**Narrator / mówca nieustalony:** Naprawdę cię to wciągnęło, co?  
+**Narrator / mówca nieustalony:** Przechodzi z ojca na syna. Dzieci diabła nie mają duszy…  
+**Narrator / mówca nieustalony:** Są jedynie naczyniami, które mogą utrzymać Daemaliusa przy życiu.  
+**Narrator / mówca nieustalony:** Ojciec przekazał ją synowi? Twierdzisz jednak, że Madalyn ma jego duszę. Zmienisz swoją wersję?  
+**Narrator / mówca nieustalony:** Oszukała go. Teraz jest ostatnim naczyniem, które może utrzymać go przy życiu.  
+ 
+---
+
+## Mapa 031 — Sklep XXX / event 7 / strona 4
+
+**Mox:** Trzeba przyznać, że niezła historia.  
+**Tasha:** Nie musisz mi wierzyć. Ale jeśli kiedyś ją spotkasz, miej się na baczności.  
+**Tasha:** Złamie cię.  
+**Mox:** Będę o tym pamiętać.  
+**Tasha:** Powiedz mi… Jest w North Santiva?  
+**Mox:** Nie wiem. Mieszkała w wielkiej rezydencji na zachód od miasta.  
+**Mox:** Ale teraz nie możemy jej znaleźć…  
+**Mox:** Nie wiem, co tu robiła.  
+**Tasha:** Chciałabym powiedzieć ci więcej, panie detektywie.  
+**Mox:** Przedstawiłaś… ciekawy punkt widzenia.  
+**Tasha:** Wpadaj, kiedy chcesz. Drzwi są zawsze otwarte.  
+**Mox:** Na razie, Tasho.  
+
+---
+
+## Mapa 013 — Centrum handlowe / event 47 / strona 1
+
+**Erica:** Mox!?  
+**Mox:** Eriko!?  
+**Erica:** Miło spędzasz weekend?  
+**Mox:** To nie tak, jak myślisz… Ja tylko…  
+**Erica:** Kupujesz zabawkę dla swojej dziewczyny?  
+**Mox:** Nie… Nie mam dziewczyny.  
+**Mox:** Co tu robisz?  
+**Erica:** Zabijam czas, zanim będę musiała iść do rezydencji.  
+**Mox:** Masz dziś pracować?  
+**Erica:** Denerwuję się tym.  
+**Mox:** Czemu nie znajdziesz sobie pracy tutaj, w mieście?  
+**Erica:** Lillian obiecała, że zatrudni mnie jako pokojówkę. I dobrze płaci, Mox. Naprawdę dobrze.  
+**Mox:** Ile masz czasu? Pozwól, że postawię ci drinka.  
+**Erica:** Skoro proponujesz. Chętnie chwilę pogadam.  
+**Mox:** /order  
+
+---
+
+## Common Event 313 — SCN - Erica Diner
+
+**Erica:** To jak często kupujesz porno?  
+**Mox:** Co!? Nie… Rozmawiałem z właścicielką sklepu…  
+**Mox:** Zna Madalyn.  
+**Erica:** Pracujesz w weekend?  
+**Mox:** Można powiedzieć, że jestem pracoholikiem.  
+**Erica:** To ci nie służy, Mox.  
+**Mox:** Co cię sprowadza do North Santiva?  
+**Erica:** Zawsze tu mieszkałam. Łączy mnie z tym miejscem wyjątkowa więź.  
+**Mox:** Naprawdę? Jesteś sentymentalna?  
+**Erica:** Raczej jestem typem Casula.  
+**Mox:** Chwila, jesteś stąd?  
+**Erica:** Przyznaję się.  
+**Mox:** To ciekawe.  
+**Mox:** I nie planujesz wyjechać?  
+**Erica:** Zrobię wszystko, co trzeba, żeby się utrzymać.  
+**Erica:** Ale na razie zostaję tutaj.  
+**Mox:** Robisz karierę w branży usługowej?  
+**Erica:** Chyba Lillian nie ma wielkiego wyboru. Moim zdaniem przepłaca.  
+**Mox:** Ta rezydencja jest ogromna, trzeba o nią dbać.  
+**Erica:** Wielu pomieszczeń nawet nie widuję. I nigdy nie rozmawiam z trędowatymi.  
+**Mox:** Ci chorzy… To trędowaci?  
+**Erica:** Tak ich nazywają. Przyprawiają mnie o dreszcze.  
+**Mox:** Brzmi biblijnie.  
+**Mox:** Myślę, że coś tam śmierdzi.  
+**Erica:** Oczywiście. Nie trzeba być detektywem, żeby to zauważyć.  
+**Mox:** Co robią ci trędowaci? Widziałaś kiedyś Madalyn z nimi?  
+**Erica:** Ale z ciebie pracoholik.  
+**Mox:** Co? To ciekawe.  
+**Erica:** Modlą się i wykonują prace domowe. Rzadko widuję, żeby robili coś innego.  
+**Erica:** Zachowują się jak mnisi, ale Charlesowi było daleko do świętości.  
+**Mox:** Co masz na myśli?  
+**Erica:** Długo mi się przyglądał… Tak samo Madalyn. Wydaje mi się, że łączyło ich coś seksualnego. Ale nie wiem…  
+**Erica:** Z Charlesem było coś nie tak. Jakby był marionetką sterowaną przez Madalyn…  
+**Erica:** Jakby tkwiła w nim zupełnie inna osoba.  
+**Mox:** Z tego, co słyszałem, to Madalyn była opętana.  
+**Erica:** Co masz na myśli?  
+**Mox:** Podobno ma duszę demona.  
+**Erica:** Co!? Mówisz poważnie?  
+**Mox:** Sam w to nie wierzę. Ale sądzę, że zamordowała Charlesa.  
+**Erica:** Ale twoja szefowa tak nie uważa?  
+**Mox:** Nie słucha mnie.  
+**Erica:** Mogę ci pomóc, Mox…  
+**Erica:** Mogę ci powiedzieć, co zauważyłam.  
+**Mox:** To by mi pomogło. Chętnie dowiedziałbym się więcej o tym, co się tam dzieje.  
+**Erica:** Miło było porozmawiać o pracy. Skoro tylko to cię interesuje.  
+**Mox:** No… To znaczy… Nie szukam…  
+**Erica:** Dziewczyny?  
+**Mox:** Nie chodzi o to, że nie jesteś atrakcyjna…  
+**Erica:** Boże, Mox. Myślałam, że lepiej sobie radzisz z podrywaniem.  
+**Mox:** Dzięki za pomoc, Eriko.  
+**Erica:** Nie ma sprawy, detektywie.  
+**Mox:** No i ładnie się ośmieszyłeś, Mox.  
+
+---

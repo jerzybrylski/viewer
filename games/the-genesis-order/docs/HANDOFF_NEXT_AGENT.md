@@ -1,6 +1,12 @@
 # Handoff — The Genesis Order PL
 
-## 2026-10-31 — wstawki wideo w Czytance (nowe)
+## 2026-10-31 (aktualizacja) — fragmenty Czytanki od właściciela mają już wstawki wideo
+
+- **Zrobione:** 12 plików z Drive `TGO/dostawy/` (`TGO1`…`TGO6`, `TG7`–`TG9`, `TGO10`…`TGO12`) to autorskie cięcia pliku matki (105 bloków, 93 nagłówki epizodów, 1 829 kwestii). `tools/annotate_reading_fragments.py` dopasował każdy blok do epizodu matki i wstawił **72** znaczniki `🎬 Wstawka wideo` w te same miejsca co w matce; 64 kwestie spoza matki zostały nietknięte i są w raporcie.
+- **Wejścia/wyjścia w Git:** `reading/fragments/source/` (dostawa 1:1) i `reading/fragments/v1/` (wynik), raport `translation/reports/tgo_reading_fragments_video_v1.json`, opis `reading/fragments/README_PL.md`. Testy: **205 OK**.
+- **Do zrobienia:** (1) jeśli właściciel chce, podmienić pliki na Drive w miejscu (teraz dostawa jest nietknięta, wynik jest osobnym wydaniem), (2) ta sama metoda zadziała na kolejnych fragmentach — wystarczy wrzucić je do `source/` i uruchomić narzędzie, (3) uwaga: `TGO12.txt` nie ma ani jednej wstawki, bo jego 10 epizodów nie ma wideo w matce — to nie błąd narzędzia.
+
+## 2026-10-31 — wstawki wideo w Czytance
 
 - **Zrobione:** mechanizm wideo w TGO to `ysp.VideoPlayer` (`newVideo` + `playVideoById`, `setLoopById` = pętla). Skan 292 plików `www/data` dał **3 812** wywołań w **305** rozdziałach i **3 696** nazw plików; 24 nazwy (`BC-Ar-Bo*O2`, `BC-Ar-OT*O2`) nie mają pliku w tej kopii i są tylko adnotowane.
 - **Wydanie:** Czytanka v1 przebudowana ze znacznikami `🎬 Wstawka wideo`, nowy `reading/v1/index_movies_PL.md`, ZIP `9bab2a58…` (4 403 wpisy, 4 397 rozdziałów). Inwentarz śledzony w Git: `translation/reports/tgo_movie_calls_v1.json` (`284bfb04…`). Testy: **190 OK**.

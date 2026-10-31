@@ -1,0 +1,117 @@
+
+## Mapa 012 — Dom bohatera / event 51 / strona 1
+
+**Mox:** Ale brzydka skrzynka elektryczna na środku podwórka.  
+
+---
+
+**Mox:** Nie mogę tego otworzyć.  
+
+## Mapa 009 — Farma / event 7 / strona 1
+
+**Mox:** Nikogo nie ma w domu?  
+**Mox:** Hannah, jesteś tam?  
+**Mox:** Słyszę, że telewizor jest włączony…  
+**Mox:** Drzwi są otwarte.  
+
+---
+
+## Common Event 304 — SCN - Hannah Meet
+
+> **🎬 Wstawka wideo:** `HaIntro1.mp4`
+
+**Narrator / mówca nieustalony:** Hej! Może najpierw zapukasz?  
+**Narrator / mówca nieustalony:** Dlaczego tak głośno oglądasz telewizję?  
+**Narrator / mówca nieustalony:** A gdzie twoje ubrania?  
+**Narrator / mówca nieustalony:** Odpoczywam!  
+**Narrator / mówca nieustalony:** Dobry wieczór, tu Kimberly Foxx. W dzisiejszym programie Channel 4 Tonight...  
+**Narrator / mówca nieustalony:** Liczba aresztowanych przekroczyła już 300, a kolejni członkowie organizacji przestępczej,  
+**Narrator / mówca nieustalony:** Gildii Eclipse zostali zatrzymani na lotnisku Sanibel International.  
+**Narrator / mówca nieustalony:** Władze zapowiadają, że w najbliższym czasie może dojść do kolejnych aresztowań  
+**Narrator / mówca nieustalony:** w miarę postępów śledztwa.  
+**Narrator / mówca nieustalony:** A teraz inne wieści: eksperci ds. zdrowia ujawniają kolejne szokujące skutki uboczne  
+**Narrator / mówca nieustalony:** tego, co określa się mianem „wirusa seksu”.  
+**Narrator / mówca nieustalony:** Omówimy siedem oznak, że możesz już być zarażony.  
+
+> **🎬 Wstawka wideo:** `HaIntro2.mp4` (zapętlone)
+
+**Hannah:** Zaprosiłeś już Chloe na randkę, Mox?  
+**Mox:** Mówiłem ci, Hannah. Byłem zajęty.  
+**Hannah:** Czego się boisz?  
+**Mox:** Słuchaj, mam dużo pracy, a Chloe też ma swoje problemy.  
+**Hannah:** Co? Jakie problemy?  
+**Mox:** To nic takiego. Na razie niczego nie szukam.  
+**Hannah:** To nieprawda!  
+**Mox:** Daj spokój, Hannah.  
+**Hannah:** Czyli od bardzo, bardzo dawna nie uprawiałeś seksu.  
+**Mox:** To nie twoja sprawa.  
+**Hannah:** Powiedz mi, Mox. Kiedy ostatnio się pieprzyłeś?  
+**Mox:** Gdzie jest twoja mama?  
+**Hannah:** Poszła spotkać się z Heather.  
+**Mox:** A, właśnie. Przyszedłem zaprosić cię na kolację… Też idę do niej.  
+**Hannah:** Zmieniasz temat, Mox?  
+**Mox:** Mówię poważnie, Hannah.  
+**Hannah:** Powiedz mi. Wierzysz w tego wirusa?  
+**Mox:** Nie wierz we wszystko, co pokazują w wiadomościach.  
+**Hannah:** Wiesz, Mox… Ostatnio mam większą ochotę na igraszki.  
+**Mox:** Hannah!  
+
+> **🎬 Wstawka wideo:** `HaIntro3.mp4` (zapętlone)
+
+**Hannah:** No chodź, Mox. Zaspokójmy cię i skończmy z tą twoją posuchą.  
+**Mox:** Naprawdę mówisz poważnie?  
+**Hannah:** No jasne! Zasmakuj w soczystej cipce Hannah Ray!  
+**Mox:** Ja… nie wiem, co powiedzieć.  
+**Hannah:** Nie proszę, żebyś cokolwiek mówił.  
+
+> **🎬 Wstawka wideo:** `HaIntro4.mp4` (zapętlone)
+> **🎬 Wstawka wideo:** `HaIntro5.mp4` (zapętlone)
+
+**Hannah:** Ale z ciebie naiwniak!  
+**Mox:** Hej! To boli!  
+**Hannah:** Stracisz szansę u Chloe, jeśli będziesz się zabawiał z jej najlepszą przyjaciółką.  
+**Mox:** Już ci mówiłem… Na razie niczego nie szukam.  
+**Hannah:** Poza moją cipką, zboczeńcu!  
+
+---
+
+## Mapa 023 — Dom na farmie / event 6 / strona 1
+
+**Mox:** Jeśli masz tylko sprawiać kłopoty, może lepiej zostań w domu.  
+**Hannah:** Co?! Ja też chcę iść do Heather!  
+**Mox:** Tylko o to chciałem zapytać. Nie musisz się na mnie wyżywać.  
+**Hannah:** Biedny Mox. Uraziłam twoje uczucia?  
+**Mox:** Wiesz, kupiłem ten dom, o którym ci opowiadałem.  
+**Hannah:** /excited  
+**Hannah:** Czas na imprezę!  
+**Mox:** Na razie nie wygląda najlepiej. Muszę go wyremontować.  
+**Hannah:** Mam dla ciebie plan, Mox.  
+**Mox:** O czym ty mówisz?  
+**Hannah:** Zostanę twoją swatką.  
+**Mox:** O Boże.  
+**Hannah:** Do zobaczenia wieczorem przy kolacji.  
+**Mox:** Zachowuj się, Hannah.  
+**Hannah:** Dobrze, tato!  
+**Mox:** I może coś na siebie załóż.  
+**Hannah:** Wiem, że ci się podobam.  
+
+---
+
+## Mapa 009 — Farma / event 8 / strona 1
+
+**Arianna:** Hannah bywa naprawdę nieuprzejma.  
+**Mox:** Na pewno ma dziką stronę.  
+**Arianna:** Uważa, że powinieneś poślubić inną kobietę?  
+**Mox:** Mogłem jej powiedzieć, że coś czuję do Chloe… Ale to było dawno temu.  
+**Arianna:** Jeśli coś do niej czujesz, powinieneś jej o tym powiedzieć.  
+**Arianna:** Czyż nie pragniesz, by Pan zesłał ci dzieci?  
+**Mox:** Hej! Nie tak szybko, Arianno.  
+**Arianna:** Na co więc czekasz?  
+**Mox:** Mam kilka spraw do załatwienia.  
+**Arianna:** Jeśli będziesz potrzebował mojej pomocy, wiesz, co robić.  
+**Arianna:** Pamiętasz, jak otworzyć ekwipunek?  
+**Mox:** Tak, wiem.  
+**Arianna:** Spójrz na Wyrocznię Serafina, a będę tam, by cię poprowadzić.  
+*〔Wskazówka: Twoja szefowa jest przy rezydencji. Złap ją, zanim wejdzie do środka.〕*
+
+

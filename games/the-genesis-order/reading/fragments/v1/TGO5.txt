@@ -1,0 +1,107 @@
+
+## Mapa 019 — Rezydencja / event 18 / strona 1
+
+**Melissa:** Co tu robisz?  
+**Mox:** Skończyłem w kościele.  
+**Melissa:** Nie spiesz się, Mox.  
+**Mox:** Wszystko w porządku, to był tylko kot.  
+**Melissa:** Wiele jeszcze musisz się nauczyć.  
+**Mox:** Wiedziałaś, że ta sprawa była lipna. Co cię dziwi?  
+**Melissa:** Trzymaj, do cholery, język za zębami.  
+**Mox:** Muszę wracać do biura?  
+**Melissa:** Rób, co mówię, i po prostu słuchaj. 
+
+## Common Event 305 — SCN - Lillian
+
+> **🎬 Wstawka wideo:** `Li-Meet1.mp4`
+
+**Narrator / mówca nieustalony:** Dobry wieczór. Pani Lillian Wilkes, jak mniemam?  
+**Narrator / mówca nieustalony:** Musisz być z zespołu śledczego…  
+**Narrator / mówca nieustalony:** Proszę. Wejdź do środka.  
+
+> **🎬 Wstawka wideo:** `Li-Meet2.mp4` (zapętlone)
+
+**Melissa:** Jestem detektyw Bhatt, a to mój asystent, pan Canmore.  
+**Lillian:** Wiem, że ma pan zadanie do wykonania, ale proszę uszanować mój czas.  
+**Lillian:** Śmierć mojego ojca była trudna dla mnie i całej rodziny.  
+**Melissa:** Proszę przyjąć moje kondolencje, panno Wilkes.  
+**Melissa:** Chciałam zadać pani kilka pytań.  
+**Lillian:** Pomogę, jak tylko będę mogła.  
+**Melissa:** Nie udało nam się znaleźć wielu informacji o pani ojcu poza zapisami o datkach na cele charytatywne i osobach przebywających w rezydencji.  
+**Lillian:** Coś się stało?  
+**Melissa:** Chcemy tylko wykluczyć wszystkie możliwe przyczyny jego nagłego zawału serca.  
+**Melissa:** Może pani rzucić nieco światła na to, jak wyglądało jego życie.  
+**Lillian:** Mój ojciec był skrytym człowiekiem. Wierzył w pomaganie innym i poświęcał wiele czasu chorym oraz osobom zmuszonym do opuszczenia domów.  
+**Lillian:** Praca mojego ojca była ważna. Teraz spoczywa na mnie wielki ciężar przejęcia jego obowiązków.  
+**Mox:** Czym właściwie jest to miejsce?  
+**Lillian:** Oferujemy duchowe uzdrowienie tym, o których społeczeństwo zapomniało.  
+**Melissa:** Duchowe uzdrowienie?  
+**Lillian:** Służba Bogu nadaje sens życiu tych, których świat porzucił.  
+**Melissa:** Zakładam, że zna pani wyniki sekcji zwłok.  
+**Lillian:** Zamknęliście sprawę?  
+**Melissa:** Tak. Ustalono, że przyczyną śmierci pani ojca był zawał serca.  
+**Melissa:** Nie znaleźliśmy niczego, co uzasadniałoby dalsze śledztwo…  
+**Melissa:** Są jednak dokumenty sugerujące, że pani ojciec mógł niedawno ponownie się ożenić.  
+**Melissa:** Niestety, nie udało nam się ustalić, kim może być ta kobieta.  
+**Lillian:** Jest coś, co powinniście wiedzieć o moim ojcu.  
+**Lillian:** W ostatnich latach życia jego stan psychiczny się pogarszał.  
+**Lillian:** Nasza rodzina uważa, że pewna kobieta nim manipulowała.  
+**Lillian:** Ukrywał ten związek, ale wiedzieliśmy o jej obecności w jego życiu.  
+**Lillian:** Ojciec był nieobecny i mówił bez ładu.  
+**Lillian:** Czegoś od niego chciała, a teraz, gdy nie żyje, zniknęła.  
+**Mox:** Uważa pani, że ta kobieta mogła zamordować pani ojca?  
+**Melissa:** Czy możesz nam powiedzieć coś jeszcze?  
+**Lillian:** Nazywał ją Madalyn.  
+**Melissa:** Madalyn?...  
+**Mox:** Kiedy Madalyn związała się z pani ojcem? Pamięta pani?  
+**Lillian:** O ile wiem, stało się to na początku tego roku, jakieś pięć, może sześć miesięcy temu.  
+**Melissa:** Czy ktoś mógł rozmawiać z Madalyn?  
+**Lillian:** Tak. Mamy pokojówkę.  
+**Melissa:** Chętnie bym z nią porozmawiała.  
+**Lillian:** Nie mieszka z nami. Przyjeżdża do nas z miasta.  
+**Mox:** Gdzie mieszka? Może nam pani powiedzieć?  
+**Lillian:** Mieszka w apartamentowcu w centrum. Nazywa się Erica Abraham.  
+**Melissa:** Czy możesz nam powiedzieć coś jeszcze?  
+**Lillian:** Chciałabym wiedzieć więcej.  
+**Lillian:** Czegokolwiek od niego chciała, teraz to już koniec.  
+**Lillian:** Chciałabym tylko móc się z nim pożegnać.  
+
+> **🎬 Wstawka wideo:** `Li-Meet3.mp4`
+
+**Narrator / mówca nieustalony:** Chodź, dziecko. Zadbam o twoje potrzeby.  
+**Narrator / mówca nieustalony:** Żegnajcie, detektywi.  
+
+
+## Mapa 026 — Wejście / event 4 / strona 1
+
+**Mox:** Czemu nie wiedziałem o żonie?  
+**Melissa:** To nie twoja sprawa, Mox.  
+**Mox:** Będziemy ją ścigać?  
+**Melissa:** To nie oznacza wznowienia sprawy. Szukasz tylko wymówek.  
+
+
+## Mapa 019 — Rezydencja / event 19 / strona 1
+
+**Mox:** To już wszystko?  
+**Melissa:** Znajdź pokojówkę, Mox.  
+**Mox:** Ale myślałem…  
+**Melissa:** Chcę dowiedzieć się więcej o tej Madalyn.  
+**Melissa:** Pamiętasz sprawę z Uniwersytetu Saint Dame?  
+**Mox:** Eee… Przypomnij mi.  
+**Melissa:** Madalyn Rose była matką przełożoną w kościele Saint Dame.  
+**Mox:** Chwila… Tą, która porwała tamte dziewczyny?  
+**Melissa:** A potem zamordowała księdza.  
+**Mox:** Myślisz, że to ona?  
+**Melissa:** Jest tylko jeden sposób, żeby się przekonać.  
+**Mox:** Znajdę pokojówkę.  
+**Melissa:** Pamiętasz jej imię?  
+**Mox:** Erica Abraham… Mieszka w apartamentach w centrum.  
+**Melissa:** Czyli jednak słuchałeś.  
+**Mox:** Znajdę ją i sprowadzę na przesłuchanie.  
+**Melissa:** Spotkamy się w biurze.  
+**Mox:** /curse  
+**Mox:** Wiedziałem, że w tej sprawie jest coś więcej.  
+**Mox:** Szkoda, że panna Bhatt mnie nie słucha.  
+**Mox:** Nie mogę jej zawieść. Muszę znaleźć Ericę.  
+
+*〔Wskazówka: Pokojówka jest przy apartamentach. Idź z nią porozmawiać.〕*
