@@ -1,11 +1,18 @@
 ## Common Event 336 — SCN - Bobby Boxing
 
+> **🎬 Wstawka wideo:** `BoMcBox1.mp4` (zapętlone)
+
 **Bobby:** Ale jesteś wolny, Mox.  
 **Mox:** Bo ja przynajmniej mam mięśnie, Bobby.  
 **Bobby:** Utyłeś od całodziennego gapienia się w komputer.  
 **Mox:** A ty masz urojenia od całodziennego nękania bezbronnych ludzi.  
 **Bobby:** Pokaż, jaki z ciebie twardziel, młody.  
 **Mox:** Sam się o to prosiłeś!  
+
+> **🎬 Wstawka wideo:** `BoMcBox2.mp4`
+
+> **🎬 Wstawka wideo:** `BoMcBox3.mp4` (zapętlone)
+
 **Bobby:** Tak jak mówiłem... Jesteś powolny.  
 **Mox:** Szczęśliwy traf!  
 **Bobby:** Bawię się z tobą, Mox. Gdybym chciał, już byś leżał nieprzytomny.  

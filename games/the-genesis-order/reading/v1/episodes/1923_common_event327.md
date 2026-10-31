@@ -1,13 +1,21 @@
 ## Common Event 327 — SCN - Garden Tease
 
+> **🎬 Wstawka wideo:** `HeCaGrd1.mp4` (zapętlone)
+
 **Mox:** O cholera! Przepraszam!  
 **Carol:** Jesteśmy cali mokrzy!  
 **Heather:** Mówiłam, że chcę wskoczyć do basenu, ale serio?  
+
+> **🎬 Wstawka wideo:** `HeCaGrd2.mp4` (zapętlone)
+
 **Carol:** Mścisz się za te wszystkie docinki?  
 **Heather:** Zaczynasz wojnę, Mox?  
 **Mox:** Przysięgam, nie zrobiłem tego specjalnie.  
 **Heather:** Nie wierzę mu. A ty, Carol?  
 **Carol:** Uważam, że zachował się wyjątkowo niegrzecznie.  
+
+> **🎬 Wstawka wideo:** `HeCaGrd3.mp4` (zapętlone)
+
 **Mox:** Ach! Jesteś zimny!  
 **Carol:** Jak się czujesz, Mox?  
 **Heather:** Co jest? Nie zniesiesz odrobiny wilgoci?  
@@ -15,20 +23,32 @@
 **Carol:** Może powinnam opowiedzieć Heather, co dokładnie robiłeś u mnie.  
 **Heather:** Co widziałeś, Mox? Chcę wiedzieć.  
 **Mox:** /worry  
+
+> **🎬 Wstawka wideo:** `HeCaGrd4.mp4` (zapętlone)
+
 **Carol:** Usłyszał, jak sama się zabawiam, i postanowił to sprawdzić.  
 **Mox:** Carol!?  
 **Heather:** O mój Boże, Mox!  
 **Mox:** Myślałem, że to Hannah… Że płacze.  
+
+> **🎬 Wstawka wideo:** `HeCaGrd5.mp4` (zapętlone)
+
 **Heather:** Haha! Och, Mox. Ale wstyd.  
 **Mox:** No weźcie! Czy będziecie mi to wypominać do końca życia?  
 **Carol:** Co takiego we mnie jest, że musiałeś zerknąć?  
 **Heather:** Chyba wiem. Ten niegrzeczny chłopiec.  
 **Carol:** Powiedz mi, Mox.  
 **Mox:** Nie zamierzam na to odpowiadać.  
+
+> **🎬 Wstawka wideo:** `HeCaGrd6.mp4` (zapętlone)
+
 **Carol:** To moje wielkie cycki, prawda?  
 **Mox:** Carol! No daj spokój.  
 **Heather:** Chyba masz rację, Carol. Zarumienił się.  
 **Carol:** No, popatrz na nie. Coś nie tak?  
+
+> **🎬 Wstawka wideo:** `HeCaGrd7.mp4` (zapętlone)
+
 **Heather:** Podoba ci się to, Mox?...  
 **Heather:** A może wolisz większe cycki mamusi?  
 **Mox:** Heather!?  

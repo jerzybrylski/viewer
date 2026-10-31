@@ -1,28 +1,59 @@
 ## Common Event 363 — SCN - Melissa Brians Room
 
+> **🎬 Wstawka wideo:** `MeMcBrRm1.mp4` (zapętlone)
+
 **Melissa:** Zakładam, że te wszystkie rzeczy należą do ojca Solomona…  
 **Melissa:** Nie ma potrzeby grzebać w jego rzeczach osobistych.  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm2.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcBrRm2b.mp4` (zapętlone)
+
 **Melissa:** Ty dupku!  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm3.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcBrRm4.mp4` (zapętlone)
+
 **Mox:** Co, do cholery!? Myślałem, że dobrze się dogadujemy.  
 **Melissa:** Ale masz tupet!  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm5.mp4` (zapętlone)
+
 **Mox:** Hej!  
 **Melissa:** Posłuchaj! Nasz czas dobiega końca.  
 **Mox:** Co!? Nie odejdę z komisariatu.  
 **Melissa:** Kimura cię awansuje, a wtedy wylatujesz z wydziału.  
 **Mox:** Naprawdę!? Skąd wiesz?  
 **Melissa:** Po prostu wiem.  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `MeMcBrRm7.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcBrRm8.mp4` (zapętlone)
+
 **Mox:** Cholera, Melisso. Ale z ciebie dzikuska, co?  
 **Melissa:** Naprawdę paradujesz z erekcją w kościele?  
 **Mox:** Wygląda na to, że Brian ma pełne ręce roboty z przeciekającym dachem…  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm9.mp4` (zapętlone)
+
 **Mox:** Może pójdziemy o krok dalej w tej znajomości?  
 **Melissa:** Naprawdę nie masz za grosz wstydu.  
 **Mox:** Przyłapałem cię, Melisso. Nie zaprzeczysz swoim uczuciom.  
 **Melissa:** Ależ z ciebie arogant.  
 **Mox:** Po prostu się poddaj. Nikomu nie powiem.  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm10.mp4` (zapętlone)
+
 **Mox:** No jasne.  
 **Melissa:** Niezłego masz kutasa, panie Canmore.  
 **Mox:** Och, kochanie! Marzę o twoich cudownych ustach na moim kutasie, odkąd zobaczyłem, jak bawisz się łechtaczką…  
 **Mox:** To będzie niesamowite.  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm11.mp4`
+
 **Mox:** Po co, do cholery, to zrobiłaś!?  
 **Melissa:** Ukryty sejf!...  
 **Melissa:** To tutaj Zephaniah musiał ukryć rzeczy, których policjanci nie znaleźli.  

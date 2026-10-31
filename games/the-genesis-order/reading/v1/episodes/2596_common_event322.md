@@ -1,22 +1,56 @@
 ## Common Event 322 — SCN - Carol Cucumber
 
+> **🎬 Wstawka wideo:** `CaCu1.mp4` (zapętlone)
+
 **Mox:** Cholera! Popełniłem wielki błąd.  
+
+> **🎬 Wstawka wideo:** `CaCu2.mp4` (zapętlone)
+
 **Mox:** Czy to?... Ogórek?  
+
+> **🎬 Wstawka wideo:** `CaCu3.mp4` (zapętlone)
+
 **Mox:** Skąd Hannah wzięła tego dilda? Czy to Carol?  
+
+> **🎬 Wstawka wideo:** `CaCu4.mp4` (zapętlone)
+
 **Mox:** Nie sądziłem, że Carol ma w sobie tyle erotyzmu…  
 **Mox:** Ależ się do tego zabrała.  
+
+> **🎬 Wstawka wideo:** `CaCu5.mp4` (zapętlone)
+
 **Mox:** Cholera! Bawi się nawet swoim tyłkiem.  
 **Mox:** Nie powinienem jej podglądać…  
+
+> **🎬 Wstawka wideo:** `CaCu6.mp4` (zapętlone)
+
 **Mox:** Ale… Jest całkiem seksowna…  
 **Mox:** Co ja robię?  
+
+> **🎬 Wstawka wideo:** `CaCu7.mp4` (zapętlone)
+
 **Mox:** Najwyraźniej podoba jej się własny smak.  
 **Mox:** Ciekawe, jak smakuje.  
 **Mox:** Agh! O czym ja myślę?  
+
+> **🎬 Wstawka wideo:** `CaCu8.mp4` (zapętlone)
+
 **Mox:** Cholera… Coś czuję.  
 **Mox:** Idź sobie, Mox. Przestań gapić się na matkę Hannah.  
+
+> **🎬 Wstawka wideo:** `CaCu9.mp4` (zapętlone)
+
 **Mox:** Naprawdę wkłada sobie teraz palce…  
 **Mox:** Czy zaraz dojdzie?  
+
+> **🎬 Wstawka wideo:** `CaCu10.mp4` (zapętlone)
+
 **Mox:** Pokaż mi.  
+
+> **🎬 Wstawka wideo:** `CaCu11.mp4`
+
+> **🎬 Wstawka wideo:** `CaCu12.mp4`
+
 **Carol:** Mox!?  
 **Mox:** Carol!  
 

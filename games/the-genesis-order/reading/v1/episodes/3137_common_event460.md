@@ -1,10 +1,17 @@
 ## Common Event 460 — SCN - Diana Duncan Fight
 
+> **🎬 Wstawka wideo:** `DiDuFght1.mp4`
+
+> **🎬 Wstawka wideo:** `DiDuFght2.mp4` (zapętlone)
+
 **Diana:** Bezwartościowy ludzki śmieciu!  
 **Duncan:** Pierdol się! Jesteś zwykłym złodziejem!  
 **Diana:** Chcesz się zemścić za utratę swojej ukochanej Gildii?  
 **Duncan:** Nikt, kto ze mną zadziera, nie dożywa, by o tym opowiedzieć.  
 **Diana:** Cóż… Uznaj mnie za pierwszego.  
+
+> **🎬 Wstawka wideo:** `DiDuFght3.mp4`
+
 **Diana:** Zabrać go do więzienia.  
 **Mox:** Diano!  
 

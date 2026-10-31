@@ -1,5 +1,7 @@
 ## Common Event 404 — SCN - Interview Repeat
 
+> **🎬 Wstawka wideo:** `KiMcInterview.mp4` (zapętlone)
+
 **Kimberly:** Usłyszeliście to jako pierwsi. Detektyw Mox Canmore ma przed sobą niełatwe zadanie.  
 **Kimberly:** Napad sprzed wielu lat może wreszcie znaleźć finał w naszym mieście.  
 **Mox:** Złodzieje są sprytni, ale nie tak sprytni jak ja. Trafili na niewłaściwego detektywa.  

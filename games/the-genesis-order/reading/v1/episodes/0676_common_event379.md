@@ -1,5 +1,7 @@
 ## Common Event 379 — SCN - Judy MC Bedroom
 
+> **🎬 Wstawka wideo:** `JuDmDrm1.mp4` (zapętlone)
+
 **Mox:** No już, Judy. Nie obwiniaj się. To moja wina.  
 **Judy:** Nigdy wcześniej nie czułam czegoś takiego, Mox.  
 **Mox:** Nie chcę bawić się twoimi uczuciami. Związki bywają skomplikowane.  
@@ -12,13 +14,24 @@
 **Judy:** Dopóki nie przekroczymy granicy.  
 **Mox:** Powiedz, czego pragniesz.  
 **Judy:** Pokaż mi, Mox… Ufam ci.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuDmDrm3.mp4` (zapętlone)
+
 **Mox:** To, co czujesz, to pożądanie, ale nie musisz mu ulegać.  
 **Judy:** Pomożesz mi?  
 **Mox:** Oczywiście.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm4.mp4` (zapętlone)
+
 **Judy:** O, Mox!  
 **Mox:** Rozluźnij się, siostro Judy. Pomogę ci pozbyć się tych uczuć.  
 **Judy:** Twój dotyk jest cudowny.  
 **Mox:** W porządku. Po prostu pozwól sobie to poczuć.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm5.mp4` (zapętlone)
+
 **Judy:** To takie przyjemne. Chcę więcej.  
 **Mox:** Kiedy dojdziesz, poczujesz się lepiej.  
 **Judy:** A co z tobą?  
@@ -27,6 +40,9 @@
 **Mox:** Na pewno?  
 **Judy:** Ja… chcę to zobaczyć.  
 **Mox:** Dobrze, siostro Judy. Zróbmy to razem.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm6.mp4` (zapętlone)
+
 **Judy:** Uwielbiam na to patrzeć.  
 **Mox:** Jest bardzo twardy.  
 **Judy:** Ale ciepło.  
@@ -34,22 +50,37 @@
 **Judy:** Tak, Mox. Ufam ci.  
 **Mox:** Połóż się, siostro Judy.  
 **Judy:** Dobrze.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm7.mp4` (zapętlone)
+
 **Judy:** Mox! Ach!  
 **Mox:** Spokojnie. Rozluźnij się. Nie włożę tego do środka.  
 **Judy:** Chcę go w sobie… Ale nigdy bym się na to nie zdobyła.  
 **Mox:** Wiem. To naturalne. Ja też chcę włożyć go w ciebie…  
 **Mox:** Ale możemy zbliżyć się do granicy, nie przekraczając jej.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm8.mp4` (zapętlone)
+
 **Judy:** Tak! Nie przestawaj mnie pocierać!  
 **Mox:** Sprawiasz, że pulsuję.  
 **Judy:** Mrowią mnie nogi!  
 **Mox:** Poczuj to, siostro.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm9.mp4` (zapętlone)
+
 **Judy:** Tylko… odrobinkę.  
 **Mox:** Rozluźnij się.  
 **Judy:** Tylko troszeczkę.  
 **Mox:** Wszystko w porządku?  
 **Judy:** Możesz… Ach! Ach!... Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `JuDmDrm10.mp4`
+
 **Judy:** Doszłam, Mox.  
 **Mox:** I to jak.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm11.mp4` (zapętlone)
+
 **Judy:** Masz rację. Czuję się o wiele lepiej.  
 **Mox:** Wszystko będzie dobrze.  
 **Judy:** A co z tobą?  
@@ -60,28 +91,46 @@
 **Mox:** Naprawdę?  
 **Judy:** Połóż się, Mox.  
 **Mox:** Nie mogę się doczekać, żeby zobaczyć, co planujesz.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm12.mp4` (zapętlone)
+
 **Mox:** Co za piękny widok.  
 **Judy:** Twój penis wciąż jest taki ciepły w dotyku.  
 **Mox:** Możesz go pieścić. Dzięki temu dojdę.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm13.mp4` (zapętlone)
+
 **Judy:** Czy dotykanie mojego tyłka pomaga?  
 **Mox:** O tak. Idealnie.  
 **Judy:** Lubisz tyłki?  
 **Mox:** Masz najsłodszy tyłek.  
 **Judy:** Haha. Och, Mox.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm14.mp4` (zapętlone)
+
 **Judy:** Ach, tak…  
 **Mox:** To miła niespodzianka. Całkiem dobrze ci to wychodzi.  
 **Judy:** Uwielbiam to uczucie.  
 **Mox:** Twoja cipka wciąż jest bardzo mokra.  
 **Judy:** Doprowadzi cię to do orgazmu?  
 **Mox:** O tak. Nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm15.mp4` (zapętlone)
+
 **Judy:** Wypełniłby mnie po brzegi.  
 **Mox:** Judy?  
 **Judy:** Jak daleko by wszedł? Czy mógłby wejść cały?  
 **Mox:** Siostro… Nie możesz.  
 **Judy:** Jest taki duży… Za duży dla mojego ciasnego, dziewiczego ciała.  
 **Mox:** O cholera!  
+
+> **🎬 Wstawka wideo:** `JuDmDrm16.mp4`
+
 **Judy:** Mox! Ale dużo spermy!  
 **Mox:** Cholera, siostro. To było intensywne.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm17.mp4` (zapętlone)
+
 **Judy:** Dobrze mi poszło?  
 **Mox:** Bycie tak blisko seksu… Było bardziej ekscytujące, niż myślałem.  
 **Judy:** Czuję się o wiele lepiej… A do tego nie musieliśmy grzeszyć przeciw Bogu.  
@@ -92,13 +141,22 @@
 **Mox:** Nie wiem jak ty, ale ja padam z nóg.  
 **Judy:** Tak, Mox. Po tak ekscytującej nocy będę spała jak kamień.  
 **Mox:** Chodź. Prześpijmy się. Rano przyjdzie Chloe.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm18.mp4` (zapętlone)
+
 **Mox:** Słodkich snów, siostro.  
 **Judy:** Dobranoc, Mox.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm19.mp4`
+
 **Narrator / mówca nieustalony:** Matko, on sypia ze służącą.  
 **Narrator / mówca nieustalony:** Ludzkość go potrzebuje.  
 **Narrator / mówca nieustalony:** Był blisko tego miejsca. Czuję to w jego ciele.  
 **Narrator / mówca nieustalony:** Dokończy ją.  
 **Narrator / mówca nieustalony:** Taka jest wola tego, który ich porzucił.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm20.mp4` (zapętlone)
+
 **Mox:** Ach!  
 **Judy:** Mox!? Co się stało?  
 **Mox:** Eee… Nic takiego. To tylko zły sen.  

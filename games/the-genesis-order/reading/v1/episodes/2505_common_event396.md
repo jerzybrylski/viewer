@@ -1,5 +1,7 @@
 ## Common Event 396 — SCN - Duncan Interview
 
+> **🎬 Wstawka wideo:** `NeMcTied0.mp4` (zapętlone)
+
 **Duncan:** Narobiłeś mi sporo kłopotów, detektywie.  
 **Mox:** Pierdol się.  
 **Nellie:** Wygląda na twardziela, Duncan.  

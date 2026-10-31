@@ -373,11 +373,17 @@ def row_command_index(row: dict[str, Any]) -> int | None:
 def movie_marker(call: dict[str, Any]) -> str:
     """Znacznik wstawki wideo — jawna nazwa pliku albo uczciwe „nieustalone”."""
     name = call.get("movie_file")
-    if name:
-        return f"> **🎬 Wstawka wideo:** `{name}`"
-    evidence = clean_reading_text(str(call.get("evidence") or ""))
-    suffix = f" — `{evidence}`" if evidence else ""
-    return f"> **🎬 Wstawka wideo:** nazwa nieustalona statycznie{suffix}"
+    if not name:
+        evidence = clean_reading_text(str(call.get("evidence") or ""))
+        suffix = f" — `{evidence}`" if evidence else ""
+        return f"> **🎬 Wstawka wideo:** nazwa nieustalona statycznie{suffix}"
+    notes = []
+    if call.get("loop"):
+        notes.append("zapętlone")
+    if call.get("file_exists") is False:
+        notes.append("pliku nie ma w inwentarzu tej kopii")
+    note_text = f" ({', '.join(notes)})" if notes else ""
+    return f"> **🎬 Wstawka wideo:** `{name}`{note_text}"
 
 
 def render_episode(key: tuple[str, int | None, int | None, int | None],
@@ -410,6 +416,8 @@ def render_episode(key: tuple[str, int | None, int | None, int | None],
             paragraph.clear()
 
     context = (rows[0].get("context") or {}) if rows else {}
+    if not rows and movie_calls:
+        blocks.append("> **Scena bez kwestii dialogowych** — poniżej wyłącznie wstawki wideo z tego eventu.")
     notes = page_condition_notes(context, switches, variables)
     if notes:
         blocks.append("> **Warunek strony:** " + "; ".join(notes) + ".")
@@ -583,10 +591,13 @@ def movie_index(entries: list[tuple[int, str, dict[str, Any]]]) -> str:
         return "\n".join(lines) + "\n"
     by_file: dict[str, list[tuple[int, str]]] = defaultdict(list)
     unknown = 0
+    missing: set[str] = set()
     for sequence, title, call in entries:
         name = call.get("movie_file")
         if name:
             by_file[name].append((sequence, title))
+            if call.get("file_exists") is False:
+                missing.add(name)
         else:
             unknown += 1
     lines.append(f"- Plików wideo: **{len(by_file)}**; "
@@ -595,13 +606,11 @@ def movie_index(entries: list[tuple[int, str, dict[str, Any]]]) -> str:
     lines.append("")
     for name in sorted(by_file, key=str.casefold):
         places = by_file[name]
-        unique = sorted({title for _, title in places})
-        lines.append(
-            f"- **`{name}`** — {len(places)} {plural_pl(len(places), 'wywołanie', 'wywołania', 'wywołań')} "
-            f"w {len(unique)} {plural_pl(len(unique), 'rozdziale', 'rozdziałach', 'rozdziałach')}:"
-        )
-        for sequence, title in places:
-            lines.append(f"  - rozdział {sequence:04d} — {title}")
+        chapters = ", ".join(f"{sequence:04d}" for sequence, _ in places)
+        note = " — **pliku nie ma w inwentarzu tej kopii**" if name in missing else ""
+        lines.append(f"- **`{name}`** — {len(places)} "
+                     f"{plural_pl(len(places), 'wywołanie', 'wywołania', 'wywołań')} "
+                     f"(rozdziały: {chapters}){note}")
     if unknown:
         lines.append("")
         lines.append("Wywołania bez statycznej nazwy pliku (argument dynamiczny) są oznaczone w Czytance bez zgadywania nazwy.")
@@ -808,6 +817,12 @@ def build(source_root: Path, output: Path, zip_path: Path,
     map_scene_count = sum(1 for _, key, _ in episodes if key[0] == "map")
 
     movie_note = ""
+    movie_bullet = ("- **🎬 Wstawka wideo** to znacznik miejsca, w którym scenariusz uruchamia klip z `www/movies` "
+                    "(np. `AdChng1.mp4`). Nazwa pochodzi z polecenia `ysp.VideoPlayer.newVideo(...)` odczytanego "
+                    "statycznie z `www/data`, a rozszerzenie z inwentarza plików instalacji; znacznik nie odtwarza "
+                    "wideo i nie zmienia tekstu. Adnotacje: (zapętlone) dla pętli `setLoopById`, (pliku nie ma "
+                    "w inwentarzu tej kopii), gdy kod wskazuje nazwę bez odpowiadającego pliku. Zestawienie plików "
+                    "jest w `index_movies_PL.md`.\n") if movie_by_key else ""
     if movie_by_key:
         scenes_with_movies = sum(1 for _, key, _ in episodes if movie_placements.get(key))
         movie_note = (f"- Wstawki wideo: **{movie_calls_placed}** "
@@ -829,8 +844,7 @@ def build(source_root: Path, output: Path, zip_path: Path,
 - Każda kwestia ma jawnego mówcę, gdy można go statycznie odczytać z kodu nagłówka; nierozpoznane nagłówki są oznaczone, nie zgadywane.
 - **Ścieżka warunkowa** zachowuje wybory i warunki z kontekstu eventu. Wybory są listowane w miejscu polecenia. Mówca, etykiety i dialog pochodzą ze scalonych tłumaczeń; wartości kontrolne i nazwy własne pozostają źródłowe.
 - Wartości `\\V[n]`, `\\N[n]` i `\\P[n]` są oznaczane jako zmienna, imię aktora lub członek drużyny; `\\I[n]` jako ikona. Niepewne wartości nie są zgadywane.
-- **🎬 Wstawka wideo** to znacznik miejsca, w którym scenariusz uruchamia krótki klip (np. `AdChng1.mp4`). Nazwa pochodzi ze statycznego skanu poleceń `www/data`; znacznik nie odtwarza wideo i nie zmienia tekstu. Gdy argument polecenia jest dynamiczny, Czytanka pisze „nazwa nieustalona statycznie” zamiast zgadywać plik. Zestawienie plików jest w `index_movies_PL.md`.
-
+{movie_bullet}
 ## Ważne ograniczenie chronologii
 
 Kolejność jest **przybliżona i statyczna**, nie kanoniczna: początkowa kolejność map to BFS po bezpośrednich transferach RPG Maker i rozpoznanych wywołaniach Common Events z mapy startowej {start_map}. Warunki, przełączniki, zmienne, wybory oraz runtime nie są wykonywane. **{reachable}/{total_maps}** map ma potencjalną ścieżkę od startu w tym grafie; pozostałe są na końcu w kolejności edytora. Common Events sortujemy po pierwszym znalezionym wywołaniu, a nie po gwarantowanej kolejności rozgrywki. Sceny opcjonalne/ponownie odtwarzane mogą mieć inne miejsce; nie traktuj ich sąsiedztwa jako jednej rozgrywki.

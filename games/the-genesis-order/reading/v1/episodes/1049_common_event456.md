@@ -1,5 +1,7 @@
 ## Common Event 456 — SCN - Daemalis vs Lillian
 
+> **🎬 Wstawka wideo:** `DaLiMt1.mp4` (zapętlone)
+
 **Lillian:** Zostaw ich, Daemalius!  
 **Erica:** Siostro… Nie widziałem tej twarzy od dziesięcioleci.  
 **Lillian:** Nie da się tego załatwić pokojowo… prawda?  
@@ -10,29 +12,72 @@
 **Erica:** Zadarłaś z niewłaściwym demonem!  
 **Lillian:** Myślisz, że dorównujesz Lilith?  
 **Erica:** Przekonajmy się!  
+
+> **🎬 Wstawka wideo:** `DaLiMt2.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt3.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt4.mp4` (zapętlone)
+
 **Erica:** Wciąż wykorzystujesz swoją seksualność, żeby dostać to, czego chcesz?  
 **Lillian:** Robi ci się gorąco?  
 **Erica:** Hahahaha!  
+
+> **🎬 Wstawka wideo:** `DaLiMt5.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt6.mp4` (zapętlone)
+
 **Mox:** Heather!  
 **Carol:** Puść ją!  
 **Chloe:** Mamo!  
+
+> **🎬 Wstawka wideo:** `DaLiMt7.mp4` (zapętlone)
+
 **Heather:** O cholera!  
 **Erica:** Och, Heather… Odkąd cię zobaczyłem, marzę, żeby dotknąć twojego ciała.  
 **Heather:** Eriko?  
 **Erica:** Aaargh!  
+
+> **🎬 Wstawka wideo:** `DaLiMt8.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt9.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt10.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt11.mp4` (zapętlone)
+
 **Erica:** Och, Carol! Ależ masz seksowne ciało mamusi!...  
 **Erica:** Co to za moc?...  
+
+> **🎬 Wstawka wideo:** `DaLiMt12.mp4` (zapętlone)
+
 **Mox:** Cholera! Carol!  
 **Lillian:** Puść ją! To sprawa między nami!  
+
+> **🎬 Wstawka wideo:** `DaLiMt13.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt14.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt15.mp4` (zapętlone)
+
 **Erica:** Bardziej zależy ci na człowieku niż na twoich pobratymcach!  
 **Lillian:** Nie przybyłam tu, żeby zniszczyć ich świat!  
 **Erica:** Myślisz, że jesteś prawdziwą matką ludzkości? Oni mają cię gdzieś! Zawsze tak było!  
+
+> **🎬 Wstawka wideo:** `DaLiMt16.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt17.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt18.mp4` (zapętlone)
+
 **Lillian:** Uciekajcie! Do szczeliny!  
 **Mox:** Potrzebujemy ciała Eriki!  
 **Lillian:** Dusza Eriki pojawi się na ołtarzu w piekle…  
 **Lillian:** Spotkamy się tam!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `DaLiMt19.mp4`
 
 **Wybór gracza:**
 - Zakończ

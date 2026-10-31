@@ -21,6 +21,19 @@ def message(text: str) -> list[dict]:
     ]
 
 
+def play_block(name: str | None, slot: int = 1, *, loop: bool = False,
+               dynamic_argument: str | None = None) -> list[dict]:
+    """Blok skryptowy w stylu gry: newVideo + playVideoById (+ setLoopById)."""
+    argument = f"'{name}'" if name is not None else dynamic_argument or "$gameVariables.value(3)"
+    commands = [
+        {"code": 355, "parameters": [f"ysp.VideoPlayer.newVideo({argument}, {slot})"]},
+        {"code": 655, "parameters": [f"ysp.VideoPlayer.playVideoById({slot})"]},
+    ]
+    if loop:
+        commands.append({"code": 655, "parameters": [f"ysp.VideoPlayer.setLoopById({slot})"]})
+    return commands
+
+
 class MovieScanTests(unittest.TestCase):
     def setUp(self) -> None:
         self.temp = tempfile.TemporaryDirectory()
@@ -29,21 +42,17 @@ class MovieScanTests(unittest.TestCase):
             {
                 "id": 300,
                 "name": "SCN - Opening",
-                "list": [
-                    {"code": 355, "parameters": ["$gameScreen.playMovie('AdChng1')"]},
-                    {"code": 655, "parameters": ["  });"]},
-                    *message("Po klipie."),
-                ],
+                "list": [*play_block("AdChng1", loop=True), *message("Po klipie.")],
             },
             {
                 "id": 301,
                 "name": "SCN - Dynamic",
-                "list": [{"code": 355, "parameters": ["playMovie($gameVariables.value(12))"]}],
+                "list": [*play_block(None)],
             },
             {
                 "id": 302,
                 "name": "SCN - Review",
-                "list": [{"code": 356, "parameters": ["MoviePlayer", "play", "AdChng2"]}],
+                "list": [{"code": 108, "parameters": ["Movie intro cut."]}],
             },
             {"id": 303, "name": "Bez wideo", "list": message("Zwykły tekst.")},
         ]
@@ -70,31 +79,59 @@ class MovieScanTests(unittest.TestCase):
         self.assertEqual(summary["confirmed_calls"], 2)
         self.assertEqual(summary["dynamic_calls"], 1)
         self.assertEqual(summary["review_candidates"], 1)
+        self.assertEqual(summary["looping_calls"], 1)
         self.assertEqual(sorted(report["movie_files"]), ["AdChng1", "Intro.mp4"])
 
         common_call = next(call for call in report["calls"] if call["source_kind"] == "common_event")
-        # Nazwa literalna bez rozszerzenia zostaje bez zmian — nie dopisujemy ".mp4" za grę.
-        self.assertEqual(common_call["movie_file"], "AdChng1")
+        self.assertEqual(common_call["movie_name"], "AdChng1")
         self.assertEqual(common_call["event_id"], 300)
         self.assertEqual(common_call["command_index"], 0)
+        self.assertTrue(common_call["loop"])
 
         map_call = next(call for call in report["calls"] if call["source_kind"] == "map")
         self.assertEqual(map_call["movie_file"], "Intro.mp4", "ścieżka ma zostać zredukowana do nazwy pliku")
         self.assertEqual((map_call["map_id"], map_call["event_id"], map_call["page_number"]), (2, 1, 1))
-
-    def test_plugin_command_without_movie_extension_is_a_candidate(self) -> None:
-        report = scanner.scan(self.root, None)
-        candidate = report["candidates"][0]
-        self.assertEqual(candidate["command_code"], 356)
-        self.assertEqual(candidate["movie_file"], "AdChng2")
-        self.assertIn("MoviePlayer", candidate["evidence"])
-        self.assertEqual(report["plugin_commands"]["MoviePlayer"], 1)
 
     def test_dynamic_argument_is_marked_and_not_guessed(self) -> None:
         report = scanner.scan(self.root, None)
         dynamic = next(call for call in report["calls"] if call["dynamic"])
         self.assertEqual(dynamic["event_id"], 301)
         self.assertIsNone(dynamic["movie_file"])
+        self.assertEqual(dynamic["movie_name"], "")
+
+    def test_movie_comment_is_only_a_review_candidate(self) -> None:
+        report = scanner.scan(self.root, None)
+        self.assertEqual(report["candidates"][0]["command_code"], 108)
+        self.assertIn("Movie intro", report["candidates"][0]["evidence"])
+
+    def test_movie_file_list_resolves_extensions_without_guessing(self) -> None:
+        names = self.root / "movies.txt"
+        names.write_text("AdChng1.mp4\nAdChng1-l.mp4\nIntro.mp4\n", encoding="utf-8")
+        report = scanner.scan(self.root, None, scanner.load_movie_files(names))
+        ad = next(call for call in report["calls"] if call["movie_name"] == "AdChng1")
+        self.assertEqual(ad["movie_file"], "AdChng1.mp4")
+        self.assertTrue(ad["file_exists"])
+
+    def test_missing_movie_file_is_reported_not_corrected(self) -> None:
+        names = self.root / "movies.txt"
+        names.write_text("Intro.mp4\n", encoding="utf-8")
+        report = scanner.scan(self.root, None, scanner.load_movie_files(names))
+        ad = next(call for call in report["calls"] if call["movie_name"] == "AdChng1")
+        self.assertEqual(ad["movie_file"], "AdChng1", "nazwy nie uzupełniamy rozszerzeniem bez dowodu")
+        self.assertFalse(ad["file_exists"])
+        self.assertEqual(report["summary"]["missing_movie_files"], 1)
+
+    def test_inventory_csv_is_accepted_as_movie_file_list(self) -> None:
+        csv_path = self.root / "TGO_FILES.csv"
+        csv_path.write_text(
+            "RelativePath,Bytes,Extension,LastWriteTimeUtc\n"
+            "www\\\\movies\\\\AdChng1.mp4,10,.mp4,x\n"
+            "www\\\\movies\\\\Intro.mp4,10,.mp4,x\n",
+            encoding="utf-8",
+        )
+        resolved = scanner.load_movie_files(csv_path)
+        self.assertEqual(resolved["adchng1"], "AdChng1.mp4")
+        self.assertEqual(resolved["intro"], "Intro.mp4")
 
     def test_zip_input_matches_directory_input(self) -> None:
         archive_path = self.root / "data.zip"
@@ -139,15 +176,18 @@ class MovieCallsInReadingTests(unittest.TestCase):
             "translation": text, "source_text": text, "id": f"tgo:test:{index}",
         }
 
-    def call(self, index: int, name: str | None, *, dynamic: bool = False, kind: str = "map") -> dict:
-        return {
+    def call(self, index: int, name: str | None, *, dynamic: bool = False, kind: str = "map",
+             **extra) -> dict:
+        call = {
             "source_kind": kind, "map_id": 1 if kind == "map" else None,
             "event_id": 2, "page_number": 1 if kind == "map" else None,
             "command_index": index, "movie_file": name, "dynamic": dynamic,
-            "evidence": "playMovie(...)" if dynamic else f"playMovie('{name}')",
+            "evidence": "playMovie(...)" if dynamic else f"newVideo('{name}')",
         }
+        call.update(extra)
+        return call
 
-    def test_marker_is_placed_before_the_first_line_after_the_command(self) -> None:
+    def test_marker_is_placed_between_the_commands_around_it(self) -> None:
         content, stats = readalong.render_episode(
             ("map", 1, 2, 1), [self.row(10), self.row(20, "Druga")], {}, {}, [], [],
             map_name="Test", movie_calls=[self.call(15, "AdChng1.mp4")],
@@ -166,6 +206,16 @@ class MovieCallsInReadingTests(unittest.TestCase):
         self.assertIn("`Outro.mp4`", content)
         self.assertEqual(stats["included"], 1)
         self.assertLess(content.index("**Chloe:** Kwestia"), content.index("`Outro.mp4`"))
+
+    def test_loop_and_missing_file_notes(self) -> None:
+        content, _ = readalong.render_episode(
+            ("map", 1, 2, 1), [self.row(10)], {}, {}, [], [],
+            map_name="Test",
+            movie_calls=[self.call(0, "Fig-Hannah.mp4", loop=True),
+                         self.call(5, "BC-Ar-Bo1O2", file_exists=False)],
+        )
+        self.assertIn("`Fig-Hannah.mp4` (zapętlone)", content)
+        self.assertIn("(pliku nie ma w inwentarzu tej kopii)", content)
 
     def test_dynamic_call_is_shown_without_inventing_a_file(self) -> None:
         content, _ = readalong.render_episode(
@@ -208,10 +258,11 @@ class MovieCallsInReadingTests(unittest.TestCase):
             (1, "Map 1 event 2 page 1", self.call(5, "A.mp4")),
             (2, "Common Event 300 SCN", self.call(9, "A.mp4", kind="common_event")),
             (3, "Map 3 event 1 page 1", self.call(1, None, dynamic=True)),
+            (4, "Map 4 event 1 page 1", self.call(2, "Z.mp4", file_exists=False)),
         ])
-        self.assertIn("**`A.mp4`** — 2 wywołania w 2 rozdziałach", text)
-        self.assertIn("rozdział 0001", text)
+        self.assertIn("**`A.mp4`** — 2 wywołania (rozdziały: 0001, 0002)", text)
         self.assertIn("bez statycznej nazwy pliku", text)
+        self.assertIn("pliku nie ma w inwentarzu tej kopii", text)
 
 
 if __name__ == "__main__":

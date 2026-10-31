@@ -34,7 +34,7 @@ Repozytorium śledzi narzędzia, tekstowe dane, robocze tłumaczenia oraz osobne
 ## Milestones po zamknięciu tłumaczeń
 
 1. **Standalone patch ZIP — POC gotowy:** `translation/packages/TGO_PL_translation_patch_POC_v0.1.1.zip`, z backup/restore i one-click patcherem; nie zawiera gry. Następny gate: test na kopii docelowej instalacji Windows.
-2. **Czytanki fabuły — v1 gotowe:** `reading/v1/` i `translation/packages/TGO_readalong_PL_v1.zip`; 4 394 rozdziały, mówcy, warunki, rozgałęzienia i wybory, z jawnym ostrzeżeniem o przybliżonej kolejności. Statyczny graf obejmuje 221/291 map od mapy startowej; to nie jest kanoniczna oś czasu.
+2. **Czytanki fabuły — v1 gotowe:** `reading/v1/` i `translation/packages/TGO_readalong_PL_v1.zip`; 4 397 rozdziałów, mówcy, warunki, rozgałęzienia, wybory i znaczniki 3 812 wstawek wideo z nazwami plików, z jawnym ostrzeżeniem o przybliżonej kolejności. Statyczny graf obejmuje 221/291 map od mapy startowej; to nie jest kanoniczna oś czasu.
 
 ## Audyt pokrycia — liczby kontrolne
 

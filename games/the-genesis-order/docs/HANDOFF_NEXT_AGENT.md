@@ -1,5 +1,14 @@
 # Handoff — The Genesis Order PL
 
+## 2026-10-31 — wstawki wideo w Czytance (nowe)
+
+- **Zrobione:** mechanizm wideo w TGO to `ysp.VideoPlayer` (`newVideo` + `playVideoById`, `setLoopById` = pętla). Skan 292 plików `www/data` dał **3 812** wywołań w **305** rozdziałach i **3 696** nazw plików; 24 nazwy (`BC-Ar-Bo*O2`, `BC-Ar-OT*O2`) nie mają pliku w tej kopii i są tylko adnotowane.
+- **Wydanie:** Czytanka v1 przebudowana ze znacznikami `🎬 Wstawka wideo`, nowy `reading/v1/index_movies_PL.md`, ZIP `9bab2a58…` (4 403 wpisy, 4 397 rozdziałów). Inwentarz śledzony w Git: `translation/reports/tgo_movie_calls_v1.json` (`284bfb04…`). Testy: **190 OK**.
+- **Do zrobienia:** (1) publikacja nowego ZIP-a Czytanki na Drive (poprzedni ID `1eUuZTR2LM1ZJtmYkUpQPecI4iwKjr_mv` jest nieaktualny), (2) dalsza praca redakcyjna/QA wg poniższego planu — audyt rodzaju pozostaje głównym zadaniem, (3) ewentualne rozróżnienie w Czytance krótkich wstawek (275 plików < 1,5 MB) od długich klipów scen, jeśli właściciel tego zechce.
+- **Uwaga:** `google_drive/tgo_source/` i `google_drive/TGO_FILES.csv` są poza Git; bez nich nie odtworzysz skanu ani builda Czytanki (wyniki są śledzone).
+
+---
+
 ## Najważniejsze na następną sesję — 2026-10-30 (po przeglądzie wąskiej kolejki i trzech rodzin sygnałów)
 
 **Zadanie:** kontynuować kontekstowy audyt rodzaju w The Genesis Order. Wąska kolejka jest **przejrzana w całości** (102 hipotezy → 70 korekt, 31 potwierdzeń, 1 odłożenie, plus jedna korekta sąsiedniej kwestii), ale to nie koniec audytu: **28 409 rekordów nie ma żadnego sygnału**, a 396 z 618 wcześniejszych automatycznych zmian nie ma decyzji. Właściciel oczekuje pracy systemowej i konkretnych uzasadnień, nie hurtowych zamian; MT słownikowe/regułowe/statystyczne jest zabronione, decyduje LLM w kontekście sceny.

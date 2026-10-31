@@ -1,17 +1,33 @@
 ## Common Event 445 — SCN - Nellie Heather Library
 
+> **🎬 Wstawka wideo:** `NeHeLbry1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `NeHeLbry2.mp4` (zapętlone)
+
 **Mox:** To jeszcze nie koniec.  
 **Nellie:** No pewnie, że nie.  
 **Mox:** W krótkim czasie rozwiązaliśmy już wiele spraw. Co nam szkodzi rozwiązać jeszcze jedną?  
+
+> **🎬 Wstawka wideo:** `NeHeLbry3.mp4` (zapętlone)
+
 **Nellie:** Zaufałam Andrei. Chyba nie pozostaje mi nic innego, jak mieć nadzieję.  
 **Mox:** Razem jakoś to rozwiążemy.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry4.mp4` (zapętlone)
+
 **Nellie:** Trudno mi pogodzić się z myślą, że mogę już nie dostać tego kutasa.  
 **Mox:** Myślisz, że nie odwiedzałbym cię w więzieniu?  
 **Nellie:** Może ten kutas zmotywuje mnie, żeby znowu uciec z więzienia.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry5.mp4` (zapętlone)
+
 **Heather:** Mox?  
 **Nellie:** Ha! Kto by pomyślał, że drzwi są otwarte?  
 **Mox:** Eee… Heather.  
 **Nellie:** Wejdź. Przyda nam się trzecia osoba.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry6.mp4` (zapętlone)
+
 **Heather:** Nie chciałam przeszkadzać. Myślałam, że się uczycie.  
 **Nellie:** Korzystam z chłopaka, póki jeszcze mogę.  
 **Mox:** Nellie może wrócić do więzienia.  
@@ -27,32 +43,65 @@
 **Heather:** Nie powiedziałabym… Dzieliłam się nim z demonem i zakonnicą.  
 **Nellie:** Dobra… To niezłe szaleństwo… Ale ja pieprzyłam go z dwiema demonami!  
 **Mox:** Technicznie rzecz biorąc, to był jeden demon.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry7.mp4` (zapętlone)
+
 **Nellie:** No dalej! Dajcie mi cipkę i kutasa. Niech mam co wspominać przez następne dziesięć lat.  
 **Heather:** Cholera! Ale z ciebie napalona kobieta!  
 **Mox:** Taka już jest Nellie.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry8.mp4` (zapętlone)
+
 **Mox:** Otwarte drzwi nie raz mi się przysłużyły…  
 **Mox:** Zaczynajmy zabawę.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry9.mp4` (zapętlone)
+
 **Nellie:** O tak! Postaraj się, kobieto.  
 **Mox:** Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry10.mp4` (zapętlone)
+
 **Nellie:** Ale głęboko sięga tym językiem!  
 **Mox:** Chyba podoba jej się twój smak.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry11.mp4` (zapętlone)
+
 **Heather:** Och! Ależ z niej dzikuska!  
 **Mox:** I jaka gorąca cipka!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry12.mp4` (zapętlone)
+
 **Heather:** Zawsze zastanawiałam się, jak to jest z taką kobietą.  
 **Mox:** Nie zapominaj, że jest też matką.  
 **Heather:** Ale jesteśmy niegrzeczni!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry13.mp4` (zapętlone)
+
 **Nellie:** Zerżnij mnie! Zerżnij mnie!  
 **Heather:** Ale ma śliskiego kutasa!  
 **Mox:** Ale jesteście mokre!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry14.mp4` (zapętlone)
+
 **Nellie:** Czyli piekło jest mokre?  
 **Mox:** Gorąco jak w piekle! Gorąco jak w piekle!  
 **Heather:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry15.mp4` (zapętlone)
+
 **Mox:** Tryśnijcie dla mnie, dziewczyny. Pokażcie, że wam się podoba.  
 **Heather:** Tak! Tak! Uwielbiam to!  
 **Nellie:** Spuść się na nasze twarze! Zalej je spermą!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry16.mp4` (zapętlone)
+
 **Heather:** Chcę spermy na twarzy!  
 **Nellie:** Dochodzę!  
 **Mox:** Przygotujcie się!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry17.mp4`
+
 **Mox:** O cholera!  
 **Heather:** Mam nadzieję, że Tasha nie potrzebowała tej książki.  
 **Nellie:** Celne oko, detektywie.  

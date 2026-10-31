@@ -1,42 +1,81 @@
 ## Common Event 393 — SCN - Nellie MC Tied
 
+> **🎬 Wstawka wideo:** `NeMcTied1.mp4` (zapętlone)
+
 **Nellie:** Dawaj, rozwiążę cię.  
 **Mox:** Ale, Nellie. Zorientują się, że mi pomogłaś.  
 **Nellie:** Nie pozwolę im cię zabić.  
 **Mox:** Chodź ze mną. Możemy wyjść przez kościół.  
 **Nellie:** Muszę zostać. Nie mogę odejść, dopóki misja się nie skończy.  
 **Mox:** Ale Nellie…  
+
+> **🎬 Wstawka wideo:** `NeMcTied2.mp4` (zapętlone)
+
 **Nellie:** Spokojnie, Mox. Możesz mnie trochę poturbować, żeby wyglądało, że się szarpaliśmy.  
 **Mox:** Mówisz poważnie?!  
 **Nellie:** Muszę być spocona i posiniaczona, bo inaczej to mnie zastrzelą.  
 **Mox:** To szaleństwo.  
 **Nellie:** Ludzie Duncana nie wrócą przez jakiś czas. Mamy chwilę.  
+
+> **🎬 Wstawka wideo:** `NeMcTied3.mp4`
+
+> **🎬 Wstawka wideo:** `NeMcTied4.mp4` (zapętlone)
+
 **Nellie:** O tak!  
 **Mox:** Nellie… Rozwiąż mi ręce.  
 **Nellie:** Podoba mi się, gdy tak wyglądasz, Mox.  
 **Mox:** Cholera jasna, kobieto.  
+
+> **🎬 Wstawka wideo:** `NeMcTied5.mp4` (zapętlone)
+
 **Nellie:** Ta staruszka napędziła nam stracha. Duncan jest wściekły.  
 **Mox:** Czego ona chce od tych amuletów?  
 **Nellie:** Nie wiem. Ale Duncan ma dojścia… Dowie się.  
 **Mox:** Nellie… Rozwiąż mnie.  
+
+> **🎬 Wstawka wideo:** `NeMcTied6.mp4` (zapętlone)
+
 **Nellie:** O kurwa! Mox!  
 **Mox:** Szybciej!  
 **Nellie:** Mamy mnóstwo czasu.  
+
+> **🎬 Wstawka wideo:** `NeMcTied7.mp4` (zapętlone)
+
 **Nellie:** Cholera! Co to za węzeł?  
 **Mox:** Może gdybyś na chwilę przestała dosiadać mojego kutasa…  
 **Nellie:** Jest! Udało się!  
+
+> **🎬 Wstawka wideo:** `NeMcTied8.mp4` (zapętlone)
+
 **Nellie:** Pieprz mnie!  
 **Mox:** Cholera, Nellie! Ale jesteś ciasna!  
 **Nellie:** Musisz być ostrzejszy.  
+
+> **🎬 Wstawka wideo:** `NeMcTied9.mp4` (zapętlone)
+
 **Mox:** Nie zamierzam cię poturbować.  
 **Nellie:** Nie masz wyboru. A teraz pokaż pazur, kochanie!  
+
+> **🎬 Wstawka wideo:** `NeMcTied10.mp4` (zapętlone)
+
 **Mox:** Ja… Nie mogę!  
 **Nellie:** Dawaj! Przyłóż mi!  
 **Mox:** Nie!  
+
+> **🎬 Wstawka wideo:** `NeMcTied11.mp4` (zapętlone)
+
 **Nellie:** Cholera jasna, Mox! Zrób to!  
 **Mox:** Ja… dochodzę!  
+
+> **🎬 Wstawka wideo:** `NeMcTied12.mp4`
+
+> **🎬 Wstawka wideo:** `NeMcTied13.mp4`
+
 **Mox:** Ja… Wypełniłem cię.  
 **Nellie:** Co ja mam z tym zrobić? Powiedzieć im, że mnie zgwałciłeś?  
+
+> **🎬 Wstawka wideo:** `NeMcTied14.mp4` (zapętlone)
+
 **Oprych 1:** Koniec czasu, detektywie.  
 **Nellie:** Wróciliście?!  
 **Oprych 2:** Okazało się, że w jednej ze skrzyń mieliśmy zapasową broń.  

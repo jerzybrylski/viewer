@@ -1,5 +1,7 @@
 ## Common Event 351 — SCN - Interview
 
+> **🎬 Wstawka wideo:** `KiAdMcint.mp4` (zapętlone)
+
 **Kimberly:** Witamy ponownie w programie „Channel 4 Tonight”.  
 **Kimberly:** W studiu, by porozmawiać o śledztwie w sprawie Gildii Eclipse, jest z nami komisarz Kimura z North Santiva.  
 **Andrea:** Dobry wieczór, Kimberly.  

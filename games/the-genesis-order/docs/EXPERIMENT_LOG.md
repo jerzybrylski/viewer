@@ -671,6 +671,24 @@ Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa oso
 
 **Weryfikacja w sandboxie:** `test_movie_calls.py` (13 testów) oraz pełny przebieg `build_readalong.py` na syntetycznym `www/data` i prawdziwym korpusie: 4 394 epizody, 2/2 znaczniki wstawione, ZIP i sidecar zapisane. Cały pakiet testów: **185 OK**.
 
-**NIEZNANE / do potwierdzenia na danych gry:** rzeczywisty sposób wywołania wideo w TGO (wtyczka i API), liczba klipów i ich nazwy. Wymaga jednorazowego odczytu `www/data` z instalacji; do tego czasu znaczniki w opublikowanej Czytance **nie są** jeszcze wstawione, a lista wywołań pozostaje niepotwierdzona.
+**Rozstrzygnięte w tym samym dniu** — patrz wpis „skan na danych gry” poniżej. Powyższe narzędzia zostały użyte na rzeczywistym `data.zip`; mechanizmem okazało się API `ysp.VideoPlayer`, a znaczniki są już wstawione do wydania Czytanki.
 
 **Ograniczenia:** skan jest statyczny i obejmuje wyłącznie polecenia z `www/data`; wywołania z kodu JS/pluginów oraz klipy uruchamiane wyłącznie warunkowo w runtime mogą pozostać poza inwentarzem. Gry nie uruchamiano; plików wideo nie kopiowano i nie dołączono do repo.
+
+## 2026-10-31 — skan wstawek wideo na danych gry i wydanie Czytanki ze znacznikami
+
+**Wejścia (z Google Drive, przez connector):**
+- `data.zip` — pełne `www/data` z instalacji. Drive file ID `1jvwrMJKqQDq28q2EVLb_B4jO7w6po_Sw`, 3 299 615 B, SHA-256 `c9deca5c733cbbc92306e41a8afa0157e38758283a9c7662960349f9b9fd5842`. ZIP poprawny (CRC), 306 wpisów, rozpakowany do ignorowanego `google_drive/tgo_source/`.
+- `TGO_DIAGNOSTIC_20261028_191643.zip` — inwentarz instalacji z 2026-10-28 (Drive ID `1gwWlg0ywzYY8k0gjWDi77iTNGl70zmaL`, 263 365 B). Użyto wyłącznie `TGO_FILES.csv` (17 694 wpisów; lista plików, bez zawartości). SHA-256 CSV `186941a3b7801cefeb981fa4032d26f0fa64197313376bb0dbfa54f2e6dfcec5`.
+
+**Ustalenie mechanizmu (POTWIERDZONE):** filmy odtwarza wtyczka `ysp.VideoPlayer` wołana z poleceń skryptowych: `newVideo('Nazwa', slot)` + `playVideoById(slot)`, opcjonalnie `setLoopById(slot)`. `loadVideo` to preload, a `stopVideoById` / `releaseVideo` / `isReady` to sterowanie i odpytywanie — nie są oznaczane jako start odtwarzania. Każdy z 3 812 bloków odtwarzania zawiera `newVideo` i `play` w jednym bloku `355`+`655`.
+
+**Pomiar:** 292 pliki JSON, 470 493 polecenia, **3 812** wywołań w **305** rozdziałach (2 678 Common Events, 1 134 mapy), **3 188** zapętlone, **3 696** różnych nazw plików; 0 wywołań dynamicznych, 0 kandydatów do przeglądu (`ysp` jest jedynym mechanizmem). Katalog `www/movies`: 7 354 pozycje (7 352 `.mp4`, 2 `.webm`); warianty `-l` to niska jakość, więc unikalnych klipów HQ jest 3 678. Rozmiary użytych klipów 0,62–44,45 MB (mediana 2,02 MB); 275 nazw ma plik < 1,5 MB.
+
+**Rozbieżność danych:** 24 nazwy w poleceniach nie mają pliku w tej kopii — `BC-Ar-Bo1O2`…`BC-Ar-Bo15O2` i `BC-Ar-OT1O2`…`BC-Ar-OT9O2` (pliki bez sufiksu `O2` istnieją). Oznaczone w Czytance adnotacją „pliku nie ma w inwentarzu tej kopii”; nazw nie zmieniono.
+
+**Wydanie Czytanki:** przebudowa z `--movie-calls` i numeracją dziedziczoną z v1. Kontrola odtwarzalności: build **bez** znaczników jest identyczny z wydaniem v1 we wszystkich 4 394 epizodach i pełnym skrypcie (różnica tylko w `README_PL.md`). Wydanie ze znacznikami: **4 397** rozdziałów (4 136 map + 261 Common Events; 3 nowe rozdziały to sceny z klipem i bez dialogu, na końcu z jawną adnotacją), **3 812** znaczników, nowy `index_movies_PL.md` (3 696 plików). ZIP: 4 403 wpisy, SHA-256 `9bab2a587449701605c15f1418ab2e2a1af423e8159cac5a0b2c63f5d734e80b`. Inwentarz śledzony w Git: `translation/reports/tgo_movie_calls_v1.json`, 1 047 435 B, SHA-256 `284bfb04d901e0667411a5077ca1d12a8246f5eeaffb60d8f8d364893d1ba55c`.
+
+**Testy:** `tests/test_movie_calls.py` (17 testów) + pełny `unittest`: **190 OK**. `tests/test_patch_artifacts.py` zaktualizowany o nowe liczby (4 397 epizodów / 4 403 wpisy).
+
+**Ograniczenia:** skan jest statyczny i obejmuje wyłącznie polecenia eventów; stan slotów odtwarzany jest w obrębie strony eventu, bez ewaluacji warunków i runtime. Gry nie uruchamiano, filmów nie kopiowano, patcha nie zmieniano.

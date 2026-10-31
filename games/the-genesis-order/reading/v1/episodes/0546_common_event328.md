@@ -1,5 +1,7 @@
 ## Common Event 328 — SCN - Larry Workout
 
+> **🎬 Wstawka wideo:** `LaWrkOut1.mp4` (zapętlone)
+
 **Larry:** Popracuj jeszcze nad techniką.  
 **Mox:** Jak masz na imię?  
 **Larry:** Larry.  
@@ -13,6 +15,9 @@
 **Larry:** Ma na imię Ella.  
 **Mox:** Mieszka w tym apartamentowcu?  
 **Larry:** Tak. Niedaleko Dick’s.  
+
+> **🎬 Wstawka wideo:** `LaWrkOut2.mp4` (zapętlone)
+
 **Mox:** Dziwny zbieg okoliczności. Nikt nie powinien wiedzieć, gdzie mieszka Ella.  
 **Larry:** /shock  
 **Larry:** Myślałem, że jej nie znasz.  

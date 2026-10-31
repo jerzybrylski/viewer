@@ -1,7 +1,12 @@
 ## Common Event 330 — SCN - Judy Spider
 
+> **🎬 Wstawka wideo:** `JuSpdr1.mp4` (zapętlone)
+
 **Mox:** Łał! Nie spodziewałem się, że ją tak zobaczę.  
 **Mox:** Eee... Siostro Judy?  
+
+> **🎬 Wstawka wideo:** `JuSpdr2.mp4` (zapętlone)
+
 **Judy:** Mox! Dziękuję, że mnie odwiedziłeś.  
 **Mox:** Szykujesz się do snu? Mam nadzieję, że nie jest za późno.  
 **Judy:** W porządku. Właśnie mam podlać rośliny.  
@@ -13,16 +18,27 @@
 **Judy:** Widzę go przez cały dzień. Zwykle czytam książkę albo studiuję Biblię przed wieczorną modlitwą.  
 **Judy:** Jeśli nie masz nic przeciwko, muszę tylko dokończyć podlewanie roślin.  
 **Mox:** Jasne. Nigdzie się nie wybieram.  
+
+> **🎬 Wstawka wideo:** `JuSpdr3.mp4` (zapętlone)
+
 **Judy:** Ta zawsze sprawia mi kłopoty.  
 **Mox:** Uważaj, Judy. Pomóc ci?  
 **Judy:** Mógłbyś, proszę?  
 **Mox:** Cała przyjemność po mojej stronie.  
+
+> **🎬 Wstawka wideo:** `JuSpdr4.mp4` (zapętlone)
+
 **Judy:** Ale z ciebie wysoki chłopak!  
 **Mox:** Nie wiedziałem, że masz tak wysoko ustawioną roślinę.  
 **Judy:** Ale ze mnie gapa. Powinnam była po prostu użyć stołka.  
 **Mox:** Albo mogłabyś przestawić roślinę na niższą półkę.  
 **Judy:** No jasne! Mądry i wysoki! Prawdziwe błogosławieństwo.  
 **Mox:** Nie jestem tego pewien.  
+
+> **🎬 Wstawka wideo:** `JuSpdr5.mp4`
+
+> **🎬 Wstawka wideo:** `JuSpdr6.mp4` (zapętlone)
+
 **Mox:** Pająk!  
 **Judy:** O mój Boże! Jaki wielki!  
 **Mox:** Jak on się tu dostał?  
@@ -33,14 +49,23 @@
 **Judy:** Powinniśmy wypuścić go na zewnątrz. Może ma tam rodzinę.  
 **Mox:** Nie jestem pewien… Ale chyba mogę go złapać.  
 **Judy:** Uważaj, Mox. Nie wiemy, jaki ma charakter.  
+
+> **🎬 Wstawka wideo:** `JuSpdr7.mp4`
+
 **Mox:** Hej! Mam go!  
 **Judy:** /excited  
 **Mox:** Otwórz okno. Wypuścimy go.  
 **Judy:** Oczywiście!  
+
+> **🎬 Wstawka wideo:** `JuSpdr8.mp4` (zapętlone)
+
 **Mox:** No dalej. Wyskakuj już.  
 **Judy:** Co się dzieje? Czemu nie chce wyjść?  
 **Mox:** Jesteś wolny, pająku. A teraz zmykaj.  
 **Judy:** Nie możesz tu zostać… Na zewnątrz czeka na ciebie rodzina.  
+
+> **🎬 Wstawka wideo:** `JuSpdr9.mp4` (zapętlone)
+
 **Mox:** Wyskoczył!  
 **Mox:** O cholera. Chyba nie wskoczy z powrotem?  
 **Judy:** Wygląda, jakby do nas machał…  

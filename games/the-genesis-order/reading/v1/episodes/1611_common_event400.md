@@ -1,5 +1,7 @@
 ## Common Event 400 — SCN - Chloe Ella Drinks
 
+> **🎬 Wstawka wideo:** `ElChDicks.mp4` (zapętlone)
+
 **Chloe:** Jak długo się znacie?  
 **Mox:** Niedługo. Poznałem ją w zeszłym tygodniu.  
 **Ella:** Mox jest moim ochroniarzem.  

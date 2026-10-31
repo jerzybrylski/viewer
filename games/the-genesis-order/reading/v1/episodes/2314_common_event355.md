@@ -1,64 +1,127 @@
 ## Common Event 355 — SCN - Ella Erica MC Three
 
+> **🎬 Wstawka wideo:** `ElErMcTs1.mp4` (zapętlone)
+
 **Erica:** To… przytulne łóżko.  
 **Ella:** I jakie słodkie!  
 **Mox:** Co o tym myślisz, Eriko? Cieszysz się, że zatrzasnęłaś się poza mieszkaniem?  
 **Erica:** Może.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs2.mp4` (zapętlone)
+
 **Ella:** Czyż to nie słodkie? Wy dwoje wyglądacie smakowicie.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs3.mp4` (zapętlone)
+
 **Ella:** Właśnie tak, kochanie. Rozkręć się… Niech mu dobrze stanie.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs4.mp4` (zapętlone)
+
 **Erica:** Cholera, Mox. Masz kutasa twardego jak skała.  
 **Erica:** Ktoś tu jest podekscytowany.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ElErMcTs6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ElErMcTs7.mp4` (zapętlone)
+
 **Ella:** Spójrz na ten tyłek! Ale piękny!  
 **Mox:** Jest równie soczysty, jak wygląda… Miałem już w nim swojego kutasa.  
 **Ella:** Szczęściarz z ciebie.  
 **Ella:** Chcę go spróbować!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs8.mp4` (zapętlone)
+
 **Erica:** O tak!  
 **Mox:** Jakie to uczucie, Eriko?  
 **Erica:** Wie, co robi.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs9.mp4` (zapętlone)
+
 **Mox:** Co ty na to, Eriko? Mogę porządnie wyrżnąć jej tyłeczek?  
 **Erica:** Chcę to zobaczyć.  
 **Mox:** No chodź, kochanie. Usiądź mi cipką na twarzy. Nie tylko ona posmakuje Eriki.  
 **Erica:** Tak, proszę pana.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs10.mp4` (zapętlone)
+
 **Ella:** Spójrzcie na tę zakochaną parkę. Podnieca mnie, jak liżecie jej cipkę.  
 **Erica:** Chłopak jest w tym dobry.  
 **Ella:** Wiem coś o tym.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs11.mp4` (zapętlone)
+
 **Ella:** Ale prawdziwa zabawa dopiero przed nami.  
 **Erica:** Tak?  
 **Ella:** Chcę, żebyś pieprzyła moją cipkę, Eriko…  
 **Ella:** Chcę, żebyście wypełnili mnie oboje.  
 **Erica:** Tak! Uwielbiam to!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs12.mp4`
+
 **Ella:** O, pieprz mnie!  
 **Ella:** Wypełnij mi tyłek!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs13.mp4` (zapętlone)
+
 **Erica:** Tak! Dildo było świetnym pomysłem!  
 **Ella:** Pieprz mnie, Mox! Rżnij mnie w tyłek!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs14.mp4` (zapętlone)
+
 **Mox:** Kurwa! Ella! Ale jesteś ciasna!  
 **Erica:** Założę się, że tak.  
 **Ella:** Kurwa! Dawaj, Eriko! Włóż go do mojej cipki!  
 **Erica:** Z przyjemnością.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs15.mp4` (zapętlone)
+
 **Ella:** Achhhh! Ja pierdolę!  
 **Mox:** Dobry Boże! Miażdżysz mi kutasa!  
 **Erica:** O kurwa! Mam przestać?  
 **Mox:** Nie!  
 **Ella:** Nie!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs16.mp4` (zapętlone)
+
 **Ella:** Wypełnij mnie! Dawaj!  
 **Erica:** O cholera!  
 **Mox:** Ale… dobrze!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs17.mp4` (zapętlone)
+
 **Ella:** Wypełnij moje dziurki! Wypełnij je!  
 **Mox:** Ale intensywnie!  
 **Erica:** O Boże! Za dużo!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs18.mp4` (zapętlone)
+
 **Ella:** Nie hamuj się! Rżnij mnie mocno!  
 **Mox:** Bierz, Ello! Przyjmij go w tyłek!  
 **Erica:** Dawaj! Doprowadźmy ją do orgazmu!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs19.mp4` (zapętlone)
+
 **Ella:** Widzę gwiazdy! Świat zmienia się w tęczę!  
 **Erica:** Traci nad sobą kontrolę!  
 **Mox:** Nie przestawaj! Daj z siebie wszystko!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs20.mp4`
+
 **Mox:** Ja pierdolę.  
 **Erica:** Doszłam.  
 **Ella:** Co za orgazm! To by zarobiło kupę kasy.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs21.mp4`
+
 **Ella:** Jak to wygląda? Dużo spermy?  
 **Erica:** Cholera! Ale wielki wytrysk.  
 **Ella:** Uwielbiam to!  
 **Erica:** Boże, wygląda pysznie.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs22.mp4` (zapętlone)
+
 **Ella:** A teraz ujęcie warte każdych pieniędzy.  
 **Ella:** Już słyszę w głowie dzwonki od wpłat.  
 **Mox:** Chyba źle to sobie wyobrażasz, Ello.  

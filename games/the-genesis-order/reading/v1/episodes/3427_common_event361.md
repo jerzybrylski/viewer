@@ -1,5 +1,7 @@
 ## Common Event 361 — SCN - Show Toma Right Leg
 
+> **🎬 Wstawka wideo:** `Toma-RightLeg.mp4` (zapętlone)
+
 **Erica:** Co znalazłeś?  
 **Mox:** Wygląda na kolejny fragment artefaktu.  
 **Erica:** Cholera jasna! Kolejny bożek czarownic!  

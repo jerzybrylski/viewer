@@ -1,17 +1,28 @@
 ## Common Event 452 — SCN - Arianna Finering
 
+> **🎬 Wstawka wideo:** `ArErFngr1.mp4` (zapętlone)
+
 **Mox:** Masturbujesz się palcami?  
 **Erica:** Lilith mi to zrobiła… Byłam bliska grzechu… Mogę znów się do niego zbliżyć.  
 **Mox:** Cholera!  
+
+> **🎬 Wstawka wideo:** `ArErFngr2.mp4` (zapętlone)
+
 **Erica:** Co jest nie tak? Gdzie te śliskie soki?  
 **Mox:** Nie jesteś napalona.  
 **Erica:** Jak ona to zrobiła?  
 **Mox:** To Lillian… Wie, co robi.  
 **Erica:** Na pewno uda mi się to rozgryźć.  
+
+> **🎬 Wstawka wideo:** `ArErFngr3.mp4` (zapętlone)
+
 **Erica:** No dalej! Naciskaj!  
 **Mox:** Naciskać? Przecież tak to w ogóle nie działa.  
 **Erica:** Cicho. Muszę się skupić.  
 **Mox:** Chyba potrzebujesz mojej pomocy.  
+
+> **🎬 Wstawka wideo:** `ArErFngr4.mp4` (zapętlone)
+
 **Mox:** Co o tym myślisz?  
 **Erica:** Mox!  
 **Mox:** No i co? Robi ci się od tego gorąco?  
@@ -24,6 +35,8 @@
 
 > **Ścieżka warunkowa:** ALT DIALOG: wyłączony.
 
+> **🎬 Wstawka wideo:** `ArErFngr5.mp4` (zapętlone)
+
 **Erica:** Ojej!  
 **Mox:** Brzmisz, jakbyś była mokra.  
 **Erica:** Robi się ślisko.  
@@ -33,6 +46,9 @@
 **Mox:** Czujesz podniecenie?  
 **Erica:** Ja… nie wiem.  
 **Mox:** Mogę zrobić więcej… Patrz.  
+
+> **🎬 Wstawka wideo:** `ArErFngr6.mp4` (zapętlone)
+
 **Erica:** Chyba zaczynam się podniecać.  
 **Mox:** Czy coś cię boli?  
 **Erica:** Nie wiem… Nic nie czuję.  
@@ -41,6 +57,9 @@
 **Erica:** Chyba zaczynam się podniecać.  
 **Mox:** Czy coś cię boli?  
 **Erica:** Nie wiem… Nic nie czuję.  
+
+> **🎬 Wstawka wideo:** `ArErFngr7.mp4` (zapętlone)
+
 **Erica:** Złóż swoje nasienie na mojej twarzy.  
 **Mox:** Może nie jesteś wystarczająco napalona.  
 **Erica:** Mox…  
@@ -48,6 +67,9 @@
 **Erica:** Złóż swoje nasienie na mojej twarzy.  
 **Mox:** Masz na myśli to, co wydarzyło się w rezydencji?  
 **Erica:** Tak… To było… przyjemne.  
+
+> **🎬 Wstawka wideo:** `ArErFngr8.mp4` (zapętlone)
+
 **Erica:** Ale to niegrzeczne!  
 **Mox:** Chcesz poczuć moje gorące nasienie na tej ślicznej anielskiej buzi.  
 **Erica:** Zrób to! Podniecaj mnie, Mox!  
@@ -55,6 +77,9 @@
 **Erica:** Ale to niegrzeczne!  
 **Mox:** Chcesz poczuć moje gorące nasienie na tej ślicznej anielskiej buzi.  
 **Erica:** Zrób to! Podniecaj mnie, Mox!  
+
+> **🎬 Wstawka wideo:** `ArErFngr9.mp4`
+
 **Mox:** Czy coś cię boli?  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.

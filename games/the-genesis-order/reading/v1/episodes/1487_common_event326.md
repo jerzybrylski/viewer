@@ -1,79 +1,147 @@
 ## Common Event 326 — SCN - Toma Leolo Cum
 
+> **🎬 Wstawka wideo:** `Toma-RightArmB.mp4` (zapętlone)
+
 **Mox:** Czy to jakieś rzeźbienia?  
 **Mox:** Hej! To artefakt Casuli.  
+
+> **🎬 Wstawka wideo:** `HnChWtf1.mp4` (zapętlone)
+
 **Mox:** No cholera. To tylko fragment artefaktu.  
 **Mox:** Pewnie jest teraz bezwartościowy.  
 **Chloe:** Co znalazłeś, Mox?  
+
+> **🎬 Wstawka wideo:** `HnChWtf2.mp4` (zapętlone)
+
 **Chloe:** Mox!?  
 **Mox:** Aaargh!  
 **Hannah:** Co tam się dzieje?  
 **Chloe:** Coś jest nie tak z Mox!  
+
+> **🎬 Wstawka wideo:** `HnChWtf3.mp4` (zapętlone)
+
 **Mox:** Nie wiem, co się stało… Mój kutas… On…  
 **Hannah:** O rany! Drga!  
 **Chloe:** Spokojnie, Mox. Może po prostu chce ci się siku.  
 **Mox:** Chyba nie. Coś jest nie tak.  
+
+> **🎬 Wstawka wideo:** `HnChWtf4.mp4` (zapętlone)
+
 **Hannah:** Wszyscy spokojnie. Wiem, co robić…  
 **Hannah:** Musimy go po prostu masować, aż wystrzeli.  
 **Chloe:** Na pewno, Hannah?  
 **Mox:** To znaczy… Zdecydowanie czuję, że muszę… wystrzelić.  
 **Hannah:** Chwyć go za kutasa, dziewczyno. Musimy go uratować!  
 **Chloe:** /worry  
+
+> **🎬 Wstawka wideo:** `HnChWtf5.mp4` (zapętlone)
+
 **Mox:** O Boże…  
 **Hannah:** Wynoś się stamtąd! Nie chcemy, żebyś tam dłużej siedział!  
 **Mox:** Nie wiem, czy mówienie do niego pomoże.  
 **Chloe:** Panie, chroń Mox.  
+
+> **🎬 Wstawka wideo:** `HnChWtf6.mp4` (zapętlone)
+
 **Hannah:** Chloe! Wal mu porządnie!  
 **Chloe:** Nie patrzę… Wcale nie patrzę.  
 **Mox:** Argh! Mam wrażenie, że kutas mi zaraz eksploduje.  
 **Hannah:** Niech wystrzeli!  
 **Mox:** Nie mogę!  
+
+> **🎬 Wstawka wideo:** `HnChWtf7.mp4` (zapętlone)
+
 **Hannah:** Do licha, siusiaku. Co się z tobą, u licha, dzieje?  
 **Chloe:** Spokojnie, Mox. Hannah wie, co robić.  
 **Mox:** Zrób coś, Hannah!  
+
+> **🎬 Wstawka wideo:** `HnChWtf8.mp4` (zapętlone)
+
 **Mox:** O tak!  
 **Chloe:** O rany.  
 **Mox:** Działa.  
+
+> **🎬 Wstawka wideo:** `HnChWtf9.mp4` (zapętlone)
+
 **Chloe:** Dzięki Bogu, że Hannah tu jest.  
 **Mox:** O kurwa…  
 **Mox:** Chyba… zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `HnChWtf10.mp4`
+
 **Hannah:** /success  
 **Chloe:** Hannah! Twoja twarz!... Jest cała w jego… płynach.  
 **Mox:** Nadal jest twardy.  
 **Hannah:** Co? Nadal twardy?  
+
+> **🎬 Wstawka wideo:** `HnChWtf11.mp4` (zapętlone)
+
 **Hannah:** Dobra. Spróbujmy jeszcze raz.  
 **Chloe:** Jesteście pewne, że to zadziała?  
 **Hannah:** Chłopak musi dojść! Masz lepszy pomysł?  
 **Mox:** Już lepiej… Nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `HnChWtf12.mp4` (zapętlone)
+
 **Hannah:** Właśnie tak. Czuję, jak pulsuje.  
 **Mox:** Narasta… Zaraz znowu się zacznie.  
 **Chloe:** Ojej!  
+
+> **🎬 Wstawka wideo:** `HnChWtf13.mp4`
+
+> **🎬 Wstawka wideo:** `HnChWtf14.mp4` (zapętlone)
+
 **Hannah:** No i proszę! Już dobrze!  
 **Mox:** Argh! Chyba jednak nie…  
 **Mox:** Nadal czuję ogromne ciśnienie.  
 **Chloe:** Chyba to nie działa! Musimy jechać do szpitala.  
+
+> **🎬 Wstawka wideo:** `HnChWtf15.mp4` (zapętlone)
+
 **Hannah:** O Jezu! Ale mnie obficie obryzgałeś!  
 **Chloe:** Spokojnie, Mox. Wszystko będzie dobrze.  
 **Mox:** Już prawie… Muszę tylko jeszcze raz dojść.  
+
+> **🎬 Wstawka wideo:** `HnChWtf16.mp4` (zapętlone)
+
 **Chloe:** Jakim cudem jeszcze coś zostało?  
 **Mox:** Nie wiem… To wszystko stało się tak nagle.  
 **Chloe:** Lepiej zejdź z drogi, Hannah!  
+
+> **🎬 Wstawka wideo:** `HnChWtf17.mp4`
+
+> **🎬 Wstawka wideo:** `HnChWtf18.mp4` (zapętlone)
+
 **Hannah:** Co się stało?  
 **Mox:** O cholera.  
 **Chloe:** Chyba jeszcze nie koniec.  
+
+> **🎬 Wstawka wideo:** `HnChWtf19.mp4` (zapętlone)
+
 **Hannah:** Spokojnie. Na pewno coś wymyślimy.  
 **Mox:** Chyba już po wszystkim… Czuję się o wiele lepiej.  
 **Chloe:** Hannah… Chyba powinnaś się odsunąć.  
+
+> **🎬 Wstawka wideo:** `HnChWtf20.mp4`
+
+> **🎬 Wstawka wideo:** `HnChWtf21.mp4` (zapętlone)
+
 **Mox:** Achhh… O wiele lepiej.  
 **Chloe:** Hannah!  
 **Hannah:** Jest źle?  
 **Chloe:** Jesteś cały tym oblepiony!  
 **Hannah:** Czuję się jak cholerny pączek!  
+
+> **🎬 Wstawka wideo:** `HnChWtf22.mp4` (zapętlone)
+
 **Chloe:** Na pewno wszystko w porządku, Mox?  
 **Mox:** Nie wiem, co to było, ale teraz czuję się lepiej.  
 **Hannah:** Jestem jak ciepły, lepki bałwan.  
 **Chloe:** Jak myślicie, co się stało?  
 **Mox:** Nie wiem…  
+
+> **🎬 Wstawka wideo:** `HnChWtf23.mp4` (zapętlone)
+
 **Mox:** Czy ten kamień miał coś wspólnego z tym, co się właśnie stało?  
 **Hannah:** Lepiej obmyję się w strumieniu.  
 

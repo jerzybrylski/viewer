@@ -1,5 +1,7 @@
 ## Common Event 382 — SCN - Show Toma Right Head
 
+> **🎬 Wstawka wideo:** `Toma-RightHead.mp4` (zapętlone)
+
 **Mox:** Cholera! Ten sen był prawdziwy!  
 **Mox:** To kolejny fragment tego bożka czarownic.  
 **Mox:** Co się stanie tym razem?  

@@ -1,5 +1,7 @@
 ## Common Event 308 — SCN - Dinner
 
+> **🎬 Wstawka wideo:** `Dinner.mp4` (zapętlone)
+
 **Carol:** Co za wspaniała kolacja.  
 **Hannah:** Tak! Dziękuję, pani Wilson. Świetnie pani gotuje.  
 **Heather:** Dziękuję, drogie panie.  

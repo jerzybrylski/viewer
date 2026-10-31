@@ -1,19 +1,48 @@
 ## Common Event 319 — SCN - Ella Sexy Dance
 
+> **🎬 Wstawka wideo:** `ElSxDnc1.mp4` (zapętlone)
+
 **Mox:** Co... do... cholery?  
 **Mox:** Filmik taneczny?...  
+
+> **🎬 Wstawka wideo:** `ElSxDnc2.mp4` (zapętlone)
+
 **Mox:** Ale śmieszne.  
+
+> **🎬 Wstawka wideo:** `ElSxDnc3.mp4` (zapętlone)
+
 **Mox:** To właśnie kręci teraz ludzi?  
+
+> **🎬 Wstawka wideo:** `ElSxDnc4.mp4` (zapętlone)
+
 **Mox:** To... kreatywne.  
+
+> **🎬 Wstawka wideo:** `ElSxDnc5.mp4` (zapętlone)
+
 **Mox:** I jest nawet urocza…  
+
+> **🎬 Wstawka wideo:** `ElSxDnc6.mp4` (zapętlone)
+
 **Mox:** Nawet seksowna…  
 **Mox:** Ale ten róż… Dziwne.  
+
+> **🎬 Wstawka wideo:** `ElSxDnc7.mp4` (zapętlone)
+
 **Mox:** Czy ona nie ma na sobie majtek?  
+
+> **🎬 Wstawka wideo:** `ElSxDnc8.mp4` (zapętlone)
+
 **Mox:** Może to żenujące, ale ma świetną równowagę.  
+
+> **🎬 Wstawka wideo:** `ElSxDnc9.mp4` (zapętlone)
+
 **Mox:** Ale, cholera… Jest seksowna.  
 **Mox:** Ech… Nie wierzę, że to oglądam.  
 **Mox:** Powiedzieć jej, że to oglądałem?...  
 **Mox:** Szkoda, że nie wyświetla się jej numer.  
+
+> **🎬 Wstawka wideo:** `ElSxDnc10.mp4` (zapętlone)
+
 **Mox:** Hehe… Urocze.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.

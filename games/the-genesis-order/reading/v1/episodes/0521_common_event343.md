@@ -1,20 +1,39 @@
 ## Common Event 343 — SCN - Madalyn Judy
 
+> **🎬 Wstawka wideo:** `MdJuFrst1.mp4`
+
 **Mox:** Co to było, u licha?  
 **Mox:** Coś jest nie tak.  
+
+> **🎬 Wstawka wideo:** `MdJuFrst2.mp4`
+
 **Mox:** To Judy!...  
 **Mox:** Z kim ona jest?  
+
+> **🎬 Wstawka wideo:** `MdJuFrst3.mp4` (zapętlone)
+
 **Madalyn:** Właśnie tak, siostro. Poddaj się swoim pragnieniom. Nie ma sensu się opierać.  
 **Judy:** Ależ, Matko Przełożona! Muszę pozostać czysta!  
 **Madalyn:** Za późno. Twoja droga z Bogiem kończy się tutaj.  
 **Judy:** Muszę się oprzeć!  
+
+> **🎬 Wstawka wideo:** `MdJuFrst4.mp4` (zapętlone)
+
 **Madalyn:** Już dobrze, siostro. Nie musisz z tym walczyć.  
 **Madalyn:** Twój czas z Bogiem dobiegł końca. Opuścisz to miejsce i znajdziesz nową drogę…  
 **Madalyn:** Drogę pełną pożądania.  
+
+> **🎬 Wstawka wideo:** `MdJuFrst5.mp4` (zapętlone)
+
 **Judy:** Ale, Matko Przełożona… Droga pożądania prowadzi w ciemność.  
 **Madalyn:** Czy kłamałabym?  
 **Judy:** Nie… Matko…  
 **Mox:** Odsuń się od niej!  
+
+> **🎬 Wstawka wideo:** `MdJuFrst6.mp4`
+
+> **🎬 Wstawka wideo:** `MdJuFrst7.mp4` (zapętlone)
+
 **Judy:** Co się ze mną stało?  
 **Mox:** Wszystko w porządku, Judy. Jestem przy tobie.  
 **Judy:** Mox?  

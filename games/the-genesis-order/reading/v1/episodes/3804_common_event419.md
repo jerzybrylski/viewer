@@ -1,5 +1,7 @@
 ## Common Event 419 — SCN - Interview Melissa
 
+> **🎬 Wstawka wideo:** `KiMeMcInt.mp4` (zapętlone)
+
 **Kimberly:** Oglądacie wieczorne wiadomości Channel 4, a dzisiejsza historia jest szokująca.  
 **Kimberly:** Są dziś z nami detektywi Canmore i Bhatt.  
 **Mox:** Dziękujemy za zaproszenie.  

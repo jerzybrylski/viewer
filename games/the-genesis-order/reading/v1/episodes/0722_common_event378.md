@@ -1,5 +1,7 @@
 ## Common Event 378 — SCN - HnJuChErMc Dicks
 
+> **🎬 Wstawka wideo:** `HnErMcJuChDinner.mp4` (zapętlone)
+
 **Hannah:** Jak smakuje babeczka, siostro Judy?  
 **Judy:** Jest przepyszna. Wszystko tutaj jest takie treściwe i smaczne.  
 **Erica:** Chcę jeszcze jedno piwo!  

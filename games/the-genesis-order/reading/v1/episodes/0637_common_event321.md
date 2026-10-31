@@ -1,5 +1,7 @@
 ## Common Event 321 — SCN - Erica Sex
 
+> **🎬 Wstawka wideo:** `ErMcFstSxPre1.mp4` (zapętlone)
+
 **Mox:** Co to za świństwo?  
 **Erica:** To piwo, Mox.  
 **Mox:** Wiem… Po prostu nie znam tej marki.  
@@ -46,6 +48,9 @@
 **Erica:** Może zrobię z tobą coś innego.  
 **Mox:** Co masz na myśli?  
 **Erica:** Rozgośćmy się wygodniej.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSxPre2.mp4` (zapętlone)
+
 **Erica:** Ale wygodne łóżko!  
 **Mox:** Tylko niczego na nie nie wylej.  
 **Erica:** Och, Mox. To łóżko i tak zaraz będzie mokre.  
@@ -78,66 +83,136 @@
 **Mox:** Połóż się, Erico.  
 **Erica:** Zerżniesz mnie porządnie, przystojniaku?  
 **Mox:** O rany.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSxPre3.mp4` (zapętlone)
+
 **Mox:** No… I co ja mam teraz, do diabła, zrobić?  
 **Mox:** Agh… Czemu tyle wypiłem? Głowa mi pęka!  
 **Mox:** Może położę się na chwilę… i…  
 **Mox:** …  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx1.mp4` (zapętlone)
+
 **Mox:** Co?!  
 **Mox:** Eriko?...  
 **Mox:** Ech, boli mnie głowa…  
 **Mox:** Ale mój kutas czuje się świetnie.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx2.mp4` (zapętlone)
+
 **Erica:** Masz słabą głowę, Mox.  
 **Mox:** Tobie też dzień dobry.  
 **Erica:** Chyba wczoraj trochę przesadziliśmy z alkoholem.  
 **Mox:** Dzięki, że mnie nie okradłaś.  
 **Erica:** Twój wielki kutas pokrzyżował moje plany.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx3.mp4` (zapętlone)
+
 **Mox:** Cholera, jesteś piękna.  
 **Erica:** Nawet na trzeźwo?  
 **Mox:** Twoja cipka jest mokra…  
 **Mox:** Czujesz to łaskotanie?  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx4.mp4` (zapętlone)
+
 **Erica:** Mam ochotę na kutasa w cipce.  
 **Mox:** Jestem cały twój, kochanie.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErMcFstSx6.mp4`
+
+> **🎬 Wstawka wideo:** `ErMcFstSx7.mp4` (zapętlone)
+
 **Erica:** Och! Ale dobrze.  
 **Mox:** Jesteś ciasna, Erico.  
 **Erica:** A ty jesteś twardy jak skała.  
 **Mox:** Minęło trochę czasu.  
 **Erica:** U mnie też minęło już za dużo czasu.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx8.mp4` (zapętlone)
+
 **Erica:** Cieszę się, że mam przy sobie silnego detektywa, który mnie ochroni.  
 **Mox:** Właśnie tak, Erico… Usiądź na tym kutasie.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx9.mp4` (zapętlone)
+
 **Erica:** Jest ci dobrze?  
 **Mox:** Idealnie. Nie przestawaj.  
 **Erica:** O tak.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx10.mp4` (zapętlone)
+
 **Erica:** Pieprz mnie, Mox! Pieprz mnie!  
 **Mox:** Tak! Wchodź głęboko!  
 **Erica:** Trafiasz dokładnie w to miejsce.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx11.mp4` (zapętlone)
+
 **Mox:** Boże, masz świetny tyłek!  
 **Erica:** Jest twój, kochanie!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx12.mp4` (zapętlone)
+
 **Mox:** Tak bardzo cię pragnę!  
 **Erica:** Bierz mnie! Rżnij mnie mocno!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx13.mp4` (zapętlone)
+
 **Mox:** Kurwa, tak! Ale mokra!  
 **Erica:** Rżnij mnie! Wchodź głęboko!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx14.mp4` (zapętlone)
+
 **Mox:** Ściśnij mnie mocno, Erico!  
 **Erica:** Och! Ach! Jestem taka wypełniona!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx15.mp4` (zapętlone)
+
 **Mox:** Właśnie tak, kochanie. Bierz wszystko!  
 **Erica:** Tak! Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx16.mp4` (zapętlone)
+
 **Mox:** Idealnie!  
 **Erica:** Rżnij mnie mocno!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx17.mp4` (zapętlone)
+
 **Erica:** O kurwa!  
 **Mox:** Dojdź dla mnie, Erico!  
 **Erica:** Tak!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx18.mp4` (zapętlone)
+
 **Erica:** Tak ostro! Uwielbiam to!  
 **Mox:** Dojdź, kochanie!  
 **Erica:** Dochodzę! Dochodzę!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx19.mp4`
+
 **Mówca nieustalony (Ec):** Cholera!... Mox.  
 **Mox:** Daj mi ten tyłek.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx20.mp4` (zapętlone)
+
 **Erica:** Och, chyba wiem, co lubisz.  
 **Mox:** Ale dobrze!  
 **Erica:** No dalej, kochanie. Poczuj te gładkie pośladki na swoim kutasie.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx21.mp4` (zapętlone)
+
 **Mox:** Kurwa! Co za ciało!  
 **Erica:** Właśnie tak, Mox. Dawaj.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx22.mp4` (zapętlone)
+
 **Erica:** Zalej mnie spermą.  
 **Mox:** O, niegrzeczna dziewczynko. Chcesz mojej spermy?  
 **Erica:** Proszę! Chcę poczuć ją na swoim ciele.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx23.mp4`
+
 **Mox:** O cholera.  
 **Erica:** Cholera, Mox. Ale dużo spermy.  
 

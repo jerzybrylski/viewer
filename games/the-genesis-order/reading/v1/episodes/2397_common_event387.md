@@ -1,5 +1,7 @@
 ## Common Event 387 — SCN - Chloe Accidental Penetration
 
+> **🎬 Wstawka wideo:** `ChJuPew1.mp4` (zapętlone)
+
 **Judy:** Nie chcę mówić zbyt wiele.  
 **Chloe:** Co robiłyście wczoraj wieczorem? Opowiedzcie mi.  
 **Judy:** Mox pokazał mi coś nowego.  
@@ -30,37 +32,74 @@
 **Mox:** Możemy szybko to załatwić.  
 **Judy:** Muszę przyznać, że to ekscytujące. Spodoba ci się, Chloe.  
 **Chloe:** Chodź, Mox. Pospieszmy się, zanim ojciec wróci.  
+
+> **🎬 Wstawka wideo:** `ChJuPew2.mp4` (zapętlone)
+
 **Judy:** Czysto. Nikogo nie ma.  
 **Chloe:** O, Mox!  
 **Mox:** Już jesteś mokra.  
 **Chloe:** Podnieciliście mnie.  
 **Judy:** Dajcie znać, kiedy skończycie.  
+
+> **🎬 Wstawka wideo:** `ChJuPew3.mp4` (zapętlone)
+
 **Mox:** Co ty na to, Chloe? Gotowa?  
 **Chloe:** Ja… Jestem gotowa to poczuć.  
+
+> **🎬 Wstawka wideo:** `ChJuPew4.mp4` (zapętlone)
+
 **Chloe:** Och! Siostro! Miałaś rację!  
 **Judy:** A nie mówiłam? Wspaniałe, prawda?  
 **Chloe:** Jesteśmy tak blisko… ale nie przekraczamy granicy.  
 **Mox:** To przyjemne.  
+
+> **🎬 Wstawka wideo:** `ChJuPew5.mp4` (zapętlone)
+
 **Judy:** No już, wy dwoje. Nie kuście losu.  
 **Chloe:** Dojdziesz, Mox?  
 **Mox:** Nie sądzę, żeby to był dobry pomysł.  
+
+> **🎬 Wstawka wideo:** `ChJuPew6.mp4` (zapętlone)
+
 **Judy:** Pospiesz się. Skończ szybko.  
 **Chloe:** Och! Tak mocno przyciskasz go do mnie.  
 **Mox:** Ach! Tak. Mogłbym tak dojść.  
+
+> **🎬 Wstawka wideo:** `ChJuPew7.mp4` (zapętlone)
+
 **Chloe:** Na pewno? A jeśli narobimy bałaganu?  
 **Mox:** Siostro Judy?  
 **Judy:** Dalej. Pospiesz się.  
+
+> **🎬 Wstawka wideo:** `ChJuPew8.mp4`
+
+> **🎬 Wstawka wideo:** `ChJuPew9.mp4` (zapętlone)
+
 **Judy:** Ojej! Usłyszałam skrzypnięcie drzwi.  
 **Chloe:** Jeszcze tylko chwila! Ale mocno napiera na mnie!  
 **Mox:** Ale mocno na niego napiera.  
+
+> **🎬 Wstawka wideo:** `ChJuPew10.mp4` (zapętlone)
+
 **Judy:** Ktoś idzie! Na pewno kogoś słyszę!  
 **Chloe:** Już prawie! Nie przestawaj!  
 **Mox:** O cholera!  
+
+> **🎬 Wstawka wideo:** `ChJuPew11.mp4` (zapętlone)
+
 **Chloe:** Jeszcze pięć sekund! Tylko pięć!  
 **Mox:** Dojdź dla nas, Chloe.  
 **Judy:** Ktoś idzie! Przestań!  
+
+> **🎬 Wstawka wideo:** `ChJuPew12.mp4`
+
 **Chloe:** Mox!  
 **Mox:** O cholera!  
+
+> **🎬 Wstawka wideo:** `ChJuPew13.mp4`
+
+> **🎬 Wstawka wideo:** `ChJuPew14.mp4` (zapętlone)
+
 **Nellie:** Dobry Boże, Mox! Co ty wyprawiasz?  
 **Mox:** Nellie!  
 **Chloe:** O nie!  

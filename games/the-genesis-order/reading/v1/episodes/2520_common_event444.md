@@ -1,5 +1,7 @@
 ## Common Event 444 — SCN - Read Book Genesis
 
+> **🎬 Wstawka wideo:** `McErHrRead.mp4` (zapętlone)
+
 **Narrator / mówca nieustalony:** Na początku Bóg stworzył niebo i ziemię. Ziemia była bezkształtna, a ciemność spowijała otchłań. Duch Boży unosił się nad wodami.  
 **Tasha:** Przewiń dalej. Poszukaj Adama i Ewy.  
 **Narrator / mówca nieustalony:** Bóg stworzył Adama, który był samotny. Następnie ulepił z ziemi kobietę dla Adama, tak jak wcześniej stworzył jego, i nazwał ją Lilith.  

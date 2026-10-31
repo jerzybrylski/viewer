@@ -1,20 +1,31 @@
 ## Common Event 383 — SCN - Ella Livestream Fuck
 
+> **🎬 Wstawka wideo:** `ElTaTyRvw1.mp4` (zapętlone)
+
 **Ella:** Mox!?  
 **Tasha:** Witaj.  
 **Mox:** Robicie to tutaj!?  
 **Ella:** Myślałam, że drzwi są zamknięte.  
 **Tasha:** Ups.  
 **Ella:** Wchodź i zamknij drzwi.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw2.mp4` (zapętlone)
+
 **Mox:** Nadajesz już na żywo?  
 **Ella:** Na razie robię zdjęcia… Ale niedługo zacznę.  
 **Tasha:** Wielkie dzięki, Ello. Ten pomysł z recenzją naprawdę się sprawdził.  
 **Ella:** Obie na tym skorzystamy.  
 **Mox:** Co to, do cholery, jest?  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw3.mp4` (zapętlone)
+
 **Ella:** Coś w rodzaju wibrującej zatyczki analnej.  
 **Tasha:** To coś więcej. To stymulator impulsami elektrycznymi.  
 **Mox:** Co takiego?  
 **Tasha:** Napina jej cipkę, ale ona i jej partner odczuwają to jak wibracje.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw4.mp4` (zapętlone)
+
 **Ella:** Och! Jest!  
 **Mox:** Brzmi ciekawie.  
 **Ella:** Myślisz o wystąpieniu w filmie?  
@@ -25,11 +36,19 @@
 **Tasha:** Śmiało. Recenzja będzie lepsza, jeśli opowie o… pełnym doświadczeniu.  
 **Mox:** Chyba dam sobie z tym radę.  
 **Tasha:** Wiedziałam, że przekonasz się do zabawek, pani detektyw.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw5.mp4` (zapętlone)
+
 **Mox:** Cholera. Czuję to, kiedy tylko dotyka twoich pośladków.  
 **Tasha:** Jej biodra aż iskrzą.  
 **Mox:** Brzmi niebezpiecznie.  
 **Ella:** No dalej, duży chłopcze. Wypełnij mnie. Nie boję się.  
 **Mox:** Masz już dość ciasną cipkę… Zobaczmy, jak bardzo to urządzenie ją zaciśnie.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw6.mp4`
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw7.mp4` (zapętlone)
+
 **Ella:** O cholera!  
 **Mox:** Wibruje!  
 **Tasha:** Poraża twojego kutasa.  
@@ -37,28 +56,52 @@
 **Tasha:** I to jak.  
 **Ella:** Pieprz mnie, Mox!  
 **Mox:** Spróbuję.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw8.mp4` (zapętlone)
+
 **Mox:** Jesteś taka spięta.  
 **Ella:** Czuję, jak moja cipka zaciska się na tobie.  
 **Mox:** Trudno pieprzyć w ten sposób.  
 **Ella:** To takie przyjemne!  
 **Tasha:** Nie bądź delikatny, Mox. To nie taka zabawka.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw9.mp4` (zapętlone)
+
 **Mox:** Cholera. Gdyby to było jeszcze intensywniejsze, nie dałbym rady.  
 **Tasha:** Przyłóż się!  
 **Ella:** W porządku, Mox. Pieprz mnie mocno.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw10.mp4` (zapętlone)
+
 **Ella:** Ach! Kurwa!  
 **Mox:** Cholera! Ale… ciasno!  
 **Ella:** Aghuha…  
 **Tasha:** Tracisz rozum, Ello?  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw11.mp4` (zapętlone)
+
 **Mox:** Łaskocze… Nie, szczypie… To… To…  
 **Ella:** Niesamowite!  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw12.mp4` (zapętlone)
+
 **Tasha:** No dalej, wy dwoje. Zróbcie mi przedstawienie.  
 **Ella:** Pieprz mnie! Pieprz mnie, detektyw Canmore!  
 **Mox:** O, Ello!  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw13.mp4` (zapętlone)
+
 **Mox:** Twoja cipka ciasno zaciska się na moim kutasie!  
 **Ella:** Rżnij mnie! Użyj mojego ciała!  
 **Mox:** Cholera!  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw14.mp4` (zapętlone)
+
 **Mox:** Zaraz dojdę!  
 **Ella:** Dochodziłam, pani detektyw! Dochodzę, Mox!  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw15.mp4`
+
 **Mox:** To było niesamowite!  
 **Ella:** Wyłącz to! Łaskocze!  
 

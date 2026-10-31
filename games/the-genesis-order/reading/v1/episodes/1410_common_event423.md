@@ -1,5 +1,7 @@
 ## Common Event 423 — SCN - Arm Wrestle
 
+> **🎬 Wstawka wideo:** `ElHnArmW1.mp4` (zapętlone)
+
 **Mox:** Na trzy zaczynamy.  
 **Hannah:** Odliczamy w górę od trzech czy w dół od jednego?  
 **Mox:** W górę, od jednego.  
@@ -9,6 +11,9 @@
 **Ella:** On liczy w górę!  
 **Hannah:** Niech zacznie się liczenie w górę.  
 **Mox:** Raz… dwa… trzy!  
+
+> **🎬 Wstawka wideo:** `ElHnArmW2.mp4` (zapętlone)
+
 **Hannah:** Ha! Tylko na tyle cię stać?  
 **Ella:** Cholera, dziewczyno, ale jesteś silna!  
 **Hannah:** Jestem dziewczyną ze wsi! Mam mięśnie!  
@@ -16,6 +21,9 @@
 **Hannah:** Komu ty właściwie kibicujesz, Mox?  
 **Ella:** O nie! Jestem za słaba.  
 **Hannah:** Hahaha!  
+
+> **🎬 Wstawka wideo:** `ElHnArmW3.mp4`
+
 **Hannah:** Auć!  
 **Ella:** Wygląda na to, że wygrałam.  
 **Hannah:** Oszukiwałaś!  

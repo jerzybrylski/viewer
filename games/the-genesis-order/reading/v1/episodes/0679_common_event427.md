@@ -1,5 +1,7 @@
 ## Common Event 427 — SCN - Judy First Pussy
 
+> **🎬 Wstawka wideo:** `JuMcFP1.mp4` (zapętlone)
+
 **Mox:** Romantycznie, prawda?  
 **Judy:** Haha. O rany, mam nadzieję, że to nie zalicza się do romansu.  
 **Mox:** Nie rozumiem, Judy. Jeśli zgrzeszysz, nie możesz po prostu poprosić o przebaczenie?  
@@ -10,57 +12,116 @@
 **Judy:** Moja czystość wynika z moich intencji.  
 **Mox:** Czyli… Zamierzasz zachować czystość.  
 **Judy:** Tak.  
+
+> **🎬 Wstawka wideo:** `JuMcFP2.mp4` (zapętlone)
+
 **Mox:** Moje intencje łatwo dostrzec.  
 **Judy:** Podniecam cię. To dziwne uczucie.  
 **Mox:** Mam nadzieję, że przyjemne.  
 **Judy:** Tak, Mox. Jest mi dobrze.  
+
+> **🎬 Wstawka wideo:** `JuMcFP3.mp4` (zapętlone)
+
 **Mox:** O tak!  
 **Mox:** To przyjemne.  
+
+> **🎬 Wstawka wideo:** `JuMcFP4.mp4` (zapętlone)
+
 **Judy:** Nie mogę pozwolić ci wejść do środka…  
 **Mox:** Wiem.  
 **Judy:** Ale… Chcę cię poczuć.  
+
+> **🎬 Wstawka wideo:** `JuMcFP5.mp4` (zapętlone)
+
 **Mox:** Jesteśmy tak blisko… Pewnie doprowadza cię do szału, że nie możesz go wsadzić.  
 **Judy:** Och, tak! I to jak… Bardzo.  
 **Mox:** Ale nie mogę.  
 **Judy:** Nie wolno ci.  
 **Mox:** Zamierzasz zachować czystość.  
 **Judy:** Taki jest mój zamiar.  
+
+> **🎬 Wstawka wideo:** `JuMcFP6.mp4`
+
+> **🎬 Wstawka wideo:** `JuMcFP7.mp4` (zapętlone)
+
 **Judy:** O Boże.  
 **Mox:** To przyjemne.  
 **Judy:** Proszę… Boże.  
+
+> **🎬 Wstawka wideo:** `JuMcFP8.mp4` (zapętlone)
+
 **Judy:** Kręci mi się w głowie.  
 **Mox:** Wszystko w porządku?  
 **Judy:** Pomóż mi wstać.  
+
+> **🎬 Wstawka wideo:** `JuMcFP9.mp4`
+
+> **🎬 Wstawka wideo:** `JuMcFP10.mp4` (zapętlone)
+
 **Judy:** Włóż go z powrotem.  
 **Mox:** Eee, jasne! Oczywiście.  
+
+> **🎬 Wstawka wideo:** `JuMcFP11.mp4` (zapętlone)
+
 **Judy:** Ach! Mox!  
 **Mox:** Cholera… Ale ciasno!  
 **Judy:** O Boże!  
+
+> **🎬 Wstawka wideo:** `JuMcFP12.mp4` (zapętlone)
+
 **Mox:** Nie wierzę, jakie to przyjemne być w tobie.  
 **Judy:** Proszę, Mox, nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `JuMcFP13.mp4` (zapętlone)
+
 **Judy:** Mox!  
 **Mox:** Judy… Wszystko w porządku?  
+
+> **🎬 Wstawka wideo:** `JuMcFP14.mp4` (zapętlone)
+
 **Judy:** Mocniej! Chcę więcej!  
 **Mox:** Tak!  
+
+> **🎬 Wstawka wideo:** `JuMcFP15.mp4`
+
+> **🎬 Wstawka wideo:** `JuMcFP16.mp4` (zapętlone)
+
 **Judy:** Tak, Mox! Głęboko!  
 **Mox:** Bierz, Judy!  
 **Judy:** Wypełniasz mnie!  
+
+> **🎬 Wstawka wideo:** `JuMcFP17.mp4` (zapętlone)
+
 **Mox:** Twoja dziewicza cipka tak ciasno zaciska się na moim kutasie.  
 **Judy:** Jest taki wielki!  
 **Mox:** Dzięki tobie jest tak przyjemnie…  
 **Mox:** Chcę cię wypełnić!  
 **Judy:** Spuść się w moim tyłku!  
+
+> **🎬 Wstawka wideo:** `JuMcFP18.mp4` (zapętlone)
+
 **Judy:** Rozciągnij mnie! Rozciągnij, Mox!  
 **Mox:** Kurwa! Wszystkie twoje dziurki są takie ciasne!  
 **Judy:** Wypełnij mnie swoim nasieniem!  
+
+> **🎬 Wstawka wideo:** `JuMcFP19.mp4` (zapętlone)
+
 **Mox:** Wypełnię ci tyłek!  
 **Judy:** Dawaj! Wypełnij mój tyłeczek!  
+
+> **🎬 Wstawka wideo:** `JuMcFP20.mp4`
+
+> **🎬 Wstawka wideo:** `JuMcFP21.mp4` (zapętlone)
+
 **Judy:** Mox!? Gdzie jesteś?  
 **Mox:** O czym ty mówisz? Jestem tutaj.  
 **Judy:** Ja… Nie widzę cię!  
 **Mox:** Jest za ciemno?  
 **Judy:** Nie! To znaczy… Jesteś niewidzialny.  
 **Mox:** Co do cholery?! Nie widzę swoich rąk!  
+
+> **🎬 Wstawka wideo:** `JuMcFP22.mp4`
+
 **Madalyn:** Cudowne przedstawienie.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.

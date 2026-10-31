@@ -35,10 +35,23 @@ Daty, źródła i hashe plików znajdują się w [`EXPERIMENT_LOG.md`](EXPERIMEN
 
 ## Wstawki wideo w scenariuszu (2026-10-31)
 
-- **POTWIERDZONE (narzędzia):** `tools/scan_movie_calls.py` wykonuje statyczny, tylko-odczytowy skan `www/data` (katalog lub ZIP) i rozdziela trzy klasy sygnału: `confirmed` (literalna nazwa pliku `.mp4/.webm/.m4v/.mov` albo rozpoznane API typu `playMovie`/`VideoPlayer` z literalnym argumentem), `dynamic` (wywołanie API z argumentem zmiennym — nazwy nie ustalamy) i `candidate` (wzmianka „movie/video” w poleceniu pluginu/komentarzu bez nazwy pliku — do przeglądu). Blok skryptowy `355` z kontynuacjami `655` jest oceniany raz.
-- **POTWIERDZONE (build):** `tools/build_readalong.py --movie-calls` wstawia znaczniki `> **🎬 Wstawka wideo:** \`plik\`` na pozycji `command_index` i generuje `index_movies_PL.md`; sceny bez tekstu, a z klipem, również powstają.
-- **NIEROZSTRZYGNIĘTE:** mechanizm odtwarzania wideo w tej kopii gry nie jest jeszcze ustalony na danych — lista wtyczek w dokumentacji nie zawiera wtyczki filmowej, więc wywołanie może iść przez polecenie skryptowe (np. własne API). Rozstrzyga to dopiero inwentarz z rzeczywistego `www/data`.
-- **OGRANICZENIE:** skan pokrywa wyłącznie polecenia eventów. Wideo uruchamiane z kodu JS/pluginów albo zależne od warunków runtime może pozostać poza inwentarzem; tego nie zgadujemy.
+**POTWIERDZONE na danych gry.** Skan 292 plików `www/data` (305 JSON map + `CommonEvents.json`, 470 493 polecenia, źródło: `data.zip` z Drive, SHA-256 `c9deca5c733cbbc92306e41a8afa0157e38758283a9c7662960349f9b9fd5842`) wskazuje jedno API odtwarzania:
+
+- `ysp.VideoPlayer.newVideo('Nazwa', slot)` tworzy klip w slocie,
+- `ysp.VideoPlayer.playVideoById(slot)` uruchamia go,
+- `ysp.VideoPlayer.setLoopById(slot)` zapętla,
+- `stopVideoById`, `releaseVideo`, `isReady` to sterowanie i odpytywanie stanu, nie start odtwarzania,
+- `loadVideo('Nazwa')` to wstępne ładowanie (preload), nie odtwarzanie.
+
+Wzorzec jest jednorodny: **każdy** z 3 812 bloków odtwarzania zawiera `newVideo` + `playVideoById` w tym samym bloku skryptowym (`355` + `655`), a `setLoopById` występuje w 3 188 z nich. Nie ma bloków `newVideo` bez `play`, ani `playVideoById` bez `newVideo`.
+
+**Rozkład:** 3 812 wywołań w 305 rozdziałach (2 678 w Common Events, 1 134 w eventach map), 3 696 różnych nazw plików. Katalog `www/movies` zawiera 7 354 pozycje: 7 352 `.mp4` i 2 `.webm`; większość klipów ma bliźniaka z sufiksem `-l` (wersja niskiej jakości), więc unikalnych klipów HQ jest 3 678. Rozmiary użytych klipów: 0,62–44,45 MB, mediana 2,02 MB; 275 nazw ma plik poniżej 1,5 MB (krótkie wstawki, m.in. `AdChng1.mp4`–`AdChng7.mp4`).
+
+**Rozbieżność danych (NIEZGODNOŚĆ, nie poprawiana):** 24 nazwy z poleceń nie mają odpowiednika w plikach tej kopii — cała rodzina `BC-Ar-Bo1O2…BC-Ar-Bo15O2` i `BC-Ar-OT1O2…BC-Ar-OT9O2` (pliki istnieją jako `BC-Ar-Bo1.mp4` itd., bez sufiksu `O2`). Czytanka pokazuje nazwę z kodu i adnotację „pliku nie ma w inwentarzu tej kopii”; nie dopisujemy ani nie usuwamy sufiksu bez dowodu.
+
+**Narzędzia:** `tools/scan_movie_calls.py` (skan tylko-do-odczytu, wynik `tgo-movie-calls-v1`, tryb `--compact` do śledzenia w Git) oraz `--movie-calls` w `tools/build_readalong.py`, który wstawia znaczniki `> **🎬 Wstawka wideo:** \`plik\`` na pozycji `command_index`, tworzy `index_movies_PL.md` i dodaje rozdziały zawierające wyłącznie klip. Ścieżka lokalna na Windows: `tools/intake/SCAN_MOVIES_TGO.ps1` (nieuruchamiana, **niezweryfikowana**).
+
+**OGRANICZENIA:** skan pokrywa wyłącznie polecenia eventów; stan slotów `ysp.VideoPlayer` jest odtwarzany statycznie w obrębie strony eventu, bez wykonania warunków i bez runtime. Klipy uruchamiane z kodu JS/pluginów albo zależne od stanu gry poza eventem mogą pozostać poza inwentarzem. Gry nie uruchamiano, mediów nie kopiowano.
 
 ## Nieznane / kolejne prace
 

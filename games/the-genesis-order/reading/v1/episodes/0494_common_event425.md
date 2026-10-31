@@ -1,5 +1,9 @@
 ## Common Event 425 — SCN - Duncan Throws MC
 
+> **🎬 Wstawka wideo:** `DuMcGnThrow1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `DuMcGnThrow2.mp4` (zapętlone)
+
 **Mox:** Kurwa! Moja noga!  
 **Drab:** Ech! Kto to, do cholery?  
 **Duncan:** To glina!  

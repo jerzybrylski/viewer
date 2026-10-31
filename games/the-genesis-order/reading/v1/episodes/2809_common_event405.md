@@ -1,5 +1,7 @@
 ## Common Event 405 — SCN - Girls Dinner
 
+> **🎬 Wstawka wideo:** `ErJuMcChHnElDinner.mp4` (zapętlone)
+
 **Hannah:** Masz ładne włosy, Ello.  
 **Ella:** Podoba ci się?  
 **Judy:** Różowy to taki ładny kolor.  

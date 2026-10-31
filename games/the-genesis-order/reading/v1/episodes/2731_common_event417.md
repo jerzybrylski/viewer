@@ -1,5 +1,7 @@
 ## Common Event 417 — SCN - Toma Fails
 
+> **🎬 Wstawka wideo:** `ElHnChTma1.mp4` (zapętlone)
+
 **Mox:** Cholera! To fragment Tomy!  
 **Ella:** Co takiego?  
 **Chloe:** Niemożliwe! Kolejny magiczny kamień!  
@@ -7,6 +9,9 @@
 **Hannah:** Sprawia, że Mox dochodzi bardzo obficie!  
 **Mox:** Ma magiczną moc seksualną… Sześć takich kamieni jest rozrzuconych po North Santiva.  
 **Ella:** Hahaha. Żartujesz.  
+
+> **🎬 Wstawka wideo:** `ElHnChTma2.mp4` (zapętlone)
+
 **Mox:** Przygotujcie się, dziewczyny. Może być ostro.  
 **Hannah:** Wow! Ale się cieszę!  
 **Chloe:** Nie wiem, czy dam radę jeszcze raz.  

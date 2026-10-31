@@ -1,8 +1,13 @@
 ## Common Event 373 — SCN - Chloe BJ Heather
 
+> **🎬 Wstawka wideo:** `ChHeBdrBj1.mp4` (zapętlone)
+
 **Heather:** Och! Cześć, Mox.  
 **Mox:** Heather! Nie spodziewałem się, że tu będziesz.  
 **Heather:** Wejdź, właśnie poprawiałam włosy.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj2.mp4` (zapętlone)
+
 **Heather:** Siostra Judy naprawdę lubi się z tobą widywać.  
 **Mox:** Wiesz, odkąd przyjechała do miasta, nie była w żadnej restauracji.  
 **Heather:** Zabierasz ją gdzieś, Mox?  
@@ -13,15 +18,26 @@
 **Mox:** Tak. Przyda mi się przerwa od pracy.  
 **Heather:** Skoro już tu jesteś, chcę cię o coś zapytać.  
 **Mox:** O co chodzi, Heather?  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj3.mp4` (zapętlone)
+
 **Heather:** Myślisz, że powinnam zrobić sobie operację powiększenia piersi?  
 **Mox:** Heather!?  
 **Heather:** Co? Pytam poważnie.  
 **Mox:** Jesteś świetna taka, jaka jesteś. Nie musisz robić niczego szalonego.  
 **Heather:** Nie uważasz, że przydałoby mi się trochę większy biust?  
 **Mox:** Twoje piersi wyglądają fantastycznie takie, jakie są.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj4.mp4` (zapętlone)
+
 **Heather:** Och, Mox. Jesteś taki miły.  
 **Mox:** Oczywiście. Jesteś piękna.  
 **Heather:** Wiele dla mnie znaczy, że mówi to taki przystojny mężczyzna.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj5.mp4`
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj6.mp4` (zapętlone)
+
 **Heather:** Carol opowiedziała mi o tobie kilka rzeczy, Mox.  
 **Mox:** Naprawdę? Co powiedziała?  
 **Heather:** Nie powinnam się z tobą tak droczyć.  
@@ -30,13 +46,25 @@
 **Heather:** Chcę, żebyś wiedział, że czuję się bardzo kochana.  
 **Mox:** Naprawdę cię kocham, Heather.  
 **Heather:** Wiem, kochanie.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj7.mp4`
+
 **Heather:** Dobrej zabawy dziś wieczorem, kochanie.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj8.mp4`
+
 **Mox:** Chyba dostałem to, czego chciałem.  
 **Chloe:** Psst! Mox!  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj9.mp4` (zapętlone)
+
 **Chloe:** Judy zaraz wejdzie.  
 **Mox:** Potrzebuje skorzystać z toalety?  
 **Chloe:** Chodź tu!  
 **Mox:** Eee… Dobrze.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj10.mp4` (zapętlone)
+
 **Chloe:** Możemy dziś nie znaleźć wolnej chwili, więc chciałam ci coś dać.  
 **Mox:** Dać mi coś?  
 **Chloe:** Jestem ci winna coś wyjątkowego, pamiętasz?  
@@ -44,28 +72,54 @@
 **Mox:** O!  
 **Chloe:** No jasne, głuptasie. Chyba o tym nie zapomniałeś?  
 **Mox:** To znaczy… Bez presji… Ale…  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj11.mp4` (zapętlone)
+
 **Chloe:** No chodź. Judy długo nie zabawi.  
 **Mox:** Na pewno tego chcesz, Chloe?  
 **Chloe:** W porządku. Jestem ci to winna.  
 **Mox:** Możesz się wycofać…  
 **Chloe:** Mox! Jestem ci to winna.  
 **Mox:** Och… Oczywiście.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj12.mp4` (zapętlone)
+
 **Chloe:** Cholera, Mox.  
 **Mox:** Dasz sobie z tym radę?  
 **Chloe:** Chyba… tak.  
 **Chloe:** Drzwi są zamknięte?  
 **Mox:** Heh. Tak, zamknąłem je na klucz.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj13.mp4` (zapętlone)
+
 **Mox:** Ach! Tak… Nieźle, Chloe.  
 **Mox:** Użyj języka na czubku.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj14.mp4` (zapętlone)
+
 **Mox:** Och! Przyjemnie.  
 **Mox:** Dobrze ci idzie…  
 **Mox:** Trochę głębiej.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj15.mp4` (zapętlone)
+
 **Mox:** No, teraz mówimy…  
 **Mox:** Bardzo dobrze.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj16.mp4` (zapętlone)
+
 **Mox:** Ale mi dobrze, Chloe!  
 **Mox:** O cholera! Zaraz przez ciebie dojdę!  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj17.mp4`
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj18.mp4` (zapętlone)
+
 **Mox:** Chloe, wypluj to.  
 **Mox:** Co robisz?  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj19.mp4`
+
 **Chloe:** Połknęłam!  
 **Mox:** Wow… Wszystko w porządku?  
 **Chloe:** Tak… Nie chciałam nabrudzić na podłogę.  
