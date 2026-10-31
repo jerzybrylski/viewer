@@ -2,6 +2,8 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 215 | $gameVariables.value(1) == 216'] → BONUS PROFILE - Hannah: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Hannah.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -9,6 +11,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 217 | $gameVariables.value(1) == 218'] → BONUS PROFILE - Carol: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Hannah.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Hannah-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Hannah-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Carol.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -18,6 +28,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 219 | $gameVariables.value(1) == 220'] → BONUS PROFILE - Heather: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Carol.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Carol-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Carol-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Heather.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -25,6 +43,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 221 | $gameVariables.value(1) == 222'] → BONUS PROFILE - Chloe: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Heather.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Heather-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Heather-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Chloe.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -34,6 +60,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 223 | $gameVariables.value(1) == 224'] → BONUS PROFILE - Judy: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Chloe.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Chloe-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Chloe-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Judy.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -41,6 +75,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 225 | $gameVariables.value(1) == 226'] → BONUS PROFILE - Melissa: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Judy.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Judy-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Judy-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Melissa.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -50,6 +92,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 227 | $gameVariables.value(1) == 228'] → BONUS PROFILE - Kimberly: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Melissa.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Melissa-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Melissa-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Kimberly.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -57,6 +107,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 229 | $gameVariables.value(1) == 230'] → BONUS PROFILE - Nellie: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Kimberly.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Kimberly-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Kimberly-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Nellie.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -66,6 +124,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 231 | $gameVariables.value(1) == 232'] → BONUS PROFILE - Ella: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Nellie.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Nellie-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Nellie-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Ella.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -73,6 +139,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 233 | $gameVariables.value(1) == 234'] → BONUS PROFILE - Erica: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Ella.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Ella-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Ella-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Erica.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -82,6 +156,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 235 | $gameVariables.value(1) == 236'] → BONUS PROFILE - Andrea: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Erica.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Erica-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Erica-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Andrea.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -89,6 +171,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 237 | $gameVariables.value(1) == 238'] → BONUS PROFILE - Lillian: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Andrea.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Andrea-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Andrea-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Lillian.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -98,6 +188,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 421 | $gameVariables.value(1) == 422'] → Crafted Bonus Profile: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Lillian.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Lillian-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Lillian-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Arianna.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -105,6 +203,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** Item Select = 429 → Crafted Bonus Profile: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Arianna.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Arianna-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Arianna-Outfit.mp4` (zapętlone)
 
 **Narrator / mówca nieustalony:** Stwórz profil bonusowy Arianny, aby zobaczyć wersję nago.  
 

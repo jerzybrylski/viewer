@@ -1,0 +1,29 @@
+THE GENESIS ORDER — SKAN WSTAWEK WIDEO (TYLKO ODCZYT)
+
+Cel: znaleźć w danych gry miejsca, w których scenariusz uruchamia krótki klip wideo,
+aby oznaczyć je w Czytance PL nazwą pliku (np. AdChng1.mp4).
+
+Wariant A (najprostszy, jeśli masz już data.zip):
+- Prześlij do projektu plik data.zip (ten sam, który jest na Twoim Google Drive).
+- Resztę robi agent: skan, oznaczenia w Czytance, indeks plików wideo.
+
+Wariant B (skan lokalny na Twoim komputerze):
+1. Skopiuj z repozytorium katalog games/the-genesis-order/tools (albo cały projekt).
+2. Uruchom tools\intake\URUCHOM_SKAN_WIDEO.bat (dwuklik).
+   - Potrzebny jest Python 3 (ten sam, którego używa patcher).
+   - Skrypt sam spróbuje znaleźć instalację Steam/GOG; jeśli nie znajdzie,
+     poprosi o folder gry (ten z plikiem .exe i folderem www).
+3. Na Pulpicie powstanie TGO_movie_calls_....json (kilka–kilkadziesiąt kB).
+4. Prześlij tylko ten plik JSON.
+
+Co skrypt czyta:
+- www/data/CommonEvents.json oraz www/data/Map*.json (statyczny odczyt JSON).
+
+Czego skrypt NIE robi:
+- nie uruchamia gry ani kodu gry,
+- nie zmienia, nie kopiuje i nie wysyła assetów gry ani filmów,
+- nie czyta zapisów gry ani danych spoza folderu instalacji,
+- nie nadpisuje istniejących plików wyjściowych.
+
+Uwaga: raport zawiera krótkie fragmenty poleceń skryptowych (dowodów wywołania wideo),
+nazwy plików filmów oraz identyfikatory map/eventów. Nie zawiera dialogów.

@@ -1,37 +1,88 @@
 ## Common Event 368 — SCN - Ella Lockerroom Fuck
 
+> **🎬 Wstawka wideo:** `ElMcLkrmF1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF2.mp4`
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF3.mp4` (zapętlone)
+
 **Ella:** No już, Mox. Nie rozmawiajmy o pracy.  
 **Mox:** Ella… A jeśli nas przyłapią?  
 **Ella:** I co z tego?  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF4.mp4` (zapętlone)
+
 **Mox:** Och, tak. Jesteś bardzo niegrzeczną dziewczynką.  
 **Mox:** Ach! Ale głęboko go bierzesz!...  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF5.mp4` (zapętlone)
+
 **Mox:** Chyba wiem, czego ci trzeba, Ello.  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF7.mp4`
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF8.mp4` (zapętlone)
+
 **Mox:** Wiem, że nie jesteś tylko dziewczyną z kamerki.  
 **Ella:** Co ty we mnie widzisz, Mox?  
 **Mox:** Ukrywasz swoje prawdziwe oblicze.  
 **Ella:** Tak wygląda moje życie, Mox. Może przestań udawać psychiatrę i wsadź we mnie tego wielkiego, grubego kutasa.  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF9.mp4` (zapętlone)
+
 **Ella:** Och, kurwa, tak!  
 **Mox:** Ryzykujemy coraz bardziej… i to podnieca.  
 **Ella:** Ale ekscytujące!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF10.mp4` (zapętlone)
+
 **Ella:** Pieprz moją małą cipkę!  
 **Mox:** Ale mocno mnie zaciskasz!  
 **Ella:** Uwielbiam to!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF11.mp4` (zapętlone)
+
 **Ella:** Tak! Tak! Pieprz mnie mocno!  
 **Mox:** O tak!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF12.mp4` (zapętlone)
+
 **Ella:** Zaraz doprowadzisz mnie do orgazmu!  
 **Mox:** Jeszcze z tobą nie skończyłem.  
 **Ella:** O, Mox!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF13.mp4` (zapętlone)
+
 **Mox:** O tak, kurwa!  
 **Ella:** Bierz mnie, kochanie! Pieprz mnie!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF14.mp4` (zapętlone)
+
 **Mox:** Ale ciasno!  
 **Ella:** Pieprzyć to! Pieprzyć to!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF15.mp4` (zapętlone)
+
 **Ella:** Rżnij mnie! Uderzaj mnie w tyłek biodrami!  
 **Mox:** Chcę, żebyś dla mnie doszła.  
 **Ella:** Zaraz! Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF16.mp4` (zapętlone)
+
 **Mox:** Kurwa! Zaraz też przez ciebie dojdę!  
 **Ella:** Chcę, żebyś spuścił mi się na twarz! Zalej ją swoją spermą!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF17.mp4`
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF18.mp4` (zapętlone)
+
 **Mox:** Przygotuj się!  
 **Ella:** Nakarm mnie!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF19.mp4`
+
 **Mox:** Cholera! Cała jesteś w spermie.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.

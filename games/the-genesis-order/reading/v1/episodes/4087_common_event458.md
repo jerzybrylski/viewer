@@ -1,11 +1,17 @@
 ## Common Event 458 — SCN - Hell Fight
 
+> **🎬 Wstawka wideo:** `DmlsFght1.mp4`
+
+> **🎬 Wstawka wideo:** `DmlsFght2.mp4` (zapętlone)
+
 **Bobby:** Hej! Zastrzelę cię! Nie zbliżaj się!  
 **Daemalius:** Jak myślisz, co się stanie?  
 **Bobby:** Nie zmuszaj mnie!  
 **Daemalius:** Przekonajmy się.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `DmlsFght3.mp4`
 
 **Wybór gracza:**
 - Zakończ

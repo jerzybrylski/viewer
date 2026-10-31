@@ -1,0 +1,284 @@
+## Mapa 030 — Restauracja / event 11 / strona 1
+
+**Postać niezależna:** Moja żona mnie zdradza! Jaką koszulę ma na sobie ten drań?  
+**Wybór gracza:** Nie wiem. Ale się dowiem.
+
+---
+
+## Mapa 009 — Farma / event 30 / strona 1
+
+**Carol:** No proszę, kto wreszcie się obudził.  
+**Hannah:** Ty leniwy draniu! Myślałam, że nas wystawiłeś.  
+**Chloe:** Czemu tak długo ci zeszło, Mox?  
+**Mox:** Wybacz, zaspałem.  
+**Carol:** Nie daj się Hannah, Mox. Dziś jest wyjątkowo zadziorna.  
+**Hannah:** Po prostu tak się cieszę, że Chloe i Mox tu są.  
+**Chloe:** Jak sobie życzysz, Hannah.  
+**Carol:** No chodźcie. Zobaczmy, co na nas czeka.  
+
+---
+
+## Mapa 041 — Stodoła / event 11 / strona 1
+
+**Carol:** /shock  
+**Carol:** Hannah!? Co to, do cholery, jest?  
+**Hannah:** To mega bela, mamo!  
+**Carol:** Nie damy rady załadować takiej beli! Po co zrobiłaś ją tak wielką?  
+**Hannah:** Możemy użyć traktora!  
+**Carol:** Traktor nie działa.  
+**Hannah:** A, tak. Zapomniałam.  
+**Carol:** Niezbyt mądrze, Hannah. Niezbyt mądrze.  
+**Chloe:** Założę się, że Mox sobie poradzi.  
+**Mox:** Mogę spróbować.  
+**Carol:** Tylko się nie nadwyręż.  
+**Hannah:** Wypchnij ją przez drzwi, Mox. Musimy załadować ją na ciężarówkę.  
+**Mox:** Cholera… Ale ciężka.  
+**Carol:** No cholera.  
+**Hannah:** Mocniej!  
+**Carol:** Daj spokój, Mox. Jest dla ciebie za duża.  
+**Chloe:** Co teraz zrobimy?  
+**Hannah:** Zróbmy sobie przerwę!  
+**Carol:** Hannah!  
+**Mox:** Pozwól, że coś wymyślę.  
+**Chloe:** Tak! Mox coś wymyśli.  
+**Carol:** Dobrze, detektywie. Zobaczmy, co potrafisz.  
+
+---
+
+## Mapa 041 — Stodoła / event 14 / strona 1
+
+**Hannah:** /greet  
+**Mox:** /greet  
+**Hannah:** Przesuń tę belę w stodole. Inaczej mama strasznie się na mnie wkurzy.  
+**Mox:** Pracuję nad tym, Hannah.  
+
+---
+
+## Mapa 041 — Stodoła / event 15 / strona 1
+
+**Chloe:** /greet  
+**Mox:** /greet  
+**Chloe:** Jak zamierzasz przesunąć tę dużą belę siana w stodole?  
+**Mox:** Coś wymyślę.  
+
+---
+
+## Mapa 041 — Stodoła / event 49 / strona 1
+
+**Mox:** Ta metalowa skrzynka jest zamknięta zardzewiałą kłódką i łańcuchem. Nawet gdybym miał klucz, pewnie by nie pasował.  
+
+---
+
+*〔Wskazówka: Powinieneś poćwiczyć na siłowni i nabrać siły.〕*
+
+---
+
+## Mapa 011 — Siłownia / event 9 / strona 2
+
+**Mox:** Wygląda na to, że Heather jeszcze nie przyszła.  
+**Ella:** /greet  
+**Ella:** Pracujesz tutaj?  
+**Mox:** Ja? Nie… Jestem tu umówiony z kimś.  
+**Ella:** Widziałeś gdzieś tutaj telefon komórkowy?  
+**Mox:** Dopiero co przyszedłem. Nie widziałem żadnego telefonu.  
+**Ella:** Cholera. Zgubiłam telefon.  
+**Mox:** Mam na niego zadzwonić? Możesz nasłuchiwać dzwonka.  
+**Ella:** Ja… yyy… Nie podaję swojego numeru telefonu.  
+**Mox:** Dobrze… Przepraszam, ale nie wiem, jak inaczej mógłbym pomóc.  
+**Ella:** Nieważne… Muszę już iść.  
+**Mox:** Co jest, do cholery? O co chodzi z tymi różowymi włosami?  
+**Larry:** Trzymaj się z dala od Elli. To moja dziewczyna.  
+**Mox:** O czym ty mówisz?  
+**Larry:** Widziałem, jak z nią flirtowałeś.  
+**Mox:** Nie flirtowałem z nią. Nie wiem, kim ona jest.  
+**Larry:** Nie wiesz, kim jest Ella Adair?  
+**Mox:** A powinienem?  
+**Larry:** To przecież najsłynniejsza modelka Lustagrama w North Santiva.  
+**Mox:** Lustagram?  
+**Larry:** Dobry Boże! Ale jesteś nie na czasie.  
+**Larry:** Jestem największym fanem Elli. Rozmawia ze mną!  
+**Mox:** Ćwiczysz z nią?  
+**Larry:** Eee… Nie… Woli rozmawiać przez internet.  
+**Mox:** Zgaduję… Płacisz jej pięć dolarów za każde zdanie?  
+**Larry:** Ej!... Czasem tylko dwa dolary.  
+**Mox:** Chyba już rozumiem.  
+**Larry:** Możesz mnie asekurować? Dzisiaj wycisnę maksimum na ławce.  
+**Mox:** Wybacz, nie mogę. Jestem tu z kimś umówiony.  
+**Larry:** Jeśli kiedyś będziesz potrzebował asekuracji, daj znać. Znam się na siłowni.  
+**Heather:** /greet  
+**Mox:** Heather. Jesteś.  
+**Heather:** No proszę, kto w końcu przyjął moje zaproszenie.  
+**Mox:** Wiem, że ciągle to odkładałem, ale chciałem spędzić z tobą trochę czasu.  
+**Heather:** Wspaniale! Tak się cieszę, że jesteś.  
+**Heather:** Ależ, Mox. Nie możesz ćwiczyć w tych ubraniach.  
+**Mox:** Nie martw się. Przebiorę się w coś wygodniejszego.  
+---
+
+## Common Event 314 — SCN - Heather Workout
+
+> **🎬 Wstawka wideo:** `HeWorkout1.mp4` (zapętlone)
+
+**Heather:** Zaczynałam się zastanawiać, czy w ogóle przyjdziesz, Mox.  
+**Mox:** Miło spędzić z tobą trochę czasu, Heather. Dawno powinniśmy to zrobić.  
+**Heather:** Masz ciężką pracę, ale nie możesz zaniedbywać zdrowia.  
+**Mox:** No więc, co dziś robimy?  
+**Heather:** Najpierw rozciągnijmy plecy.  
+**Mox:** Będę robił to, co ty.  
+
+> **🎬 Wstawka wideo:** `HeWorkout2.mp4` (zapętlone)
+
+**Heather:** Masz bardzo spięte mięśnie. Dobrze sypiasz?  
+**Mox:** Chyba ostatnio trochę się stresuję.  
+**Heather:** Co się stało?  
+**Mox:** To przez moją szefową. Cokolwiek robię, nie potrafię jej zaimponować.  
+**Heather:** Jesteś utalentowanym detektywem, Mox. W końcu to dostrzeże.  
+
+> **🎬 Wstawka wideo:** `HeWorkout3.mp4` (zapętlone)
+
+**Mox:** Chcę robić więcej, ale ona stoi mi na drodze.  
+**Heather:** Cierpliwości, Mox. Jesteś jeszcze młody.  
+**Mox:** Nie wydaje mi się, żeby plecy się rozluźniały.  
+**Heather:** Odwróć się, spróbujmy czegoś innego.  
+
+> **🎬 Wstawka wideo:** `HeWorkout4.mp4` (zapętlone)
+
+**Heather:** Jak się czujesz, kochanie?  
+**Mox:** Lepiej.  
+**Heather:** Jesteś oddany swojej pracy. Szefowa powinna to w tobie docenić.  
+**Mox:** Też tak uważam. Ale jest strasznie upierdliwa.  
+**Heather:** Nie pozwól, żeby cię zdołowała.  
+
+> **🎬 Wstawka wideo:** `HeWorkout5.mp4` (zapętlone)
+
+**Mox:** Dziękuję, Heather.  
+**Heather:** Za co?  
+**Mox:** Za to, że zawsze we mnie wierzysz.  
+**Heather:** Jestem z ciebie bardzo dumna. Wyrósł z ciebie porządny facet.  
+**Mox:** Tak myślisz?  
+**Heather:** Bez wątpienia.  
+
+> **🎬 Wstawka wideo:** `HeWorkout6.mp4` (zapętlone)
+
+**Mox:** Cholera, Heather. Jesteś taka rozciągnięta.  
+**Heather:** Gdybyś chodził na jogę, pewnie też poprawiłbyś swoją elastyczność.  
+**Mox:** Joga nie jest wystarczająco męska.  
+**Heather:** Co jest, Mox? Boisz się zajęć pełnych ładnych kobiet?  
+
+> **🎬 Wstawka wideo:** `HeWorkout7.mp4` (zapętlone)
+
+**Mox:** Może przydałoby mi się takie rozproszenie.  
+**Heather:** Jak facet taki jak ty może tak długo nie mieć dziewczyny?  
+**Mox:** Znasz mnie lepiej niż ktokolwiek, Heather…  
+**Mox:** Po prostu nie chcę tych wszystkich komplikacji.  
+
+> **🎬 Wstawka wideo:** `HeWorkout8.mp4` (zapętlone)
+
+**Heather:** To nieprawda, Mox. Potrafisz sobie z tym poradzić.  
+**Mox:** Chyba sam nie wiem, czego chcę.  
+**Heather:** Jesteś młodym mężczyzną i masz swoje potrzeby. Nie możesz bez przerwy tylko pracować.  
+
+> **🎬 Wstawka wideo:** `HeWorkout9.mp4` (zapętlone)
+
+**Mox:** Potrzeby?  
+**Heather:** Wiesz, co mam na myśli.  
+**Mox:** Heather!?  
+**Heather:** Jesteś już dorosły. Nie musimy owijać w bawełnę.  
+**Mox:** Próbujesz mnie zawstydzić, żebym… poszedł z tobą do łóżka?  
+**Heather:** Nie wygłupiaj się.  
+
+> **🎬 Wstawka wideo:** `HeWorkout10.mp4` (zapętlone)
+
+**Heather:** Wciąż jesteś tym samym chłopcem, którego znałam tyle lat temu.  
+**Heather:** Zawsze taki samotny wilk.  
+**Mox:** Rozumiem, rozumiem…  
+**Heather:** Zawsze wolałeś spędzać czas z Chloe i ze mną, niż poznawać nowych przyjaciół.  
+
+> **🎬 Wstawka wideo:** `HeWorkout11.mp4` (zapętlone)
+
+**Mox:** Nie miałem typowego życia rodzinnego, kiedy dorastałem…  
+**Mox:** Może właśnie dlatego jestem dziś takim człowiekiem.  
+**Heather:** Jesteś idealny taki, jaki jesteś, Mox. Wiem, że podejmiesz właściwe decyzje.  
+**Mox:** Nie wiem, jak ty to robisz, Heather, ale nogi mi płoną!  
+**Heather:** Zmieńmy ćwiczenie. Co powiesz na brzuszki?  
+
+> **🎬 Wstawka wideo:** `HeWorkout12.mp4` (zapętlone)
+
+**Heather:** Właśnie tak, kochanie.  
+**Mox:** Przysięgam, jestem w formie.  
+**Heather:** Oczywiście. Masz przecież takie wielkie mięśnie.  
+
+> **🎬 Wstawka wideo:** `HeWorkout13.mp4` (zapętlone)
+
+**Heather:** Ale dawno nie musiałeś gonić podejrzanego, prawda?  
+**Mox:** Jak zgadłaś?  
+**Heather:** Poczuj, jak palą, Mox.  
+
+> **🎬 Wstawka wideo:** `HeWorkout14.mp4` (zapętlone)
+
+**Heather:** Właśnie tak. W górę, do samego końca. Napnij brzuch.  
+**Mox:** Kończą mi się siły.  
+**Heather:** Jeszcze tylko kilka… dla mnie.  
+**Mox:** Jestem wykończony.  
+**Heather:** Dobrze, kochanie. Zamieńmy się.  
+
+> **🎬 Wstawka wideo:** `HeWorkout15.mp4` (zapętlone)
+
+**Mox:** Masz świetną technikę, Heather.  
+**Heather:** Złap mnie za nogi, kochanie.  
+**Mox:** A ty nawet się nie spociłaś.  
+
+> **🎬 Wstawka wideo:** `HeWorkout16.mp4` (zapętlone)
+
+**Heather:** Widzisz? Ćwiczenia ze starszą panią nie są takie trudne, prawda?  
+**Mox:** Gdybym cię nie znała, pomyślałbym, że próbujesz mi zaimponować.  
+**Heather:** Nie pogardzę komplementem.  
+**Mox:** Nie trać koncentracji, młoda damo.  
+**Heather:** Tak, proszę pana.  
+
+---
+
+## Mapa 011 — Siłownia / event 16 / strona 1
+
+**Heather:** Czuję się świetnie! A ty?  
+**Mox:** Fantastycznie! Dzięki za trening, Heather.  
+**Heather:** Dziękuję, kochanie, że do mnie dołączyłeś. Poczułam się jak za dawnych czasów.  
+**Mox:** Przykro mi, że tak długo razem nie ćwiczyliśmy.  
+**Heather:** Wyrosłeś na prawdziwego mężczyznę, Mox.  
+**Heather:** Trudno mi w to uwierzyć. Spójrz tylko na siebie…  
+**Heather:** Nowy dom, silne ciało i wielka kariera…  
+**Heather:** Któregoś dnia ktoś będzie miał z tobą wielkie szczęście.  
+**Mox:** Zawsze we mnie wierzyłaś.  
+**Heather:** Masz talent do pracy detektywa.  
+**Mox:** Za to jedyne mogę podziękować ojcu… Kimkolwiek był.  
+**Heather:** Wiesz, Mox, jeśli kiedykolwiek będziesz czegoś potrzebował, jestem przy tobie.  
+**Mox:** Wiem. Zawsze byłaś…  
+**Heather:** I zawsze będę.  
+**Mox:** Powinienem jechać na farmę. Hannah na mnie czeka.  
+**Heather:** Wciąż nie skończyłeś na farmie?  
+**Mox:** Dziś rano późno zacząłem.  
+**Heather:** No to lepiej ruszaj. Nie chcesz zdenerwować Hannah.  
+**Mox:** Życz mi szczęścia.  
+**Heather:** Powodzenia, kochanie.  
+**Arianna:** Mox. Czuję, że jesteś bardzo blisko z Heather.  
+**Mox:** Znam ją całe życie.  
+**Arianna:** A twój ojciec? Gdzie jest?  
+**Mox:** Nigdy go nie poznałem. Odszedł, zanim się urodziłem.  
+**Arianna:** Przykro mi. Dorastanie musiało być trudne.  
+**Mox:** Byłoby, gdyby nie Heather.  
+**Mox:** Kiedy byłem mały, zawsze myślałem, że uda mi się go odnaleźć.  
+**Mox:** Ale oczywiście… nigdy mi się nie udało.  
+**Arianna:** To bardzo smutna historia.  
+**Mox:** Nie lituj się nade mną. Wyszedłem na ludzi.  
+**Arianna:** I to jak!  
+**Arianna:** Wiem, jak to jest żyć bez ojca.  
+**Mox:** Jak to możliwe? Masz ojca?  
+**Arianna:** Mam… Ale jestem jednym z kilku miliardów jego dzieci. Niewiele czasu spędzamy sam na sam.  
+**Mox:** Aha, rozumiem. No tak, to ma sens.  
+**Arianna:** Życie w Empyreum bardzo różni się od życia na Ziemi.  
+**Mox:** Wygląda na to, że dobrze sobie radzisz.  
+**Arianna:** Pomijając groteskowe otoczenie i paskudną architekturę, ludzie tutaj są całkiem czarujący.  
+**Arianna:** Są tacy uroczy, gdy biegają po ziemi jak małe cherubinki, zanim nauczą się latać.  
+**Mox:** Cieszę się, że możemy cię rozbawić.  
+**Arianna:** Dziękuję, Mox! Jesteś taki łaskawy.  
+
+---

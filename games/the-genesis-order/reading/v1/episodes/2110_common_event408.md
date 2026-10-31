@@ -1,5 +1,7 @@
 ## Common Event 408 — SCN - Andrea Nellie Tub
 
+> **🎬 Wstawka wideo:** `AdNeHT1.mp4` (zapętlone)
+
 **Mox:** Och… To coś, co dostałem od koleżanki.  
 **Andrea:** To eliksir miłosny.  
 **Mox:** Widziałaś już kiedyś taki?  
@@ -8,33 +10,68 @@
 **Andrea:** Ten napój z kolacji, na której spotkaliśmy się we trójkę…  
 **Andrea:** To był jeden ze składników.  
 **Mox:** Serio?!  
+
+> **🎬 Wstawka wideo:** `AdNeHT2.mp4` (zapętlone)
+
 **Andrea:** Musiałam mieć pewność, że ulegnie twojemu urokowi.  
 **Mox:** Co robisz?  
 **Andrea:** Trochę wzmacniam nasze drinki.  
 **Mox:** … To ty wszystko zaplanowałaś?  
 **Andrea:** Wszystko, co robię, jest dokładnie zaplanowane, Mox.  
 **Andrea:** Proszę, napij się.  
+
+> **🎬 Wstawka wideo:** `AdNeHT3.mp4` (zapętlone)
+
 **Mox:** A co z Nellie? Zaraz tu będzie.  
 **Andrea:** To mocny trunek… O tak!  
 **Mox:** Andreo?  
+
+> **🎬 Wstawka wideo:** `AdNeHT4.mp4` (zapętlone)
+
 **Andrea:** Nellie zawsze się spóźnia. Zabawmy się trochę.  
+
+> **🎬 Wstawka wideo:** `AdNeHT5.mp4`
+
+> **🎬 Wstawka wideo:** `AdNeHT6.mp4` (zapętlone)
+
 **Andrea:** Naprawdę wiesz, jak zadowolić kobietę.  
 **Mox:** Aż za dobrze wiem, jak zadowolić kobietę.  
 **Andrea:** Łamiesz zasady, Mox. Żyjesz na krawędzi.  
+
+> **🎬 Wstawka wideo:** `AdNeHT7.mp4` (zapętlone)
+
 **Mox:** Hej… Nie powiedziałbym, że łamię zasady.  
 **Andrea:** Mówi to, pieprząc panią komisarz.  
+
+> **🎬 Wstawka wideo:** `AdNeHT8.mp4` (zapętlone)
+
 **Mox:** Warto.  
 **Andrea:** Czasem, żeby zaznać w życiu czegoś dobrego, trzeba nagiąć zasady.  
+
+> **🎬 Wstawka wideo:** `AdNeHT9.mp4` (zapętlone)
+
 **Mox:** Czemu mam przeczucie, że zaraz poprosisz mnie o coś podejrzanego?  
 **Andrea:** Zamknij się i pozwól mi dojść.  
+
+> **🎬 Wstawka wideo:** `AdNeHT10.mp4` (zapętlone)
+
 **Mox:** Och, tak, Andreo!  
 **Andrea:** Mmm, jaki ładny, młody kutas!  
+
+> **🎬 Wstawka wideo:** `AdNeHT11.mp4` (zapętlone)
+
 **Andrea:** Dawaj! Doprowadź mnie do orgazmu!  
 **Mox:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `AdNeHT12.mp4`
+
 **Andrea:** Dobra robota, Mox. Masz niezłego kutasa.  
 **Mox:** Mogę dostać jeszcze?  
 **Andrea:** Wciąż jesteś głodna?  
 **Nellie:** Czy omija mnie jakaś zabawa?  
+
+> **🎬 Wstawka wideo:** `AdNeHT13.mp4` (zapętlone)
+
 **Andrea:** Dołączysz do nas?  
 **Mox:** Nellie!  
 **Nellie:** Ty napalony draniu.  
@@ -43,9 +80,15 @@
 **Andrea:** I to jak?...  
 **Andrea:** Napij się.  
 **Nellie:** Z przyjemnością.  
+
+> **🎬 Wstawka wideo:** `AdNeHT14.mp4` (zapętlone)
+
 **Mox:** Czekaj! Nellie! To eliksir miłosny!  
 **Nellie:** Fuj! Smakuje jak syrop na kaszel. Próbujecie we dwoje jakiegoś nowego narkotyku?  
 **Andrea:** To ci się spodoba.  
+
+> **🎬 Wstawka wideo:** `AdNeHT15.mp4` (zapętlone)
+
 **Nellie:** O kurwa!  
 **Andrea:** Niezłe, co?  
 **Mox:** Nellie, wszystko w porządku?  
@@ -53,30 +96,63 @@
 **Andrea:** Ostrożnie, kochana. Nie pozwól, żeby uderzyło ci do głowy.  
 **Mox:** Co się dzieje? Jaki jest plan, żeby zniszczyć Gildię?  
 **Andrea:** Co ty na to, Nellie? Gotowa przejść do konkretów?  
+
+> **🎬 Wstawka wideo:** `AdNeHT16.mp4` (zapętlone)
+
 **Nellie:** Nie zostawiaj mnie w niepewności, Mox.  
 **Andrea:** Uznaję to za odmowę…  
+
+> **🎬 Wstawka wideo:** `AdNeHT17.mp4` (zapętlone)
+
 **Andrea:** Bierz go. Zasłużyłaś.  
 **Mox:** Cholera, Nellie. Ten eliksir naprawdę na ciebie podziałał.  
+
+> **🎬 Wstawka wideo:** `AdNeHT18.mp4` (zapętlone)
+
 **Nellie:** Cóż lepiej scementuje nasz zespół niż wspólne pieprzenie?  
 **Andrea:** Zgadzam się w stu procentach.  
 **Mox:** Ale z ciebie dzikuska, Nellie.  
+
+> **🎬 Wstawka wideo:** `AdNeHT19.mp4` (zapętlone)
+
 **Nellie:** Jestem wolną kobietą, Mox.  
 **Andrea:** Dobra robota, panno Cole.  
 **Nellie:** Czuję już świeży powiew wolności.  
 **Mox:** Ja czuję tylko cipkę i chlor.  
+
+> **🎬 Wstawka wideo:** `AdNeHT20.mp4` (zapętlone)
+
 **Andrea:** Wybrałam odpowiednią kobietę do tej roboty. Doprowadzasz Duncana do szału.  
 **Nellie:** Ten skurwiel za to zapłaci.  
 **Mox:** O tak. Ale niegrzeczna cipka. Tasha nie chciałaby wiedzieć, że pieprzę jej matkę.  
+
+> **🎬 Wstawka wideo:** `AdNeHT21.mp4` (zapętlone)
+
 **Nellie:** Ha! Nie znasz Tashy.  
 **Andrea:** Brzmi, jakbyście dobrze się znały.  
 **Mox:** Można tak powiedzieć.  
+
+> **🎬 Wstawka wideo:** `AdNeHT22.mp4` (zapętlone)
+
 **Mox:** O tak! Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `AdNeHT23.mp4` (zapętlone)
+
 **Mox:** Cholera, zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `AdNeHT24.mp4`
+
 **Andrea:** Wygląda na to, że ktoś jest zadowolony.  
 **Nellie:** Ale cholernie gorąco.  
 **Andrea:** Nie pozwól, żeby się zmarnowało.  
+
+> **🎬 Wstawka wideo:** `AdNeHT25.mp4` (zapętlone)
+
 **Nellie:** O kurwa!  
 **Mox:** Cholera!  
+
+> **🎬 Wstawka wideo:** `AdNeHT26.mp4` (zapętlone)
+
 **Andrea:** Nie spodziewałeś się tego, co, Mox?  
 **Nellie:** To się nazywa porządne świętowanie.  
 **Andrea:** Została już tylko jedna rzecz do zrobienia.  

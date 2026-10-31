@@ -1,5 +1,7 @@
 ## Common Event 308 — SCN - Dinner
 
+> **🎬 Wstawka wideo:** `Dinner.mp4` (zapętlone)
+
 **Carol:** Co za wspaniała kolacja.  
 **Hannah:** Tak! Dziękuję, pani Wilson. Świetnie pani gotuje.  
 **Heather:** Dziękuję, drogie panie.  
@@ -68,7 +70,7 @@
 **Mox:** Eee… Chyba mógłbym.  
 **Hannah:** Nawet nie próbuj się wykręcić!  
 **Carol:** Hannah! Zachowuj się.  
-**Heather:** Ciągle próbuję namówić Mox, żeby poszedł ze mną na siłownię. Może Hannah lepiej pójdzie z wyrobieniem mu formy.  
+**Heather:** Ciągle próbuję namówić Moxa, żeby poszedł ze mną na siłownię. Może Hannah lepiej pójdzie z wyrobieniem mu formy.  
 **Mox:** Hej! Jestem w świetnej formie!  
 **Carol:** Owszem. Przystojny z niego facet, jeśli mogę tak powiedzieć.  
 **Hannah:** Mamo! Nie mów tak o nim.  

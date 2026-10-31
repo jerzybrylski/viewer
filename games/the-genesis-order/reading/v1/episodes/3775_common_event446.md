@@ -1,5 +1,7 @@
 ## Common Event 446 — SCN - Lilith Ella
 
+> **🎬 Wstawka wideo:** `LiElHell1.mp4` (zapętlone)
+
 **Mox:** Ello!  
 **Ella:** Jeszcze jej nie zabijaj! Pozwól jej tak jeszcze chwilę!  
 **Lilith:** Nie powstrzymasz mnie, Mox.  
@@ -22,44 +24,92 @@
 **Lilith:** Nauczono cię nie dostrzegać własnego cierpienia. Gdy zaznasz prawdziwej rozkoszy, zrozumiesz.  
 **Mox:** Twój plan się nie uda. Świat tak nie może funkcjonować.  
 **Lilith:** Och, Mox. Czas, żebyś poznał prawdziwą rozkosz.  
+
+> **🎬 Wstawka wideo:** `LiElHell2.mp4`
+
+> **🎬 Wstawka wideo:** `LiElHell3.mp4` (zapętlone)
+
 **Ella:** Może i masz perwersyjne zdolności, ale nie lekceważ dziewczyny z kamerki.  
 **Lilith:** Ach! Co robisz? To… takie przyjemne!  
 **Mox:** Ello!  
 **Ella:** Nie stój tak, Mox. Znalazłam jej słaby punkt.  
 **Mox:** Co mam robić?!  
 **Ella:** Szybko! Ssij jej sutki!  
+
+> **🎬 Wstawka wideo:** `LiElHell4.mp4` (zapętlone)
+
 **Lilith:** Tak! Dotykaj mojego ciała! Od bardzo dawna nie czułam dotyku człowieka!  
+
+> **🎬 Wstawka wideo:** `LiElHell5.mp4` (zapętlone)
+
 **Lilith:** Naprawdę warto cię ocalić. Twój świat przyjmie mnie z otwartymi ramionami.  
+
+> **🎬 Wstawka wideo:** `LiElHell6.mp4` (zapętlone)
+
 **Mox:** Cholera! Nie mogę jej powstrzymać!  
 **Ella:** Tak, kurwa! Łaskocz moją cipkę swoimi demonicznymi mocami!  
+
+> **🎬 Wstawka wideo:** `LiElHell7.mp4` (zapętlone)
+
 **Mox:** Ella! Zrób coś! Ona wypierze nam mózgi!  
 **Ella:** Kurwa! Ale to przyjemne!  
+
+> **🎬 Wstawka wideo:** `LiElHell8.mp4`
+
 **Ella:** Mox! Pieprz jej cipkę! Mam plan!  
+
+> **🎬 Wstawka wideo:** `LiElHell9.mp4` (zapętlone)
+
 **Lilith:** Zerżnij mnie! Zerżnij mnie!  
 **Mox:** Działa!  
 **Ella:** No dalej, Morgan, dasz radę.  
+
+> **🎬 Wstawka wideo:** `LiElHell10.mp4` (zapętlone)
+
 **Lilith:** Jesteś świetny! Naprawdę świetny!  
 **Mox:** Cholera! Ma niesamowitą cipkę!  
 **Ella:** Nie dochodź! Nie przestawaj jej pieprzyć!  
+
+> **🎬 Wstawka wideo:** `LiElHell11.mp4`
+
+> **🎬 Wstawka wideo:** `LiElHell12.mp4` (zapętlone)
+
 **Lilith:** Niech to szlag! Jak ty to zrobiłeś?!  
 **Ella:** Poddaj się, potworze!  
 **Mox:** Nie wiem, jak długo jeszcze wytrzymam!  
+
+> **🎬 Wstawka wideo:** `LiElHell13.mp4` (zapętlone)
+
 **Ella:** No dalej, ojcze! Otwórz wreszcie ten cholerny portal!  
 **Lilith:** Jesteś niezły! Ale nie dorównasz mojemu dotykowi!  
+
+> **🎬 Wstawka wideo:** `LiElHell14.mp4` (zapętlone)
+
 **Ella:** Cholera! Cholera! Ale przyjemnie!  
 **Mox:** Całą siłą powstrzymuję się przed dojściem!  
 **Lilith:** Poddaj się rozkoszy! Tak powinien czuć się każdy człowiek! Jestem twoją matką! Jestem twoją wybawicielką!  
+
+> **🎬 Wstawka wideo:** `LiElHell15.mp4` (zapętlone)
+
 **Mox:** Nie wytrzymam! Chcę tej rozkoszy!  
 **Ella:** Za dużo! Chcę już tylko czuć rozkosz!  
 **Lilith:** Dobrze! Dobrze!  
+
+> **🎬 Wstawka wideo:** `LiElHell16.mp4` (zapętlone)
+
 **Lilith:** Jeszcze tylko chwila, a już nigdy nie zaznasz bólu.  
 **Ella:** Chcę tego! Nie chcę cierpieć!  
 **Mox:** Pomyśl o czymś innym, Mox… Nie pozwól jej wygrać.  
+
+> **🎬 Wstawka wideo:** `LiElHell17.mp4` (zapętlone)
+
 **Lilith:** Nie walcz z tym, Mox. Twoje biodra ci na to nie pozwolą.  
 **Ella:** Ma rację! Nie walczmy z tym!  
 **Mox:** Ech! Próbowaliśmy!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `LiElHell18.mp4`
 
 **Wybór gracza:**
 - Zakończ

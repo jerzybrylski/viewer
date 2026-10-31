@@ -1,21 +1,36 @@
 ## Common Event 315 — SCN - Hannah Legjob
 
+> **🎬 Wstawka wideo:** `HnChBarn1.mp4` (zapętlone)
+
 **Hannah:** No, teraz jest jeszcze fajniej!  
 **Chloe:** Hannah! Jesteś topless!  
 **Mox:** /worry  
 **Hannah:** Ja zdjęłam koszulkę… Mox też zdjął…  
 **Hannah:** Zdejmuj, dziewczyno! Pokaż cycki!  
 **Chloe:** Ja… Ja… Muszę iść.  
+
+> **🎬 Wstawka wideo:** `HnChBarn2.mp4`
+
+> **🎬 Wstawka wideo:** `HnChBarn3.mp4` (zapętlone)
+
 **Hannah:** /curse  
 **Mox:** To był twój wielki plan, Hannah?  
 **Hannah:** Czemu tak boi się pokazać cycki?  
 **Mox:** Chloe jest inna niż ty. Nie rozbierze się do naga tylko dlatego, że ma na to ochotę.  
 **Hannah:** Wy, mieszczuchy, wszyscy jesteście tacy sami. Panikujecie na widok kawałka skóry.  
+
+> **🎬 Wstawka wideo:** `HnChBarn4.mp4` (zapętlone)
+
 **Hannah:** Mox! Co ukrywasz?  
 **Mox:** Ja… Eee…  
 **Hannah:** Stoi ci!  
 **Mox:** Czego się spodziewałaś?  
 **Hannah:** To prawda! Widzisz kawałek skóry i już rzucasz się do akcji!  
+
+> **🎬 Wstawka wideo:** `HnChBarn5.mp4`
+
+> **🎬 Wstawka wideo:** `HnChBarn6.mp4` (zapętlone)
+
 **Hannah:** O rany.  
 **Mox:** Hannah! Po co, do cholery, to zrobiłaś?  
 **Hannah:** Nie żartujesz, co?  
@@ -23,35 +38,62 @@
 **Hannah:** Mama zaraz wróci, a tobie już staje!  
 **Mox:** Daj mi chwilę.  
 **Hannah:** Jesteś beznadziejny, Mox.  
+
+> **🎬 Wstawka wideo:** `HnChBarn7.mp4` (zapętlone)
+
 **Hannah:** No dalej. Wyjmij go.  
 **Mox:** Hannah?  
 **Hannah:** Nie waż się na mnie patrzeć. Zachowaj się dla Chloe. Jasne?  
+
+> **🎬 Wstawka wideo:** `HnChBarn8.mp4` (zapętlone)
+
 **Mox:** To niepotrzebne…  
 **Hannah:** Jeszcze jak jest! Musimy sprawić, żeby ci opadł, zanim mama wróci.  
 **Mox:** Naprawdę to robisz?  
 **Hannah:** Cholera, Mox. Powinieneś był przespać się z Chloe.  
 **Hannah:** Zabije mnie, jeśli się o tym dowie.  
+
+> **🎬 Wstawka wideo:** `HnChBarn9.mp4` (zapętlone)
+
 **Hannah:** Nie patrzysz na mnie, prawda?  
 **Mox:** Ja… Eee… Nie…  
 **Hannah:** Przysięgam na Jezusa, jeśli się we mnie zakochasz, ogłuszę cię.  
+
+> **🎬 Wstawka wideo:** `HnChBarn10.mp4` (zapętlone)
+
 **Hannah:** Co tak długo?  
 **Mox:** Twoje nogi… Są takie gładkie.  
 **Hannah:** Może i jestem dziewczyną ze wsi, ale mam w sobie trochę damy.  
 **Mox:** Eee… Może szybciej.  
 **Hannah:** Robisz się wybredny?  
+
+> **🎬 Wstawka wideo:** `HnChBarn11.mp4` (zapętlone)
+
 **Mox:** O tak!  
 **Hannah:** Nie podglądaj!  
 **Mox:** Po prostu… nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `HnChBarn12.mp4` (zapętlone)
+
 **Mox:** Zaraz dojdę.  
 **Hannah:** No to kończ!  
 **Mox:** Co mam zrobić?  
 **Hannah:** Po prostu dojdź!  
 **Mox:** Na… ciebie?  
 **Hannah:** Nie boję się ubrudzić.  
+
+> **🎬 Wstawka wideo:** `HnChBarn13.mp4`
+
 **Hannah:** Co tu się, na miłość boską, dzieje?!  
 **Mox:** Cholera… Było dobrze.  
 **Hannah:** Gdzie ty to wszystko trzymałeś?  
+
+> **🎬 Wstawka wideo:** `HnChBarn14.mp4`
+
 **Hannah:** Nadal jest ciepłe…  
+
+> **🎬 Wstawka wideo:** `HnChBarn15.mp4`
+
 **Hannah:** Hej, Mox. Popatrz na mnie…  
 **Hannah:** Ale jestem umazana spermą!  
 **Mox:** Hannah!?  

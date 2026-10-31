@@ -1,47 +1,103 @@
 ## Common Event 415 — SCN - Andrea Solo Kitchen
 
+> **🎬 Wstawka wideo:** `AdKthFk1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `AdKthFk2.mp4` (zapętlone)
+
 **Andrea:** To było nieuniknione od dawna, Mox…  
 **Andrea:** Dziś zaczyna się nowy rozdział.  
 **Mox:** Andrea!... Ktoś może nas zobaczyć!  
+
+> **🎬 Wstawka wideo:** `AdKthFk3.mp4` (zapętlone)
+
 **Andrea:** Oddasz mi swojego kutasa.  
 **Mox:** Eee… Tak jest, proszę pani.  
+
+> **🎬 Wstawka wideo:** `AdKthFk4.mp4` (zapętlone)
+
 **Andrea:** Słuchaj moich rozkazów, a zajdziesz daleko.  
 **Mox:** Wykonuję rozkazy, odkąd dołączyłem do komisariatu… Ale mam też własne pomysły.  
 **Andrea:** Nie znasz też wszystkich informacji… Zaufaj mojemu planowi, Mox.  
 **Mox:** Jeśli chcesz mojego kutasa… powiedz mi, czego nie wiem.  
+
+> **🎬 Wstawka wideo:** `AdKthFk5.mp4` (zapętlone)
+
 **Mox:** Hej!  
 **Mox:** Ugh!... Ale ciepło.  
+
+> **🎬 Wstawka wideo:** `AdKthFk6.mp4` (zapętlone)
+
 **Andrea:** Masz zdolności przywódcze. Będę ich od ciebie potrzebować…  
 **Andrea:** Ale, Mox…  
 **Andrea:** Nigdy więcej nie mów mi, co mogę, a czego nie mogę mieć.  
+
+> **🎬 Wstawka wideo:** `AdKthFk7.mp4` (zapętlone)
+
 **Andrea:** O Boże! Czemu to jest takie przyjemne?!  
 **Mox:** Cholera, Andreo! Jesteś taka gorąca i ciasna!  
+
+> **🎬 Wstawka wideo:** `AdKthFk8.mp4` (zapętlone)
+
 **Andrea:** Pieprz mnie, Mox!  
 **Mox:** Cholera!  
+
+> **🎬 Wstawka wideo:** `AdKthFk9.mp4`
+
+> **🎬 Wstawka wideo:** `AdKthFk10.mp4` (zapętlone)
+
 **Andrea:** Dawaj, kochanie! Pieprz moje ciało!  
 **Mox:** Boże, Andreo. Ale jesteś teraz gorąca.  
 **Andrea:** Ty też to czujesz, Mox! Pisze się nasza nowa przyszłość!  
+
+> **🎬 Wstawka wideo:** `AdKthFk11.mp4` (zapętlone)
+
 **Andrea:** Wkrótce rezydencja przejdzie na własność państwa, a dawni stronnicy Gildii znikną.  
 **Mox:** To ty wypędź Gildię, Andreo. Nie ukrywaj tego.  
+
+> **🎬 Wstawka wideo:** `AdKthFk12.mp4` (zapętlone)
+
 **Andrea:** Do jutra niesława Gildii przejdzie do historii.  
 **Mox:** Chcesz po prostu, żeby wszyscy o tym zapomnieli, prawda?  
 **Andrea:** Właśnie.  
+
+> **🎬 Wstawka wideo:** `AdKthFk13.mp4` (zapętlone)
+
 **Andrea:** Czeka nas świetlana przyszłość. Taka, w której nikt nie będzie wspominał o Gildii.  
 **Mox:** Powiedz… Jak wygląda przyszłość?  
 **Andrea:** Piękna, Mox… Piękna i przewidywalna.  
+
+> **🎬 Wstawka wideo:** `AdKthFk14.mp4` (zapętlone)
+
 **Andrea:** Pieprz mnie w tyłek, kochanie.  
 **Mox:** Mówisz poważnie?  
 **Andrea:** Nie mów, że zaniedbasz ten wielki, okrągły tyłeczek.  
 **Mox:** Masz gadane.  
+
+> **🎬 Wstawka wideo:** `AdKthFk15.mp4`
+
+> **🎬 Wstawka wideo:** `AdKthFk16.mp4` (zapętlone)
+
 **Andrea:** Tak! Tak! Pieprz mój tyłek!  
 **Mox:** Ależ pyszny tyłeczek!  
 **Andrea:** Ale z ciebie niegrzeczny, sprośny chłopiec!  
+
+> **🎬 Wstawka wideo:** `AdKthFk17.mp4` (zapętlone)
+
 **Mox:** Jest taki ciasny... i miękki!  
 **Andrea:** Dawaj! Nie hamuj się!  
+
+> **🎬 Wstawka wideo:** `AdKthFk18.mp4` (zapętlone)
+
 **Andrea:** Pieprz mnie! Ach! Tak!  
 **Mox:** O cholera! Ale dobrze!  
+
+> **🎬 Wstawka wideo:** `AdKthFk19.mp4` (zapętlone)
+
 **Andrea:** Spuść się w moim tyłku! Wypełnij go swoją spermą!  
 **Mox:** O Boże! Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `AdKthFk20.mp4`
+
 **Andrea:** Dobry Boże! Co za występ.  
 **Mox:** Cholera! Ale jazda.  
 

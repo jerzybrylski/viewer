@@ -1,5 +1,7 @@
 ## Common Event 462 — SCN - Ending
 
+> **🎬 Wstawka wideo:** `Ending1.mp4`
+
 **Narrator / mówca nieustalony:** Może dopiero wyprawa do Piekła i z powrotem pozwala naprawdę docenić tych, których kochamy.  
 **Narrator / mówca nieustalony:** A może zbliżają nas do siebie poświęcenia, na które się zdobywamy.  
 **Narrator / mówca nieustalony:** To zabawne, jak wszystko może się zmienić w jednej chwili…  
@@ -8,14 +10,26 @@
 **Narrator / mówca nieustalony:** A przeszłość wreszcie może spocząć.  
 **Narrator / mówca nieustalony:** Żaden człowiek nie jest samotną wyspą. Teraz już to rozumiem.  
 **Narrator / mówca nieustalony:** Pozostaje tylko pytanie… Co dalej?  
+
+> **🎬 Wstawka wideo:** `Ending2.mp4`
+
+> **🎬 Wstawka wideo:** `Ending3.mp4` (zapętlone)
+
 **Lillian:** Jaka szkoda…  
 **Lillian:** Prawo się zmienia, a twoi inwestorzy uciekają…  
 **Lillian:** Ludzie tacy jak ty i ja tracą swoje miejsce w tym świecie.  
+
+> **🎬 Wstawka wideo:** `Ending4.mp4`
+
+> **🎬 Wstawka wideo:** `Ending5.mp4` (zapętlone)
+
 **Mówca nieustalony (Bn):** Nie, moja droga… Ten świat potrzebuje właśnie takich ludzi jak my.  
 **Lillian:** Na co więc czekamy, panno Bancroft?  
 **Mówca nieustalony (Bn):** Czekaliśmy na ciebie, Lilith… Czekaliśmy na ciebie.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `Ending6.mp4`
 
 **Wybór gracza:**
 - Zakończ

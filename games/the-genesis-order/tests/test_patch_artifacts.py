@@ -132,7 +132,7 @@ class ReadalongMatchesTrackedTreeTest(unittest.TestCase):
     def test_every_archive_entry_equals_tracked_file(self):
         with zipfile.ZipFile(READALONG_ZIP) as zipped:
             names = zipped.namelist()
-            self.assertEqual(len(names), 4_399)
+            self.assertEqual(len(names), 4_403)
             missing, different = [], []
             for name in names:
                 local = READING / name
@@ -146,7 +146,7 @@ class ReadalongMatchesTrackedTreeTest(unittest.TestCase):
 
     def test_episode_count_matches_archive(self):
         episodes = sorted((READING / 'episodes').glob('*.md'))
-        self.assertEqual(len(episodes), 4_394)
+        self.assertEqual(len(episodes), 4_397)
 
 
 if __name__ == '__main__':

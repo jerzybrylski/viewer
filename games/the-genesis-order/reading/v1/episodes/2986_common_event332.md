@@ -1,5 +1,7 @@
 ## Common Event 332 — SCN - Show Toma to Erica
 
+> **🎬 Wstawka wideo:** `Toma-RightArmC.mp4` (zapętlone)
+
 **Erica:** O cholera! To bożek wiedźmy.  
 **Mox:** Wiesz, co to jest?  
 **Erica:** Oczywiście. Babcia nauczyła mnie wszystkiego o szamanach.  

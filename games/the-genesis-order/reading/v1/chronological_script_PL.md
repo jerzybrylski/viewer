@@ -2,7 +2,11 @@
 
 > To reader’s edition z zachowanymi warunkami i wyborami. Nie jest kanoniczną linią czasu: mapy uporządkowano według najwcześniejszej potencjalnej osiągalności od mapy startowej, bez wykonania warunków, przełączników ani danych runtime. Warianty mogą wystąpić w różnej kolejności albo nie wystąpić w jednym przejściu.
 
+> Wstawki wideo (krótkie klipy, zwykle 1–2 s) oznaczono w miejscu wywołania jako **🎬 Wstawka wideo** z nazwą pliku ze statycznego skanu `www/data`. Znacznik jest wskazówką redakcyjną, nie odtwarzaczem.
+
 ## Mapa 038 — START / event 1 / strona 1
+
+> **🎬 Wstawka wideo:** `Character.mp4` (zapętlone)
 
 **Narrator / mówca nieustalony:** Czy chcesz zmienić imię swojej postaci?  
 
@@ -13,6 +17,8 @@
 ---
 
 ## Common Event 300 — SCN - Opening
+
+> **🎬 Wstawka wideo:** `Opening.mp4`
 
 **Narrator / mówca nieustalony:** Spóźnił się pan, panie Canmore.  
 **Narrator / mówca nieustalony:** Puść ją, doktorze Nucleo! Twoje rządy zła dobiegły końca!  
@@ -4516,25 +4522,59 @@
 
 ## Common Event 354 — SCN - Melissa Masturbation
 
+> **🎬 Wstawka wideo:** `MeOfcMst1.mp4` (zapętlone)
+
 **Mox:** Co do…?  
 **Mox:** Ja pierdolę!...  
 **Mox:** Ta niegrzeczna kobieta… Co za hipokrytka.  
 **Mox:** To jest złoto.  
+
+> **🎬 Wstawka wideo:** `MeOfcMst2.mp4` (zapętlone)
+
 **Mox:** Wygląda na to, że nie tylko ja urządzam sobie seksualne harce w pracy.  
 **Mox:** Jak długo już to robi?  
+
+> **🎬 Wstawka wideo:** `MeOfcMst3.mp4` (zapętlone)
+
 **Mox:** Zaczynałem się zastanawiać, czy Melissa ma w sobie jakąś erotyczną stronę…  
 **Mox:** Jest taką sztywniarą, że zaczynałem myśleć, iż w ogóle nie potrafi się podniecić.  
+
+> **🎬 Wstawka wideo:** `MeOfcMst4.mp4` (zapętlone)
+
 **Mox:** Cholera, ale z niej niegrzeczna dziewczynka!  
 **Mox:** Co ona ogląda?…  
+
+> **🎬 Wstawka wideo:** `MeOfcMst5.mp4` (zapętlone)
+
 **Mox:** Widzę, że patrzy w monitor. Może tylko zajrzę…  
+
+> **🎬 Wstawka wideo:** `MeOfcMst6.mp4` (zapętlone)
+
 **Mox:** O… mój… Boże!  
 **Mox:** Nie wierzę! Naprawdę masturbuje się do wywiadu?  
+
+> **🎬 Wstawka wideo:** `MeOfcMst7.mp4` (zapętlone)
+
 **Mox:** O rany! Ale z niej zboczucha!  
 **Mox:** Co ją tak podnieca? Może ja?... Kimberly?... A może Andrea?  
+
+> **🎬 Wstawka wideo:** `MeOfcMst8.mp4` (zapętlone)
+
 **Mox:** Pociągają ją kobiety? A może…  
 **Mox:** Uważa, że jestem seksowny?  
+
+> **🎬 Wstawka wideo:** `MeOfcMst9.mp4` (zapętlone)
+
 **Mox:** Ale… Przecież mnie nienawidzi. Czemu miałaby się masturbować, myśląc o mnie?  
+
+> **🎬 Wstawka wideo:** `MeOfcMst10.mp4` (zapętlone)
+
 **Mox:** Cholera! Ale się rozkręciła.  
+
+> **🎬 Wstawka wideo:** `MeOfcMst11.mp4`
+
+> **🎬 Wstawka wideo:** `MeOfcMst12.mp4` (zapętlone)
+
 **Melissa:** Mox!?  
 **Mox:** Cholera! Melissa!  
 **Melissa:** Co ty, do cholery, wyprawiasz!? Zamknij drzwi!  
@@ -6060,7 +6100,7 @@
 **Mox:** Nie muszę jej przesłuchiwać. Chcę po prostu z nią porozmawiać.  
 **Melissa:** Jeśli ktoś ma z nią rozmawiać, to David.  
 **Mox:** Co!? On nawet jej nie zna!  
-**David:** Mam mnóstwo pracy. Zgłaszam Mox.  
+**David:** Mam mnóstwo pracy. Zgłaszam Moxa.  
 **Melissa:** A ty jak dobrze ją znasz, Mox?  
 **Mox:** Hej, oboje jesteśmy młodzi i atrakcyjni. Pozwól, że użyję swojego uroku.  
 **Melissa:** Choć strasznie mnie irytujesz, masz trochę racji.  
@@ -6156,6 +6196,9 @@
 > **Warunek strony:** wymaga przedmiotu #112.
 
 **Mox:** Mogę użyć kodu dostępu Melissy, żeby otworzyć akta Gildii Zaćmienia.  
+
+> **🎬 Wstawka wideo:** `Research1.mp4` (zapętlone)
+
 **Mox:** /curse  
 **Mox:** Zapomniałem, potrzebuję też jej PIN-u, żeby otworzyć pliki.  
 **Mox:** Większość ludzi używa numeru domu…  
@@ -6180,33 +6223,64 @@
 
 ## Common Event 324 — SCN - Reseach Duncan
 
+> **🎬 Wstawka wideo:** `Research2.mp4`
+
+> **🎬 Wstawka wideo:** `Research3.mp4` (zapętlone)
+
 **Mox:** /success  
 **Mox:** Cholera. Lepiej się pospieszę. Wygląda na to, że rejestrują moje wejście.  
 **Mox:** Nie wiedziałem, że Gildia ma tylu członków.  
 **Mox:** Aresztowano już kilkaset osób… Kilkaset kolejnych wciąż musi być na wolności.  
+
+> **🎬 Wstawka wideo:** `Research4.mp4`
+
+> **🎬 Wstawka wideo:** `Research5.mp4` (zapętlone)
+
 **Mox:** Czyli to Duncan…  
 **Mox:** Wygląda jak czarny charakter z filmu.  
 **Mox:** Ostatnio widziano go w Cape Vedra? Stamtąd pochodzi Tasha.  
 **Mox:** Z kim, do cholery, powiązany jest Duncan?  
+
+> **🎬 Wstawka wideo:** `Research6.mp4`
+
+> **🎬 Wstawka wideo:** `Research7.mp4` (zapętlone)
+
 **Mox:** Duncan ma całkiem sporo znajomości.  
 **Mox:** Ciekawe, ilu z nich aresztowano. Czy są akta dotyczące tych osób?  
+
+> **🎬 Wstawka wideo:** `Research8.mp4`
+
+> **🎬 Wstawka wideo:** `Research9.mp4` (zapętlone)
+
 **Mox:** Czekaj!…  
 **Mox:** To ona! Jedna z przyjaciółek Tashy.  
 **Mox:** Diana Dimitriadis… Pracuje dla Gildii.  
 **Mox:** Dlatego nie chciały ze mną rozmawiać. Należą do Gildii Zaćmienia.  
 **Mox:** Kłamią? A może naprawdę polują na Duncana?  
 **Mox:** Co one, do cholery, knują?  
+
+> **🎬 Wstawka wideo:** `Research10.mp4`
+
 **Andrea:** Pracujesz w niedzielę?  
+
+> **🎬 Wstawka wideo:** `Research11.mp4` (zapętlone)
+
 **Mox:** Pani komisarz Kimura! Ja tylko… nadrabiałem zaległości.  
 **Andrea:** Powiedz mi, czy detektyw Bhatt dała ci swoje dane dostępowe?  
 **Mox:** Och, eee… Musiałem je pożyczyć.  
 **Andrea:** Pożyczyć?  
+
+> **🎬 Wstawka wideo:** `Research12.mp4` (zapętlone)
+
 **Andrea:** Gildia Zaćmienia?  
 **Mox:** Chciałem się tylko czegoś dowiedzieć.  
 **Andrea:** Założę się, że to bardzo ciekawe.  
 **Mox:** Eee... Tak. Dużo się dowiedziałem.  
 **Andrea:** Planujesz rozwalić Gildię?  
 **Mox:** Nie, nie. Ja tylko…  
+
+> **🎬 Wstawka wideo:** `Research13.mp4` (zapętlone)
+
 **Andrea:** Jak się nazywasz, detektywie?  
 **Mox:** Nazywam się pan Canmore… Mox Canmore.  
 **Andrea:** Podziwiam twój zapał, Mox. Ale to, co zrobiłeś, jest przestępstwem. Wiesz o tym, prawda?  
@@ -6925,20 +6999,49 @@
 
 ## Common Event 319 — SCN - Ella Sexy Dance
 
+> **🎬 Wstawka wideo:** `ElSxDnc1.mp4` (zapętlone)
+
 **Mox:** Co... do... cholery?  
 **Mox:** Filmik taneczny?...  
+
+> **🎬 Wstawka wideo:** `ElSxDnc2.mp4` (zapętlone)
+
 **Mox:** Ale śmieszne.  
+
+> **🎬 Wstawka wideo:** `ElSxDnc3.mp4` (zapętlone)
+
 **Mox:** To właśnie kręci teraz ludzi?  
+
+> **🎬 Wstawka wideo:** `ElSxDnc4.mp4` (zapętlone)
+
 **Mox:** To... kreatywne.  
+
+> **🎬 Wstawka wideo:** `ElSxDnc5.mp4` (zapętlone)
+
 **Mox:** I jest nawet urocza…  
+
+> **🎬 Wstawka wideo:** `ElSxDnc6.mp4` (zapętlone)
+
 **Mox:** Nawet seksowna…  
 **Mox:** Ale ten róż… Dziwne.  
+
+> **🎬 Wstawka wideo:** `ElSxDnc7.mp4` (zapętlone)
+
 **Mox:** Czy ona nie ma na sobie majtek?  
+
+> **🎬 Wstawka wideo:** `ElSxDnc8.mp4` (zapętlone)
+
 **Mox:** Może to żenujące, ale ma świetną równowagę.  
+
+> **🎬 Wstawka wideo:** `ElSxDnc9.mp4` (zapętlone)
+
 **Mox:** Ale, cholera… Jest seksowna.  
 **Mox:** Ech… Nie wierzę, że to oglądam.  
 **Mox:** Powiedzieć jej, że to oglądałem?...  
 **Mox:** Szkoda, że nie wyświetla się jej numer.  
+
+> **🎬 Wstawka wideo:** `ElSxDnc10.mp4` (zapętlone)
+
 **Mox:** Hehe… Urocze.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -11867,6 +11970,8 @@
 
 ## Common Event 306 — SCN - Erica Jon Meet
 
+> **🎬 Wstawka wideo:** `JoChMc.mp4` (zapętlone)
+
 **Mox:** Jestem detektywem Canmore'em. Możesz mówić mi Mox.  
 **Jon:** Cóż, Mox, jeśli chodzi o skargę na hałas, spóźniłeś się jakieś trzy godziny.  
 **Mox:** Szukam Eriki Abraham.  
@@ -11970,7 +12075,7 @@
 **Ella:** Czyli jesteś detektywem!  
 **Mox:** Ello?  
 **Ella:** Wiesz, kim jestem!?  
-**Erica:** Skąd znasz Mox?  
+**Erica:** Skąd znasz Moxa?  
 **Ella:** Nie mogłam nie usłyszeć waszej rozmowy. Bardzo przepraszam, że dziś rano spławiłam cię na siłowni.  
 **Mox:** Jeden z twoich fanów powiedział mi, kim jesteś.  
 **Erica:** Fani?  
@@ -12651,7 +12756,7 @@
 **Ochrona:** …  
 **Paul:** Chodź. Spójrzmy jeszcze raz na nagranie z monitoringu.  
 **Melissa:** Co mam zrobić?  
-**Mox:** Lillian zamierza wszczepić moją spermę do Erici… To rytuał, który dopełni Toma Leolo... Niebezpiecznego magicznego idola.  
+**Mox:** Lillian zamierza wszczepić moją spermę do Erici… To rytuał, który dopełni Tomy Leolo... Niebezpiecznego magicznego idola.  
 **Melissa:** Rytuał? Toma Leolo? Zwolnij… o czym ty mówisz?  
 **Mox:** Melisso, to zabrzmi szaleńczo, ale istnieje artefakt zwany Toma Leolo, który może przywrócić potępione dusze z piekła.  
 **Mox:** A umieszczając moją spermę w cipce Erici, rytuał zostanie dopełniony i uwolni demony na nasz świat.  
@@ -13108,11 +13213,11 @@
 **Mox:** Co słychać, ojcze?  
 **Brian:** Robię sobie przerwę na papierosa.  
 **Mox:** Palisz?  
-**Brian:** Nie… Po prostu łapię trochę świeżego powietrza. Nie mogę rozgryźć tej zagadki z Toma Leolo.  
+**Brian:** Nie… Po prostu łapię trochę świeżego powietrza. Nie mogę rozgryźć tej zagadki z Tomą Leolo.  
 **Mox:** Ojcze… Znalazłem kolejny amulet.  
 **Brian:** O Boże. Jakby sprawy nie były już wystarczająco skomplikowane…  
-**Mox:** Myślisz, że ma związek z Toma Leolo?  
-**Brian:** Nie wiem… Madalyn szukała trzech takich amuletów… To Lillian szukała fragmentów Toma.  
+**Mox:** Myślisz, że ma związek z Tomą Leolo?  
+**Brian:** Nie wiem… Madalyn szukała trzech takich amuletów… To Lillian szukała fragmentów Tomy.  
 **Brian:** Gdzie go znalazłeś?  
 **Mox:** Co dziwne, znalazłem go w domu komisarza.  
 **Brian:** Co zamierzasz zrobić?  
@@ -13132,7 +13237,7 @@
 **Brian:** Wiedzą co nieco o plemionach Casula z Cape Vedra…  
 **Brian:** Oby coś z ich biblioteki nam pomogło.  
 **Mox:** Czego chcesz się dowiedzieć?  
-**Brian:** W naszej księdze jest mowa o Idolu Dusz… Jestem niemal pewien, że chodzi o Toma Leolo.  
+**Brian:** W naszej księdze jest mowa o Idolu Dusz… Jestem niemal pewien, że chodzi o Tomę Leolo.  
 **Brian:** Jeśli znajdziemy księgę Casula, która uzupełni luki, ustalimy, co robi ten posąg i dlaczego Lillian tak bardzo go pragnie.  
 **Mox:** Powodzenia.  
 **Brian:** Jeśli zobaczysz Tashę, powiedz jej, żeby szybko wracała.  
@@ -13306,7 +13411,7 @@
 **Hannah:** Jak chcesz.  
 **Hannah:** Do zobaczenia, siostro i tato!  
 **Brian:** Co za ciekawa dziewczyna.  
-**Judy:** Włączmy telewizor. Chcę zobaczyć program Mox.  
+**Judy:** Włączmy telewizor. Chcę zobaczyć program Moxa.  
 **Mox:** Nie spodziewaj się zbyt wiele. To dość krótki materiał.  
 **Chloe:** Chodź! Chodźmy to obejrzeć.  
 
@@ -13690,6 +13795,8 @@
 
 **Mox:** /success  
 
+> **🎬 Wstawka wideo:** `Fig-Melissa.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -13907,14 +14014,22 @@
 
 ## Common Event 358 — SCN - Hannah Chloe Eat
 
+> **🎬 Wstawka wideo:** `ChHnMcEO1.mp4` (zapętlone)
+
 **Chloe:** Ach!... Ach!  
 **Chloe:** Hannah! Źle to robisz.  
 **Mox:** Co wy dwoje robicie?  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO2.mp4`
+
 **Chloe:** Mox!?  
 **Hannah:** Jak się tu dostałeś?  
 **Mox:** Co się dzieje?  
 **Hannah:** My tylko… uprawiałyśmy seks.  
 **Chloe:** Wcale nie!  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO3.mp4` (zapętlone)
+
 **Chloe:** Hannah… mi pomagała.  
 **Hannah:** Miałam doprowadzić Chloe do orgazmu, ale wtedy wparowałeś.  
 **Mox:** Liżesz ją?  
@@ -13922,9 +14037,15 @@
 **Chloe:** Pokazywała mi tylko… pewną technikę.  
 **Mox:** Naprawdę? A jaka to technika, Hannah?  
 **Hannah:** Już ci pokażę!  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO4.mp4` (zapętlone)
+
 **Chloe:** Ach! Hannah! Przestań!  
 **Mox:** Hannah! Tak nie powinno się tego robić!  
 **Chloe:** Łaskocze! Zejdź ze mnie!  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO5.mp4` (zapętlone)
+
 **Hannah:** Cholera, Chloe! Staram się, jak mogę!  
 **Chloe:** Nie podoba mi się! Robisz to źle.  
 **Hannah:** Skąd wiesz?!  
@@ -13935,13 +14056,22 @@
 **Hannah:** A właśnie, że trudne!  
 **Mox:** Zdejmij spodnie. Pokażę ci, jakie to powinno być uczucie.  
 **Hannah:** Skoro nalegasz.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO6.mp4` (zapętlone)
+
 **Hannah:** Cholera, chłopcze! Naprawdę masz dobrą technikę.  
 **Chloe:** Widzisz, Hannah? Nie robi ci bąbelków językiem.  
 **Hannah:** Przysięgam, myślałam, że trzeba dmuchać.  
 **Chloe:** Nie, nie. Używa języka… Liże cię.  
 **Hannah:** Prosto w łechtaczkę! Ale przyjemnie.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO7.mp4` (zapętlone)
+
 **Chloe:** Wow. Naprawdę się w to wkręcasz.  
 **Hannah:** Cicho! Daj mi się skupić.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO8.mp4`
+
 **Mox:** Widzisz, Chloe?  
 **Chloe:** Łał!  
 **Hannah:** Przyznam, ma talent do smakowania taco.  
@@ -13952,16 +14082,28 @@
 **Hannah:** Pozwól chłopakowi użyć swojej magii! Może poprawi ci humor.  
 **Chloe:** Och… Dobrze.  
 **Mox:** Odpręż się, Chloe. Spodoba ci się.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO9.mp4` (zapętlone)
+
 **Chloe:** Ach! Och!  
 **Hannah:** Podoba ci się?  
 **Chloe:** Ale przyjemnie… Cudowne uczucie.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO10.mp4` (zapętlone)
+
 **Hannah:** Chcę zobaczyć, jak dochodzisz.  
 **Chloe:** Hannah!  
 **Hannah:** Dawaj, Chloe! Dojdź!  
 **Chloe:** O rany!... Ale dobrze!  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO11.mp4`
+
 **Hannah:** Jak było?  
 **Chloe:** Było wspaniale!  
 **Mox:** Widzisz, Hannah? Tak się to robi.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO12.mp4` (zapętlone)
+
 **Mox:** Hannah!  
 **Chloe:** Nie! Hannah! Nie!  
 **Chloe:** Złaź! Przestań!  
@@ -14425,6 +14567,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Hannah.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -14672,7 +14816,7 @@
 **Hannah:** O rany! Co będzie na kolację?  
 **Mox:** Jeśli masz ochotę, urządzamy dziś przyjęcie z Chloe i Judy.  
 **Hannah:** Urządzacie przyjęcie?  
-**Heather:** Dziewczyny będą oglądać Mox w wiadomościach. Dołącz do nich, Hannah.  
+**Heather:** Dziewczyny będą oglądać Moxa w wiadomościach. Dołącz do nich, Hannah.  
 **Carol:** Brzmi świetnie. Chyba nas, starszych pań, nie zaproszono.  
 **Heather:** Och, Carol. Tym razem odpuśćmy.  
 **Hannah:** Ale co będzie na kolację?  
@@ -14791,6 +14935,10 @@
 ---
 
 ## Common Event 425 — SCN - Duncan Throws MC
+
+> **🎬 Wstawka wideo:** `DuMcGnThrow1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `DuMcGnThrow2.mp4` (zapętlone)
 
 **Mox:** Kurwa! Moja noga!  
 **Drab:** Ech! Kto to, do cholery?  
@@ -15099,6 +15247,10 @@
 
 ## Common Event 317 — SCN - Henry Diana Fight
 
+> **🎬 Wstawka wideo:** `DiHrFight1.mp4`
+
+> **🎬 Wstawka wideo:** `DiHrFight2.mp4` (zapętlone)
+
 **Diana:** Czemu za nami idziesz?  
 **Mox:** Właśnie wybierałem się na spacer.  
 **Henry:** Bzdura! Kto cię przysłał?  
@@ -15199,21 +15351,40 @@
 
 ## Common Event 343 — SCN - Madalyn Judy
 
+> **🎬 Wstawka wideo:** `MdJuFrst1.mp4`
+
 **Mox:** Co to było, u licha?  
 **Mox:** Coś jest nie tak.  
+
+> **🎬 Wstawka wideo:** `MdJuFrst2.mp4`
+
 **Mox:** To Judy!...  
 **Mox:** Z kim ona jest?  
+
+> **🎬 Wstawka wideo:** `MdJuFrst3.mp4` (zapętlone)
+
 **Madalyn:** Właśnie tak, siostro. Poddaj się swoim pragnieniom. Nie ma sensu się opierać.  
 **Judy:** Ależ, Matko Przełożona! Muszę pozostać czysta!  
 **Madalyn:** Za późno. Twoja droga z Bogiem kończy się tutaj.  
 **Judy:** Muszę się oprzeć!  
+
+> **🎬 Wstawka wideo:** `MdJuFrst4.mp4` (zapętlone)
+
 **Madalyn:** Już dobrze, siostro. Nie musisz z tym walczyć.  
 **Madalyn:** Twój czas z Bogiem dobiegł końca. Opuścisz to miejsce i znajdziesz nową drogę…  
 **Madalyn:** Drogę pełną pożądania.  
+
+> **🎬 Wstawka wideo:** `MdJuFrst5.mp4` (zapętlone)
+
 **Judy:** Ale, Matko Przełożona… Droga pożądania prowadzi w ciemność.  
 **Madalyn:** Czy kłamałabym?  
 **Judy:** Nie… Matko…  
 **Mox:** Odsuń się od niej!  
+
+> **🎬 Wstawka wideo:** `MdJuFrst6.mp4`
+
+> **🎬 Wstawka wideo:** `MdJuFrst7.mp4` (zapętlone)
+
 **Judy:** Co się ze mną stało?  
 **Mox:** Wszystko w porządku, Judy. Jestem przy tobie.  
 **Judy:** Mox?  
@@ -15320,7 +15491,7 @@
 **Larry:** Ja mógłbym być twoim ochroniarzem, Ello!  
 **Mox:** Ty? Ten facet, który ją nękał?  
 **Larry:** Eee…  
-**Ella:** Och, yyy, to miła propozycja. Ale chyba wolę zostać z Mox.  
+**Ella:** Och, yyy, to miła propozycja. Ale chyba wolę zostać z Moxem.  
 **Ella:** Mox, może zrobimy trochę cardio na rowerkach?  
 **Larry:** Rowerki nie działają jak trzeba. Coś jest z nimi nie tak.  
 **Mox:** W czym problem?  
@@ -15363,6 +15534,8 @@
 
 ## Common Event 344 — SCN - Ella Sparring
 
+> **🎬 Wstawka wideo:** `ElWrkFk1.mp4` (zapętlone)
+
 **Mox:** A propos tego zdjęcia, które mi wysłałaś…  
 **Mox:** Domyślam się, że kryje się za tym coś więcej.  
 **Ella:** Jestem streamerką.  
@@ -15385,6 +15558,9 @@
 **Mox:** Dobrze, rozumiem. Cieszę się, że nie wykorzystasz nagrania.  
 **Ella:** Jestem już rozgrzana. Może przejdziemy do czegoś bardziej fizycznego?  
 **Mox:** Brzmi dobrze.  
+
+> **🎬 Wstawka wideo:** `ElWrkFk2.mp4` (zapętlone)
+
 **Mox:** Czyli interesuje cię tylko streamowanie?  
 **Ella:** Interesuję się też rzeczami, których byś się nie spodziewał.  
 **Mox:** Na przykład?  
@@ -15397,24 +15573,47 @@
 **Ella:** Witaj w XXI wieku, Mox.  
 **Ella:** Hej, widziałeś już kilka moich tanecznych ruchów. Może pokażę ci trochę sztuk walki?  
 **Mox:** To może być ciekawe.  
+
+> **🎬 Wstawka wideo:** `ElWrkFk3.mp4` (zapętlone)
+
 **Mox:** Wow, naprawdę jesteś dobra!  
 **Mox:** Ciekawe tylko, czy poradziłabyś sobie w prawdziwej walce.  
 **Ella:** Ha! Przekonajmy się!  
+
+> **🎬 Wstawka wideo:** `ElWrkFk4.mp4`
+
+> **🎬 Wstawka wideo:** `ElWrkFk5.mp4`
+
 **Mox:** Wygląda na to, że jeszcze sporo musisz się nauczyć.  
 **Ella:** Jaki silny mężczyzna.  
+
+> **🎬 Wstawka wideo:** `ElWrkFk6.mp4` (zapętlone)
+
 **Ella:** A cóż my tu mamy?  
 **Mox:** Ello, co ty wyprawiasz?! Larry jest tuż obok. Może nas zobaczyć!  
 **Ella:** Wiem, właśnie to jest takie ekscytujące.  
 **Ella:** Ciebie to nie podnieca?  
 **Mox:** Nie.  
 **Ella:** Jego twardy kutas mówi co innego. Chyba chce więcej.  
+
+> **🎬 Wstawka wideo:** `ElWrkFk7.mp4` (zapętlone)
+
 **Mox:** Ello, Larry patrzy. Możemy wpaść.  
 **Mox:** Ale to naprawdę przyjemne…  
+
+> **🎬 Wstawka wideo:** `ElWrkFk8.mp4` (zapętlone)
+
 **Ella:** Jestem teraz taka napalona. Musimy to zrobić.  
 **Mox:** Ale z ciebie niegrzeczna dziewczynka.  
 **Ella:** I właśnie to ci się podoba. A teraz mnie pieprz.  
+
+> **🎬 Wstawka wideo:** `ElWrkFk9.mp4`
+
 **Mox:** Och! Ale ciasno.  
 **Ella:** Ach! Tak, kurwa!  
+
+> **🎬 Wstawka wideo:** `ElWrkFk10.mp4` (zapętlone)
+
 **Larry:** Hej, Ello, co się dzieje? Wyglądasz, jakbyś z czymś walczyła.  
 **Ella:** Och… Cześć, Larry.  
 **Ella:** To… nowy rodzaj przysiadu, który testuję.  
@@ -15422,20 +15621,44 @@
 **Ella:** Tak. Teraz wszyscy to robią.  
 **Larry:** Też spróbuję!  
 **Ella:** Śmiało.  
+
+> **🎬 Wstawka wideo:** `ElWrkFk11.mp4` (zapętlone)
+
 **Mox:** Czemu on nie może po prostu dać nam spokoju?  
 **Ella:** Nie odstraszaj mi klientów, Mox.  
+
+> **🎬 Wstawka wideo:** `ElWrkFk12.mp4` (zapętlone)
+
 **Mox:** W każdej chwili możemy zostać przyłapani.  
 **Ella:** O Boże, sama myśl o tym tak mnie podnieca.  
+
+> **🎬 Wstawka wideo:** `ElWrkFk13.mp4` (zapętlone)
+
 **Mox:** Widzę. Właśnie jeszcze bardziej się zacisnęłaś.  
+
+> **🎬 Wstawka wideo:** `ElWrkFk14.mp4` (zapętlone)
+
 **Mox:** Naprawdę dajesz z siebie wszystko.  
 **Ella:** Mmm. Czas porządnie poczuć ten wysiłek. Przyspieszmy.  
+
+> **🎬 Wstawka wideo:** `ElWrkFk15.mp4` (zapętlone)
+
 **Ella:** O kurwa! O kurwa!  
+
+> **🎬 Wstawka wideo:** `ElWrkFk16.mp4` (zapętlone)
+
 **Mox:** Ello, zaraz dojdę. Czas go wyjąć…  
 **Ella:** Nie! Nie przestawaj. Już prawie…  
+
+> **🎬 Wstawka wideo:** `ElWrkFk17.mp4`
+
 **Ella:** Ooo, cholera…  
 **Mox:** Achhh! Co za ulga!  
 **Mox:** Cholera, nie wierzę, że doszedłem w tobie.  
 **Ella:** Mmm, dzięki za nawodnienie. Po takim treningu naprawdę musiałam uzupełnić płyny.  
+
+> **🎬 Wstawka wideo:** `ElWrkFk18.mp4`
+
 **Mox:** Nie martwisz się, że zajdziesz w ciążę?  
 **Ella:** Nie martw się tak.  
 
@@ -15451,72 +15674,119 @@
 
 ## Common Event 314 — SCN - Heather Workout
 
+> **🎬 Wstawka wideo:** `HeWorkout1.mp4` (zapętlone)
+
 **Heather:** Zaczynałam się zastanawiać, czy w ogóle przyjdziesz, Mox.  
 **Mox:** Miło spędzić z tobą trochę czasu, Heather. Dawno powinniśmy to zrobić.  
 **Heather:** Masz ciężką pracę, ale nie możesz zaniedbywać zdrowia.  
 **Mox:** No więc, co dziś robimy?  
 **Heather:** Najpierw rozciągnijmy plecy.  
 **Mox:** Będę robił to, co ty.  
+
+> **🎬 Wstawka wideo:** `HeWorkout2.mp4` (zapętlone)
+
 **Heather:** Masz bardzo spięte mięśnie. Dobrze sypiasz?  
 **Mox:** Chyba ostatnio trochę się stresuję.  
 **Heather:** Co się stało?  
 **Mox:** To przez moją szefową. Cokolwiek robię, nie potrafię jej zaimponować.  
 **Heather:** Jesteś utalentowanym detektywem, Mox. W końcu to dostrzeże.  
+
+> **🎬 Wstawka wideo:** `HeWorkout3.mp4` (zapętlone)
+
 **Mox:** Chcę robić więcej, ale ona stoi mi na drodze.  
 **Heather:** Cierpliwości, Mox. Jesteś jeszcze młody.  
 **Mox:** Nie wydaje mi się, żeby plecy się rozluźniały.  
 **Heather:** Odwróć się, spróbujmy czegoś innego.  
+
+> **🎬 Wstawka wideo:** `HeWorkout4.mp4` (zapętlone)
+
 **Heather:** Jak się czujesz, kochanie?  
 **Mox:** Lepiej.  
 **Heather:** Jesteś oddany swojej pracy. Szefowa powinna to w tobie docenić.  
 **Mox:** Też tak uważam. Ale jest strasznie upierdliwa.  
 **Heather:** Nie pozwól, żeby cię zdołowała.  
+
+> **🎬 Wstawka wideo:** `HeWorkout5.mp4` (zapętlone)
+
 **Mox:** Dziękuję, Heather.  
 **Heather:** Za co?  
 **Mox:** Za to, że zawsze we mnie wierzysz.  
 **Heather:** Jestem z ciebie bardzo dumna. Wyrósł z ciebie porządny facet.  
 **Mox:** Tak myślisz?  
 **Heather:** Bez wątpienia.  
+
+> **🎬 Wstawka wideo:** `HeWorkout6.mp4` (zapętlone)
+
 **Mox:** Cholera, Heather. Jesteś taka rozciągnięta.  
 **Heather:** Gdybyś chodził na jogę, pewnie też poprawiłbyś swoją elastyczność.  
 **Mox:** Joga nie jest wystarczająco męska.  
 **Heather:** Co jest, Mox? Boisz się zajęć pełnych ładnych kobiet?  
+
+> **🎬 Wstawka wideo:** `HeWorkout7.mp4` (zapętlone)
+
 **Mox:** Może przydałoby mi się takie rozproszenie.  
 **Heather:** Jak facet taki jak ty może tak długo nie mieć dziewczyny?  
 **Mox:** Znasz mnie lepiej niż ktokolwiek, Heather…  
 **Mox:** Po prostu nie chcę tych wszystkich komplikacji.  
+
+> **🎬 Wstawka wideo:** `HeWorkout8.mp4` (zapętlone)
+
 **Heather:** To nieprawda, Mox. Potrafisz sobie z tym poradzić.  
 **Mox:** Chyba sam nie wiem, czego chcę.  
 **Heather:** Jesteś młodym mężczyzną i masz swoje potrzeby. Nie możesz bez przerwy tylko pracować.  
+
+> **🎬 Wstawka wideo:** `HeWorkout9.mp4` (zapętlone)
+
 **Mox:** Potrzeby?  
 **Heather:** Wiesz, co mam na myśli.  
 **Mox:** Heather!?  
 **Heather:** Jesteś już dorosły. Nie musimy owijać w bawełnę.  
 **Mox:** Próbujesz mnie zawstydzić, żebym… poszedł z tobą do łóżka?  
 **Heather:** Nie wygłupiaj się.  
+
+> **🎬 Wstawka wideo:** `HeWorkout10.mp4` (zapętlone)
+
 **Heather:** Wciąż jesteś tym samym chłopcem, którego znałam tyle lat temu.  
 **Heather:** Zawsze taki samotny wilk.  
 **Mox:** Rozumiem, rozumiem…  
 **Heather:** Zawsze wolałeś spędzać czas z Chloe i ze mną, niż poznawać nowych przyjaciół.  
+
+> **🎬 Wstawka wideo:** `HeWorkout11.mp4` (zapętlone)
+
 **Mox:** Nie miałem typowego życia rodzinnego, kiedy dorastałem…  
 **Mox:** Może właśnie dlatego jestem dziś takim człowiekiem.  
 **Heather:** Jesteś idealny taki, jaki jesteś, Mox. Wiem, że podejmiesz właściwe decyzje.  
 **Mox:** Nie wiem, jak ty to robisz, Heather, ale nogi mi płoną!  
 **Heather:** Zmieńmy ćwiczenie. Co powiesz na brzuszki?  
+
+> **🎬 Wstawka wideo:** `HeWorkout12.mp4` (zapętlone)
+
 **Heather:** Właśnie tak, kochanie.  
 **Mox:** Przysięgam, jestem w formie.  
 **Heather:** Oczywiście. Masz przecież takie wielkie mięśnie.  
+
+> **🎬 Wstawka wideo:** `HeWorkout13.mp4` (zapętlone)
+
 **Heather:** Ale dawno nie musiałeś gonić podejrzanego, prawda?  
 **Mox:** Jak zgadłaś?  
 **Heather:** Poczuj, jak palą, Mox.  
+
+> **🎬 Wstawka wideo:** `HeWorkout14.mp4` (zapętlone)
+
 **Heather:** Właśnie tak. W górę, do samego końca. Napnij brzuch.  
 **Mox:** Kończą mi się siły.  
 **Heather:** Jeszcze tylko kilka… dla mnie.  
 **Mox:** Jestem wykończony.  
 **Heather:** Dobrze, kochanie. Zamieńmy się.  
+
+> **🎬 Wstawka wideo:** `HeWorkout15.mp4` (zapętlone)
+
 **Mox:** Masz świetną technikę, Heather.  
 **Heather:** Złap mnie za nogi, kochanie.  
 **Mox:** A ty nawet się nie spociłaś.  
+
+> **🎬 Wstawka wideo:** `HeWorkout16.mp4` (zapętlone)
+
 **Heather:** Widzisz? Ćwiczenia ze starszą panią nie są takie trudne, prawda?  
 **Mox:** Gdybym cię nie znał, pomyślałbym, że próbujesz mi zaimponować.  
 **Heather:** Nie pogardzę komplementem.  
@@ -15688,6 +15958,8 @@
 
 ## Common Event 328 — SCN - Larry Workout
 
+> **🎬 Wstawka wideo:** `LaWrkOut1.mp4` (zapętlone)
+
 **Larry:** Popracuj jeszcze nad techniką.  
 **Mox:** Jak masz na imię?  
 **Larry:** Larry.  
@@ -15701,6 +15973,9 @@
 **Larry:** Ma na imię Ella.  
 **Mox:** Mieszka w tym apartamentowcu?  
 **Larry:** Tak. Niedaleko Dick’s.  
+
+> **🎬 Wstawka wideo:** `LaWrkOut2.mp4` (zapętlone)
+
 **Mox:** Dziwny zbieg okoliczności. Nikt nie powinien wiedzieć, gdzie mieszka Ella.  
 **Larry:** /shock  
 **Larry:** Myślałem, że jej nie znasz.  
@@ -15862,21 +16137,36 @@
 
 ## Common Event 367 — SCN - Ella Diana Tasha Fight
 
+> **🎬 Wstawka wideo:** `ElTaDiFgt1.mp4` (zapętlone)
+
 **Mox:** Uważajcie, oboje.  
 **Tasha:** Nigdy nie uważam.  
 **Ella:** W takim razie to będzie łatwe.  
 **Diana:** No dalej.  
+
+> **🎬 Wstawka wideo:** `ElTaDiFgt2.mp4`
+
+> **🎬 Wstawka wideo:** `ElTaDiFgt3.mp4` (zapętlone)
+
 **Ella:** Mówiłam, że sama sobie poradzę.  
 **Tasha:** Szczęśliwy traf!  
 **Diana:** Nieźle. Nie spodziewałam się tego.  
 **Mox:** No już, Tasho. Nie złość się. Ona dużo trenowała.  
 **Diana:** Może zmierzysz się z kimś, kto ma trochę… doświadczenia.  
 **Ella:** No to dawaj, staruszko.  
+
+> **🎬 Wstawka wideo:** `ElTaDiFgt4.mp4` (zapętlone)
+
 **Diana:** Gdzie trenowałaś?  
 **Ella:** Wszystkiego, co umiem, nauczyła mnie matka…  
 **Ella:** A ty?  
 **Diana:** Tam, skąd pochodzę, nie było miejsca na porażkę.  
 **Ella:** Pokaż, co potrafisz.  
+
+> **🎬 Wstawka wideo:** `ElTaDiFgt5.mp4`
+
+> **🎬 Wstawka wideo:** `ElTaDiFgt6.mp4` (zapętlone)
+
 **Diana:** Nieźle.  
 **Ella:** Jak to zrobiłaś?  
 **Diana:** Doświadczenie, dziewczynko.  
@@ -16038,11 +16328,22 @@
 
 ## Common Event 303 — SCN - Heather Home
 
+> **🎬 Wstawka wideo:** `HeHomesale1.mp4` (zapętlone)
+
 **Heather:** No już, weź to, kochanie. Jest twoje.  
+
+> **🎬 Wstawka wideo:** `HeHomesale2.mp4` (zapętlone)
+
 **Mox:** Dzięki, Heather. Tak wiele dla mnie zrobiłaś.  
 **Heather:** Oczywiście, kochanie. Jesteś moim dużym chłopcem.  
+
+> **🎬 Wstawka wideo:** `HeHomesale3.mp4` (zapętlone)
+
 **Heather:** O! Ale masz mięśnie!  
 **Mox:** Cholera! Nie oszczędzasz się, co?  
+
+> **🎬 Wstawka wideo:** `HeHomesale4.mp4` (zapętlone)
+
 **Heather:** Powiedziałabym, że całkiem dobrze o siebie dbam. Co ty na to?  
 **Mox:** Jak zawsze piękna.  
 **Heather:** To mój chłopak.  
@@ -16468,7 +16769,7 @@
 **Erica:** Nie mogłam znaleźć spodenek.  
 **Chloe:** Hannah! Powinniśmy byli najpierw zadzwonić!  
 **Hannah:** Skąd miałam wiedzieć, że Mox ma gościa?  
-**Erica:** Cześć, Hannah. Nie przejmuj się mną. Właśnie z Mox wstaliśmy.  
+**Erica:** Cześć, Hannah. Nie przejmuj się mną. Właśnie z Moxem wstaliśmy.  
 **Hannah:** Ty cwaniaku. Nie mówiłeś, że masz dziewczynę.  
 **Mox:** To nie tak, jak wygląda! Prowadziłem śledztwo w sprawie Madalyn.  
 **Chloe:** W samej bieliźnie?  
@@ -16707,6 +17008,38 @@
 - Pieszczoty ręczne
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ha-HJ1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ha-HJ8O2.mp4`
+
 ---
 
 ## Common Event 265 — APK DISABLE
@@ -16721,6 +17054,38 @@
 - Mineta
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Er-EO1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-EO8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Er-EO8O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 4 / strona 3
@@ -16728,6 +17093,38 @@
 **Wybór gracza:**
 - Pozycja 69
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-El-SN1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-SN8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-El-SN8O2.mp4`
 
 ---
 
@@ -16737,6 +17134,38 @@
 - Stymulacja
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ca-St1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-St8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-St8O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 4 / strona 5
@@ -16744,6 +17173,42 @@
 **Wybór gracza:**
 - Pieszczoty waginalne
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Li-PP1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PP9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Li-PP9O2.mp4`
 
 ---
 
@@ -16753,6 +17218,34 @@
 - Pieszczoty stopami
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ju-Fj1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ju-Fj7O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 4 / strona 7
@@ -16760,6 +17253,34 @@
 **Wybór gracza:**
 - Pieszczoty analne
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ne-AP7O2.mp4`
 
 ---
 
@@ -16769,6 +17290,46 @@
 - Pieszczoty oralne
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ki-OF1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF5.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF5O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF10.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-OF10O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 4 / strona 9
@@ -16776,6 +17337,34 @@
 **Wybór gracza:**
 - Pozycja 69
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Me-Sn7O2.mp4`
 
 ---
 
@@ -16785,6 +17374,34 @@
 - Piersi i usta
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ad-TM1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ad-TM7O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 4 / strona 11
@@ -16793,6 +17410,46 @@
 - Pieszczoty ustami
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ch-MF1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF5.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF5O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF10.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ch-MF10O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 4 / strona 12
@@ -16800,6 +17457,50 @@
 **Wybór gracza:**
 - Przyjemność oralna
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-He-OP1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP6.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-OP6O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-OP7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP10.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP10O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-OP11.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-OP11O2.mp4`
 
 ---
 
@@ -16810,6 +17511,42 @@
 **Wybór gracza:**
 - Na górze
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT1O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT2O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT3O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT4O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT5O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT6O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT7O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT8O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ar-OT9O2` (pliku nie ma w inwentarzu tej kopii)
 
 ---
 
@@ -17111,6 +17848,8 @@
 
 ## Common Event 321 — SCN - Erica Sex
 
+> **🎬 Wstawka wideo:** `ErMcFstSxPre1.mp4` (zapętlone)
+
 **Mox:** Co to za świństwo?  
 **Erica:** To piwo, Mox.  
 **Mox:** Wiem… Po prostu nie znam tej marki.  
@@ -17157,6 +17896,9 @@
 **Erica:** Może zrobię z tobą coś innego.  
 **Mox:** Co masz na myśli?  
 **Erica:** Rozgośćmy się wygodniej.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSxPre2.mp4` (zapętlone)
+
 **Erica:** Ale wygodne łóżko!  
 **Mox:** Tylko niczego na nie nie wylej.  
 **Erica:** Och, Mox. To łóżko i tak zaraz będzie mokre.  
@@ -17189,66 +17931,136 @@
 **Mox:** Połóż się, Erico.  
 **Erica:** Zerżniesz mnie porządnie, przystojniaku?  
 **Mox:** O rany.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSxPre3.mp4` (zapętlone)
+
 **Mox:** No… I co ja mam teraz, do diabła, zrobić?  
 **Mox:** Agh… Czemu tyle wypiłem? Głowa mi pęka!  
 **Mox:** Może położę się na chwilę… i…  
 **Mox:** …  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx1.mp4` (zapętlone)
+
 **Mox:** Co?!  
 **Mox:** Eriko?...  
 **Mox:** Ech, boli mnie głowa…  
 **Mox:** Ale mój kutas czuje się świetnie.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx2.mp4` (zapętlone)
+
 **Erica:** Masz słabą głowę, Mox.  
 **Mox:** Tobie też dzień dobry.  
 **Erica:** Chyba wczoraj trochę przesadziliśmy z alkoholem.  
 **Mox:** Dzięki, że mnie nie okradłaś.  
 **Erica:** Twój wielki kutas pokrzyżował moje plany.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx3.mp4` (zapętlone)
+
 **Mox:** Cholera, jesteś piękna.  
 **Erica:** Nawet na trzeźwo?  
 **Mox:** Twoja cipka jest mokra…  
 **Mox:** Czujesz to łaskotanie?  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx4.mp4` (zapętlone)
+
 **Erica:** Mam ochotę na kutasa w cipce.  
 **Mox:** Jestem cały twój, kochanie.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErMcFstSx6.mp4`
+
+> **🎬 Wstawka wideo:** `ErMcFstSx7.mp4` (zapętlone)
+
 **Erica:** Och! Ale dobrze.  
 **Mox:** Jesteś ciasna, Erico.  
 **Erica:** A ty jesteś twardy jak skała.  
 **Mox:** Minęło trochę czasu.  
 **Erica:** U mnie też minęło już za dużo czasu.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx8.mp4` (zapętlone)
+
 **Erica:** Cieszę się, że mam przy sobie silnego detektywa, który mnie ochroni.  
 **Mox:** Właśnie tak, Erico… Usiądź na tym kutasie.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx9.mp4` (zapętlone)
+
 **Erica:** Jest ci dobrze?  
 **Mox:** Idealnie. Nie przestawaj.  
 **Erica:** O tak.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx10.mp4` (zapętlone)
+
 **Erica:** Pieprz mnie, Mox! Pieprz mnie!  
 **Mox:** Tak! Wchodź głęboko!  
 **Erica:** Trafiasz dokładnie w to miejsce.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx11.mp4` (zapętlone)
+
 **Mox:** Boże, masz świetny tyłek!  
 **Erica:** Jest twój, kochanie!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx12.mp4` (zapętlone)
+
 **Mox:** Tak bardzo cię pragnę!  
 **Erica:** Bierz mnie! Rżnij mnie mocno!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx13.mp4` (zapętlone)
+
 **Mox:** Kurwa, tak! Ale mokra!  
 **Erica:** Rżnij mnie! Wchodź głęboko!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx14.mp4` (zapętlone)
+
 **Mox:** Ściśnij mnie mocno, Erico!  
 **Erica:** Och! Ach! Jestem taka wypełniona!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx15.mp4` (zapętlone)
+
 **Mox:** Właśnie tak, kochanie. Bierz wszystko!  
 **Erica:** Tak! Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx16.mp4` (zapętlone)
+
 **Mox:** Idealnie!  
 **Erica:** Rżnij mnie mocno!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx17.mp4` (zapętlone)
+
 **Erica:** O kurwa!  
 **Mox:** Dojdź dla mnie, Erico!  
 **Erica:** Tak!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx18.mp4` (zapętlone)
+
 **Erica:** Tak ostro! Uwielbiam to!  
 **Mox:** Dojdź, kochanie!  
 **Erica:** Dochodzę! Dochodzę!  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx19.mp4`
+
 **Mówca nieustalony (Ec):** Cholera!... Mox.  
 **Mox:** Daj mi ten tyłek.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx20.mp4` (zapętlone)
+
 **Erica:** Och, chyba wiem, co lubisz.  
 **Mox:** Ale dobrze!  
 **Erica:** No dalej, kochanie. Poczuj te gładkie pośladki na swoim kutasie.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx21.mp4` (zapętlone)
+
 **Mox:** Kurwa! Co za ciało!  
 **Erica:** Właśnie tak, Mox. Dawaj.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx22.mp4` (zapętlone)
+
 **Erica:** Zalej mnie spermą.  
 **Mox:** O, niegrzeczna dziewczynko. Chcesz mojej spermy?  
 **Erica:** Proszę! Chcę poczuć ją na swoim ciele.  
+
+> **🎬 Wstawka wideo:** `ErMcFstSx23.mp4`
+
 **Mox:** O cholera.  
 **Erica:** Cholera, Mox. Ale dużo spermy.  
 
@@ -17280,6 +18092,42 @@
 - Obciąganie
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Er-BJ1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Er-BJ9O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 15 / strona 2
@@ -17287,6 +18135,38 @@
 **Wybór gracza:**
 - Obciąganie
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Hn-BJ8O2.mp4`
 
 ---
 
@@ -17296,6 +18176,42 @@
 - Seks podczas lap dance’u
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-El-LpFk1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-El-LpFk9O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 15 / strona 4
@@ -17303,6 +18219,46 @@
 **Wybór gracza:**
 - Seks oralny
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW5.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW5O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW10.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-MW10O2.mp4`
 
 ---
 
@@ -17312,6 +18268,38 @@
 - Seks waginalny
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Li-PS1.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Li-PS1O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Li-PS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-PS8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Li-PS8O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 15 / strona 6
@@ -17319,6 +18307,34 @@
 **Wybór gracza:**
 - Seks waginalny
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ne-PS7O2.mp4`
 
 ---
 
@@ -17328,6 +18344,38 @@
 - Obciąganie
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ju-Bj1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ju-Bj8O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 15 / strona 8
@@ -17335,6 +18383,34 @@
 **Wybór gracza:**
 - Seks waginalny
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-PS7O2.mp4`
 
 ---
 
@@ -17344,6 +18420,34 @@
 - Seks waginalny
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Me-PS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-PS7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Me-PS7O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 15 / strona 10
@@ -17351,6 +18455,34 @@
 **Wybór gracza:**
 - Seks waginalny
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ad-PS7O2.mp4`
 
 ---
 
@@ -17360,6 +18492,34 @@
 - Seks waginalny
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ch-PS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ch-PS7O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 15 / strona 12
@@ -17367,6 +18527,34 @@
 **Wybór gracza:**
 - Seks waginalny
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-He-PS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PS7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-PS7O2.mp4`
 
 ---
 
@@ -17378,6 +18566,66 @@
 - Na dole
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ar-Bo1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo1O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo2O2` (pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo3O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo4O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo5O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo6O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo7O2` (pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo8O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo9O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo10.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo10O2` (pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo11.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo11O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo12.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo12O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo13.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo13O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo14.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo14O2` (zapętlone, pliku nie ma w inwentarzu tej kopii)
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo15.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ar-Bo15O2` (pliku nie ma w inwentarzu tej kopii)
+
 ---
 
 ## Mapa 028 — Sypialnia / event 16 / strona 1
@@ -17385,6 +18633,38 @@
 **Wybór gracza:**
 - Seks waginalny
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Er-PS1.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Er-PS1O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Er-PS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-PS8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Er-PS8O2.mp4`
 
 ---
 
@@ -17394,6 +18674,42 @@
 - Podwójna penetracja
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-El-DP1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-DP9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-El-DP9O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 16 / strona 3
@@ -17401,6 +18717,42 @@
 **Wybór gracza:**
 - Seks waginalny
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Hn-PS9O2.mp4`
 
 ---
 
@@ -17410,6 +18762,38 @@
 - Na jeźdźca
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ca-PS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS7O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-PS8O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 16 / strona 5
@@ -17417,6 +18801,26 @@
 **Wybór gracza:**
 - Rżnięcie w gardło
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Li-TF1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TF1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TF2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TF2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TF3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TF3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TF4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TF4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TF7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Li-TF7O2.mp4`
 
 ---
 
@@ -17426,6 +18830,42 @@
 - Uczta dla dziurek
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ne-HB1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ne-HB9O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 16 / strona 7
@@ -17433,6 +18873,46 @@
 **Wybór gracza:**
 - Anal
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Ju-An1.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ju-An1O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ju-An2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-An10.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ju-An10O2.mp4`
 
 ---
 
@@ -17442,6 +18922,42 @@
 - Anal
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ki-An1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-An2O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-An3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-An9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-An9O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 16 / strona 9
@@ -17449,6 +18965,42 @@
 **Wybór gracza:**
 - Seks analny
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS2O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ad-AS9O2.mp4`
 
 ---
 
@@ -17458,6 +19010,42 @@
 - Seks analny
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ch-AS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS2O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ch-AS9O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 16 / strona 11
@@ -17465,6 +19053,42 @@
 **Wybór gracza:**
 - Seks analny
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Me-AS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Me-AS2O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Me-AS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-AS9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Me-AS9O2.mp4`
 
 ---
 
@@ -17474,6 +19098,42 @@
 - Seks analny
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-He-AS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-AS2O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-AS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-AS9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-AS9O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 17 / strona 1
@@ -17481,6 +19141,42 @@
 **Wybór gracza:**
 - Seks analny
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Er-An1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Er-An2O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Er-An3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-An9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Er-An9O2.mp4`
 
 ---
 
@@ -17490,6 +19186,38 @@
 - Seks analny
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ca-AS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS3.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS3O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-AS8O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 17 / strona 3
@@ -17497,6 +19225,42 @@
 **Wybór gracza:**
 - Seks waginalny
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS2O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ju-PS9O2.mp4`
 
 ---
 
@@ -17506,6 +19270,42 @@
 - Seks analny
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Li-AS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Li-AS2O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Li-AS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-AS9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Li-AS9O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 17 / strona 5
@@ -17513,6 +19313,34 @@
 **Wybór gracza:**
 - Mocne rżnięcie
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-El-PT1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-PT7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-El-PT7O2.mp4`
 
 ---
 
@@ -17522,6 +19350,42 @@
 - Seks analny
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Hn-AS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS2O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS9.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Hn-AS9O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 17 / strona 7
@@ -17529,6 +19393,58 @@
 **Wybór gracza:**
 - Uwielbienie cipki
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-He-PW1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW3.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-PW3O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-PW4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-PW8O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-PW9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW10.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW10O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW11.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW11O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW12.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW12O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-PW13.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-PW13O2.mp4`
 
 ---
 
@@ -17538,6 +19454,46 @@
 - Smakowanie cipki
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ne-PT1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT5.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT5O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT10.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ne-PT10O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 17 / strona 9
@@ -17545,6 +19501,46 @@
 **Wybór gracza:**
 - Niegrzeczna dziewczyna
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG5.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG5O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG10.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-DG10O2.mp4`
 
 ---
 
@@ -17554,6 +19550,46 @@
 - Dwie dziurki
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Ch-TH1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH5.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH5O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH10.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ch-TH10O2.mp4`
+
 ---
 
 ## Mapa 028 — Sypialnia / event 17 / strona 11
@@ -17561,6 +19597,38 @@
 **Wybór gracza:**
 - Sperma na deser
 - Anuluj
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS3.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS3O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ad-CS8O2.mp4`
 
 ---
 
@@ -17570,9 +19638,39 @@
 - Pozycja na jeźdźca
 - Anuluj
 
+> **🎬 Wstawka wideo:** `BC-Me-CG1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-CG7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Me-CG7O2.mp4`
+
 ---
 
 ## Common Event 379 — SCN - Judy MC Bedroom
+
+> **🎬 Wstawka wideo:** `JuDmDrm1.mp4` (zapętlone)
 
 **Mox:** No już, Judy. Nie obwiniaj się. To moja wina.  
 **Judy:** Nigdy wcześniej nie czułam czegoś takiego, Mox.  
@@ -17586,13 +19684,24 @@
 **Judy:** Dopóki nie przekroczymy granicy.  
 **Mox:** Powiedz, czego pragniesz.  
 **Judy:** Pokaż mi, Mox… Ufam ci.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuDmDrm3.mp4` (zapętlone)
+
 **Mox:** To, co czujesz, to pożądanie, ale nie musisz mu ulegać.  
 **Judy:** Pomożesz mi?  
 **Mox:** Oczywiście.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm4.mp4` (zapętlone)
+
 **Judy:** O, Mox!  
 **Mox:** Rozluźnij się, siostro Judy. Pomogę ci pozbyć się tych uczuć.  
 **Judy:** Twój dotyk jest cudowny.  
 **Mox:** W porządku. Po prostu pozwól sobie to poczuć.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm5.mp4` (zapętlone)
+
 **Judy:** To takie przyjemne. Chcę więcej.  
 **Mox:** Kiedy dojdziesz, poczujesz się lepiej.  
 **Judy:** A co z tobą?  
@@ -17601,6 +19710,9 @@
 **Mox:** Na pewno?  
 **Judy:** Ja… chcę to zobaczyć.  
 **Mox:** Dobrze, siostro Judy. Zróbmy to razem.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm6.mp4` (zapętlone)
+
 **Judy:** Uwielbiam na to patrzeć.  
 **Mox:** Jest bardzo twardy.  
 **Judy:** Ale ciepło.  
@@ -17608,22 +19720,37 @@
 **Judy:** Tak, Mox. Ufam ci.  
 **Mox:** Połóż się, siostro Judy.  
 **Judy:** Dobrze.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm7.mp4` (zapętlone)
+
 **Judy:** Mox! Ach!  
 **Mox:** Spokojnie. Rozluźnij się. Nie włożę tego do środka.  
 **Judy:** Chcę go w sobie… Ale nigdy bym się na to nie zdobyła.  
 **Mox:** Wiem. To naturalne. Ja też chcę włożyć go w ciebie…  
 **Mox:** Ale możemy zbliżyć się do granicy, nie przekraczając jej.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm8.mp4` (zapętlone)
+
 **Judy:** Tak! Nie przestawaj mnie pocierać!  
 **Mox:** Sprawiasz, że pulsuję.  
 **Judy:** Mrowią mnie nogi!  
 **Mox:** Poczuj to, siostro.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm9.mp4` (zapętlone)
+
 **Judy:** Tylko… odrobinkę.  
 **Mox:** Rozluźnij się.  
 **Judy:** Tylko troszeczkę.  
 **Mox:** Wszystko w porządku?  
 **Judy:** Możesz… Ach! Ach!... Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `JuDmDrm10.mp4`
+
 **Judy:** Doszłam, Mox.  
 **Mox:** I to jak.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm11.mp4` (zapętlone)
+
 **Judy:** Masz rację. Czuję się o wiele lepiej.  
 **Mox:** Wszystko będzie dobrze.  
 **Judy:** A co z tobą?  
@@ -17634,28 +19761,46 @@
 **Mox:** Naprawdę?  
 **Judy:** Połóż się, Mox.  
 **Mox:** Nie mogę się doczekać, żeby zobaczyć, co planujesz.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm12.mp4` (zapętlone)
+
 **Mox:** Co za piękny widok.  
 **Judy:** Twój penis wciąż jest taki ciepły w dotyku.  
 **Mox:** Możesz go pieścić. Dzięki temu dojdę.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm13.mp4` (zapętlone)
+
 **Judy:** Czy dotykanie mojego tyłka pomaga?  
 **Mox:** O tak. Idealnie.  
 **Judy:** Lubisz tyłki?  
 **Mox:** Masz najsłodszy tyłek.  
 **Judy:** Haha. Och, Mox.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm14.mp4` (zapętlone)
+
 **Judy:** Ach, tak…  
 **Mox:** To miła niespodzianka. Całkiem dobrze ci to wychodzi.  
 **Judy:** Uwielbiam to uczucie.  
 **Mox:** Twoja cipka wciąż jest bardzo mokra.  
 **Judy:** Doprowadzi cię to do orgazmu?  
 **Mox:** O tak. Nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm15.mp4` (zapętlone)
+
 **Judy:** Wypełniłby mnie po brzegi.  
 **Mox:** Judy?  
 **Judy:** Jak daleko by wszedł? Czy mógłby wejść cały?  
 **Mox:** Siostro… Nie możesz.  
 **Judy:** Jest taki duży… Za duży dla mojego ciasnego, dziewiczego ciała.  
 **Mox:** O cholera!  
+
+> **🎬 Wstawka wideo:** `JuDmDrm16.mp4`
+
 **Judy:** Mox! Ale dużo spermy!  
 **Mox:** Cholera, siostro. To było intensywne.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm17.mp4` (zapętlone)
+
 **Judy:** Dobrze mi poszło?  
 **Mox:** Bycie tak blisko seksu… Było bardziej ekscytujące, niż myślałem.  
 **Judy:** Czuję się o wiele lepiej… A do tego nie musieliśmy grzeszyć przeciw Bogu.  
@@ -17666,13 +19811,22 @@
 **Mox:** Nie wiem jak ty, ale ja padam z nóg.  
 **Judy:** Tak, Mox. Po tak ekscytującej nocy będę spała jak kamień.  
 **Mox:** Chodź. Prześpijmy się. Rano przyjdzie Chloe.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm18.mp4` (zapętlone)
+
 **Mox:** Słodkich snów, siostro.  
 **Judy:** Dobranoc, Mox.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm19.mp4`
+
 **Narrator / mówca nieustalony:** Matko, on sypia ze służącą.  
 **Narrator / mówca nieustalony:** Ludzkość go potrzebuje.  
 **Narrator / mówca nieustalony:** Był blisko tego miejsca. Czuję to w jego ciele.  
 **Narrator / mówca nieustalony:** Dokończy ją.  
 **Narrator / mówca nieustalony:** Taka jest wola tego, który ich porzucił.  
+
+> **🎬 Wstawka wideo:** `JuDmDrm20.mp4` (zapętlone)
+
 **Mox:** Ach!  
 **Judy:** Mox!? Co się stało?  
 **Mox:** Eee… Nic takiego. To tylko zły sen.  
@@ -17716,6 +19870,8 @@
 
 ## Common Event 427 — SCN - Judy First Pussy
 
+> **🎬 Wstawka wideo:** `JuMcFP1.mp4` (zapętlone)
+
 **Mox:** Romantycznie, prawda?  
 **Judy:** Haha. O rany, mam nadzieję, że to nie zalicza się do romansu.  
 **Mox:** Nie rozumiem, Judy. Jeśli zgrzeszysz, nie możesz po prostu poprosić o przebaczenie?  
@@ -17726,57 +19882,116 @@
 **Judy:** Moja czystość wynika z moich intencji.  
 **Mox:** Czyli… Zamierzasz zachować czystość.  
 **Judy:** Tak.  
+
+> **🎬 Wstawka wideo:** `JuMcFP2.mp4` (zapętlone)
+
 **Mox:** Moje intencje łatwo dostrzec.  
 **Judy:** Podniecam cię. To dziwne uczucie.  
 **Mox:** Mam nadzieję, że przyjemne.  
 **Judy:** Tak, Mox. Jest mi dobrze.  
+
+> **🎬 Wstawka wideo:** `JuMcFP3.mp4` (zapętlone)
+
 **Mox:** O tak!  
 **Mox:** To przyjemne.  
+
+> **🎬 Wstawka wideo:** `JuMcFP4.mp4` (zapętlone)
+
 **Judy:** Nie mogę pozwolić ci wejść do środka…  
 **Mox:** Wiem.  
 **Judy:** Ale… Chcę cię poczuć.  
+
+> **🎬 Wstawka wideo:** `JuMcFP5.mp4` (zapętlone)
+
 **Mox:** Jesteśmy tak blisko… Pewnie doprowadza cię do szału, że nie możesz go wsadzić.  
 **Judy:** Och, tak! I to jak… Bardzo.  
 **Mox:** Ale nie mogę.  
 **Judy:** Nie wolno ci.  
 **Mox:** Zamierzasz zachować czystość.  
 **Judy:** Taki jest mój zamiar.  
+
+> **🎬 Wstawka wideo:** `JuMcFP6.mp4`
+
+> **🎬 Wstawka wideo:** `JuMcFP7.mp4` (zapętlone)
+
 **Judy:** O Boże.  
 **Mox:** To przyjemne.  
 **Judy:** Proszę… Boże.  
+
+> **🎬 Wstawka wideo:** `JuMcFP8.mp4` (zapętlone)
+
 **Judy:** Kręci mi się w głowie.  
 **Mox:** Wszystko w porządku?  
 **Judy:** Pomóż mi wstać.  
+
+> **🎬 Wstawka wideo:** `JuMcFP9.mp4`
+
+> **🎬 Wstawka wideo:** `JuMcFP10.mp4` (zapętlone)
+
 **Judy:** Włóż go z powrotem.  
 **Mox:** Eee, jasne! Oczywiście.  
+
+> **🎬 Wstawka wideo:** `JuMcFP11.mp4` (zapętlone)
+
 **Judy:** Ach! Mox!  
 **Mox:** Cholera… Ale ciasno!  
 **Judy:** O Boże!  
+
+> **🎬 Wstawka wideo:** `JuMcFP12.mp4` (zapętlone)
+
 **Mox:** Nie wierzę, jakie to przyjemne być w tobie.  
 **Judy:** Proszę, Mox, nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `JuMcFP13.mp4` (zapętlone)
+
 **Judy:** Mox!  
 **Mox:** Judy… Wszystko w porządku?  
+
+> **🎬 Wstawka wideo:** `JuMcFP14.mp4` (zapętlone)
+
 **Judy:** Mocniej! Chcę więcej!  
 **Mox:** Tak!  
+
+> **🎬 Wstawka wideo:** `JuMcFP15.mp4`
+
+> **🎬 Wstawka wideo:** `JuMcFP16.mp4` (zapętlone)
+
 **Judy:** Tak, Mox! Głęboko!  
 **Mox:** Bierz, Judy!  
 **Judy:** Wypełniasz mnie!  
+
+> **🎬 Wstawka wideo:** `JuMcFP17.mp4` (zapętlone)
+
 **Mox:** Twoja dziewicza cipka tak ciasno zaciska się na moim kutasie.  
 **Judy:** Jest taki wielki!  
 **Mox:** Dzięki tobie jest tak przyjemnie…  
 **Mox:** Chcę cię wypełnić!  
 **Judy:** Spuść się w moim tyłku!  
+
+> **🎬 Wstawka wideo:** `JuMcFP18.mp4` (zapętlone)
+
 **Judy:** Rozciągnij mnie! Rozciągnij, Mox!  
 **Mox:** Kurwa! Wszystkie twoje dziurki są takie ciasne!  
 **Judy:** Wypełnij mnie swoim nasieniem!  
+
+> **🎬 Wstawka wideo:** `JuMcFP19.mp4` (zapętlone)
+
 **Mox:** Wypełnię ci tyłek!  
 **Judy:** Dawaj! Wypełnij mój tyłeczek!  
+
+> **🎬 Wstawka wideo:** `JuMcFP20.mp4`
+
+> **🎬 Wstawka wideo:** `JuMcFP21.mp4` (zapętlone)
+
 **Judy:** Mox!? Gdzie jesteś?  
 **Mox:** O czym ty mówisz? Jestem tutaj.  
 **Judy:** Ja… Nie widzę cię!  
 **Mox:** Jest za ciemno?  
 **Judy:** Nie! To znaczy… Jesteś niewidzialny.  
 **Mox:** Co do cholery?! Nie widzę swoich rąk!  
+
+> **🎬 Wstawka wideo:** `JuMcFP22.mp4`
+
 **Madalyn:** Cudowne przedstawienie.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -17826,7 +20041,7 @@
 **Judy:** Co?  
 **Mox:** Mylisz się, Madalyn.  
 **Madalyn:** Twój czas minął, kochana.  
-**Judy:** Używała fragmentu posągu Toma!  
+**Judy:** Używała fragmentu posągu Tomy!  
 **Mox:** Cholera! Duncan ma pozostałe fragmenty…  
 **Mox:** To znaczy, że mają już wszystkie sześć fragmentów!  
 **Judy:** Co się stanie?  
@@ -17887,6 +20102,34 @@
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Potrójna penetracja».
 
+> **🎬 Wstawka wideo:** `BC-Hn-TF1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Hn-TF7O2.mp4`
+
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
 ---
@@ -17900,6 +20143,34 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Z dildo na uprzęży».
+
+> **🎬 Wstawka wideo:** `BC-El-St1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-El-St7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-El-St7O2.mp4`
 
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
@@ -17915,6 +20186,34 @@
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Zabawa z rozciąganiem».
 
+> **🎬 Wstawka wideo:** `BC-Ch-GF1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ch-GF7O2.mp4`
+
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
 ---
@@ -17928,6 +20227,34 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Żabka».
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Er-Fg7O2.mp4`
 
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
@@ -17943,6 +20270,46 @@
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Dojenie».
 
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk5.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk5O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk10.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ca-Mlk10O2.mp4`
+
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
 ---
@@ -17956,6 +20323,34 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Trzymając się».
+
+> **🎬 Wstawka wideo:** `BC-He-Hit1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-He-Hit7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-He-Hit7O2.mp4`
 
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
@@ -17971,6 +20366,34 @@
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Grzeczny piesek».
 
+> **🎬 Wstawka wideo:** `BC-Ne-GD1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ne-GD7O2.mp4`
+
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
 ---
@@ -17984,6 +20407,38 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Wielka penetracja».
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP3.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP3O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ju-GP8O2.mp4`
 
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
@@ -17999,6 +20454,34 @@
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Dwa prącia, jedna dziurka».
 
+> **🎬 Wstawka wideo:** `BC-Ad-PH1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH7.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ad-PH7O2.mp4`
+
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
 ---
@@ -18012,6 +20495,38 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Kara dla niegrzecznej dziewczyny».
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP3.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP3O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP5O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP8.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Me-BGP8O2.mp4`
 
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
@@ -18027,6 +20542,46 @@
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Do góry nogami».
 
+> **🎬 Wstawka wideo:** `BC-Ki-UD1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD5.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD5O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD10.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Ki-UD10O2.mp4`
+
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
 ---
@@ -18040,6 +20595,46 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** APK DISABLE: wyłączony → ST-Roof Entension: wyłączony → wybór «Odwrócenie ról».
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT1O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT2O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT3O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT4O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT5.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT5O2.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT6O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT7O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT8O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT9O2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT10.mp4`
+
+> **🎬 Wstawka wideo:** `BC-Li-TTT10O2.mp4`
 
 **Narrator / mówca nieustalony:** Zanim pobawisz się na strychu, musisz zbudować rozbudowę dachu.  
 
@@ -18130,42 +20725,88 @@
 
 ## Common Event 490 — SCN - Arianna Bedroom
 
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm2.mp4` (zapętlone)
+
 **Arianna:** To było miłe.  
 **Arianna:** Moje ciało jakoś robi się cieplejsze.  
 **Mox:** Może jestem całym eliksirem miłości, jakiego potrzebujesz.  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm3.mp4` (zapętlone)
+
 **Arianna:** Mmm, robi się coraz goręcej.  
 **Arianna:** Jak łagodny ogień, który przepływa przez moje ciało.  
 **Arianna:** Skóra mi cierpnie z podniecenia, Mox.  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm4.mp4` (zapętlone)
+
 **Arianna:** Jesteś w tym taki dobry.  
 **Mox:** Mam dużo okazji do ćwiczeń.  
 **Arianna:** Możesz ćwiczyć na mnie, ile tylko chcesz.  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm5.mp4` (zapętlone)
+
 **Arianna:** Oooch, Mox.  
 **Arianna:** Nie przestawaj. Cokolwiek robisz językiem… ustami…  
 **Arianna:** Nie przestawaj!  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm6.mp4` (zapętlone)
+
 **Arianna:** Kuuurwa!  
 **Arianna:** Ogień we mnie szaleje! Ja… Tracę kontrolę!  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm7.mp4`
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm8.mp4` (zapętlone)
+
 **Mox:** Arianna? Wszystko w porządku?  
 **Arianna:** W porządku? Jestem niesamowita! Fantastyczna!  
 **Mox:** Widzisz? Wcale nie potrzebujesz eliksiru miłości.  
 **Arianna:** Masz całkowitą rację!  
 **Arianna:** Potrzebuję… ciebie!  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm9.mp4`
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm10.mp4` (zapętlone)
+
 **Mox:** Achhh, to… wow.  
 **Mox:** Zaraz, kiedy nauczyłaś się…  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm11.mp4` (zapętlone)
+
 **Mox:** Kurwa, Arianno, cokolwiek robisz językiem, działa.  
 **Mox:** Jeśli będziesz tak dalej…  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm12.mp4`
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm13.mp4` (zapętlone)
+
 **Mox:** Cholera, Arianno! Ale z ciebie dzikuska!  
 **Arianna:** Nic na to nie poradzę! Uwolniły się moje demoniczne żądze!  
 **Arianna:** Płonę z pożądania!  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm14.mp4` (zapętlone)
+
 **Mox:** Cholera! Masz silne uda!  
 **Arianna:** Moja dusza pragnie twojego kutasa.  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm15.mp4` (zapętlone)
+
 **Mox:** Jezu, jakbyś próbowała urwać mi kutasa swoją cipką!  
 **Arianna:** Przepraszam! Nie mogę się tym nasycić!  
 **Mox:** Nie powiedziałem, że to coś złego.  
 **Arianna:** Wszystko jest takie gorące!  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm16.mp4` (zapętlone)
+
 **Arianna:** O Boże!  
 **Mox:** Ale intensywnie!  
 **Mox:** Jestem na skraju wytrzymałości!  
 **Arianna:** Ugaś ten piekielny żar we mnie, Mox!  
+
+> **🎬 Wstawka wideo:** `ArDmnMcBdrm17.mp4`
+
 **Mox:** Łał, to było naprawdę coś.  
 **Arianna:** Płomień przygasa, lecz na jego miejscu…  
 
@@ -18212,21 +20853,32 @@
 
 ## Common Event 383 — SCN - Ella Livestream Fuck
 
+> **🎬 Wstawka wideo:** `ElTaTyRvw1.mp4` (zapętlone)
+
 **Ella:** Mox!?  
 **Tasha:** Witaj.  
 **Mox:** Robicie to tutaj!?  
 **Ella:** Myślałam, że drzwi są zamknięte.  
 **Tasha:** Ups.  
 **Ella:** Wchodź i zamknij drzwi.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw2.mp4` (zapętlone)
+
 **Mox:** Nadajesz już na żywo?  
 **Ella:** Na razie robię zdjęcia… Ale niedługo zacznę.  
 **Tasha:** Wielkie dzięki, Ello. Ten pomysł z recenzją naprawdę się sprawdził.  
 **Ella:** Obie na tym skorzystamy.  
 **Mox:** Co to, do cholery, jest?  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw3.mp4` (zapętlone)
+
 **Ella:** Coś w rodzaju wibrującej zatyczki analnej.  
 **Tasha:** To coś więcej. To stymulator impulsami elektrycznymi.  
 **Mox:** Co takiego?  
 **Tasha:** Napina jej cipkę, ale ona i jej partner odczuwają to jak wibracje.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw4.mp4` (zapętlone)
+
 **Ella:** Och! Jest!  
 **Mox:** Brzmi ciekawie.  
 **Ella:** Myślisz o wystąpieniu w filmie?  
@@ -18237,11 +20889,19 @@
 **Tasha:** Śmiało. Recenzja będzie lepsza, jeśli opowie o… pełnym doświadczeniu.  
 **Mox:** Chyba dam sobie z tym radę.  
 **Tasha:** Wiedziałam, że przekonasz się do zabawek, pani detektyw.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw5.mp4` (zapętlone)
+
 **Mox:** Cholera. Czuję to, kiedy tylko dotyka twoich pośladków.  
 **Tasha:** Jej biodra aż iskrzą.  
 **Mox:** Brzmi niebezpiecznie.  
 **Ella:** No dalej, duży chłopcze. Wypełnij mnie. Nie boję się.  
 **Mox:** Masz już dość ciasną cipkę… Zobaczmy, jak bardzo to urządzenie ją zaciśnie.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw6.mp4`
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw7.mp4` (zapętlone)
+
 **Ella:** O cholera!  
 **Mox:** Wibruje!  
 **Tasha:** Poraża twojego kutasa.  
@@ -18249,28 +20909,52 @@
 **Tasha:** I to jak.  
 **Ella:** Pieprz mnie, Mox!  
 **Mox:** Spróbuję.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw8.mp4` (zapętlone)
+
 **Mox:** Jesteś taka spięta.  
 **Ella:** Czuję, jak moja cipka zaciska się na tobie.  
 **Mox:** Trudno pieprzyć w ten sposób.  
 **Ella:** To takie przyjemne!  
 **Tasha:** Nie bądź delikatny, Mox. To nie taka zabawka.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw9.mp4` (zapętlone)
+
 **Mox:** Cholera. Gdyby to było jeszcze intensywniejsze, nie dałbym rady.  
 **Tasha:** Przyłóż się!  
 **Ella:** W porządku, Mox. Pieprz mnie mocno.  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw10.mp4` (zapętlone)
+
 **Ella:** Ach! Kurwa!  
 **Mox:** Cholera! Ale… ciasno!  
 **Ella:** Aghuha…  
 **Tasha:** Tracisz rozum, Ello?  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw11.mp4` (zapętlone)
+
 **Mox:** Łaskocze… Nie, szczypie… To… To…  
 **Ella:** Niesamowite!  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw12.mp4` (zapętlone)
+
 **Tasha:** No dalej, wy dwoje. Zróbcie mi przedstawienie.  
 **Ella:** Pieprz mnie! Pieprz mnie, detektyw Canmore!  
 **Mox:** O, Ello!  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw13.mp4` (zapętlone)
+
 **Mox:** Twoja cipka ciasno zaciska się na moim kutasie!  
 **Ella:** Rżnij mnie! Użyj mojego ciała!  
 **Mox:** Cholera!  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw14.mp4` (zapętlone)
+
 **Mox:** Zaraz dojdę!  
 **Ella:** Dochodziłam, pani detektyw! Dochodzę, Mox!  
+
+> **🎬 Wstawka wideo:** `ElTaTyRvw15.mp4`
+
 **Mox:** To było niesamowite!  
 **Ella:** Wyłącz to! Łaskocze!  
 
@@ -18425,6 +21109,8 @@
 ---
 
 ## Common Event 313 — SCN - Erica Diner
+
+> **🎬 Wstawka wideo:** `ErMcDiner.mp4` (zapętlone)
 
 **Erica:** To jak często kupujesz porno?  
 **Mox:** Co!? Nie… Rozmawiałem z właścicielką sklepu…  
@@ -18700,6 +21386,8 @@
 ---
 
 ## Common Event 378 — SCN - HnJuChErMc Dicks
+
+> **🎬 Wstawka wideo:** `HnErMcJuChDinner.mp4` (zapętlone)
 
 **Hannah:** Jak smakuje babeczka, siostro Judy?  
 **Judy:** Jest przepyszna. Wszystko tutaj jest takie treściwe i smaczne.  
@@ -19339,6 +22027,9 @@
 **Jon:** /greet  
 **Mox:** Hej, Jon. Widziałeś kiedyś artefakt, który tak wygląda?  
 **Jon:** /investigate  
+
+> **🎬 Wstawka wideo:** `Toma-RightArm.mp4` (zapętlone)
+
 **Jon:** To tylko fragment większego artefaktu.  
 **Mox:** Tak właśnie myślałem.  
 **Jon:** To dłoń… Należała do czarownic Casula.  
@@ -19465,14 +22156,22 @@
 
 ## Common Event 334 — SCN - Nellie Bobby Jon
 
+> **🎬 Wstawka wideo:** `NeBoJoObMc1.mp4` (zapętlone)
+
 **Bobby:** Nie wypieraj się. Wiemy, że masz skradziony artefakt.  
 **Nellie:** A gdzie, do cholery, miałabym go trzymać? Pod sukienką?  
 **Jon:** Informuję, że mam licencję na zakup artefaktów.  
 **Bobby:** Nie na zakup kradzionych artefaktów.  
 **Nellie:** Nie wiem, o czym mówisz.  
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc2.mp4` (zapętlone)
+
 **Mox:** Hej! Wiem, że Jon ma licencję. Mogę za niego ręczyć.  
 **Bobby:** Co ty tu, u diabła, robisz?  
 **Jon:** Zapewniam panów, że wszystko tutaj jest legalne.  
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc3.mp4` (zapętlone)
+
 **Bobby:** A co z tym kielichem, który ta pani wyrzuciła w krzaki, gdy podjechaliśmy?  
 **Nellie:** Nie mam pojęcia, co to jest.  
 **Bobby:** Jasne, że nie.  
@@ -19484,11 +22183,21 @@
 **Bobby:** Skoro ten złoty kielich został skradziony, muszę zabrać go ze sobą na komisariat.  
 **Bobby:** Szkoda, że nie uda ci się go sprzedać, mała.  
 **Nellie:** Mam na imię Nellie, dupku!  
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc4.mp4`
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc5.mp4` (zapętlone)
+
 **Bobby:** Nie myśl, że wyjdę stąd bez ciebie, Nellie!  
 **Nellie:** Zejdź ze mnie!  
 **Mox:** Hej! Spokojnie, Bobby!  
 **Funkcjonariusz B:** Odsuń się! Jest aresztowana!  
 **Jon:** To jakiś absurd.  
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc6.mp4`
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc7.mp4` (zapętlone)
+
 **Bobby:** Aaargh!  
 **Funkcjonariusz B:** Wszystko w porządku?  
 **Mox:** Nie wydaje mi się, żebyś sobie pomagała, panienko.  
@@ -20084,7 +22793,7 @@
 **Hannah:** Świetny pomysł, Chloe, ale Mox nie może iść. Nie ma teraz czasu, bo ma nową dziewczynę.  
 **Mox:** Przestaniesz tak mówić, Hannah? Nie mam dziewczyny.  
 **Hannah:** Koleżanka do seksu. Jak zwał, tak zwał.  
-**Chloe:** Nie bądź niemiła dla Mox.  
+**Chloe:** Nie bądź niemiła dla Moxa.  
 **Hannah:** Nie jestem niemiła. Po prostu mówię, jak jest.  
 **Mox:** Jeśli chcecie iść do lasu, daleko nie zajdziecie. Wszystko zarosło.  
 **Hannah:** Lepiej poczekać do jesieni. Wtedy ścieżki będą dostępne.  
@@ -20237,59 +22946,118 @@
 
 ## Common Event 362 — SCN - Carol by the Truck
 
+> **🎬 Wstawka wideo:** `CaMcTrk1.mp4` (zapętlone)
+
 **Carol:** Dobrze, kochanie, jeszcze jeden krok.  
 **Mox:** Jeszcze jeden krok? Mówiłaś, że jest naprawiony.  
 **Carol:** Przestań marudzić…  
 **Carol:** Chyba spodoba ci się ta część.  
+
+> **🎬 Wstawka wideo:** `CaMcTrk2.mp4`
+
+> **🎬 Wstawka wideo:** `CaMcTrk3.mp4` (zapętlone)
+
 **Mox:** Carol. Co kombinujesz?  
 **Carol:** Ciężarówka jest naprawiona.  
 **Mox:** To co teraz?  
 **Carol:** Nie musimy się spieszyć do środka. Nawet się nie spociłam.  
 **Mox:** Chyba wiem, jaki jest ostatni krok.  
 **Carol:** To wracajmy do pracy.  
+
+> **🎬 Wstawka wideo:** `CaMcTrk4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `CaMcTrk5.mp4` (zapętlone)
+
 **Carol:** Ależ z ciebie chętny chłopak…  
 **Carol:** Robimy się coraz odważniejsi, co?  
+
+> **🎬 Wstawka wideo:** `CaMcTrk6.mp4` (zapętlone)
+
 **Mox:** Nie przeciągajmy tego. Heather czeka.  
 **Carol:** No proszę. Ależ to ekscytujące.  
 **Mox:** Myślisz, że jesteśmy wystarczająco ukryci przed ciekawskimi spojrzeniami?  
 **Carol:** Mnie wystarczy.  
+
+> **🎬 Wstawka wideo:** `CaMcTrk7.mp4` (zapętlone)
+
 **Mox:** Och, cholera. Ale przyjemnie, Carol.  
 **Mox:** Masz cholernie dobrą technikę.  
+
+> **🎬 Wstawka wideo:** `CaMcTrk8.mp4` (zapętlone)
+
 **Mox:** O tak…  
 **Mox:** W ten sposób długo nie wytrzymam.  
+
+> **🎬 Wstawka wideo:** `CaMcTrk9.mp4` (zapętlone)
+
 **Carol:** Nie pozwolę ci tak łatwo skończyć… Masz jeszcze trochę do zrobienia.  
 **Mox:** Cholera! Nie boisz się, że ktoś nas zobaczy?  
 **Carol:** Zejdź niżej i spraw, żebym zobaczyła gwiazdy, Mox.  
 **Mox:** Tak, proszę pani.  
+
+> **🎬 Wstawka wideo:** `CaMcTrk10.mp4` (zapętlone)
+
 **Carol:** Mmm, ktoś był głodny cipki mamusi.  
 **Carol:** Naprawdę ci się to podoba, co, kochanie?  
+
+> **🎬 Wstawka wideo:** `CaMcTrk11.mp4` (zapętlone)
+
 **Carol:** Nie zatrzymuj się tam, chcę czegoś konkretnego…  
 **Carol:** Włóż we mnie tego kutasa, kochanie.  
+
+> **🎬 Wstawka wideo:** `CaMcTrk12.mp4`
+
 **Carol:** Tak cudownie mnie wypełniasz.  
 **Mox:** Wchodzi bez problemu, Carol.  
+
+> **🎬 Wstawka wideo:** `CaMcTrk13.mp4` (zapętlone)
+
 **Carol:** Właśnie tak! Wsuń go głęboko.  
 **Mox:** Nie mogę uwierzyć, że to robimy.  
+
+> **🎬 Wstawka wideo:** `CaMcTrk14.mp4` (zapętlone)
+
 **Carol:** Myślisz, że sąsiedzi patrzą?  
 **Mox:** O Boże. Mam nadzieję, że nie.  
 **Carol:** Podoba mi się pomysł, żeby dać im mały pokaz.  
+
+> **🎬 Wstawka wideo:** `CaMcTrk15.mp4` (zapętlone)
+
 **Mox:** Odważna z ciebie kobieta, Carol.  
 **Carol:** Chętnie dałabym Heather mały pokaz.  
 **Mox:** Carol!  
 **Carol:** No dalej, kochanie. Rżnij mnie porządnie!  
+
+> **🎬 Wstawka wideo:** `CaMcTrk16.mp4` (zapętlone)
+
 **Carol:** Cholera! Ale dobrze!  
 **Mox:** Chyba zaczynasz się pocić, Carol.  
 **Carol:** Wypełnij mnie, kochanie!  
+
+> **🎬 Wstawka wideo:** `CaMcTrk17.mp4` (zapętlone)
+
 **Mox:** Chcesz tego?  
 **Carol:** Tak! Tak! Daj mi!  
 **Mox:** To nasz sekret, Carol… Nie dzielimy się.  
 **Carol:** Nie zamierzam się dzielić! Po prostu mnie pieprz!  
+
+> **🎬 Wstawka wideo:** `CaMcTrk18.mp4` (zapętlone)
+
 **Carol:** Słodki Jezu! Ale cudownie!  
 **Mox:** O tak! Eee… Ciszej, Carol.  
 **Carol:** Zerżnij mnie! Zerżnij mnie!  
+
+> **🎬 Wstawka wideo:** `CaMcTrk19.mp4` (zapętlone)
+
 **Carol:** Daj mi tę porcję, kochanie!  
 **Mox:** Chcesz… do środka?  
 **Carol:** Spuść się we mnie! Chcę poczuć twoje nasienie.  
 **Mox:** O, Carol!  
+
+> **🎬 Wstawka wideo:** `CaMcTrk20.mp4`
+
+> **🎬 Wstawka wideo:** `CaMcTrk21.mp4`
+
 **Heather:** O mój Boże!  
 **Mox:** Heather!?  
 **Carol:** Cóż… Chyba sekret wyszedł na jaw.  
@@ -20612,6 +23380,8 @@
 
 ## Common Event 307 — SCN - Interragation
 
+> **🎬 Wstawka wideo:** `ErInt1.mp4` (zapętlone)
+
 **Melissa:** Kiedy poznałaś Charlesa Wilkesa?  
 **Erica:** Dopiero niedawno zaczęłam dla niego pracować.  
 **Mox:** Ale byłaś przy nim przez co najmniej kilka tygodni przed jego śmiercią, prawda?  
@@ -20621,11 +23391,17 @@
 **Melissa:** Czyli nigdy nie mieszkałaś z nimi w rezydencji?  
 **Erica:** Jestem podejrzana?  
 **Melissa:** Na razie nie...  
+
+> **🎬 Wstawka wideo:** `ErInt2.mp4`
+
 **Narrator / mówca nieustalony:** Wróćmy do tej kobiety.  
 **Narrator / mówca nieustalony:** Mówiłem… Nie znałem jej.  
 **Narrator / mówca nieustalony:** Czy może ją pani opisać?  
 **Narrator / mówca nieustalony:** Była wysoka i dojrzała, ale wciąż piękna.  
 **Narrator / mówca nieustalony:** Czy słyszała pani kiedyś nazwisko Madalyn Rose?  
+
+> **🎬 Wstawka wideo:** `ErInt3.mp4` (zapętlone)
+
 **Erica:** Tak.  
 **Mox:** To ona!  
 **Erica:** Co się dzieje? Kim ona jest?  
@@ -20689,46 +23465,102 @@
 
 ## Common Event 350 — SCN - Erica Anal Int Room
 
+> **🎬 Wstawka wideo:** `ErIntRAn1.mp4` (zapętlone)
+
 **Erica:** Nie lubię kłamców!  
 **Mox:** Nie kłamię!  
 **Erica:** Może jednak cię lubię, idioto. I może chcę wiedzieć, że mogę ci ufać.  
 **Mox:** Jeśli chcesz coś wiedzieć, po prostu zapytaj. Nie czytam w myślach.  
+
+> **🎬 Wstawka wideo:** `ErIntRAn2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErIntRAn3.mp4` (zapętlone)
+
 **Mox:** Ufam ci, Erico. Co muszę zrobić, żebyś ty zaufała mnie?  
 **Erica:** Cokolwiek robisz, chcę być tego częścią.  
 **Mox:** Dasz sobie z tym radę?  
 **Erica:** Jestem bardzo otwartą dziewczyną.  
+
+> **🎬 Wstawka wideo:** `ErIntRAn4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErIntRAn5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErIntRAn6.mp4` (zapętlone)
+
 **Erica:** Och, Mox. Widać, że twój język ma doświadczenie. Czuję to.  
 **Erica:** To… niesamowite!  
+
+> **🎬 Wstawka wideo:** `ErIntRAn7.mp4` (zapętlone)
+
 **Erica:** Chcę, żebyś zerżnął mnie właśnie tutaj!  
 **Erica:** Chcę poczuć w sobie twojego kutasa!  
+
+> **🎬 Wstawka wideo:** `ErIntRAn8.mp4`
+
 **Erica:** O tak! Pieprz mnie, Mox.  
+
+> **🎬 Wstawka wideo:** `ErIntRAn9.mp4` (zapętlone)
+
 **Mox:** Lubię ryzyko, Erico. Nie widzisz tego?  
 **Erica:** Och! Ale jesteśmy niegrzeczni!  
 **Mox:** Mów ciszej. Ktoś przechodzący obok może nas usłyszeć.  
+
+> **🎬 Wstawka wideo:** `ErIntRAn10.mp4` (zapętlone)
+
 **Erica:** Myślałam, że lubisz ryzyko.  
 **Mox:** Chcesz, żeby nas przyłapano? To sprawi, że dojdziesz mocniej?  
 **Erica:** Och, Mox, sama myśl doprowadza mnie do szaleństwa!  
+
+> **🎬 Wstawka wideo:** `ErIntRAn11.mp4` (zapętlone)
+
 **Erica:** Chcę, żebyś zerżnął mnie w tyłek.  
 **Mox:** Mówisz poważnie?  
 **Erica:** Jestem taka napalona. Włóż go we mnie!  
+
+> **🎬 Wstawka wideo:** `ErIntRAn12.mp4`
+
 **Erica:** Argh! Ale mnie wypełniasz!  
+
+> **🎬 Wstawka wideo:** `ErIntRAn13.mp4` (zapętlone)
+
 **Erica:** Cholera! Rozrywasz mnie!  
 **Mox:** Cholera, Erico! Robiłaś to już wcześniej?  
 **Erica:** Ja… Nigdy wcześniej nie byłam tak napalona.  
+
+> **🎬 Wstawka wideo:** `ErIntRAn14.mp4` (zapętlone)
+
 **Erica:** A jeśli wróci twoja szefowa? Co, jeśli nas zobaczy?  
 **Mox:** Nie będzie nam przeszkadzać. Nic nam nie grozi.  
+
+> **🎬 Wstawka wideo:** `ErIntRAn15.mp4` (zapętlone)
+
 **Erica:** Ach! Kurwa!  
 **Mox:** Ale ciasno! Cudowne uczucie!  
 **Erica:** Walnij mnie w tyłek tymi biodrami, Mox!  
+
+> **🎬 Wstawka wideo:** `ErIntRAn16.mp4` (zapętlone)
+
 **Mox:** Weź mojego kutasa, Erico!  
 **Erica:** Dawaj! Wsadź go głęboko!  
+
+> **🎬 Wstawka wideo:** `ErIntRAn17.mp4` (zapętlone)
+
 **Erica:** O kurwa! O kurwa!  
 **Mox:** Boże, masz świetny tyłek!  
 **Erica:** Pieprz mnie dalej!  
+
+> **🎬 Wstawka wideo:** `ErIntRAn18.mp4` (zapętlone)
+
 **Erica:** Cholera! Zaraz dojdę!  
 **Mox:** Taka… ciasna!  
+
+> **🎬 Wstawka wideo:** `ErIntRAn19.mp4`
+
 **Erica:** O mój Boże!  
 **Mox:** Cholera, Erico. Ale jazda.  
+
+> **🎬 Wstawka wideo:** `ErIntRAn20.mp4` (zapętlone)
+
 **Melissa:** Mox!  
 **Mox:** Pani Bhatt!  
 **Erica:** Ojej!... Eee… Moja soczewka… Wypadła…  
@@ -20788,6 +23620,8 @@
 ---
 
 ## Common Event 335 — SCN - Nellie Interrogation
+
+> **🎬 Wstawka wideo:** `NoMcInt.mp4` (zapętlone)
 
 **Mox:** Skąd masz ten artefakt?  
 **Nellie:** Nie powiem ci.  
@@ -21233,12 +24067,19 @@
 
 ## Common Event 336 — SCN - Bobby Boxing
 
+> **🎬 Wstawka wideo:** `BoMcBox1.mp4` (zapętlone)
+
 **Bobby:** Ale jesteś wolny, Mox.  
 **Mox:** Bo ja przynajmniej mam mięśnie, Bobby.  
 **Bobby:** Utyłeś od całodziennego gapienia się w komputer.  
 **Mox:** A ty masz urojenia od całodziennego nękania bezbronnych ludzi.  
 **Bobby:** Pokaż, jaki z ciebie twardziel, młody.  
 **Mox:** Sam się o to prosiłeś!  
+
+> **🎬 Wstawka wideo:** `BoMcBox2.mp4`
+
+> **🎬 Wstawka wideo:** `BoMcBox3.mp4` (zapętlone)
+
 **Bobby:** Tak jak mówiłem... Jesteś powolny.  
 **Mox:** Szczęśliwy traf!  
 **Bobby:** Bawię się z tobą, Mox. Gdybym chciał, już byś leżał nieprzytomny.  
@@ -21295,38 +24136,69 @@
 
 ## Common Event 356 — SCN - Andrea Melissa Yoga
 
+> **🎬 Wstawka wideo:** `MeAdMcYg1.mp4` (zapętlone)
+
 **Mox:** Minęło kilka dni, odkąd porządnie się rozciągałem.  
 **Andrea:** Ach, znów być młodą.  
 **Andrea:** Korzystaj, póki możesz, Mox.  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg2.mp4` (zapętlone)
+
 **Mox:** Świetna forma, panno Kimura.  
 **Andrea:** Osiągnięcie takiej elastyczności w moim wieku wymaga cierpliwości i dyscypliny.  
 **Mox:** Podoba mi się ten widok.  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg3.mp4` (zapętlone)
+
 **Andrea:** Powinieneś się skupić, Mox.  
 **Mox:** Jestem skupiony, bez dwóch zdań.  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg4.mp4` (zapętlone)
+
 **Andrea:** No dalej, Mox. Użyj mięśni pleców.  
 **Mox:** Eee… Jasne, Andreo.  
 **Andrea:** Mówiłeś, że już to robiłeś.  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg5.mp4` (zapętlone)
+
 **Mox:** Chyba nie jestem tak rozciągnięty jak ty.  
 **Andrea:** Pokażę ci ćwiczenie rozciągające plecy, które może ci pomóc.  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg6.mp4` (zapętlone)
+
 **Andrea:** Myślisz, że dasz sobie z tym radę, Mox?  
 **Mox:** Nie ma problemu.  
 **Andrea:** Naciśnij na mój brzuch. Stawiaj lekki opór.  
 **Mox:** Cała przyjemność po mojej stronie.  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg7.mp4` (zapętlone)
+
 **Mox:** Nie za mocno?  
 **Andrea:** Wytrzymam, Mox…  
 **Andrea:** Takie ćwiczenie wzmacnia plecy i jednocześnie rozluźnia kręgosłup.  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg8.mp4` (zapętlone)
+
 **Mox:** Dużo wytrzymujesz, panno Kimura.  
 **Andrea:** Wymagam od siebie silnego ciała i umysłu.  
 **Mox:** Masz bardzo jędrne mięśnie brzucha.  
 **Andrea:** Nieźle jak na kobietę po czterdziestce.  
 **Mox:** Nie dałbym ci więcej niż dwadzieścia pięć lat.  
 **Andrea:** Ale z ciebie czaruś, Mox. Bez dwóch zdań.  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg9.mp4` (zapętlone)
+
 **Melissa:** Proszę wybaczyć, panno Kimura. Muszę wrócić do biura.  
 **Andrea:** Oczywiście, panno Bhatt. Miło mi się z panią rozmawiało.  
 **Mox:** Nie chcesz do nas dołączyć i poćwiczyć jogi?  
 **Melissa:** Niestety, nie mam czasu. Radzę ci niedługo wrócić do biurka, Mox. Zaczynasz dziś późno.  
 **Andrea:** Nie denerwuj swojej szefowej, Mox.  
 **Mox:** Oczywiście, panno Bhatt. Zaraz kończę.  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg10.mp4`
+
+> **🎬 Wstawka wideo:** `MeAdMcYg11.mp4` (zapętlone)
+
 **Andrea:** Widzę, że między wami iskrzy.  
 **Mox:** Nie zawsze dogaduję się z Melissą.  
 **Andrea:** Przeskakujesz ją w hierarchii. Chcesz działać na własną rękę.  
@@ -21343,9 +24215,15 @@
 **Andrea:** Mox! Lepiej uważaj.  
 **Mox:** Jestem po twojej stronie, Andreo. Mam wszystko, czego trzeba, żeby coś zmienić. Po prostu to wiem.  
 **Andrea:** Idź już, Mox. Nie denerwuj Melissy.  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg12.mp4`
+
 **Mox:** Melisso?  
 **Melissa:** Mox… Chodź za mną.  
 **Mox:** Tak, proszę pani.  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg13.mp4` (zapętlone)
+
 **Melissa:** Czemu tak się upierasz, żeby mnie dręczyć?  
 **Mox:** Co jest? Facet nie może rano poćwiczyć jogi?  
 **Melissa:** Przyszedłeś tu specjalnie. O co ci chodzi?  
@@ -21354,9 +24232,15 @@
 **Mox:** Zazdrosny?  
 **Melissa:** /shock  
 **Melissa:** Wcale nie flirtuję!  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg14.mp4` (zapętlone)
+
 **Mox:** No dalej. Lubisz niegrzecznych chłopców, prawda?  
 **Mox:** Wiesz, młodsi faceci lubią ładne tyłki, a twój nie zawodzi.  
 **Melissa:** Ty… gówniarzu!  
+
+> **🎬 Wstawka wideo:** `MeAdMcYg15.mp4` (zapętlone)
+
 **Melissa:** Posłuchaj! Moje życie prywatne to nie twoja sprawa…  
 **Melissa:** To, co widziałeś, było błędem i niczym więcej!  
 **Mox:** Boże, Melisso! Tylko się droczyłem. To boli!  
@@ -21959,6 +24843,8 @@
 
 ## Common Event 406 — SCN - Kimberly Clip
 
+> **🎬 Wstawka wideo:** `KiScandal.mp4` (zapętlone)
+
 **Kimberly:** Zgadza się, mieszkańcy North Santiva. Nasz detektyw wplątał się w skandal seksualny.  
 **Kimberly:** Tuż przed rozbiciem Gildii detektyw Canmore spędza dni, tworząc recenzje zabawek erotycznych na Lustagramie.  
 
@@ -22129,7 +25015,7 @@
 **Mox:** Nie słyszałeś? Andrea jest teraz sąsiadką Melissy.  
 **Paul:** Chwila… Co się stało z twoją rezydencją?  
 **Andrea:** Powiedzmy, że teraz mieszkam trochę skromniej.  
-**David:** Musimy jak najszybciej znaleźć zastępstwo za Mox.  
+**David:** Musimy jak najszybciej znaleźć zastępstwo za Moxa.  
 **Hannah:** Mogę zostać detektywem?  
 **Chloe:** Haha! Wyobrażasz to sobie?  
 **Hannah:** Hej!  
@@ -22324,35 +25210,64 @@
 
 ## Common Event 482 — SCN - Carol Courtroom
 
+> **🎬 Wstawka wideo:** `CaCrtrm1.mp4` (zapętlone)
+
 **Carol:** Wysoki Sądzie, proszę, by sąd rozważył te dowody.  
 **Mox:** Rozumiem.  
 **Mox:** Choć niewątpliwie warto je rozważyć, nie sądzę, by wystarczyły do uchylenia postanowienia sądu.  
 **Carol:** Ale to nie wszystko, Wysoki Sądzie. Czy mogę prosić, by sąd pozwolił mi nieco rozwinąć argumentację?  
 **Mox:** Dobrze, panno Ray. Proszę jednak szybko przejść do sedna.  
 **Carol:** Oczywiście.  
+
+> **🎬 Wstawka wideo:** `CaCrtrm2.mp4` (zapętlone)
+
 **Mox:** Przez wszystkie lata zasiadania na tej ławie muszę przyznać, że to najbardziej niekonwencjonalna argumentacja, jaką widziałem.  
 **Carol:** Och, jeszcze nic pan nie widział.  
 **Mox:** Proszę kontynuować. Chętnie zobaczę, do czego to zmierza.  
 **Carol:** Haha, założę się, że tak.  
+
+> **🎬 Wstawka wideo:** `CaCrtrm3.mp4` (zapętlone)
+
 **Mox:** Ależ wygłasza pani argumentację ustną.  
 **Carol:** Mmm.  
 **Mox:** Jednak całkowicie zakłóca pani porządek rozprawy.  
+
+> **🎬 Wstawka wideo:** `CaCrtrm4.mp4` (zapętlone)
+
 **Carol:** Tak? I co pan z tym zrobi, Wysoki Sądzie? Bez młotka nie przywróci pan porządku na sali.  
 **Mox:** W takim razie sam wezmę sprawy w swoje ręce.  
 **Mox:** I wymierzę pani karę cielesną za obrazę sądu.  
 **Carol:** Jestem gotowa na każdą karę, jaką sąd uzna za stosowną, Wysoki Sądzie.  
+
+> **🎬 Wstawka wideo:** `CaCrtrm5.mp4` (zapętlone)
+
 **Mox:** Jak smakuje silna ręka sprawiedliwości, panno Ray?  
 **Carol:** Jest taka silna!  
+
+> **🎬 Wstawka wideo:** `CaCrtrm6.mp4` (zapętlone)
+
 **Mox:** Może trzeba wymierzyć jeszcze karę.  
 **Carol:** O tak! Ukarać mnie jeszcze!  
+
+> **🎬 Wstawka wideo:** `CaCrtrm7.mp4` (zapętlone)
+
 **Carol:** Kurwa!  
 **Mox:** Mam nadzieję, że odtąd będzie pani okazywać sądowi więcej szacunku, panno Ray.  
+
+> **🎬 Wstawka wideo:** `CaCrtrm8.mp4` (zapętlone)
+
 **Carol:** Bardzo przepraszam za swoje zachowanie.  
 **Carol:** Zdaję się na łaskę sądu, Wysoki Sądzie!  
 **Mox:** Dobrze. Sądzę, że wystarczająco odpokutowała pani za wystawianie cierpliwości sądu na próbę.  
 **Mox:** Teraz pora dogłębnie zbadać zasadność pani argumentów.  
+
+> **🎬 Wstawka wideo:** `CaCrtrm9.mp4` (zapętlone)
+
 **Carol:** Co pan sądzi, sędzio? Jak ocenia pan tę argumentację?  
 **Mox:** Jest zajebiście dobra!  
+
+> **🎬 Wstawka wideo:** `CaCrtrm10.mp4` (zapętlone)
+
 **Carol:** Mam nadzieję, że dokładnie rozważa pan wszystkie jej aspekty.  
 **Mox:** Każde wejście i wyjście z pewnością wpływa na mój osąd.  
 **Carol:** Zdecydowanie to czuć.  
@@ -22360,23 +25275,43 @@
 **Carol:** Chwileczkę, mam jeszcze dowody, które muszę przedstawić sądowi.  
 **Mox:** Doprawdy? A jakie?  
 **Carol:** Proszę, zaraz pokażę.  
+
+> **🎬 Wstawka wideo:** `CaCrtrm11.mp4` (zapętlone)
+
 **Mox:** Łał!  
 **Carol:** Widzi pan? Czy to nie rzuca nowego światła na sprawę?  
 **Mox:** To zdecydowanie zmienia postać rzeczy.  
+
+> **🎬 Wstawka wideo:** `CaCrtrm12.mp4` (zapętlone)
+
 **Mox:** To niesamowite uczucie.  
 **Mox:** Może powinna pani wygłosić mowę końcową, panno Ray.  
 **Carol:** Z przyjemnością, Wysoki Sądzie.  
+
+> **🎬 Wstawka wideo:** `CaCrtrm13.mp4` (zapętlone)
+
 **Carol:** Uwielbiam twojego kutasa!  
 **Mox:** Boże, ale mocno go ściskasz.  
 **Carol:** Jaki jest więc pański wyrok?  
+
+> **🎬 Wstawka wideo:** `CaCrtrm14.mp4` (zapętlone)
+
 **Mox:** Muszę zarządzić przerwę, by podjąć decyzję.  
 **Carol:** Naprawdę?  
 **Mox:** Nie mogę wydać sprawiedliwego wyroku w takim stanie.  
+
+> **🎬 Wstawka wideo:** `CaCrtrm15.mp4`
+
+> **🎬 Wstawka wideo:** `CaCrtrm16.mp4` (zapętlone)
+
 **Carol:** Zła odpowiedź.  
 **Mox:** Co pani robi!?  
 **Carol:** Nadeszła chwila prawdy. Jaki jest wyrok, Wysoki Sądzie? Zatrzymam swoją farmę?  
 **Mox:** Tak, kurwa, tak!  
 **Carol:** Dobra odpowiedź.  
+
+> **🎬 Wstawka wideo:** `CaCrtrm17.mp4`
+
 **Carol:** Sprawiedliwość ma świetny smak.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 210.
@@ -22846,9 +25781,14 @@
 
 ## Common Event 305 — SCN - Lillian
 
+> **🎬 Wstawka wideo:** `Li-Meet1.mp4`
+
 **Narrator / mówca nieustalony:** Dobry wieczór. Pani Lillian Wilkes, jak mniemam?  
 **Narrator / mówca nieustalony:** Musisz być z zespołu śledczego…  
 **Narrator / mówca nieustalony:** Proszę. Wejdź do środka.  
+
+> **🎬 Wstawka wideo:** `Li-Meet2.mp4` (zapętlone)
+
 **Melissa:** Jestem detektyw Bhatt, a to mój asystent, pan Canmore.  
 **Lillian:** Wiem, że ma pan zadanie do wykonania, ale proszę uszanować mój czas.  
 **Lillian:** Śmierć mojego ojca była trudna dla mnie i całej rodziny.  
@@ -22893,6 +25833,9 @@
 **Lillian:** Chciałabym wiedzieć więcej.  
 **Lillian:** Czegokolwiek od niego chciała, teraz to już koniec.  
 **Lillian:** Chciałabym tylko móc się z nim pożegnać.  
+
+> **🎬 Wstawka wideo:** `Li-Meet3.mp4`
+
 **Narrator / mówca nieustalony:** Chodź, dziecko. Zadbam o twoje potrzeby.  
 **Narrator / mówca nieustalony:** Żegnajcie, detektywi.  
 
@@ -23444,6 +26387,8 @@
 
 ## Common Event 456 — SCN - Daemalis vs Lillian
 
+> **🎬 Wstawka wideo:** `DaLiMt1.mp4` (zapętlone)
+
 **Lillian:** Zostaw ich, Daemalius!  
 **Erica:** Siostro… Nie widziałem tej twarzy od dziesięcioleci.  
 **Lillian:** Nie da się tego załatwić pokojowo… prawda?  
@@ -23454,29 +26399,72 @@
 **Erica:** Zadarłaś z niewłaściwym demonem!  
 **Lillian:** Myślisz, że dorównujesz Lilith?  
 **Erica:** Przekonajmy się!  
+
+> **🎬 Wstawka wideo:** `DaLiMt2.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt3.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt4.mp4` (zapętlone)
+
 **Erica:** Wciąż wykorzystujesz swoją seksualność, żeby dostać to, czego chcesz?  
 **Lillian:** Robi ci się gorąco?  
 **Erica:** Hahahaha!  
+
+> **🎬 Wstawka wideo:** `DaLiMt5.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt6.mp4` (zapętlone)
+
 **Mox:** Heather!  
 **Carol:** Puść ją!  
 **Chloe:** Mamo!  
+
+> **🎬 Wstawka wideo:** `DaLiMt7.mp4` (zapętlone)
+
 **Heather:** O cholera!  
 **Erica:** Och, Heather… Odkąd cię zobaczyłem, marzę, żeby dotknąć twojego ciała.  
 **Heather:** Eriko?  
 **Erica:** Aaargh!  
+
+> **🎬 Wstawka wideo:** `DaLiMt8.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt9.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt10.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt11.mp4` (zapętlone)
+
 **Erica:** Och, Carol! Ależ masz seksowne ciało mamusi!...  
 **Erica:** Co to za moc?...  
+
+> **🎬 Wstawka wideo:** `DaLiMt12.mp4` (zapętlone)
+
 **Mox:** Cholera! Carol!  
 **Lillian:** Puść ją! To sprawa między nami!  
+
+> **🎬 Wstawka wideo:** `DaLiMt13.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt14.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt15.mp4` (zapętlone)
+
 **Erica:** Bardziej zależy ci na człowieku niż na twoich pobratymcach!  
 **Lillian:** Nie przybyłam tu, żeby zniszczyć ich świat!  
 **Erica:** Myślisz, że jesteś prawdziwą matką ludzkości? Oni mają cię gdzieś! Zawsze tak było!  
+
+> **🎬 Wstawka wideo:** `DaLiMt16.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt17.mp4`
+
+> **🎬 Wstawka wideo:** `DaLiMt18.mp4` (zapętlone)
+
 **Lillian:** Uciekajcie! Do szczeliny!  
 **Mox:** Potrzebujemy ciała Eriki!  
 **Lillian:** Dusza Eriki pojawi się na ołtarzu w piekle…  
 **Lillian:** Spotkamy się tam!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `DaLiMt19.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -25331,6 +28319,8 @@
 
 ## Common Event 369 — SCN - Zeph Writing
 
+> **🎬 Wstawka wideo:** `ZephWrite.mp4` (zapętlone)
+
 **Postać niezależna:** W wizjach ujrzałem swoje przeznaczenie. Modlitwy do Boga objawiły mi mój los.  
 **Postać niezależna:** Anioł Pański przyszedł do mnie nocą.  
 **Postać niezależna:** Biskupi nie widzą tych wizji. Być może zepsucie dotarło na najwyższe szczeble Kościoła.  
@@ -25405,7 +28395,7 @@
 **Erica:** Była naga… Alternatywą był habit.  
 **Judy:** Moim zdaniem ładnie wygląda.  
 **Tasha:** Czemu tak długo cię nie było?  
-**Brian:** Demony porwały Mox.  
+**Brian:** Demony porwały Moxa.  
 **Melissa:** Demony?  
 **Mox:** Cóż… Udało mi się uciec.  
 **Brian:** Lillian go wypuściła.  
@@ -26081,7 +29071,7 @@
 **Hannah:** O cholera! Nie pozwolę, żeby ktoś zrobił z mojego ciała śmierdzącego trupa!  
 **Mox:** Jeśli potrzebuje tylko mojego nasienia, może być już za późno.  
 **Melissa:** Jaki jest plan?  
-**Brian:** Zostań tutaj z dziewczynami. Pójdę z Mox do rozdarcia.  
+**Brian:** Zostań tutaj z dziewczynami. Pójdę z Moxem do rozdarcia.  
 **Heather:** Nie powinniśmy wezwać policji?  
 **Melissa:** To nie takie proste.  
 **Mox:** Operacja Andrei odbywa się w rezydencji… Policja nie może tam wejść.  
@@ -26586,7 +29576,7 @@
 **Carol:** Dopóki mam swojego przystojniaka, jestem szczęśliwa.  
 **Heather:** Cóż… Nie podejmujmy pochopnych decyzji.  
 **Carol:** Co w ciebie wstąpiło, Heather?  
-**Heather:** Chloe bez przerwy opowiada, jak bardzo podkochuje się w Mox, a teraz jeszcze dzieli się nim z tobą…  
+**Heather:** Chloe bez przerwy opowiada, jak bardzo podkochuje się w Moxie, a teraz jeszcze dzieli się nim z tobą…  
 **Heather:** A co ze mną?  
 **Carol:** Wygląda na to, że ktoś powinien porozmawiać z Chloe. I nie chodzi o nas.  
 **Heather:** Cholera… Nie panuję nad sobą.  
@@ -26613,6 +29603,8 @@
 
 ## Common Event 438 — SCN - Judy Nellie Church
 
+> **🎬 Wstawka wideo:** `JuNe3sm1.mp4` (zapętlone)
+
 **Judy:** Szybko, Mox. Zanim ktoś przyjdzie.  
 **Mox:** Siostro Judy!  
 **Judy:** Proszę, Mox. Jeszcze tylko raz… dzisiaj.  
@@ -26620,11 +29612,20 @@
 **Judy:** Wiesz, czego chcę.  
 **Mox:** Jesteś uzależniona.  
 **Judy:** Proszę, pospiesz się.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm2.mp4` (zapętlone)
+
 **Judy:** O, Panie!  
 **Mox:** Cholera, siostro. Jesteś cała mokra.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm3.mp4` (zapętlone)
+
 **Judy:** Tak bardzo tego potrzebuję.  
 **Mox:** Musimy się pospieszyć… Ktoś nas zobaczy.  
 **Judy:** Oczywiście.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm4.mp4` (zapętlone)
+
 **Nellie:** Siostro, Brian cię szuka.  
 **Judy:** Och, tak! Oczywiście. Potrzebuję jeszcze tylko chwili.  
 **Nellie:** Co wy dwoje robicie?  
@@ -26632,13 +29633,19 @@
 **Nellie:** Hej… Odsuń się od zakonnicy.  
 **Judy:** Nie! Nie może.  
 **Nellie:** Czemu nie?  
+
+> **🎬 Wstawka wideo:** `JuNe3sm5.mp4` (zapętlone)
+
 **Nellie:** Ja pierdolę! Wy dwoje się pieprzyliście!  
 **Judy:** W tyłek! Wchodzi jej w tyłek!  
 **Mox:** Znowu to samo.  
 **Nellie:** Jak często wy dwoje to robicie?  
 **Mox:** To nie twoja sprawa, Nellie.  
-**Nellie:** Cóż… Wiesz, siostro Judy, pieprzyłam się z Mox już mnóstwo razy.  
+**Nellie:** Cóż… Wiesz, siostro Judy, pieprzyłam się z Moxem już mnóstwo razy.  
 **Judy:** /shock  
+
+> **🎬 Wstawka wideo:** `JuNe3sm6.mp4` (zapętlone)
+
 **Nellie:** Byłaś kiedyś z inną kobietą?  
 **Judy:** Panno Nellie!  
 **Mox:** Trochę się spóźniłaś, Nellie.  
@@ -26647,54 +29654,118 @@
 **Nellie:** Lepiej nie każmy Mox czekać.  
 **Judy:** Co teraz zrobimy?  
 **Nellie:** Chyba wiesz.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm7.mp4` (zapętlone)
+
 **Judy:** Ojej. W co ja się wpakowałam?...  
 **Judy:** Jesteśmy tu na widoku.  
 **Judy:** Lepiej coś zrobię… i to szybko.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuNe3sm9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuNe3sm10.mp4` (zapętlone)
+
 **Mox:** Ja pierdolę! Ale dobrze!  
+
+> **🎬 Wstawka wideo:** `JuNe3sm11.mp4` (zapętlone)
+
 **Mox:** Macie ochotę na więcej, panie?  
+
+> **🎬 Wstawka wideo:** `JuNe3sm12.mp4` (zapętlone)
+
 **Nellie:** Wybacz, siostro. Odbiłam ci faceta.  
 **Judy:** Jest w tobie?  
 **Nellie:** Tak głęboko.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm13.mp4` (zapętlone)
+
 **Mox:** Bądź miła, Nellie.  
 **Nellie:** Tak, proszę pana.  
 **Judy:** Co zamierzasz zrobić?  
+
+> **🎬 Wstawka wideo:** `JuNe3sm14.mp4` (zapętlone)
+
 **Mox:** No, teraz lepiej.  
 **Judy:** O, Jezu!  
 **Mox:** Dobrze ci z nią, siostro?  
+
+> **🎬 Wstawka wideo:** `JuNe3sm15.mp4` (zapętlone)
+
 **Judy:** Jest mi tak dobrze! Cudownie!  
 **Mox:** Wystarczy, Nellie. Teraz kolej Judy.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm16.mp4` (zapętlone)
+
 **Mox:** Cholera, ale gorąco.  
 **Mox:** Przez was aż pulsuje mi kutas.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm17.mp4` (zapętlone)
+
 **Mox:** Ale mokro…  
 **Mox:** Ale ciasna, piękna cipka.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm18.mp4` (zapętlone)
+
 **Nellie:** Cipka?  
 **Judy:** Nie, Mox! Nie wolno ci!  
 **Nellie:** Mox? Odbierasz zakonnicy dziewictwo?  
 **Mox:** To tylko gra, Nellie… Nie przejmuj się.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm19.mp4` (zapętlone)
+
 **Judy:** Nie może wejść do mojej cipki.  
 **Nellie:** Cóż… Już wszedł, siostro.  
 **Mox:** Nellie… Nie mów tego.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm20.mp4` (zapętlone)
+
 **Nellie:** Żartujesz? Tkwisz po jaja w kobiecie Bożej. Ależ to niegrzeczne!  
 **Mox:** Nellie!  
 **Judy:** Ale grzech!  
 **Nellie:** Niegrzeczna, niegrzeczna dziewczynka.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm21.mp4` (zapętlone)
+
 **Mox:** Zaciska się.  
 **Nellie:** Ale szczęściara!  
 **Judy:** Szczęściara?  
 **Nellie:** Niegrzeczne dziewczynki dochodzą najmocniej.  
 **Judy:** Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `JuNe3sm22.mp4`
+
 **Judy:** To było takie nieprzyzwoite!  
 **Nellie:** I bardzo ci się podobało!  
 **Mox:** Nellie, Judy nie jest niegrzeczną dziewczynką.  
 **Judy:** Ależ jestem! Jestem bardzo niegrzeczną dziewczynką!  
+
+> **🎬 Wstawka wideo:** `JuNe3sm23.mp4` (zapętlone)
+
 **Nellie:** Cholera, dziewczyno! Doskonale wiesz, czego chcesz!  
 **Mox:** Nie tylko ona wie, czego chce.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm24.mp4` (zapętlone)
+
 **Mox:** Tak! Wylizuj jej tyłek, siostro!...  
 **Mox:** A ty obciągaj mu, Nellie!  
+
+> **🎬 Wstawka wideo:** `JuNe3sm25.mp4` (zapętlone)
+
 **Mox:** Dobrze… Tak!  
 **Mox:** Doprowadźcie mnie do orgazmu, dziewczyny.  
+
+> **🎬 Wstawka wideo:** `JuNe3sm26.mp4` (zapętlone)
+
 **Mox:** O kurwa!  
+
+> **🎬 Wstawka wideo:** `JuNe3sm27.mp4` (zapętlone)
+
 **Mox:** Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `JuNe3sm28.mp4`
+
 **Nellie:** Cholera! Ale wytrysk!... Cała zakonna cipka jest w spermie!  
 **Judy:** Czuję się taka nieczysta!  
 **Nellie:** Tak! Właśnie taka nieczysta!  
@@ -26733,7 +29804,7 @@
 **Nellie:** Armia Upadłych?  
 **Tasha:** Ludzi, którzy umarli, przywrócono do życia.  
 **Brian:** Niezupełnie…  
-**Brian:** Czarownice używały Toma, by wyrywać dusze ludzi, żeby demony mogły w ich ciałach przybywać na Ziemię.  
+**Brian:** Czarownice używały Tomy, by wyrywać dusze ludzi, żeby demony mogły w ich ciałach przybywać na Ziemię.  
 **Nellie:** Hę?  
 **Mox:** Jak to działa?  
 **Brian:** Jedyni ludzie, którzy przeżyli Tomę Leolo, odwrócili wzrok.  
@@ -26947,7 +30018,7 @@
 **Nellie:** Mox, Andrea nie wie, że tu jestem… ale… Duncan cię szuka.  
 **Mox:** /shock  
 **Henry:** Czy Duncan tu idzie?  
-**Nellie:** Nie… Chce spotkać się z Mox w rezydencji.  
+**Nellie:** Nie… Chce spotkać się z Moxem w rezydencji.  
 **Mox:** Spotkać się? Jesteś pewna, że nie próbuje mnie zabić?  
 **Diana:** To oczywista pułapka.  
 **Nellie:** Mox… Powiedział mi coś… Coś, w co nie wierzę, ale…  
@@ -27173,6 +30244,8 @@
 
 ## Common Event 385 — SCN - Melissa First Fuck
 
+> **🎬 Wstawka wideo:** `MeMcMtF1.mp4` (zapętlone)
+
 **Mox:** Daj spokój, Melisso. Przecież widać, że mam rację.  
 **Melissa:** A dlaczego Madalyn? Pomijając, że jest tylko jedną zakonnicą — po co miałaby to robić? Jaki miałaby motyw?  
 **Mox:** To zakonnica-zabójczyni, ale… Nie ona za tym stoi. To Lillian jest mózgiem całej operacji.  
@@ -27189,6 +30262,11 @@
 **Melissa:** Gówno prawda! Nawet jeśli Charles został zabity, pewnie zrobił to Duncan.  
 **Melissa:** Masz, czego chciałeś. Gildia tu jest. Czego jeszcze, do cholery, chcesz?  
 **Mox:** Może zostawisz to mnie i wrócisz do partaczenia jakiejś innej gównianej sprawy.  
+
+> **🎬 Wstawka wideo:** `MeMcMtF2.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcMtF3.mp4` (zapętlone)
+
 **Mox:** Jezu, kobieto! Co jest, do cholery?!  
 **Melissa:** Ludzie tacy jak ty przyprawiają mnie o mdłości.  
 **Mox:** Lepiej módl się, żeby ten awans szybko nadszedł.  
@@ -27196,57 +30274,129 @@
 **Melissa:** Z przyjemnością popatrzę, jak spadasz na ziemię.  
 **Mox:** Tak? To nie jedyna rzecz, na którą będziesz patrzeć z przyjemnością.  
 **Melissa:** Co robisz?  
+
+> **🎬 Wstawka wideo:** `MeMcMtF4.mp4` (zapętlone)
+
 **Mox:** Napatrz się, Melisso. Właśnie tego chciałaś, prawda?  
 **Melissa:** Mox!  
 **Mox:** Oblałaś mi krocze gorącą kawą. Czego się spodziewałaś?  
 **Melissa:** Ty dupku!  
 **Mox:** Skończmy z tym… Chodź tu i obciągnij mi.  
 **Melissa:** Aaargh!  
+
+> **🎬 Wstawka wideo:** `MeMcMtF5.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcMtF6.mp4` (zapętlone)
+
 **Mox:** Au! Hej!  
 **Melissa:** Myślisz, że świat kręci się wokół ciebie.  
 **Mox:** Puść moje jaja!  
 **Melissa:** Myślisz, że jesteś postacią w jakiejś grze wideo… w grze, której nie da się przegrać.  
 **Mox:** Wybacz, że ruszyłem tyłek i coś zrobiłem.  
+
+> **🎬 Wstawka wideo:** `MeMcMtF7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `MeMcMtF8.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcMtF9.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcMtF10.mp4` (zapętlone)
+
 **Melissa:** Mox!  
 **Melissa:** Co ty, do cholery, robisz?  
+
+> **🎬 Wstawka wideo:** `MeMcMtF11.mp4` (zapętlone)
+
 **Melissa:** Złaź… ze… mnie…  
 **Melissa:** O kurwa.  
+
+> **🎬 Wstawka wideo:** `MeMcMtF12.mp4` (zapętlone)
+
 **Melissa:** Właśnie tego chcesz, Mox? Nie sądziłam, że naprawdę będziesz całował mnie po tyłku.  
 **Melissa:** W tej pozycji jesteś nawet znośny…  
+
+> **🎬 Wstawka wideo:** `MeMcMtF13.mp4` (zapętlone)
+
 **Melissa:** Tak…  
 **Melissa:** Przyjemniej jest używać ust do czegoś innego niż gadanie bzdur, prawda?  
+
+> **🎬 Wstawka wideo:** `MeMcMtF14.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcMtF15.mp4` (zapętlone)
+
 **Mox:** Dużo szczekasz jak na kobietę, która się palcuje, myśląc o moim wielkim kutasie.  
 **Melissa:** No i co? Zrobisz to, czy tylko dużo gadasz?  
+
+> **🎬 Wstawka wideo:** `MeMcMtF16.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcMtF17.mp4` (zapętlone)
+
 **Melissa:** O kurwa!  
 **Mox:** Potrafię poprzeć swoje słowa czynami, panno Bhatt.  
 **Melissa:** Jezu, ale jesteś wielki.  
 **Mox:** Rozkoszuj się. Przyda ci się porządne pieprzenie.  
+
+> **🎬 Wstawka wideo:** `MeMcMtF18.mp4` (zapętlone)
+
 **Melissa:** Tylko na tyle cię stać?  
 **Mox:** Och, mam ci jeszcze wiele do zaoferowania.  
+
+> **🎬 Wstawka wideo:** `MeMcMtF19.mp4` (zapętlone)
+
 **Melissa:** Ach! Cholera!  
 **Mox:** Nie dajesz rady?  
 **Melissa:** Pieprz mnie!  
 **Mox:** Uwielbiasz to. Jesteś mokra jak diabli.  
+
+> **🎬 Wstawka wideo:** `MeMcMtF20.mp4` (zapętlone)
+
 **Mox:** Muszę przyznać, że widok twojego wielkiego tyłka odbijającego się od moich bioder sprawia, że prawie da się znieść bycie twoim partnerem.  
+
+> **🎬 Wstawka wideo:** `MeMcMtF21.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcMtF22.mp4` (zapętlone)
+
 **Melissa:** Nie jesteś moim partnerem. Jesteś moim podwładnym.  
 **Mox:** Już niedługo.  
 **Melissa:** Leż spokojnie, Mox. Pokażę ci, jak to się robi.  
+
+> **🎬 Wstawka wideo:** `MeMcMtF23.mp4` (zapętlone)
+
 **Mox:** Och, tak. Próbujesz zmiażdżyć mi kutasa… Czuję to.  
 **Melissa:** Po prostu się zamknij.  
 **Mox:** Ujeżdżaj mnie, kowbojko!  
 **Melissa:** Zamknij się!  
+
+> **🎬 Wstawka wideo:** `MeMcMtF24.mp4` (zapętlone)
+
 **Melissa:** O Boże!  
 **Mox:** Kurwa, jesteś taka seksowna.  
 **Melissa:** Daj mi to!  
 **Mox:** Dawaj!  
+
+> **🎬 Wstawka wideo:** `MeMcMtF25.mp4` (zapętlone)
+
 **Mox:** Właśnie tak!  
 **Melissa:** Ach! Ale twardy!  
 **Mox:** Cholera, Melisso!  
+
+> **🎬 Wstawka wideo:** `MeMcMtF26.mp4` (zapętlone)
+
 **Mox:** Zaraz doprowadzisz mnie do orgazmu.  
 **Melissa:** Jeszcze nie.  
+
+> **🎬 Wstawka wideo:** `MeMcMtF27.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcMtF28.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcMtF29.mp4` (zapętlone)
+
 **Mox:** Moja kolej.  
 **Melissa:** Hej! Uważaj, gdzie tym celujesz!  
 **Mox:** Bierz, Melisso!  
+
+> **🎬 Wstawka wideo:** `MeMcMtF30.mp4`
+
 **Melissa:** Ty draniu!  
 **Mox:** Co?! Chciałaś mojej spermy, prawda?  
 **Melissa:** Tylko nie na twarz.  
@@ -27417,17 +30567,29 @@
 
 ## Common Event 409 — SCN - Melissa Hacking
 
+> **🎬 Wstawka wideo:** `MeHack1.mp4` (zapętlone)
+
 **Melissa:** Działa. Widzę już pliki Gildii Zaćmienia.  
 **Mox:** /excited  
 **Melissa:** Spokojnie. Mam przed sobą sporo lektury.  
 **Mox:** Pozwól, że pomogę.  
 **Melissa:** Odsuń się. Poradzę sobie.  
 **Mox:** …  
+
+> **🎬 Wstawka wideo:** `MeHack2.mp4` (zapętlone)
+
 **Melissa:** Jeśli próbujesz mnie rozproszyć, to ci się nie udaje.  
 **Mox:** Prowokujesz mnie, żebym posunął się dalej?  
 **Melissa:** Goni nas czas czy nie?  
 **Mox:** W takim razie pozwól, że pomogę.  
 **Melissa:** Nie!  
+
+> **🎬 Wstawka wideo:** `MeHack3.mp4`
+
+> **🎬 Wstawka wideo:** `MeHack4.mp4`
+
+> **🎬 Wstawka wideo:** `MeHack5.mp4` (zapętlone)
+
 **Melissa:** Cholera. Charles Wilkes ma ukryty plik…  
 **Mox:** Co z niego wynika?  
 **Melissa:** Charles Wilkes poślubił Madalyn Rose zgodnie z prawem.  
@@ -27435,40 +30597,84 @@
 **Melissa:** Był powiązany z Vayne’em Stone’em i Morganem Deluną.  
 **Mox:** Złodziej?  
 **Melissa:** Wygląda na to, że był kupcem i złodziejem. Obaj należeli do Gildii.  
+
+> **🎬 Wstawka wideo:** `MeHack6.mp4` (zapętlone)
+
 **Mox:** Czy to nam pomoże? Możemy zdobyć nakaz przeszukania rezydencji, ale co nam to teraz da?  
 **Mox:** Jest coś, co łączy Gildię z magazynem?  
 **Melissa:** Czytam.  
 **Mox:** Nie spiesz się. Jeszcze trochę będę rozkoszował się tą cipką.  
+
+> **🎬 Wstawka wideo:** `MeHack7.mp4` (zapętlone)
+
 **Melissa:** O cholera!  
 **Mox:** Właśnie tak! Bierz mojego kutasa!  
 **Melissa:** Charles nigdy nie miał córki.  
+
+> **🎬 Wstawka wideo:** `MeHack8.mp4` (zapętlone)
+
 **Mox:** Lillian jest jego córką.  
 **Melissa:** Akta mogą być błędne… Ale w testamencie nie zostawił ani centa nikomu o imieniu Lillian.  
+
+> **🎬 Wstawka wideo:** `MeHack9.mp4` (zapętlone)
+
 **Melissa:** Raporty z sekcji zwłok?  
 **Mox:** Co widzisz?  
 **Melissa:** …  
+
+> **🎬 Wstawka wideo:** `MeHack10.mp4` (zapętlone)
+
 **Melissa:** Charles został zamordowany.  
 **Mox:** Przez kogo? Kogoś z nas? Kogoś z Gildii?  
+
+> **🎬 Wstawka wideo:** `MeHack11.mp4` (zapętlone)
+
 **Melissa:** Nellie Cole.  
+
+> **🎬 Wstawka wideo:** `MeHack12.mp4` (zapętlone)
+
 **Mox:** Nie gadaj… Eliminuje konkurencję dla Duncana.  
 **Melissa:** Agentka pod przykrywką morduje dla Gildii? Wodzi nas za nos.  
 **Mox:** Nie… Kieruje się innymi zasadami.  
+
+> **🎬 Wstawka wideo:** `MeHack13.mp4` (zapętlone)
+
 **Melissa:** Ufasz jej?  
 **Mox:** Jeśli nie rozbije Gildii, Andrea odeśle ją z powrotem do więzienia…  
 **Mox:** Pod tym względem możemy jej ufać.  
+
+> **🎬 Wstawka wideo:** `MeHack14.mp4` (zapętlone)
+
 **Melissa:** Chyba mam plan.  
 **Mox:** O co chodzi?  
 **Melissa:** Najpierw najważniejsze.  
+
+> **🎬 Wstawka wideo:** `MeHack15.mp4` (zapętlone)
+
 **Mox:** Melisso!  
 **Melissa:** Pieprz mnie!  
+
+> **🎬 Wstawka wideo:** `MeHack16.mp4` (zapętlone)
+
 **Mox:** Łał! Spokojnie!  
+
+> **🎬 Wstawka wideo:** `MeHack17.mp4` (zapętlone)
+
 **Melissa:** Aż zapiera mi dech, niegrzeczny chłopcze!  
+
+> **🎬 Wstawka wideo:** `MeHack18.mp4` (zapętlone)
+
 **Mox:** Jezu! Kurwa! Cholera!  
 **Melissa:** Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `MeHack19.mp4` (zapętlone)
+
 **Melissa:** Dojdź, kochanie! Dojdź!  
 **Mox:** Zaraz… dojdę!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `MeHack20.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -27578,29 +30784,71 @@
 
 ## Common Event 440 — SCN - Melissa Lillian Condo
 
+> **🎬 Wstawka wideo:** `MeLiCndo1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `MeLiCndo2.mp4` (zapętlone)
+
 **Mox:** A co z prawdziwą pracą?...  
 **Mox:** Pewnie potrzebujesz przerwy.  
+
+> **🎬 Wstawka wideo:** `MeLiCndo3.mp4` (zapętlone)
+
 **Mox:** Nie żebym narzekał…  
 **Mox:** Och, tak… Twoje usta zawsze są mile widziane na moim kutasie.  
+
+> **🎬 Wstawka wideo:** `MeLiCndo4.mp4` (zapętlone)
+
 **Melissa:** Boże, tak bardzo potrzebowałam tego kutasa!  
 **Mox:** Co w ciebie wstąpiło, Melisso?...  
 **Mox:** Przed chwilą byłaś suką, a teraz… jesteś wyjątkowo miła.  
+
+> **🎬 Wstawka wideo:** `MeLiCndo5.mp4` (zapętlone)
+
 **Melissa:** Zamknij się, do cholery, i daj mi tego kutasa!  
 **Mox:** Nie mam zastrzeżeń.  
+
+> **🎬 Wstawka wideo:** `MeLiCndo6.mp4` (zapętlone)
+
 **Melissa:** Boże! Doprowadź mnie do orgazmu, kochanie!  
+
+> **🎬 Wstawka wideo:** `MeLiCndo7.mp4` (zapętlone)
+
 **Melissa:** Tak! Aż mi cipka pulsuje!  
+
+> **🎬 Wstawka wideo:** `MeLiCndo8.mp4` (zapętlone)
+
 **Melissa:** Skosztuj mojej mokrej cipki, Mox!  
 **Melissa:** Podoba ci się! Wiem, że uwielbiasz moją soczystą cipkę!  
+
+> **🎬 Wstawka wideo:** `MeLiCndo9.mp4` (zapętlone)
+
 **Melissa:** Chcę cię! Potrzebuję cię!  
 **Melissa:** Daj mi to! Daj mi rozkosz!  
+
+> **🎬 Wstawka wideo:** `MeLiCndo10.mp4`
+
+> **🎬 Wstawka wideo:** `MeLiCndo11.mp4` (zapętlone)
+
 **Mox:** Lillian!  
 **Mox:** Co tu robisz?  
 **Mox:** … Och, kurwa!  
+
+> **🎬 Wstawka wideo:** `MeLiCndo12.mp4` (zapętlone)
+
 **Mox:** Ale to przyjemne… Czemu to robisz?  
+
+> **🎬 Wstawka wideo:** `MeLiCndo13.mp4` (zapętlone)
+
 **Mox:** Cholera! Cholera!  
 **Mox:** Chcesz doprowadzić mnie do orgazmu…  
+
+> **🎬 Wstawka wideo:** `MeLiCndo14.mp4` (zapętlone)
+
 **Mox:** Ona chce mojej spermy!  
 **Mox:** Lillian! Przestań!... Czekaj!  
+
+> **🎬 Wstawka wideo:** `MeLiCndo15.mp4`
+
 **Mox:** Co do cholery!  
 **Melissa:** Jezu! Co tu się, do cholery, stało?  
 
@@ -27716,39 +30964,83 @@
 
 ## Common Event 464 — SCN - Andrea Toma
 
+> **🎬 Wstawka wideo:** `AdTmaBgDk1.mp4` (zapętlone)
+
 **Mox:** To ta z kutasem!  
 **Andrea:** Wszystko w porządku?  
 **Mox:** Daj mi chwilę… Już sobie przypominam.  
 **Andrea:** Twój kutas! Ale wielki!  
 **Mox:** Tak… Tak… Już prawie.  
 **Andrea:** O cholera! Ale kutas!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk2.mp4`
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk3.mp4` (zapętlone)
+
 **Andrea:** Wygląda na to, że mam właściwy fragment tej statuy.  
 **Mox:** Boże, ale jesteś seksowna! Chcę zerżnąć to apetyczne ciało mamuśki!  
 **Andrea:** Chodź po swoje, kochasiu.  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk4.mp4` (zapętlone)
+
 **Mox:** Kurwa!  
 **Andrea:** Cholera, ale jest wielki!  
 **Mox:** Muszę zerżnąć tę cipkę!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk5.mp4`
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk6.mp4` (zapętlone)
+
 **Andrea:** Och, Mox! Kurwa!  
 **Mox:** Tak! Tak! Bierz mojego kutasa, kobieto!  
 **Andrea:** Jest cholernie wielki!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk7.mp4` (zapętlone)
+
 **Mox:** Twoja cipka jest taka głęboka, a mój kutas taki wielki!  
 **Andrea:** Daj mi wszystko! Rżnij mnie, aż moje łono ulegnie!  
 **Mox:** Tak!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk8.mp4` (zapętlone)
+
 **Andrea:** Zerżnij mnie! Zerżnij mnie!  
 **Mox:** Twoje ciało jest takie seksowne! Twoja cipka taka ciasna!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk9.mp4` (zapętlone)
+
 **Andrea:** Jak ty się w ogóle we mnie mieścisz? Rozciągasz mnie!  
 **Mox:** Ściśnij mojego kutasa tą mokrą, ciepłą cipką!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk10.mp4` (zapętlone)
+
 **Andrea:** Bierz mnie, Mox!  
 **Mox:** Jesteś moja, kochanie!  
 **Andrea:** Tak!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk11.mp4` (zapętlone)
+
 **Andrea:** Zasłużyłeś, kochanie. Zasłużyłeś na moją cipkę!  
 **Mox:** Czuję każdy twój centymetr! Wypełniam cię całą!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk12.mp4` (zapętlone)
+
 **Andrea:** O Boże! O Boże, tak!  
 **Mox:** Bierz! Mojego! Kutasa!  
 **Andrea:** Ugh! Kurwa!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk13.mp4` (zapętlone)
+
 **Mox:** Cholera! Długo już nie wytrzymam.  
 **Andrea:** Daj mi swoją spermę, kochanie!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk14.mp4`
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk15.mp4`
+
 **Andrea:** Pyszne!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk16.mp4` (zapętlone)
+
 **Mox:** Ile kosztował cię ten kamień?  
 **Andrea:** Nie martw się tym, Mox… Morgan potrzebowała pieniędzy.  
 **Mox:** Wygląda na to, że tworzyliście zgrany duet… Ale to już koniec, prawda, Andreo?  
@@ -27818,6 +31110,8 @@
 
 ## Common Event 304 — SCN - Hannah Meet
 
+> **🎬 Wstawka wideo:** `HaIntro1.mp4`
+
 **Narrator / mówca nieustalony:** Hej! Może najpierw zapukasz?  
 **Narrator / mówca nieustalony:** Dlaczego tak głośno oglądasz telewizję?  
 **Narrator / mówca nieustalony:** A gdzie twoje ubrania?  
@@ -27830,6 +31124,9 @@
 **Narrator / mówca nieustalony:** A teraz inne wieści: eksperci ds. zdrowia ujawniają kolejne szokujące skutki uboczne  
 **Narrator / mówca nieustalony:** tego, co określa się mianem „wirusa seksu”.  
 **Narrator / mówca nieustalony:** Omówimy siedem oznak, że możesz już być zarażony.  
+
+> **🎬 Wstawka wideo:** `HaIntro2.mp4` (zapętlone)
+
 **Hannah:** Zaprosiłeś już Chloe na randkę, Mox?  
 **Mox:** Mówiłem ci, Hannah. Byłem zajęty.  
 **Hannah:** Czego się boisz?  
@@ -27850,11 +31147,19 @@
 **Mox:** Nie wierz we wszystko, co pokazują w wiadomościach.  
 **Hannah:** Wiesz, Mox… Ostatnio mam większą ochotę na igraszki.  
 **Mox:** Hannah!  
+
+> **🎬 Wstawka wideo:** `HaIntro3.mp4` (zapętlone)
+
 **Hannah:** No chodź, Mox. Zaspokójmy cię i skończmy z tą twoją posuchą.  
 **Mox:** Naprawdę mówisz poważnie?  
 **Hannah:** No jasne! Zasmakuj w soczystej cipce Hannah Ray!  
 **Mox:** Ja… nie wiem, co powiedzieć.  
 **Hannah:** Nie proszę, żebyś cokolwiek mówił.  
+
+> **🎬 Wstawka wideo:** `HaIntro4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `HaIntro5.mp4` (zapętlone)
+
 **Hannah:** Ale z ciebie naiwniak!  
 **Mox:** Hej! To boli!  
 **Hannah:** Stracisz szansę u Chloe, jeśli będziesz się zabawiał z jej najlepszą przyjaciółką.  
@@ -27988,7 +31293,7 @@
 **Carol:** Przy takiej burzy nie sądzę, żebyście mogły bezpiecznie stąd wyjść.  
 **Mox:** Ostatnio pogoda naprawdę wariuje.  
 **Hannah:** W telewizji nic nie ma!  
-**Judy:** Zwykle nie oglądam telewizji, ale widziałam Mox w wiadomościach.  
+**Judy:** Zwykle nie oglądam telewizji, ale widziałam Moxa w wiadomościach.  
 **Chloe:** Tak. To było fajne.  
 **Mox:** Wiecie, dziewczyny, jutro znowu będę w telewizji.  
 **Judy:** Naprawdę?!  
@@ -27998,7 +31303,7 @@
 **Chloe:** Chodzi o tych złych facetów z jaskini?  
 **Mox:** Tak… Trudno to wyjaśnić. Chyba lepiej nic nie mówić.  
 **Hannah:** No weź! Powiedz mi!  
-**Carol:** Spokojnie, Hannah. Nie wprawiaj Mox w zakłopotanie. Nie zawsze może opowiadać o pracy…  
+**Carol:** Spokojnie, Hannah. Nie wprawiaj Moxa w zakłopotanie. Nie zawsze może opowiadać o pracy…  
 **Carol:** To poważne sprawy.  
 **Judy:** Robi się późno. Ciekawe, czy burza trochę ustąpi.  
 **Carol:** Możecie zostać na noc.  
@@ -28183,50 +31488,85 @@
 
 ## Common Event 381 — SCN - Heather MC Toma
 
+> **🎬 Wstawka wideo:** `HeDmnDk1.mp4` (zapętlone)
+
 **Mox:** To nie żołądek… To… Coś się ze mną dzieje.  
 **Heather:** Ojej. Spokojnie. Może ugryzło cię coś jadowitego.  
 **Mox:** To nie to… To…  
+
+> **🎬 Wstawka wideo:** `HeDmnDk2.mp4` (zapętlone)
+
 **Mox:** Kutas boli mnie jak cholera.  
 **Heather:** O Boże. Co się z nim stało?  
 **Mox:** Jest chyba opuchnięty.  
 **Heather:** Jest strasznie opuchnięty!  
 **Mox:** Ach! Ach!  
 **Heather:** Spróbuj się rozluźnić.  
+
+> **🎬 Wstawka wideo:** `HeDmnDk3.mp4` (zapętlone)
+
 **Mox:** Cholera, jesteś przepiękna.  
 **Heather:** Mox?  
 **Mox:** Ale z ciebie seksowna mamuśka!  
 **Heather:** Nadal cię boli?  
 **Mox:** Już nie, kochanie.  
+
+> **🎬 Wstawka wideo:** `HeDmnDk4.mp4` (zapętlone)
+
 **Heather:** Mmmm…  
+
+> **🎬 Wstawka wideo:** `HeDmnDk5.mp4` (zapętlone)
+
 **Heather:** Mox? To do ciebie niepodobne.  
 **Heather:** Nigdy wcześniej tak się wobec mnie nie zachowywałeś.  
+
+> **🎬 Wstawka wideo:** `HeDmnDk6.mp4` (zapętlone)
+
 **Heather:** Mox! Co ty, do cholery, wyprawiasz?  
 **Mox:** Chcę pieprzyć twoją słodką cipkę, mamuśko.  
 **Heather:** Co w ciebie wstąpiło?  
 **Mox:** O tak. Wygląda smakowicie!  
+
+> **🎬 Wstawka wideo:** `HeDmnDk7.mp4` (zapętlone)
+
 **Mox:** Achhh! Kurwa!  
 **Heather:** Coś jest nie tak, Mox.  
 **Mox:** Kutas mnie boli!... Muszę dojść!  
 **Heather:** Cholera. Co mam robić?  
+
+> **🎬 Wstawka wideo:** `HeDmnDk8.mp4` (zapętlone)
+
 **Heather:** Spokojnie, kochanie. Zaraz ci ulży.  
 **Mox:** Pospiesz się! Boli!  
 **Heather:** Spróbuj się rozluźnić. Coś strasznie cię podnieciło…  
 **Heather:** Ciekawe, czy coś było w tym strumieniu.  
+
+> **🎬 Wstawka wideo:** `HeDmnDk9.mp4` (zapętlone)
+
 **Heather:** Właśnie tak. Spokojnie.  
 **Mox:** Och, Heather.  
 **Heather:** Lepiej się czujesz?  
 **Mox:** Chcę pieprzyć! Argh! Muszę kogoś zerżnąć!  
 **Heather:** Jestem przy tobie.  
+
+> **🎬 Wstawka wideo:** `HeDmnDk10.mp4` (zapętlone)
+
 **Heather:** Jakie to uczucie?  
 **Mox:** Przyjemne… Nie wkładaj go.  
 **Heather:** Mox?  
 **Mox:** Kurwa! Włóż go do cipki!  
 **Heather:** To już prawie koniec.  
+
+> **🎬 Wstawka wideo:** `HeDmnDk11.mp4` (zapętlone)
+
 **Mox:** Nie mogę tego zrobić. Co ja, do cholery, wyprawiam?  
 **Heather:** Dojdź, Mox. Musisz dojść.  
 **Mox:** Daj mi swoją cipkę!  
 **Heather:** Ja… Na pewno?  
 **Mox:** Heather! Dochodzę.  
+
+> **🎬 Wstawka wideo:** `HeDmnDk12.mp4`
+
 **Heather:** Jezu! Moje plecy!  
 **Mox:** Ja pierdolę. Co to, do cholery, było?  
 **Heather:** Mox? Jak się czujesz?  
@@ -28329,24 +31669,38 @@
 
 ## Common Event 392 — SCN - Carol kitchen
 
+> **🎬 Wstawka wideo:** `CaMcKtchAnl1.mp4` (zapętlone)
+
 **Carol:** Coś nie tak, Mox? Moje jedzenie ci nie wystarczyło?  
 **Mox:** Carol? Co tu robisz?  
 **Carol:** Nie mogłam zasnąć. Pomyślałam, że zejdę na dół.  
 **Mox:** Wszystko w porządku?  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl2.mp4` (zapętlone)
+
 **Carol:** Wszystko w porządku, skarbie.  
 **Mox:** Carol?  
 **Carol:** Najlepiej przytulasz.  
 **Mox:** Zeszłaś tu tylko po przytulasa?  
 **Carol:** Co o tym myślisz?  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl3.mp4` (zapętlone)
+
 **Mox:** Carol! A co z dziewczynami?  
 **Carol:** Śpią, prawda?  
 **Mox:** No… Chyba tak.  
 **Carol:** A ty szukasz małej przekąski, prawda?  
 **Mox:** Heh. Zgadza się.  
 **Carol:** To chodź i skosztuj mamusi.  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl4.mp4` (zapętlone)
+
 **Carol:** Och! Ale z ciebie niegrzeczny chłopiec.  
 **Carol:** Właśnie to lubisz?...  
 **Carol:** Ale przyjemnie, kochanie.  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl5.mp4` (zapętlone)
+
 **Mox:** Carol… Co sądzisz o seksie analnym?  
 **Carol:** Chcesz spróbować?  
 **Mox:** Cóż… To się liczy jako prawdziwy seks?  
@@ -28356,9 +31710,17 @@
 **Mox:** Na pewno?  
 **Carol:** Dam radę.  
 **Mox:** To brzmi znajomo.  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl6.mp4`
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl7.mp4` (zapętlone)
+
 **Carol:** Cholera! Jest trochę większy, niż się spodziewałam.  
 **Mox:** Wszystko w porządku?  
 **Carol:** Włóż go, kochanie. Podoba mi się.  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl8.mp4` (zapętlone)
+
 **Carol:** Robiłeś to już wcześniej, prawda?  
 **Mox:** No cóż… tak.  
 **Carol:** Która szczęściara?  
@@ -28366,15 +31728,24 @@
 **Carol:** Jedna z twoich nowych dziewczyn?  
 **Mox:** Cholera, Carol. Nie mogę zebrać myśli, tak dobrze czuję twój tyłek.  
 **Carol:** Dawaj, nie oszczędzaj mnie. Nie zrobisz mi krzywdy.  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl9.mp4` (zapętlone)
+
 **Carol:** O rany! Chyba jeszcze nigdy nie byłam tak wypełniona.  
 **Mox:** Carol… Ale dobrze!  
 **Carol:** Jesteś w tym dobry.  
 **Mox:** Masz taki słodki tyłeczek.  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl10.mp4` (zapętlone)
+
 **Carol:** Chcesz to zrobić Judy, prawda?  
 **Mox:** Carol… Proszę.  
 **Carol:** Jest naprawdę śliczna. Zamierzasz spróbować?  
 **Mox:** Ja… nie wiem.  
 **Carol:** A może tak?...  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl12.mp4` (zapętlone)
+
 **Carol:** Och!! Mamusi się to podoba!  
 **Mox:** Ach, tak!... Carol… Doszedłem.  
 **Carol:** Ależ z ciebie napalony ogier. I to z zakonnicą.  
@@ -28382,13 +31753,25 @@
 **Carol:** No proszę, chłopcze! Ale się rozkręciłeś…  
 **Carol:** Hannah?  
 **Mox:** Nie… do końca.  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl11.mp4` (zapętlone)
+
 **Carol:** Och, Mox. Uszczęśliwiasz wiele kobiet.  
 **Mox:** To takie przyjemne.  
 **Carol:** Tylko uważaj, żebyś nie złamał żadnego serca.  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl14.mp4` (zapętlone)
+
 **Carol:** Doprowadź mnie do orgazmu, duży chłopcze. Mamusia musi wrócić do łóżka.  
 **Mox:** Już prawie.  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl13.mp4` (zapętlone)
+
 **Carol:** Właśnie tak! Właśnie tak! Pocieraj tym mięsem o moją cipkę!  
 **Mox:** Carol!  
+
+> **🎬 Wstawka wideo:** `CaMcKtchAnl15.mp4`
+
 **Carol:** No i jak przyjemnie, prawda?  
 **Mox:** Jesteś taka seksowna, Carol.  
 
@@ -28803,7 +32186,7 @@
 **Carol:** …  
 **Carol:** Cóż, byłam zajęta na zewnątrz.  
 **Carol:** …  
-**Carol:** Z Mox.  
+**Carol:** Z Moxem.  
 **Carol:** …  
 **Carol:** No pewnie. Opowiem ci później.  
 **Mox:** Czemu Hannah dzwoni?  
@@ -28899,6 +32282,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Carol.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -28921,10 +32306,15 @@
 
 ## Common Event 424 — SCN - Hannah Ella Carol
 
+> **🎬 Wstawka wideo:** `HnCaElKtch1.mp4` (zapętlone)
+
 **Hannah:** Nie zamierzasz tego naprawdę zrobić, prawda?  
 **Ella:** Jak powiedziała tamta kobieta… To twoja ostatnia szansa.  
 **Mox:** Haha… Mówiłem, żeby nie lekceważyć Elli.  
 **Carol:** No to dawaj. Zobaczmy.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch2.mp4` (zapętlone)
+
 **Carol:** Tak właśnie robisz przed kamerą?  
 **Ella:** Och! Zgadza się.  
 **Mox:** Ella jest sławna w internecie.  
@@ -28932,68 +32322,119 @@
 **Carol:** Jestem pewna, że Ella dobrze smakuje.  
 **Mox:** Mogę to potwierdzić!  
 **Hannah:** Hej!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch3.mp4` (zapętlone)
+
 **Ella:** Co powiesz, kochanie? Smakuje ci?  
 **Mox:** Mmmm… Słodko i pysznie.  
 **Carol:** To już koniec przedstawienia?  
 **Ella:** To był dopiero wstęp.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch4.mp4` (zapętlone)
+
 **Ella:** Pokażmy im prawdziwe przedstawienie, Mox.  
 **Hannah:** Mox! Schowaj tego siusiaka! Musimy przygotować kolację.  
 **Carol:** Hannah jest głodna. Lepiej postarajcie się, żeby było soczyście, jeśli chcecie odciągnąć ją od jedzenia.  
 **Mox:** Ello?  
 **Ella:** Podkręć temperaturę, Mox.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch5.mp4` (zapętlone)
+
 **Carol:** Ale gorąco!  
 **Ella:** O tak!  
 **Hannah:** Hej! Będziemy jeść przy tym stole!  
 **Carol:** Dawaj, wielkoludzie.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch6.mp4` (zapętlone)
+
 **Mox:** Nie wiem, jak ty to robisz, Ello… Ale oto jesteśmy.  
 **Ella:** Pokaż jej, na co cię stać! Pieprz mnie!  
 **Hannah:** Ale się w to wkręciłaś.  
 **Carol:** Ojej. Chyba robi się tu gorąco.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch7.mp4` (zapętlone)
+
 **Ella:** Dołącz do nas, Carol. Chcę zobaczyć ten wielki, jędrny tyłek.  
 **Carol:** Panno Ello!  
 **Hannah:** Mama nie będzie się z wami bawić. Musi przygotować kolację!  
 **Mox:** Jeśli ktoś jeszcze ma ochotę na kutasa, niech się pospieszy… Nie wiem, jak długo wytrzymam.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch8.mp4` (zapętlone)
+
 **Hannah:** Spuść się, Mox. Nie przeciągaj tego.  
 **Ella:** Chcę go tylko dotknąć. Daj mi pomacać tyłek twojej mamusi!  
 **Carol:** To znaczy… Lubię być gościnny.  
 **Hannah:** Daj jej coś do zjedzenia, mamo! Tego właśnie potrzebuje.  
 **Mox:** Słyszałaś, Carol. Daj Elli coś do zjedzenia.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch9.mp4` (zapętlone)
+
 **Carol:** O mój Boże!  
 **Mox:** Cholera!  
 **Hannah:** Nie to miałam na myśli!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch10.mp4` (zapętlone)
+
 **Hannah:** Mox nigdy nie dojdzie, kiedy jesteś na dole. Wskakuj z powrotem i dokończ robotę.  
 **Mox:** Chyba jest zbyt zajęta.  
 **Hannah:** /curse  
 **Hannah:** Czy ja tu muszę wszystko robić?  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch11.mp4` (zapętlone)
+
 **Mox:** Wow! Co za widok.  
 **Carol:** Wygląda na to, że ktoś się rozgościł.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch12.mp4` (zapętlone)
+
 **Mox:** Chyba Ella odbiera swoją nagrodę.  
 **Carol:** O rany! Ależ język!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch13.mp4` (zapętlone)
+
 **Ella:** Och, tak! To niebo!  
 **Hannah:** Niegrzeczna dziewczynka! Bardzo niegrzeczna!  
 **Carol:** Ale z niej niegrzecznica!  
 **Mox:** No i jest ta łechtaczka, którą uwielbiam.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch14.mp4` (zapętlone)
+
 **Hannah:** No dalej, Mox. Wypełnij mnie, a potem zabierzmy się za kolację.  
 **Mox:** Nie sądzę, żebyśmy mieli wkrótce przestać.  
 **Carol:** Nie waż się zostawić mamy Carol bez deseru.  
-**Hannah:** Pieprzysz się z Mox!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch15.mp4` (zapętlone)
+
+**Hannah:** Pieprzysz się z Moxem!  
 **Ella:** Pozwól kobiecie trochę się zabawić.  
 **Mox:** Kurwa!…  
 **Carol:** Nie zazdrość, Hannah. Teraz kolej na mamusię.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch16.mp4` (zapętlone)
+
 **Mox:** Ale dobrze!  
 **Hannah:** Hej! Założę się, że jej łechtaczka nie łaskocze tak jak moja!  
 **Ella:** Spokojnie, Hannah. Jesteś zbyt słodka.  
 **Carol:** O Boże!  
 **Ella:** Nie zagarniaj całego ogiera. Czuję się tu trochę pominięta.  
 **Carol:** Zamieńmy się. Muszę odpocząć.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch17.mp4` (zapętlone)
+
 **Mox:** Cholera! Ale ciasno!  
 **Carol:** Nie sądziłam, że dziewczyna z tak małym tyłkiem da radę przyjąć twojego kutasa, Mox.  
 **Mox:** Ach!... Bywało ciaśniej… Wierzcie lub nie.  
 **Carol:** Ale z ciebie niegrzeczny facet… Zakonnica?  
 **Mox:** Bingo.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch18.mp4` (zapętlone)
+
 **Carol:** Popatrzcie, jak go bierze…  
 **Mox:** Jest zawodowcem.  
 **Carol:** Znam to uczucie. Ależ szczęściara.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch19.mp4` (zapętlone)
+
 **Hannah:** Znasz to uczucie!?  
 **Carol:** Chcesz mi powiedzieć, że ty nie?  
 **Ella:** Wygląda na to, że tyłek twojej mamy się nie marnuje.  
@@ -29001,43 +32442,85 @@
 **Carol:** Dziewczyno! Ten chłopak zaliczył wszystkie moje dziurki.  
 **Hannah:** O rany, mamo!  
 **Carol:** No dalej, Mox. Pozwól mi wyczyścić tego kutasa.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch20.mp4` (zapętlone)
+
 **Hannah:** Mamo, jego siusiak był w tyłku Elli!  
 **Mox:** Kurwa! Ale gorąco!  
 **Hannah:** Cholera… Ale niegrzecznie.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch21.mp4` (zapętlone)
+
 **Mox:** Mmmm… Tak! Ssij tego kutasa.  
 **Hannah:** Ale niegrzecznie. Mama jest taka niegrzeczna.  
 **Mox:** Chyba zaraz dojdę.  
 **Hannah:** Mox! Nie! Musisz zrobić mi jeszcze więcej!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch22.mp4` (zapętlone)
+
 **Hannah:** Włóż go do środka, Mox!  
 **Ella:** Na co czekasz? Włóż go w nią.  
 **Mox:** Hannah! Przestań się wiercić. Pozwól mi go dobrze naprowadzić.  
 **Carol:** Spokojnie, kochanie. Niech chłopak robi swoje.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch23.mp4` (zapętlone)
+
 **Hannah:** Daj mi to, Mox!  
 **Ella:** O kurwa, tak! Ależ niegrzeczna mamusia!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch24.mp4` (zapętlone)
+
 **Mox:** Cholera! Twoja cipka jest cudowna!  
 **Hannah:** Mam świetną cipkę!  
 **Ella:** Nie tak dobrą jak język twojej mamy!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch25.mp4` (zapętlone)
+
 **Hannah:** Pieprz mnie!  
 **Ella:** Liż mnie!  
 **Mox:** Doprowadźmy te dziewczyny do orgazmu, Carol.  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch26.mp4` (zapętlone)
+
 **Ella:** Tak! Tak!  
 **Hannah:** Słodki Jezu!  
 **Mox:** Bierz, Hannah!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch27.mp4` (zapętlone)
+
 **Ella:** Doprowadzisz mnie do orgazmu, mamo!  
 **Hannah:** Dochodzę!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch28.mp4`
+
 **Carol:** Jeszcze nie jesteś wolny, Mox.  
 **Ella:** Dokończ z Carol, kochanie!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch29.mp4` (zapętlone)
+
 **Hannah:** O Boże, mamo! Jesteś jak napalony królik!  
 **Carol:** Spójrz, kto to mówi, kochanie.  
 **Ella:** Popatrz, jak się pieprzą!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch30.mp4` (zapętlone)
+
 **Hannah:** Patrzę! Skończyliście już?  
 **Ella:** Daj im chwilę. Nigdzie nam się nie spieszy.  
 **Hannah:** Akurat! Umieram z głodu!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch31.mp4` (zapętlone)
+
 **Carol:** Tak, kochanie! Pieprz mnie! Pieprz moją cipkę!  
 **Mox:** Uwielbiam twój wielki tyłek!  
 **Hannah:** Skoro tak go uwielbiasz, to już dochodź!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch32.mp4` (zapętlone)
+
 **Carol:** Jestem blisko, kochanie!  
 **Mox:** Carol, dochodzę!  
+
+> **🎬 Wstawka wideo:** `HnCaElKtch33.mp4`
+
 **Carol:** To była niezła przystawka.  
 **Ella:** Uwielbiam czuć spermę na twarzy!  
 **Hannah:** Możemy już jeść?  
@@ -29480,6 +32963,8 @@
 
 ## Common Event 423 — SCN - Arm Wrestle
 
+> **🎬 Wstawka wideo:** `ElHnArmW1.mp4` (zapętlone)
+
 **Mox:** Na trzy zaczynamy.  
 **Hannah:** Odliczamy w górę od trzech czy w dół od jednego?  
 **Mox:** W górę, od jednego.  
@@ -29489,6 +32974,9 @@
 **Ella:** On liczy w górę!  
 **Hannah:** Niech zacznie się liczenie w górę.  
 **Mox:** Raz… dwa… trzy!  
+
+> **🎬 Wstawka wideo:** `ElHnArmW2.mp4` (zapętlone)
+
 **Hannah:** Ha! Tylko na tyle cię stać?  
 **Ella:** Cholera, dziewczyno, ale jesteś silna!  
 **Hannah:** Jestem dziewczyną ze wsi! Mam mięśnie!  
@@ -29496,6 +32984,9 @@
 **Hannah:** Komu ty właściwie kibicujesz, Mox?  
 **Ella:** O nie! Jestem za słaba.  
 **Hannah:** Hahaha!  
+
+> **🎬 Wstawka wideo:** `ElHnArmW3.mp4`
+
 **Hannah:** Auć!  
 **Ella:** Wygląda na to, że wygrałam.  
 **Hannah:** Oszukiwałaś!  
@@ -29544,22 +33035,37 @@
 
 ## Common Event 315 — SCN - Hannah Legjob
 
+> **🎬 Wstawka wideo:** `HnChBarn1.mp4` (zapętlone)
+
 **Hannah:** No, teraz jest jeszcze fajniej!  
 **Chloe:** Hannah! Jesteś topless!  
 **Mox:** /worry  
 **Hannah:** Ja zdjęłam koszulkę… Mox też zdjął…  
 **Hannah:** Zdejmuj, dziewczyno! Pokaż cycki!  
 **Chloe:** Ja… Ja… Muszę iść.  
+
+> **🎬 Wstawka wideo:** `HnChBarn2.mp4`
+
+> **🎬 Wstawka wideo:** `HnChBarn3.mp4` (zapętlone)
+
 **Hannah:** /curse  
 **Mox:** To był twój wielki plan, Hannah?  
 **Hannah:** Czemu tak boi się pokazać cycki?  
 **Mox:** Chloe jest inna niż ty. Nie rozbierze się do naga tylko dlatego, że ma na to ochotę.  
 **Hannah:** Wy, mieszczuchy, wszyscy jesteście tacy sami. Panikujecie na widok kawałka skóry.  
+
+> **🎬 Wstawka wideo:** `HnChBarn4.mp4` (zapętlone)
+
 **Hannah:** Mox! Co ukrywasz?  
 **Mox:** Ja… Eee…  
 **Hannah:** Stoi ci!  
 **Mox:** Czego się spodziewałaś?  
 **Hannah:** To prawda! Widzisz kawałek skóry i już rzucasz się do akcji!  
+
+> **🎬 Wstawka wideo:** `HnChBarn5.mp4`
+
+> **🎬 Wstawka wideo:** `HnChBarn6.mp4` (zapętlone)
+
 **Hannah:** O rany.  
 **Mox:** Hannah! Po co, do cholery, to zrobiłaś?  
 **Hannah:** Nie żartujesz, co?  
@@ -29567,35 +33073,62 @@
 **Hannah:** Mama zaraz wróci, a tobie już staje!  
 **Mox:** Daj mi chwilę.  
 **Hannah:** Jesteś beznadziejny, Mox.  
+
+> **🎬 Wstawka wideo:** `HnChBarn7.mp4` (zapętlone)
+
 **Hannah:** No dalej. Wyjmij go.  
 **Mox:** Hannah?  
 **Hannah:** Nie waż się na mnie patrzeć. Zachowaj się dla Chloe. Jasne?  
+
+> **🎬 Wstawka wideo:** `HnChBarn8.mp4` (zapętlone)
+
 **Mox:** To niepotrzebne…  
 **Hannah:** Jeszcze jak jest! Musimy sprawić, żeby ci opadł, zanim mama wróci.  
 **Mox:** Naprawdę to robisz?  
 **Hannah:** Cholera, Mox. Powinieneś był przespać się z Chloe.  
 **Hannah:** Zabije mnie, jeśli się o tym dowie.  
+
+> **🎬 Wstawka wideo:** `HnChBarn9.mp4` (zapętlone)
+
 **Hannah:** Nie patrzysz na mnie, prawda?  
 **Mox:** Ja… Eee… Nie…  
 **Hannah:** Przysięgam na Jezusa, jeśli się we mnie zakochasz, ogłuszę cię.  
+
+> **🎬 Wstawka wideo:** `HnChBarn10.mp4` (zapętlone)
+
 **Hannah:** Co tak długo?  
 **Mox:** Twoje nogi… Są takie gładkie.  
 **Hannah:** Może i jestem dziewczyną ze wsi, ale mam w sobie trochę damy.  
 **Mox:** Eee… Może szybciej.  
 **Hannah:** Robisz się wybredny?  
+
+> **🎬 Wstawka wideo:** `HnChBarn11.mp4` (zapętlone)
+
 **Mox:** O tak!  
 **Hannah:** Nie podglądaj!  
 **Mox:** Po prostu… nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `HnChBarn12.mp4` (zapętlone)
+
 **Mox:** Zaraz dojdę.  
 **Hannah:** No to kończ!  
 **Mox:** Co mam zrobić?  
 **Hannah:** Po prostu dojdź!  
 **Mox:** Na… ciebie?  
 **Hannah:** Nie boję się ubrudzić.  
+
+> **🎬 Wstawka wideo:** `HnChBarn13.mp4`
+
 **Hannah:** Co tu się, na miłość boską, dzieje?!  
 **Mox:** Cholera… Było dobrze.  
 **Hannah:** Gdzie ty to wszystko trzymałeś?  
+
+> **🎬 Wstawka wideo:** `HnChBarn14.mp4`
+
 **Hannah:** Nadal jest ciepłe…  
+
+> **🎬 Wstawka wideo:** `HnChBarn15.mp4`
+
 **Hannah:** Hej, Mox. Popatrz na mnie…  
 **Hannah:** Ale jestem umazana spermą!  
 **Mox:** Hannah!?  
@@ -29822,6 +33355,8 @@
 
 ## Common Event 331 — SCN - Carol Blowjob
 
+> **🎬 Wstawka wideo:** `CaBrnBj1.mp4` (zapętlone)
+
 **Carol:** /shock  
 **Mox:** Co? Przecież kazałaś mi go pokazać.  
 **Carol:** Nie sądziłam, że będziesz sztywny jak martwa wiewiórka zimą!  
@@ -29831,10 +33366,16 @@
 **Mox:** Nie narzekam. Zaufaj mi.  
 **Carol:** Zadowalasz się sam?  
 **Mox:** Nie to miałem na myśli!  
+
+> **🎬 Wstawka wideo:** `CaBrnBj2.mp4` (zapętlone)
+
 **Carol:** Wiesz… Skoro żadne z nas nie szuka związku, może mogłabym wyświadczyć ci przysługę.  
 **Mox:** Carol?  
 **Carol:** Po prostu nie mogę pozwolić, żebyś wyszedł, zanim się tym nie zajmę.  
 **Mox:** Co sugerujesz?  
+
+> **🎬 Wstawka wideo:** `CaBrnBj3.mp4` (zapętlone)
+
 **Carol:** No dalej, Mox. Jesteśmy sami.  
 **Carol:** To lepsze niż robienie sobie dobrze, prawda?  
 **Mox:** No… Oczywiście… Ale…  
@@ -29842,16 +33383,28 @@
 **Mox:** Nie zostawiłbym cię samej, Carol.  
 **Carol:** Mam trochę więcej doświadczenia niż ty, skarbie…  
 **Carol:** Pamiętaj o mnie, gdy jakaś młoda laska będzie wisiała ci na ramieniu.  
+
+> **🎬 Wstawka wideo:** `CaBrnBj4.mp4` (zapętlone)
+
 **Mox:** O kurwa!  
 **Mox:** Nie mogę uwierzyć, że to robimy.  
+
+> **🎬 Wstawka wideo:** `CaBrnBj5.mp4` (zapętlone)
+
 **Mox:** To takie przyjemne.  
 **Mox:** Ach… Ach… Nie tak szybko.  
+
+> **🎬 Wstawka wideo:** `CaBrnBj6.mp4` (zapętlone)
+
 **Carol:** Znam cię lepiej, niż ci się wydaje, Mox.  
 **Mox:** Cholera, Carol.  
 **Carol:** To nie był pierwszy raz, kiedy byłeś niegrzeczny.  
 **Mox:** Ja… nie wiem, o czym mówisz.  
 **Carol:** Myślałeś, że nie zauważyłam, że zniknęły mi majtki?  
 **Mox:** Co!? To było chyba całe dekady temu!  
+
+> **🎬 Wstawka wideo:** `CaBrnBj7.mp4` (zapętlone)
+
 **Carol:** Nie musisz się tłumaczyć. Mówię tylko, że wiem, co rozpaliło w tobie iskrę.  
 **Mox:** Nie miałem pojęcia, że o tym wiesz.  
 **Carol:** No… I co o tym myślałeś?  
@@ -29864,11 +33417,20 @@
 **Mox:** Szczerze… Wciąż pamiętam ten zapach.  
 **Mox:** Uwielbiałem go.  
 **Carol:** To musi być spełnienie marzeń.  
+
+> **🎬 Wstawka wideo:** `CaBrnBj8.mp4` (zapętlone)
+
 **Mox:** O tak! Właśnie tak!  
 **Mox:** Byłem młody… Waliłem konia do wszystkiego.  
 **Mox:** W końcu byłem napalonym chłopakiem.  
+
+> **🎬 Wstawka wideo:** `CaBrnBj9.mp4` (zapętlone)
+
 **Mox:** Cholera. Nie wiem, ile jeszcze wytrzymam.  
 **Mox:** Zaraz doprowadzisz mnie do orgazmu!  
+
+> **🎬 Wstawka wideo:** `CaBrnBj10.mp4`
+
 **Carol:** Mogłeś mnie najpierw ostrzec, wiesz?  
 **Mox:** Próbowałem!...  
 **Mox:** Przepraszam, Carol.  
@@ -30019,6 +33581,8 @@
 
 ## Common Event 391 — SCN - Hannah Judy Chloe Barn
 
+> **🎬 Wstawka wideo:** `HnJuChMcBarn1.mp4` (zapętlone)
+
 **Hannah:** Chodź, Mox. Pokażmy jej, jak to się robi.  
 **Mox:** Naprawdę, Hannah?  
 **Chloe:** Załóż spodnie z powrotem.  
@@ -30028,25 +33592,42 @@
 **Hannah:** Patrz, siostro Judy. To fajne!  
 **Judy:** Pokażesz mi, Mox?  
 **Mox:** Zróbmy to szybko. Carol na mnie czeka.  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn2.mp4` (zapętlone)
+
 **Mox:** Na pewno tego chcesz, Hannah?  
 **Hannah:** Już cię przygotuję.  
 **Chloe:** Boże, Hannah. Nie masz za grosz wstydu?  
 **Judy:** Czemu to liżesz?  
 **Mox:** To lubrykant.  
 **Hannah:** Już ci pokażę, siostro.  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn3.mp4` (zapętlone)
+
 **Hannah:** Zdejmij je, siostro!  
 **Chloe:** Hannah! Nie!  
 **Mox:** Hannah! Czekaj! Ona tylko patrzy.  
 **Judy:** Ojej!  
 **Hannah:** Pokaż nam ten tyłeczek, dziewczyno!  
 **Mox:** Daj jej spokój. Połóż się.  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn4.mp4` (zapętlone)
+
 **Hannah:** Tak?  
 **Mox:** Tak będzie dobrze.  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn5.mp4` (zapętlone)
+
 **Judy:** Ma taką miękką skórę.  
 **Hannah:** Może i jestem dziewczyną ze wsi, ale mam tyłek księżniczki. Tak mówi mama.  
 **Chloe:** Naprawdę?  
 **Mox:** Jesteś gotowa?  
 **Hannah:** Jestem nasmarowana i gotowa! Wkładaj!  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn6.mp4`
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn7.mp4` (zapętlone)
+
 **Hannah:** O rany!  
 **Judy:** Wygląda, jakby bolało.  
 **Hannah:** Patrz dalej, siostro. Wcale tak bardzo nie boli.  
@@ -30054,40 +33635,71 @@
 **Judy:** Ale… To nie jest seks?  
 **Chloe:** To jest seks!  
 **Hannah:** To tylko zabawy z tyłkiem! To nie jest prawdziwy seks!  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn8.mp4` (zapętlone)
+
 **Judy:** Wygląda… ciekawie.  
 **Chloe:** Chyba nie bierzesz tego na poważnie?  
 **Hannah:** To takie przyjemne!  
 **Mox:** Masz taki miękki tyłek.  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn9.mp4` (zapętlone)
+
 **Hannah:** Przy takiej ilości śliny wsuwa się bez problemu.  
 **Mox:** Ma rację… Gładko wchodzi… ale jest ciasno.  
 **Judy:** To takie… podniecające.  
 **Chloe:** Trochę jednak boli.  
 **Hannah:** Już nie.  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn10.mp4` (zapętlone)
+
 **Judy:** Podoba jej się.  
 **Hannah:** Wypełnij mi tyłek, byczku!  
 **Mox:** Kurwa, to naprawdę przyjemne.  
 **Chloe:** Boże, wy dwoje. Już wystarczy tego pokazu.  
 **Judy:** Nie… Nie… Róbcie dalej. Chcę zobaczyć więcej.  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn11.mp4` (zapętlone)
+
 **Hannah:** Obij mój miękki tyłeczek swoimi biodrami, Mox!  
 **Mox:** Cholera, Hannah! Ale pracujesz tym tyłkiem.  
 **Judy:** Nie wiedziałam, że ludzie tak robią… To niesamowite.  
 **Chloe:** To dziwne.  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn12.mp4` (zapętlone)
+
 **Judy:** Jakie to uczucie? Opisz mi je.  
 **Hannah:** Czuję się strasznie niegrzeczna. Jestem brudną dziewczynką, siostro!  
 **Chloe:** Jak długo jeszcze będziecie to robić?  
 **Hannah:** Aż chłopak dojdzie. No przecież!  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn13.mp4` (zapętlone)
+
 **Mox:** Ugh… Cholera.  
 **Hannah:** Kurwa! Kurwa! Rżnij mnie!  
 **Judy:** Ależ… wulgarnie.  
 **Chloe:** Jesteś bardzo niegrzeczna przy siostrze Judy.  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn14.mp4` (zapętlone)
+
 **Hannah:** Boże! Chyba zaraz dojdę!  
 **Judy:** Ona tak dojdzie?  
 **Mox:** Dawaj, Hannah. Dojdź!  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn15.mp4`
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn16.mp4`
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn17.mp4` (zapętlone)
+
 **Hannah:** To najlepsza część, siostro.  
 **Judy:** Hę?  
 **Hannah:** Zaraz obryzga nam twarze!  
 **Chloe:** Hannah!  
 **Mox:** O cholera! Ale to podniecające.  
+
+> **🎬 Wstawka wideo:** `HnJuChMcBarn18.mp4`
+
 **Hannah:** /excited  
 **Judy:** Ale ciepło.  
 **Chloe:** Boże! Wyczyść ją!  
@@ -30104,53 +33716,100 @@
 
 ## Common Event 401 — SCN - Heather Barnfuck
 
+> **🎬 Wstawka wideo:** `HeMcBarn1.mp4` (zapętlone)
+
 **Heather:** Biedactwo.  
 **Mox:** Nie jest tak źle. Chyba nie przebiło skóry.  
 **Heather:** Musimy się upewnić. Nie możemy dopuścić do zakażenia.  
 **Mox:** Ach! Ach! Ostrożnie.  
+
+> **🎬 Wstawka wideo:** `HeMcBarn2.mp4` (zapętlone)
+
 **Heather:** Nic nie widzę…  
 **Heather:** Nadal boli?  
 **Mox:** Już lepiej.  
+
+> **🎬 Wstawka wideo:** `HeMcBarn3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `HeMcBarn4.mp4` (zapętlone)
+
 **Heather:** Och, Mox… Nie powinniśmy.  
 **Mox:** Carol przygotowuje kolację. Jesteśmy sami.  
 **Heather:** … A co z kozłem?  
 **Mox:** Chyba nie będzie mu to przeszkadzać.  
+
+> **🎬 Wstawka wideo:** `HeMcBarn5.mp4` (zapętlone)
+
 **Heather:** Ach!... Za każdym razem, gdy mnie dotykasz, czuję motyle w brzuchu.  
 **Mox:** Jesteś taka piękna, Heather.  
 **Heather:** Och, kochanie… Tak! Nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `HeMcBarn6.mp4` (zapętlone)
+
 **Mox:** Czy jesteśmy zbyt niegrzeczni?  
 **Heather:** Chcę tego, Mox. Jesteśmy sami… Nikt nas nie zobaczy.  
 **Mox:** Ja też tego chcę.  
+
+> **🎬 Wstawka wideo:** `HeMcBarn7.mp4`
+
+> **🎬 Wstawka wideo:** `HeMcBarn8.mp4` (zapętlone)
+
 **Heather:** Tak! Ale dobrze!  
 **Mox:** Ale przyjemnie… Kochamy się w stodole.  
 **Heather:** Jesteś bardziej romantyczny, niż myślałam, kochanie.  
 **Mox:** Może jest coś wyjątkowego w tym, że jestem w tobie.  
+
+> **🎬 Wstawka wideo:** `HeMcBarn9.mp4` (zapętlone)
+
 **Heather:** Mój wielki mężczyzna czuje się jak u siebie.  
 **Mox:** Bycie z tobą przywołuje miłe wspomnienia.  
 **Heather:** Też tak czuję, Mox.  
 **Mox:** Chyba odkryliśmy coś nowego.  
 **Heather:** Tak… Czuję to.  
+
+> **🎬 Wstawka wideo:** `HeMcBarn10.mp4` (zapętlone)
+
 **Heather:** Nie hamuj się. Chcę, żebyś wszedł głęboko, kochanie.  
 **Mox:** O tak! Bierzesz całego mojego kutasa.  
 **Heather:** Boże… Spójrz na siebie… Mój duży chłopiec.  
 **Mox:** Och, Heather…  
+
+> **🎬 Wstawka wideo:** `HeMcBarn11.mp4` (zapętlone)
+
 **Mox:** Przez ciebie pulsuje mi kutas.  
 **Heather:** Tak! Tak! Czuję to!  
 **Mox:** Chcę poczuć każdy twój centymetr.  
 **Heather:** Jestem dla ciebie taka mokra.  
+
+> **🎬 Wstawka wideo:** `HeMcBarn12.mp4` (zapętlone)
+
 **Mox:** Tak się cieszę, że się na to zdecydowaliśmy.  
 **Heather:** Długo na to czekałam, kochanie.  
 **Mox:** Jak długo możemy to ukrywać?  
+
+> **🎬 Wstawka wideo:** `HeMcBarn13.mp4` (zapętlone)
+
 **Heather:** Nie myśl teraz o tym… Żyj chwilą.  
 **Mox:** Heather… Uprawiałem seks z Chloe.  
 **Heather:** W porządku, kochanie. Nie musimy nikomu mówić.  
 **Mox:** Chcę ciebie, Heather.  
 **Heather:** Pieprz mnie, kochanie. Mocno.  
+
+> **🎬 Wstawka wideo:** `HeMcBarn14.mp4` (zapętlone)
+
 **Heather:** Tak! Wypełnij mnie swoim kutasem!  
 **Mox:** Kurwa! Masz taki cudowny tyłek… I tak ciasną cipkę.  
 **Heather:** Dawaj! Dojdź dla mnie, kochanie!  
+
+> **🎬 Wstawka wideo:** `HeMcBarn15.mp4` (zapętlone)
+
 **Mox:** Jestem blisko!  
 **Heather:** Och, Mox! Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `HeMcBarn16.mp4`
+
+> **🎬 Wstawka wideo:** `HeMcBarn17.mp4`
+
 **Heather:** Czuję to w sobie… Jest tego tak dużo!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -30308,7 +33967,7 @@
 **Carol:** Co tu się dzieje?  
 **Heather:** Mox!?  
 **Melissa:** Mam nadzieję, że nie przeszkadzamy. Mieliśmy mały wypadek i znaleźliśmy się na waszej posesji.  
-**Carol:** To ty jesteś detektywką, która pracuje z Mox?  
+**Carol:** To ty jesteś detektywką, która pracuje z Moxem?  
 **Hannah:** Jest jego szefową.  
 **Mox:** Prowadziliśmy śledztwo, kiedy utknęliśmy w jaskiniach.  
 **Heather:** W sprawie morderstwa?  
@@ -30382,9 +34041,9 @@
 **Ella:** Tworzą uroczą parę.  
 **Carol:** Awww! Słyszałaś?  
 **Hannah:** Nie jesteśmy parą! Przestań się z nas nabijać!  
-**Ella:** Daj spokój. Wszystkie straciłyśmy głowę dla Mox.  
+**Ella:** Daj spokój. Wszystkie straciłyśmy głowę dla Moxa.  
 **Carol:** Masz całkowitą rację.  
-**Hannah:** Mamo! Pieprzysz się z Mox!  
+**Hannah:** Mamo! Pieprzysz się z Moxem!  
 **Mox:** Eee…  
 **Carol:** Nie bądź pruderyjna, dziewczyno. Chłopak ma mnóstwo miłości do rozdania.  
 **Ella:** I rzeczywiście hojnie ją rozdaje.  
@@ -30448,44 +34107,82 @@
 
 ## Common Event 384 — SCN - Nellie Madalyn
 
+> **🎬 Wstawka wideo:** `NeMlCrnFld1.mp4` (zapętlone)
+
 **Nellie:** Puść mnie!  
 **Mox:** Nellie!  
 **Madalyn:** Detektywie. Co za niespodziewana wizyta.  
 **Mox:** Co tu robisz?  
 **Madalyn:** Odejdź. To nie twoja sprawa.  
 **Mox:** Tym razem ci nie uciekniesz!  
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld2.mp4`
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld3.mp4` (zapętlone)
+
 **Madalyn:** Agh!!!  
 **Madalyn:** Woda święcona!?  
 **Mox:** Nie uciekniesz! A teraz ją puść!  
 **Madalyn:** Chcesz, żebym ją puściła?  
 **Mox:** Zrób to!  
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld4.mp4` (zapętlone)
+
 **Madalyn:** No dalej, dziewczyno…  
 **Madalyn:** Okażmy naszemu bohaterskiemu detektywowi trochę wdzięczności.  
 **Mox:** Co robisz?  
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld5.mp4`
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld6.mp4` (zapętlone)
+
 **Madalyn:** Nie odejdę, dopóki tu nie przyjdzie…  
 **Madalyn:** A tymczasem może wy dwoje trochę się zabawicie.  
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld7.mp4` (zapętlone)
+
 **Mox:** Co?!  
 **Nellie:** Tak, Mox! Pieprz moją cipkę!  
 **Mox:** Nie mogę ruszyć rękami.  
 **Madalyn:** Leż spokojnie!  
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld8.mp4` (zapętlone)
+
 **Nellie:** Boże, Mox! Jesteś cholernie seksowny!  
 **Mox:** Przygwoździła mnie! To sprawka Tomy!  
 **Madalyn:** Bystra uwaga, detektywie.  
 **Mox:** Co ty wyprawiasz? Jaki to ma cel?  
 **Madalyn:** Ona jest przynętą.  
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld9.mp4` (zapętlone)
+
 **Mox:** Aaargh! Zejdź ze mnie!  
 **Nellie:** Mox! Jesteś taki wielki! Uwielbiam twojego kutasa!  
 **Madalyn:** Właśnie tak! Wierć się i krzycz!  
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld10.mp4` (zapętlone)
+
 **Mox:** Cokolwiek tu robisz, nie ujdzie ci to na sucho!  
 **Nellie:** Potrzebuję jego kutasa!  
 **Madalyn:** Bierz go, mała.  
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld11.mp4` (zapętlone)
+
 **Nellie:** Kurwa! Rżnij mnie! Rozpierdol mi cipkę!  
 **Mox:** Cholera, Nellie!  
 **Madalyn:** Krzycz z rozkoszy!  
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld12.mp4` (zapętlone)
+
 **Nellie:** Aaaaah!  
 **Madalyn:** Dobrze! Dobrze!  
 **Mox:** Och, Nellie! Zaraz dojdę!  
 **Madalyn:** Zrób to!  
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld13.mp4`
+
+> **🎬 Wstawka wideo:** `NeMlCrnFld14.mp4` (zapętlone)
+
 **Mox:** O kurwa…  
 **Nellie:** Cholera, ale dobrze mi z nim w środku.  
 **Madalyn:** Zaraz dojdzie.  
@@ -30849,80 +34546,148 @@
 
 ## Common Event 326 — SCN - Toma Leolo Cum
 
+> **🎬 Wstawka wideo:** `Toma-RightArmB.mp4` (zapętlone)
+
 **Mox:** Czy to jakieś rzeźbienia?  
 **Mox:** Hej! To artefakt Casuli.  
+
+> **🎬 Wstawka wideo:** `HnChWtf1.mp4` (zapętlone)
+
 **Mox:** No cholera. To tylko fragment artefaktu.  
 **Mox:** Pewnie jest teraz bezwartościowy.  
 **Chloe:** Co znalazłeś, Mox?  
+
+> **🎬 Wstawka wideo:** `HnChWtf2.mp4` (zapętlone)
+
 **Chloe:** Mox!?  
 **Mox:** Aaargh!  
 **Hannah:** Co tam się dzieje?  
-**Chloe:** Coś jest nie tak z Mox!  
+**Chloe:** Coś jest nie tak z Moxem!  
+
+> **🎬 Wstawka wideo:** `HnChWtf3.mp4` (zapętlone)
+
 **Mox:** Nie wiem, co się stało… Mój kutas… On…  
 **Hannah:** O rany! Drga!  
 **Chloe:** Spokojnie, Mox. Może po prostu chce ci się siku.  
 **Mox:** Chyba nie. Coś jest nie tak.  
+
+> **🎬 Wstawka wideo:** `HnChWtf4.mp4` (zapętlone)
+
 **Hannah:** Wszyscy spokojnie. Wiem, co robić…  
 **Hannah:** Musimy go po prostu masować, aż wystrzeli.  
 **Chloe:** Na pewno, Hannah?  
 **Mox:** To znaczy… Zdecydowanie czuję, że muszę… wystrzelić.  
 **Hannah:** Chwyć go za kutasa, dziewczyno. Musimy go uratować!  
 **Chloe:** /worry  
+
+> **🎬 Wstawka wideo:** `HnChWtf5.mp4` (zapętlone)
+
 **Mox:** O Boże…  
 **Hannah:** Wynoś się stamtąd! Nie chcemy, żebyś tam dłużej siedział!  
 **Mox:** Nie wiem, czy mówienie do niego pomoże.  
-**Chloe:** Panie, chroń Mox.  
+**Chloe:** Panie, chroń Moxa.  
+
+> **🎬 Wstawka wideo:** `HnChWtf6.mp4` (zapętlone)
+
 **Hannah:** Chloe! Wal mu porządnie!  
 **Chloe:** Nie patrzę… Wcale nie patrzę.  
 **Mox:** Argh! Mam wrażenie, że kutas mi zaraz eksploduje.  
 **Hannah:** Niech wystrzeli!  
 **Mox:** Nie mogę!  
+
+> **🎬 Wstawka wideo:** `HnChWtf7.mp4` (zapętlone)
+
 **Hannah:** Do licha, siusiaku. Co się z tobą, u licha, dzieje?  
 **Chloe:** Spokojnie, Mox. Hannah wie, co robić.  
 **Mox:** Zrób coś, Hannah!  
+
+> **🎬 Wstawka wideo:** `HnChWtf8.mp4` (zapętlone)
+
 **Mox:** O tak!  
 **Chloe:** O rany.  
 **Mox:** Działa.  
+
+> **🎬 Wstawka wideo:** `HnChWtf9.mp4` (zapętlone)
+
 **Chloe:** Dzięki Bogu, że Hannah tu jest.  
 **Mox:** O kurwa…  
 **Mox:** Chyba… zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `HnChWtf10.mp4`
+
 **Hannah:** /success  
 **Chloe:** Hannah! Twoja twarz!... Jest cała w jego… płynach.  
 **Mox:** Nadal jest twardy.  
 **Hannah:** Co? Nadal twardy?  
+
+> **🎬 Wstawka wideo:** `HnChWtf11.mp4` (zapętlone)
+
 **Hannah:** Dobra. Spróbujmy jeszcze raz.  
 **Chloe:** Jesteście pewne, że to zadziała?  
 **Hannah:** Chłopak musi dojść! Masz lepszy pomysł?  
 **Mox:** Już lepiej… Nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `HnChWtf12.mp4` (zapętlone)
+
 **Hannah:** Właśnie tak. Czuję, jak pulsuje.  
 **Mox:** Narasta… Zaraz znowu się zacznie.  
 **Chloe:** Ojej!  
+
+> **🎬 Wstawka wideo:** `HnChWtf13.mp4`
+
+> **🎬 Wstawka wideo:** `HnChWtf14.mp4` (zapętlone)
+
 **Hannah:** No i proszę! Już dobrze!  
 **Mox:** Argh! Chyba jednak nie…  
 **Mox:** Nadal czuję ogromne ciśnienie.  
 **Chloe:** Chyba to nie działa! Musimy jechać do szpitala.  
+
+> **🎬 Wstawka wideo:** `HnChWtf15.mp4` (zapętlone)
+
 **Hannah:** O Jezu! Ale mnie obficie obryzgałeś!  
 **Chloe:** Spokojnie, Mox. Wszystko będzie dobrze.  
 **Mox:** Już prawie… Muszę tylko jeszcze raz dojść.  
+
+> **🎬 Wstawka wideo:** `HnChWtf16.mp4` (zapętlone)
+
 **Chloe:** Jakim cudem jeszcze coś zostało?  
 **Mox:** Nie wiem… To wszystko stało się tak nagle.  
 **Chloe:** Lepiej zejdź z drogi, Hannah!  
+
+> **🎬 Wstawka wideo:** `HnChWtf17.mp4`
+
+> **🎬 Wstawka wideo:** `HnChWtf18.mp4` (zapętlone)
+
 **Hannah:** Co się stało?  
 **Mox:** O cholera.  
 **Chloe:** Chyba jeszcze nie koniec.  
+
+> **🎬 Wstawka wideo:** `HnChWtf19.mp4` (zapętlone)
+
 **Hannah:** Spokojnie. Na pewno coś wymyślimy.  
 **Mox:** Chyba już po wszystkim… Czuję się o wiele lepiej.  
 **Chloe:** Hannah… Chyba powinnaś się odsunąć.  
+
+> **🎬 Wstawka wideo:** `HnChWtf20.mp4`
+
+> **🎬 Wstawka wideo:** `HnChWtf21.mp4` (zapętlone)
+
 **Mox:** Achhh… O wiele lepiej.  
 **Chloe:** Hannah!  
 **Hannah:** Jest źle?  
 **Chloe:** Jesteś cały tym oblepiony!  
 **Hannah:** Czuję się jak cholerny pączek!  
+
+> **🎬 Wstawka wideo:** `HnChWtf22.mp4` (zapętlone)
+
 **Chloe:** Na pewno wszystko w porządku, Mox?  
 **Mox:** Nie wiem, co to było, ale teraz czuję się lepiej.  
 **Hannah:** Jestem jak ciepły, lepki bałwan.  
 **Chloe:** Jak myślicie, co się stało?  
 **Mox:** Nie wiem…  
+
+> **🎬 Wstawka wideo:** `HnChWtf23.mp4` (zapętlone)
+
 **Mox:** Czy ten kamień miał coś wspólnego z tym, co się właśnie stało?  
 **Hannah:** Lepiej obmyję się w strumieniu.  
 
@@ -30958,7 +34723,7 @@
 
 ## Mapa 053 — Wodospad / event 24 / strona 1
 
-**Hannah:** Jeśli wciąż ci zimno, Chloe, powinnaś poprosić Mox, żeby oblał cię spermą…  
+**Hannah:** Jeśli wciąż ci zimno, Chloe, powinnaś poprosić Moxa, żeby oblał cię spermą…  
 **Hannah:** Woda teraz wydaje się ciepła!  
 **Chloe:** Chyba odpuszczę.  
 **Mox:** Muszę dojść do sedna. Coś tu nie gra.  
@@ -31910,38 +35675,89 @@
 
 ## Common Event 368 — SCN - Ella Lockerroom Fuck
 
+> **🎬 Wstawka wideo:** `ElMcLkrmF1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF2.mp4`
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF3.mp4` (zapętlone)
+
 **Ella:** No już, Mox. Nie rozmawiajmy o pracy.  
 **Mox:** Ella… A jeśli nas przyłapią?  
 **Ella:** I co z tego?  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF4.mp4` (zapętlone)
+
 **Mox:** Och, tak. Jesteś bardzo niegrzeczną dziewczynką.  
 **Mox:** Ach! Ale głęboko go bierzesz!...  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF5.mp4` (zapętlone)
+
 **Mox:** Chyba wiem, czego ci trzeba, Ello.  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF7.mp4`
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF8.mp4` (zapętlone)
+
 **Mox:** Wiem, że nie jesteś tylko dziewczyną z kamerki.  
 **Ella:** Co ty we mnie widzisz, Mox?  
 **Mox:** Ukrywasz swoje prawdziwe oblicze.  
 **Ella:** Tak wygląda moje życie, Mox. Może przestań udawać psychiatrę i wsadź we mnie tego wielkiego, grubego kutasa.  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF9.mp4` (zapętlone)
+
 **Ella:** Och, kurwa, tak!  
 **Mox:** Ryzykujemy coraz bardziej… i to podnieca.  
 **Ella:** Ale ekscytujące!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF10.mp4` (zapętlone)
+
 **Ella:** Pieprz moją małą cipkę!  
 **Mox:** Ale mocno mnie zaciskasz!  
 **Ella:** Uwielbiam to!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF11.mp4` (zapętlone)
+
 **Ella:** Tak! Tak! Pieprz mnie mocno!  
 **Mox:** O tak!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF12.mp4` (zapętlone)
+
 **Ella:** Zaraz doprowadzisz mnie do orgazmu!  
 **Mox:** Jeszcze z tobą nie skończyłem.  
 **Ella:** O, Mox!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF13.mp4` (zapętlone)
+
 **Mox:** O tak, kurwa!  
 **Ella:** Bierz mnie, kochanie! Pieprz mnie!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF14.mp4` (zapętlone)
+
 **Mox:** Ale ciasno!  
 **Ella:** Pieprzyć to! Pieprzyć to!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF15.mp4` (zapętlone)
+
 **Ella:** Rżnij mnie! Uderzaj mnie w tyłek biodrami!  
 **Mox:** Chcę, żebyś dla mnie doszła.  
 **Ella:** Zaraz! Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF16.mp4` (zapętlone)
+
 **Mox:** Kurwa! Zaraz też przez ciebie dojdę!  
 **Ella:** Chcę, żebyś spuścił mi się na twarz! Zalej ją swoją spermą!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF17.mp4`
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF18.mp4` (zapętlone)
+
 **Mox:** Przygotuj się!  
 **Ella:** Nakarm mnie!  
+
+> **🎬 Wstawka wideo:** `ElMcLkrmF19.mp4`
+
 **Mox:** Cholera! Cała jesteś w spermie.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -32011,6 +35827,8 @@
 ---
 
 ## Common Event 320 — SCN - Ella Diner
+
+> **🎬 Wstawka wideo:** `ElDicks.mp4` (zapętlone)
 
 **Ella:** Bardzo dziękuję za znalezienie mojego telefonu.  
 **Mox:** Cieszę się, że mogłem pomóc.  
@@ -32401,9 +36219,9 @@
 **Ella:** Mogłeś powiedzieć, że jestem gamingową dziewczyną.  
 **Chloe:** Ojej. Czym się zajmujesz?  
 **Ella:** Takimi… przyjemnymi rzeczami.  
-**Ella:** Jesteś tu z Mox?  
+**Ella:** Jesteś tu z Moxem?  
 **Chloe:** Wcześniej jadłam tu lunch z przyjaciółką.  
-**Ella:** Miałam nadzieję porwać Mox na chwilę.  
+**Ella:** Miałam nadzieję porwać Moxa na chwilę.  
 **Chloe:** Chętnie jeszcze porozmawiam. Może napijemy się czegoś.  
 **Ella:** No cóż… eee…  
 **Mox:** Jasne. Przyniosę drinki. Na co macie ochotę?  
@@ -32415,6 +36233,8 @@
 ---
 
 ## Common Event 400 — SCN - Chloe Ella Drinks
+
+> **🎬 Wstawka wideo:** `ElChDicks.mp4` (zapętlone)
 
 **Chloe:** Jak długo się znacie?  
 **Mox:** Niedługo. Poznałem ją w zeszłym tygodniu.  
@@ -32698,38 +36518,81 @@
 
 ## Common Event 483 — SCN - Judy Dicks
 
+> **🎬 Wstawka wideo:** `JuDcks1.mp4` (zapętlone)
+
 **Judy:** Nie dałabym rady bez twojej pomocy.  
 **Mox:** Spokojnie, Judy. Szybko załapiesz, o co chodzi.  
 **Judy:** O wiele bardziej mi się podoba, gdy nie ma klientów.  
 **Mox:** Haha. Chyba skończył się lunchowy tłok.  
+
+> **🎬 Wstawka wideo:** `JuDcks2.mp4` (zapętlone)
+
 **Judy:** Wygląda na to, że jesteśmy sami.  
 **Mox:** Judy!  
 **Judy:** Co jest? Nie masz nastroju, bohaterze?  
 **Mox:** Jestem pewien, że dział kadr nie byłby zachwycony.  
 **Judy:** Ty i te twoje głupie słówka. Jesteś taki przystojny.  
+
+> **🎬 Wstawka wideo:** `JuDcks3.mp4` (zapętlone)
+
 **Mox:** O cholera… Ale przyjemnie.  
 **Mox:** Nie jesteś już tą naiwną dziewczyną, którą poznałem, prawda, Judy?  
+
+> **🎬 Wstawka wideo:** `JuDcks4.mp4` (zapętlone)
+
 **Mox:** Lepiej się pospieszmy… A jeśli wejdzie klient?  
+
+> **🎬 Wstawka wideo:** `JuDcks5.mp4`
+
+> **🎬 Wstawka wideo:** `JuDcks6.mp4` (zapętlone)
+
 **Judy:** Nikt nas nie widzi. W tym kącie jesteśmy sami.  
 **Mox:** Cholera, Judy. Zasługujesz na spory napiwek!  
+
+> **🎬 Wstawka wideo:** `JuDcks7.mp4` (zapętlone)
+
 **Judy:** Podoba ci się moja technika?  
 **Mox:** To idealny taniec na kolanach.  
 **Judy:** Och, Mox… Jestem taka napalona.  
 **Mox:** Ja też, mała.  
+
+> **🎬 Wstawka wideo:** `JuDcks8.mp4` (zapętlone)
+
 **Judy:** Mox!  
 **Mox:** Kurwa… Tak.  
 **Judy:** Nie boisz się, że nas przyłapią?  
+
+> **🎬 Wstawka wideo:** `JuDcks9.mp4` (zapętlone)
+
 **Mox:** Jesteśmy sami w kącie… pamiętasz?  
 **Judy:** Daj mi tego kutasa!  
+
+> **🎬 Wstawka wideo:** `JuDcks10.mp4` (zapętlone)
+
 **Mox:** Ale z ciebie niegrzeczna kelnerka!  
 **Judy:** Jestem taka niegrzeczna! Ukarz moją pupę!  
+
+> **🎬 Wstawka wideo:** `JuDcks11.mp4` (zapętlone)
+
 **Mox:** Weź go do ust!  
 **Judy:** O Panie! Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `JuDcks12.mp4`
+
 **Judy:** Było wspaniale! Ale wciąż mam ochotę na lunch.  
 **Mox:** Mam tu posiłek pełen białka.  
+
+> **🎬 Wstawka wideo:** `JuDcks13.mp4` (zapętlone)
+
 **Judy:** Nakarm mnie, Mox. Potrzebuję sił na wieczorny tłum.  
 **Mox:** Szeroko otwórz usta. Nadlatuje obiad!  
+
+> **🎬 Wstawka wideo:** `JuDcks14.mp4`
+
 **Mox:** Czyj to telefon?  
+
+> **🎬 Wstawka wideo:** `JuDcks15.mp4` (zapętlone)
+
 **Mox:** Co do cholery?!  
 **Simon:** Wróciłem po telefon…  
 **Simon:** Hej! Gdzie masz spodnie?...  
@@ -32775,6 +36638,8 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 215 | $gameVariables.value(1) == 216'] → BONUS PROFILE - Hannah: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Hannah.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -32782,6 +36647,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 217 | $gameVariables.value(1) == 218'] → BONUS PROFILE - Carol: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Hannah.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Hannah-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Hannah-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Carol.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -32791,6 +36664,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 219 | $gameVariables.value(1) == 220'] → BONUS PROFILE - Heather: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Carol.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Carol-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Carol-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Heather.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -32798,6 +36679,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 221 | $gameVariables.value(1) == 222'] → BONUS PROFILE - Chloe: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Heather.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Heather-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Heather-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Chloe.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -32807,6 +36696,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 223 | $gameVariables.value(1) == 224'] → BONUS PROFILE - Judy: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Chloe.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Chloe-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Chloe-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Judy.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -32814,6 +36711,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 225 | $gameVariables.value(1) == 226'] → BONUS PROFILE - Melissa: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Judy.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Judy-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Judy-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Melissa.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -32823,6 +36728,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 227 | $gameVariables.value(1) == 228'] → BONUS PROFILE - Kimberly: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Melissa.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Melissa-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Melissa-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Kimberly.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -32830,6 +36743,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 229 | $gameVariables.value(1) == 230'] → BONUS PROFILE - Nellie: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Kimberly.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Kimberly-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Kimberly-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Nellie.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -32839,6 +36760,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 231 | $gameVariables.value(1) == 232'] → BONUS PROFILE - Ella: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Nellie.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Nellie-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Nellie-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Ella.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -32846,6 +36775,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 233 | $gameVariables.value(1) == 234'] → BONUS PROFILE - Erica: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Ella.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Ella-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Ella-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Erica.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -32855,6 +36792,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 235 | $gameVariables.value(1) == 236'] → BONUS PROFILE - Andrea: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Erica.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Erica-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Erica-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Andrea.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -32862,6 +36807,14 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 237 | $gameVariables.value(1) == 238'] → BONUS PROFILE - Lillian: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Andrea.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Andrea-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Andrea-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Lillian.mp4` (zapętlone)
 
 **Wybór gracza:**
 - Zwykłe
@@ -32871,6 +36824,14 @@
 
 > **Ścieżka warunkowa:** warunek skryptowy ['$gameVariables.value(1) == 421 | $gameVariables.value(1) == 422'] → Crafted Bonus Profile: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Lillian.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Lillian-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Lillian-Outfit.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Arianna.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -32878,6 +36839,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** Item Select = 429 → Crafted Bonus Profile: wyłączony.
+
+> **🎬 Wstawka wideo:** `Fig-Arianna.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Arianna-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Arianna-Outfit.mp4` (zapętlone)
 
 **Narrator / mówca nieustalony:** Stwórz profil bonusowy Arianny, aby zobaczyć wersję nago.  
 
@@ -32936,6 +36903,8 @@
 ---
 
 ## Common Event 309 — SCN - Hannah Magazine
+
+> **🎬 Wstawka wideo:** `HnMag.mp4` (zapętlone)
 
 **Hannah:** Co to, do cholery, jest bukkake?  
 **Tasha:** To wtedy, kiedy ktoś oblewa ci twarz ogromną ilością spermy.  
@@ -33161,6 +37130,8 @@
 ---
 
 ## Common Event 312 — SCN - Madalyns Past
+
+> **🎬 Wstawka wideo:** `MadalynPast.mp4`
 
 **Narrator / mówca nieustalony:** Madalyn nie jest demonem. Jej matka była człowiekiem, a ojciec demonem.  
 **Narrator / mówca nieustalony:** Ta historia robi się coraz ciekawsza.  
@@ -33563,6 +37534,8 @@
 
 ## Common Event 310 — SCN - Chloe Flashback
 
+> **🎬 Wstawka wideo:** `ChFb.mp4`
+
 **Narrator / mówca nieustalony:** Na początku zbliżyłem się do jednej z zakonnic.  
 **Narrator / mówca nieustalony:** Była miła i pomocna…  
 **Narrator / mówca nieustalony:** Ale potem ich spotkałem.  
@@ -33840,211 +37813,379 @@
 
 ## Common Event 311 — PS - Lisa Chair Sex
 
+> **🎬 Wstawka wideo:** `PS-LisaChair1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-LisaChair1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-LisaChair2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-LisaChair3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 318 — PS - Debra Doggy
 
+> **🎬 Wstawka wideo:** `PS-DebProne1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-DebProne1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-DebProne2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-DebProne3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 471 — PS - Naomis Trick
 
+> **🎬 Wstawka wideo:** `PS-NaomiTk1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-NaomiTk1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-NaomiTk2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-NaomiTk3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 338 — PS - Bancroft
 
+> **🎬 Wstawka wideo:** `PS-Banc1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-Banc1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-Banc2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-Banc3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 377 — PS - Valerie
 
+> **🎬 Wstawka wideo:** `PS-Val1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-Val1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-Val2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-Val3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 463 — PS - Sofia
 
+> **🎬 Wstawka wideo:** `PS-SofiaCave1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-SofiaCave1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-SofiaCave2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-SofiaCave3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 466 — PS - Clare
 
+> **🎬 Wstawka wideo:** `PS-ClareSquats1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-ClareSquats1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-ClareSquats2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-ClareSquats3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 468 — PS - Jessica
 
+> **🎬 Wstawka wideo:** `PS-JessicaAnal1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-JessicaAnal1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-JessicaAnal2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-JessicaAnal3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 469 — PS - Janet
 
+> **🎬 Wstawka wideo:** `PS-JanetDT1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-JanetDT1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-JanetDT2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-JanetDT3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 472 — PS - Naomi Fucked
 
+> **🎬 Wstawka wideo:** `PS-NaomiFk1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-NaomiFk1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-NaomiFk2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-NaomiFk3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 476 — PS - Kat Fucked
 
+> **🎬 Wstawka wideo:** `PS-KatA1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-KatA1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-KatA2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-KatA3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 478 — PS - Alia Technique
 
+> **🎬 Wstawka wideo:** `PS-Alia1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-Alia1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-Alia2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-Alia3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 480 — PS - Diana Clare
 
+> **🎬 Wstawka wideo:** `PS-CrDi1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-CrDi1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-CrDi2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-CrDi3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 481 — PS - Amber
 
+> **🎬 Wstawka wideo:** `PS-Amber1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-Amber1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-Amber2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-Amber3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 484 — PS - Emily Rival
 
+> **🎬 Wstawka wideo:** `PS-BaE1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-BaE1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-BaE2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-BaE3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 485 — PS - Janet
 
+> **🎬 Wstawka wideo:** `PS-JD1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-JD1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-JD2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-JD3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 488 — PS - Sinners
 
+> **🎬 Wstawka wideo:** `PS-Sin1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-Sin1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-Sin2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-Sin3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 489 — PS - Horny Healers
 
+> **🎬 Wstawka wideo:** `PS-HH1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-HH1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-HH2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-HH3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 491 — PS - Fast N Slow
 
+> **🎬 Wstawka wideo:** `PS-FNS1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-FNS1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-FNS2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-FNS3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 494 — PS - A Demon Thing
 
+> **🎬 Wstawka wideo:** `PS-EvMd1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-EvMd1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-EvMd2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-EvMd3.mp4` (zapętlone)
 
 ---
 
 ## Common Event 496 — PS - Sofia Kaley
 
+> **🎬 Wstawka wideo:** `PS-SK1.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Kąt 1
 - Kąt 2
 - Kąt 3
 - Anuluj
+
+> **🎬 Wstawka wideo:** `PS-SK1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-SK2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `PS-SK3.mp4` (zapętlone)
 
 ---
 
@@ -34095,12 +38236,12 @@
 **Heather:** Wow! Naprawdę!?  
 **Nellie:** …  
 **Carol:** Szpiegiem? Kogo szpiegujesz?  
-**Nellie:** Nie słuchaj Mox. Wcale nie zna mnie tak dobrze, jak mu się wydaje.  
+**Nellie:** Nie słuchaj Moxa. Wcale nie zna mnie tak dobrze, jak mu się wydaje.  
 **Tasha:** To moja mama. Zakładam, że wy dwie jesteście lesbijkami, które wychowują Mox.  
 **Carol:** Hahaha!  
 **Heather:** Ojej!  
-**Carol:** Nie jesteśmy parą, młoda damo. Przyszłyśmy tu z Mox poszukać wrażeń.  
-**Nellie:** Skoro znasz Mox, masz już dość wrażeń.  
+**Carol:** Nie jesteśmy parą, młoda damo. Przyszłyśmy tu z Moxem poszukać wrażeń.  
+**Nellie:** Skoro znasz Moxa, masz już dość wrażeń.  
 **Heather:** Chyba wiem, co tu się dzieje.  
 **Carol:** Powiedz, Nellie… Ty i Mox kiedyś… ten tego?  
 **Tasha:** Co?!  
@@ -34220,6 +38361,8 @@
 
 ## Common Event 375 — SCN - Erica XXX Shop BJ
 
+> **🎬 Wstawka wideo:** `ErDkEdg1.mp4` (zapętlone)
+
 **Erica:** Myślę, że Mox spodobałaby się taka zabawka.  
 **Hannah:** Jak to działa? Wkłada się to do cipki?  
 **Tasha:** Przykładasz do łechtaczki… albo do kutasa.  
@@ -34238,11 +38381,17 @@
 **Tasha:** Założę się, że dojdzie.  
 **Erica:** Też tak obstawiam.  
 **Mox:** Haha. Nawet o tym nie myśl.  
+
+> **🎬 Wstawka wideo:** `ErDkEdg2.mp4` (zapętlone)
+
 **Erica:** No dalej, kochanie. Zróbmy im przedstawienie.  
 **Hannah:** Dawaj, Mox. Zaimponujmy siostrze.  
 **Tasha:** Pozwolisz siostrze doprowadzić się do orgazmu? Ale z ciebie zboczeniec.  
 **Mox:** Ona nie jest moją siostrą.  
 **Chloe:** No dalej. Nie drocz się z nim.  
+
+> **🎬 Wstawka wideo:** `ErDkEdg3.mp4` (zapętlone)
+
 **Mox:** Eriko!  
 **Hannah:** Twardy jak skała!  
 **Chloe:** Cholera!  
@@ -34253,33 +38402,60 @@
 **Erica:** To maksymalna moc.  
 **Tasha:** Jeśli chcesz poczuć coś niesamowitego, weź to do ust.  
 **Chloe:** Tę zabawkę?  
+
+> **🎬 Wstawka wideo:** `ErDkEdg4.mp4` (zapętlone)
+
 **Tasha:** Łaskocze w zęby, co?  
 **Hannah:** O rany! Trzyma jego siusiaka w ustach!  
 **Chloe:** Jakie to uczucie?  
 **Mox:** To… lepsze.  
 **Judy:** Wygląda boleśnie.  
+
+> **🎬 Wstawka wideo:** `ErDkEdg5.mp4` (zapętlone)
+
 **Mox:** Och! Cholera!  
 **Judy:** Mox!?  
 **Hannah:** Ależ to wygląda!  
 **Mox:** To jest… naprawdę przyjemne!  
 **Chloe:** O kurwa!  
+
+> **🎬 Wstawka wideo:** `ErDkEdg6.mp4` (zapętlone)
+
 **Hannah:** To dopiero skuteczna reklama.  
 **Chloe:** Nie żartuj.  
 **Tasha:** Zabawek wystarczy dla wszystkich.  
 **Mox:** O kurwa.  
+
+> **🎬 Wstawka wideo:** `ErDkEdg7.mp4` (zapętlone)
+
 **Judy:** Wszystko w porządku, Mox?  
 **Mox:** Przepraszam… Jest dobrze. Wszystko jest dobrze.  
+
+> **🎬 Wstawka wideo:** `ErDkEdg8.mp4` (zapętlone)
+
 **Tasha:** Właśnie tak, kochanie. Zajmij się tym kutasem.  
 **Hannah:** Doprowadź go do orgazmu, a wygrasz zakład!  
 **Mox:** Cholera, cholera, cholera!  
+
+> **🎬 Wstawka wideo:** `ErDkEdg9.mp4` (zapętlone)
+
 **Hannah:** Szybciej! Szybciej! Doprowadź go!  
 **Chloe:** Jak długo jeszcze wytrzymasz?  
 **Mox:** Już… dochodzę!  
+
+> **🎬 Wstawka wideo:** `ErDkEdg10.mp4`
+
 **Hannah:** Jest w jej ustach!  
+
+> **🎬 Wstawka wideo:** `ErDkEdg11.mp4` (zapętlone)
+
 **Judy:** O rany!  
 **Chloe:** Łał!  
 **Mox:** Co robisz, Eriko? Połknij.  
 **Hannah:** Nie ma mowy! Ja też chcę!  
+
+> **🎬 Wstawka wideo:** `ErDkEdg12.mp4` (zapętlone)
+
 **Tasha:** Masz naprawdę zboczony harem, Mox.  
 **Chloe:** Hannah!  
 **Mox:** O kurwa!  
@@ -34555,7 +38731,7 @@
 **Henry:** Tasha!? Masz kłopoty?  
 **Tasha:** Ha, mniej więcej.  
 **Nellie:** Hahaha!  
-**Nellie:** Hej, może Henry mógłby pomóc Mox?  
+**Nellie:** Hej, może Henry mógłby pomóc Moxowi?  
 **Mox:** Nie widzę, jak duch mógłby pomóc.  
 **Henry:** Hej! Doskonale nadaję się do pomocy! Pozwólcie mi pomóc!  
 **Tasha:** Nawet nie wiesz, o czym rozmawiamy.  
@@ -35009,11 +39185,16 @@
 
 ## Common Event 477 — SCN - Nellie Backroom
 
+> **🎬 Wstawka wideo:** `NeTaTst1.mp4` (zapętlone)
+
 **Mox:** Co do…?  
 **Nellie:** O tak, kurwa!  
 **Tasha:** O Boże! Ale dobrze!  
 **Nellie:** Sprzedasz ich mnóstwo!  
 **Mox:** Halo, dziewczyny.  
+
+> **🎬 Wstawka wideo:** `NeTaTst2.mp4` (zapętlone)
+
 **Tasha:** Podglądasz nas, Mox?  
 **Mox:** Co?! Nie!  
 **Nellie:** Masz rację, to dildo jest naprawdę słodkie.  
@@ -35021,6 +39202,9 @@
 **Tasha:** Ty też powinieneś spróbować, Mox.  
 **Nellie:** No jasne, Mox. Spróbuj tego dildo.  
 **Mox:** Ha. Dzięki, ale spasuję.  
+
+> **🎬 Wstawka wideo:** `NeTaTst3.mp4` (zapętlone)
+
 **Brian:** Nellie! Gdzie jesteś?!  
 **Tasha:** Tata tu jest? Czego chce?  
 **Nellie:** /worry  
@@ -35031,6 +39215,11 @@
 **Tasha:** O Boże. Mam nadzieję, że któraś zakonnica to zobaczyła. Ależ to byłoby podniecające!  
 **Nellie:** Po prostu pozbądźcie się Briana.  
 **Tasha:** Mam to.  
+
+> **🎬 Wstawka wideo:** `NeTaTst4.mp4`
+
+> **🎬 Wstawka wideo:** `NeTaTst5.mp4` (zapętlone)
+
 **Nellie:** Oby nie znalazł kolekcji DVD, którą trzymam w bibliotece kościoła.  
 **Mox:** /shock  
 **Mox:** Ahahaha!  
@@ -35047,6 +39236,11 @@
 **Mox:** Zabawka ci nie wystarcza?  
 **Nellie:** Niezupełnie.  
 **Nellie:** Może zmienisz zdanie, jeśli zrobię ci mały pokaz.  
+
+> **🎬 Wstawka wideo:** `NeTaTst6.mp4`
+
+> **🎬 Wstawka wideo:** `NeTaTst7.mp4` (zapętlone)
+
 **Nellie:** Oooch…  
 **Mox:** Cholera, tak łatwo wchodzi?  
 **Nellie:** Nie pierwszy raz.  
@@ -35054,35 +39248,67 @@
 **Nellie:** Wiesz, że podoba ci się to, co widzisz.  
 **Mox:** Nie zostawiasz mi dużego wyboru.  
 **Nellie:** No chodź, kochanie.  
+
+> **🎬 Wstawka wideo:** `NeTaTst8.mp4` (zapętlone)
+
 **Mox:** Łał, czuję, jak wibruje.  
 **Nellie:** Też tak mam.  
+
+> **🎬 Wstawka wideo:** `NeTaTst9.mp4` (zapętlone)
+
 **Nellie:** Och, ale jestem wypełniona.  
 **Mox:** Jestem taki twardy.  
 **Nellie:** Czas zwiększyć moc.  
 **Mox:** Oho.  
+
+> **🎬 Wstawka wideo:** `NeTaTst10.mp4` (zapętlone)
+
 **Mox:** Kuuurwa!  
 **Nellie:** Ach, Boże, ale zajebiście!  
 **Nellie:** Nie przestawaj, Mox.  
+
+> **🎬 Wstawka wideo:** `NeTaTst11.mp4` (zapętlone)
+
 **Mox:** To takie dziwne uczucie.  
 **Nellie:** I niesamowite!  
 **Nellie:** Cholera, zaraz…  
+
+> **🎬 Wstawka wideo:** `NeTaTst12.mp4`
+
 **Nellie:** Ale było mocno.  
 **Mox:** Już skończyłaś?  
 **Nellie:** Nie ma mowy!  
+
+> **🎬 Wstawka wideo:** `NeTaTst13.mp4` (zapętlone)
+
 **Mox:** Mmm!  
 **Nellie:** Właśnie tak, kochanie. Rozkoszuj się smakiem mojego truskawkowego tyłeczka!  
+
+> **🎬 Wstawka wideo:** `NeTaTst14.mp4` (zapętlone)
+
 **Nellie:** Uwielbiam tego kutasa.  
 **Mox:** Mmm-mmm.  
 **Nellie:** O tak, tego też.  
 **Mox:** Mmm!  
 **Nellie:** Wiesz, że to uwielbiasz.  
 **Nellie:** Mój były mąż może wejść w każdej chwili! Tak, kurwa!  
+
+> **🎬 Wstawka wideo:** `NeTaTst15.mp4` (zapętlone)
+
 **Nellie:** Och, tak! Mogłabym ujeżdżać tego kutasa cały dzień!  
 **Nellie:** Dobrze ci?  
 **Mox:** Mmm.  
 **Nellie:** No pewnie!  
+
+> **🎬 Wstawka wideo:** `NeTaTst16.mp4` (zapętlone)
+
 **Nellie:** Nie potrafię już myśleć.  
 **Nellie:** Lepiej oddaj mi każdą kroplę, Mox!  
+
+> **🎬 Wstawka wideo:** `NeTaTst17.mp4`
+
+> **🎬 Wstawka wideo:** `NeTaTst18.mp4` (zapętlone)
+
 **Brian:** O rany!  
 **Mox:** Mmm, mmmm, mmm, mmmm. Mmmm!  
 **Brian:** Dobry Boże.  
@@ -35928,6 +40154,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Heather za $1,000» → Money ≥ 1000 → BONUS PROFILE - Heather: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Heather.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -35935,6 +40163,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Heather za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Heather.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Heather-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Heather-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36001,6 +40235,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Hannah za $1,000» → Money ≥ 1000 → BONUS PROFILE - Hannah: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Hannah.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -36008,6 +40244,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Hannah za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Hannah.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Hannah-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Hannah-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36074,6 +40316,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Lillian za $1,000» → Money ≥ 1000 → BONUS PROFILE - Lillian: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Lillian.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -36081,6 +40325,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Lillian za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Lillian.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Lillian-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Lillian-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36147,6 +40397,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Eriki za $1,000» → Money ≥ 1000 → BONUS PROFILE - Erica: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Erica.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -36154,6 +40406,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Eriki za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Erica.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Erica-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Erica-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36220,6 +40478,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Nellie za $1,000» → Money ≥ 1000 → BONUS PROFILE - Nellie: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Nellie.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -36227,6 +40487,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Nellie za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Nellie.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Nellie-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Nellie-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36293,6 +40559,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Andrei za $1,000» → Money ≥ 1000 → BONUS PROFILE - Andrea: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Andrea.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -36300,6 +40568,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Andrei za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Andrea.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Andrea-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Andrea-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36366,6 +40640,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Kimberly za $1,000» → Money ≥ 1000 → BONUS PROFILE - Kimberly: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Kimberly.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -36373,6 +40649,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Kimberly za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Kimberly.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Kimberly-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Kimberly-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36439,6 +40721,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Elli za $1,000» → Money ≥ 1000 → BONUS PROFILE - Ella: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Ella.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -36446,6 +40730,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Elli za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Ella.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Ella-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Ella-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36512,6 +40802,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Carol za $1,000» → Money ≥ 1000 → BONUS PROFILE - Carol: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Carol.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -36519,6 +40811,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Carol za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Carol.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Carol-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Carol-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36585,6 +40883,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Judy za $1,000» → Money ≥ 1000 → BONUS PROFILE - Judy: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Judy.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -36592,6 +40892,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Judy za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Judy.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Judy-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Judy-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36658,6 +40964,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Chloe za $1,000» → Money ≥ 1000 → BONUS PROFILE - Chloe: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Chloe.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -36665,6 +40973,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Chloe za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Chloe.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Chloe-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Chloe-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36731,6 +41045,8 @@
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Melissy za $1,000» → Money ≥ 1000 → BONUS PROFILE - Melissa: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Melissa.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -36738,6 +41054,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** wybór «Ulepsz profil Melissy za $1,000» → Money ≥ 1000.
+
+> **🎬 Wstawka wideo:** `Fig-Melissa.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Melissa-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Melissa-Outfit.mp4` (zapętlone)
 
 **Mox:** /toomuch  
 
@@ -36912,48 +41234,95 @@
 
 ## Common Event 398 — SCN - Melissa Warehouse
 
+> **🎬 Wstawka wideo:** `MeWrhsFk1.mp4` (zapętlone)
+
 **Melissa:** Boisz się ubrudzić? Właź tam.  
 **Mox:** Wcale nie pomagasz.  
 **Melissa:** Co widzisz?  
 **Mox:** Nic, kurwa, nie widzę.  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk2.mp4` (zapętlone)
+
 **Melissa:** Potrzebujesz latarki?  
 **Mox:** Hej! To nie moja wina, że Andrea nie wtajemnicza cię w sprawę. Nie wyżywaj się na mnie.  
 **Melissa:** Czemu jesteś taki wściekły? Myślałam, że taka akcja uspokoiłaby taką beksę jak ty.  
 **Mox:** Chcesz zobaczyć trochę akcji?...  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk3.mp4`
+
+> **🎬 Wstawka wideo:** `MeWrhsFk4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `MeWrhsFk5.mp4` (zapętlone)
+
 **Mox:** Właśnie o taką akcję ci chodzi, prawda?  
 **Melissa:** Hej! Czas ucieka.  
 **Mox:** Nie chcesz?  
 **Melissa:** Pospiesz się, mistrzu.  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk6.mp4`
+
+> **🎬 Wstawka wideo:** `MeWrhsFk7.mp4` (zapętlone)
+
 **Mox:** Od dawna tego chciałaś. Widzę to.  
 **Melissa:** Kurwa, ale z ciebie dziwak!  
 **Mox:** Podoba ci się, brudna dziwko!  
 **Melissa:** Boże, Mox! Tak!  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk8.mp4` (zapętlone)
+
 **Mox:** Mmmm… Cieplutko i przyjemnie.  
 **Melissa:** Daj mi to!  
 **Mox:** Cholera, ale jesteś gorąca.  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk9.mp4` (zapętlone)
+
 **Melissa:** Dawaj! Chcę poczuć każdy centymetr!  
 **Mox:** Ale z ciebie sprośna kobieta.  
 **Melissa:** Tak! Jestem niegrzeczna!  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk10.mp4` (zapętlone)
+
 **Mox:** Podoba mi się, gdy jesteś w tej pozycji, Melisso.  
 **Melissa:** O Boże! To takie niewłaściwe.  
 **Mox:** Mógłbym się do tego przyzwyczaić.  
 **Melissa:** Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk11.mp4` (zapętlone)
+
 **Mox:** Wyobraź sobie, że ktoś by nas zobaczył!  
 **Melissa:** Nigdy bym się z tego nie otrząsnęła.  
 **Mox:** To cię podnieca… Prawda?  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk12.mp4` (zapętlone)
+
 **Melissa:** Po prostu… Pieprz mnie!  
 **Mox:** Nie wiem, co bardziej mi się podoba: twoja ciepła cipka czy te wielkie, miękkie cycki.  
 **Melissa:** Kurwa…  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk13.mp4` (zapętlone)
+
 **Melissa:** Dotykaj ich, Mox. Pieść moje cycki, gdy pieprzysz moją gorącą cipkę.  
 **Mox:** Mmmm…  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk14.mp4` (zapętlone)
+
 **Melissa:** Spójrz tylko na siebie, niegrzeczny chłopcze…  
 **Melissa:** Rozpływasz się między moimi sprośnymi cyckami.  
 **Melissa:** A teraz pieprz mnie porządnie.  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk15.mp4` (zapętlone)
+
 **Melissa:** Tak! Tak!  
 **Mox:** Doprowadzę cię do orgazmu, Melisso.  
 **Melissa:** Dawaj! Mox, doprowadź mnie do orgazmu!  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk16.mp4` (zapętlone)
+
 **Mox:** Chcesz, żebym pokrył cię swoją spermą, prawda?  
 **Melissa:** Spuść się na mnie! Pokryj całe moje ciało!  
+
+> **🎬 Wstawka wideo:** `MeWrhsFk17.mp4`
+
 **Mox:** Mam nadzieję, że lubisz, gdy kończę w środku.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -37104,6 +41473,8 @@
 ## Mapa 124 — Wnętrze / event 19 / strona 1
 
 **Mox:** /find  
+
+> **🎬 Wstawka wideo:** `Fig-Nellie.mp4` (zapętlone)
 
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
@@ -37419,6 +41790,8 @@
 ## Mapa 141 — Otwarte wnętrze / event 43 / strona 1
 
 **Mox:** /find  
+
+> **🎬 Wstawka wideo:** `Fig-Nellie.mp4` (zapętlone)
 
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
@@ -37811,6 +42184,8 @@
 
 ## Common Event 308 — SCN - Dinner
 
+> **🎬 Wstawka wideo:** `Dinner.mp4` (zapętlone)
+
 **Carol:** Co za wspaniała kolacja.  
 **Hannah:** Tak! Dziękuję, pani Wilson. Świetnie pani gotuje.  
 **Heather:** Dziękuję, drogie panie.  
@@ -37879,7 +42254,7 @@
 **Mox:** Eee… Chyba mógłbym.  
 **Hannah:** Nawet nie próbuj się wykręcić!  
 **Carol:** Hannah! Zachowuj się.  
-**Heather:** Ciągle próbuję namówić Mox, żeby poszedł ze mną na siłownię. Może Hannah lepiej pójdzie z wyrobieniem mu formy.  
+**Heather:** Ciągle próbuję namówić Moxa, żeby poszedł ze mną na siłownię. Może Hannah lepiej pójdzie z wyrobieniem mu formy.  
 **Mox:** Hej! Jestem w świetnej formie!  
 **Carol:** Owszem. Przystojny z niego facet, jeśli mogę tak powiedzieć.  
 **Hannah:** Mamo! Nie mów tak o nim.  
@@ -38225,6 +42600,8 @@
 
 ## Common Event 404 — SCN - Interview Repeat
 
+> **🎬 Wstawka wideo:** `KiMcInterview.mp4` (zapętlone)
+
 **Kimberly:** Usłyszeliście to jako pierwsi. Detektyw Mox Canmore ma przed sobą niełatwe zadanie.  
 **Kimberly:** Napad sprzed wielu lat może wreszcie znaleźć finał w naszym mieście.  
 **Mox:** Złodzieje są sprytni, ale nie tak sprytni jak ja. Trafili na niewłaściwego detektywa.  
@@ -38565,58 +42942,121 @@
 
 ## Common Event 390 — SCN - Heather first pussy
 
+> **🎬 Wstawka wideo:** `HeMcCch1.mp4` (zapętlone)
+
 **Mox:** Jesteś dla mnie wyjątkowa, Heather.  
 **Heather:** Och, Mox. Odkąd jesteś w moim życiu… Nie wiem, co bym bez ciebie zrobiła.  
 **Mox:** Chyba oboje mamy szczęście.  
+
+> **🎬 Wstawka wideo:** `HeMcCch2.mp4` (zapętlone)
+
 **Heather:** Najlepiej przytulasz, Mox.  
 **Mox:** Kocham cię, Heather.  
+
+> **🎬 Wstawka wideo:** `HeMcCch3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `HeMcCch4.mp4` (zapętlone)
+
 **Heather:** Mox?  
 **Mox:** Teraz już rozumiem.  
 **Heather:** Co widzisz?  
 **Mox:** Kobietę.  
+
+> **🎬 Wstawka wideo:** `HeMcCch5.mp4` (zapętlone)
+
 **Heather:** Och, kochanie!...  
 **Heather:** Jestem taka wrażliwa… Cała drżę.  
+
+> **🎬 Wstawka wideo:** `HeMcCch6.mp4` (zapętlone)
+
 **Heather:** Na pewno?  
 **Mox:** Jesteś najpiękniejszą kobietą, jaką znam.  
 **Heather:** Nie masz pojęcia, ile to dla mnie znaczy…  
 **Heather:** Chodź do mnie, kochanie.  
+
+> **🎬 Wstawka wideo:** `HeMcCch7.mp4` (zapętlone)
+
 **Mox:** Ach! Tak… Cudownie.  
 **Mox:** Masz takie przyjemne usta.  
+
+> **🎬 Wstawka wideo:** `HeMcCch8.mp4` (zapętlone)
+
 **Mox:** Kręci mi się w głowie…  
 **Mox:** O tak! Tego mi trzeba.  
+
+> **🎬 Wstawka wideo:** `HeMcCch9.mp4` (zapętlone)
+
 **Heather:** Wyrosłeś na wspaniałego mężczyznę.  
 **Mox:** Dzięki tobie.  
 **Heather:** Jesteś dla mnie całym światem.  
 **Mox:** Chcę cię uszczęśliwić.  
+
+> **🎬 Wstawka wideo:** `HeMcCch10.mp4` (zapętlone)
+
 **Heather:** Och! Tak! Właśnie tam.  
 **Heather:** To lepsze niż jakikolwiek sen…  
+
+> **🎬 Wstawka wideo:** `HeMcCch11.mp4` (zapętlone)
+
 **Heather:** Nigdy wcześniej niczego takiego nie czułam…  
 **Heather:** Idealnie!  
+
+> **🎬 Wstawka wideo:** `HeMcCch12.mp4` (zapętlone)
+
 **Mox:** Chcę w ciebie wejść.  
 **Heather:** Chyba nadeszła ta chwila. To się dzieje.  
 **Mox:** To na pewno w porządku?  
 **Heather:** Myślałam o tym od wielu, wielu lat…  
 **Heather:** Ale dziś wieczorem… Nadszedł czas.  
+
+> **🎬 Wstawka wideo:** `HeMcCch13.mp4`
+
+> **🎬 Wstawka wideo:** `HeMcCch14.mp4` (zapętlone)
+
 **Heather:** Mox!  
 **Mox:** Masz rację… Jest idealnie.  
 **Heather:** Och, kochanie. Tak cudownie cię w sobie czuję.  
+
+> **🎬 Wstawka wideo:** `HeMcCch15.mp4` (zapętlone)
+
 **Mox:** Nie mogę uwierzyć, że to robimy… Cała drżę.  
 **Heather:** Dobrze, kochanie. Tak powinno być.  
+
+> **🎬 Wstawka wideo:** `HeMcCch16.mp4` (zapętlone)
+
 **Mox:** Kocham cię, Heather. Zawsze cię kochałem.  
 **Heather:** Ja też cię kocham, Mox. Jesteś mężczyzną moich marzeń.  
 **Mox:** Jesteś taka ciepła… i miękka.  
 **Heather:** Chyba nigdy wcześniej nie byłam tak mokra.  
+
+> **🎬 Wstawka wideo:** `HeMcCch17.mp4` (zapętlone)
+
 **Mox:** Ale… dobrze!  
 **Heather:** Bierz mnie, kochanie. Moja cipka należy do ciebie.  
+
+> **🎬 Wstawka wideo:** `HeMcCch18.mp4` (zapętlone)
+
 **Mox:** Tak pięknie…  
 **Heather:** Tak cudownie się przy tobie czuję, kochanie.  
+
+> **🎬 Wstawka wideo:** `HeMcCch19.mp4` (zapętlone)
+
 **Mox:** Dlaczego tak długo zwlekaliśmy?  
 **Heather:** Potrzebowałeś czasu. I to w porządku…  
 **Heather:** A teraz pieprz mnie, kochanie. Bierz mnie!  
+
+> **🎬 Wstawka wideo:** `HeMcCch20.mp4` (zapętlone)
+
 **Mox:** O, Heather!  
 **Heather:** Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `HeMcCch21.mp4` (zapętlone)
+
 **Mox:** Ja… zaraz dojdę.  
 **Heather:** Czekaj! Już prawie! Chcę cię skosztować!  
+
+> **🎬 Wstawka wideo:** `HeMcCch22.mp4`
+
 **Heather:** Co za idealny wieczór.  
 **Mox:** Udało nam się.  
 **Heather:** Tak… Wszystko w porządku?  
@@ -38675,6 +43115,8 @@
 
 ## Common Event 402 — SCN - Hannah Erica Vagina
 
+> **🎬 Wstawka wideo:** `HnErPC1.mp4` (zapętlone)
+
 **Chloe:** Hannah, usiądź!  
 **Hannah:** O czym ty gadasz?  
 **Erica:** Nie widzę! Przesuń się w lewo.  
@@ -38691,6 +43133,9 @@
 **Erica:** Argh! Nie zmuszaj mnie, żebym sama cię przesunęła.  
 **Mox:** No już, Hannah. Zachowuj się.  
 **Hannah:** Nie!  
+
+> **🎬 Wstawka wideo:** `HnErPC2.mp4` (zapętlone)
+
 **Erica:** Siadaj, dziewczyno!  
 **Hannah:** …  
 **Judy:** Nic jej nie jest?  
@@ -38698,6 +43143,11 @@
 **Mox:** Hannah! Psujesz imprezę.  
 **Ella:** Może czerwone wino nie było najlepszym pomysłem.  
 **Erica:** Przesuń się, Hannah!  
+
+> **🎬 Wstawka wideo:** `HnErPC3.mp4`
+
+> **🎬 Wstawka wideo:** `HnErPC4.mp4` (zapętlone)
+
 **Erica:** O! Teraz już możesz się przesunąć.  
 **Hannah:** O kurde! Masz palce w mojej cipce!  
 **Erica:** Ale jesteś nierówna.  
@@ -38707,15 +43157,24 @@
 **Ella:** O! Konkurs na najlepszą cipkę!  
 **Chloe:** Co? Łechtaczka?  
 **Judy:** O czym ty mówisz?  
+
+> **🎬 Wstawka wideo:** `HnErPC5.mp4` (zapętlone)
+
 **Erica:** Hej!  
 **Hannah:** No dalej! Ja też chcę poczuć twoją łechtaczkę!  
 **Mox:** Uspokój się. Zaraz zaczynają się wiadomości.  
 **Ella:** Zdejmuj je, dziewczyno! Chcę to zobaczyć!  
+
+> **🎬 Wstawka wideo:** `HnErPC6.mp4` (zapętlone)
+
 **Mox:** Hannah! Przestań!  
 **Hannah:** Ale to niesprawiedliwe! Ja też chcę poczuć jej cipkę!  
 **Ella:** Dawaj! Dawaj! Dawaj!  
 **Erica:** Wstrzymaj konie, Hannah!  
 **Hannah:** Nie mam żadnych koni!  
+
+> **🎬 Wstawka wideo:** `HnErPC7.mp4` (zapętlone)
+
 **Hannah:** Przepraszam, tatusiu.  
 **Erica:** Jak myślisz, Mox? Która ma najlepszą cipkę?  
 **Mox:** Nie zamierzam na to odpowiadać.  
@@ -38743,6 +43202,9 @@
 **Erica:** Przyjmę prawdę na klatę.  
 **Hannah:** Wiem, że wygram, więc mi wszystko jedno.  
 **Mox:** Dobrze, Hannah. Przekonajmy się.  
+
+> **🎬 Wstawka wideo:** `HnErPC8.mp4` (zapętlone)
+
 **Hannah:** Włóż go! Jestem gotowa!  
 **Mox:** Jakie są zasady?  
 **Ella:** Wygrywa ta, w której Mox dojdzie.  
@@ -38753,32 +43215,55 @@
 **Hannah:** Jestem pracowita!  
 **Chloe:** Wcale nie!  
 **Hannah:** Po prostu włóż go do środka!  
+
+> **🎬 Wstawka wideo:** `HnErPC9.mp4`
+
+> **🎬 Wstawka wideo:** `HnErPC10.mp4` (zapętlone)
+
 **Hannah:** O! Słodki Jezu! Ale dobrze!  
 **Judy:** Łaskocze?  
 **Mox:** Muszę przyznać, że ma ładną cipkę.  
 **Erica:** Bez oszukiwania!  
 **Hannah:** Eee… Ach… Jak miałabym oszukiwać? Nie panuję nad tym, co robi moja cipka!  
+
+> **🎬 Wstawka wideo:** `HnErPC11.mp4` (zapętlone)
+
 **Ella:** Ściskaj, dziewczyno! Doprowadź go do orgazmu!  
 **Hannah:** Ściskam!  
 **Erica:** Musisz się bardziej postarać, żeby ze mną wygrać.  
 **Mox:** Cholera, Hannah. Naprawdę robisz to przyjemnie.  
 **Erica:** No dalej, Mox. Wcale nie jest aż tak dobrze.  
 **Hannah:** Jest dobrze! Naprawdę!  
+
+> **🎬 Wstawka wideo:** `HnErPC12.mp4` (zapętlone)
+
 **Mox:** Eriko!  
 **Hannah:** Hej! Bez oszukiwania!  
 **Erica:** Skoro jest taka dobra, to dojdź w niej.  
 **Mox:** O Boże!  
+
+> **🎬 Wstawka wideo:** `HnErPC13.mp4` (zapętlone)
+
 **Hannah:** No dalej, Mox. Mocno zaciskam!  
 **Mox:** Ach! Czuję to.  
+
+> **🎬 Wstawka wideo:** `HnErPC14.mp4` (zapętlone)
+
 **Hannah:** Pieprz mnie, tatusiu! Pieprz!  
 **Mox:** Hannah! Ale z ciebie niegrzeczna dziewczynka!  
 **Erica:** Bez oszukiwania!  
 **Ella:** Mów do niego „tatusiu”! Lubi to!  
 **Erica:** Bez oszukiwania! Bez oszukiwania!  
+
+> **🎬 Wstawka wideo:** `HnErPC15.mp4` (zapętlone)
+
 **Mox:** Jestem coraz bliżej!  
 **Hannah:** Dojdź, Mox! No już!  
 **Mox:** Ja… Ja…  
 **Hannah:** Dochodzę!  
+
+> **🎬 Wstawka wideo:** `HnErPC16.mp4`
+
 **Hannah:** Nie czuję w sobie żadnej ciepłej mazi.  
 **Erica:** Nie udało ci się.  
 **Hannah:** Oszukiwałeś!  
@@ -38786,38 +43271,65 @@
 **Mox:** Hannah, musimy być sprawiedliwi. Teraz kolej na Ericę.  
 **Hannah:** Nie doprowadzi cię do orgazmu!  
 **Erica:** Przekonajmy się.  
+
+> **🎬 Wstawka wideo:** `HnErPC17.mp4` (zapętlone)
+
 **Erica:** No dalej, Mox. Jestem gotowa.  
 **Hannah:** Dalej, Mox. Zobaczmy, co się stanie.  
 **Mox:** Będziesz grzeczna, kiedy będę pieprzył Ericę?  
 **Hannah:** Oczywiście! Jestem małym aniołkiem.  
 **Erica:** Haha. Jasne.  
+
+> **🎬 Wstawka wideo:** `HnErPC18.mp4` (zapętlone)
+
 **Erica:** O tak! Właśnie tak!  
 **Mox:** Nie wiem, Hannah. Erica ma naprawdę niezłą łechtaczkę.  
 **Judy:** Ta faktura… Przez nią mrowi go penis.  
 **Chloe:** Tak, chyba właśnie tak ma być.  
+
+> **🎬 Wstawka wideo:** `HnErPC19.mp4` (zapętlone)
+
 **Erica:** Pieprz mnie, kochanie.  
 **Hannah:** Nie jest lepsza ode mnie… Po prostu oszukiwała.  
 **Ella:** Myślisz, że doprowadzi cię do orgazmu?  
 **Mox:** Może.  
+
+> **🎬 Wstawka wideo:** `HnErPC20.mp4` (zapętlone)
+
 **Hannah:** Co się stało, Mox? Nie możesz ruszać biodrami?  
 **Mox:** Hannah! Zabierz rękę z mojej twarzy!  
 **Erica:** O kurwa! Ale dobrze!  
 **Ella:** Walcz o zwycięstwo, Hannah!  
 **Judy:** Ojej.  
+
+> **🎬 Wstawka wideo:** `HnErPC21.mp4` (zapętlone)
+
 **Mox:** Ale ciasno!  
 **Erica:** Rżnij moją cipkę, kochanie! Zanieś mnie do nieba!  
 **Hannah:** Hahahaha!  
 **Chloe:** Hannah! Zostaw go w spokoju!  
+
+> **🎬 Wstawka wideo:** `HnErPC22.mp4` (zapętlone)
+
 **Hannah:** Cholera, Mox! Ale jesteś silny!  
 **Mox:** Kurwa!  
 **Erica:** Dalej! No dalej!  
 **Ella:** Szybciej! Mocniej!  
+
+> **🎬 Wstawka wideo:** `HnErPC23.mp4` (zapętlone)
+
 **Erica:** Doprowadź mnie do orgazmu, Mox!  
 **Hannah:** Tylko nie waż się dojść, Mox!  
 **Erica:** Ja… dochodzę!  
+
+> **🎬 Wstawka wideo:** `HnErPC24.mp4`
+
 **Erica:** Wygląda na to, że ktoś złożył depozyt.  
 **Hannah:** Kłamiesz!  
 **Mox:** O Boże… Ale było dobrze.  
+
+> **🎬 Wstawka wideo:** `HnErPC25.mp4` (zapętlone)
+
 **Hannah:** Nie widzę żadnej spermy.  
 **Mox:** Hannah… Jest w środku.  
 **Judy:** Wow… To niesamowite.  
@@ -38825,6 +43337,9 @@
 **Hannah:** /curse  
 **Hannah:** Nie ma w tobie żadnej mazi!  
 **Erica:** Przyjrzyj się uważniej.  
+
+> **🎬 Wstawka wideo:** `HnErPC26.mp4`
+
 **Hannah:** /curse  
 **Mox:** Ostrzegałem cię.  
 **Erica:** Hahahaha!  
@@ -39094,14 +43609,22 @@
 
 ## Common Event 327 — SCN - Garden Tease
 
+> **🎬 Wstawka wideo:** `HeCaGrd1.mp4` (zapętlone)
+
 **Mox:** O cholera! Przepraszam!  
 **Carol:** Jesteśmy cali mokrzy!  
 **Heather:** Mówiłam, że chcę wskoczyć do basenu, ale serio?  
+
+> **🎬 Wstawka wideo:** `HeCaGrd2.mp4` (zapętlone)
+
 **Carol:** Mścisz się za te wszystkie docinki?  
 **Heather:** Zaczynasz wojnę, Mox?  
 **Mox:** Przysięgam, nie zrobiłem tego specjalnie.  
 **Heather:** Nie wierzę mu. A ty, Carol?  
 **Carol:** Uważam, że zachował się wyjątkowo niegrzecznie.  
+
+> **🎬 Wstawka wideo:** `HeCaGrd3.mp4` (zapętlone)
+
 **Mox:** Ach! Jesteś zimny!  
 **Carol:** Jak się czujesz, Mox?  
 **Heather:** Co jest? Nie zniesiesz odrobiny wilgoci?  
@@ -39109,20 +43632,32 @@
 **Carol:** Może powinnam opowiedzieć Heather, co dokładnie robiłeś u mnie.  
 **Heather:** Co widziałeś, Mox? Chcę wiedzieć.  
 **Mox:** /worry  
+
+> **🎬 Wstawka wideo:** `HeCaGrd4.mp4` (zapętlone)
+
 **Carol:** Usłyszał, jak sama się zabawiam, i postanowił to sprawdzić.  
 **Mox:** Carol!?  
 **Heather:** O mój Boże, Mox!  
 **Mox:** Myślałem, że to Hannah… Że płacze.  
+
+> **🎬 Wstawka wideo:** `HeCaGrd5.mp4` (zapętlone)
+
 **Heather:** Haha! Och, Mox. Ale wstyd.  
 **Mox:** No weźcie! Czy będziecie mi to wypominać do końca życia?  
 **Carol:** Co takiego we mnie jest, że musiałeś zerknąć?  
 **Heather:** Chyba wiem. Ten niegrzeczny chłopiec.  
 **Carol:** Powiedz mi, Mox.  
 **Mox:** Nie zamierzam na to odpowiadać.  
+
+> **🎬 Wstawka wideo:** `HeCaGrd6.mp4` (zapętlone)
+
 **Carol:** To moje wielkie cycki, prawda?  
 **Mox:** Carol! No daj spokój.  
 **Heather:** Chyba masz rację, Carol. Zarumienił się.  
 **Carol:** No, popatrz na nie. Coś nie tak?  
+
+> **🎬 Wstawka wideo:** `HeCaGrd7.mp4` (zapętlone)
+
 **Heather:** Podoba ci się to, Mox?...  
 **Heather:** A może wolisz większe cycki mamusi?  
 **Mox:** Heather!?  
@@ -39360,7 +43895,7 @@
 **Mox:** Tak… Jesteś.  
 **Carol:** Umiesz sprawić, że kobieta się uśmiecha.  
 **Heather:** Mam łopaty.  
-**Carol:** Ściółka jest mokra dzięki Mox. Zaczynajmy.  
+**Carol:** Ściółka jest mokra dzięki Moxowi. Zaczynajmy.  
 **Carol:** Skończone!  
 **Heather:** Dzięki za pomoc, Mox… Przepraszamy, że się z ciebie nabijałyśmy.  
 **Mox:** Chętnie pomogę dwóm pięknym młodym damom.  
@@ -39390,11 +43925,16 @@
 
 ## Common Event 341 — SCN - Heather Suntan
 
+> **🎬 Wstawka wideo:** `HeSnTn1.mp4` (zapętlone)
+
 **Mox:** Heather!?  
 **Heather:** Dobrze wyglądasz w tych spodenkach, Mox.  
 **Mox:** Jesteś… naga!  
 **Heather:** Oczywiście! Nie chcę mieć śladów po opalaniu.  
 **Heather:** A teraz podaj mi olejek do opalania.  
+
+> **🎬 Wstawka wideo:** `HeSnTn2.mp4` (zapętlone)
+
 **Mox:** Heather, a jeśli dziewczyny przyjdą wcześniej?  
 **Heather:** Nie udawaj takiego zszokowanego, Mox. Przecież widziałeś mnie już nago.  
 **Mox:** Co? Nie widziałem!  
@@ -39404,6 +43944,9 @@
 **Mox:** Wcale się nie peszę.  
 **Heather:** To zrób mi przysługę i nasmaruj mi plecy.  
 **Mox:** Właściwie liczyłem, że o to poprosisz.  
+
+> **🎬 Wstawka wideo:** `HeSnTn3.mp4` (zapętlone)
+
 **Heather:** Mmmm. Ale przyjemnie.  
 **Mox:** Mam nakładać olejek czy robić ci masaż?  
 **Heather:** A czemu nie jedno i drugie?  
@@ -39419,6 +43962,9 @@
 **Mox:** Ona ci to powiedziała?!  
 **Heather:** Podoba ci się Carol, Mox?  
 **Mox:** Nie! Oczywiście, że nie.  
+
+> **🎬 Wstawka wideo:** `HeSnTn4.mp4` (zapętlone)
+
 **Heather:** Chyba nasmarowałeś mi całe plecy. Nie bój się zejść niżej.  
 **Mox:** Nie możesz krytykować Carol, skoro sama mnie do tego zachęcasz.  
 **Heather:** Chcesz powiedzieć, że się z tobą droczę?  
@@ -39426,6 +43972,9 @@
 **Heather:** Jak mam dosięgnąć własnych pleców?  
 **Mox:** Jesteś rozciągnięta.  
 **Heather:** Niżej.  
+
+> **🎬 Wstawka wideo:** `HeSnTn6.mp4` (zapętlone)
+
 **Mox:** Tutaj?  
 **Heather:** Och, tak. Właśnie tam.  
 **Heather:** Myślałam, że wolisz Chloe albo Hannah.  
@@ -39433,6 +43982,9 @@
 **Heather:** Chloe była za młoda, ale teraz już nie jest. Straciłeś zainteresowanie?  
 **Mox:** Nadal jest młoda.  
 **Heather:** Nie będę się z tym spierać.  
+
+> **🎬 Wstawka wideo:** `HeSnTn5.mp4` (zapętlone)
+
 **Heather:** Może Carol naprawdę jest dla ciebie idealną kobietą.  
 **Mox:** Przestań, Heather. Przecież między mną a Carol nic nie ma.  
 **Heather:** Na pewno nie chcesz zostać ojczymem Hannah?  
@@ -39440,20 +43992,35 @@
 **Heather:** Nie spiesz się z miłością, Mox. Kogoś znajdziesz.  
 **Mox:** Na razie mam pełne ręce roboty.  
 **Heather:** Naprawdę?  
+
+> **🎬 Wstawka wideo:** `HeSnTn7.mp4` (zapętlone)
+
 **Mox:** Heather! Widać ci piersi!  
 **Heather:** Chyba wystarczająco nasmarowałeś mi tyłek.  
 **Mox:** Dobrze. Cieszę się, że mogłem pomóc. Resztę dokończysz sama.  
+
+> **🎬 Wstawka wideo:** `HeSnTn8.mp4` (zapętlone)
+
 **Heather:** Nie gadaj! Dokończ, co zacząłeś.  
 **Mox:** Heather!  
 **Heather:** Jakie to uczucie?  
 **Mox:** Nie wiem, jak udaje ci się tak świetnie wyglądać, Heather… To imponujące.  
 **Heather:** No proszę, jaki jesteś słodki!  
+
+> **🎬 Wstawka wideo:** `HeSnTn9.mp4` (zapętlone)
+
 **Heather:** Mam szczęście, że mam w życiu tak dobrego mężczyznę.  
 **Mox:** Eee, tak. Zawsze będę przy tobie, Heather.  
 **Heather:** Ale urosłeś! Uwielbiam dotykać twoich mięśni.  
+
+> **🎬 Wstawka wideo:** `HeSnTn10.mp4` (zapętlone)
+
 **Heather:** Jesteś już dorosły, masz pracę detektywa i własny dom.  
 **Mox:** Dzięki tobie.  
 **Heather:** Wszystko dla mojego skarba.  
+
+> **🎬 Wstawka wideo:** `HeSnTn11.mp4`
+
 **Heather:** Co się stało, Mox?  
 **Mox:** Heather? Co próbowałaś zrobić?  
 **Heather:** Jestem zazdrosna. Carol mogła go zobaczyć.  
@@ -39781,6 +44348,8 @@
 
 ## Common Event 407 — SCN - Ella Judy Pool
 
+> **🎬 Wstawka wideo:** `ElJuChPool1.mp4` (zapętlone)
+
 **Mox:** Czyli Ella zostanie tu dziś na noc.  
 **Judy:** Ale ekscytujące!  
 **Chloe:** Super!... Ale dlaczego?  
@@ -39829,6 +44398,9 @@
 **Ella:** Chodź! Pokażę ci kilka technik.  
 **Ella:** Mox! Wyciągnij kutasa.  
 **Mox:** Eee… dobrze.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool2.mp4` (zapętlone)
+
 **Ella:** Widzisz, jak potrafię ją rozluźnić?  
 **Judy:** Masz nad tym taką kontrolę. Jak ty to robisz?  
 **Ella:** Chodzi o rozluźnienie.  
@@ -39840,6 +44412,9 @@
 **Ella:** Soku z cipki!...  
 **Ella:** Mox, rżnij moją cipkę. Jestem mokra.  
 **Mox:** Jak sobie życzysz.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool3.mp4` (zapętlone)
+
 **Ella:** O tak! Dzięki jego kutasowi tak łatwo pozostać mokrą!  
 **Chloe:** Cholera…  
 **Judy:** Niesamowicie się na to patrzy.  
@@ -39847,29 +44422,55 @@
 **Chloe:** Kiedy my to robiłyśmy, kutas Mox był już pokryty sokiem Elli.  
 **Judy:** To musiało być przyjemne.  
 **Chloe:** Mnie nic nie bolało.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool4.mp4` (zapętlone)
+
 **Ella:** No dalej, Mox. Rżnij mnie! Obtocz kutasa w moim śliskim, kobiecym sosie!  
 **Mox:** Kurwa… Ale dobrze!  
 **Judy:** Wygląda to tak niegrzecznie.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool5.mp4` (zapętlone)
+
 **Ella:** Tak! Mox!  
 **Mox:** Jest taka mokra.  
 **Ella:** Potrzebujemy mnóstwo lubrykantu! Rżnij mnie!  
+
+> **🎬 Wstawka wideo:** `ElJuChPool6.mp4` (zapętlone)
+
 **Judy:** Czy ja też byłabym taka mokra?...  
 **Chloe:** Siostro Judy… Nie powinnaś o tym myśleć.  
 **Ella:** Byłabyś cała mokra!  
+
+> **🎬 Wstawka wideo:** `ElJuChPool7.mp4` (zapętlone)
+
 **Ella:** Zerżnij mnie! Zerżnij mnie!  
 **Mox:** Bierz, Ello! Bierz mojego kutasa!  
+
+> **🎬 Wstawka wideo:** `ElJuChPool8.mp4` (zapętlone)
+
 **Ella:** Doprowadź mnie do orgazmu, kochanie!  
 **Mox:** O, cholera. Jestem blisko!  
 **Judy:** Nie! Nie rób tego.  
 **Ella:** Zostaw to dla Judy!  
 **Ella:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `ElJuChPool9.mp4`
+
 **Ella:** Teraz jesteśmy gotowi!  
 **Mox:** Czuję na kutasie cały jej sok.  
 **Ella:** To najważniejsza część, siostro. Patrz uważnie.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool10.mp4`
+
+> **🎬 Wstawka wideo:** `ElJuChPool11.mp4` (zapętlone)
+
 **Ella:** Widzisz? Jestem całkowicie rozluźniona.  
 **Judy:** To niesamowite.  
 **Mox:** Czuję, że jesteś rozluźniona, Ello. W środku jest bardzo gładko i ciepło.  
 **Chloe:** Jak to robisz?  
+
+> **🎬 Wstawka wideo:** `ElJuChPool12.mp4` (zapętlone)
+
 **Ella:** Nie możesz walczyć z potrzebą. Musisz całkowicie się rozluźnić.  
 **Mox:** O tak. To dobre.  
 **Chloe:** Jesteś taka spokojna.  
@@ -39880,27 +44481,50 @@
 **Ella:** Muszę ci polizać tyłek.  
 **Chloe:** W porządku, Judy. To przyjemne.  
 **Judy:** Oczywiście.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool13.mp4` (zapętlone)
+
 **Judy:** Ojej!  
 **Mox:** Co za widok.  
 **Chloe:** Wciąż jest rozluźniona?  
 **Mox:** Tak… Jest bardzo przyjemnie. Nie zaciska się na moim kutasie.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool14.mp4` (zapętlone)
+
 **Judy:** Muszę skupić się na rozluźnieniu…  
 **Judy:** Nie chcę zranić kutasa Mox.  
 **Chloe:** Dasz radę, siostro Judy. Wierzę w ciebie.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool15.mp4` (zapętlone)
+
 **Ella:** Bardzo dobrze! Jesteś rozluźniona.  
 **Judy:** Skupiam się.  
 **Chloe:** Rozwarłaś się, siostro.  
 **Mox:** Cholera. Czynisz cuda, Ello.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool16.mp4` (zapętlone)
+
 **Judy:** Spokojnie i bez napięcia.  
 **Chloe:** Świetnie ci idzie, Judy.  
 **Ella:** Przejdźmy na wyższy poziom.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool17.mp4` (zapętlone)
+
 **Ella:** Nie spinaj się teraz, siostro. Już prawie.  
 **Mox:** Gotowa, Judy?  
 **Judy:** Jestem gotowa. Skupiam się.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool18.mp4`
+
+> **🎬 Wstawka wideo:** `ElJuChPool19.mp4` (zapętlone)
+
 **Mox:** Wow, udało jej się!  
 **Chloe:** Boli?  
 **Judy:** Jestem rozluźniona… To bardzo przyjemne.  
 **Ella:** Masz do tego talent. Wiedziałam.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool20.mp4` (zapętlone)
+
 **Judy:** Tak… Tak… To bardzo przyjemne. Podoba mi się to uczucie.  
 **Mox:** Jesteś ciaśniejsza niż Ella. To inne uczucie.  
 **Ella:** Ma mniejszy tyłek, więc będzie trochę ciaśniej.  
@@ -39908,20 +44532,37 @@
 **Mox:** Bardzo podobnie.  
 **Ella:** Dalej, dziewczyno. Weź tego kutasa porządnie.  
 **Judy:** Jestem gotowa.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool21.mp4` (zapętlone)
+
 **Mox:** Cholera, Judy! Ale dobrze!  
 **Ella:** Dawaj! Idzie ci fantastycznie!  
 **Judy:** Daj mi to, Mox!  
 **Chloe:** Łał!  
+
+> **🎬 Wstawka wideo:** `ElJuChPool22.mp4` (zapętlone)
+
 **Ella:** Szybko się uczysz!  
 **Mox:** Skąd wiedziałaś, jak to robić?  
 **Judy:** Nie wiem… To po prostu takie naturalne!  
+
+> **🎬 Wstawka wideo:** `ElJuChPool23.mp4` (zapętlone)
+
 **Mox:** O kurwa! Ale dobrze!  
 **Judy:** Tak, Mox! Dawaj!  
 **Ella:** Zaraz dojdzie.  
+
+> **🎬 Wstawka wideo:** `ElJuChPool24.mp4` (zapętlone)
+
 **Mox:** Nie wytrzymam!  
 **Chloe:** Jeszcze trochę, Mox.  
 **Judy:** Dochodzę!  
 **Mox:** Ja też!  
+
+> **🎬 Wstawka wideo:** `ElJuChPool25.mp4`
+
+> **🎬 Wstawka wideo:** `ElJuChPool26.mp4`
+
 **Judy:** Ello!  
 **Chloe:** Łał!  
 **Mox:** Nie mam już siły.  
@@ -40004,6 +44645,8 @@
 ---
 
 ## Common Event 414 — SCN - Heather Kiss Ants
+
+> **🎬 Wstawka wideo:** `HeMcBYKs.mp4` (zapętlone)
 
 **Ella:** Wygląda na to, że ktoś jest pod wrażeniem.  
 **Chloe:** Aaargh!  
@@ -40319,24 +44962,53 @@
 
 ## Common Event 337 — SCN - Melissa Shower
 
+> **🎬 Wstawka wideo:** `MeShr1.mp4` (zapętlone)
+
 **Mox:** O cholera! Melissa zaraz będzie brała prysznic.  
 **Mox:** Cholera, ma naprawdę świetne ciało.  
 **Mox:** Nie powinienem jej podglądać… Muszę zgłosić to przełożonym.  
+
+> **🎬 Wstawka wideo:** `MeShr2.mp4` (zapętlone)
+
 **Mox:** Cholera!  
 **Mox:** Cholera! Nie mogę podglądać swojej szefowej…  
 **Mox:** Chociaż technicznie rzecz biorąc, to ona pierwsza podglądała mnie.  
 **Mox:** Czy jesteśmy teraz kwita?  
+
+> **🎬 Wstawka wideo:** `MeShr3.mp4` (zapętlone)
+
 **Mox:** O rany!  
 **Mox:** Szkoda, że potrafi być taką suką w pracy. Zarywałbym ją, gdybym nie znał jej apodyktycznej strony.  
+
+> **🎬 Wstawka wideo:** `MeShr4.mp4` (zapętlone)
+
 **Mox:** Ma niesamowite cycki. Nic dziwnego, że wszyscy funkcjonariusze docinają mi, że dla niej pracuję.  
 **Mox:** Tak naprawdę jest niezłą laską.  
+
+> **🎬 Wstawka wideo:** `MeShr5.mp4` (zapętlone)
+
 **Mox:** Ile jeszcze zobaczę?  
+
+> **🎬 Wstawka wideo:** `MeShr6.mp4` (zapętlone)
+
 **Mox:** Czy się odwróci?  
+
+> **🎬 Wstawka wideo:** `MeShr7.mp4` (zapętlone)
+
 **Mox:** O rany! Jaki tyłek!  
 **Mox:** Chciałbym zanurzyć twarz w tym biuście.  
+
+> **🎬 Wstawka wideo:** `MeShr8.mp4` (zapętlone)
+
 **Mox:** Cholera! Widzę za dużo.  
 **Mox:** Tego widoku nie zapomnę do końca życia.  
+
+> **🎬 Wstawka wideo:** `MeShr9.mp4` (zapętlone)
+
 **Mox:** Muszę przestać. Jak spojrzę jej w oczy po czymś takim?  
+
+> **🎬 Wstawka wideo:** `MeShr10.mp4` (zapętlone)
+
 **Mox:** Cholera… Za dużo zobaczyłem. Jeśli to zgłoszę, będę wyglądał na winnego.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -40460,6 +45132,8 @@
 
 ## Common Event 365 — SCN - Andrea Changes
 
+> **🎬 Wstawka wideo:** `AdChng1.mp4` (zapętlone)
+
 **Andrea:** No? Mów.  
 **Mox:** Eee… Na ciele ojca Zephaniaha znaleziono DNA Madalyn.  
 **Andrea:** Kto?  
@@ -40467,13 +45141,22 @@
 **Mox:** Madalyn z jakiegoś powodu zabija księży… i z jakiegoś powodu zabiła Charlesa.  
 **Andrea:** Wygląda na to, że masz niewiele poszlak.  
 **Mox:** Jeszcze nie. Ale na pewno coś znajdę.  
+
+> **🎬 Wstawka wideo:** `AdChng2.mp4` (zapętlone)
+
 **Mox:** Och, eee…  
 **Andrea:** Dowiedziałeś się czegoś nowego o powiązaniach Charlesa z Gildią?  
 **Mox:** Cóż… Nic nowego. Ale wciąż to sprawdzam.  
+
+> **🎬 Wstawka wideo:** `AdChng3.mp4` (zapętlone)
+
 **Andrea:** Jeśli czegoś się dowiesz, najpierw przyjdź do mnie.  
 **Mox:** A co z Melissą?  
 **Andrea:** Oboje powinniście rozmawiać o tej sprawie tylko ze mną…  
 **Andrea:** Jestem z nią powiązana w sposób, o którym nie mogę mówić.  
+
+> **🎬 Wstawka wideo:** `AdChng4.mp4` (zapętlone)
+
 **Mox:** Andreo!  
 **Andrea:** Co się stało, Mox?  
 **Mox:** Po prostu…  
@@ -40484,10 +45167,19 @@
 **Andrea:** Dotknij ich.  
 **Mox:** Serio?  
 **Andrea:** Nie mam nic przeciwko temu, żeby się nimi pochwalić… Nikt nas przecież nie widzi.  
+
+> **🎬 Wstawka wideo:** `AdChng5.mp4` (zapętlone)
+
 **Mox:** Cholera, Andreo. Są świetne.  
 **Andrea:** Wiedziałam, że ci się spodobają.  
+
+> **🎬 Wstawka wideo:** `AdChng6.mp4` (zapętlone)
+
 **Andrea:** Efekt zdrowego trybu życia.  
 **Mox:** Niewiele kobiet w twoim wieku może pochwalić się takim biustem.  
+
+> **🎬 Wstawka wideo:** `AdChng7.mp4` (zapętlone)
+
 **Andrea:** Dość tych igraszek. Dalej, Mox…  
 **Andrea:** Wiem już wszystko, co muszę.  
 **Andrea:** Jeśli chcesz zbadać sprawę tego księdza, proszę bardzo…  
@@ -40578,22 +45270,36 @@
 
 ## Common Event 447 — SCN - Kimberly Judy Shower
 
+> **🎬 Wstawka wideo:** `KiJuShwr1.mp4` (zapętlone)
+
 **Mox:** Judy! Kimberly! Nie możemy tego robić tutaj.  
 **Kimberly:** Nikt nas nie zobaczy, Mox.  
 **Mox:** Eee… Nie byłbym tego taki pewien.  
 **Judy:** Spokojnie, Mox. Pomożemy ci.  
+
+> **🎬 Wstawka wideo:** `KiJuShwr2.mp4` (zapętlone)
+
 **Mox:** Kimberly, musisz przestać!  
 **Kimberly:** Nie wygląda na to, żebyś chciał, żebym przestała.  
 **Mox:** To znaczy… Nie możesz służyć Lilith. Ona zniszczy nasz świat.  
 **Judy:** Ona uczyni świat lepszym, głuptasie.  
+
+> **🎬 Wstawka wideo:** `KiJuShwr3.mp4` (zapętlone)
+
 **Kimberly:** Siostro Judy, może damy naszemu kochasiowi niezły pokaz?  
 **Judy:** Och, sama nie wiem, panno Foxx. Nie mam w tym żadnego doświadczenia.  
 **Kimberly:** Nie martw się, siostro. To łatwiejsze, niż myślisz.  
 **Mox:** Kimberly, zdejmij mi kajdanki!  
 **Kimberly:** Rób to, co ja, siostro.  
+
+> **🎬 Wstawka wideo:** `KiJuShwr4.mp4` (zapętlone)
+
 **Mox:** Rozumiem. Seks jest fajny. Możesz mnie już rozkuć?  
 **Mox:** Cholera!...  
 **Mox:** Ale gorąco.  
+
+> **🎬 Wstawka wideo:** `KiJuShwr5.mp4` (zapętlone)
+
 **Kimberly:** Podkręćmy jeszcze trochę atmosferę. Co ty na to, siostro Judy?  
 **Judy:** Co masz na myśli?  
 **Kimberly:** Który facet nie lubi gorącej sceny pod prysznicem z dwiema pięknymi kobietami?  
@@ -40601,57 +45307,102 @@
 **Kimberly:** Trzeba było o tym pomyśleć, zanim założyłeś kajdanki.  
 **Mox:** To nie ja założyłem kajdanki!  
 **Judy:** Biedny Mox.  
+
+> **🎬 Wstawka wideo:** `KiJuShwr6.mp4` (zapętlone)
+
 **Mox:** Cholera! Moja kurtka!  
 **Kimberly:** Masz takie seksowne ciało, siostro!  
 **Judy:** Uwielbiam twoją skórę. Jest taka gładka!  
 **Mox:** Łał!  
+
+> **🎬 Wstawka wideo:** `KiJuShwr7.mp4` (zapętlone)
+
 **Judy:** Podoba ci się to, co widzisz, Mox?  
 **Judy:** Jestem dla ciebie wystarczająco seksowna?  
 **Mox:** Nie musimy służyć potworowi, żeby dobrze się bawić. Rozkuj mnie, a zaraz wypieprzę was obie.  
 **Kimberly:** I zepsuć nasz pokaz? Chyba nie.  
+
+> **🎬 Wstawka wideo:** `KiJuShwr8.mp4` (zapętlone)
+
 **Judy:** Och! Ale to… przyjemne.  
 **Kimberly:** Lubisz, kiedy ktoś inny przejmuje kontrolę.  
 **Judy:** Tak, tak! Spraw, żebym poczuła rozkosz!  
+
+> **🎬 Wstawka wideo:** `KiJuShwr9.mp4` (zapętlone)
+
 **Kimberly:** Założę się, że spodobałoby ci się, gdyby Mox przyszedł i przejął nad tobą kontrolę.  
 **Judy:** O Boże, tak!  
 **Mox:** Kurwa.  
 **Kimberly:** Co się stało, Mox?  
 **Kimberly:** Ach, no tak. Masz związane ręce.  
 **Kimberly:** W takim razie musisz dalej patrzeć.  
+
+> **🎬 Wstawka wideo:** `KiJuShwr10.mp4` (zapętlone)
+
 **Kimberly:** Ach, tak, kurwa!  
 **Judy:** Twoja cipka tak cudownie ociera się o moją!  
 **Mox:** Argh! Dłużej nie wytrzymam!  
 **Kimberly:** Nie wiem, siostro. Myślisz, że wystarczająco długo czekał? Powinnyśmy okazać mu litość?  
+
+> **🎬 Wstawka wideo:** `KiJuShwr11.mp4` (zapętlone)
+
 **Judy:** Miłosierdzie to cnota!  
 **Kimberly:** Co powinnyśmy zrobić?  
 **Judy:** Wiem dokładnie, co robić.  
+
+> **🎬 Wstawka wideo:** `KiJuShwr12.mp4` (zapętlone)
+
 **Judy:** Uwielbiam czuć tego kutasa w mojej cipce!  
 **Mox:** Judy! Zaraz rozwalisz ścianę!  
 **Judy:** Rżnij moją cipkę! Wbijaj się głęboko!  
+
+> **🎬 Wstawka wideo:** `KiJuShwr13.mp4` (zapętlone)
+
 **Kimberly:** Uważaj, siostro. Ktoś nas usłyszy.  
 **Judy:** Nic na to nie poradzę!  
 **Kimberly:** Chodź… Pokażę ci, jak to się robi.  
+
+> **🎬 Wstawka wideo:** `KiJuShwr14.mp4` (zapętlone)
+
 **Kimberly:** Właśnie tak, kochanie! Daj mi porządnie!  
 **Mox:** O Boże, jak mogłbym się temu oprzeć?  
 **Kimberly:** Ulegnij swoim pragnieniom i pokaż mi, jakim jesteś mężczyzną!  
 **Mox:** O tak, kurwa!  
+
+> **🎬 Wstawka wideo:** `KiJuShwr15.mp4` (zapętlone)
+
 **Kimberly:** Jestem taka niegrzeczna, deprawuję zakonnicę.  
 **Mox:** Jesteś niegrzeczną dziewczynką, Kimberly.  
 **Kimberly:** Ukarz mnie, Mox!  
 **Judy:** Tak! Ukarz tę grzeszną cipkę!  
 **Kimberly:** Chodź tu, siostro! Pomóż mi go wykończyć!  
+
+> **🎬 Wstawka wideo:** `KiJuShwr16.mp4` (zapętlone)
+
 **Kimberly:** Tak, właśnie tak, siostro. Coraz lepiej ci idzie.  
 **Judy:** To przyjemne.  
 **Mox:** Cholera! Ale jesteście śliskie!  
+
+> **🎬 Wstawka wideo:** `KiJuShwr17.mp4` (zapętlone)
+
 **Kimberly:** Jak ci z tym, Mox? Jak twojemu kutasowi podobają się nasze miękkie, mokre ciała?  
 **Mox:** Niesamowite!  
 **Judy:** Daj mu! Spraw mu rozkosz!  
+
+> **🎬 Wstawka wideo:** `KiJuShwr18.mp4` (zapętlone)
+
 **Kimberly:** Kurwa!  
 **Judy:** Tak! Szybciej!  
 **Mox:** Cholera! Ale dobrze!  
+
+> **🎬 Wstawka wideo:** `KiJuShwr19.mp4` (zapętlone)
+
 **Mox:** Nie wytrzymam! Zaraz dojdę!  
 **Judy:** Tak, zrób to! Chcę poczuć twoją gorącą spermę na tyłku!  
 **Kimberly:** Słyszałeś zakonnicę. Pokaż nam, co dla nas masz.  
+
+> **🎬 Wstawka wideo:** `KiJuShwr20.mp4`
+
 **Mox:** Aaaach, kurwa. To było niesamowite.  
 **Mox:** Jestem kompletnie wykończony.  
 
@@ -40758,39 +45509,88 @@
 
 ## Common Event 470 — SCN - Melissa Shower Fuck
 
+> **🎬 Wstawka wideo:** `MeShwrFk1.mp4` (zapętlone)
+
 **Mox:** Przyszedłem odebrać nagrodę.  
 **Melissa:** Ty draniu! A jeśli ktoś tu wejdzie?  
 **Mox:** Niech patrzą. To moja nagroda.  
+
+> **🎬 Wstawka wideo:** `MeShwrFk2.mp4` (zapętlone)
+
 **Melissa:** Widzę, że jesteś gotów odebrać nagrodę… Szkoda, że nie wygrałeś.  
 **Mox:** Skoro nie wygrałem… to dlaczego to robimy?...  
+
+> **🎬 Wstawka wideo:** `MeShwrFk3.mp4` (zapętlone)
+
 **Melissa:** Mox!?  
 **Mox:** Właśnie tak, kochanie. Bierz mojego kutasa.  
 **Melissa:** Przysięgam! Wpakujesz nas w niezłe kłopoty.  
+
+> **🎬 Wstawka wideo:** `MeShwrFk4.mp4` (zapętlone)
+
 **Mox:** Nie jesteś już moją szefową, Melisso. Teraz jesteśmy sobie równi.  
 **Melissa:** Jakby to miało jakiekolwiek znaczenie, gdyby ktoś nas zobaczył!  
 **Mox:** Naprawdę chcesz, żebym przestał?  
+
+> **🎬 Wstawka wideo:** `MeShwrFk5.mp4` (zapętlone)
+
 **Melissa:** I tak już nie przestaniesz, dupku.  
 **Mox:** Łał! Melissa! Ale jesteś ciasna!  
+
+> **🎬 Wstawka wideo:** `MeShwrFk6.mp4` (zapętlone)
+
 **Melissa:** Po prostu mnie pieprz, Mox.  
 **Mox:** Wiedziałem, że zmienisz zdanie.  
 **Melissa:** Ale z ciebie zarozumiały… dupek…  
+
+> **🎬 Wstawka wideo:** `MeShwrFk7.mp4` (zapętlone)
+
 **Mox:** Ach! Ach! Nie gryź tak mocno!  
 **Mox:** O cholera…  
+
+> **🎬 Wstawka wideo:** `MeShwrFk8.mp4` (zapętlone)
+
 **Mox:** Mmm… Tak lepiej. Użyj języka.  
+
+> **🎬 Wstawka wideo:** `MeShwrFk9.mp4` (zapętlone)
+
 **Mox:** O cholera! Uważaj na zęby!  
 **Mox:** … Kurwa!... Ale dobrze.  
+
+> **🎬 Wstawka wideo:** `MeShwrFk10.mp4` (zapętlone)
+
 **Mox:** Boże, Melisso. Trochę mnie przerażasz… ale jestem tak cholernie napalony.  
 **Mox:** Jesteś przepiękna.  
+
+> **🎬 Wstawka wideo:** `MeShwrFk11.mp4` (zapętlone)
+
 **Melissa:** No dalej, wielki chłopcze. Na co czekasz?  
 **Mox:** Chcesz poczuć mojego kutasa w tym apetycznym tyłku?  
+
+> **🎬 Wstawka wideo:** `MeShwrFk12.mp4`
+
+> **🎬 Wstawka wideo:** `MeShwrFk13.mp4` (zapętlone)
+
 **Mox:** Kurwa! Ale dobrze jest mi w twoim tyłku!  
 **Melissa:** Pieprz mnie, kochanie. Pieprz mnie w tyłek!  
+
+> **🎬 Wstawka wideo:** `MeShwrFk14.mp4` (zapętlone)
+
 **Mox:** Ale ciasno!  
 **Melissa:** Wypierdol mi tyłek do końca, Mox!  
+
+> **🎬 Wstawka wideo:** `MeShwrFk15.mp4` (zapętlone)
+
 **Mox:** Dawaj, Melisso! Daj mi swój tyłek!  
 **Melissa:** Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `MeShwrFk16.mp4` (zapętlone)
+
 **Mox:** Kurwa! Zaraz dojdę!  
 **Melissa:** Daj mi swoją spermę, kochanie!  
+
+> **🎬 Wstawka wideo:** `MeShwrFk17.mp4`
+
 **Mox:** Niegrzeczna z ciebie dziewczynka, Melisso.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 210.
@@ -41380,7 +46180,12 @@
 
 ## Common Event 345 — SCN - Andrea Dinner
 
+> **🎬 Wstawka wideo:** `AnDnr1.mp4`
+
 **Mox:** Widzę, że masz wyrobiony gust artystyczny.  
+
+> **🎬 Wstawka wideo:** `AnDnr2.mp4` (zapętlone)
+
 **Mox:** Szczególnie podoba mi się to dzieło. Baletnica w jednej z odmian pozy attitude?  
 **Andrea:** Bardzo dobrze, Mox. Widzę, że masz pewne obycie z kulturą.  
 **Mox:** Haha, niektórzy powiedzieliby, że jestem człowiekiem kultury. A może po prostu zgadłem.  
@@ -41391,11 +46196,19 @@
 **Andrea:** Cechy, które z czasem zanikają.  
 **Mox:** Nie powiedziałbym. Uważam, że masz naturalny wdzięk silnej, dojrzałej kobiety.  
 **Mox:** Jestem pewien, że w odpowiednich okolicznościach także potrafiłabyś wykazać się wigorem.  
+
+> **🎬 Wstawka wideo:** `AnDnr3.mp4` (zapętlone)
+
 **Andrea:** Widać, że wciąż jesteś młody.  
 **Andrea:** Będę musiała mieć na ciebie oko.  
 **Mox:** Ty tu rządzisz.  
 **Andrea:** Choć uwielbiam dzielić się z tobą moją pasją, nie pozwólmy, by kolacja wystygła.  
 **Mox:** Prowadź.  
+
+> **🎬 Wstawka wideo:** `AnDnr4.mp4`
+
+> **🎬 Wstawka wideo:** `AnDnr5.mp4` (zapętlone)
+
 **Andrea:** Miło mieć towarzystwo przy kolacji. Ostatni raz miałam gości, gdy odwiedziła mnie córka.  
 **Mox:** Masz dzieci?  
 **Andrea:** Syna i córkę. Właściwie oboje są mniej więcej w twoim wieku.  
@@ -41407,6 +46220,9 @@
 **Andrea:** Całkiem możliwe?  
 **Mox:** Musiałbym najpierw spróbować, żeby się upewnić.  
 **Andrea:** Hahaha, naprawdę jesteś odważny, co?  
+
+> **🎬 Wstawka wideo:** `AnDnr6.mp4` (zapętlone)
+
 **Andrea:** Najpierw zaglądasz do zastrzeżonych akt Gildii Eclipse, a potem flirtujesz ze swoją przełożoną.  
 **Andrea:** Jeśli się nie pilnujesz, możesz wkrótce wpaść w niezłe tarapaty, Mox.  
 **Mox:** Przepraszam, że przeglądałem akta Gildii.  
@@ -41424,6 +46240,9 @@
 **Andrea:** Co daje ci podstawy, by tak sądzić?  
 **Mox:** Cóż… nie mogę z całą pewnością ujawnić źródła… Wciąż to badam.  
 **Andrea:** Rozumiem.  
+
+> **🎬 Wstawka wideo:** `AnDnr7.mp4` (zapętlone)
+
 **Andrea:** Wbrew temu, co słyszeliście, z przyjemnością informuję, że Gildia wkrótce przejdzie do historii.  
 **Andrea:** Ich istnienie było zniewagą dla świata sztuki. Na szczęście udało mi się ich pokonać.  
 **Mox:** Pracowałaś nad sprawą Gildii?  
@@ -41437,6 +46256,9 @@
 **Mox:** To nie mogło być łatwe do zorganizowania.  
 **Andrea:** Wymagało to sporo pracy. W końcu odnieśliśmy sukces i poprosiliśmy o pomoc agencje federalne.  
 **Andrea:** Teraz Gildia jest w rozsypce.  
+
+> **🎬 Wstawka wideo:** `AnDnr8.mp4` (zapętlone)
+
 **Andrea:** Ludzi niepokoją jednak wszystkie doniesienia na temat Gildii.  
 **Andrea:** Dlatego jutro udzielę wywiadu dla Channel 4 News.  
 **Andrea:** Gildia dogorywa. Głośne aresztowania w całym stanie wywołały plotki i strach wśród ludzi.  
@@ -41451,6 +46273,9 @@
 **Mox:** Ja? Przecież oficjalnie nawet nie pracuję nad tą sprawą… Czemu mam być jej twarzą?  
 **Andrea:** Bo jesteś przystojny, spokojny i pewny siebie, Mox. Sama twoja obecność doda ludziom otuchy.  
 **Mox:** Zaraz, czyli mam tam po prostu dobrze wyglądać przed kamerami?  
+
+> **🎬 Wstawka wideo:** `AnDnr9.mp4` (zapętlone)
+
 **Andrea:** Te wyraziste rysy. Ta męska twarz.  
 **Andrea:** Kamera cię pokocha. Publiczność też.  
 **Andrea:** Masz też zapał, jakiego rzadko się widuje. Wiem, że mnie nie zawiedziesz.  
@@ -41459,6 +46284,9 @@
 **Mox:** Oczywiście.  
 **Mox:** Chętnie pomogę służyć interesowi publicznemu.  
 **Andrea:** I to chciałam usłyszeć, Mox.  
+
+> **🎬 Wstawka wideo:** `AnDnr10.mp4` (zapętlone)
+
 **Andrea:** Jeśli dobrze pójdzie, kto wie — może wyniknie z tego coś więcej.  
 **Mox:** Coś więcej?  
 **Andrea:** Masz potencjał, Mox. To może być dopiero początek długiej kariery.  
@@ -41673,7 +46501,7 @@
 
 ## Mapa 076 — Przedsionek / event 23 / strona 1
 
-**Andrea:** Nellie! Powiedziałaś Mox?  
+**Andrea:** Nellie! Powiedziałaś Moxowi?  
 **Mox:** Jesteśmy w tym razem.  
 **Andrea:** Cóż, cieszę się, że tak uważasz, bo wszyscy mamy przejebane.  
 **Nellie:** Jaki jest plan?  
@@ -41739,7 +46567,7 @@
 **Ella:** Cóż mogę powiedzieć? Uwielbiam dobre imprezy.  
 **Ella:** Choć na razie wypadłam z branży streamingu.  
 **Kimberly:** Szkoda. Bardzo podobała mi się twoja twórczość.  
-**Kimberly:** Zwłaszcza twoja współpraca z Mox.  
+**Kimberly:** Zwłaszcza twoja współpraca z Moxem.  
 **Ella:** Kto wie, może kiedyś zrobimy bis.  
 **Mox:** Nie mogę powiedzieć, że to niemożliwe.  
 **Chloe:** /shock  
@@ -41784,7 +46612,7 @@
 **Andrea:** Podobno niedawno pozwolił, by ktoś naruszył ważne dowody.  
 **Melissa:** Nowy komisarz chce iść w kierunku, który mi odpowiada.  
 **Melissa:** Nie podoba mi się tylko cena, jaką trzeba zapłacić za twoje metody.  
-**Nellie:** Przysługa za przysługę jeszcze nikomu nie zaszkodziła. Zapytaj Mox.  
+**Nellie:** Przysługa za przysługę jeszcze nikomu nie zaszkodziła. Zapytaj Moxa.  
 **Mox:** To nie takie złe, Melisso. Nikt tak naprawdę na tym nie cierpi.  
 **Andrea:** Właśnie. Czasem niektórym trzeba po prostu pomóc coś przenieść.  
 **Andrea:** Co za różnica, jeśli zginie kilka artefaktów?  
@@ -41895,7 +46723,7 @@
 **Andrea:** To rodzinny sekret, dziewczyny.  
 **Kimberly:** Choć miło mi się z wami gawędzi, chyba mamy do przeprowadzenia wywiad.  
 **Andrea:** Nie bądź taki oficjalny…  
-**Andrea:** Porozmawiajcie z Mox. Zaniosę szklanki do kuchni.  
+**Andrea:** Porozmawiajcie z Moxem. Zaniosę szklanki do kuchni.  
 **Kimberly:** Andrea sprowadziła cię tu, żebyś mnie oczarował, prawda?  
 **Mox:** Co? Jestem tym od Gildii. Przyszedłem porozmawiać o rezydencji.  
 **Kimberly:** Czyli jednak istnieje jakieś powiązanie?  
@@ -41917,28 +46745,56 @@
 
 ## Common Event 359 — SCN - Kimberly Andrea Meeting
 
+> **🎬 Wstawka wideo:** `KiAdMcDin1.mp4` (zapętlone)
+
 **Kimberly:** Może to alkohol, ale ostatnio coraz bardziej podobają mi się młodsi mężczyźni.  
 **Mox:** Z wyrzeźbionymi mięśniami brzucha?  
 **Kimberly:** Nie pochlebiaj sobie, mięczaku.  
 **Mox:** Nie powiedziałbym, że teraz jestem miękki.  
 **Kimberly:** Oho. Zaczynasz przesadzać, co?  
+
+> **🎬 Wstawka wideo:** `KiAdMcDin2.mp4` (zapętlone)
+
 **Kimberly:** Ups. Chyba o czymś zapomniałam.  
 **Mox:** Nie boisz się, że Kimura wróci?  
 **Kimberly:** Zostawiła nas samych nie bez powodu. Chyba chciałaby, żebyśmy poznali się bliżej… osobiście.  
 **Mox:** Podoba mi się, dokąd to zmierza.  
+
+> **🎬 Wstawka wideo:** `KiAdMcDin3.mp4` (zapętlone)
+
 **Kimberly:** Och, tak, panie Canmore!  
 **Mox:** Jesteś mokra, panno Foxx.  
 **Kimberly:** Oby Andrea nie spieszyła się z powrotem.  
+
+> **🎬 Wstawka wideo:** `KiAdMcDin4.mp4` (zapętlone)
+
 **Mox:** Chcę, żebyś dla mnie doszła, Kimberly.  
 **Kimberly:** Nie wystarczy tyle, żebym doszła.  
 **Mox:** Szkoda, że nie mam czasu dokładniej poznać tej twojej soczystej cipki.  
+
+> **🎬 Wstawka wideo:** `KiAdMcDin5.mp4`
+
+> **🎬 Wstawka wideo:** `KiAdMcDin6.mp4` (zapętlone)
+
 **Kimberly:** O, kurwa, tak! Użyj języka!  
 **Kimberly:** Masz szczęście, chłopcze… możesz zakosztować nieba.  
+
+> **🎬 Wstawka wideo:** `KiAdMcDin7.mp4` (zapętlone)
+
 **Kimberly:** Ach! Kręci mi się w głowie…  
 **Kimberly:** Dawno się tak nie czułam.  
+
+> **🎬 Wstawka wideo:** `KiAdMcDin8.mp4` (zapętlone)
+
 **Kimberly:** Cokolwiek ze mną robisz, działa.  
 **Mox:** Chyba mam coś, czego potrzebujesz.  
+
+> **🎬 Wstawka wideo:** `KiAdMcDin9.mp4`
+
 **Kimberly:** Pieprzmy się.  
+
+> **🎬 Wstawka wideo:** `KiAdMcDin10.mp4`
+
 **Kimberly:** Panno Kimura!  
 **Andrea:** Czy w czymś przeszkadzam?  
 
@@ -41965,6 +46821,8 @@
 
 ## Common Event 426 — SCN - Andrea Melissa Dining
 
+> **🎬 Wstawka wideo:** `AdMeMcMeet1.mp4` (zapętlone)
+
 **Andrea:** Za daleko posunęliście się w swoich gierkach!  
 **Melissa:** Ludzie wiedzą, że to my powstrzymaliśmy Gildię. Po wszystkim.  
 **Andrea:** Planowaliście to za moimi plecami.  
@@ -41972,57 +46830,107 @@
 **Andrea:** Nie masz pojęcia, co zobaczą ludzie…  
 **Andrea:** Foxx rozdmucha tę sprawę do granic możliwości, a ja wyjdę na czarny charakter.  
 **Mox:** Może jednak nie.  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet2.mp4` (zapętlone)
+
 **Andrea:** Za bardzo się rozzuchwaliłeś, odzywając się przy mnie, Mox.  
 **Melissa:** Jest młody. Uczy się.  
 **Andrea:** A ty! Powinnam cię zwolnić za to, co zrobiłeś.  
 **Melissa:** …  
 **Mox:** Czy to rozsądne?  
 **Andrea:** Aaargh!  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet3.mp4` (zapętlone)
+
 **Mox:** Aaargh!  
 **Melissa:** Panno Kimura! On nie może oddychać!  
 **Andrea:** Musi się czegoś nauczyć…  
 **Andrea:** Ty też.  
 **Mox:** Mmph!  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet4.mp4` (zapętlone)
+
 **Andrea:** No dalej. Zjedz to.  
 **Melissa:** Panno Kimura!  
 **Mox:** Andrea… Udowodniłaś swoje.  
 **Andrea:** Powiedziałam: zjedz!  
 **Melissa:** …  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet5.mp4` (zapętlone)
+
 **Andrea:** Kurwa!  
 **Mox:** Co chcesz przez to udowodnić?  
 **Andrea:** Lojalność, Mox.  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet6.mp4` (zapętlone)
+
 **Melissa:** Wystarczy?  
 **Andrea:** Jeszcze z wami nie skończyłam.  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet7.mp4` (zapętlone)
+
 **Mox:** Auć! To boli!  
 **Melissa:** Nie podejrzewałam, że cię na to stać, Kimura.  
 **Andrea:** Wciąż nie wiesz, kiedy trzymać język za zębami… Może chcesz zostać ukarana.  
 **Melissa:** Spróbuj.  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet8.mp4` (zapętlone)
+
 **Melissa:** O kurwa!  
 **Andrea:** Tak… Tak… Podoba ci się.  
 **Mox:** Jesteśmy lojalni, Andreo.  
 **Melissa:** O Boże!  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet9.mp4` (zapętlone)
+
 **Andrea:** Znaj swoje miejsce, a zajdziesz daleko. Jeśli znów zrobisz coś za moimi plecami, pożałujesz.  
 **Melissa:** Tak! Rozumiem.  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet10.mp4`
+
 **Melissa:** O kurwa.  
 **Andrea:** Nie oszukasz mnie. Pamiętaj o tym.  
 **Mox:** Skończyliśmy?  
 **Andrea:** Nie, dopóki nie dojdę.  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet11.mp4` (zapętlone)
+
 **Mox:** O cholera!  
 **Andrea:** No dalej, Mox. Stać cię na więcej.  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet12.mp4` (zapętlone)
+
 **Andrea:** Nie stój tak, Bhatt. Pomóż swojemu podwładnemu.  
 **Melissa:** Tak, proszę pani.  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet13.mp4` (zapętlone)
+
 **Andrea:** Tak! Dawaj!  
 **Mox:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet14.mp4` (zapętlone)
+
 **Andrea:** Rżnij mnie mocno!  
 **Mox:** Cholera, Melisso! Aż wibruje mi kutas!  
 **Andrea:** Nie waż się dojść, zanim ja nie dojdę, Mox!  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet15.mp4` (zapętlone)
+
 **Andrea:** O tak, kurwa!  
 **Mox:** Ale dobrze!  
 **Melissa:** Dawaj, Mox. Doprowadź ją do orgazmu.  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet16.mp4` (zapętlone)
+
 **Mox:** Już prawie!  
 **Andrea:** Tak! Spuść się na moją twarz!  
 **Mox:** Nie mogę… wytrzymać!  
 **Andrea:** Dojdź! Teraz!  
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet17.mp4`
+
+> **🎬 Wstawka wideo:** `AdMeMcMeet18.mp4` (zapętlone)
+
 **Mox:** Łał!... Ależ to podniecające.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -42232,6 +47140,8 @@
 
 ## Common Event 437 — SCN - Kimberly Erica Andrea
 
+> **🎬 Wstawka wideo:** `AdErKiDrnks1.mp4` (zapętlone)
+
 **Erica:** Wow! Pyszne… Smakuje jak truskawki.  
 **Kimberly:** Och, tak. Pamiętam ten napój… To rodzinny sekret, jeśli dobrze pamiętam.  
 **Andrea:** Zgadza się, panno Foxx.  
@@ -42250,59 +47160,115 @@
 **Erica:** Jak myślisz, co powinnyśmy zrobić, żeby przełamać lody?  
 **Kimberly:** Mam pomysł.  
 **Andrea:** Oczywiście zabawimy się z chłopakiem.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks2.mp4` (zapętlone)
+
 **Erica:** Tak bardzo chcę tego kutasa!  
 **Kimberly:** Ja też!  
 **Andrea:** Zobaczymy, czy poradzi sobie z nami trzema.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks3.mp4` (zapętlone)
+
 **Mox:** Rodzinny sekret?  
 **Andrea:** Nie zawiedź moich gości, Mox… Nasza przyszłość od tego zależy.  
 **Mox:** Co ty, do cholery, planujesz?  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks4.mp4` (zapętlone)
+
 **Kimberly:** Pieprz mnie, Mox!  
 **Erica:** Panno Kimura… Nie spodziewałam się tego po pani.  
 **Andrea:** Podoba ci się?  
 **Erica:** Tak! Bardzo!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks5.mp4` (zapętlone)
+
 **Mox:** Jesteś bardzo niegrzeczna, Kimberly.  
 **Kimberly:** Muszę się pieprzyć!  
 **Erica:** Nie zapominaj o mnie, Mox.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks6.mp4` (zapętlone)
+
 **Mox:** Masz cudownie mokrą cipkę.  
 **Kimberly:** Komisarz, wylizuj mu jaja!  
 **Erica:** Jestem taka napalona!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks7.mp4` (zapętlone)
+
 **Kimberly:** Tak! Ale z niej zboczuszka. Taka dziwka.  
 **Erica:** Wszystkie jesteśmy dziwkami!  
 **Kimberly:** No dalej, dziewczyno. Twoja kolej.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks8.mp4` (zapętlone)
+
 **Erica:** Dawaj! Weź moje ciało!  
 **Mox:** Ale ciasno!  
 **Erica:** Uwielbiam to!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks9.mp4` (zapętlone)
+
 **Erica:** Moje sutki… aż mrowią z rozkoszy!  
 **Mox:** Ale to cholernie podniecające!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks10.mp4` (zapętlone)
+
 **Andrea:** Cóż za smakowici goście! Tak chętni, by sprawiać przyjemność.  
 **Kimberly:** Ma pani niesamowite cycki, panno Kimura!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks11.mp4` (zapętlone)
+
 **Andrea:** Pobawcie się nimi, kochane. Jestem cała wasza.  
 **Mox:** Cholera, Andreo!  
 **Kimberly:** Może zdołam odwdzięczyć się w pyszny sposób.  
 **Andrea:** Pokaż, co potrafisz, panno Foxx.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks12.mp4` (zapętlone)
+
 **Kimberly:** Wylizuj moje soki, panno Kimura!  
 **Mox:** Nawet bez drinka jest mokra jak diabli.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks13.mp4` (zapętlone)
+
 **Kimberly:** Dobrze, że tu przyszłam… Andrea jest niesamowita!  
 **Mox:** Podoba ci się, że liże ci cipkę?  
 **Kimberly:** Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks14.mp4`
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks15.mp4` (zapętlone)
+
 **Erica:** Rżnij mnie w tyłek, kochanie!  
 **Kimberly:** Cholera, ale jest seksowna.  
 **Andrea:** Tak… Jest.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks16.mp4` (zapętlone)
+
 **Mox:** Jej tyłek jest niesamowity!  
 **Kimberly:** Mmm! Ale pyszne!  
 **Erica:** Daj mi to!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks17.mp4` (zapętlone)
+
 **Kimberly:** Wow! Patrz, jak dają czadu.  
 **Mox:** Ale dobrze!  
 **Andrea:** Spuść się w jej tyłku, Mox.  
 **Mox:** Hę?  
 **Andrea:** Wystrzel w jej tyłku.  
 **Kimberly:** Andrea jest taka perwersyjna!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks18.mp4` (zapętlone)
+
 **Erica:** Dawaj! Spuść się w moim tyłku!  
 **Mox:** Dochodzę! Dochodzę!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks19.mp4`
+
 **Andrea:** Zjedz to, panno Foxx.  
 **Kimberly:** Mam zlizać spermę z tyłka Eriki?  
 **Andrea:** Wygląda apetycznie… prawda?  
 **Kimberly:** O tak!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks20.mp4` (zapętlone)
+
 **Erica:** Ale niegrzecznie!  
 **Andrea:** Dobrze! Dobrze!  
 **Mox:** O kurwa.  
@@ -42472,6 +47438,8 @@
 
 ## Common Event 408 — SCN - Andrea Nellie Tub
 
+> **🎬 Wstawka wideo:** `AdNeHT1.mp4` (zapętlone)
+
 **Mox:** Och… To coś, co dostałem od koleżanki.  
 **Andrea:** To eliksir miłosny.  
 **Mox:** Widziałaś już kiedyś taki?  
@@ -42480,33 +47448,68 @@
 **Andrea:** Ten napój z kolacji, na której spotkaliśmy się we trójkę…  
 **Andrea:** To był jeden ze składników.  
 **Mox:** Serio?!  
+
+> **🎬 Wstawka wideo:** `AdNeHT2.mp4` (zapętlone)
+
 **Andrea:** Musiałam mieć pewność, że ulegnie twojemu urokowi.  
 **Mox:** Co robisz?  
 **Andrea:** Trochę wzmacniam nasze drinki.  
 **Mox:** … To ty wszystko zaplanowałaś?  
 **Andrea:** Wszystko, co robię, jest dokładnie zaplanowane, Mox.  
 **Andrea:** Proszę, napij się.  
+
+> **🎬 Wstawka wideo:** `AdNeHT3.mp4` (zapętlone)
+
 **Mox:** A co z Nellie? Zaraz tu będzie.  
 **Andrea:** To mocny trunek… O tak!  
 **Mox:** Andreo?  
+
+> **🎬 Wstawka wideo:** `AdNeHT4.mp4` (zapętlone)
+
 **Andrea:** Nellie zawsze się spóźnia. Zabawmy się trochę.  
+
+> **🎬 Wstawka wideo:** `AdNeHT5.mp4`
+
+> **🎬 Wstawka wideo:** `AdNeHT6.mp4` (zapętlone)
+
 **Andrea:** Naprawdę wiesz, jak zadowolić kobietę.  
 **Mox:** Aż za dobrze wiem, jak zadowolić kobietę.  
 **Andrea:** Łamiesz zasady, Mox. Żyjesz na krawędzi.  
+
+> **🎬 Wstawka wideo:** `AdNeHT7.mp4` (zapętlone)
+
 **Mox:** Hej… Nie powiedziałbym, że łamię zasady.  
 **Andrea:** Mówi to, pieprząc panią komisarz.  
+
+> **🎬 Wstawka wideo:** `AdNeHT8.mp4` (zapętlone)
+
 **Mox:** Warto.  
 **Andrea:** Czasem, żeby zaznać w życiu czegoś dobrego, trzeba nagiąć zasady.  
+
+> **🎬 Wstawka wideo:** `AdNeHT9.mp4` (zapętlone)
+
 **Mox:** Czemu mam przeczucie, że zaraz poprosisz mnie o coś podejrzanego?  
 **Andrea:** Zamknij się i pozwól mi dojść.  
+
+> **🎬 Wstawka wideo:** `AdNeHT10.mp4` (zapętlone)
+
 **Mox:** Och, tak, Andreo!  
 **Andrea:** Mmm, jaki ładny, młody kutas!  
+
+> **🎬 Wstawka wideo:** `AdNeHT11.mp4` (zapętlone)
+
 **Andrea:** Dawaj! Doprowadź mnie do orgazmu!  
 **Mox:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `AdNeHT12.mp4`
+
 **Andrea:** Dobra robota, Mox. Masz niezłego kutasa.  
 **Mox:** Mogę dostać jeszcze?  
 **Andrea:** Wciąż jesteś głodna?  
 **Nellie:** Czy omija mnie jakaś zabawa?  
+
+> **🎬 Wstawka wideo:** `AdNeHT13.mp4` (zapętlone)
+
 **Andrea:** Dołączysz do nas?  
 **Mox:** Nellie!  
 **Nellie:** Ty napalony draniu.  
@@ -42515,9 +47518,15 @@
 **Andrea:** I to jak?...  
 **Andrea:** Napij się.  
 **Nellie:** Z przyjemnością.  
+
+> **🎬 Wstawka wideo:** `AdNeHT14.mp4` (zapętlone)
+
 **Mox:** Czekaj! Nellie! To eliksir miłosny!  
 **Nellie:** Fuj! Smakuje jak syrop na kaszel. Próbujecie we dwoje jakiegoś nowego narkotyku?  
 **Andrea:** To ci się spodoba.  
+
+> **🎬 Wstawka wideo:** `AdNeHT15.mp4` (zapętlone)
+
 **Nellie:** O kurwa!  
 **Andrea:** Niezłe, co?  
 **Mox:** Nellie, wszystko w porządku?  
@@ -42525,30 +47534,63 @@
 **Andrea:** Ostrożnie, kochana. Nie pozwól, żeby uderzyło ci do głowy.  
 **Mox:** Co się dzieje? Jaki jest plan, żeby zniszczyć Gildię?  
 **Andrea:** Co ty na to, Nellie? Gotowa przejść do konkretów?  
+
+> **🎬 Wstawka wideo:** `AdNeHT16.mp4` (zapętlone)
+
 **Nellie:** Nie zostawiaj mnie w niepewności, Mox.  
 **Andrea:** Uznaję to za odmowę…  
+
+> **🎬 Wstawka wideo:** `AdNeHT17.mp4` (zapętlone)
+
 **Andrea:** Bierz go. Zasłużyłaś.  
 **Mox:** Cholera, Nellie. Ten eliksir naprawdę na ciebie podziałał.  
+
+> **🎬 Wstawka wideo:** `AdNeHT18.mp4` (zapętlone)
+
 **Nellie:** Cóż lepiej scementuje nasz zespół niż wspólne pieprzenie?  
 **Andrea:** Zgadzam się w stu procentach.  
 **Mox:** Ale z ciebie dzikuska, Nellie.  
+
+> **🎬 Wstawka wideo:** `AdNeHT19.mp4` (zapętlone)
+
 **Nellie:** Jestem wolną kobietą, Mox.  
 **Andrea:** Dobra robota, panno Cole.  
 **Nellie:** Czuję już świeży powiew wolności.  
 **Mox:** Ja czuję tylko cipkę i chlor.  
+
+> **🎬 Wstawka wideo:** `AdNeHT20.mp4` (zapętlone)
+
 **Andrea:** Wybrałam odpowiednią kobietę do tej roboty. Doprowadzasz Duncana do szału.  
 **Nellie:** Ten skurwiel za to zapłaci.  
 **Mox:** O tak. Ale niegrzeczna cipka. Tasha nie chciałaby wiedzieć, że pieprzę jej matkę.  
+
+> **🎬 Wstawka wideo:** `AdNeHT21.mp4` (zapętlone)
+
 **Nellie:** Ha! Nie znasz Tashy.  
 **Andrea:** Brzmi, jakbyście dobrze się znały.  
 **Mox:** Można tak powiedzieć.  
+
+> **🎬 Wstawka wideo:** `AdNeHT22.mp4` (zapętlone)
+
 **Mox:** O tak! Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `AdNeHT23.mp4` (zapętlone)
+
 **Mox:** Cholera, zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `AdNeHT24.mp4`
+
 **Andrea:** Wygląda na to, że ktoś jest zadowolony.  
 **Nellie:** Ale cholernie gorąco.  
 **Andrea:** Nie pozwól, żeby się zmarnowało.  
+
+> **🎬 Wstawka wideo:** `AdNeHT25.mp4` (zapętlone)
+
 **Nellie:** O kurwa!  
 **Mox:** Cholera!  
+
+> **🎬 Wstawka wideo:** `AdNeHT26.mp4` (zapętlone)
+
 **Andrea:** Nie spodziewałeś się tego, co, Mox?  
 **Nellie:** To się nazywa porządne świętowanie.  
 **Andrea:** Została już tylko jedna rzecz do zrobienia.  
@@ -42720,14 +47762,29 @@
 
 ## Common Event 349 — SCN - Nellie Fights MC
 
+> **🎬 Wstawka wideo:** `NeMcFgt1.mp4`
+
+> **🎬 Wstawka wideo:** `NeMcFgt2.mp4` (zapętlone)
+
 **Mox:** Mmm, umff, uff, mmmm!  
 **Nellie:** Och! Wybacz, stamtąd cię nie słyszę, ale mów śmiało dalej.  
+
+> **🎬 Wstawka wideo:** `NeMcFgt3.mp4` (zapętlone)
+
 **Mox:** Złaź… ze mnie!  
+
+> **🎬 Wstawka wideo:** `NeMcFgt4.mp4`
+
+> **🎬 Wstawka wideo:** `NeMcFgt5.mp4` (zapętlone)
+
 **Mox:** Nellie?! Co ty tu robisz?  
 **Nellie:** Mox!? Śledziłeś mnie?  
 **Mox:** Nie. A powinienem?  
 **Nellie:** Cóż, jeśli dzięki temu znowu znajdziemy się w takiej sytuacji…  
 **Mox:** Och, eee… przepraszam.  
+
+> **🎬 Wstawka wideo:** `NeMcFgt6.mp4` (zapętlone)
+
 **Nellie:** Powiedziałabym coś o kolacji, ale deser masz już za sobą.  
 **Mox:** Nellie, tak poważnie, co ty tu robisz?  
 **Nellie:** Nie mogę ci powiedzieć, ale musisz odejść, zanim on…  
@@ -42745,6 +47802,9 @@
 **Mox:** Chyba śnisz! Zwariowałaś?  
 **Nellie:** Proszę, Mox. Odejdź, zanim Duncan cię znajdzie.  
 **Mox:** Duncan?! Duncan Helmer tu jest?  
+
+> **🎬 Wstawka wideo:** `NeMcFgt7.mp4` (zapętlone)
+
 **Mox:** Nellie, musimy…  
 **Mox:** Co robisz?  
 **Nellie:** Jest tu coś, czego potrzebuję.  
@@ -42752,6 +47812,9 @@
 **Nellie:** Nie… to nie to miałam na myśli. Ale skoro już o tym wspomniałeś…  
 **Nellie:** Jeśli zdołasz skłonić swoich znajomych, żeby sobie poszli…  
 **Nellie:** Wynagrodzę ci to z nawiązką, Mox.  
+
+> **🎬 Wstawka wideo:** `NeMcFgt8.mp4` (zapętlone)
+
 **Erica:** Mox!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -43650,6 +48713,8 @@
 
 ## Common Event 449 — SCN - Arianna Lilith Fight
 
+> **🎬 Wstawka wideo:** `LiArMnsFght1.mp4` (zapętlone)
+
 **Drab:** …  
 **Madalyn:** Bojisz się…  
 **Madalyn:** Nie udało ci się wykonać zadania.  
@@ -43660,20 +48725,40 @@
 **Drab:** Madalyn… Kobieta z Ziemi… Widziała Tomę.  
 **Madalyn:** Co?!  
 **Drab:** Kiedy Matka się o tym dowie, stracę ciało.  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght2.mp4`
+
 **Drab:** Matko! Myślałem, że jesteś w Piekle!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght3.mp4` (zapętlone)
+
 **Mox:** Cholera!  
 **Henry:** Lilith jest w Madalyn?  
 **Diana:** Gdzie więc jest Daemalius?  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght4.mp4` (zapętlone)
+
 **Lillian:** Co ty zrobiłaś!? Kto widział Tomę?  
 **Drab:** Ta, która nam pomogła… Wiedźma.  
 **Lillian:** Erica! Zabrałaś duszę Eriki!?  
 **Drab:** To był wypadek!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght5.mp4`
+
 **Mox:** Zabiła potwora! Jest sama!  
 **Erica:** Bierzmy ją!  
 **Diana:** Miejmy to już za sobą.  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght6.mp4`
+
+> **🎬 Wstawka wideo:** `LiArMnsFght7.mp4` (zapętlone)
+
 **Erica:** Powstrzymaj tych ludzi, zanim dotrą do szczeliny.  
 **Mox:** Nie spuszczę Lillian z oczu.  
 **Henry:** Diana! Ruszamy!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght8.mp4` (zapętlone)
+
 **Lillian:** Widzę, że ocaliłeś jej ciało… Zastanawiałam się, czy w ogóle się tu pojawisz.  
 **Erica:** Nie wygrasz. Taka nie jest wola Boga.  
 **Mox:** Zapłacisz za to, co zrobiłaś, Lilith.  
@@ -43687,26 +48772,57 @@
 **Erica:** Kłamiesz!  
 **Mox:** Próbujesz ratować własną skórę, Lilith?  
 **Lillian:** Nie potrzebuję ochrony od żadnego z was!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght9.mp4`
+
 **Melissa:** Mox!  
 **Erica:** Złaź z niego!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght10.mp4`
+
+> **🎬 Wstawka wideo:** `LiArMnsFght11.mp4` (zapętlone)
+
 **Mox:** Cholera, Eriko! Wyglądasz niesamowicie seksownie!  
 **Erica:** To ja! Arianna!  
 **Lillian:** Pieprz ją, Mox!  
 **Mox:** O tak, kurwa!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght12.mp4`
+
+> **🎬 Wstawka wideo:** `LiArMnsFght13.mp4` (zapętlone)
+
 **Mox:** Ale pyszna cipka! Kocham cię, Eriko!  
 **Lillian:** Cholera! Wracaj tu, aniele! Czas dać się wyruchać!  
 **Mox:** Dawaj, Eriko! Ruszaj biodrami! Na co czekasz?  
 **Lillian:** Aaargh!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght14.mp4`
+
+> **🎬 Wstawka wideo:** `LiArMnsFght15.mp4` (zapętlone)
+
 **Mox:** Tak!  
 **Madalyn:** Matko! Można mnie zranić!  
 **Erica:** Pieprz mnie, Mox!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght16.mp4` (zapętlone)
+
 **Mox:** Cipka! Cipka! Muszę mieć cipkę!  
 **Erica:** Ratuj go, aniele! Nie obchodzi cię twój ludzki pupil!?  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght17.mp4`
+
+> **🎬 Wstawka wideo:** `LiArMnsFght18.mp4` (zapętlone)
+
 **Melissa:** Co do diabła? Dlaczego mnie uwolniłeś?  
 **Madalyn:** Mam twoją skorupę, Lilith!  
 **Erica:** Nie masz dokąd uciec!  
 **Erica:** Rżnij ją, Mox! Rżnij Madalyn!  
 **Mox:** Dawaj mi więcej cipki!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght19.mp4`
+
+> **🎬 Wstawka wideo:** `LiArMnsFght20.mp4` (zapętlone)
+
 **Mox:** Och, Melisso! Uwielbiam twoją cipkę!  
 **Melissa:** Och, Mox! Ale mnie rżniesz!  
 **Erica:** Dokąd uciekniesz, aniele?  
@@ -43714,21 +48830,41 @@
 **Erica:** Twój Bóg strąci cię do Piekła, jeśli zrobię z tobą, co zechcę.  
 **Madalyn:** Nie zrobisz tego…  
 **Erica:** Nie obchodzi Go, co się z tobą stanie. Osądzi pragnienia, które sam w tobie zaszczepił.  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght21.mp4` (zapętlone)
+
 **Madalyn:** Dał nam wolną wolę… Możemy wybrać grzech albo łaskę.  
 **Erica:** Posłuchaj siebie! Nie ma wolnej woli, jest tylko Jego wola!  
 **Madalyn:** Ale…  
 **Erica:** Jeśli trafisz do Piekła… To dlatego, że On tego chce!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght22.mp4` (zapętlone)
+
 **Madalyn:** O rany! Usta nie powinny znajdować się w takim miejscu!  
 **Melissa:** Daj mi to, Mox!  
 **Mox:** O kurwa!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght23.mp4` (zapętlone)
+
 **Madalyn:** Nie pragnę tego! Nic nie czuję!  
 **Mox:** Ja na pewno coś czuję!  
 **Melissa:** O Boże!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght24.mp4` (zapętlone)
+
 **Madalyn:** Agh! Nic nie czuję! Nie poddam się!  
 **Melissa:** Dawaj mi tego wielkiego kutasa, Mox!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght25.mp4` (zapętlone)
+
 **Mox:** Bierz mojego kutasa! Dojdź dla mnie!  
 **Melissa:** Tak, kochanie! Tak!  
 **Madalyn:** O nie! Coś nadchodzi!  
+
+> **🎬 Wstawka wideo:** `LiArMnsFght26.mp4`
+
+> **🎬 Wstawka wideo:** `LiArMnsFght27.mp4` (zapętlone)
+
 **Madalyn:** Czemu przestałeś?  
 **Erica:** Cholera jasna!  
 **Mox:** Nie mam już siły…  
@@ -43978,6 +49114,8 @@
 
 ## Common Event 339 — SCN - Lillian Solo
 
+> **🎬 Wstawka wideo:** `LiMcSlo1.mp4` (zapętlone)
+
 **Mox:** Mam pewne podejrzenia, Lillian…  
 **Mox:** Możesz nie chcieć tego usłyszeć.  
 **Lillian:** Co masz na myśli?  
@@ -43992,6 +49130,9 @@
 **Lillian:** Chcesz powiedzieć, że mój ojciec wynajął złodzieja?  
 **Mox:** Twój ojciec był powiązany ze skradzionymi artefaktami nie jeden raz.  
 **Mox:** Sytuacja wygląda źle, a moja szefowa, detektyw Bhatt, zaczyna coś podejrzewać.  
+
+> **🎬 Wstawka wideo:** `LiMcSlo2.mp4` (zapętlone)
+
 **Lillian:** Nie miałam pojęcia, że ojciec był do tego zdolny. Był dobrym człowiekiem.  
 **Mox:** Przykro mi, Lillian. Charles mógł zostać zabity przez swoje powiązania z Gildią.  
 **Lillian:** Tak niewielu ludzi na tym świecie mogę powiedzieć, że kochałam.  
@@ -44001,51 +49142,108 @@
 **Lillian:** A co właściwie nas łączy, Mox?  
 **Mox:** Lubię cię, Lillian. Bardzo się ode mnie różnisz, ale jesteś kochaną dziewczyną.  
 **Lillian:** Dziękuję. Przez większość życia myślałam o innych i czasem zapominam, że ja też mam potrzeby.  
+
+> **🎬 Wstawka wideo:** `LiMcSlo3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `LiMcSlo4.mp4` (zapętlone)
+
 **Mox:** Nie martw się, Lillian. Możesz na mnie liczyć.  
 **Lillian:** Jesteś dobrym człowiekiem.  
 **Mox:** Staram się.  
 **Lillian:** Dobrym i przystojnym.  
+
+> **🎬 Wstawka wideo:** `LiMcSlo5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `LiMcSlo6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `LiMcSlo7.mp4` (zapętlone)
+
 **Mox:** Na pewno nas nie przyłapią?  
 **Lillian:** Czy teraz by cię to powstrzymało?  
+
+> **🎬 Wstawka wideo:** `LiMcSlo8.mp4` (zapętlone)
+
 **Lillian:** Tego nie da się ukryć.  
 **Mox:** Jesteś taka piękna, Lillian.  
+
+> **🎬 Wstawka wideo:** `LiMcSlo9.mp4` (zapętlone)
+
 **Mox:** Ach! Lillian!  
 **Mox:** Masz takie ciepłe usta…  
 **Mox:** To cudowne uczucie.  
+
+> **🎬 Wstawka wideo:** `LiMcSlo10.mp4` (zapętlone)
+
 **Mox:** Ryzykujesz…  
 **Mox:** A może lubisz mieć widownię.  
+
+> **🎬 Wstawka wideo:** `LiMcSlo11.mp4` (zapętlone)
+
 **Lillian:** Ekscytacja, że ktoś może nas zobaczyć, bardzo podnieca. Nie sądzisz?  
 **Mox:** Zaskakujesz mnie, Lillian.  
 **Lillian:** Będziemy się razem świetnie bawić, Mox.  
+
+> **🎬 Wstawka wideo:** `LiMcSlo12.mp4` (zapętlone)
+
 **Mox:** Mam taką nadzieję.  
 **Lillian:** Od dawna nie zaznałam miłości.  
 **Lillian:** Ale czuję, że to się wkrótce zmieni.  
+
+> **🎬 Wstawka wideo:** `LiMcSlo13.mp4`
+
 **Lillian:** O, Mox!  
 **Mox:** Ujeżdżaj mnie, Lillian.  
+
+> **🎬 Wstawka wideo:** `LiMcSlo14.mp4` (zapętlone)
+
 **Lillian:** Jakie to uczucie?  
 **Mox:** Niesamowite. Masz fantastyczną cipkę!  
+
+> **🎬 Wstawka wideo:** `LiMcSlo15.mp4` (zapętlone)
+
 **Lillian:** Poddanie się tobie jest ekscytujące.  
 **Lillian:** Mógłabym się do tego przyzwyczaić.  
 **Mox:** Naprawdę wiesz, jak obchodzić się z kutasem…  
 **Mox:** Twoje mięśnie zaciskają się w odpowiednich momentach.  
 **Lillian:** Minęło dużo czasu, ale wciąż wiem, jak zadowolić mężczyznę.  
+
+> **🎬 Wstawka wideo:** `LiMcSlo16.mp4` (zapętlone)
+
 **Mox:** O kurwa!  
 **Lillian:** Tak, Mox! Poruszaj się razem ze mną!...  
 **Lillian:** Wchodź głęboko, aż do mojego łona!  
 **Mox:** O kurwa!  
+
+> **🎬 Wstawka wideo:** `LiMcSlo17.mp4` (zapętlone)
+
 **Lillian:** Jestem taka wypełniona… Twój kutas rozciąga mnie od środka!  
 **Mox:** Tak, Lillian! Nie przestawaj! Masz fantastyczną technikę!  
+
+> **🎬 Wstawka wideo:** `LiMcSlo18.mp4` (zapętlone)
+
 **Lillian:** Doprowadź mnie do orgazmu! Chcę to poczuć!  
 **Mox:** Kurwa! Dojdź dla mnie, Lillian!  
+
+> **🎬 Wstawka wideo:** `LiMcSlo19.mp4` (zapętlone)
+
 **Lillian:** Ach, tak!  
 **Lillian:** Zaraz doprowadzisz mnie do orgazmu!  
+
+> **🎬 Wstawka wideo:** `LiMcSlo20.mp4`
+
 **Lillian:** Dziękuję, Mox. Było cudownie.  
 **Mox:** Z przyjemnością.  
 **Lillian:** A teraz może podzielisz się ze mną tym nagromadzonym nasieniem?  
 **Mox:** Z przyjemnością.  
+
+> **🎬 Wstawka wideo:** `LiMcSlo21.mp4` (zapętlone)
+
 **Mox:** Boże, jesteś cholernie seksowna.  
 **Lillian:** Proszę, Mox. Daj mi swoją spermę.  
 **Mox:** Przygotuj się na solidny wytrysk!  
+
+> **🎬 Wstawka wideo:** `LiMcSlo22.mp4`
+
 **Mox:** Jak było?  
 **Lillian:** Pyszne!  
 
@@ -44105,22 +49303,43 @@
 
 ## Common Event 371 — SCN - Madalyn Toma
 
+> **🎬 Wstawka wideo:** `MdFng1.mp4` (zapętlone)
+
 **Mox:** O cholera! To Madalyn!...  
 **Mox:** Ona… masturbuje się… na widoku?...  
 **Mox:** Co do cholery?  
+
+> **🎬 Wstawka wideo:** `MdFng2.mp4` (zapętlone)
+
 **Mox:** To moja szansa, żeby ją schwytać… używając wody święconej.  
 **Mox:** Muszę tylko przypomnieć sobie, co mówił ojciec Solomon.  
+
+> **🎬 Wstawka wideo:** `MdFng3.mp4` (zapętlone)
+
 **Mox:** Cholera. Jest strasznie perwersyjna. Czemu do diabła robi to tutaj?  
 **Mox:** Mam nadzieję, że nic nie zrobiła Lillian.  
+
+> **🎬 Wstawka wideo:** `MdFng4.mp4` (zapętlone)
+
 **Mox:** Muszę się do niej dostać, żeby mnie nie zauważyła…  
 **Mox:** Ma zamknięte oczy. Mogę do niej podbiec…  
 **Mox:** Oby się udało.  
+
+> **🎬 Wstawka wideo:** `MdFng5.mp4`
+
+> **🎬 Wstawka wideo:** `MdFng6.mp4` (zapętlone)
+
 **Mox:** Co, kurwa?!  
 **Mox:** Co ona robi? Jak ona to robi?  
+
+> **🎬 Wstawka wideo:** `MdFng7.mp4` (zapętlone)
+
 **Mox:** Cholera. Nie mam pojęcia, co robię… Potrzebuję pomocy ojca Solomona.  
 **Mox:** To jakiś potwór.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `MdFng8.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -44264,7 +49483,7 @@
 ## Mapa 026 — Wejście / event 15 / strona 10
 
 **Lillian:** Erica. Właśnie cię szukałam.  
-**Erica:** Przepraszam, Lillian. Robiłam sobie przerwę z Mox.  
+**Erica:** Przepraszam, Lillian. Robiłam sobie przerwę z Moxem.  
 **Lillian:** Mox, co tu robisz?  
 **Mox:** Tylko sprawdzam, czy wszystko w porządku…  
 **Mox:** Ekipa Channel 4 News próbowała na zewnątrz przeprowadzić wywiad z policjantami.  
@@ -44301,6 +49520,8 @@
 
 ## Common Event 360 — SCN - Toma Lillian Erica
 
+> **🎬 Wstawka wideo:** `Toma-RightLegB.mp4` (zapętlone)
+
 **Lillian:** Artefakt? Co to?  
 **Erica:** Nie zgadujesz?  
 **Lillian:** Do czego zmierzasz?  
@@ -44308,6 +49529,9 @@
 **Lillian:** Co z tym zrobisz?  
 **Mox:** Aaargh!  
 **Erica:** Mox!?  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm1.mp4` (zapętlone)
+
 **Lillian:** Co się stało?  
 **Mox:** Boli!  
 **Erica:** Cholera!…  
@@ -44316,72 +49540,164 @@
 **Lillian:** Znaleźliście kolejny?  
 **Mox:** Agh! Ahh!  
 **Erica:** To jego kutas! Robi się twardy!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm2.mp4` (zapętlone)
+
 **Erica:** W porządku, Mox. Jestem przy tobie.  
 **Lillian:** Spróbuj się rozluźnić. Zajmiemy się tobą. Jesteś tu bezpieczny.  
 **Mox:** Czuję… Czuję, że muszę rżnąć.  
 **Erica:** Cholera! Co mamy robić?  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm3.mp4`
+
+> **🎬 Wstawka wideo:** `ErLiMcTm4.mp4` (zapętlone)
+
 **Erica:** Cholera… Naprawdę to robimy.  
 **Erica:** Wytrzymaj, kochanie. Doprowadzimy cię do orgazmu.  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm5.mp4` (zapętlone)
+
 **Erica:** Cholera… Czemu babcia nie powiedziała mi o mocy wiedźmiego idola?...  
 **Erica:** To jest albo niesamowite, albo naprawdę przerażające.  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm6.mp4` (zapętlone)
+
 **Lillian:** Właśnie tak, Mox. Poczuj miękkość moich piersi. Niech rozwieje twój strach.  
 **Erica:** Chyba działa… Nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm7.mp4` (zapętlone)
+
 **Lillian:** Trzymam cię. Przy mnie jesteś bezpieczny.  
 **Erica:** Ach! Sama też zaczynam się podniecać…  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm8.mp4` (zapętlone)
+
 **Lillian:** Smakuje ci ten smak, Mox?...  
 **Lillian:** Całe twoje.  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm9.mp4` (zapętlone)
+
 **Lillian:** Twoja niecierpliwość mnie podnieca…  
 **Lillian:** Cóż za niespodziewana przyjemność.  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm10.mp4` (zapętlone)
+
 **Mox:** Eee… Lillian?  
 **Lillian:** Pragnę cię, Mox. Chcę poczuć cię w sobie.  
 **Mox:** Unosimy się!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm11.mp4` (zapętlone)
+
 **Lillian:** Wygląda na to, że Erica już całkiem poddała się chwili.  
 **Mox:** Co tu się, do cholery, dzieje?  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm12.mp4` (zapętlone)
+
 **Erica:** O Boże! Jestem tak cholernie napalona!  
 **Erica:** Czuję się, jakbym unosiła się w powietrzu.  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm13.mp4` (zapętlone)
+
 **Erica:** O cholera. Chyba kamień działa także na mnie!  
 **Erica:** Cholera! Cholera! Potrzebuję kutasa!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm14.mp4` (zapętlone)
+
 **Erica:** Mmm…  
 **Mox:** Ale to dobrze smakuje!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm15.mp4` (zapętlone)
+
 **Lillian:** Mmmm! Tak!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm16.mp4` (zapętlone)
+
 **Erica:** Nigdy nie czułam się tak wspaniale!  
 **Mox:** Wow! Kręci mi się w głowie!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm17.mp4` (zapętlone)
+
 **Mox:** Tak! Ssij mojego kutasa, Lillian!  
 **Erica:** Niesamowite!  
 **Mox:** Muszę się pieprzyć!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm18.mp4` (zapętlone)
+
 **Mox:** O tak! Bierz, Lillian!...  
 **Mox:** Masz taką piękną, ciasną cipkę!  
 **Lillian:** Mmmm!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm19.mp4` (zapętlone)
+
 **Mox:** Wsuwa się i wysuwa z taką łatwością…  
 **Erica:** Co to za magia?  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm20.mp4` (zapętlone)
+
 **Lillian:** Pieprz mnie, Mox! Weź moją cipkę!  
 **Erica:** Jesteś taka piękna, Lillian!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm21.mp4` (zapętlone)
+
 **Erica:** Och, Lillian…  
 **Lillian:** Obejmij mnie, Erico! Oddajmy się Mox.  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm22.mp4` (zapętlone)
+
 **Mox:** Cholera! Co za widok!  
 **Mox:** Tyle smakowitych dziurek do zdobycia.  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm23.mp4` (zapętlone)
+
 **Erica:** O, Mox!  
 **Mox:** Tak! Cipka Eriki jest wspaniała!  
 **Lillian:** Daj jej!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm24.mp4` (zapętlone)
+
 **Erica:** Twój kutas tak dobrze we mnie leży!  
 **Lillian:** Rżnij ją mocno, Mox!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm25.mp4` (zapętlone)
+
 **Erica:** O Boże!  
 **Mox:** Twoja cipka jest taka mokra i gorąca!  
 **Erica:** Pieprz mnie!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm26.mp4` (zapętlone)
+
 **Lillian:** Dojdź dla niego, kochanie. Zaciśnij cipkę na jego kutasie!  
 **Erica:** Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm27.mp4`
+
 **Erica:** To było świetne!  
 **Lillian:** Nie przestawaj, Mox! Dawaj mi swojego kutasa, już!  
 **Mox:** Tak jest, proszę pani!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm28.mp4` (zapętlone)
+
 **Lillian:** Tak! Wsuń go we mnie jak najgłębiej!  
 **Mox:** Lillian! Ale jesteś teraz ciasna!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm29.mp4` (zapętlone)
+
 **Lillian:** Nie powstrzymuj się! Mocno!  
 **Mox:** O kurwa! Ale dobrze!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm30.mp4` (zapętlone)
+
 **Lillian:** Tak! Tak!  
 **Mox:** Tak… cholernie… dobrze!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm31.mp4` (zapętlone)
+
 **Lillian:** Nie wiem, jak długo jeszcze wytrzymam.  
 **Erica:** Dojdź! Chcę zobaczyć, jak dochodzisz!  
 **Lillian:** Doprowadź mnie do orgazmu!  
+
+> **🎬 Wstawka wideo:** `ErLiMcTm32.mp4`
+
 **Erica:** Czuję coś…  
 **Mox:** Coś ciepłego i lepkiego?  
 **Erica:** Nie… Nie… Co się dzieje?  
@@ -44411,26 +49727,55 @@
 
 ## Common Event 316 — SCN - Lillian Erica Mast
 
+> **🎬 Wstawka wideo:** `LiErMast1.mp4`
+
+> **🎬 Wstawka wideo:** `LiErMast2.mp4` (zapętlone)
+
 **Mox:** Co do cholery?  
 **Erica:** Co ona robi?  
 **Mox:** Coś jej jest?  
+
+> **🎬 Wstawka wideo:** `LiErMast3.mp4`
+
 **Erica:** Co ona trzyma? Nie widzę.  
 **Mox:** Wygląda jak jakiś słoik.  
+
+> **🎬 Wstawka wideo:** `LiErMast4.mp4`
+
+> **🎬 Wstawka wideo:** `LiErMast5.mp4` (zapętlone)
+
 **Mox:** O kurwa!  
 **Erica:** Masturbuje się palcami.  
 **Mox:** Może lepiej stąd wyjdźmy, zanim spojrzy w naszą stronę.  
 **Erica:** Czekaj… Chcę zobaczyć, co się stanie.  
+
+> **🎬 Wstawka wideo:** `LiErMast6.mp4` (zapętlone)
+
 **Erica:** Ona też musi to czuć.  
 **Mox:** Też coś czujesz?  
 **Erica:** Nie umiem tego wyjaśnić…  
+
+> **🎬 Wstawka wideo:** `LiErMast7.mp4` (zapętlone)
+
 **Mox:** Czyżby…? Czy to wirus?  
 **Erica:** O Boże. Ale gorąco.  
+
+> **🎬 Wstawka wideo:** `LiErMast8.mp4` (zapętlone)
+
 **Mox:** Czemu, u licha, napełnia ten słoik swoim… sokiem?  
 **Erica:** Cholera… Mam straszną ochotę na seks.  
 **Mox:** Eriko?  
+
+> **🎬 Wstawka wideo:** `LiErMast9.mp4`
+
 **Mox:** Chodźmy stąd. Już.  
 **Erica:** Taka… seksowna.  
 **Mox:** /order  
+
+> **🎬 Wstawka wideo:** `LiErMast10.mp4`
+
+> **🎬 Wstawka wideo:** `LiErMast11.mp4` (zapętlone)
+
 **Mox:** Erica!? Co się dzieje?  
 **Erica:** O Boże, Mox…  
 **Erica:** Włóż palce do mojej cipki!  
@@ -44438,17 +49783,32 @@
 **Erica:** Po prostu to zrób!  
 **Erica:** No, zrób to w końcu!  
 **Mox:** Jezu! Co tu się, do cholery, dzieje?  
+
+> **🎬 Wstawka wideo:** `LiErMast12.mp4` (zapętlone)
+
 **Erica:** Och! Tak! Rób tak dalej!  
 **Mox:** Cholera! Chyba ten przeklęty wirus seksualny naprawdę istnieje.  
+
+> **🎬 Wstawka wideo:** `LiErMast13.mp4` (zapętlone)
+
 **Erica:** Doprowadź mnie do orgazmu!  
 **Mox:** Próbuję…  
 **Mox:** Ale jesteś mokra.  
+
+> **🎬 Wstawka wideo:** `LiErMast14.mp4` (zapętlone)
+
 **Erica:** Kurwa! Ale dobrze!  
 **Mox:** Przestań krzyczeć. Zaraz nas przyłapią.  
 **Erica:** Nic na to nie poradzę! Muszę to mieć!  
+
+> **🎬 Wstawka wideo:** `LiErMast15.mp4` (zapętlone)
+
 **Mox:** To szaleństwo. Kompletne szaleństwo.  
 **Erica:** Zaraz dojdę!  
 **Mox:** Ciii. Nie tak głośno.  
+
+> **🎬 Wstawka wideo:** `LiErMast16.mp4`
+
 **Mox:** Lillian!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -44843,8 +50203,8 @@
 **Erica:** Wszystko w porządku.  
 **Lillian:** Nie będę przeszkadzać ci w pracy.  
 **Erica:** Chcesz mi powiedzieć, że Madalyn wciąż jest w tej rezydencji?  
-**Mox:** Widziałem ją! Mówiła o szukaniu… Toma i amuletów… i…  
-**Erica:** Spokojnie. Szuka Toma Leolo?  
+**Mox:** Widziałem ją! Mówiła o szukaniu… Tomy i amuletów… i…  
+**Erica:** Spokojnie. Szuka Tomy Leolo?  
 **Mox:** Tak… Fragmentów… Szuka ich.  
 **Erica:** Jesteś pewien? Mówisz o tym, przez co unosiliśmy się w powietrzu?  
 **Mox:** Tak… Madalyn musiała mieć jeden z fragmentów… Na nią też zadziałał… Trudno to wyjaśnić.  
@@ -45038,6 +50398,10 @@
 
 ## Common Event 461 — SCN - Orgy
 
+> **🎬 Wstawka wideo:** `BigOrgy1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `BigOrgy2.mp4` (zapętlone)
+
 **Judy:** Cudowna chwila… Tak romantycznie.  
 **Mox:** Nie uważasz, że to miejsce jest trochę upiorne?  
 **Judy:** Och, Mox. Ale z ciebie żartowniś. Tu jest pięknie.  
@@ -45050,22 +50414,42 @@
 **Mox:** Zgadza się.  
 **Judy:** Ale może być jeszcze lepiej.  
 **Mox:** A niby jak?  
+
+> **🎬 Wstawka wideo:** `BigOrgy3.mp4`
+
+> **🎬 Wstawka wideo:** `BigOrgy4.mp4` (zapętlone)
+
 **Mox:** Cholera! To jest naprawdę dobry dzień!  
 **Judy:** Och, Mox! Tak bardzo potrzebuję tego kutasa!  
 **Mox:** Czuję to… Jesteś taka gorąca w środku.  
 **Judy:** Od wielu godzin aż mnie boli z pragnienia!  
+
+> **🎬 Wstawka wideo:** `BigOrgy5.mp4` (zapętlone)
+
 **Mox:** Dawno nie widziałem, żebyś była taka napalona.  
 **Judy:** Chcę zostać matką, Mox.  
 **Mox:** Właśnie tutaj wszystko się zaczyna, Judy.  
 **Judy:** Kochaj się ze mną.  
+
+> **🎬 Wstawka wideo:** `BigOrgy6.mp4` (zapętlone)
+
 **Mox:** Och, siostro… Czuć to po tobie.  
 **Judy:** Twoje słowa tak mnie podniecają!  
 **Mox:** Bardzo tego pragniesz.  
 **Judy:** Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `BigOrgy7.mp4` (zapętlone)
+
 **Mox:** Ściskasz mnie tak mocno… Jakbyś nie chciała mnie wypuścić.  
 **Judy:** Zostań ze mną, Mox! Dawaj!  
+
+> **🎬 Wstawka wideo:** `BigOrgy8.mp4` (zapętlone)
+
 **Judy:** Tak! Tak!  
 **Mox:** O kurwa! Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `BigOrgy9.mp4` (zapętlone)
+
 **Judy:** Pieprz mnie, Mox! Weź moją cipkę!  
 **Mox:** Ale niegrzeczna dziewczynka!  
 **Judy:** Jestem taka niegrzeczna!  
@@ -45077,18 +50461,29 @@
 
 > **Ścieżka warunkowa:** wybór «Skończ w środku».
 
+> **🎬 Wstawka wideo:** `BigOrgy10.mp4`
+
 **Judy:** Czuję to!  
 **Mox:** Cholera… Chyba sporo tam wlałem.  
 **Judy:** Twoje nasienie właśnie tu należy. Tak jest idealnie.  
 **Mox:** Ależ seksowny widok.  
+
+> **🎬 Wstawka wideo:** `BigOrgy11.mp4`
+
 **Judy:** Jestem taka niegrzeczna.  
 **Mox:** Popatrz na siebie, cała w spermie.  
 **Judy:** To było niesamowite!  
+
+> **🎬 Wstawka wideo:** `BigOrgy12.mp4` (zapętlone)
+
 **Arianna:** Jak słodko!  
 **Judy:** Ach!  
 **Mox:** Arianno!?  
 **Arianna:** Mam nadzieję, że was nie przestraszyłam, ale wszyscy już przyszli.  
 **Judy:** Ojej. Lepiej chodźmy ich przywitać.  
+
+> **🎬 Wstawka wideo:** `BigOrgy13.mp4` (zapętlone)
+
 **Andrea:** Chyba już wiemy, czemu Mox nie przyszedł przywitać nas przy drzwiach.  
 **Nellie:** Nie zamierzasz zatrzymać tego chłopaka tylko dla siebie, siostro?  
 **Judy:** Cudownie! Wszyscy dotarli!  
@@ -45101,6 +50496,9 @@
 **Erica:** Mój ulubiony pokój w rezydencji.  
 **Carol:** Nie znam lepszego miejsca na porządne wypełnienie.  
 **Heather:** Ale masz co złapać, Mox.  
+
+> **🎬 Wstawka wideo:** `BigOrgy14.mp4` (zapętlone)
+
 **Mox:** Nie myślałaś chyba, że przyjdę nieprzygotowany?  
 **Hannah:** To magiczny kamień!  
 **Kimberly:** Wróciłeś po kawałki?  
@@ -45120,167 +50518,364 @@
 **Hannah:** Na co czekamy!? Moja cipka domaga się uwagi!  
 **Carol:** Hannah! Zachowuj się.  
 **Judy:** No dalej, Mox. Nie pozwól mi się bawić samej.  
+
+> **🎬 Wstawka wideo:** `BigOrgy15.mp4` (zapętlone)
+
 **Heather:** Ojej! Mox!  
 **Mox:** Coś nie tak, Heather? Za dużo jak na ciebie?  
 **Heather:** Ale mi tam dobrze!  
+
+> **🎬 Wstawka wideo:** `BigOrgy16.mp4` (zapętlone)
+
 **Heather:** Nigdy wcześniej nikt nie poświęcał tyle uwagi mojemu ciału.  
 **Mox:** Jesteś taka seksowna, Heather. A twój tyłek jest niesamowity.  
 **Heather:** Czuję to! Jestem seksowna!  
+
+> **🎬 Wstawka wideo:** `BigOrgy17.mp4` (zapętlone)
+
 **Heather:** Rozciągasz mnie!  
 **Mox:** Ale mocno zaciska!  
 **Heather:** Uwielbiam to uczucie!  
 **Mox:** Też tak mam.  
+
+> **🎬 Wstawka wideo:** `BigOrgy18.mp4` (zapętlone)
+
 **Judy:** Panno Carol! Ma pani przepiękny tyłeczek!  
 **Carol:** Mój tyłek? Powinnaś zobaczyć tyłek Andrei! Ależ apetyczny!  
+
+> **🎬 Wstawka wideo:** `BigOrgy19.mp4` (zapętlone)
+
 **Judy:** Dobrze ci z moimi palcami w środku?  
 **Carol:** Świetnie ci idzie, kochana! Tak trzymaj!  
 **Judy:** Ale przyjemnie!  
+
+> **🎬 Wstawka wideo:** `BigOrgy20.mp4` (zapętlone)
+
 **Judy:** Twoja córka… Ależ ma energię!  
 **Carol:** Do obowiązków się nie garnie, ale do zabawy ma niespożytą energię.  
+
+> **🎬 Wstawka wideo:** `BigOrgy21.mp4` (zapętlone)
+
 **Judy:** Patrzenie, jak uprawiają seks… Moja cipka robi się od tego mokra.  
 **Carol:** Muszę przyznać, że dają niezły pokaz.  
+
+> **🎬 Wstawka wideo:** `BigOrgy22.mp4` (zapętlone)
+
 **Nellie:** Jak ci z tym?  
 **Chloe:** Nie przestawaj! Dalej!  
+
+> **🎬 Wstawka wideo:** `BigOrgy23.mp4` (zapętlone)
+
 **Nellie:** Uwielbiam twoją młodą cipkę! Taka ciasna!  
 **Chloe:** Rżnij mnie, Nellie! Włóż palce do mojej cipki!  
+
+> **🎬 Wstawka wideo:** `BigOrgy24.mp4` (zapętlone)
+
 **Arianna:** Ojej! Łaskoczesz mnie!...  
 **Nellie:** Rozkoszuj się tym! Poddaj się!  
+
+> **🎬 Wstawka wideo:** `BigOrgy25.mp4` (zapętlone)
+
 **Arianna:** Tak… Tak! Liż…  
 **Arianna:** Liż, niegrzeczna dziewczynko.  
+
+> **🎬 Wstawka wideo:** `BigOrgy26.mp4` (zapętlone)
+
 **Heather:** Kurwa! Rżnij mnie w tyłek!  
 **Mox:** O, Heather!  
+
+> **🎬 Wstawka wideo:** `BigOrgy27.mp4` (zapętlone)
+
 **Heather:** Bierz mój tyłek! Daj mi swoją spermę!  
 **Mox:** Dojdź dla mnie, Heather!  
+
+> **🎬 Wstawka wideo:** `BigOrgy28.mp4`
+
 **Ella:** O kurwa! Zalej mój tyłek spermą!  
 **Heather:** Mój tyłek… Ależ to przyjemne!  
 **Kimberly:** Cholera, dziewczyno. Chyba odkryłaś nowy fetysz.  
 **Mox:** Muszę przyznać, że było ciasno i przyjemnie.  
+
+> **🎬 Wstawka wideo:** `BigOrgy29.mp4` (zapętlone)
+
 **Erica:** Cholera! Ale intensywnie!  
 **Erica:** Nie sądziłam, że zakonnica będzie ssać moją łechtaczkę.  
+
+> **🎬 Wstawka wideo:** `BigOrgy30.mp4` (zapętlone)
+
 **Hannah:** A ja nie sądziłam, że będę pieścił niegrzeczne dziurki zakonnicy!  
 **Erica:** Kurwa!  
 **Hannah:** Ma naprawdę ciasne dziurki.  
+
+> **🎬 Wstawka wideo:** `BigOrgy31.mp4` (zapętlone)
+
 **Nellie:** Liż mi tyłek, dziewczyno!  
 **Carol:** Cholera! Ale nas dobrze obrabia!  
 **Nellie:** Boże, Carol, masz niesamowite cycki.  
+
+> **🎬 Wstawka wideo:** `BigOrgy32.mp4` (zapętlone)
+
 **Nellie:** I jaki jędrny tyłek!... Możesz nawet dorównać Andrei.  
 **Carol:** Pomacaj je, kochana. Uwielbiam, gdy ktoś się nimi zajmuje!  
+
+> **🎬 Wstawka wideo:** `BigOrgy33.mp4` (zapętlone)
+
 **Mox:** Cholera, Arianno… Chyba smakuje ci tyłek Heather.  
+
+> **🎬 Wstawka wideo:** `BigOrgy34.mp4` (zapętlone)
+
 **Mox:** Ale niegrzecznie… Anioł czyści mi kutasa ustami…  
+
+> **🎬 Wstawka wideo:** `BigOrgy35.mp4` (zapętlone)
+
 **Andrea:** Kurwa, tak, Lillian! Włóż mi język w tyłek!  
+
+> **🎬 Wstawka wideo:** `BigOrgy36.mp4` (zapętlone)
+
 **Andrea:** Twoje ciało pachnie oszałamiająco!... Patrz, jak liże twoją cipkę, gdy ty liżesz mój odbyt!  
 **Andrea:** Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `BigOrgy37.mp4` (zapętlone)
+
 **Melissa:** Ale mokra cipka!  
 **Ella:** Pocieraj ją! Poczuj tę cipę!  
 **Melissa:** Dziewczyny, dzięki wam znów czuję się młodo.  
+
+> **🎬 Wstawka wideo:** `BigOrgy38.mp4` (zapętlone)
+
 **Ella:** Chloe, widzę twoją mamę! Liże cipkę Lillian!  
 **Melissa:** Skup się! Mocniej pocieraj!  
+
+> **🎬 Wstawka wideo:** `BigOrgy39.mp4` (zapętlone)
+
 **Mox:** Cholera, Arianno! Ale się wkręciłaś!  
+
+> **🎬 Wstawka wideo:** `BigOrgy40.mp4` (zapętlone)
+
 **Mox:** Ach! Kurwa! Już prawie!  
+
+> **🎬 Wstawka wideo:** `BigOrgy41.mp4`
+
 **Arianna:** Mox, oblałeś mi twarz!  
 **Mox:** Anielska twarz pokryta spermą! Ależ mam dziś szczęście!  
 **Arianna:** Czuję się jak mała dziwka!  
 **Mox:** Podoba ci się?  
 **Arianna:** Tak!  
+
+> **🎬 Wstawka wideo:** `BigOrgy42.mp4` (zapętlone)
+
 **Judy:** O Boże! Demon liże mi cipkę… Nigdy nie czułam się tak niegrzecznie.  
+
+> **🎬 Wstawka wideo:** `BigOrgy43.mp4` (zapętlone)
+
 **Judy:** Twój język wchodzi tak głęboko! Spijasz moje soki!  
+
+> **🎬 Wstawka wideo:** `BigOrgy44.mp4` (zapętlone)
+
 **Hannah:** Wow! Jeszcze nigdy nie lizałam cipki sławnej osoby!  
 **Chloe:** Cholera! Kimberly Foxx liże mi cipkę!  
+
+> **🎬 Wstawka wideo:** `BigOrgy45.mp4` (zapętlone)
+
 **Hannah:** Popatrz na nas! Ale z nas szczęściary!  
 **Chloe:** Masz całkowitą rację!  
+
+> **🎬 Wstawka wideo:** `BigOrgy46.mp4` (zapętlone)
+
 **Mox:** Widok twojej pięknej twarzy, gdy pieprzę tę cudowną cipkę, to wszystko, czego może pragnąć facet.  
 **Arianna:** O, Mox!  
 **Andrea:** Lepiej poświęć tej cipce należytą uwagę!  
+
+> **🎬 Wstawka wideo:** `BigOrgy47.mp4` (zapętlone)
+
 **Mox:** Nigdy nie znudzi mi się twoja cipka, Andreo.  
 **Arianna:** Wchodź głęboko!  
 **Andrea:** O kurwa! Ale dobrze.  
+
+> **🎬 Wstawka wideo:** `BigOrgy48.mp4` (zapętlone)
+
 **Chloe:** Och! Kurwa!  
 **Judy:** Tylko mi się wydaje, czy robi się tu gorąco?  
 **Hannah:** Jest mi gorąco jak w piekle!  
+
+> **🎬 Wstawka wideo:** `BigOrgy49.mp4` (zapętlone)
+
 **Arianna:** Niech będzie jeszcze goręcej! Lubię, gdy jest gorąco!  
 **Mox:** Gorąco i duszno…  
 **Hannah:** Pachnie cipką!  
+
+> **🎬 Wstawka wideo:** `BigOrgy50.mp4` (zapętlone)
+
 **Heather:** Mmmm… Czuję ten zapach.  
 **Nellie:** Powinniśmy robić to częściej.  
+
+> **🎬 Wstawka wideo:** `BigOrgy51.mp4` (zapętlone)
+
 **Heather:** Ale jesteś mokra, Nellie.  
 **Nellie:** Palcuj tę cipkę, Heather!  
+
+> **🎬 Wstawka wideo:** `BigOrgy52.mp4` (zapętlone)
+
 **Heather:** O, Ello!  
 **Nellie:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `BigOrgy53.mp4` (zapętlone)
+
 **Heather:** Chyba zaraz dojdę przez tę dziewczynę!  
+
+> **🎬 Wstawka wideo:** `BigOrgy54.mp4`
+
 **Ella:** O mój Boże! Ten smak!  
 **Heather:** Dziewczyno! Ależ dziś czuję się wyjątkowo!  
 **Nellie:** Popatrzcie na was! Ella doszła od samego lizania cipki!  
 **Ella:** Boże, tak!  
+
+> **🎬 Wstawka wideo:** `BigOrgy55.mp4` (zapętlone)
+
 **Chloe:** O kurwa! O kurwa!  
 **Hannah:** Dawaj, prezenterko!  
+
+> **🎬 Wstawka wideo:** `BigOrgy56.mp4` (zapętlone)
+
 **Chloe:** Chyba jej się podoba!  
 **Hannah:** Ale mokra! Dojdź dla nas!  
+
+> **🎬 Wstawka wideo:** `BigOrgy57.mp4`
+
 **Kimberly:** Wow, dziewczyny! Całkiem nieźle wam idzie.  
 **Hannah:** Tak! Doprowadziłyśmy sławną kobietę do orgazmu!  
 **Chloe:** Czyż nie jest piękna!?  
 **Kimberly:** Zawsze chętnie zadowalam fanki.  
+
+> **🎬 Wstawka wideo:** `BigOrgy58.mp4` (zapętlone)
+
 **Melissa:** Mmm… Tak… Mmm!  
 **Erica:** Mmm… Tak… dobrze…  
+
+> **🎬 Wstawka wideo:** `BigOrgy59.mp4` (zapętlone)
+
 **Carol:** Mmm!  
+
+> **🎬 Wstawka wideo:** `BigOrgy60.mp4`
+
 **Melissa:** Och! Czysta rozkosz!  
 **Erica:** Cholera, Melisso, ale dobrze smakujesz!  
 **Carol:** Boże, ale soczysta cipka!  
+
+> **🎬 Wstawka wideo:** `BigOrgy61.mp4` (zapętlone)
+
 **Andrea:** Pieprz mnie, Mox!  
 **Mox:** O cholera!  
 **Arianna:** No dalej, Mox!  
+
+> **🎬 Wstawka wideo:** `BigOrgy62.mp4` (zapętlone)
+
 **Mox:** Nie wytrzymam!  
 **Andrea:** Wypełnij moją cipkę!  
+
+> **🎬 Wstawka wideo:** `BigOrgy63.mp4`
+
 **Arianna:** Wow! Ale dużo spermy!  
 **Andrea:** Boże! Ale przyjemnie mieć to w cipce!  
 **Mox:** Popatrz na te cycki całe w spermie! Cholera, Arianno, jesteś taka seksowna!  
+
+> **🎬 Wstawka wideo:** `BigOrgy64.mp4` (zapętlone)
+
 **Carol:** Cholera! Tylko mi się wydaje, czy ta cipka łaskocze mocniej?  
 **Heather:** Dawaj, Carol! Ta cipka jest magiczna!  
 **Chloe:** Cholera!... A ten język też!  
+
+> **🎬 Wstawka wideo:** `BigOrgy65.mp4` (zapętlone)
+
 **Carol:** Tak! Liż tę małą, różową dziurkę!  
 **Chloe:** Carol! Patrzysz na mój tyłek!?  
 **Hannah:** Dawaj, mamo!  
+
+> **🎬 Wstawka wideo:** `BigOrgy66.mp4` (zapętlone)
+
 **Nellie:** Zerżnij mnie, kochanie!  
 **Mox:** Podoba ci się mój kutas, Nellie?  
 **Nellie:** Tak! Tak! Daj mi!  
+
+> **🎬 Wstawka wideo:** `BigOrgy67.mp4` (zapętlone)
+
 **Mox:** Jak smakuje cipka Eriki?  
 **Nellie:** Ależ jest mokra!  
 **Mox:** Mmm! Dobrze!  
+
+> **🎬 Wstawka wideo:** `BigOrgy68.mp4` (zapętlone)
+
 **Carol:** Patrzenie na ten słodki tyłeczek sprawia, że moja cipka aż moknie!  
 **Chloe:** Och, Carol! Ale z ciebie niegrzeczna dziewczyna! Uwielbiam to!  
 **Heather:** Pokaż Carol ten tyłeczek!  
+
+> **🎬 Wstawka wideo:** `BigOrgy69.mp4` (zapętlone)
+
 **Carol:** Nie wytrzymam! Chyba dojdę!  
 **Chloe:** Ja też!  
 **Hannah:** Zrób to!  
 **Heather:** Dalej, dziewczyny! Pokażcie nam, jak tryskacie!  
+
+> **🎬 Wstawka wideo:** `BigOrgy70.mp4`
+
 **Chloe:** Wow! To było niesamowite!  
 **Lillian:** Podobało ci się, Carol?  
 **Carol:** Och, tak… Tego mi było trzeba.  
+
+> **🎬 Wstawka wideo:** `BigOrgy71.mp4` (zapętlone)
+
 **Mox:** Kurwa! Ale mocno zaciskasz!  
 **Nellie:** Wszystko dla mojego wielkiego faceta!  
+
+> **🎬 Wstawka wideo:** `BigOrgy72.mp4` (zapętlone)
+
 **Mox:** Chyba dojdę!  
 **Nellie:** Dojdź z nami, Erico!  
+
+> **🎬 Wstawka wideo:** `BigOrgy73.mp4`
+
 **Nellie:** Idealnie!  
 **Erica:** Boże, tak!  
 **Hannah:** Teraz moja kolej!  
 **Lillian:** Nie tak szybko, dzikusko. Ja też chcę cię dla siebie.  
+
+> **🎬 Wstawka wideo:** `BigOrgy74.mp4` (zapętlone)
+
 **Erica:** Cholera, ależ widok!  
 **Chloe:** Ale seksownie.  
 **Ella:** Cholernie seksowni!  
 **Judy:** Wyglądają na takich szczęśliwych.  
 **Mox:** Ale mam szczęście! Cholernie wielkie szczęście!  
+
+> **🎬 Wstawka wideo:** `BigOrgy75.mp4` (zapętlone)
+
 **Carol:** Bierz ją, kochanie! Zajmij się tymi dziurkami!  
 **Heather:** Dasz radę, Mox!  
 **Mox:** Tyle pysznych dziurek!  
+
+> **🎬 Wstawka wideo:** `BigOrgy76.mp4` (zapętlone)
+
 **Kimberly:** Cholera! Ale gorąco!  
 **Chloe:** Dawaj, Mox!  
 **Mox:** Ale ciasne!  
+
+> **🎬 Wstawka wideo:** `BigOrgy77.mp4` (zapętlone)
+
 **Carol:** Dojdź w niej, kochanie! Daj mi wnuczkę!  
 **Chloe:** Wow! Hannah jako mama? Wyobrażasz to sobie?  
 **Mox:** Kurwa! Dochodzę!  
+
+> **🎬 Wstawka wideo:** `BigOrgy78.mp4`
+
+> **🎬 Wstawka wideo:** `BigOrgy79.mp4`
+
 **Hannah:** O rany! Dojdź na moją cipkę i na twarz Lillian!...  
 **Lillian:** Nieźle, Mox.  
 **Carol:** Impreza jeszcze się nie skończyła…  
 **Heather:** Ktoś jeszcze potrzebuje odrobiny uwagi…  
+
+> **🎬 Wstawka wideo:** `BigOrgy80.mp4` (zapętlone)
+
 **Arianna:** O Panie! Mój tyłek!  
 **Hannah:** Czyż nie jest cudownie!?  
 **Mox:** Cholera! Co za tyłek!  
@@ -45288,20 +50883,32 @@
 **Nellie:** Znamy to uczucie, kochana. Nie jesteś sama.  
 **Melissa:** Co za widok!  
 **Chloe:** Ale seksownie!  
+
+> **🎬 Wstawka wideo:** `BigOrgy81.mp4` (zapętlone)
+
 **Arianna:** To… Przyjemne.  
 **Hannah:** Rozluźnij się i przyjmij go.  
 **Kimberly:** Piękny aniołek bierze w tyłek… Tego jeszcze nie widziałam.  
 **Lillian:** Haha! To żaden anioł.  
+
+> **🎬 Wstawka wideo:** `BigOrgy82.mp4` (zapętlone)
+
 **Mox:** O kurwa! Tak! Ale czad!  
 **Arianna:** Ach! Ach! Ach!  
 **Hannah:** Pieprz ją!  
 **Heather:** Delikatnie, kochanie.  
 **Carol:** Ale nie za delikatnie.  
+
+> **🎬 Wstawka wideo:** `BigOrgy83.mp4` (zapętlone)
+
 **Erica:** Zalej ją, Mox!  
 **Andrea:** Fantastycznie! Dawaj!  
 **Judy:** Zalej ten tyłek spermą!  
 **Arianna:** Ojej!  
 **Mox:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `BigOrgy84.mp4`
+
 **Hannah:** Łał!  
 **Arianna:** Jest takie… ciepłe. Uwielbiam to!  
 **Heather:** Dobra robota!  
@@ -45362,7 +50969,7 @@
 **Melissa:** Czego szukamy?  
 **Mox:** Amulety…  
 **Mox:** Złoty z zielonym kamieniem, srebrny z czarnym i srebrny z żółtym diamentem.  
-**Melissa:** I to powstrzyma Lillian przed użyciem Toma?  
+**Melissa:** I to powstrzyma Lillian przed użyciem Tomy?  
 **Mox:** Cóż… Mniej więcej… Nie wiem dokładnie.  
 **Bobby:** To wszystko brzmi absurdalnie, ale nie mogę przymykać na to oczu. Dzieje się tu coś podejrzanego.  
 **Mox:** Ella i Nellie też pomagają w poszukiwaniach.  
@@ -45386,32 +50993,61 @@
 
 ## Common Event 340 — SCN - Secret Room
 
+> **🎬 Wstawka wideo:** `MlScrRm1.mp4`
+
 **Mox:** Wyglądają na stare rzeźby.  
 **Mox:** Od bardzo dawna nikt tu nie sprzątał.  
+
+> **🎬 Wstawka wideo:** `MlScrRm2.mp4` (zapętlone)
+
 **Melissa:** To bunkier Gildii. Widzieliśmy już podobne.  
 **Mox:** Skąd wiesz?  
+
+> **🎬 Wstawka wideo:** `MlScrRm3.mp4`
+
 **Melissa:** To spis inwentarza…  
 **Melissa:** Wszystko tutaj jest kradzione.  
+
+> **🎬 Wstawka wideo:** `MlScrRm4.mp4`
+
 **Mox:** Co do cholery?!  
+
+> **🎬 Wstawka wideo:** `MlScrRm5.mp4` (zapętlone)
+
 **Melissa:** Cholera! Musiałeś uruchomić jakąś pułapkę.  
 **Mox:** Nic nie dotykałem.  
 **Melissa:** Jest tu dość miejsca. Może uda nam się przecisnąć z powrotem.  
+
+> **🎬 Wstawka wideo:** `MlScrRm6.mp4` (zapętlone)
+
 **Melissa:** Cholera, nie widzę, czy wejście jest zamknięte.  
 **Melissa:** Pomóż mi się przedostać.  
 **Mox:** Jak?  
 **Melissa:** Przepchnij mnie!  
 **Mox:** Dobra, już.  
+
+> **🎬 Wstawka wideo:** `MlScrRm7.mp4` (zapętlone)
+
 **Melissa:** Mocniej!  
 **Mox:** Próbuję!  
+
+> **🎬 Wstawka wideo:** `MlScrRm8.mp4` (zapętlone)
+
 **Melissa:** /curse  
 **Mox:** Co widzisz?  
 **Melissa:** Jesteśmy uwięzieni. Główne wejście jest zablokowane.  
 **Mox:** /curse  
 **Melissa:** Pomóż mi wrócić. Musimy znaleźć wyjście.  
+
+> **🎬 Wstawka wideo:** `MlScrRm9.mp4` (zapętlone)
+
 **Mox:** Aaargh!  
 **Melissa:** Użyj trochę siły!  
 **Mox:** To nie takie łatwe!  
 **Melissa:** Co sugerujesz?  
+
+> **🎬 Wstawka wideo:** `MlScrRm10.mp4` (zapętlone)
+
 **Mox:** No cóż, nie tak miało to wyglądać.  
 **Melissa:** Znajdźmy wyjście z tej pułapki…  
 **Melissa:** I niczego nie ruszaj.  
@@ -45616,58 +51252,108 @@
 
 ## Common Event 325 — SCN - Ella Anal
 
+> **🎬 Wstawka wideo:** `ElAn1.mp4` (zapętlone)
+
 **Ella:** Wyświadczysz mi jeszcze jedną przysługę, kochanie?  
 **Mox:** /shock  
 **Ella:** Pomóż mi wyjąć ten jaskrawo-różowy korek analny.  
 **Mox:** Mówisz poważnie?  
 **Ella:** No dalej, Mox. W środku jestem bardzo ciasna…  
 **Ella:** Jesteś dość silny, żeby pomóc dziewczynie w potrzebie?  
+
+> **🎬 Wstawka wideo:** `ElAn2.mp4` (zapętlone)
+
 **Ella:** O tak!  
 **Mox:** No, to pierwszy raz.  
 **Ella:** Jest za duży do mojego ciasnego tyłeczka.  
 **Mox:** Jak zdołałaś to tam włożyć?  
 **Ella:** Wyjmij to, Mox. Dawaj.  
+
+> **🎬 Wstawka wideo:** `ElAn3.mp4`
+
 **Ella:** Jak to wygląda?  
 **Mox:** Jesteś… mocno rozciągnięta.  
+
+> **🎬 Wstawka wideo:** `ElAn4.mp4` (zapętlone)
+
 **Ella:** Jaskraworóżowa zabawka do jaskraworóżowej dupki.  
 **Mox:** Ale z ciebie niegrzeczna dziewczynka, co?  
 **Ella:** Najniegrzeczniejsza.  
+
+> **🎬 Wstawka wideo:** `ElAn5.mp4` (zapętlone)
+
 **Ella:** Wyświadczyłeś mi przysługę. Może teraz ja odwdzięczę się tobie.  
 **Mox:** Ello?  
 **Ella:** Czyż nie wygląda zachęcająco, Mox?... Jest taka różowa i lśniąca.  
 **Mox:** Cholera… Nie żartujesz.  
 **Ella:** Odbierz swoją nagrodę, detektywie.  
+
+> **🎬 Wstawka wideo:** `ElAn6.mp4` (zapętlone)
+
 **Mox:** Naprawdę to robimy?  
 **Ella:** Mówiłam, że wynagrodzę ci poświęcony czas.  
 **Mox:** Ale… to?  
 **Ella:** Umowa stoi?  
+
+> **🎬 Wstawka wideo:** `ElAn7.mp4`
+
 **Mox:** O kurwa!  
 **Ella:** Tak! Chyba mamy umowę!  
+
+> **🎬 Wstawka wideo:** `ElAn8.mp4` (zapętlone)
+
 **Ella:** Pieprz moją malutką dupkę!  
 **Mox:** Ella… Nigdy wcześniej tego nie robiłem.  
 **Ella:** Ale ciasno!  
+
+> **🎬 Wstawka wideo:** `ElAn9.mp4` (zapętlone)
+
 **Mox:** To… przyjemne.  
 **Ella:** Wypełnij mnie, Mox! Jesteś moim wybawcą.  
 **Mox:** Chyba mogę ci pomóc.  
+
+> **🎬 Wstawka wideo:** `ElAn10.mp4` (zapętlone)
+
 **Ella:** Uhh! Ach! Tak, Mox! Mój obrońco!  
 **Mox:** Boże, masz taki cudownie ciasny tyłek!  
 **Ella:** Rżnij mnie, kochanie! Wyrżnij mi tyłek!  
+
+> **🎬 Wstawka wideo:** `ElAn11.mp4` (zapętlone)
+
 **Mox:** Cholera, Ello! Ale mocno zaciskasz się na moim kutasie!  
 **Ella:** Zacisnę moją malutką dupkę na moim wielkim, męskim obrońcy!  
 **Mox:** O cholera…  
+
+> **🎬 Wstawka wideo:** `ElAn12.mp4` (zapętlone)
+
 **Ella:** Pieprzyć to! Pieprzyć to!  
 **Mox:** Weź go do ust!  
+
+> **🎬 Wstawka wideo:** `ElAn13.mp4` (zapętlone)
+
 **Ella:** Jeszcze nigdy nie byłam tak wypełniona!  
 **Mox:** Zaraz doprowadzisz mnie do orgazmu!  
 **Ella:** Pieprz mnie mocniej!  
+
+> **🎬 Wstawka wideo:** `ElAn14.mp4` (zapętlone)
+
 **Ella:** Ojej! Mox! Rozrywasz moje malutkie ciałko!  
 **Mox:** To takie przyjemne!  
 **Ella:** Rżnij mnie w tyłek!  
+
+> **🎬 Wstawka wideo:** `ElAn15.mp4` (zapętlone)
+
 **Mox:** Zaraz dojdę, Ello!  
 **Ella:** Ja też! Dochodzę!  
+
+> **🎬 Wstawka wideo:** `ElAn16.mp4`
+
 **Ella:** Czuję w tyłku coś ciepłego i lepkiego.  
 **Mox:** Jezu, Ello. Musisz to tak ujmować?  
 **Ella:** No dalej, kochanie. Wyjmij go, zobaczmy, co zrobiłeś w moim ciałku.  
+
+> **🎬 Wstawka wideo:** `ElAn17.mp4`
+
 **Mox:** Boże, ale dobrze było.  
 **Ella:** Cieszę się, że ci się podobało, Mox.  
 
@@ -45753,65 +51439,128 @@
 
 ## Common Event 355 — SCN - Ella Erica MC Three
 
+> **🎬 Wstawka wideo:** `ElErMcTs1.mp4` (zapętlone)
+
 **Erica:** To… przytulne łóżko.  
 **Ella:** I jakie słodkie!  
 **Mox:** Co o tym myślisz, Eriko? Cieszysz się, że zatrzasnęłaś się poza mieszkaniem?  
 **Erica:** Może.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs2.mp4` (zapętlone)
+
 **Ella:** Czyż to nie słodkie? Wy dwoje wyglądacie smakowicie.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs3.mp4` (zapętlone)
+
 **Ella:** Właśnie tak, kochanie. Rozkręć się… Niech mu dobrze stanie.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs4.mp4` (zapętlone)
+
 **Erica:** Cholera, Mox. Masz kutasa twardego jak skała.  
 **Erica:** Ktoś tu jest podekscytowany.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ElErMcTs6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ElErMcTs7.mp4` (zapętlone)
+
 **Ella:** Spójrz na ten tyłek! Ale piękny!  
 **Mox:** Jest równie soczysty, jak wygląda… Miałem już w nim swojego kutasa.  
 **Ella:** Szczęściarz z ciebie.  
 **Ella:** Chcę go spróbować!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs8.mp4` (zapętlone)
+
 **Erica:** O tak!  
 **Mox:** Jakie to uczucie, Eriko?  
 **Erica:** Wie, co robi.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs9.mp4` (zapętlone)
+
 **Mox:** Co ty na to, Eriko? Mogę porządnie wyrżnąć jej tyłeczek?  
 **Erica:** Chcę to zobaczyć.  
 **Mox:** No chodź, kochanie. Usiądź mi cipką na twarzy. Nie tylko ona posmakuje Eriki.  
 **Erica:** Tak, proszę pana.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs10.mp4` (zapętlone)
+
 **Ella:** Spójrzcie na tę zakochaną parkę. Podnieca mnie, jak liżecie jej cipkę.  
 **Erica:** Chłopak jest w tym dobry.  
 **Ella:** Wiem coś o tym.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs11.mp4` (zapętlone)
+
 **Ella:** Ale prawdziwa zabawa dopiero przed nami.  
 **Erica:** Tak?  
 **Ella:** Chcę, żebyś pieprzyła moją cipkę, Eriko…  
 **Ella:** Chcę, żebyście wypełnili mnie oboje.  
 **Erica:** Tak! Uwielbiam to!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs12.mp4`
+
 **Ella:** O, pieprz mnie!  
 **Ella:** Wypełnij mi tyłek!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs13.mp4` (zapętlone)
+
 **Erica:** Tak! Dildo było świetnym pomysłem!  
 **Ella:** Pieprz mnie, Mox! Rżnij mnie w tyłek!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs14.mp4` (zapętlone)
+
 **Mox:** Kurwa! Ella! Ale jesteś ciasna!  
 **Erica:** Założę się, że tak.  
 **Ella:** Kurwa! Dawaj, Eriko! Włóż go do mojej cipki!  
 **Erica:** Z przyjemnością.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs15.mp4` (zapętlone)
+
 **Ella:** Achhhh! Ja pierdolę!  
 **Mox:** Dobry Boże! Miażdżysz mi kutasa!  
 **Erica:** O kurwa! Mam przestać?  
 **Mox:** Nie!  
 **Ella:** Nie!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs16.mp4` (zapętlone)
+
 **Ella:** Wypełnij mnie! Dawaj!  
 **Erica:** O cholera!  
 **Mox:** Ale… dobrze!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs17.mp4` (zapętlone)
+
 **Ella:** Wypełnij moje dziurki! Wypełnij je!  
 **Mox:** Ale intensywnie!  
 **Erica:** O Boże! Za dużo!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs18.mp4` (zapętlone)
+
 **Ella:** Nie hamuj się! Rżnij mnie mocno!  
 **Mox:** Bierz, Ello! Przyjmij go w tyłek!  
 **Erica:** Dawaj! Doprowadźmy ją do orgazmu!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs19.mp4` (zapętlone)
+
 **Ella:** Widzę gwiazdy! Świat zmienia się w tęczę!  
 **Erica:** Traci nad sobą kontrolę!  
 **Mox:** Nie przestawaj! Daj z siebie wszystko!  
+
+> **🎬 Wstawka wideo:** `ElErMcTs20.mp4`
+
 **Mox:** Ja pierdolę.  
 **Erica:** Doszłam.  
 **Ella:** Co za orgazm! To by zarobiło kupę kasy.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs21.mp4`
+
 **Ella:** Jak to wygląda? Dużo spermy?  
 **Erica:** Cholera! Ale wielki wytrysk.  
 **Ella:** Uwielbiam to!  
 **Erica:** Boże, wygląda pysznie.  
+
+> **🎬 Wstawka wideo:** `ElErMcTs22.mp4` (zapętlone)
+
 **Ella:** A teraz ujęcie warte każdych pieniędzy.  
 **Ella:** Już słyszę w głowie dzwonki od wpłat.  
 **Mox:** Chyba źle to sobie wyobrażasz, Ello.  
@@ -45957,7 +51706,7 @@
 **Mox:** A, tak. Mówiono mi, że dobrze wypadałem przed kamerą.  
 **Ella:** Wiesz, że tak uważam!  
 **Chloe:** Musisz tylko ostrożniej wybierać kamery.  
-**Ella:** Hahaha. Och, Chloe. Może pomożesz mi namówić Mox na wspólny występ.  
+**Ella:** Hahaha. Och, Chloe. Może pomożesz mi namówić Moxa na wspólny występ.  
 **Mox:** Nawet sobie z tego nie żartuj.  
 **Ella:** Żartuję.  
 **Chloe:** Chyba powinnam wracać do domu. Powiedziałam mamie, że wrócę po kolacji z siostrą Judy.  
@@ -46004,6 +51753,8 @@
 
 ## Common Event 399 — SCN - Ella Chloe 3some
 
+> **🎬 Wstawka wideo:** `ElChAnts1.mp4`
+
 **Chloe:** O!  
 **Ella:** Jakie to uczucie?  
 **Chloe:** Nie jest tak źle.  
@@ -46012,6 +51763,9 @@
 **Ella:** Dopiero zaczynamy.  
 **Mox:** Dobrze ci idzie, Chloe.  
 **Ella:** Wyciśnij go. Spróbujmy średniego.  
+
+> **🎬 Wstawka wideo:** `ElChAnts2.mp4`
+
 **Chloe:** Łał!  
 **Ella:** Większy, prawda?  
 **Chloe:** Tak… Ale nie jest źle.  
@@ -46021,6 +51775,9 @@
 **Ella:** Jesteś gotowa?  
 **Chloe:** Chyba jestem gotowa.  
 **Ella:** Zróbmy to.  
+
+> **🎬 Wstawka wideo:** `ElChAnts3.mp4`
+
 **Chloe:** Ja pierdolę! Już wszedł?  
 **Ella:** Jak najbardziej.  
 **Mox:** Wow! Naprawdę dajesz radę.  
@@ -46028,6 +51785,9 @@
 **Ella:** Udało ci się.  
 **Chloe:** Nie boli.  
 **Ella:** Wyciśnij go. Czas na następny etap.  
+
+> **🎬 Wstawka wideo:** `ElChAnts4.mp4`
+
 **Ella:** Świetnie! Nadal jesteś szeroko rozwarta.  
 **Chloe:** Co to znaczy?  
 **Ella:** Twój tyłek już się nie broni… Jest gotowy.  
@@ -46035,24 +51795,41 @@
 **Ella:** Ociekam wilgocią. Pieprz moją cipkę i nasmaruj sobie kutasa.  
 **Chloe:** Ile mu potrzeba?  
 **Ella:** Cierpliwości, Chloe. Mamy jeszcze trochę pracy.  
+
+> **🎬 Wstawka wideo:** `ElChAnts5.mp4` (zapętlone)
+
 **Chloe:** Ach! Mój tyłek!  
 **Mox:** Wszystko w porządku?  
 **Chloe:** Tak… Nie spodziewałam się, że ktoś będzie lizał mnie po tyłku…  
 **Chloe:** To przyjemne.  
+
+> **🎬 Wstawka wideo:** `ElChAnts6.mp4` (zapętlone)
+
 **Mox:** Cipka Elli jest bardzo mokra i śliska.  
 **Chloe:** Dobrze… Nie chcę, żeby bolało.  
 **Mox:** Właśnie tak, Ello. Dobrze przygotuj Chloe.  
+
+> **🎬 Wstawka wideo:** `ElChAnts7.mp4` (zapętlone)
+
 **Ella:** To ostatni etap.  
 **Mox:** Mój kutas jest mokry od twoich soków.  
 **Ella:** Jeszcze trochę śliny i porządnie rozluźnimy tyłek Chloe.  
 **Chloe:** Ale się odprężyłam.  
 **Ella:** Przygotuj się, Mox…  
 **Ella:** Wsuń go szybko, póki jest rozwarta i gotowa.  
+
+> **🎬 Wstawka wideo:** `ElChAnts8.mp4` (zapętlone)
+
 **Mox:** Gotowa, Chloe?  
 **Chloe:** Ja… nie wiem.  
 **Ella:** Nie czekaj. Znowu się napniesz.  
 **Mox:** Chloe?  
 **Chloe:** Zrób to, Mox. Chcę go poczuć w tyłku.  
+
+> **🎬 Wstawka wideo:** `ElChAnts9.mp4`
+
+> **🎬 Wstawka wideo:** `ElChAnts10.mp4` (zapętlone)
+
 **Mox:** Już wszedł… Wszystko w porządku?  
 **Chloe:** Już dobrze, Mox. Nic mnie nie boli.  
 **Ella:** Wiedziałam, że dasz radę!  
@@ -46060,28 +51837,49 @@
 **Ella:** No jasne! To najniegrzeczniejsza rzecz na świecie!  
 **Mox:** Teraz będę cię pieprzył… Ale powoli.  
 **Chloe:** Jestem gotowa, Mox.  
+
+> **🎬 Wstawka wideo:** `ElChAnts11.mp4` (zapętlone)
+
 **Chloe:** O Boże!  
 **Mox:** W porządku?  
 **Chloe:** To niesamowite uczucie!  
 **Ella:** Właśnie tak, dziewczyno. Przyjmij tego wielkiego kutasa do tyłka!  
+
+> **🎬 Wstawka wideo:** `ElChAnts12.mp4` (zapętlone)
+
 **Chloe:** Nie wierzę, jakie to przyjemne!  
 **Mox:** Bardzo mi się podoba, że jestem w tobie, Chloe.  
 **Ella:** Ale romantycznie!  
 **Chloe:** Jest idealnie!  
 **Ella:** Nie zgarniaj całej zabawy. Nadal jestem mokra i gotowa na więcej.  
+
+> **🎬 Wstawka wideo:** `ElChAnts13.mp4` (zapętlone)
+
 **Ella:** Tak, kochanie! Włóż palce do mojej cipki!  
 **Chloe:** Jestem taka napalona… Tak bardzo tego chcę!  
+
+> **🎬 Wstawka wideo:** `ElChAnts14.mp4` (zapętlone)
+
 **Mox:** Z przyjemnością.  
 **Ella:** Rżnij ten ciasny, dziewiczy tyłek, Mox!  
 **Ella:** Och, ale mnie to podnieca!  
 **Chloe:** Cholera, Ello. Jesteś niesamowita.  
 **Ella:** Dalej, Mox. Potraktuj nas jak małe dziwki!  
+
+> **🎬 Wstawka wideo:** `ElChAnts15.mp4` (zapętlone)
+
 **Ella:** Tak! Tak!  
 **Chloe:** O mój Boże!  
 **Mox:** Dawaj, Chloe. Dojdź dla mnie.  
+
+> **🎬 Wstawka wideo:** `ElChAnts16.mp4` (zapętlone)
+
 **Chloe:** To niesamowite!  
 **Ella:** Cholera! Zaraz dojdę!  
 **Chloe:** Ja… Chcę więcej!  
+
+> **🎬 Wstawka wideo:** `ElChAnts17.mp4`
+
 **Ella:** /excited  
 **Chloe:** Wow! Ale dużo spermy.  
 **Mox:** Chloe… Znowu skończył w środku…  
@@ -46619,6 +52417,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Erica.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -46800,6 +52600,8 @@
 
 ## Common Event 302 — SCN - Oracle
 
+> **🎬 Wstawka wideo:** `Oracle.mp4` (zapętlone)
+
 **Mox:** Co to za rzecz?  
 **Judy:** Ja... Nigdy czegoś takiego nie widziałam. Nie wiem, co to może być.  
 **Mox:** Cokolwiek to jest, drżało i poruszało się samo.  
@@ -46880,7 +52682,7 @@
 **Judy:** Ja… Eee…  
 **Mox:** Chętnie posłucham.  
 **Judy:** Ale, Mox…  
-**Chloe:** Judy! Chodzi o Mox, prawda?  
+**Chloe:** Judy! Chodzi o Moxa, prawda?  
 **Judy:** To tylko…  
 **Mox:** Nic nie szkodzi, siostro Judy. Mogę wyjść.  
 **Judy:** Nie, zaczekaj… Zostań. Nic się nie stało.  
@@ -46890,6 +52692,8 @@
 ---
 
 ## Common Event 387 — SCN - Chloe Accidental Penetration
+
+> **🎬 Wstawka wideo:** `ChJuPew1.mp4` (zapętlone)
 
 **Judy:** Nie chcę mówić zbyt wiele.  
 **Chloe:** Co robiłyście wczoraj wieczorem? Opowiedzcie mi.  
@@ -46921,37 +52725,74 @@
 **Mox:** Możemy szybko to załatwić.  
 **Judy:** Muszę przyznać, że to ekscytujące. Spodoba ci się, Chloe.  
 **Chloe:** Chodź, Mox. Pospieszmy się, zanim ojciec wróci.  
+
+> **🎬 Wstawka wideo:** `ChJuPew2.mp4` (zapętlone)
+
 **Judy:** Czysto. Nikogo nie ma.  
 **Chloe:** O, Mox!  
 **Mox:** Już jesteś mokra.  
 **Chloe:** Podnieciliście mnie.  
 **Judy:** Dajcie znać, kiedy skończycie.  
+
+> **🎬 Wstawka wideo:** `ChJuPew3.mp4` (zapętlone)
+
 **Mox:** Co ty na to, Chloe? Gotowa?  
 **Chloe:** Ja… Jestem gotowa to poczuć.  
+
+> **🎬 Wstawka wideo:** `ChJuPew4.mp4` (zapętlone)
+
 **Chloe:** Och! Siostro! Miałaś rację!  
 **Judy:** A nie mówiłam? Wspaniałe, prawda?  
 **Chloe:** Jesteśmy tak blisko… ale nie przekraczamy granicy.  
 **Mox:** To przyjemne.  
+
+> **🎬 Wstawka wideo:** `ChJuPew5.mp4` (zapętlone)
+
 **Judy:** No już, wy dwoje. Nie kuście losu.  
 **Chloe:** Dojdziesz, Mox?  
 **Mox:** Nie sądzę, żeby to był dobry pomysł.  
+
+> **🎬 Wstawka wideo:** `ChJuPew6.mp4` (zapętlone)
+
 **Judy:** Pospiesz się. Skończ szybko.  
 **Chloe:** Och! Tak mocno przyciskasz go do mnie.  
 **Mox:** Ach! Tak. Mogłbym tak dojść.  
+
+> **🎬 Wstawka wideo:** `ChJuPew7.mp4` (zapętlone)
+
 **Chloe:** Na pewno? A jeśli narobimy bałaganu?  
 **Mox:** Siostro Judy?  
 **Judy:** Dalej. Pospiesz się.  
+
+> **🎬 Wstawka wideo:** `ChJuPew8.mp4`
+
+> **🎬 Wstawka wideo:** `ChJuPew9.mp4` (zapętlone)
+
 **Judy:** Ojej! Usłyszałam skrzypnięcie drzwi.  
 **Chloe:** Jeszcze tylko chwila! Ale mocno napiera na mnie!  
 **Mox:** Ale mocno na niego napiera.  
+
+> **🎬 Wstawka wideo:** `ChJuPew10.mp4` (zapętlone)
+
 **Judy:** Ktoś idzie! Na pewno kogoś słyszę!  
 **Chloe:** Już prawie! Nie przestawaj!  
 **Mox:** O cholera!  
+
+> **🎬 Wstawka wideo:** `ChJuPew11.mp4` (zapętlone)
+
 **Chloe:** Jeszcze pięć sekund! Tylko pięć!  
 **Mox:** Dojdź dla nas, Chloe.  
 **Judy:** Ktoś idzie! Przestań!  
+
+> **🎬 Wstawka wideo:** `ChJuPew12.mp4`
+
 **Chloe:** Mox!  
 **Mox:** O cholera!  
+
+> **🎬 Wstawka wideo:** `ChJuPew13.mp4`
+
+> **🎬 Wstawka wideo:** `ChJuPew14.mp4` (zapętlone)
+
 **Nellie:** Dobry Boże, Mox! Co ty wyprawiasz?  
 **Mox:** Nellie!  
 **Chloe:** O nie!  
@@ -47107,23 +52948,39 @@
 
 ## Common Event 418 — SCN - Demon Judy
 
+> **🎬 Wstawka wideo:** `JuHeChpl1.mp4` (zapętlone)
+
 **Mox:** To artefakt… Ale nie taki, jakiego się spodziewałem.  
 **Judy:** O co chodzi?  
 **Mox:** Myślałem, że to część Tomy Leolo… artefakt Casuli…  
 **Mox:** Ale nie zachowuje się tak, jak przypuszczałem.  
 **Heather:** Skąd wiesz o artefaktach Casuli?  
 **Mox:** Erica mnie nauczyła. Pochodzi z Casuli.  
+
+> **🎬 Wstawka wideo:** `JuHeChpl2.mp4` (zapętlone)
+
 **Judy:** Czemu świeci?  
 **Heather:** O mój Boże!  
 **Mox:** Cholera!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl3.mp4` (zapętlone)
+
 **Judy:** Argh! Co się ze mną dzieje?  
 **Mox:** Judy!  
 **Heather:** Mox, zrób coś!  
 **Mox:** Nie wiem, co się dzieje!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl4.mp4`
+
 **Demon Judy:** O tak! Będziemy się świetnie bawić!  
 **Judy:** Aaaaah!  
 **Heather:** Co do cholery?!  
 **Mox:** Judy!? Co się z tobą stało?  
+
+> **🎬 Wstawka wideo:** `JuHeChpl5.mp4`
+
+> **🎬 Wstawka wideo:** `JuHeChpl6.mp4` (zapętlone)
+
 **Demon Judy:** Spełnij nasze najskrytsze pragnienia!  
 **Judy:** Odejdź, potworze!  
 **Heather:** Cofnij się!  
@@ -47131,47 +52988,95 @@
 **Demon Judy:** Co jest? Nie podoba ci się to, co widzisz?  
 **Judy:** Demonie, odsuń się!  
 **Demon Judy:** Tyle w tobie nienawiści do samej siebie. Może muszę cię bardziej przekonać.  
+
+> **🎬 Wstawka wideo:** `JuHeChpl7.mp4` (zapętlone)
+
 **Heather:** O rany!  
 **Mox:** Judy!... Tak!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl8.mp4` (zapętlone)
+
 **Judy:** Moje pragnienia… Nie potrafię ich powstrzymać.  
 **Mox:** Chcę was obie pieprzyć. Chcę wypełnić was spermą!  
 **Heather:** Och, Mox! Chcę ujeżdżać twojego kutasa każdego dnia! Tak długo cię pragnęłam!  
 **Judy:** Chcę poczuć twojego kutasa w sobie, Mox! Chcę, żebyś spuścił się w moim łonie!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl9.mp4` (zapętlone)
+
 **Demon Judy:** Właśnie tak! Nie możesz przed tym uciec!  
 **Mox:** Czymkolwiek jesteś… To niesamowite!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl10.mp4` (zapętlone)
+
 **Demon Judy:** Tyle skrywanej żądzy czeka, by ją uwolnić.  
 **Mox:** Czuję się taki wolny.  
+
+> **🎬 Wstawka wideo:** `JuHeChpl11.mp4` (zapętlone)
+
 **Judy:** Och, Heather! Uwielbiam, jak twoja cipka ociera się o moją!  
 **Heather:** Tak, siostro! Ocieraj swoją mokrą cipkę o moją!  
 **Mox:** Cholera! Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl12.mp4` (zapętlone)
+
 **Demon Judy:** Pieprz moją cipkę, kochanie! Poczuj, co cię omijało!  
 **Judy:** Nie wiedziałam, jak bardzo pragnęłam być z inną kobietą.  
 **Heather:** Kurwa! Twoja dziewicza cipka ocierająca się o moją jest taka niegrzeczna!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl13.mp4` (zapętlone)
+
 **Mox:** Tak, Heather! Rozkoszuj się jej ciałem!  
 **Judy:** Wykorzystaj mnie! Zrób ze mnie dziwkę!  
 **Demon Judy:** Poddaj się temu! Przestań ukrywać swoje żądze!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl14.mp4` (zapętlone)
+
 **Heather:** Pieprz mnie, kochanie! Rżnij mnie tym młodym kutasem!  
 **Mox:** Za każdym razem, gdy cię pieprzę, czuję, że robię coś złego… I przez to dochodzę tak mocno!  
 **Demon Judy:** Twoja córka jest tuż za drzwiami, a ty przyjmujesz w sobie kutasa jej kochanka!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl15.mp4` (zapętlone)
+
 **Heather:** Jestem okropną matką! Jestem taką dziwką!  
 **Judy:** Kiedy patrzę sobie w oczy pełne żądzy, ogarnia mnie wstyd.  
 **Demon Judy:** A ty to uwielbiasz!  
 **Judy:** Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl16.mp4` (zapętlone)
+
 **Demon Judy:** Kutas tego chłopaka w tobie sprawia, że czujesz się piękna.  
 **Heather:** Tak właśnie jest!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl17.mp4` (zapętlone)
+
 **Mox:** Nigdy nie chcę przestać cię pieprzyć!  
 **Heather:** Powinniśmy pieprzyć się bez przerwy! Wszędzie!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl18.mp4` (zapętlone)
+
 **Judy:** Pan patrzy z góry, gdy ulegamy żądzy! On nas obserwuje!  
 **Demon Judy:** Ta myśl sprawia, że twoja cipka ocieka wilgocią!  
 **Judy:** Jestem taka mokra! Moja cipka ocieka!  
 **Demon Judy:** Grzechy, które skrywasz w myślach, wyszły na jaw! Poczuj rozkosz!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl19.mp4` (zapętlone)
+
 **Mox:** Kurwa!  
 **Judy:** Chcę być dziwką!  
 **Heather:** Chcę być suką!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl20.mp4` (zapętlone)
+
 **Judy:** Dochodzę!  
 **Heather:** Dojdź! Dojdź!  
+
+> **🎬 Wstawka wideo:** `JuHeChpl21.mp4`
+
 **Heather:** Mox, spuściłeś się we mnie?  
 **Mox:** Nie… Została jeszcze jedna rzecz, którą muszę zrobić.  
+
+> **🎬 Wstawka wideo:** `JuHeChpl22.mp4` (zapętlone)
+
 **Judy:** Pieprzyć to! Rżnij moją dziwkarską cipkę!  
 **Demon Judy:** Zrób to!  
 **Mox:** Ja… Nie powinienem.  
@@ -47183,6 +53088,8 @@
 **Heather:** Mox, nie!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `JuHeChpl23.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -47296,18 +53203,29 @@
 
 ## Common Event 452 — SCN - Arianna Finering
 
+> **🎬 Wstawka wideo:** `ArErFngr1.mp4` (zapętlone)
+
 **Mox:** Masturbujesz się palcami?  
 **Erica:** Lilith mi to zrobiła… Byłam bliska grzechu… Mogę znów się do niego zbliżyć.  
 **Mox:** Cholera!  
+
+> **🎬 Wstawka wideo:** `ArErFngr2.mp4` (zapętlone)
+
 **Erica:** Co jest nie tak? Gdzie te śliskie soki?  
 **Mox:** Nie jesteś napalona.  
 **Erica:** Jak ona to zrobiła?  
 **Mox:** To Lillian… Wie, co robi.  
 **Erica:** Na pewno uda mi się to rozgryźć.  
+
+> **🎬 Wstawka wideo:** `ArErFngr3.mp4` (zapętlone)
+
 **Erica:** No dalej! Naciskaj!  
 **Mox:** Naciskać? Przecież tak to w ogóle nie działa.  
 **Erica:** Cicho. Muszę się skupić.  
 **Mox:** Chyba potrzebujesz mojej pomocy.  
+
+> **🎬 Wstawka wideo:** `ArErFngr4.mp4` (zapętlone)
+
 **Mox:** Co o tym myślisz?  
 **Erica:** Mox!  
 **Mox:** No i co? Robi ci się od tego gorąco?  
@@ -47320,6 +53238,8 @@
 
 > **Ścieżka warunkowa:** ALT DIALOG: wyłączony.
 
+> **🎬 Wstawka wideo:** `ArErFngr5.mp4` (zapętlone)
+
 **Erica:** Ojej!  
 **Mox:** Brzmisz, jakbyś była mokra.  
 **Erica:** Robi się ślisko.  
@@ -47329,6 +53249,9 @@
 **Mox:** Czujesz podniecenie?  
 **Erica:** Ja… nie wiem.  
 **Mox:** Mogę zrobić więcej… Patrz.  
+
+> **🎬 Wstawka wideo:** `ArErFngr6.mp4` (zapętlone)
+
 **Erica:** Chyba zaczynam się podniecać.  
 **Mox:** Czy coś cię boli?  
 **Erica:** Nie wiem… Nic nie czuję.  
@@ -47337,6 +53260,9 @@
 **Erica:** Chyba zaczynam się podniecać.  
 **Mox:** Czy coś cię boli?  
 **Erica:** Nie wiem… Nic nie czuję.  
+
+> **🎬 Wstawka wideo:** `ArErFngr7.mp4` (zapętlone)
+
 **Erica:** Złóż swoje nasienie na mojej twarzy.  
 **Mox:** Może nie jesteś wystarczająco napalona.  
 **Erica:** Mox…  
@@ -47344,6 +53270,9 @@
 **Erica:** Złóż swoje nasienie na mojej twarzy.  
 **Mox:** Masz na myśli to, co wydarzyło się w rezydencji?  
 **Erica:** Tak… To było… przyjemne.  
+
+> **🎬 Wstawka wideo:** `ArErFngr8.mp4` (zapętlone)
+
 **Erica:** Ale to niegrzeczne!  
 **Mox:** Chcesz poczuć moje gorące nasienie na tej ślicznej anielskiej buzi.  
 **Erica:** Zrób to! Podniecaj mnie, Mox!  
@@ -47351,6 +53280,9 @@
 **Erica:** Ale to niegrzeczne!  
 **Mox:** Chcesz poczuć moje gorące nasienie na tej ślicznej anielskiej buzi.  
 **Erica:** Zrób to! Podniecaj mnie, Mox!  
+
+> **🎬 Wstawka wideo:** `ArErFngr9.mp4`
+
 **Mox:** Czy coś cię boli?  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -47629,14 +53561,22 @@
 
 ## Common Event 347 — SCN - Judy Masturbate
 
+> **🎬 Wstawka wideo:** `JuMst1.mp4` (zapętlone)
+
 **Judy:** Och! Popatrz na siebie.  
 **Mox:** Eee… Podlewam tylko roślinę, siostro.  
+
+> **🎬 Wstawka wideo:** `JuMst2.mp4` (zapętlone)
+
 **Judy:** Mmm. Jesteś taki duży i silny.  
 **Mox:** Witaj, siostro Judy.  
 **Judy:** Bardzo ci dziękuję! Jesteś moim bohaterem!  
 **Mox:** Dobrze, dobrze! Rozumiem. Zaczynasz mnie przerażać.  
 **Judy:** Jak dobrze mieć w życiu tak kochającego mężczyznę.  
 **Mox:** Eee… Dzięki, Judy.  
+
+> **🎬 Wstawka wideo:** `JuMst3.mp4` (zapętlone)
+
 **Judy:** Odkąd przybyłeś do naszego kościoła, dużo rozmyślam.  
 **Mox:** O czym rozmyślałaś, siostro Judy?  
 **Judy:** Może cię to zdziwić, ale w młodości byłam związana z pewnym młodzieńcem.  
@@ -47645,6 +53585,9 @@
 **Judy:** Chciałam spędzać z nim całe dnie.  
 **Mox:** Brzmi, jakby łączył was niezły romans.  
 **Judy:** To był wspaniały czas. Ale…  
+
+> **🎬 Wstawka wideo:** `JuMst4.mp4` (zapętlone)
+
 **Judy:** Nie wyszło nam. A raczej nie mogło się udać.  
 **Mox:** Nie rozumiem.  
 **Judy:** Choć bardzo tego chciałam, nie potrafiłam poczuć do niego nic… romantycznego.  
@@ -47663,6 +53606,9 @@
 **Judy:** Jakby otworzyło się we mnie coś, o czego istnieniu nie miałam pojęcia.  
 **Mox:** Myśli o seksie…  
 **Judy:** Niepokoi mnie to. Służę Bogu, więc nie powinnam mieć takich grzesznych pragnień.  
+
+> **🎬 Wstawka wideo:** `JuMst5.mp4` (zapętlone)
+
 **Judy:** Nie mogę spełniać tych pragnień, Mox. Ale czuję silną potrzebę, której wcześniej nie było.  
 **Mox:** Przez całe życie nie odczuwałaś pożądania…  
 **Mox:** Ale takie uczucia są normalne.  
@@ -47676,16 +53622,25 @@
 **Mox:** Dotykanie samej siebie to nie seks. To zupełnie dobry sposób na rozładowanie napięcia.  
 **Mox:** Trochę poćwiczysz, a łatwiej zapanujesz nad swoimi pragnieniami.  
 **Judy:** Tak myślisz? Nie wiem. Nie bardzo wiem, jak to robić.  
+
+> **🎬 Wstawka wideo:** `JuMst6.mp4` (zapętlone)
+
 **Judy:** Mox?  
 **Mox:** W porządku, Judy. Pomogę ci.  
 **Judy:** Ojej…  
 **Mox:** Ufasz mi?  
 **Judy:** Ja… Tak.  
 **Mox:** Nie skrzywdzę cię. Obiecuję.  
+
+> **🎬 Wstawka wideo:** `JuMst7.mp4` (zapętlone)
+
 **Judy:** Mox! To moja…  
 **Mox:** Rozluźnij się. Będę stymulował twoją łechtaczkę.  
 **Judy:** Moją… łechtaczkę? To wszystko jest dla mnie takie dziwne.  
 **Judy:** Nie wiem, czy to naprawdę w porządku.  
+
+> **🎬 Wstawka wideo:** `JuMst8.mp4` (zapętlone)
+
 **Judy:** Oooo… Mox.  
 **Mox:** Jesteś gotowa na więcej?  
 **Judy:** Nie wiem, czy zniosę więcej.  
@@ -47694,17 +53649,29 @@
 **Mox:** Musisz dojść. Wtedy wszystkie grzeszne myśli znikną.  
 **Judy:** Dojść?  
 **Mox:** Pozwól, że ci pokażę.  
+
+> **🎬 Wstawka wideo:** `JuMst9.mp4` (zapętlone)
+
 **Judy:** Łaaał… To takie intensywne!  
 **Mox:** Mam zwolnić?  
 **Judy:** Nie! Nie przestawaj!  
+
+> **🎬 Wstawka wideo:** `JuMst10.mp4` (zapętlone)
+
 **Judy:** Ojej, ale przyjemnie!  
 **Mox:** Właśnie tak, Judy. Nie opieraj się.  
 **Judy:** Twój palec… Jest we mnie!  
 **Mox:** Jesteś już taka mokra, Judy. Mam cały palec mokry.  
 **Judy:** Coś się dzieje!  
+
+> **🎬 Wstawka wideo:** `JuMst11.mp4`
+
 **Judy:** Ooooooo…  
 **Judy:** Co się stało?  
 **Judy:** To uczucie… Co to było?  
+
+> **🎬 Wstawka wideo:** `JuMst12.mp4` (zapętlone)
+
 **Mox:** Doszłaś, Judy. Właśnie to miało się stać.  
 **Mox:** Powinnaś już nie odczuwać takiej potrzeby seksu. Przynajmniej na razie.  
 **Judy:** Masz rację! Teraz już nie czuję tego tak mocno. Dzięki Bogu!  
@@ -47720,6 +53687,13 @@
 **Mox:** Jeśli sobie z nimi nie poradzisz, te myśli nigdy nie znikną.  
 **Judy:** To przerażająca strona mnie, o której istnieniu nie wiedziałam. Ale…  
 **Judy:** Cieszę się, że byłeś tu, żeby mi pomóc, Mox.  
+
+> **🎬 Wstawka wideo:** `JuMst13.mp4`
+
+> **🎬 Wstawka wideo:** `JuMst14.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMst15.mp4`
+
 **Judy:** Mox…  
 **Judy:** Nigdy wcześniej nikt mnie tak nie całował.  
 **Mox:** Przepraszam, siostro Judy. Po prostu poniosła mnie chwila.  
@@ -47854,7 +53828,7 @@
 **Chloe:** Wy dwoje… zrobiliście coś seksualnego?  
 **Mox:** Powiedz jej, Judy.  
 **Judy:** Mox… Pokazał mi, jak… się dotykać.  
-**Chloe:** Judy! Nie wiedziałam, że poprosisz Mox o pomoc!  
+**Chloe:** Judy! Nie wiedziałam, że poprosisz Moxa o pomoc!  
 **Judy:** Nie chciałam! Po prostu… musiałam wiedzieć.  
 **Mox:** Tłumienie tych uczuć nie jest zdrowe.  
 **Chloe:** Wiem… Też próbowałam.  
@@ -47868,7 +53842,7 @@
 **Judy:** Są jakieś nowe sztuczki?  
 **Chloe:** Judy! Może nie powinnaś tak się w to angażować.  
 **Judy:** Ale jeśli można stłumić te uczucia, to chyba warto spróbować.  
-**Chloe:** Ale… przy Mox?  
+**Chloe:** Ale… przy Moxie?  
 **Mox:** Spokojnie, Chloe. Nie zamierzam was wykorzystywać…  
 **Mox:** Żadnego seksu. Obiecuję.  
 **Judy:** To taki dobry człowiek.  
@@ -47899,6 +53873,8 @@
 
 ## Common Event 352 — SCN - Chloe Judy Masturbation
 
+> **🎬 Wstawka wideo:** `JuChMcMst1.mp4` (zapętlone)
+
 **Mox:** Widzisz, Chloe? To wcale nie jest takie złe.  
 **Chloe:** Czuję się spokojnie… Dobrze, że jesteś tu ze mną, siostro Judy.  
 **Judy:** Nigdy w życiu nie czułam się tak kochana.  
@@ -47908,6 +53884,9 @@
 **Judy:** Użyj palca, Mox. Zrób tak jak poprzednio.  
 **Mox:** Gotowa, Chloe?  
 **Chloe:** Eee, tak… Jestem gotowa.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst2.mp4` (zapętlone)
+
 **Judy:** O, Mox!  
 **Chloe:** O mój Boże! Aż mrowi!  
 **Mox:** Czujesz tę twardą wypukłość?  
@@ -47917,52 +53896,85 @@
 **Chloe:** Mocno naciskasz.  
 **Mox:** Za mocno?  
 **Chloe:** Nie… Nie… Jest dobrze.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst3.mp4` (zapętlone)
+
 **Mox:** Jeśli włożysz palec do środka i popchniesz w górę, trafisz w to od spodu.  
 **Chloe:** Ach! Ach! Skąd tyle wiesz?  
 **Mox:** Facet musi znać się na takich rzeczach.  
 **Judy:** Jesteś dobrym nauczycielem, Mox.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst4.mp4` (zapętlone)
+
 **Mox:** Przyjemnie, kiedy naciskam od spodu na tę wypukłość?  
 **Chloe:** Idealnie. Cokolwiek robisz… jest idealnie.  
 **Mox:** Chcę, żebyście teraz same spróbowały.  
 **Mox:** Pokażę wam jeszcze jedno wrażliwe miejsce… Sutek.  
 **Judy:** Sutek?  
+
+> **🎬 Wstawka wideo:** `JuChMcMst5.mp4` (zapętlone)
+
 **Mox:** Czujesz to, Chloe?  
 **Chloe:** Och! Łaskocze… Podoba mi się.  
 **Judy:** Łaskoczesz ją?  
 **Mox:** Tylko delikatny dotyk, tutaj.  
 **Chloe:** Ale przyjemnie.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst6.mp4` (zapętlone)
+
 **Mox:** Naciskasz palcem od spodu?  
 **Chloe:** Tak, Mox.  
 **Mox:** Dobrze, dobrze. Nie przestawaj.  
 **Judy:** Mox, możesz mi pokazać?  
 **Mox:** Oczywiście, siostro.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst7.mp4` (zapętlone)
+
 **Judy:** Ach! Mój Boże! To niesamowite!  
 **Chloe:** To… takie podniecające.  
 **Mox:** Dobra robota, Judy. Użyj dwóch palców.  
 **Judy:** To uczucie jest takie intensywne!  
+
+> **🎬 Wstawka wideo:** `JuChMcMst8.mp4` (zapętlone)
+
 **Mox:** Nie bój się mocniej. Naprawdę mocno naciskaj.  
 **Chloe:** Moje nogi… Są takie słabe.  
 **Mox:** Tak się zdarza.  
 **Mox:** Możesz teraz przejąć?  
 **Chloe:** Tak… Dam sobie radę.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst9.mp4` (zapętlone)
+
 **Mox:** No, właśnie tak. Dasz radę.  
 **Judy:** Idealnie! Nie wyobrażam sobie nic przyjemniejszego.  
 **Mox:** Haha. Nie masz pojęcia, Judy.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst10.mp4` (zapętlone)
+
 **Chloe:** Mox? Robi ci się… twardy.  
 **Mox:** No pewnie. Chyba żartujesz?  
 **Judy:** Twardy?  
 **Chloe:** Jego… penis.  
 **Judy:** Nie rozumiem.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst11.mp4` (zapętlone)
+
 **Judy:** Co masz między nogami?  
 **Mox:** Nie przejmuj się mną, Judy.  
 **Judy:** Proszę… Naucz mnie.  
 **Mox:** Skoro nalegasz.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst12.mp4` (zapętlone)
+
 **Judy:** Ojej! Mox! Co to za rzecz!?  
 **Chloe:** To jego penis, siostro Judy.  
 **Mox:** Tak się dzieje, kiedy chce się zabawić.  
 **Judy:** Zabawić? Nie rozumiem.  
 **Chloe:** Chce wejść do środka.  
 **Judy:** Jakże… nieświęte.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst13.mp4` (zapętlone)
+
 **Chloe:** Proszę, Mox. Tak jest lepiej?  
 **Mox:** Chloe! Nie chciałem, żebyś musiała to robić.  
 **Judy:** Czyli… Ty też to czujesz?  
@@ -47971,30 +53983,51 @@
 **Judy:** Dojść?  
 **Chloe:** To bardzo przyjemne uczucie… na samym końcu.  
 **Judy:** Oczywiście… Mox też powinien tego doświadczyć.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst14.mp4` (zapętlone)
+
 **Mox:** Tak, dziewczyny. Dotykajcie go.  
 **Chloe:** Judy?  
 **Judy:** Nic się nie stało… Chcę tylko trochę go poczuć.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst15.mp4` (zapętlone)
+
 **Judy:** Jest taki… duży… i ciepły.  
 **Mox:** Już blisko.  
 **Chloe:** Czuję, jak pulsuje.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst16.mp4` (zapętlone)
+
 **Judy:** To przyjemne? Doprowadzi cię do orgazmu?  
 **Mox:** Nie przestawaj. Wciąż go dotykaj.  
 **Chloe:** No dalej, Mox. Dojdź razem ze mną.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst17.mp4` (zapętlone)
+
 **Judy:** Dojdziemy… razem?  
 **Mox:** Już prawie!  
 **Chloe:** Ja też!  
 **Judy:** Ojej!  
+
+> **🎬 Wstawka wideo:** `JuChMcMst18.mp4`
+
 **Judy:** Chloe! Co się stało?  
 **Chloe:** Cholera, Mox! Naprawdę dużo tego z ciebie wyleciało.  
 **Judy:** Co to jest? Co to za substancja?  
 **Mox:** To sperma.  
 **Judy:** Sperma to… coś?  
 **Chloe:** Jest ciepła… i lepka.  
-**Judy:** To wyszło z Mox?  
+
+> **🎬 Wstawka wideo:** `JuChMcMst19.mp4` (zapętlone)
+
+**Judy:** To wyszło z Moxa?  
 **Mox:** Wszystko w porządku, Chloe?  
 **Chloe:** Tak… To przyjemne.  
 **Judy:** Jest ciepła?  
 **Chloe:** Była w jego ciele. Ma… temperaturę ciała.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst20.mp4`
+
 **Chloe:** Dobrze smakuje.  
 **Mox:** Chloe? Hannah cię tego nauczyła?  
 **Chloe:** Widziałam to na filmie.  
@@ -48003,6 +54036,9 @@
 **Judy:** Ja… Jestem bardzo wdzięczna Mox.  
 **Mox:** Judy… Nie musisz robić niczego, na co nie masz ochoty.  
 **Judy:** Chcę spróbować.  
+
+> **🎬 Wstawka wideo:** `JuChMcMst21.mp4`
+
 **Chloe:** No i jak?  
 **Judy:** Nie wiem… Jest słona.  
 **Mox:** Jeśli ci nie smakuje, nic nie szkodzi. Nie musisz jej jeść.  
@@ -48432,8 +54468,13 @@
 
 ## Common Event 330 — SCN - Judy Spider
 
+> **🎬 Wstawka wideo:** `JuSpdr1.mp4` (zapętlone)
+
 **Mox:** Łał! Nie spodziewałem się, że ją tak zobaczę.  
 **Mox:** Eee... Siostro Judy?  
+
+> **🎬 Wstawka wideo:** `JuSpdr2.mp4` (zapętlone)
+
 **Judy:** Mox! Dziękuję, że mnie odwiedziłeś.  
 **Mox:** Szykujesz się do snu? Mam nadzieję, że nie jest za późno.  
 **Judy:** W porządku. Właśnie mam podlać rośliny.  
@@ -48445,16 +54486,27 @@
 **Judy:** Widzę go przez cały dzień. Zwykle czytam książkę albo studiuję Biblię przed wieczorną modlitwą.  
 **Judy:** Jeśli nie masz nic przeciwko, muszę tylko dokończyć podlewanie roślin.  
 **Mox:** Jasne. Nigdzie się nie wybieram.  
+
+> **🎬 Wstawka wideo:** `JuSpdr3.mp4` (zapętlone)
+
 **Judy:** Ta zawsze sprawia mi kłopoty.  
 **Mox:** Uważaj, Judy. Pomóc ci?  
 **Judy:** Mógłbyś, proszę?  
 **Mox:** Cała przyjemność po mojej stronie.  
+
+> **🎬 Wstawka wideo:** `JuSpdr4.mp4` (zapętlone)
+
 **Judy:** Ale z ciebie wysoki chłopak!  
 **Mox:** Nie wiedziałem, że masz tak wysoko ustawioną roślinę.  
 **Judy:** Ale ze mnie gapa. Powinnam była po prostu użyć stołka.  
 **Mox:** Albo mogłabyś przestawić roślinę na niższą półkę.  
 **Judy:** No jasne! Mądry i wysoki! Prawdziwe błogosławieństwo.  
 **Mox:** Nie jestem tego pewien.  
+
+> **🎬 Wstawka wideo:** `JuSpdr5.mp4`
+
+> **🎬 Wstawka wideo:** `JuSpdr6.mp4` (zapętlone)
+
 **Mox:** Pająk!  
 **Judy:** O mój Boże! Jaki wielki!  
 **Mox:** Jak on się tu dostał?  
@@ -48465,14 +54517,23 @@
 **Judy:** Powinniśmy wypuścić go na zewnątrz. Może ma tam rodzinę.  
 **Mox:** Nie jestem pewien… Ale chyba mogę go złapać.  
 **Judy:** Uważaj, Mox. Nie wiemy, jaki ma charakter.  
+
+> **🎬 Wstawka wideo:** `JuSpdr7.mp4`
+
 **Mox:** Hej! Mam go!  
 **Judy:** /excited  
 **Mox:** Otwórz okno. Wypuścimy go.  
 **Judy:** Oczywiście!  
+
+> **🎬 Wstawka wideo:** `JuSpdr8.mp4` (zapętlone)
+
 **Mox:** No dalej. Wyskakuj już.  
 **Judy:** Co się dzieje? Czemu nie chce wyjść?  
 **Mox:** Jesteś wolny, pająku. A teraz zmykaj.  
 **Judy:** Nie możesz tu zostać… Na zewnątrz czeka na ciebie rodzina.  
+
+> **🎬 Wstawka wideo:** `JuSpdr9.mp4` (zapętlone)
+
 **Mox:** Wyskoczył!  
 **Mox:** O cholera. Chyba nie wskoczy z powrotem?  
 **Judy:** Wygląda, jakby do nas machał…  
@@ -48575,15 +54636,28 @@
 
 ## Common Event 395 — SCN - Judy Anal
 
+> **🎬 Wstawka wideo:** `JuMcAn1.mp4` (zapętlone)
+
 **Judy:** Panie, spraw, żeby Mox wrócił bezpiecznie…  
 **Judy:** Nie wiem, co bym bez niego zrobiła.  
 **Mox:** Judy?  
+
+> **🎬 Wstawka wideo:** `JuMcAn2.mp4` (zapętlone)
+
 **Judy:** Och, Mox! Dzięki Ci, Panie!  
 **Mox:** Przepraszam, że cię zmartwiłem.  
 **Judy:** Cieszę się, że wróciłeś.  
+
+> **🎬 Wstawka wideo:** `JuMcAn3.mp4` (zapętlone)
+
 **Judy:** Wiedziałam, że nic ci nie będzie. Modliłam się o to, a Bóg nigdy mnie nie zawodzi.  
 **Mox:** Po prostu trochę zboczyłem z drogi. To wszystko.  
 **Judy:** Pan wysłuchuje wszystkich moich modlitw.  
+
+> **🎬 Wstawka wideo:** `JuMcAn4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcAn5.mp4` (zapętlone)
+
 **Mox:** Judy? Co w ciebie wstąpiło?  
 **Judy:** Ostatnio dużo się modliłam.  
 **Mox:** Po co?  
@@ -48594,6 +54668,9 @@
 **Judy:** Też tak myślę, Mox. Naprawdę.  
 **Mox:** Ojca Solomona nie ma.  
 **Judy:** Wiem.  
+
+> **🎬 Wstawka wideo:** `JuMcAn6.mp4` (zapętlone)
+
 **Judy:** Ciągle o tym myślę. Nie mogę przestać.  
 **Mox:** Judy… Na pewno?  
 **Judy:** Jestem oddana Bogu. Z radością wyrzekłam się macierzyństwa, by poświęcić Mu życie.  
@@ -48601,10 +54678,19 @@
 **Judy:** Nie mogę zajść w ciążę, Mox. Chloe i Hannah mi to powiedziały.  
 **Mox:** Mają rację… Ale to wciąż…  
 **Judy:** Nie mów tego, Mox. To nie jest seks.  
+
+> **🎬 Wstawka wideo:** `JuMcAn7.mp4` (zapętlone)
+
 **Mox:** Och, Judy…  
 **Mox:** Chyba zależy od punktu widzenia.  
+
+> **🎬 Wstawka wideo:** `JuMcAn8.mp4` (zapętlone)
+
 **Mox:** Jeśli macierzyństwo jest zakazane… To chyba masz rację.  
 **Mox:** Ktoś powiedział mi dziś rano coś podobnego.  
+
+> **🎬 Wstawka wideo:** `JuMcAn9.mp4` (zapętlone)
+
 **Judy:** Mam nadzieję, że spodoba ci się mój tyłeczek.  
 **Mox:** To bardzo urocze.  
 **Judy:** Tak myślisz? Hannah ma taki ładny tyłeczek.  
@@ -48613,42 +54699,80 @@
 **Mox:** Niezupełnie.  
 **Judy:** Co masz na myśli?  
 **Mox:** Zaufaj mi, siostro. Wiem, co robię.  
+
+> **🎬 Wstawka wideo:** `JuMcAn10.mp4` (zapętlone)
+
 **Judy:** O, Mox!  
 **Judy:** Aż mnie mrowi z podekscytowania!  
+
+> **🎬 Wstawka wideo:** `JuMcAn11.mp4` (zapętlone)
+
 **Judy:** Twój język jest taki przyjemny…  
 **Judy:** Jesteś taki dobry.  
+
+> **🎬 Wstawka wideo:** `JuMcAn12.mp4` (zapętlone)
+
 **Mox:** Chcę to zrobić… Ale mam wyrzuty sumienia.  
 **Judy:** Mox. Wszystko w porządku. Obiecuję.  
 **Mox:** Nie możemy posunąć się dalej.  
 **Judy:** Wiem… I dobrze.  
 **Mox:** … Spróbuj się rozluźnić.  
+
+> **🎬 Wstawka wideo:** `JuMcAn13.mp4`
+
+> **🎬 Wstawka wideo:** `JuMcAn14.mp4` (zapętlone)
+
 **Judy:** Ach! Mox!  
 **Mox:** Wszystko w porządku?  
 **Judy:** Już dobrze… Nic mi nie jest.  
 **Mox:** Musisz się rozluźnić.  
+
+> **🎬 Wstawka wideo:** `JuMcAn15.mp4` (zapętlone)
+
 **Judy:** O, Mox.  
 **Mox:** Rozluźnij się… Jesteś taka ciasna.  
 **Judy:** To… To przyjemne… Lepiej, niż mogłam sobie wyobrazić.  
 **Judy:** Głębiej.  
 **Mox:** Dasz radę?  
 **Judy:** Dam radę.  
+
+> **🎬 Wstawka wideo:** `JuMcAn16.mp4` (zapętlone)
+
 **Judy:** Ach! Tak!  
 **Mox:** Judy! Nadal jesteś bardzo ciasna!  
 **Judy:** Ale dobrze!  
+
+> **🎬 Wstawka wideo:** `JuMcAn17.mp4` (zapętlone)
+
 **Mox:** Ale dużo przyjmujesz!  
 **Judy:** Chcę więcej! Jeszcze!  
 **Mox:** Ale…  
 **Judy:** Dawaj, Mox!  
+
+> **🎬 Wstawka wideo:** `JuMcAn18.mp4` (zapętlone)
+
 **Judy:** Ach! Mox!  
 **Mox:** Za mocno ściskasz!  
 **Judy:** Nie przestawaj!  
+
+> **🎬 Wstawka wideo:** `JuMcAn19.mp4` (zapętlone)
+
 **Mox:** Och! Ale ciasno!  
 **Judy:** Mocniej! Szybciej!  
+
+> **🎬 Wstawka wideo:** `JuMcAn20.mp4` (zapętlone)
+
 **Judy:** Tak, Mox! Tak!  
 **Mox:** Przyjmujesz go całego, Judy!  
 **Judy:** Daj mi wszystko!  
+
+> **🎬 Wstawka wideo:** `JuMcAn21.mp4` (zapętlone)
+
 **Mox:** Długo tak nie wytrzymam! Jesteś za ciasna!  
 **Judy:** Zaraz! Już!  
+
+> **🎬 Wstawka wideo:** `JuMcAn22.mp4`
+
 **Judy:** Jest wszędzie!  
 **Mox:** Musimy nauczyć cię rozluźniać tyłek.  
 
@@ -48700,31 +54824,56 @@
 
 ## Common Event 433 — SCN - Judy Melissa Bathroom
 
+> **🎬 Wstawka wideo:** `JuMeBthrm1.mp4` (zapętlone)
+
 **Mox:** Judy?  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm2.mp4` (zapętlone)
+
 **Judy:** Ależ ze mnie idiotka. Chyba mnie przyłapałeś.  
 **Mox:** Nadal potrzebujesz papieru toaletowego?  
 **Judy:** Mógłbyś coś dla mnie zrobić?  
 **Mox:** Czego teraz potrzebujesz?  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm3.mp4` (zapętlone)
+
 **Judy:** Może tylko szybki numerek.  
 **Mox:** W tyłek?  
 **Judy:** Mox…  
 **Mox:** W cipkę?  
 **Judy:** To znaczy… Czy mogę ci to naprawdę powiedzieć?  
 **Mox:** Och… Rozumiem.  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm4.mp4` (zapętlone)
+
 **Mox:** Naprawdę powinienem zrobić to w twoim tyłku…  
 **Judy:** Oczywiście. Tak będzie najlepiej.  
 **Mox:** Oby tylko dobrze wycelował.  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm5.mp4`
+
+> **🎬 Wstawka wideo:** `JuMeBthrm6.mp4` (zapętlone)
+
 **Judy:** O, Mox!  
 **Mox:** Ależ masz ładny, ciasny tyłeczek.  
 **Judy:** Ale… dobrze!  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm7.mp4` (zapętlone)
+
 **Mox:** Grzeczna z ciebie dziewczynka, Judy.  
 **Judy:** Jestem grzeczną dziewczynką!  
 **Mox:** O tak… Ale mokro.  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm8.mp4` (zapętlone)
+
 **Melissa:** Mox!  
 **Judy:** Detektyw Bhatt!  
 **Mox:** My… Eee…  
 **Judy:** Uprawiamy seks analny!  
 **Melissa:** No proszę… Jaka niegrzeczna zakonnica.  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm9.mp4` (zapętlone)
+
 **Judy:** Proszę, nie mów ojcu.  
 **Melissa:** Naprawdę dobrałeś się do majtek zakonnicy, Mox?  
 **Mox:** To znaczy… Czasem się zabawiamy.  
@@ -48732,51 +54881,101 @@
 **Melissa:** Nie przerywajcie przeze mnie.  
 **Mox:** Heh. Podoba mi się kierunek, w jakim to zmierza.  
 **Judy:** Do czego to zmierza?  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm10.mp4` (zapętlone)
+
 **Mox:** Chyba Melissa też ma ochotę na trochę zabawy.  
 **Judy:** Ojej!  
 **Melissa:** Mox!  
 **Mox:** Podzielisz się z nią, siostro?  
 **Judy:** Nie jestem samolubna.  
 **Mox:** Podoba mi się ta odpowiedź!  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm11.mp4` (zapętlone)
+
 **Melissa:** Bez owijania w bawełnę, Canmore?  
 **Mox:** Szkoda czasu.  
 **Judy:** Och! Ale jesteśmy niegrzeczne!  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm12.mp4` (zapętlone)
+
 **Melissa:** Kutas tego chłopaka to niezłe narzędzie, nie sądzisz, siostro Judy?  
 **Judy:** Tak! Tak! To niesamowite!  
 **Mox:** Nie każ Judy się zadowalać, Melisso.  
 **Melissa:** Rozkazujesz mi, Mox?  
 **Mox:** Może.  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm13.mp4` (zapętlone)
+
 **Judy:** O Panie, miej litość!  
 **Mox:** Chyba jej się podoba.  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm14.mp4` (zapętlone)
+
 **Judy:** To niesamowite!  
 **Mox:** Melissa doskonale wie, co zrobić tymi ustami.  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm15.mp4` (zapętlone)
+
 **Judy:** Jak energicznie liże moje ciało!  
 **Mox:** Założę się, że chciałaby, żebyś się odwdzięczyła.  
 **Judy:** Tak, tak… Oczywiście.  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm16.mp4` (zapętlone)
+
 **Melissa:** Cholera! Nie wierzę, że zakonnica liże moją cipkę, kiedy ktoś rżnie mnie w tyłek!  
 **Mox:** Jak smakowała, Melisso?  
 **Melissa:** Pyszna!  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm17.mp4` (zapętlone)
+
 **Mox:** Ależ masz krągły tyłek! Chyba najlepszy, jaki kiedykolwiek rżnąłem.  
 **Melissa:** Boże! To takie nieprzyzwoite!  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm18.mp4` (zapętlone)
+
 **Mox:** Bierz, Melisso!  
 **Melissa:** Cholera! Cholera!  
 **Mox:** Właśnie tak! Ściskaj mojego kutasa!  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm19.mp4` (zapętlone)
+
 **Melissa:** Tak! Dawaj!  
 **Mox:** Dojdź, kochanie!  
 **Melissa:** Dochodzę! Dochodzę!  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm20.mp4`
+
 **Melissa:** Całkiem nieźle radzisz sobie językiem, siostro.  
 **Judy:** Dziękuję, detektywie. Starałam się jak mogłam.  
 **Melissa:** Chyba jesteśmy jej winni orgazm.  
 **Mox:** Zgadza się.  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm21.mp4` (zapętlone)
+
 **Judy:** Och! Mox!  
 **Mox:** Jak ci z tym, Judy?  
 **Judy:** Uwielbiam to!  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm22.mp4` (zapętlone)
+
 **Mox:** Widzę… Twoja cipka nie kłamie.  
 **Judy:** Jestem niegrzeczną dziewczynką!  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm23.mp4` (zapętlone)
+
 **Mox:** Ale z ciebie niegrzeczna dziewczynka!  
 **Judy:** O rany! Ale jestem napalona!  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm24.mp4` (zapętlone)
+
 **Mox:** Dojdź dla nas, siostro!  
 **Judy:** Tak! Dochodzę!  
+
+> **🎬 Wstawka wideo:** `JuMeBthrm25.mp4`
+
+> **🎬 Wstawka wideo:** `JuMeBthrm26.mp4`
+
 **Melissa:** Cholera! Ale z was dwie zboczone bestie!  
 **Judy:** O Boże! Ale mam umazaną twarz.  
 **Mox:** Uroczo wyglądasz cała w mojej spermie.  
@@ -49070,9 +55269,9 @@
 **Carol:** Myślisz, że zakonnica miałaby coś przeciwko plamom na prześcieradłach?  
 **Heather:** Carol!... Ale wstyd.  
 **Mox:** Nie martw się. Brian jest spoko.  
-**Carol:** Jak mówię Mox… Zabawa jest dopiero wtedy, gdy czasem dacie się złapać.  
+**Carol:** Jak mówię Moxowi… Zabawa jest dopiero wtedy, gdy czasem dacie się złapać.  
 **Heather:** Chciałabym mieć twoje podejście do życia, Carol.  
-**Carol:** Dojdziesz do tego. Musisz tylko pozwolić Mox wyruchać ten kij z twojej dupy.  
+**Carol:** Dojdziesz do tego. Musisz tylko pozwolić Moxowi wyruchać ten kij z twojej dupy.  
 **Mox:** Yyy… Nie sądzę, że tak to przysłowie brzmi.  
 **Heather:** Hej. Ktoś musi na nas uważać.  
 **Carol:** Haha. Na wiele się to zdało.  
@@ -49155,6 +55354,8 @@
 
 ## Common Event 396 — SCN - Duncan Interview
 
+> **🎬 Wstawka wideo:** `NeMcTied0.mp4` (zapętlone)
+
 **Duncan:** Narobiłeś mi sporo kłopotów, detektywie.  
 **Mox:** Pierdol się.  
 **Nellie:** Wygląda na twardziela, Duncan.  
@@ -49201,6 +55402,8 @@
 ## Mapa 122 — Korytarz / event 19 / strona 1
 
 **Mox:** /find  
+
+> **🎬 Wstawka wideo:** `Fig-Judy.mp4` (zapętlone)
 
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
@@ -49342,6 +55545,8 @@
 ---
 
 ## Common Event 444 — SCN - Read Book Genesis
+
+> **🎬 Wstawka wideo:** `McErHrRead.mp4` (zapętlone)
 
 **Narrator / mówca nieustalony:** Na początku Bóg stworzył niebo i ziemię. Ziemia była bezkształtna, a ciemność spowijała otchłań. Duch Boży unosił się nad wodami.  
 **Tasha:** Przewiń dalej. Poszukaj Adama i Ewy.  
@@ -49609,7 +55814,7 @@
 **Brian:** /greet  
 **Mox:** Mam wodę święconą i krucyfiksy. Co teraz?  
 **Brian:** Musimy rozstawić je w kościele. Gdy demon zobaczy choć jeden z tych cacek, ucieknie, gdzie pieprz rośnie.  
-**Judy:** Proszę się nie martwić, ojcze. Niech ojciec dalej się uczy. Pomogę Mox z krucyfiksami.  
+**Judy:** Proszę się nie martwić, ojcze. Niech ojciec dalej się uczy. Pomogę Moxowi z krucyfiksami.  
 **Brian:** /thanks  
 **Judy:** /order  
 
@@ -49974,18 +56179,34 @@
 
 ## Common Event 445 — SCN - Nellie Heather Library
 
+> **🎬 Wstawka wideo:** `NeHeLbry1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `NeHeLbry2.mp4` (zapętlone)
+
 **Mox:** To jeszcze nie koniec.  
 **Nellie:** No pewnie, że nie.  
 **Mox:** W krótkim czasie rozwiązaliśmy już wiele spraw. Co nam szkodzi rozwiązać jeszcze jedną?  
+
+> **🎬 Wstawka wideo:** `NeHeLbry3.mp4` (zapętlone)
+
 **Nellie:** Zaufałam Andrei. Chyba nie pozostaje mi nic innego, jak mieć nadzieję.  
 **Mox:** Razem jakoś to rozwiążemy.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry4.mp4` (zapętlone)
+
 **Nellie:** Trudno mi pogodzić się z myślą, że mogę już nie dostać tego kutasa.  
 **Mox:** Myślisz, że nie odwiedzałbym cię w więzieniu?  
 **Nellie:** Może ten kutas zmotywuje mnie, żeby znowu uciec z więzienia.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry5.mp4` (zapętlone)
+
 **Heather:** Mox?  
 **Nellie:** Ha! Kto by pomyślał, że drzwi są otwarte?  
 **Mox:** Eee… Heather.  
 **Nellie:** Wejdź. Przyda nam się trzecia osoba.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry6.mp4` (zapętlone)
+
 **Heather:** Nie chciałam przeszkadzać. Myślałam, że się uczycie.  
 **Nellie:** Korzystam z chłopaka, póki jeszcze mogę.  
 **Mox:** Nellie może wrócić do więzienia.  
@@ -50001,32 +56222,65 @@
 **Heather:** Nie powiedziałabym… Dzieliłam się nim z demonem i zakonnicą.  
 **Nellie:** Dobra… To niezłe szaleństwo… Ale ja pieprzyłam go z dwiema demonami!  
 **Mox:** Technicznie rzecz biorąc, to był jeden demon.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry7.mp4` (zapętlone)
+
 **Nellie:** No dalej! Dajcie mi cipkę i kutasa. Niech mam co wspominać przez następne dziesięć lat.  
 **Heather:** Cholera! Ale z ciebie napalona kobieta!  
 **Mox:** Taka już jest Nellie.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry8.mp4` (zapętlone)
+
 **Mox:** Otwarte drzwi nie raz mi się przysłużyły…  
 **Mox:** Zaczynajmy zabawę.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry9.mp4` (zapętlone)
+
 **Nellie:** O tak! Postaraj się, kobieto.  
 **Mox:** Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry10.mp4` (zapętlone)
+
 **Nellie:** Ale głęboko sięga tym językiem!  
 **Mox:** Chyba podoba jej się twój smak.  
+
+> **🎬 Wstawka wideo:** `NeHeLbry11.mp4` (zapętlone)
+
 **Heather:** Och! Ależ z niej dzikuska!  
 **Mox:** I jaka gorąca cipka!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry12.mp4` (zapętlone)
+
 **Heather:** Zawsze zastanawiałam się, jak to jest z taką kobietą.  
 **Mox:** Nie zapominaj, że jest też matką.  
 **Heather:** Ale jesteśmy niegrzeczni!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry13.mp4` (zapętlone)
+
 **Nellie:** Zerżnij mnie! Zerżnij mnie!  
 **Heather:** Ale ma śliskiego kutasa!  
 **Mox:** Ale jesteście mokre!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry14.mp4` (zapętlone)
+
 **Nellie:** Czyli piekło jest mokre?  
 **Mox:** Gorąco jak w piekle! Gorąco jak w piekle!  
 **Heather:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry15.mp4` (zapętlone)
+
 **Mox:** Tryśnijcie dla mnie, dziewczyny. Pokażcie, że wam się podoba.  
 **Heather:** Tak! Tak! Uwielbiam to!  
 **Nellie:** Spuść się na nasze twarze! Zalej je spermą!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry16.mp4` (zapętlone)
+
 **Heather:** Chcę spermy na twarzy!  
 **Nellie:** Dochodzę!  
 **Mox:** Przygotujcie się!  
+
+> **🎬 Wstawka wideo:** `NeHeLbry17.mp4`
+
 **Mox:** O cholera!  
 **Heather:** Mam nadzieję, że Tasha nie potrzebowała tej książki.  
 **Nellie:** Celne oko, detektywie.  
@@ -50376,23 +56630,57 @@
 
 ## Common Event 322 — SCN - Carol Cucumber
 
+> **🎬 Wstawka wideo:** `CaCu1.mp4` (zapętlone)
+
 **Mox:** Cholera! Popełniłem wielki błąd.  
+
+> **🎬 Wstawka wideo:** `CaCu2.mp4` (zapętlone)
+
 **Mox:** Czy to?... Ogórek?  
+
+> **🎬 Wstawka wideo:** `CaCu3.mp4` (zapętlone)
+
 **Mox:** Skąd Hannah wzięła tego dilda? Czy to Carol?  
+
+> **🎬 Wstawka wideo:** `CaCu4.mp4` (zapętlone)
+
 **Mox:** Nie sądziłem, że Carol ma w sobie tyle erotyzmu…  
 **Mox:** Ależ się do tego zabrała.  
+
+> **🎬 Wstawka wideo:** `CaCu5.mp4` (zapętlone)
+
 **Mox:** Cholera! Bawi się nawet swoim tyłkiem.  
 **Mox:** Nie powinienem jej podglądać…  
+
+> **🎬 Wstawka wideo:** `CaCu6.mp4` (zapętlone)
+
 **Mox:** Ale… Jest całkiem seksowna…  
 **Mox:** Co ja robię?  
+
+> **🎬 Wstawka wideo:** `CaCu7.mp4` (zapętlone)
+
 **Mox:** Najwyraźniej podoba jej się własny smak.  
 **Mox:** Ciekawe, jak smakuje.  
 **Mox:** Agh! O czym ja myślę?  
+
+> **🎬 Wstawka wideo:** `CaCu8.mp4` (zapętlone)
+
 **Mox:** Cholera… Coś czuję.  
 **Mox:** Idź sobie, Mox. Przestań gapić się na matkę Hannah.  
+
+> **🎬 Wstawka wideo:** `CaCu9.mp4` (zapętlone)
+
 **Mox:** Naprawdę wkłada sobie teraz palce…  
 **Mox:** Czy zaraz dojdzie?  
+
+> **🎬 Wstawka wideo:** `CaCu10.mp4` (zapętlone)
+
 **Mox:** Pokaż mi.  
+
+> **🎬 Wstawka wideo:** `CaCu11.mp4`
+
+> **🎬 Wstawka wideo:** `CaCu12.mp4`
+
 **Carol:** Mox!?  
 **Mox:** Carol!  
 
@@ -50501,55 +56789,114 @@
 
 ## Common Event 411 — SCN - Carol Hannah Upstairs
 
+> **🎬 Wstawka wideo:** `CaHnUpstrs1.mp4` (zapętlone)
+
 **Carol:** Pospieszmy się, zanim wróci do domu.  
 **Mox:** Ale, Carol…  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs3.mp4` (zapętlone)
+
 **Mox:** Carol! Zaczekaj…  
 **Mox:** O Boże…  
 **Mox:** Ja… Muszę skorzystać z łazienki.  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs4.mp4` (zapętlone)
+
 **Carol:** Nie pozwolę ci na mnie nasikać, jeśli o to ci chodzi.  
 **Mox:** Nie! Nie to miałem na myśli.  
 **Carol:** Dobrze!  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs5.mp4` (zapętlone)
+
 **Carol:** Mmm! Ale jesteś dziś twardy…  
 **Carol:** Pewnie podnieca cię wagarowanie z pracy.  
 **Mox:** Nie opuszczam pracy.  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs6.mp4`
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs7.mp4` (zapętlone)
+
 **Carol:** Właśnie tak, kochanie! Dawaj mamusi!  
 **Mox:** O kurwa! Ale masz przyjemny tyłek…  
 **Carol:** Podoba ci się ten wielki tyłek na twoich biodrach, kochanie?  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs8.mp4` (zapętlone)
+
 **Carol:** Lepiej doprowadź mnie do orgazmu. Nie chcemy, żeby Hannah nas przyłapała.  
 **Mox:** Carol, zaczekaj!  
 **Carol:** Nie ma czasu na grę wstępną. Zaczynaj!  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs9.mp4` (zapętlone)
+
 **Hannah:** Co oni wyprawiają? Siłują się?  
 **Carol:** Dawaj! Wytrzymam!  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs10.mp4` (zapętlone)
+
 **Mox:** Może przenieśmy się na dół.  
 **Carol:** No dalej, kochanie. Daj mi buziaka.  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs11.mp4` (zapętlone)
+
 **Mox:** Och, Carol…  
 **Carol:** O tak! Ale dobrze!  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs12.mp4` (zapętlone)
+
 **Mox:** Ugh! Ale mocno się o mnie ocierasz.  
 **Carol:** Pieprz tę cipkę!  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs13.mp4` (zapętlone)
+
 **Mox:** Boże, Carol! Ale z ciebie dzikuska!  
 **Carol:** Tak! Pieprz ją!  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs14.mp4` (zapętlone)
+
 **Carol:** Zaraz przez ciebie dojdę, Mox!  
 **Mox:** Cholera!  
 **Carol:** Dojdź we mnie! Wypełnij moją cipkę!  
 **Mox:** Ugh!...  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs15.mp4`
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs16.mp4` (zapętlone)
+
 **Carol:** Mox! Ale nabrudziłeś!  
 **Mox:** Przepraszam.  
 **Carol:** Mówiłam, żebyś doszedł we mnie. Teraz muszę wziąć prysznic.  
 **Mox:** Pospiesz się. Hannah może wrócić w każdej chwili.  
 **Carol:** Ależ z ciebie spryciarz, kochanie.  
 **Mox:** Co poradzę? Dobrze wyglądasz w mojej spermie.  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs17.mp4`
+
 **Hannah:** Co wy dwoje, do cholery…  
 **Hannah:** Mox!  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs18.mp4` (zapętlone)
+
 **Hannah:** Gdzie masz spodnie? I czemu masz takiego twardego?  
 **Mox:** Eee… Eee…  
 **Hannah:** Pieprzyłeś moją mamę?  
 **Mox:** Nie! My… Wylała coś na moje spodnie.  
 **Hannah:** Kłamiesz!  
 **Mox:** Naprawdę, przysięgam!  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs19.mp4` (zapętlone)
+
 **Hannah:** Coś tu strasznie śmierdzi.  
 **Mox:** Hannah, zaczekaj!  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs20.mp4` (zapętlone)
+
 **Mox:** Hannah! Przestań!  
 **Mox:** Masz rację! Zrobiliśmy to!  
+
+> **🎬 Wstawka wideo:** `CaHnUpstrs21.mp4` (zapętlone)
+
 **Carol:** Hannah!?  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -50616,6 +56963,8 @@
 
 ## Common Event 346 — SCN - Carol Pussy Sex
 
+> **🎬 Wstawka wideo:** `CaPss1.mp4` (zapętlone)
+
 **Carol:** Cześć, przystojniaku.  
 **Mox:** Carol?!  
 **Mox:** Wiesz, że Hannah jest na dole, prawda? W każdej chwili może się obudzić.  
@@ -50629,65 +56978,133 @@
 **Carol:** Przy tobie znów czuję się młoda.  
 **Carol:** To uczucie naprawdę uzależnia.  
 **Carol:** Po prostu nie mogę mieć tego dość…  
+
+> **🎬 Wstawka wideo:** `CaPss2.mp4` (zapętlone)
+
 **Carol:** Ani ciebie.  
 **Mox:** Carol…  
 **Carol:** Chodź, usiądź na łóżku, skarbie.  
+
+> **🎬 Wstawka wideo:** `CaPss3.mp4` (zapętlone)
+
 **Carol:** Mmm, cóż my tu mamy?  
 **Mox:** Chyba podoba mi się kierunek, w jakim to zmierza.  
 **Carol:** Jeszcze niczego nie widziałeś, skarbie.  
+
+> **🎬 Wstawka wideo:** `CaPss4.mp4` (zapętlone)
+
 **Carol:** Jaki męski kutas.  
 **Carol:** Uwielbiam czuć go na twarzy. Pulsujący i ciepły.  
 **Mox:** Widok bardzo mi się podoba.  
 **Carol:** Założę się, że tak.  
+
+> **🎬 Wstawka wideo:** `CaPss5.mp4` (zapętlone)
+
 **Mox:** Och, Carol… To niesamowite.  
 **Carol:** Mhm.  
+
+> **🎬 Wstawka wideo:** `CaPss6.mp4` (zapętlone)
+
 **Mox:** Podoba mi się to, co tam robisz…  
 **Mox:** Cóż za zakończenie wieczoru.  
 **Carol:** Mmmmm.  
+
+> **🎬 Wstawka wideo:** `CaPss7.mp4` (zapętlone)
+
 **Carol:** To jeszcze nie koniec. Teraz moja kolej, skarbie.  
 **Carol:** Może mała przekąska?  
+
+> **🎬 Wstawka wideo:** `CaPss8.mp4` (zapętlone)
+
 **Mox:** Ale smakowita cipka… Chętnie skuszę się na słodki deser.  
 **Carol:** Pokaż mamusi, co potrafisz.  
 **Mox:** Z przyjemnością.  
+
+> **🎬 Wstawka wideo:** `CaPss9.mp4` (zapętlone)
+
 **Carol:** Mmm, właśnie tak, skarbie.  
 **Carol:** Smakuje ci deser?  
+
+> **🎬 Wstawka wideo:** `CaPss10.mp4` (zapętlone)
+
 **Carol:** Jesteś w tym taaaki dobry.  
 **Carol:** Chyba byłeś bardzo głodny.  
 **Carol:** Ale chyba pora przejść do dania głównego.  
+
+> **🎬 Wstawka wideo:** `CaPss11.mp4`
+
+> **🎬 Wstawka wideo:** `CaPss12.mp4`
+
 **Carol:** Oooch! Kurwa, ale dobrze.  
 **Mox:** O mój Boże… Nie wierzę, że naprawdę posuwamy się aż tak daleko.  
+
+> **🎬 Wstawka wideo:** `CaPss13.mp4` (zapętlone)
+
 **Carol:** Twój kutas jest cudowny, skarbie.  
 **Mox:** O tak! Ujeżdżaj go, kowbojko! Masz fantastyczną cipkę!  
+
+> **🎬 Wstawka wideo:** `CaPss14.mp4` (zapętlone)
+
 **Carol:** Cieszę się, że smakuje ci miodzik tej starszej pani.  
 **Mox:** Starszej pani?  
 **Mox:** Masz cipkę tak młodą i ciasną, jakiej jeszcze nie widziałem.  
+
+> **🎬 Wstawka wideo:** `CaPss15.mp4` (zapętlone)
+
 **Carol:** Ale z ciebie czaruś.  
 **Carol:** A do tego jaki wspaniały kutas.  
 **Carol:** Może pokażę ci, co potrafi doświadczona kobieta?  
+
+> **🎬 Wstawka wideo:** `CaPss16.mp4` (zapętlone)
+
 **Mox:** Kurwa, Carol. Naprawdę wiesz, jak się ruszać.  
 **Carol:** Łatwiej mi, gdy mam do dyspozycji takiego wielkiego kutasa.  
 **Carol:** Mogłabym ujeżdżać tego ogiera cały dzień.  
+
+> **🎬 Wstawka wideo:** `CaPss17.mp4` (zapętlone)
+
 **Mox:** Cholera, Carol! Wiesz, czego chcesz.  
 **Carol:** Mamusia wie najlepiej, skarbie.  
 **Carol:** Może podkręcę tempo?  
+
+> **🎬 Wstawka wideo:** `CaPss18.mp4` (zapętlone)
+
 **Carol:** Kurwa! Kurwa!  
 **Mox:** Jesteś taka cholernie gorąca… i tak ciasna wokół mojego kutasa.  
 **Carol:** Mam swoje lata, ale wiem, jak zadowolić mężczyznę.  
+
+> **🎬 Wstawka wideo:** `CaPss19.mp4` (zapętlone)
+
 **Mox:** Zaciska się jak imadło!  
 **Carol:** A ty jesteś twardy jak skała.  
 **Mox:** Nie spodziewałbym się tego po matce.  
 **Carol:** Ale po dziewczynie ze wsi możesz się spodziewać niezłego występu.  
+
+> **🎬 Wstawka wideo:** `CaPss20.mp4` (zapętlone)
+
 **Mox:** Ja pierdolę! Carol!  
 **Carol:** Właśnie tak, kochanie! Wypełnij tę cipkę!  
 **Mox:** O Boże! Długo tak nie wytrzymam!  
+
+> **🎬 Wstawka wideo:** `CaPss21.mp4` (zapętlone)
+
 **Carol:** Ha! Ha! Ha! Ha!  
 **Carol:** Ale mi gorąco…  
 **Mox:** Dojdź dla mnie, Carol. Zalej mojego kutasa!  
+
+> **🎬 Wstawka wideo:** `CaPss22.mp4`
+
 **Carol:** Ooo Boże!  
 **Carol:** To było niesamowite.  
 **Carol:** A teraz wisienka na torcie.  
+
+> **🎬 Wstawka wideo:** `CaPss23.mp4` (zapętlone)
+
 **Mox:** Uwielbiam, jak podskakują ci cycki.  
 **Carol:** No dalej, Mox. Skończ na moich mamuśkowych cyckach. Pokaż mamusi, jak bardzo je uwielbiasz.  
+
+> **🎬 Wstawka wideo:** `CaPss24.mp4`
+
 **Mox:** O tak, kurwa!  
 **Mox:** Carol, było cudownie.  
 **Carol:** Haha. Możesz do nich celować, kiedy tylko zechcesz, skarbie.  
@@ -50894,7 +57311,7 @@
 **Mox:** Wszyscy grzeczni?  
 **Judy:** Będziemy wszyscy spać na tym łóżku?  
 **Mox:** Haha. Ja będę spać na kanapie.  
-**Hannah:** Byłoby strasznie przytulnie mieć Mox z nami.  
+**Hannah:** Byłoby strasznie przytulnie mieć Moxa z nami.  
 **Chloe:** Koniec z gadką o seksie, Hannah.  
 **Hannah:** Nic nie mówiłam!  
 **Mox:** Robi się późno, kiedy pójdziecie spać?  
@@ -51319,6 +57736,8 @@
 
 ## Common Event 380 — SCN - Carol Fuck Creek Heather
 
+> **🎬 Wstawka wideo:** `CaHeCrk1.mp4` (zapętlone)
+
 **Carol:** Nie wstydź się. Zdejmuj bokserki.  
 **Mox:** Chyba zostawię spodenki.  
 **Heather:** Pobrudzisz je.  
@@ -51334,21 +57753,36 @@
 **Heather:** Spokojnie, Mox. Nie będę patrzeć.  
 **Carol:** Słyszysz? Nie będzie patrzeć. A teraz pokaż mamusi.  
 **Mox:** Cholera.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk2.mp4` (zapętlone)
+
 **Carol:** No proszę. Coś cię nieźle podnieciło.  
 **Mox:** Nie rób z tego nic dziwnego.  
 **Heather:** Nie patrzę.  
 **Carol:** Nie ma w tym nic dziwnego, kochanie. To całkiem normalne.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk3.mp4` (zapętlone)
+
 **Carol:** Ona nie patrzy. Pozwól, że się tym zajmę.  
 **Mox:** Co?! Teraz?  
 **Carol:** Sam nie zwiotczeje.  
 **Mox:** Ale Heather jest tuż obok.  
 **Carol:** Nie będzie jej to przeszkadzać.  
 **Mox:** Nie jestem tego pewien.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk4.mp4` (zapętlone)
+
 **Mox:** Carol!...  
 **Mox:** O cholera. Ale przyjemnie.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk5.mp4` (zapętlone)
+
 **Heather:** Pływajcie dalej. Nie będę patrzeć.  
 **Mox:** Nie patrzy…  
 **Mox:** O rany.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk6.mp4` (zapętlone)
+
 **Carol:** Chodź, Mox. Popłyńmy na głębszą wodę.  
 **Mox:** Carol!  
 **Carol:** Nie wstydź się. Woda jest ciepła.  
@@ -51358,14 +57792,26 @@
 **Heather:** Wygląda na to, że dobrze się bawicie.  
 **Carol:** Opalaj się dalej, Heather. Nie chcesz oglądać siusiaka Mox.  
 **Heather:** Hahaha. Och, Carol.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk7.mp4` (zapętlone)
+
 **Carol:** O tak. Właśnie tak, kochanie.  
 **Mox:** Kurwa, nie wierzę, że to robimy.  
 **Carol:** Niegrzeczny, niegrzeczny chłopczyku.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk8.mp4` (zapętlone)
+
 **Carol:** Ależ z niego pływak, Heather.  
 **Mox:** Carol!  
 **Carol:** No dalej, Mox. Zajmijmy się tą erekcją.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk9.mp4` (zapętlone)
+
 **Heather:** Ciekawa technika.  
 **Carol:** Wygląda na to, że ktoś próbuje zerknąć.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk10.mp4` (zapętlone)
+
 **Mox:** Heather!  
 **Heather:** Niegrzeczysz się za moimi plecami?  
 **Mox:** Ja tylko…  
@@ -51374,25 +57820,45 @@
 **Carol:** Nie będzie ci dokuczać! Ruchaj dalej.  
 **Heather:** Wybacz, kochanie. Nie będę patrzeć.  
 **Mox:** O Boże.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk11.mp4` (zapętlone)
+
 **Carol:** O tak! Pieprz mnie!  
 **Mox:** Nie tak głośno, Carol.  
 **Carol:** Chłopak ma niezłego kutasa, to pewne.  
 **Heather:** Bez docinków, Carol.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk12.mp4` (zapętlone)
+
 **Carol:** No dalej, Mox. Daj mi porządnie.  
 **Mox:** Nie patrzy?  
 **Carol:** Odwróciła się. Nie martw się.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk13.mp4` (zapętlone)
+
 **Mox:** Boże, ale jestem napalony.  
 **Carol:** Też tak mam.  
 **Heather:** Skończyłaś?  
 **Carol:** Nie odwracaj się. Chłopak się nie spieszy.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk14.mp4` (zapętlone)
+
 **Carol:** O tak! Pieprz mnie!  
 **Mox:** O Boże. Carol!  
 **Carol:** Napełnij mnie spermą!  
 **Heather:** Jak króliki.  
+
+> **🎬 Wstawka wideo:** `CaHeCrk15.mp4` (zapętlone)
+
 **Carol:** Spuść się we mnie, kochanie. Chcę to poczuć!  
 **Mox:** O, Carol!  
 **Carol:** Dojdź, kochanie! Dojdź!  
 **Mox:** Dochodzę!  
+
+> **🎬 Wstawka wideo:** `CaHeCrk16.mp4`
+
+> **🎬 Wstawka wideo:** `CaHeCrk17.mp4` (zapętlone)
+
 **Carol:** Wygląda na to, że ktoś się dobrze bawił.  
 **Mox:** Cholera. Nie wierzę, że to zrobiliśmy.  
 **Heather:** Skończyłaś?  
@@ -51884,6 +58350,8 @@
 
 ## Common Event 417 — SCN - Toma Fails
 
+> **🎬 Wstawka wideo:** `ElHnChTma1.mp4` (zapętlone)
+
 **Mox:** Cholera! To fragment Tomy!  
 **Ella:** Co takiego?  
 **Chloe:** Niemożliwe! Kolejny magiczny kamień!  
@@ -51891,6 +58359,9 @@
 **Hannah:** Sprawia, że Mox dochodzi bardzo obficie!  
 **Mox:** Ma magiczną moc seksualną… Sześć takich kamieni jest rozrzuconych po North Santiva.  
 **Ella:** Hahaha. Żartujesz.  
+
+> **🎬 Wstawka wideo:** `ElHnChTma2.mp4` (zapętlone)
+
 **Mox:** Przygotujcie się, dziewczyny. Może być ostro.  
 **Hannah:** Wow! Ale się cieszę!  
 **Chloe:** Nie wiem, czy dam radę jeszcze raz.  
@@ -52008,6 +58479,8 @@
 
 ## Common Event 430 — SCN - Hannah Heather Gator
 
+> **🎬 Wstawka wideo:** `HnHeGtr1.mp4` (zapętlone)
+
 **Hannah:** Nie trzeba mnie ratować! Pomóżcie mi zanieść mojego nowego zwierzaka.  
 **Mox:** Związałaś mu pysk?  
 **Hannah:** To nie było łatwe.  
@@ -52015,16 +58488,27 @@
 **Hannah:** To się nazywa zapasy!  
 **Mox:** Nie możesz trzymać aligatora jako zwierzaka.  
 **Hannah:** Jeszcze jak mogę! Muszę go tylko wytresować.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr2.mp4`
+
+> **🎬 Wstawka wideo:** `HnHeGtr3.mp4` (zapętlone)
+
 **Hannah:** /curse  
 **Mox:** Nie było szans, żebyśmy odtransportowali to coś na twoją farmę.  
 **Heather:** A czym byś go karmiła?  
 **Hannah:** Cóż… Mam kozę.  
 **Mox:** Hannah!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr4.mp4` (zapętlone)
+
 **Hannah:** Mox! Robi ci się namiot w spodniach jak żabie przy lampie na owady!  
 **Heather:** Haha. Och, Hannah, umiesz dobrać słowa.  
 **Mox:** Hej! Ale mnie podnieciłaś.  
 **Hannah:** Podoba ci się myśl o dwóch nagich kobietach w lesie?  
 **Mox:** Nie to miałem na myśli.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr5.mp4` (zapętlone)
+
 **Hannah:** Popatrz, Heather! Stoi mu!  
 **Heather:** Wygląda na to, że nie masz jeszcze dość atrakcji na dziś, co, Mox?  
 **Mox:** To znaczy… Jest zimno… Nie wiem, co powiedzieć.  
@@ -52039,48 +58523,104 @@
 **Heather:** Co się stało? To tylko zabawa… Prawda?  
 **Mox:** To znaczy…  
 **Hannah:** No jasne! To tylko zabawa!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr6.mp4` (zapętlone)
+
 **Hannah:** Juhuu! Dawaj!  
 **Heather:** Nie tracisz czasu, co, Hannah?  
 **Mox:** Hannah!  
-**Hannah:** Teraz moja kolej! Chcę ujeżdżać Mox!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr7.mp4` (zapętlone)
+
+**Hannah:** Teraz moja kolej! Chcę ujeżdżać Moxa!  
 **Mox:** To nie zawody!  
 **Heather:** Jak sama powiedziała — teraz nasza kolej.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr8.mp4` (zapętlone)
+
 **Mox:** O tak. Ten dzień robi się coraz lepszy.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr9.mp4` (zapętlone)
+
 **Mox:** Kolejny widok, którego nigdy nie sądziłem, że zobaczę.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr10.mp4` (zapętlone)
+
 **Hannah:** Panno Heather!  
 **Heather:** Co jest, Hannah? Nie dajesz rady?  
 **Hannah:** Nigdy nie pomyślałam, żeby cię pocałować.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr11.mp4` (zapętlone)
+
 **Heather:** Podobało ci się?  
 **Mox:** Mnie na pewno.  
 **Hannah:** A myślałam, że zapasy z aligatorem będą dziś najbardziej szaloną rzeczą, jaką zrobię.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr12.mp4` (zapętlone)
+
 **Hannah:** Hahaha! No, teraz jest zabawa!  
 **Mox:** Ujeżdżaj ją, kowbojko!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr13.mp4` (zapętlone)
+
 **Hannah:** Wylizuj moją cipkę, Heather!  
 **Mox:** Ja pierdolę! Ale niesamowite!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr14.mp4` (zapętlone)
+
 **Heather:** Boże, Hannah! Twoja cipka jest taka pyszna!  
 **Hannah:** Haha! Pannie Heather smakuje moja cipka!  
 **Mox:** Ja pierdolę! Przez was aż pulsuje mi kutas!  
 **Hannah:** Pieprz moje cycki! Rżnij moją cipkę!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr15.mp4` (zapętlone)
+
 **Hannah:** To takie przyjemne!  
 **Mox:** To niesamowite!  
 **Heather:** Odpręż się, Hannah. Polizę cię, a chłopak doprowadzi cię do końca.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr16.mp4` (zapętlone)
+
 **Hannah:** O rany! Co za uczucie!  
 **Mox:** Kurwa! Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr17.mp4` (zapętlone)
+
 **Hannah:** Nos Heather jest w moim tyłku!  
 **Mox:** A ja jestem w twojej cipce!  
 **Hannah:** Zaraz dojdę!  
 **Mox:** Skończ jej na twarzy!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr18.mp4`
+
+> **🎬 Wstawka wideo:** `HnHeGtr19.mp4` (zapętlone)
+
 **Hannah:** O rany! Ale z ciebie zboczeniec, Mox!  
 **Heather:** Bierz mnie, kochanie! Poczuj Hannah na mojej twarzy i spuść się w mojej cipce!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr20.mp4` (zapętlone)
+
 **Hannah:** Muszę być naprawdę pyszna!  
 **Heather:** Och, Mox! Rżnij mnie mocno!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr21.mp4` (zapętlone)
+
 **Heather:** Tak!  
 **Hannah:** Ale seksownie!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr22.mp4` (zapętlone)
+
 **Hannah:** Naprawdę zalejesz ją spermą?  
 **Heather:** Tak! Wypełnij moją cipkę!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr23.mp4`
+
 **Mox:** Ja pierdolę… Chyba nigdy tak mocno nie doszedłem.  
 **Heather:** Ale mnie wypełniłeś. Czuję to.  
 **Hannah:** Ja też chcę!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr24.mp4` (zapętlone)
+
 **Heather:** Ach! Ostrożnie, Hannah. Jestem tam bardzo wrażliwa.  
 **Mox:** Ale z was niegrzeczne dziewczyny.  
 **Heather:** Podoba ci się?  
@@ -52193,43 +58733,90 @@
 
 ## Common Event 467 — SCN - Hannah Alia
 
+> **🎬 Wstawka wideo:** `HnAlGtr1.mp4` (zapętlone)
+
 **Mox:** Cholera jasna, Hannah!  
 **Hannah:** Alia nie umie pływać! Musimy ją ratować!  
 **Alia:** Mówiłam wam! Nie umiem pływać!  
 **Hannah:** Spokojnie, umiem robić sztuczne oddychanie!  
+
+> **🎬 Wstawka wideo:** `HnAlGtr2.mp4` (zapętlone)
+
 **Mox:** Hannah… Nie potrzebuje sztucznego oddychania.  
+
+> **🎬 Wstawka wideo:** `HnAlGtr3.mp4` (zapętlone)
+
 **Alia:** Łał! Uratowałeś mnie pocałunkiem!  
 **Hannah:** To się nazywa sztuczne oddychanie. Ratuje ludzi, którzy nie umieją pływać.  
 **Alia:** Jesteś taki mądry!  
+
+> **🎬 Wstawka wideo:** `HnAlGtr4.mp4` (zapętlone)
+
 **Mox:** No cóż… Przynajmniej nikomu nic się nie stało.  
+
+> **🎬 Wstawka wideo:** `HnAlGtr5.mp4` (zapętlone)
+
 **Alia:** Zrobisz mi usta-usta na cipce?  
 **Hannah:** To moja specjalność!  
 **Mox:** To… nie ma sensu.  
+
+> **🎬 Wstawka wideo:** `HnAlGtr6.mp4` (zapętlone)
+
 **Mox:** Cholera, Hannah… Wy dziewczyny nie tracicie czasu.  
 **Alia:** Spokojnie… Hannah jest moją najlepszą przyjaciółką.  
 **Mox:** Ale poznałyście się… jakieś… trzydzieści minut temu.  
+
+> **🎬 Wstawka wideo:** `HnAlGtr7.mp4` (zapętlone)
+
 **Alia:** O Boże! To łaskocze!  
 **Mox:** Co za dziwna para.  
+
+> **🎬 Wstawka wideo:** `HnAlGtr8.mp4` (zapętlone)
+
 **Hannah:** Tak! Tak! Zrób mi usta-usta na cyckach!  
 **Mox:** Hannah… Masz poważne kłopoty… Wiesz o tym?  
+
+> **🎬 Wstawka wideo:** `HnAlGtr9.mp4` (zapętlone)
+
 **Hannah:** Pieprz mnie, tatusiu!  
 **Mox:** Cholera, Hannah… Ale z ciebie wariatka.  
 **Hannah:** Uwielbiasz to!  
+
+> **🎬 Wstawka wideo:** `HnAlGtr10.mp4` (zapętlone)
+
 **Alia:** Ratuj moje sutki, Hannah!  
 **Mox:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `HnAlGtr11.mp4` (zapętlone)
+
 **Alia:** Jest… taka delikatna.  
 **Mox:** To nie ta Hannah, którą znam.  
+
+> **🎬 Wstawka wideo:** `HnAlGtr12.mp4` (zapętlone)
+
 **Hannah:** Podoba mi się twoje ciało, Alio. Cieszę się, że cię nie pożarł.  
 **Alia:** Tak! Ale się cieszę!  
+
+> **🎬 Wstawka wideo:** `HnAlGtr13.mp4` (zapętlone)
+
 **Mox:** Nie możesz trzymać aligatora w domu, Hannah.  
 **Hannah:** Zamknij się i pieprz mnie!  
+
+> **🎬 Wstawka wideo:** `HnAlGtr14.mp4` (zapętlone)
+
 **Hannah:** Tak! Tak!  
 **Alia:** O Boże! Moja cipka!  
 **Mox:** Cholera…  
+
+> **🎬 Wstawka wideo:** `HnAlGtr15.mp4` (zapętlone)
+
 **Hannah:** Daj mi trochę spermy, tatusiu!  
 **Mox:** Kurwa, Hannah…  
 **Alia:** Zaraz dojdę!  
 **Hannah:** Ja też!  
+
+> **🎬 Wstawka wideo:** `HnAlGtr16.mp4`
+
 **Hannah:** Udało nam się!  
 **Alia:** Ależ to była przygoda!  
 
@@ -52365,49 +58952,90 @@
 
 ## Common Event 435 — SCN - Hannah Chloe Idol
 
+> **🎬 Wstawka wideo:** `ChHnIdol1.mp4` (zapętlone)
+
 **Chloe:** Do czego, do cholery, zmierzałaś?  
 **Hannah:** Chciałam go sprzedać, żeby kupić nam łódkę.  
 **Mox:** Wiesz, Hannah, do sprzedaży artefaktów Casuli potrzebujesz licencji.  
 **Hannah:** /curse  
 **Chloe:** Niezła próba, Hannah. Chyba musimy znaleźć inny sposób na kupienie łódki.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol2.mp4` (zapętlone)
+
 **Mox:** Hannah!?  
+
+> **🎬 Wstawka wideo:** `ChHnIdol3.mp4` (zapętlone)
+
 **Chloe:** Za co to było?  
 **Hannah:** Nie wiem. Dziś słodko wyglądasz.  
 **Mox:** Słodko? Nigdy nie używałaś tego słowa.  
 **Hannah:** Może coś mnie podnieciło.  
 **Chloe:** Co zrobiłaś?  
 **Hannah:** Chciałabyś wiedzieć, co?  
+
+> **🎬 Wstawka wideo:** `ChHnIdol4.mp4` (zapętlone)
+
 **Hannah:** Zdejmij spodnie!  
 **Chloe:** Hannah! Jesteś mokra!  
 **Mox:** Chyba Hannah chce, żeby wasza przyjaźń weszła na wyższy poziom.  
 **Chloe:** Dziwne!  
 **Hannah:** No dalej! Już wylizałam ci cipkę!  
 **Mox:** Cipki się nie obciąga, Hannah.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol5.mp4` (zapętlone)
+
 **Hannah:** No dalej! Pozwolę ci possać moje cycki.  
 **Chloe:** Obciąga się kutasy, Hannah! Nie cycki ani cipki.  
 **Mox:** Ma rację.  
 **Hannah:** Obciągasz kutasa! Niczego nie wiesz?  
+
+> **🎬 Wstawka wideo:** `ChHnIdol6.mp4` (zapętlone)
+
 **Mox:** Może pokażesz jej, jak to się robi, Hannah… I zostawisz Chloe w spokoju.  
 **Hannah:** Dobra! Niech ekspertka pokaże ci, jak to się robi.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol7.mp4` (zapętlone)
+
 **Mox:** Dobra robota, Hannah.  
 **Chloe:** To się nazywa obciąganie, głuptasie.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol8.mp4` (zapętlone)
+
 **Mox:** Kiedy Hannah coś sobie wbije do głowy, trudno ją od tego odwieść.  
 **Chloe:** Przyznam… Hannah też wydaje mi się całkiem słodka.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol9.mp4` (zapętlone)
+
 **Hannah:** Wylizasz mi cipkę, Chloe?  
 **Chloe:** Chcesz, żebym cię wylizała?  
 **Hannah:** Tobie też zrobię!  
 **Mox:** Brzmi jak niezły układ.  
 **Chloe:** Dobrze… Spróbuję.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol10.mp4` (zapętlone)
+
 **Hannah:** O rany! Tego się nie spodziewałam.  
 **Mox:** Chyba Chloe się podoba.  
 **Hannah:** Mnie na pewno!  
+
+> **🎬 Wstawka wideo:** `ChHnIdol11.mp4` (zapętlone)
+
 **Mox:** Musisz być pyszna.  
 **Hannah:** Mam nadzieję.  
 **Mox:** Chyba jesteś winna Chloe trochę uwagi.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol12.mp4` (zapętlone)
+
 **Chloe:** O wiele lepiej niż ostatnim razem, Hannah.  
 **Mox:** Nieźle ją rozgrzałaś, Chloe… Hannah cała ocieka.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol13.mp4` (zapętlone)
+
 **Chloe:** Chyba mi się podoba.  
 **Mox:** Założę się, że tak.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol14.mp4` (zapętlone)
+
 **Hannah:** Podoba mi się jej smak!  
 **Chloe:** Naprawdę?  
 **Hannah:** Mniam!  
@@ -52417,22 +59045,40 @@
 **Hannah:** Chcę, żeby nasze cipki się ocierały!  
 **Chloe:** Hę?  
 **Hannah:** Właśnie tak!...  
+
+> **🎬 Wstawka wideo:** `ChHnIdol15.mp4` (zapętlone)
+
 **Chloe:** Cholera!  
 **Hannah:** Wow! Mieszają się nasze soki!  
 **Chloe:** Ja pierdolę! Ocieram się o krocze Hannah.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol16.mp4` (zapętlone)
+
 **Mox:** Dziwię się, że wcześniej tego nie robiłyście.  
 **Hannah:** Dużo nas omijało!  
 **Chloe:** Masz całkowitą rację.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol17.mp4` (zapętlone)
+
 **Hannah:** Ocieraj się o moją cipkę!  
 **Mox:** Ja pierdolę, ale gorąco!  
 **Hannah:** Mam wrażenie, jakbym sikała!  
 **Mox:** Ale niegrzecznie!  
+
+> **🎬 Wstawka wideo:** `ChHnIdol18.mp4` (zapętlone)
+
 **Hannah:** Czuję, że nadchodzi!  
 **Mox:** Cholera! Ja też!  
 **Hannah:** Zaraz polecą fajerwerki!  
+
+> **🎬 Wstawka wideo:** `ChHnIdol19.mp4`
+
 **Chloe:** O kurwa!  
 **Hannah:** Cholera! Daj mi trochę spermy!  
 **Mox:** Naprawdę uwielbiasz spermę, Hannah.  
+
+> **🎬 Wstawka wideo:** `ChHnIdol20.mp4` (zapętlone)
+
 **Hannah:** Uwielbiam, jak łaskocze moje piegi!  
 **Chloe:** Cholera, Hannah.  
 **Mox:** Chyba oboje wiemy, jakie jest nowe zboczenie Hannah.  
@@ -52925,6 +59571,8 @@
 
 ## Common Event 405 — SCN - Girls Dinner
 
+> **🎬 Wstawka wideo:** `ErJuMcChHnElDinner.mp4` (zapętlone)
+
 **Hannah:** Masz ładne włosy, Ello.  
 **Ella:** Podoba ci się?  
 **Judy:** Różowy to taki ładny kolor.  
@@ -52981,7 +59629,7 @@
 **Chloe:** Kiedy wszyscy skończą jeść, możemy przenieść się z rozmową do salonu.  
 **Erica:** Brzmi dobrze.  
 **Ella:** Kolacja była pyszna.  
-**Judy:** Dzięki Mox.  
+**Judy:** Dzięki Moxowi.  
 **Hannah:** Lepiej schowajmy alkohol. Nie chcemy, żeby Heather wiedziała, że piliśmy.  
 
 ---
@@ -53323,10 +59971,20 @@
 
 ## Common Event 475 — SCN - Heather Kitchen
 
+> **🎬 Wstawka wideo:** `HeKchn1.mp4` (zapętlone)
+
 **Mox:** Kolacja?... Nie jestem teraz zbyt głodny…  
 **Mox:** Za to smak twoich ust…  
+
+> **🎬 Wstawka wideo:** `HeKchn2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `HeKchn3.mp4` (zapętlone)
+
 **Heather:** To od razu przejdźmy do deseru.  
 **Mox:** Nie mam nic przeciwko.  
+
+> **🎬 Wstawka wideo:** `HeKchn4.mp4` (zapętlone)
+
 **Heather:** Myślałeś, że kiedykolwiek tak skończymy?  
 **Mox:** Oczywiście. To nie nasz pierwszy raz.  
 **Heather:** Haha. Nie, chodzi mi o…  
@@ -53334,40 +59992,69 @@
 **Heather:** Już wtedy byłeś naszym małym detektywem, który zawsze próbował wszystko rozwiązać.  
 **Heather:** A teraz jesteś moim dużym chłopcem, dorosłym i rozwiązującym prawdziwe sprawy.  
 **Mox:** Pozwól, że przypomnę ci, jaki duży jestem.  
+
+> **🎬 Wstawka wideo:** `HeKchn5.mp4`
+
+> **🎬 Wstawka wideo:** `HeKchn6.mp4` (zapętlone)
+
 **Mox:** I jaki duży wydaje ci się teraz twój chłopiec?  
 **Heather:** O Boże, jaki duży!  
 **Heather:** Tak cudownie mnie wypełniasz.  
+
+> **🎬 Wstawka wideo:** `HeKchn7.mp4` (zapętlone)
+
 **Heather:** A co ze mną? Jestem dość ciasna, kochanie?  
 **Mox:** Ciasnej już być nie może, bo nie mógłbym się ruszyć.  
 **Heather:** Tak ciasna jak Chloe?  
 **Mox:** O tak!  
 **Heather:** Właśnie to lubię słyszeć od mojego dużego chłopca.  
+
+> **🎬 Wstawka wideo:** `HeKchn8.mp4` (zapętlone)
+
 **Heather:** Czasem chciałabym mieć cię tylko dla siebie.  
 **Heather:** Myślisz, że to czyni ze mnie niegrzeczną mamę?  
 **Mox:** Jesteś największą niegrzecznicą, jaką znam!  
 **Heather:** Mam to gdzieś! Uwielbiam twojego kutasa!  
+
+> **🎬 Wstawka wideo:** `HeKchn9.mp4` (zapętlone)
+
 **Heather:** Może to dowodzi, jaka jestem niegrzeczna…  
 **Heather:** Ale muszę się do czegoś przyznać.  
 **Mox:** Do czego?  
 **Heather:** Kiedy patrzyłam, jak ty i Chloe kręcicie się przy tym blacie…  
 **Heather:** …fantazjowałam, że położysz mnie na tym blacie i zerżniesz.  
 **Mox:** Zróbmy to.  
+
+> **🎬 Wstawka wideo:** `HeKchn10.mp4` (zapętlone)
+
 **Heather:** Boże, ale dobrze.  
 **Mox:** Tak, jak sobie wyobrażałaś?  
 **Heather:** Jeszcze lepiej!  
+
+> **🎬 Wstawka wideo:** `HeKchn11.mp4` (zapętlone)
+
 **Heather:** Ale ze mnie zła matka!  
 **Heather:** Chloe może zaraz zejść na dół…  
 **Mox:** Ona wie o naszym związku.  
 **Heather:** Masz rację, ale i tak mam z tego powodu wyrzuty sumienia.  
 **Mox:** Będę musiał zerżnąć cię tak dobrze, że przestaniesz o tym myśleć.  
 **Heather:** Tak! Daj mi porządnie, kochanie!  
+
+> **🎬 Wstawka wideo:** `HeKchn12.mp4` (zapętlone)
+
 **Heather:** Ooo, cholera!  
 **Heather:** Właśnie tak!  
 **Mox:** Może powinienem na chwilę zwolnić…  
 **Heather:** Nawet się nie waż, młody człowieku!  
 **Heather:** Potrzebuję tego!  
+
+> **🎬 Wstawka wideo:** `HeKchn13.mp4` (zapętlone)
+
 **Mox:** Już nadchodzi!  
 **Heather:** Zalej mnie swoją miłością, kochanie!  
+
+> **🎬 Wstawka wideo:** `HeKchn14.mp4`
+
 **Heather:** Mmm, mój duży chłopiec wie, jak traktować damę we własnym domu.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 210.
@@ -53456,9 +60143,14 @@
 
 ## Common Event 373 — SCN - Chloe BJ Heather
 
+> **🎬 Wstawka wideo:** `ChHeBdrBj1.mp4` (zapętlone)
+
 **Heather:** Och! Cześć, Mox.  
 **Mox:** Heather! Nie spodziewałem się, że tu będziesz.  
 **Heather:** Wejdź, właśnie poprawiałam włosy.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj2.mp4` (zapętlone)
+
 **Heather:** Siostra Judy naprawdę lubi się z tobą widywać.  
 **Mox:** Wiesz, odkąd przyjechała do miasta, nie była w żadnej restauracji.  
 **Heather:** Zabierasz ją gdzieś, Mox?  
@@ -53469,15 +60161,26 @@
 **Mox:** Tak. Przyda mi się przerwa od pracy.  
 **Heather:** Skoro już tu jesteś, chcę cię o coś zapytać.  
 **Mox:** O co chodzi, Heather?  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj3.mp4` (zapętlone)
+
 **Heather:** Myślisz, że powinnam zrobić sobie operację powiększenia piersi?  
 **Mox:** Heather!?  
 **Heather:** Co? Pytam poważnie.  
 **Mox:** Jesteś świetna taka, jaka jesteś. Nie musisz robić niczego szalonego.  
 **Heather:** Nie uważasz, że przydałoby mi się trochę większy biust?  
 **Mox:** Twoje piersi wyglądają fantastycznie takie, jakie są.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj4.mp4` (zapętlone)
+
 **Heather:** Och, Mox. Jesteś taki miły.  
 **Mox:** Oczywiście. Jesteś piękna.  
 **Heather:** Wiele dla mnie znaczy, że mówi to taki przystojny mężczyzna.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj5.mp4`
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj6.mp4` (zapętlone)
+
 **Heather:** Carol opowiedziała mi o tobie kilka rzeczy, Mox.  
 **Mox:** Naprawdę? Co powiedziała?  
 **Heather:** Nie powinnam się z tobą tak droczyć.  
@@ -53486,13 +60189,25 @@
 **Heather:** Chcę, żebyś wiedział, że czuję się bardzo kochana.  
 **Mox:** Naprawdę cię kocham, Heather.  
 **Heather:** Wiem, kochanie.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj7.mp4`
+
 **Heather:** Dobrej zabawy dziś wieczorem, kochanie.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj8.mp4`
+
 **Mox:** Chyba dostałem to, czego chciałem.  
 **Chloe:** Psst! Mox!  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj9.mp4` (zapętlone)
+
 **Chloe:** Judy zaraz wejdzie.  
 **Mox:** Potrzebuje skorzystać z toalety?  
 **Chloe:** Chodź tu!  
 **Mox:** Eee… Dobrze.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj10.mp4` (zapętlone)
+
 **Chloe:** Możemy dziś nie znaleźć wolnej chwili, więc chciałam ci coś dać.  
 **Mox:** Dać mi coś?  
 **Chloe:** Jestem ci winna coś wyjątkowego, pamiętasz?  
@@ -53500,28 +60215,54 @@
 **Mox:** O!  
 **Chloe:** No jasne, głuptasie. Chyba o tym nie zapomniałeś?  
 **Mox:** To znaczy… Bez presji… Ale…  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj11.mp4` (zapętlone)
+
 **Chloe:** No chodź. Judy długo nie zabawi.  
 **Mox:** Na pewno tego chcesz, Chloe?  
 **Chloe:** W porządku. Jestem ci to winna.  
 **Mox:** Możesz się wycofać…  
 **Chloe:** Mox! Jestem ci to winna.  
 **Mox:** Och… Oczywiście.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj12.mp4` (zapętlone)
+
 **Chloe:** Cholera, Mox.  
 **Mox:** Dasz sobie z tym radę?  
 **Chloe:** Chyba… tak.  
 **Chloe:** Drzwi są zamknięte?  
 **Mox:** Heh. Tak, zamknąłem je na klucz.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj13.mp4` (zapętlone)
+
 **Mox:** Ach! Tak… Nieźle, Chloe.  
 **Mox:** Użyj języka na czubku.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj14.mp4` (zapętlone)
+
 **Mox:** Och! Przyjemnie.  
 **Mox:** Dobrze ci idzie…  
 **Mox:** Trochę głębiej.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj15.mp4` (zapętlone)
+
 **Mox:** No, teraz mówimy…  
 **Mox:** Bardzo dobrze.  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj16.mp4` (zapętlone)
+
 **Mox:** Ale mi dobrze, Chloe!  
 **Mox:** O cholera! Zaraz przez ciebie dojdę!  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj17.mp4`
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj18.mp4` (zapętlone)
+
 **Mox:** Chloe, wypluj to.  
 **Mox:** Co robisz?  
+
+> **🎬 Wstawka wideo:** `ChHeBdrBj19.mp4`
+
 **Chloe:** Połknęłam!  
 **Mox:** Wow… Wszystko w porządku?  
 **Chloe:** Tak… Nie chciałam nabrudzić na podłogę.  
@@ -53540,23 +60281,50 @@
 
 ## Common Event 342 — SCN - Chloe Hannah Bathroom
 
+> **🎬 Wstawka wideo:** `ChHnBtrm1.mp4` (zapętlone)
+
 **Chloe:** Mox!?  
 **Mox:** Chloe!? Cholera! Nie wiedziałem, że tu jesteś!  
 **Chloe:** Przestań się gapić i wynoś się!  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm2.mp4`
+
 **Mox:** Cholera! Czemu myślałem, że w środku będzie Carol?  
 **Mox:** Cała sympatia, jaką zdobyłem u Chloe, właśnie przepadła…  
 **Mox:** Cholera…  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm3.mp4`
+
+> **🎬 Wstawka wideo:** `ChHnBtrm4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ChHnBtrm5.mp4`
+
 **Mox:** Chloe?  
 **Chloe:** Ja… Muszę się przebrać.  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm6.mp4`
+
 **Mox:** Co do cholery?  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm7.mp4`
+
 **Mox:** Tego się nie spodziewałem.  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm8.mp4` (zapętlone)
+
 **Mox:** Cholera. Przyszedłem tu, licząc na to, że Carol zrobi mi dobrze ręką, a teraz jeszcze bardziej skomplikowałem sprawy z Chloe.  
 **Mox:** Chyba mnie lubi, ale nie chce seksu…  
 **Mox:** Naprawdę chciałbym odwzajemnić jej uczucia… Ale zachowuje się jak dziecko.  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm9.mp4`
+
 **Mox:** Hannah!  
 **Hannah:** Co ci tak długo zajmuje, Mox?...  
 **Hannah:** I co to za namiot w spodniach?  
 **Mox:** Przebieram się…!  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm10.mp4` (zapętlone)
+
 **Hannah:** I jak, do cholery, zamierzasz to ukryć pod dżinsami?  
 **Mox:** Nie wiem… Chodzi o Chloe… Ona…  
 **Mox:** Nieważne.  
@@ -53566,6 +60334,9 @@
 **Mox:** Przecież właśnie zrobiłaś mi to samo!  
 **Hannah:** Przestań udawać świętoszka!  
 **Mox:** Wcale nie! To ty jesteś niesprawiedliwa!  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm11.mp4` (zapętlone)
+
 **Hannah:** No chodź, Mox. Załatwmy to.  
 **Mox:** Hannah!  
 **Hannah:** Musisz rozładować tego sterczącego kutasa, prawda?  
@@ -53575,37 +60346,64 @@
 **Hannah:** Jeśli w środku dnia ciągle będzie ci stawał, ktoś musi ci pomóc.  
 **Mox:** Cholera… Dobra, zróbmy to.  
 **Hannah:** Chodź tu, przystojniaku.  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm12.mp4` (zapętlone)
+
 **Hannah:** Włożysz go, czy nie?  
 **Mox:** Nie ruszaj się.  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm13.mp4`
+
 **Hannah:** Och! Słodki Jezu, ale cudownie!  
 **Mox:** Cholera, Hannah. Rozluźnij się trochę. Jesteś za ciasna.  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm14.mp4` (zapętlone)
+
 **Hannah:** Nie lubisz, kiedy jest ciasno?  
 **Mox:** Tak lepiej. Jest przyjemnie.  
 **Hannah:** Tak jest przyjemnie.  
 **Mox:** Lubisz od tyłu?  
 **Hannah:** Tak.  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm15.mp4` (zapętlone)
+
 **Mox:** Nie wierzę, że znowu to robimy.  
 **Hannah:** Mógłabym się do tego przyzwyczaić, Mox.  
 **Mox:** Może to ty się we mnie zakochujesz.  
 **Hannah:** Eee… Nie wygaduj… głupstw.  
 **Mox:** Lepiej się pospieszmy. Twoja mama może tu wejść.  
 **Hannah:** Chwileczkę… Zmienię pozycję.  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm16.mp4` (zapętlone)
+
 **Hannah:** Miło na ciebie popatrzeć, Mox.  
 **Mox:** Cholera, Hannah. Twoje piegi są cholernie urocze.  
 **Hannah:** Wcześniej mi tego nie mówiłeś.  
 **Mox:** Wcześniej nie tkwiłem po jaja w twojej cipce.  
 **Hannah:** To nieprawda.  
 **Mox:** Jaskinia się nie liczy. Nie widziałem wtedy twojej twarzy.  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm17.mp4` (zapętlone)
+
 **Hannah:** Naprawdę uważasz, że jestem ładna?  
 **Mox:** Oczywiście, Hannah. Czemu miałbym tak nie pomyśleć?  
 **Hannah:** Po prostu nie wiedziałam…  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm18.mp4` (zapętlone)
+
 **Hannah:** Ach! Tak! Mox!  
 **Mox:** Masz cudownie ciasną cipkę.  
 **Hannah:** Ale ciasno, Mox!  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm19.mp4` (zapętlone)
+
 **Mox:** Chyba zaraz dojdę. Ty też dojdziesz?  
 **Hannah:** Tak! Ja też zaraz dojdę, Mox!  
 **Mox:** Spuszczę się na twój brzuch.  
 **Hannah:** Zrób to! Spuść się na mnie!  
+
+> **🎬 Wstawka wideo:** `ChHnBtrm20.mp4`
+
 **Hannah:** Mówiłeś, że na brzuch!  
 **Mox:** O cholera! Przepraszam, Hannah. Wystrzeliło mocniej, niż myślałem.  
 **Hannah:** Musimy poćwiczyć twoje celowanie.  
@@ -53686,6 +60484,8 @@
 ## Mapa 064 — Piętro / event 15 / strona 1
 
 **Mox:** /find  
+
+> **🎬 Wstawka wideo:** `Fig-Heather.mp4` (zapętlone)
 
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
@@ -53768,6 +60568,8 @@
 
 ## Common Event 357 — SCN - Heather Chloe Handjob
 
+> **🎬 Wstawka wideo:** `HeChHj1.mp4` (zapętlone)
+
 **Chloe:** Cholera. Zapomniałam, jaki jest duży.  
 **Mox:** Nie zrób sobie krzywdy.  
 **Chloe:** Czy będzie bolało?  
@@ -53775,12 +60577,23 @@
 **Chloe:** Ile zajmie ci… dojście?  
 **Mox:** To zależy.  
 **Chloe:** No to jazda…  
+
+> **🎬 Wstawka wideo:** `HeChHj2.mp4`
+
+> **🎬 Wstawka wideo:** `HeChHj3.mp4` (zapętlone)
+
 **Heather:** Chloe! Nie chciałam…  
 **Chloe:** Mamo! Co jest, do cholery?! Nie umiesz zapukać?  
 **Heather:** Ja tylko… Myślałam…  
 **Chloe:** Argh!!! Idę do Hannah!  
+
+> **🎬 Wstawka wideo:** `HeChHj4.mp4`
+
 **Heather:** Chloe! Zaczekaj!  
 **Mox:** No cholera.  
+
+> **🎬 Wstawka wideo:** `HeChHj5.mp4` (zapętlone)
+
 **Heather:** Bardzo przepraszam, kochanie. Nie wiedziałam, że jesteście… tak blisko.  
 **Mox:** Heather… To nie tak… My tylko…  
 **Heather:** Spokojnie, skarbie. Nie musisz się tłumaczyć.  
@@ -53791,11 +60604,17 @@
 **Heather:** Serio?  
 **Mox:** Wiem, że to brzmi dziwnie. Ale… ona jest taka…  
 **Mox:** Nie ma żadnego doświadczenia.  
+
+> **🎬 Wstawka wideo:** `HeChHj6.mp4` (zapętlone)
+
 **Heather:** No proszę, jakie to słodkie…  
 **Heather:** Ale nie robisz tego bezinteresownie.  
 **Mox:** Heather?  
 **Heather:** Zepsułam wam zabawę, prawda?  
 **Mox:** Co robisz?  
+
+> **🎬 Wstawka wideo:** `HeChHj7.mp4` (zapętlone)
+
 **Heather:** Chodź, kochanie. Zajmę się tobą.  
 **Mox:** Co?!  
 **Heather:** Śmiało. Możesz dotykać.  
@@ -53805,6 +60624,9 @@
 **Heather:** Nie jesteś już małym chłopcem. Nie bój się tak.  
 **Mox:** Ale…  
 **Heather:** Żadnych ale, młody człowieku. Dotknij mnie… wszystko w porządku.  
+
+> **🎬 Wstawka wideo:** `HeChHj8.mp4` (zapętlone)
+
 **Heather:** No i?  
 **Mox:** To… przyjemne.  
 **Heather:** Tylko przyjemne?  
@@ -53814,21 +60636,36 @@
 **Heather:** Nigdy nie patrzyłeś na mnie jak na obiekt pożądania.  
 **Mox:** Nie.  
 **Heather:** Już dobrze, kochanie.  
+
+> **🎬 Wstawka wideo:** `HeChHj9.mp4` (zapętlone)
+
 **Heather:** Muszę przyznać, że tak szybko dorosłeś, że nie wiedziałam, jak zareagować…  
 **Heather:** Bardzo się do ciebie przywiązałam.  
 **Mox:** Ale…  
 **Heather:** Już dobrze, Mox. Teraz już wszystko w porządku.  
+
+> **🎬 Wstawka wideo:** `HeChHj10.mp4` (zapętlone)
+
 **Heather:** No proszę. Nie wyobrażałam sobie ładniejszego kutasa.  
 **Mox:** Podoba ci się?  
 **Heather:** Oczywiście!  
 **Mox:** Masz niesamowite ciało, Heather.  
+
+> **🎬 Wstawka wideo:** `HeChHj11.mp4` (zapętlone)
+
 **Heather:** Dotknij go, Mox. Możesz.  
 **Mox:** Mam takie mieszane uczucia.  
 **Heather:** Odpuść. Po prostu skup się na chwili.  
 **Mox:** To jest… takie niewłaściwe.  
 **Heather:** Ale wcale nie. Widzę, że jakaś część ciebie wie, że to właściwe.  
+
+> **🎬 Wstawka wideo:** `HeChHj12.mp4`
+
 **Mox:** Heather! Tak szybko doszedłem… Nie wiedziałem…  
 **Heather:** W porządku, Mox. To było ekscytujące.  
+
+> **🎬 Wstawka wideo:** `HeChHj13.mp4` (zapętlone)
+
 **Heather:** Popatrz na mnie, kochanie.  
 **Mox:** …  
 **Heather:** Wszystko dobrze.  
@@ -53880,6 +60717,8 @@
 
 ## Common Event 412 — SCN - Chloe First Pussy
 
+> **🎬 Wstawka wideo:** `ChFrstBdr1.mp4` (zapętlone)
+
 **Mox:** Chloe?  
 **Chloe:** Zabiłeś kilka mrówek, Mox. Żaden z ciebie bohater.  
 **Mox:** Tylko się droczyła.  
@@ -53889,6 +60728,9 @@
 **Mox:** To znaczy… W pewnym sensie to robimy.  
 **Chloe:** Staram się, Mox… Chcę być lepszym człowiekiem.  
 **Mox:** Nie musisz być święta, żeby być dobrym człowiekiem…  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr2.mp4` (zapętlone)
+
 **Mox:** Jeśli będziesz brać przykład z siostry Judy, możesz oszaleć.  
 **Chloe:** Heh. Nie wiem, jak ona to robi.  
 **Mox:** Tylko to zna.  
@@ -53903,42 +60745,91 @@
 **Chloe:** Nie. Nie mów tak. Byłam za młoda… Postąpiłeś właściwie.  
 **Mox:** Cóż… Teraz już jestem.  
 **Chloe:** … Jesteś.  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ChFrstBdr4.mp4` (zapętlone)
+
 **Chloe:** Nie jestem święta, Mox.  
 **Mox:** I to w porządku?  
 **Chloe:** Tak jest.  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr5.mp4` (zapętlone)
+
 **Mox:** Och, tak…  
 **Mox:** Jesteś seksowną kobietą.  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr6.mp4` (zapętlone)
+
 **Mox:** Twoje usta są takie miękkie na moim kutasie…  
 **Mox:** Tak delikatnie się z nim obchodzisz.  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr7.mp4` (zapętlone)
+
 **Chloe:** Może lubię zaczynać powoli.  
 **Mox:** Jeśli próbujesz doprowadzić mnie do szaleństwa, udaje ci się.  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr8.mp4` (zapętlone)
+
 **Chloe:** Ach! To… To przyjemne.  
 **Mox:** Masz tam tak ciepło.  
 **Chloe:** Naprawdę tego chcę, Mox.  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr9.mp4` (zapętlone)
+
 **Mox:** Na pewno?  
 **Chloe:** Jestem… gotowa.  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr10.mp4` (zapętlone)
+
 **Chloe:** Naprawdę to zrobimy?  
 **Mox:** W porządku, Chloe.  
 **Chloe:** Jestem teraz szczęśliwa, Mox.  
 **Mox:** Ja też.  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr11.mp4`
+
+> **🎬 Wstawka wideo:** `ChFrstBdr12.mp4` (zapętlone)
+
 **Chloe:** O Boże! Tak bardzo tego chciałam.  
 **Mox:** Ale mi dobrze, Chloe.  
 **Chloe:** Idealnie.  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr13.mp4` (zapętlone)
+
 **Mox:** Dobrze ci idzie.  
 **Chloe:** Jest tak głęboko we mnie.  
 **Mox:** W środku jesteś taka ciasna i ciepła.  
 **Chloe:** Och! Jestem wypełniona… Cała sperma jest we mnie!  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr14.mp4` (zapętlone)
+
 **Mox:** Ach! Tak! Jesteś taka seksowna.  
 **Chloe:** Chcę tego! O Boże!  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr15.mp4` (zapętlone)
+
 **Mox:** Bierz, Chloe. Weź mojego kutasa.  
 **Chloe:** Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr16.mp4` (zapętlone)
+
 **Mox:** Ale słodki tyłeczek…  
 **Chloe:** Jestem taka niegrzeczna!  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr17.mp4` (zapętlone)
+
 **Mox:** Och, Chloe!  
 **Chloe:** No dalej, Mox.  
 **Mox:** Ach! Kurwa!  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr18.mp4` (zapętlone)
+
 **Chloe:** Doprowadź mnie do orgazmu!  
 **Mox:** O cholera!  
+
+> **🎬 Wstawka wideo:** `ChFrstBdr19.mp4`
+
 **Mox:** Udało się… Jak się czujesz?  
 **Chloe:** Było cudownie, Mox.  
 
@@ -54087,6 +60978,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Chloe.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -54200,6 +61093,8 @@
 
 ## Common Event 364 — SCN - Judy on Heathers Bed
 
+> **🎬 Wstawka wideo:** `JuMcHR1.mp4` (zapętlone)
+
 **Judy:** Mox, mogę cię o coś zapytać?  
 **Mox:** Oczywiście, że nie.  
 **Judy:** Bardzo chciałabym cię pocałować.  
@@ -54207,9 +61102,15 @@
 **Judy:** Nie, nie… Nie mogę pozwolić sobie na romantyczne uczucia… Wiem…  
 **Judy:** Ale wciąż mogę cię pocałować.  
 **Mox:** No… Dobrze. Co masz na myśli?  
+
+> **🎬 Wstawka wideo:** `JuMcHR2.mp4` (zapętlone)
+
 **Mox:** Och! Hehe… Rozumiem.  
 **Mox:** Hej, spokojnie, Judy. Zwolnij trochę.  
 **Mox:** Naprawdę wciągnęłaś się w te pocałunki bez zobowiązań.  
+
+> **🎬 Wstawka wideo:** `JuMcHR3.mp4` (zapętlone)
+
 **Judy:** Przesadziłam?  
 **Mox:** Cóż, po prostu…  
 **Judy:** Ojej! Tam na dole… To…  
@@ -54217,15 +61118,24 @@
 **Judy:** Myślałam, że te pocałunki nie są romantyczne.  
 **Mox:** To powiedz to mojemu kutasowi.  
 **Judy:** Mox! Nie będę rozmawiać z twoim… penisem.  
+
+> **🎬 Wstawka wideo:** `JuMcHR4.mp4` (zapętlone)
+
 **Mox:** No już, Judy. Nie bój się tak.  
 **Judy:** Jest taki duży… i twardy.  
 **Mox:** Nie bój się. Podejdź i sprawdź.  
 **Judy:** Mogę zobaczyć go… z bliska?  
 **Mox:** Oczywiście.  
+
+> **🎬 Wstawka wideo:** `JuMcHR5.mp4` (zapętlone)
+
 **Judy:** Z bliska wygląda jeszcze straszniej.  
 **Mox:** Nie bój się. Nie ugryzie cię.  
 **Judy:** Boli?  
 **Mox:** Niespecjalnie.  
+
+> **🎬 Wstawka wideo:** `JuMcHR6.mp4` (zapętlone)
+
 **Mox:** Łał!  
 **Judy:** Jest cieplejszy niż wcześniej… Jesteś chory?  
 **Mox:** Nie, nie. Robi się taki, kiedy napływa do niego krew.  
@@ -54234,24 +61144,41 @@
 **Judy:** Czuję, jak się porusza.  
 **Mox:** Porusza się, bo go dotykasz.  
 **Judy:** Naprawdę?  
+
+> **🎬 Wstawka wideo:** `JuMcHR7.mp4` (zapętlone)
+
 **Mox:** O tak!  
 **Judy:** Porusza się szybciej, kiedy nim ruszam.  
 **Mox:** Bo zaraz doprowadzisz go do wytrysku.  
 **Judy:** To, czego próbowaliśmy?  
 **Mox:** Tak.  
+
+> **🎬 Wstawka wideo:** `JuMcHR8.mp4` (zapętlone)
+
 **Judy:** Skąd wiesz?  
 **Mox:** Bo to naprawdę przyjemne.  
 **Judy:** Kiedy to wypłynie?  
 **Mox:** Ach! Bardzo… bardzo niedługo.  
+
+> **🎬 Wstawka wideo:** `JuMcHR9.mp4`
+
+> **🎬 Wstawka wideo:** `JuMcHR10.mp4` (zapętlone)
+
 **Mox:** Coś nie tak, siostro? Za dużo?  
 **Mox:** Nie musisz tego próbować, jeśli ci nie smakuje.  
 **Mox:** …Judy?  
+
+> **🎬 Wstawka wideo:** `JuMcHR11.mp4`
+
 **Judy:** To było takie śliskie.  
 **Mox:** Możesz uważać, że to obrzydliwe. Nie musisz tego robić.  
 **Judy:** Muszę przyznać, że nie spodziewałam się połknąć aż tyle.  
 **Mox:** Chyba powinienem się odwdzięczyć.  
 **Judy:** Co masz na myśli?  
 **Mox:** Zdejmij spódnicę.  
+
+> **🎬 Wstawka wideo:** `JuMcHR12.mp4` (zapętlone)
+
 **Mox:** Teraz ja sprawię ci przyjemność.  
 **Judy:** Jesteś taki dobry, Mox.  
 **Mox:** Chętnie pokażę ci, co potrafię zrobić ustami.  
@@ -54259,16 +61186,34 @@
 **Mox:** Tak. Do twojej cipki.  
 **Judy:** Czy to będzie przyjemne?  
 **Mox:** Obiecuję.  
+
+> **🎬 Wstawka wideo:** `JuMcHR13.mp4` (zapętlone)
+
 **Judy:** Ach! Ach!... Łaskocze.  
 **Judy:** Ale… Ojej. Teraz jest przyjemnie.  
+
+> **🎬 Wstawka wideo:** `JuMcHR14.mp4` (zapętlone)
+
 **Judy:** Twój język… jego faktura jest niesamowita!  
 **Judy:** O tak!  
+
+> **🎬 Wstawka wideo:** `JuMcHR15.mp4` (zapętlone)
+
 **Judy:** Ach! Co ty robisz?...  
 **Judy:** To uczucie! Nigdy czegoś takiego nie czułam!  
+
+> **🎬 Wstawka wideo:** `JuMcHR16.mp4` (zapętlone)
+
 **Judy:** To zupełnie co innego niż wcześniej…  
 **Judy:** To takie intensywne!... Czuję, że coś nadchodzi!  
+
+> **🎬 Wstawka wideo:** `JuMcHR17.mp4`
+
 **Mox:** Pyszne.  
 **Judy:** Ojej.  
+
+> **🎬 Wstawka wideo:** `JuMcHR18.mp4` (zapętlone)
+
 **Mox:** Dobrze smakujesz, siostro Judy.  
 **Judy:** Naprawdę?  
 **Mox:** Co o tym myślisz?  
@@ -54781,56 +61726,122 @@
 
 ## Common Event 394 — SCN - Andrea Pussy Sex
 
+> **🎬 Wstawka wideo:** `AdMcArPf1.mp4` (zapętlone)
+
 **Mox:** To jakieś bzdury. Nie chcę mieć z tą akcją nic wspólnego, jeśli ma narażać niewinnych ludzi.  
 **Mox:** Czemu po prostu nie dorwiemy go teraz? Na co czekamy?  
+
+> **🎬 Wstawka wideo:** `AdMcArPf2.mp4` (zapętlone)
+
 **Andrea:** Co o tym sądzisz, detektywie?  
 **Mox:** Andreo!?  
 **Andrea:** Seksowne, nie sądzisz?  
 **Mox:** To znaczy… to… bardzo seksowne.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf3.mp4` (zapętlone)
+
 **Andrea:** Myślę, że tworzymy zgrany zespół, ty i ja.  
 **Mox:** Zespół? Przecież jesteś panią komisarz.  
 **Andrea:** Nasz mały romans z panną Foxx… Masz do tego smykałkę.  
 **Mox:** Nie wiem, czy się do tego nadaję.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `AdMcArPf5.mp4` (zapętlone)
+
 **Andrea:** Zmiany bywają trudne, Mox. Rozumiem…  
 **Mox:** Eech…  
 **Andrea:** Może trochę ci to ułatwię.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf6.mp4` (zapętlone)
+
 **Mox:** O cholera…  
 **Mox:** Andrea… Nie mogę na to pozwolić… Zagrożeni są ludzie, których znam.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf7.mp4` (zapętlone)
+
 **Mox:** Cholera, masz gorące usta…  
 **Mox:** To niesamowite uczucie.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf8.mp4` (zapętlone)
+
 **Andrea:** Dobrze się spisałeś, Mox. Właśnie takiego mężczyzny szukałam.  
 **Mox:** Mam do tego smykałkę, Andreo… Ale moim obowiązkiem jest chronić ludzi… nie komisariat.  
 **Andrea:** Właśnie na własny interes liczę. A twoja lojalność zostanie hojnie wynagrodzona.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf9.mp4`
+
+> **🎬 Wstawka wideo:** `AdMcArPf10.mp4` (zapętlone)
+
 **Andrea:** Panie Canmore! To jest kutas!  
 **Mox:** O cholera, Andreo!...  
+
+> **🎬 Wstawka wideo:** `AdMcArPf11.mp4` (zapętlone)
+
 **Andrea:** Jak to jest pieprzyć panią komisarz North Santivy?  
 **Mox:** Ale dobrze!  
 **Andrea:** Od teraz działamy razem.  
 **Mox:** Ale…  
+
+> **🎬 Wstawka wideo:** `AdMcArPf12.mp4` (zapętlone)
+
 **Andrea:** Oboje dostaniemy to, czego chcemy… a nasi bliscy też na tym skorzystają.  
 **Andrea:** Zagrożenie ze strony Gildii odejdzie w przeszłość.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf13.mp4` (zapętlone)
+
 **Andrea:** Nie będziecie już mieli się czego obawiać.  
 **Andrea:** Wkrótce zrozumiesz dlaczego.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf14.mp4` (zapętlone)
+
 **Andrea:** Jak się teraz czujesz, Mox?  
 **Mox:** Chcę zrozumieć.  
 **Andrea:** Zrozumiesz.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf15.mp4` (zapętlone)
+
 **Andrea:** Właśnie tak! Skosztuj mojej cipki!...  
 **Andrea:** Liż mi łechtaczkę!  
+
+> **🎬 Wstawka wideo:** `AdMcArPf16.mp4` (zapętlone)
+
 **Andrea:** Bądź grzecznym chłopcem, a dam ci wszystko, czego chcesz.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf17.mp4` (zapętlone)
+
 **Mox:** Boże, jesteś taka seksowna.  
 **Andrea:** Ufasz mi?  
 **Mox:** Daj mi powód… Pokaż mi plan.  
 **Andrea:** W porządku. Zasłużyłeś.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf18.mp4` (zapętlone)
+
 **Mox:** Kurwa! Ale dobrze.  
 **Andrea:** Tak, Mox! Pieść moją cipkę!  
+
+> **🎬 Wstawka wideo:** `AdMcArPf19.mp4` (zapętlone)
+
 **Andrea:** Mogłabym się przyzwyczaić do takiego kutasa.  
 **Mox:** Ale jesteś mokra.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf20.mp4` (zapętlone)
+
 **Andrea:** Minęło sporo czasu, kochanie.  
 **Andrea:** A teraz doprowadź mnie do orgazmu.  
+
+> **🎬 Wstawka wideo:** `AdMcArPf21.mp4` (zapętlone)
+
 **Mox:** Kurwa!  
 **Andrea:** Tak! Tak! Daj mi swojego kutasa!  
+
+> **🎬 Wstawka wideo:** `AdMcArPf22.mp4` (zapętlone)
+
 **Mox:** Zaraz dojdę!  
 **Andrea:** Dojdź, Mox! Zalej mnie całym swoim ładunkiem!  
+
+> **🎬 Wstawka wideo:** `AdMcArPf23.mp4`
+
 **Andrea:** Ale jazda.  
 **Mox:** Cholera, Andreo. To było niesamowite.  
 
@@ -55313,6 +62324,8 @@
 
 ## Common Event 329 — SCN - Lillian Erica Dinner
 
+> **🎬 Wstawka wideo:** `LiErDnr1.mp4` (zapętlone)
+
 **Mox:** No więc, co dziś w menu?  
 **Erica:** Mox!  
 **Lillian:** Masz ochotę na coś konkretnego, Mox?  
@@ -55352,6 +62365,9 @@
 **Mox:** Masz gadane.  
 **Lillian:** Pytałeś, co dziś w menu, Mox. Czas się przekonać.  
 **Erica:** Co chcesz zrobić?  
+
+> **🎬 Wstawka wideo:** `LiErDnr2.mp4` (zapętlone)
+
 **Lillian:** Jest piękna, prawda, Mox?  
 **Mox:** Erica jest olśniewająca.  
 **Erica:** Lillian?  
@@ -55361,45 +62377,72 @@
 **Mox:** O co chodzi, Lillian?  
 **Lillian:** Może ty mi powiesz, Mox…  
 **Lillian:** Jak smakuje?  
+
+> **🎬 Wstawka wideo:** `LiErDnr3.mp4` (zapętlone)
+
 **Mox:** O cholera!  
 **Erica:** Aaa!  
 **Lillian:** Wilgotna i niemal gorąca w dotyku…  
 **Lillian:** Wygląda na to, że przewidziałaś moje pragnienie, panno Abraham.  
 **Erica:** Ja… coś podejrzewałam.  
+
+> **🎬 Wstawka wideo:** `LiErDnr4.mp4` (zapętlone)
+
 **Lillian:** Wyrazisty, słodki smak…  
 **Lillian:** Masz szczęście, że w twoim życiu jest tak smakowita kobieta.  
 **Erica:** Kto by pomyślał, że cię to kręci.  
 **Mox:** Czego od nas chcesz, Lillian?  
 **Lillian:** Nie chodzi o to, czego ja od was chcę…  
 **Lillian:** Chodzi o to, czego chcemy od siebie nawzajem.  
+
+> **🎬 Wstawka wideo:** `LiErDnr5.mp4` (zapętlone)
+
 **Lillian:** Nie możesz mnie okłamać w sprawie swoich pragnień.  
 **Mox:** Co mogę powiedzieć? Oboje jesteście piękni.  
 **Lillian:** Chcę zobaczyć cię z nią, Mox.  
 **Mox:** Co!? Tutaj?  
 **Erica:** Hę?  
 **Lillian:** Nie wstydź się…  
+
+> **🎬 Wstawka wideo:** `LiErDnr6.mp4` (zapętlone)
+
 **Lillian:** Nie ma sensu opierać się temu, czego wszyscy pragniemy.  
 **Mox:** Dopiero cię poznałem.  
 **Lillian:** Erikę też dopiero poznałeś, a już czuję, że coś was łączy.  
 **Erica:** Chce przedstawienia? To jej je dajmy, Mox.  
 **Mox:** Na pewno?  
 **Erica:** Pokażmy sobie, jak bardzo sobie ufamy.  
+
+> **🎬 Wstawka wideo:** `LiErDnr7.mp4` (zapętlone)
+
 **Lillian:** Koniec z tajemnicami.  
 **Erica:** Naga jesteś jeszcze piękniejsza, Lillian.  
 **Mox:** Cholera! Czy można sobie wymarzyć lepsze towarzystwo?  
 **Lillian:** Sama myśl o twoim wielkim kutasie w Erice jest niemal nie do zniesienia.  
 **Erica:** No dalej, przystojniaku. Dajmy tej kobiecie to, czego pragnie.  
+
+> **🎬 Wstawka wideo:** `LiErDnr8.mp4` (zapętlone)
+
 **Lillian:** Powiedz mi, co czujesz, Erico.  
 **Erica:** Chcę, żeby był we mnie.  
 **Lillian:** Ja również pragnę zobaczyć jego męskość w tobie.  
+
+> **🎬 Wstawka wideo:** `LiErDnr9.mp4`
+
 **Erica:** O tak!  
 **Lillian:** Wspaniale!  
 **Mox:** Boże, jaka ciasna i mokra.  
+
+> **🎬 Wstawka wideo:** `LiErDnr10.mp4` (zapętlone)
+
 **Erica:** Pieprz mnie, Mox!  
 **Mox:** Tak, Erico!  
 **Lillian:** Cóż za namiętność!  
 **Erica:** Podoba ci się przedstawienie?  
 **Lillian:** Widok jego kutasa wypełniającego cię to prawdziwe dzieło sztuki.  
+
+> **🎬 Wstawka wideo:** `LiErDnr11.mp4` (zapętlone)
+
 **Lillian:** Jakie mam szczęście, że mogę być świadkiem tej więzi między dwojgiem pięknych ludzi.  
 **Erica:** Ależ to podniecające!  
 **Mox:** Twoja cipka drży, Erico!  
@@ -55407,37 +62450,67 @@
 **Erica:** Tak! Tak!  
 **Lillian:** Jestem tylko więźniarką w tej rezydencji. Może możecie mi coś zaoferować.  
 **Erica:** Coś ci zaoferować?  
+
+> **🎬 Wstawka wideo:** `LiErDnr12.mp4` (zapętlone)
+
 **Erica:** O kurwa!  
 **Mox:** Cholera! Jest taka ciasna!  
 **Lillian:** Tak, Erico! Poczuj jego pchnięcia!  
 **Erica:** Ach! Rżnij mnie, Mox!  
+
+> **🎬 Wstawka wideo:** `LiErDnr13.mp4` (zapętlone)
+
 **Lillian:** Wchodź w nią, Mox! Nie obawiaj się o jej delikatne ciało…  
 **Lillian:** Bierz to, czego pragniesz, bez wahania!  
 **Erica:** Tak! Mocniej! Mocniej!  
+
+> **🎬 Wstawka wideo:** `LiErDnr14.mp4` (zapętlone)
+
 **Mox:** Jesteś taka ciasna, Erico!  
 **Erica:** Wbij go we mnie! Rżnij mnie jak zwierzę!  
 **Mox:** Tak! Bierz!  
 **Lillian:** Rżnij ją, Mox. Doprowadź ją do granic.  
+
+> **🎬 Wstawka wideo:** `LiErDnr15.mp4` (zapętlone)
+
 **Erica:** Zaraz doprowadzisz mnie do orgazmu.  
 **Lillian:** Zrób to! Poddaj się żądzy!  
+
+> **🎬 Wstawka wideo:** `LiErDnr16.mp4`
+
 **Erica:** O mój Boże. To było intensywne.  
 **Lillian:** Promieniejesz, Erico. Przeżyłaś coś wspaniałego.  
 **Erica:** Masz całkowitą rację.  
+
+> **🎬 Wstawka wideo:** `LiErDnr17.mp4` (zapętlone)
+
 **Lillian:** Widzę to w twoich oczach. Oddałaś się rozkoszy.  
 **Erica:** Jesteś naprawdę świetną gospodynią, Lillian.  
 **Lillian:** Jesteś gotowa.  
 **Erica:** Jestem gotowa?  
+
+> **🎬 Wstawka wideo:** `LiErDnr18.mp4` (zapętlone)
+
 **Lillian:** Mężczyzna twoich lubieżnych pragnień jest gotów — z pulsującym kutasem i nieposkromioną żądzą, by zasiać w tobie swoje nasienie.  
-**Erica:** Musimy doprowadzić Mox do orgazmu.  
+**Erica:** Musimy doprowadzić Moxa do orgazmu.  
 **Lillian:** Tak, oczywiście. Jego potrzeby są naszymi potrzebami.  
 **Erica:** Co… co mamy zrobić?  
 **Lillian:** Myślę, że wiesz, co będzie dalej.  
+
+> **🎬 Wstawka wideo:** `LiErDnr19.mp4`
+
 **Lillian:** Tak!  
 **Erica:** O Boże. Mox?  
 **Mox:** Nie mogłem się powstrzymać… Muszę dojść.  
+
+> **🎬 Wstawka wideo:** `LiErDnr20.mp4` (zapętlone)
+
 **Lillian:** Rżnie mnie! Jest w mojej cipce!  
 **Erica:** Mox… Rżniesz Lillian.  
 **Mox:** To takie przyjemne!  
+
+> **🎬 Wstawka wideo:** `LiErDnr21.mp4` (zapętlone)
+
 **Lillian:** Czujesz, co robi z moim ciałem, Erico?  
 **Erica:** Czuję.  
 **Lillian:** Leżę na tobie, a on z taką namiętnością wchodzi we mnie.  
@@ -55446,20 +62519,35 @@
 **Lillian:** Powiedz jej, co czujesz, Mox.  
 **Mox:** Jest tak ciepło i przyjemnie.  
 **Erica:** Rżnij ją… Bierz, czego pragniesz.  
+
+> **🎬 Wstawka wideo:** `LiErDnr22.mp4` (zapętlone)
+
 **Lillian:** Ach! Tak! Wchodź we mnie!  
 **Erica:** Lillian! On cię rżnie!  
 **Mox:** Rżnę ją w cipkę, Erico!  
 **Lillian:** Bierz moją cipkę! Bierz!  
+
+> **🎬 Wstawka wideo:** `LiErDnr23.mp4` (zapętlone)
+
 **Erica:** Twoje serce bije jak szalone… Czuję to.  
 **Mox:** O kurwa!  
 **Lillian:** Bierze mnie, Erico.  
+
+> **🎬 Wstawka wideo:** `LiErDnr24.mp4` (zapętlone)
+
 **Mox:** Ale dobrze!  
 **Erica:** Dojdź w niej, Mox!  
 **Mox:** Co?!  
 **Lillian:** Nie powstrzymuj się! Poddaj się temu!  
+
+> **🎬 Wstawka wideo:** `LiErDnr25.mp4` (zapętlone)
+
 **Mox:** Tak bardzo chcę dojść!  
 **Erica:** Wypełnij ją!  
 **Lillian:** Wypuść we mnie swoje nasienie!  
+
+> **🎬 Wstawka wideo:** `LiErDnr26.mp4`
+
 **Lillian:** Tyle nasienia… Czuję, jak spływa z mojej cipki.  
 **Mox:** Nigdy w życiu nie miałem tak silnego orgazmu.  
 **Erica:** To było niesamowite… Nie wiedziałam, że mogę tak się czuć.  
@@ -55467,6 +62555,9 @@
 **Erica:** Praca?  
 **Lillian:** Pokojówka musi posprzątać każdy bałagan… A Mox narobił niezłego.  
 **Erica:** … Tak, Lillian.  
+
+> **🎬 Wstawka wideo:** `LiErDnr27.mp4` (zapętlone)
+
 **Lillian:** Dobrze, Erico…  
 **Lillian:** Skosztuj soków swojego mężczyzny zmieszanych z moimi…  
 **Lillian:** Nagroda godna wiernej służącej.  
@@ -55645,53 +62736,108 @@
 
 ## Common Event 374 — SCN - Lillian Dining Solo
 
+> **🎬 Wstawka wideo:** `LiDnRmFk1.mp4` (zapętlone)
+
 **Lillian:** Przez ciebie zaraz będę zazdrosna, Mox.  
 **Mox:** My… Chciałyśmy tylko trochę zaszaleć w kuchni.  
 **Lillian:** Podnieca cię potajemne wymykanie się?  
 **Mox:** Nie chciałem nic złego, Lillian. Po prostu… Jestem napalonym facetem. Co poradzę?  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `LiDnRmFk3.mp4` (zapętlone)
+
 **Lillian:** W twojej głowie kłębią się wątpliwości. Czuję to.  
 **Lillian:** Kieruje tobą nieposkromiona ciekawość… Teraz to widzę.  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk4.mp4` (zapętlone)
+
 **Lillian:** Grzeczny chłopiec. Ssij moją pierś.  
 **Lillian:** Pochodzimy z różnych światów, a jednak coś nas łączy.  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk5.mp4` (zapętlone)
+
 **Mox:** Lillian?  
 **Lillian:** Nieważne, skąd pochodzimy. To właśnie nas łączy.  
 **Mox:** Mój kutas?  
 **Lillian:** Seksualność, Mox.  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk6.mp4` (zapętlone)
+
 **Lillian:** Pokażę ci rozkosz, a ty w zamian sprawisz ją mnie.  
 **Mox:** Oczywiście… Lillian.  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk7.mp4` (zapętlone)
+
 **Lillian:** Tak… Bardzo dobrze. Wypij wszystko.  
 **Lillian:** Brakuje ci duchowej strony, Mox…  
 **Lillian:** Możesz nie rozumieć mojego powołania, ale z czasem zrozumiesz.  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk8.mp4` (zapętlone)
+
 **Lillian:** Przyniosłam spokój wielu osobom…  
 **Lillian:** Dałam cel tym, którzy zgubili drogę.  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk9.mp4` (zapętlone)
+
 **Lillian:** O tak!…  
 **Lillian:** Skosztuj mnie! Skosztuj mojej cipki!  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk10.mp4` (zapętlone)
+
 **Lillian:** Niech moje soki w ciebie wsiąkną!  
 **Lillian:** Pij mnie, Mox! Pij!  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk11.mp4`
+
 **Lillian:** Pyszne, prawda?  
 **Mox:** Cholera, Lillian.  
 **Lillian:** Mam ci jeszcze tyle do zaoferowania.  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk12.mp4` (zapętlone)
+
 **Mox:** Masz rację, Lillian. Nie jestem uduchowiony. Ale widziałem dość, by wierzyć, że coś tam jest.  
 **Lillian:** Być może twoja podróż dopiero się zaczyna.  
 **Mox:** Czego właściwie tu uczysz?  
 **Lillian:** To miejsce jest zimne, Mox. Jestem tu, by wnieść ciepło.  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk13.mp4` (zapętlone)
+
 **Mox:** O kurwa!  
 **Lillian:** Zagubione dusze, które trafiły do mojego domu, szukają czułego dotyku matki.  
 **Mox:** Uważasz ich za swoje dzieci?  
 **Lillian:** Tak. To nadaje mojemu życiu sens.  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk14.mp4` (zapętlone)
+
 **Mox:** To czemu nie zostać prawdziwą matką?  
 **Lillian:** Na czym polega bycie matką, jeśli nie na bezwarunkowej miłości i opiece nad potrzebującymi?  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk15.mp4` (zapętlone)
+
 **Mox:** Tego właśnie udzielasz tym trędowatym?  
 **Lillian:** Gdybym miała taką moc, ofiarowałabym to całemu światu.  
 **Mox:** Wzniosły cel.  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk16.mp4` (zapętlone)
+
 **Lillian:** Nie czujesz tego, Mox?  
 **Mox:** Czuję tę cudownie ciasną cipkę.  
 **Lillian:** Każda podróż zaczyna się od pierwszych kroków…  
 **Lillian:** A teraz pieprz mnie na całego!  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk17.mp4` (zapętlone)
+
 **Mox:** Ach! Tak!... Ale ciasno!  
 **Lillian:** Poczuj to! Poczuj moją ciasną cipkę!  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk18.mp4` (zapętlone)
+
 **Mox:** Ale dobrze! Łaskoczesz mojego kutasa!  
 **Lillian:** Dojdź, Mox! Dojdź dla mnie!  
+
+> **🎬 Wstawka wideo:** `LiDnRmFk19.mp4`
+
 **Lillian:** Cudownie!  
 **Mox:** Cholera, ale dobrze było.  
 
@@ -55886,6 +63032,8 @@
 ---
 
 ## Common Event 332 — SCN - Show Toma to Erica
+
+> **🎬 Wstawka wideo:** `Toma-RightArmC.mp4` (zapętlone)
 
 **Erica:** O cholera! To bożek wiedźmy.  
 **Mox:** Wiesz, co to jest?  
@@ -56151,13 +63299,13 @@
 **Mox:** O cholera!  
 **Andrea:** Wiedziałam, że mogę na tobie polegać, Mox.  
 **Duncan:** Masz tupet, że tu przychodzisz. Zamierzasz mnie zabić?  
-**Ella:** Pomogłam Mox.  
+**Ella:** Pomogłam Moxowi.  
 **Andrea:** Posłuchaj jej. Uratowała mi życie, a pewnie i twoje.  
 **Mox:** Śledziliśmy twojego zbira przez stary bunkier.  
 **Ella:** No tak. Udało nam się go wytropić.  
 **Duncan:** Skurwysyn! Na pewno chciał się na mnie zemścić.  
 **Andrea:** Cóż, już nie żyje.  
-**Duncan:** Dzięki Mox.  
+**Duncan:** Dzięki Moxowi.  
 **Mox:** Co my teraz, do cholery, zrobimy? Udawać, że uciekł?  
 **Duncan:** Zabijmy Morgan, a potem zakopmy oba ciała w lesie.  
 **Andrea:** Duncan! Twoja obsesja na punkcie zemsty doprowadzi mnie do zguby.  
@@ -56206,7 +63354,7 @@
 **Ella:** Jestem twoją kobietą.  
 **Andrea:** Udowodnij to.  
 **Ella:** Zabiłam tego płatnego mordercę. To nie wystarczy?  
-**Andrea:** Mam własne sposoby sprawdzania ludzi wokół siebie… Zapytaj Mox.  
+**Andrea:** Mam własne sposoby sprawdzania ludzi wokół siebie… Zapytaj Moxa.  
 **Mox:** Mówisz poważnie?  
 **Andrea:** Rozbierz się, Morgan Deluna.  
 **Ella:** Mów mi Ella.  
@@ -56215,48 +63363,95 @@
 
 ## Common Event 439 — SCN - Ella Andrea Mansion
 
+> **🎬 Wstawka wideo:** `AdElMsn1.mp4` (zapętlone)
+
 **Ella:** Jestem gotowa odrobić straty… panno Stone.  
 **Andrea:** Możesz mówić mi Andrea Kimura.  
 **Mox:** Cholera, Ello. Zaryzykowałaś wszystko, co?  
 **Ella:** Oczywiście… Ale czy pani Kimura też zaryzykuje wszystko?  
 **Andrea:** Najpierw Nellie, a teraz Ella… Trafiam na same najlepsze dziewczyny.  
+
+> **🎬 Wstawka wideo:** `AdElMsn2.mp4` (zapętlone)
+
 **Andrea:** Co myślisz, kochanie? Zebraliśmy najseksowniejszą ekipę?  
 **Mox:** Łał! Trudno się z tym nie zgodzić.  
-**Ella:** Mamy puścić Mox płazem?  
+**Ella:** Mamy puścić Moxa płazem?  
 **Andrea:** Nie ma mowy.  
+
+> **🎬 Wstawka wideo:** `AdElMsn3.mp4` (zapętlone)
+
 **Andrea:** Bardzo ci zaufałam, Mox.  
 **Mox:** Widziałem różne rzeczy, Andreo… Wiem, kim jesteś.  
 **Andrea:** A teraz stoimy tu… z twoim kutasem w mojej cipce.  
+
+> **🎬 Wstawka wideo:** `AdElMsn4.mp4` (zapętlone)
+
 **Mox:** Co mam powiedzieć?... Jaki mam wybór?  
 **Andrea:** Będę cię chronić, Mox… Zaufaj mi, tak jak ja zaufałam tobie.  
+
+> **🎬 Wstawka wideo:** `AdElMsn5.mp4` (zapętlone)
+
 **Mox:** A co z Nellie? Chce odejść… Chce być z córką.  
 **Andrea:** Nellie sama zdecyduje.  
+
+> **🎬 Wstawka wideo:** `AdElMsn6.mp4` (zapętlone)
+
 **Mox:** Czy ma jakiś wybór?  
 **Andrea:** Każdy ma wybór, Mox.  
+
+> **🎬 Wstawka wideo:** `AdElMsn7.mp4` (zapętlone)
+
 **Ella:** Nie mam pojęcia, o czym wy dwoje, do cholery, mówicie, ale podoba mi się ten nowy układ.  
 **Andrea:** Nie wiesz? Przecież jestem komisarzem policji.  
 **Ella:** A Mox jest detektywem… Jasne… Macie swoich ludzi w środku.  
+
+> **🎬 Wstawka wideo:** `AdElMsn8.mp4` (zapętlone)
+
 **Mox:** Nie należę do Gildii.  
 **Andrea:** Nie myślmy o tym jak o Gildii… Stworzymy własną organizację, na naszych zasadach.  
 **Ella:** O tak, kurwa!  
+
+> **🎬 Wstawka wideo:** `AdElMsn9.mp4` (zapętlone)
+
 **Mox:** W co ja się wpakowałem?...  
 **Mox:** Ale te cipki… Jestem tylko zwykłym facetem.  
+
+> **🎬 Wstawka wideo:** `AdElMsn10.mp4` (zapętlone)
+
 **Mox:** Taka ciasna… Taka seksowna.  
+
+> **🎬 Wstawka wideo:** `AdElMsn11.mp4`
+
 **Andrea:** Uważaj, dziewczyno. Jeszcze się w nim zakochasz.  
 **Ella:** Och, na to już za późno… Ale teraz sprawię, że ty zakochasz się we mnie.  
 **Andrea:** A jak zamierzasz to zrobić?  
 **Ella:** Nauczyłam się czegoś w branży kamerkowej.  
+
+> **🎬 Wstawka wideo:** `AdElMsn12.mp4` (zapętlone)
+
 **Andrea:** Ach! Co do cholery!  
 **Ella:** Trzy, dwa, jeden…  
 **Andrea:** Niesamowite! To ciśnienie we mnie! Jest takie silne!  
+
+> **🎬 Wstawka wideo:** `AdElMsn13.mp4` (zapętlone)
+
 **Mox:** Cholera! Ściska mi kutasa jak w imadle!  
 **Ella:** Zerżnij ją! Wyrżnij ją porządnie!  
+
+> **🎬 Wstawka wideo:** `AdElMsn14.mp4` (zapętlone)
+
 **Andrea:** Tak! Tak! Pieprz mnie!  
 **Mox:** O Boże! Ale intensywnie!  
 **Ella:** Tą ciasną cipką zaraz złamiesz mi nadgarstek!  
+
+> **🎬 Wstawka wideo:** `AdElMsn15.mp4` (zapętlone)
+
 **Andrea:** Zaraz dojdę!  
 **Ella:** Przygotuj się, Mox… Twój kutas zaraz przejdzie przez piekło!  
 **Mox:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `AdElMsn16.mp4`
+
 **Andrea:** O cholera! Jak to zrobiłaś?  
 **Ella:** Dużo ćwiczyłam, pani Kimura.  
 
@@ -56880,6 +64075,10 @@
 
 ## Common Event 403 — SCN - Lillian and Demons
 
+> **🎬 Wstawka wideo:** `LiRift1.mp4`
+
+> **🎬 Wstawka wideo:** `LiRift2.mp4` (zapętlone)
+
 **Mox:** Co to, kurwa, jest!?  
 **Zakapturzona postać:** Idź przed siebie.  
 **Mox:** Jest… tak jasno.  
@@ -56889,11 +64088,22 @@
 **Zakapturzona postać:** Idź, natychmiast!  
 **Mox:** Dobra! Dobra!...  
 **Mox:** No cóż… Raz kozie śmierć.  
+
+> **🎬 Wstawka wideo:** `LiRift3.mp4`
+
+> **🎬 Wstawka wideo:** `LiRift4.mp4`
+
 **Mox:** Co do cholery?… Gdzie ja jestem?  
 **Demon 1:** Spójrzcie, dziewczyny. Świeże mięso.  
+
+> **🎬 Wstawka wideo:** `LiRift5.mp4` (zapętlone)
+
 **Mox:** Czy to kolejny sen?  
 **Demon 2:** Wygląda smakowicie.  
 **Demon 3:** Dziś mamy szczęście.  
+
+> **🎬 Wstawka wideo:** `LiRift6.mp4` (zapętlone)
+
 **Demon 2:** Co jest, człowieku? Boisz się kilku dziewczynek?  
 **Mox:** Ja… To jak sen, który miałem. Czym jesteście?  
 **Demon 3:** Będziemy twoją nową obsesją, chłopczyku.  
@@ -56902,32 +64112,69 @@
 **Demon 1:** Zostań, proszę.  
 **Demon 2:** Będziemy dla ciebie naprawdę, naprawdę miłe.  
 **Demon 3:** Tak! Bardzo przyjazne.  
+
+> **🎬 Wstawka wideo:** `LiRift7.mp4`
+
+> **🎬 Wstawka wideo:** `LiRift8.mp4` (zapętlone)
+
 **Mox:** Lillian!  
 **Lillian:** Już wróciłeś?  
 **Mox:** Co to, do cholery, było za miejsce?  
 **Lillian:** To miejsce rozkoszy, kochanie.  
 **Mox:** Rozkoszy?  
 **Lillian:** Już prawie, Mox. Jeszcze tylko trochę.  
+
+> **🎬 Wstawka wideo:** `LiRift9.mp4` (zapętlone)
+
 **Mox:** O kurwa… Co się dzieje?  
 **Mox:** To niemożliwe… To nie dzieje się naprawdę.  
+
+> **🎬 Wstawka wideo:** `LiRift10.mp4`
+
+> **🎬 Wstawka wideo:** `LiRift11.mp4` (zapętlone)
+
 **Demon 2:** O wiele lepiej.  
 **Demon 3:** Nie zostawiaj nas tak. Wiesz, że jesteśmy bardzo samotne.  
 **Demon 1:** Ma silną wolę, dziewczyny. Użyjcie swojej magii.  
+
+> **🎬 Wstawka wideo:** `LiRift12.mp4` (zapętlone)
+
 **Demon 2:** Ssij moją pierś, człowieku.  
 **Demon 3:** Chyba mu się podoba.  
 **Demon 1:** Dobrze… Dobrze.  
+
+> **🎬 Wstawka wideo:** `LiRift13.mp4` (zapętlone)
+
 **Lillian:** Nie zawiedźcie mnie, panie…  
 **Lillian:** Wciąż się opiera.  
+
+> **🎬 Wstawka wideo:** `LiRift14.mp4` (zapętlone)
+
 **Demon 2:** O tak!  
 **Demon 3:** Właśnie tak… Poddaj się.  
 **Demon 1:** Traci wolę… Czuję to.  
+
+> **🎬 Wstawka wideo:** `LiRift15.mp4` (zapętlone)
+
 **Demon 2:** Podoba ci się ten smak, prawda, człowieku?  
 **Demon 3:** To już prawie koniec.  
+
+> **🎬 Wstawka wideo:** `LiRift16.mp4` (zapętlone)
+
 **Lillian:** O tak! Jego żądza rośnie!...  
 **Lillian:** Działa!  
+
+> **🎬 Wstawka wideo:** `LiRift17.mp4` (zapętlone)
+
 **Lillian:** No dalej, Mox. Pieprz mnie!...  
 **Lillian:** Pokaż, jak bardzo mnie kochasz!  
+
+> **🎬 Wstawka wideo:** `LiRift18.mp4`
+
 **Lillian:** Nadchodzi ta chwila… Boisz się już?  
+
+> **🎬 Wstawka wideo:** `LiRift19.mp4`
+
 **Demon 1:** Hej! Gdzie on się podział!?  
 **Demon 3:** O cholera! Też chciałam spróbować!  
 
@@ -57544,6 +64791,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Lillian.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -57597,7 +64846,7 @@
 
 **Ella:** /greet  
 **Mox:** /greet  
-**Mox:** Uważaj, Ello. Żaden Toma nie jest wart utraty życia.  
+**Mox:** Uważaj, Ello. Żadna Toma nie jest warta utraty życia.  
 **Ella:** Nie martw się o mnie.  
 
 ---
@@ -57732,21 +64981,41 @@
 
 ## Common Event 397 — SCN - Kimberly Toma
 
+> **🎬 Wstawka wideo:** `KiMcToma1.mp4` (zapętlone)
+
 **Kimberly:** Nie wiem. Może chcę mieć większe cycki.  
 **Mox:** Hej! Odłóż to!  
 **Kimberly:** Zaciekawiłeś mnie. Chcę sprawdzić, czy mówisz prawdę.  
 **Mox:** Po tym, co widziałaś, nadal chcesz bawić się magią?  
 **Kimberly:** Chcę zobaczyć więcej.  
 **Mox:** Odłóż to, Kimberly. Nie potrzebujemy magicznego kamienia, żeby się zabawić.  
+
+> **🎬 Wstawka wideo:** `KiMcToma2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `KiMcToma3.mp4` (zapętlone)
+
 **Kimberly:** Rzucasz ostrożność na wiatr, Mox?  
 **Mox:** Jesteśmy tu uwięzieni. Możemy równie dobrze skorzystać z okazji.  
 **Kimberly:** Uwięzieni?  
 **Mox:** Strażnik wrócił… Musimy dać Erice czas na wymyślenie odwrócenia uwagi.  
+
+> **🎬 Wstawka wideo:** `KiMcToma4.mp4` (zapętlone)
+
 **Kimberly:** Ach!  
 **Mox:** Cholera… Chyba to całe skradanie cię podnieca.  
 **Kimberly:** Ty niegrzeczny chłopcze.  
+
+> **🎬 Wstawka wideo:** `KiMcToma5.mp4` (zapętlone)
+
 **Mox:** O tak… Jesteś taka soczysta.  
 **Kimberly:** Kurwa, Mox. Jestem… strasznie napalona.  
+
+> **🎬 Wstawka wideo:** `KiMcToma6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `KiMcToma7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `KiMcToma8.mp4` (zapętlone)
+
 **Kimberly:** Ja pierdolę! Mox!?  
 **Mox:** Co do cholery? Czemu jest was dwóch?  
 **Kimberly:** Dwóch mnie?! To was jest dwóch!  
@@ -57755,40 +65024,78 @@
 **Kimberly:** Nie żartowałeś!  
 **Mox:** Mówiłem… Toma naprawdę istnieje… Musimy się stąd wydostać.  
 **Kimberly:** Chwileczkę…  
+
+> **🎬 Wstawka wideo:** `KiMcToma9.mp4` (zapętlone)
+
 **Kimberly:** Chyba podoba mi się kierunek, w jakim to zmierza.  
 **Mox:** Łał! Dziwne uczucie!  
 **Kimberly:** Dwa potworne kutasy dla panny Foxx… Mniam.  
+
+> **🎬 Wstawka wideo:** `KiMcToma10.mp4` (zapętlone)
+
 **Mox:** Mój kutas! Czuję jednocześnie twoją dłoń i usta!...  
 **Mox:** Ja pierdolę! Ale intensywnie!...  
 **Mox:** Ale mam twardego kutasa…  
+
+> **🎬 Wstawka wideo:** `KiMcToma11.mp4` (zapętlone)
+
 **Mox:** Twoja cipka! Twój język! To niesamowite!  
 **Mox:** To może być najlepsza Toma ze wszystkich!  
+
+> **🎬 Wstawka wideo:** `KiMcToma12.mp4` (zapętlone)
+
 **Mox:** Boże… Wszystkie te uczucia mieszają się ze sobą.  
 **Mox:** Ach! Kurwa!  
+
+> **🎬 Wstawka wideo:** `KiMcToma13.mp4` (zapętlone)
+
 **Kimberly:** O Boże! Nie wytrzymam! Jestem taka cholernie napalona!  
 **Mox:** Tak bardzo chcę cię pieprzyć!  
 **Kimberly:** Pieprz mnie! Obciągnij mi!  
 **Mox:** Masz twarde sutki… Czuję je w ustach!  
+
+> **🎬 Wstawka wideo:** `KiMcToma14.mp4` (zapętlone)
+
 **Kimberly:** Tak, kochanie. Ssij tego cycka…  
 **Kimberly:** Jestem taka wrażliwa. Ale przyjemnie!  
 **Mox:** To Toma… Jej moc na nas działa.  
 **Kimberly:** Chcę waszych kutasów w sobie!  
 **Mox:** Usiądź na moim kutasie, kochanie!  
+
+> **🎬 Wstawka wideo:** `KiMcToma15.mp4` (zapętlone)
+
 **Kimberly:** No dalej. Dajcie mi je.  
 **Mox:** Na pewno? To zadziała?  
 **Kimberly:** Zrób to. Chcę to poczuć.  
+
+> **🎬 Wstawka wideo:** `KiMcToma16.mp4`
+
+> **🎬 Wstawka wideo:** `KiMcToma17.mp4` (zapętlone)
+
 **Kimberly:** Ach! Ach! Jestem wypełniona!  
 **Mox:** Ale gorąco! Tak gładko! Tak… ciasno!  
 **Kimberly:** Nie wierzę, że to robię!  
+
+> **🎬 Wstawka wideo:** `KiMcToma18.mp4` (zapętlone)
+
 **Mox:** Twój tyłek ściska nasadę mojego kutasa!...  
 **Mox:** A twoja gorąca, mokra cipka łaskocze jego czubek!  
 **Kimberly:** Pieprz mnie, kochanie! Wsadźcie we mnie te kutasy!  
+
+> **🎬 Wstawka wideo:** `KiMcToma19.mp4` (zapętlone)
+
 **Kimberly:** Argh! Nie mogę tego znieść!  
 **Mox:** Ale… cholernie… ciasno!  
 **Kimberly:** Rżnij mnie mocno!  
+
+> **🎬 Wstawka wideo:** `KiMcToma20.mp4` (zapętlone)
+
 **Mox:** Bierz je! Bierz moje kutasy!  
 **Kimberly:** Nie wytrzymam! Zaraz dojdę!  
 **Mox:** Kurwa! Ja też!  
+
+> **🎬 Wstawka wideo:** `KiMcToma21.mp4`
+
 **Kimberly:** Ja pierdolę! Jak mocno doszłam!  
 **Mox:** To… koniec.  
 
@@ -57867,7 +65174,7 @@
 **Mox:** Tak, Lillian.  
 **Kimberly:** Rozumiemy.  
 **Zakapturzona postać:** Pozwól mi pomóc. Mogę poszukać fragmentów Tomy.  
-**Lillian:** Absolutnie nie. Musisz pozostać w ukryciu. Musimy zyskać dla Mox na czasie.  
+**Lillian:** Absolutnie nie. Musisz pozostać w ukryciu. Musimy zyskać dla Moxa na czasie.  
 **Zakapturzona postać:** Oczywiście, Matko.  
 **Zakapturzona postać:** Nasz czas dobiega końca. Nie zawiedź Matki.  
 **Mox:** Panuję nad sytuacją.  
@@ -57911,6 +65218,8 @@
 
 ## Common Event 428 — SCN - Erica Nellie Lillian Toma
 
+> **🎬 Wstawka wideo:** `ErNeLiTma1.mp4` (zapętlone)
+
 **Erica:** Kurwa! Ale jestem napalona!  
 **Nellie:** Ja pierdolę! Co za odlot!  
 **Lillian:** Ta moc! Niesamowita!  
@@ -57918,56 +65227,115 @@
 **Erica:** Mox!?  
 **Nellie:** Co się z nim, do cholery, dzieje?  
 **Lillian:** Zaraz się przekonasz.  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma2.mp4` (zapętlone)
+
 **Mox:** Wyglądasz dziś wyjątkowo smakowicie, Erico.  
 **Erica:** O Boże. Chcę, żebyś mnie pieprzył!  
 **Mox:** Wypełnię cię spermą, kochanie!  
 **Erica:** O tak, kurwa!  
 **Nellie:** Ja pierwsza!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma3.mp4` (zapętlone)
+
 **Nellie:** Zerżnij mnie! Zerżnij mnie!  
 **Lillian:** Co!? Nie! Niech pieprzy Ericę!  
 **Nellie:** Spróbuj mnie powstrzymać!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma4.mp4` (zapętlone)
+
 **Erica:** Moja cipka pulsuje! Włóż we mnie kutasa!  
 **Lillian:** Pieprz Ericę, Mox!  
 **Mox:** Och, Nellie! Ale cudownie czuję twoją cipkę!  
 **Lillian:** Aaargh!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma5.mp4` (zapętlone)
+
 **Lillian:** Złaź z niego!  
 **Nellie:** Nie! Nie zmusisz mnie, żebym przestała!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma6.mp4` (zapętlone)
+
 **Lillian:** Psujesz rytuał!  
 **Nellie:** Też zasługuję na spermę!  
 **Lillian:** Sperma jest dla Eriki!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma7.mp4` (zapętlone)
+
 **Nellie:** Ach! To łaskocze!  
 **Erica:** Zliż moją cipkę!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma8.mp4` (zapętlone)
+
 **Lillian:** Usiądź na jego kutasie!  
 **Erica:** Ale jego język jest taki przyjemny!  
 **Nellie:** Doprowadź mnie do orgazmu, kobieto!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma9.mp4` (zapętlone)
+
 **Erica:** Mój tyłek! Wypełnia mój tyłek!  
 **Mox:** Bierz mojego kutasa! Twój tyłek należy do mnie!  
 **Lillian:** Nie w tyłek! Włóż go do jej cipki!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma10.mp4` (zapętlone)
+
 **Erica:** Nie! Zostań w moim tyłku! Zniszcz go!  
 **Mox:** Zaciśnij się! Ściśnij mnie mocno!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma11.mp4` (zapętlone)
+
 **Lillian:** Ocknij się! Masz zadanie do wykonania!  
 **Erica:** Hej! Mój tyłek nie skończył!  
 **Nellie:** Ja też chcę analu!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma12.mp4` (zapętlone)
+
 **Lillian:** Mox!?  
 **Erica:** Mam takie wrażliwe sutki!  
 **Lillian:** Cholera! Ale dobrze.  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma13.mp4` (zapętlone)
+
 **Erica:** Jak to może być takie przyjemne?  
 **Lillian:** Kurwa! Argh!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma14.mp4` (zapętlone)
+
 **Lillian:** O cholera! Nie panuję nad sobą!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma15.mp4` (zapętlone)
+
 **Lillian:** Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma16.mp4`
+
+> **🎬 Wstawka wideo:** `ErNeLiTma17.mp4` (zapętlone)
+
 **Lillian:** Hej! Czekaj! Teraz kolej Eriki!  
 **Nellie:** Wypełnij mi tyłek!  
 **Erica:** Pozwól dziewczynie się zabawić.  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma18.mp4` (zapętlone)
+
 **Mox:** Cholera, Nellie! Ale masz fajny, ciasny tyłek!  
 **Lillian:** Tylko odwlekasz nieuniknione! Musisz pieprzyć Ericę!  
 **Erica:** Zabawmy się, Lillian. Tylko ty i ja.  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma19.mp4` (zapętlone)
+
 **Nellie:** Pieprz mnie w tyłek! O tak!  
 **Mox:** Weź mojego kutasa, Nellie!  
 **Nellie:** Ale ze mnie brudas!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma20.mp4` (zapętlone)
+
 **Mox:** Zaraz dojdę!  
 **Lillian:** Nie! Przestań!  
 **Erica:** Chyba tyłek Nellie jest całkiem niezły.  
 **Nellie:** Ja też zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `ErNeLiTma21.mp4`
+
 **Nellie:** Tak!  
 **Lillian:** Nie!  
 
@@ -57999,7 +65367,7 @@
 **Erica:** Fragmenty Tomy… Przestały świecić.  
 **Mox:** Weźcie je. Wynośmy się stąd.  
 **Wzmocniony sługa:** Aaaa!  
-**Zakapturzona postać:** Nie odbierzecie nam Toma Leolo!  
+**Zakapturzona postać:** Nie odbierzecie nam Tomy Leolo!  
 **Wzmocniony sługa:** Zabijcie ich!  
 **Zakapturzona postać:** Nie róbcie im krzywdy!  
 **Brian:** Zabieramy fragmenty Tomy.  
@@ -58021,7 +65389,7 @@
 
 ## Mapa 125 — Wejście do szczeliny / event 63 / strona 1
 
-**Tasha:** Wygląda na to, że Duncan nie zabił Mox.  
+**Tasha:** Wygląda na to, że Duncan nie zabił Moxa.  
 **Brian:** No najwyższy czas. Co cię tak zatrzymało?  
 **Mox:** Yyy… Bez konkretnego powodu.  
 **Mox:** Dokąd poszli Henry i Diana?  
@@ -58060,14 +65428,26 @@
 
 ## Common Event 441 — SCN - Erica Melissa Andrea Toma
 
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma1.mp4` (zapętlone)
+
 **Mox:** Wszystko w porządku?  
 **Erica:** Kocham cię, Mox.  
 **Mox:** Gdzie są twoje ubrania?  
 **Erica:** Słyszałeś, co powiedziałam?... Jesteś moim kochankiem.  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma2.mp4`
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma3.mp4` (zapętlone)
+
 **Mox:** Melisso?  
 **Melissa:** Mox! To Lillian!  
 **Andrea:** Hej! Złaź ze mnie! Nic nie widzę!  
 **Mox:** Melissa! Erica! Zamknijcie oczy!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma4.mp4`
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma5.mp4` (zapętlone)
+
 **Andrea:** Co się dzieje? Co to był za dźwięk?  
 **Erica:** Dziwnie się czuję…  
 **Melissa:** Coś jest nie tak… Ja też coś czuję.  
@@ -58077,55 +65457,115 @@
 **Lillian:** Tak, moje dziecko.  
 **Mox:** To była pułapka…  
 **Lillian:** Można na tobie polegać, Mox.  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma6.mp4`
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma7.mp4` (zapętlone)
+
 **Mox:** Aaargh!  
 **Andrea:** Opuśćcie mnie! Co się ze mną dzieje?!  
 **Kimberly:** Tak! Tak! Już to czuję!  
 **Melissa:** Kurwa! Znowu robię się napalona!  
 **Erica:** Tomo!  
 **Mox:** Niech ktoś mi obciągnie! Natychmiast!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma8.mp4` (zapętlone)
+
 **Andrea:** To niemożliwe!  
 **Erica:** To prawda, panno Kimura… Toma na nas działa.  
 **Andrea:** Robię się… mokra.  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma9.mp4` (zapętlone)
+
 **Andrea:** Ale to niesamowite uczucie!  
 **Mox:** Nie możemy się temu oprzeć! Moc Tomy jest zbyt silna!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma10.mp4` (zapętlone)
+
 **Andrea:** Taka silna!... Wylizuj moją cipkę!  
 **Mox:** Mam wrażenie, że kutas mi zaraz eksploduje!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma11.mp4` (zapętlone)
+
 **Kimberly:** Kurwa! Jesteś taki wielki!  
 **Mox:** Toma wyprała ci mózg, Kimberly!  
 **Kimberly:** Muszę się pieprzyć! Potrzebuję twojego kutasa!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma12.mp4` (zapętlone)
+
 **Andrea:** Panno Foxx! Posunęłaś się za daleko! Nie powinnaś tu być.  
 **Kimberly:** Czy to ma teraz jakieś znaczenie?... Spójrz na siebie.  
 **Kimberly:** Będziesz się tu świetnie bawić.  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma13.mp4` (zapętlone)
+
 **Melissa:** Wylizuj moją cipkę, Kimura!  
 **Kimberly:** Pieprz mnie! Rżnij moje dziurki!  
 **Erica:** Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma14.mp4` (zapętlone)
+
 **Mox:** Doprowadź mnie do orgazmu, Kimberly! Mam dla ciebie gorący ładunek!  
 **Kimberly:** Dawaj! Daj mi swoją spermę!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma15.mp4`
+
 **Kimberly:** Tak!  
 **Erica:** Ale porcja!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma16.mp4` (zapętlone)
+
 **Mox:** Cipka Melissy jest taka mokra! Uwielbia mojego wielkiego kutasa!  
 **Andrea:** Co to jest?!  
 **Erica:** Nie kwestionuj Tomy Leolo… Poddaj się żądzy.  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma17.mp4` (zapętlone)
+
 **Kimberly:** Ja pierdolę! Chcę pieprzyć tę niegrzeczną kopię Andrei!  
 **Andrea:** Kopia?!  
 **Erica:** Ale mokro!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma18.mp4`
+
 **Melissa:** O Boże!  
 **Mox:** Chcę więcej!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma19.mp4` (zapętlone)
+
 **Melissa:** Tak, panno Kimura! Chcę poczuć twoją cipkę na swojej!  
 **Andrea:** Panno Bhatt! Tak!  
 **Mox:** Mój kutas tego potrzebuje!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma20.mp4` (zapętlone)
+
 **Andrea:** Poddaję się rozkoszy! Dajcie mi rozkosz!  
 **Melissa:** Tak! Dojdź dla mnie!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma21.mp4`
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma22.mp4` (zapętlone)
+
 **Andrea:** To niesamowite!  
 **Melissa:** Nie wierzę własnym oczom.  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma23.mp4` (zapętlone)
+
 **Kimberly:** Pieprz ją! Weź ją całą, Mox!  
 **Mox:** Jej tyłek i cipka są takie ciasne!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma24.mp4` (zapętlone)
+
 **Andrea:** Cokolwiek to za magia, uwielbiam ją!  
 **Kimberly:** To czysta rozkosz! Właśnie tego nam trzeba!  
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma25.mp4` (zapętlone)
+
 **Melissa:** Dojdź, panno Abraham.  
 **Mox:** Zaraz wystrzelę!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `ErKiMeAdLiTma26.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -58258,11 +65698,18 @@
 
 ## Common Event 460 — SCN - Diana Duncan Fight
 
+> **🎬 Wstawka wideo:** `DiDuFght1.mp4`
+
+> **🎬 Wstawka wideo:** `DiDuFght2.mp4` (zapętlone)
+
 **Diana:** Bezwartościowy ludzki śmieciu!  
 **Duncan:** Pierdol się! Jesteś zwykłym złodziejem!  
 **Diana:** Chcesz się zemścić za utratę swojej ukochanej Gildii?  
 **Duncan:** Nikt, kto ze mną zadziera, nie dożywa, by o tym opowiedzieć.  
 **Diana:** Cóż… Uznaj mnie za pierwszego.  
+
+> **🎬 Wstawka wideo:** `DiDuFght3.mp4`
+
 **Diana:** Zabrać go do więzienia.  
 **Mox:** Diano!  
 
@@ -58660,59 +66107,121 @@
 
 ## Common Event 451 — SCN - Lilith Arianna 7some
 
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm1.mp4`
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm2.mp4`
+
 **Erica:** Co to za uczucie?  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm3.mp4` (zapętlone)
+
 **Lillian:** Po dzisiejszej nocy nie będziesz musiała martwić się o utratę łaski.  
 **Mox:** Hej! Co się dzieje?  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm4.mp4` (zapętlone)
+
 **Lillian:** Dojdź! Złam przysięgę wobec swojego Boga!  
 **Nellie:** Co do cholery? Myślałam, że się umówiliśmy!  
 **Ella:** Próbuje złamać anioła!  
 **Lillian:** Stań się potworem, którego nienawidzisz! Nie utrudniaj sobie tego!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm5.mp4` (zapętlone)
+
 **Ella:** Zostaw ją w spokoju!  
 **Lillian:** Musi stać się demonem! Nie można jej ufać, że uratuje Ericę!  
 **Nellie:** To nie ty o tym decydujesz!  
 **Erica:** Niech ktoś mnie dotknie!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm6.mp4`
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm7.mp4` (zapętlone)
+
 **Lillian:** No, teraz lepiej. Tęskniłam za ciałem sukkuba.  
 **Erica:** Co im zrobiłaś?  
 **Lillian:** Daję im rozkosz, której nie potrafią się oprzeć.  
 **Erica:** Muszą się oprzeć!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm8.mp4`
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm9.mp4` (zapętlone)
+
 **Judy:** Potwór! Atakuje anioła!  
 **Kimberly:** Co tu się, do cholery, dzieje?  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm10.mp4` (zapętlone)
+
 **Nellie:** Poczuj cipkę mamusi!  
 **Ella:** O tak! Poczuj cipkę streamerki!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm11.mp4` (zapętlone)
+
 **Lillian:** Skosztuj jej, aniele! Skosztuj cipki sukkuba!  
 **Judy:** Musimy jej pomóc! Nie pozwólcie, by anioł uległ pokusie!  
 **Mox:** Dorwać ją!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm12.mp4` (zapętlone)
+
 **Kimberly:** Ale to takie odurzające!  
 **Mox:** Kurwa, ale dobrze.  
 **Judy:** Nie! Nie ulegaj pokusie!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm13.mp4` (zapętlone)
+
 **Judy:** Przestań! To nie pora na takie niegrzeczności!  
 **Kimberly:** To idealna pora! Jestem taka napalona!  
 **Erica:** Podniecenie… Czuję podniecenie!  
 **Lillian:** Właśnie tak, aniele. Poczuj to w swoim świętym łonie… nietkniętym i na zawsze pustym.  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm14.mp4` (zapętlone)
+
 **Erica:** Nie… przestawaj… Nie przestawaj.  
 **Lillian:** Tak! Dołącz do mnie! Chodź ze mną do piekła!  
 **Erica:** Nie mogę się powstrzymać! Coś się dzieje!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm15.mp4` (zapętlone)
+
 **Nellie:** Dość zabawy! Pieprz mnie!  
 **Ella:** Nie! Teraz moja kolej!  
 **Lillian:** Zejdź ze mnie!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm16.mp4` (zapętlone)
+
 **Judy:** Mox!  
 **Kimberly:** Zerżnij mnie! Zerżnij mnie!  
 **Judy:** Ależ energicznie poruszasz ustami!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm17.mp4` (zapętlone)
+
 **Lillian:** Przestań mi przeszkadzać!  
 **Nellie:** Połaskocz moją łechtaczkę!  
 **Ella:** Doprowadź mnie do orgazmu, mamusiu!  
 **Erica:** Ależ mokro między nogami.  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm18.mp4` (zapętlone)
+
 **Lillian:** Nie masz pieścić mnie palcami! Zrób to sobie i dojdź!  
 **Nellie:** Pieść mnie palcami! Włóż ich więcej!  
 **Ella:** Nie! Palce są moje! Chcę wszystkie!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm19.mp4` (zapętlone)
+
 **Judy:** Doprowadź mnie do orgazmu, Mox!  
 **Kimberly:** Rżnij moją mokrą cipkę!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm20.mp4` (zapętlone)
+
 **Lillian:** Kurwa!  
 **Nellie:** Ale dobrze! Dawaj!  
 **Erica:** Ale mokro!  
 **Ella:** Chcę zalać cały pokój sokami z cipki!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm21.mp4` (zapętlone)
+
 **Judy:** Tak, Mox! Wylizuj mi cipkę!  
 **Kimberly:** Kurwa! Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `ArLiJuNeErEl7sm22.mp4`
+
 **Erica:** Co się stało?  
 **Lillian:** To jeszcze nie koniec!  
 
@@ -58966,14 +66475,24 @@
 
 ## Common Event 455 — SCN - Hannah Nellie 3some
 
+> **🎬 Wstawka wideo:** `HnNe3sm1.mp4`
+
+> **🎬 Wstawka wideo:** `HnNe3sm2.mp4` (zapętlone)
+
 **Hannah:** Mox! To ta ładna jaskiniowa złodziejka, która próbowała ukraść moją farmę!  
 **Nellie:** Ukradła twoją farmę?  
 **Mox:** Hannah! To Nellie… mama Tashy.  
+
+> **🎬 Wstawka wideo:** `HnNe3sm3.mp4` (zapętlone)
+
 **Hannah:** Nie widzę podobieństwa. Ona nas oszukuje.  
 **Nellie:** Widziałam demona… Myślałam, że jesteście potworami.  
 **Mox:** Hannah… Zostaw ją w spokoju.  
 **Hannah:** Chwila! Już widzę! Ma rude włosy.  
 **Nellie:** Ty też.  
+
+> **🎬 Wstawka wideo:** `HnNe3sm4.mp4` (zapętlone)
+
 **Hannah:** Ma ładne cycki… Tak jak Tasha.  
 **Nellie:** Ty też masz całkiem niezłe.  
 **Hannah:** Naprawdę?  
@@ -58985,41 +66504,77 @@
 **Hannah:** Ty też widziałaś jego kutasa?  
 **Nellie:** Miałam w sobie każdy jego centymetr.  
 **Hannah:** Ja też! Powinnyśmy się zaprzyjaźnić!  
+
+> **🎬 Wstawka wideo:** `HnNe3sm5.mp4` (zapętlone)
+
 **Mox:** Hej! Nie pomagasz…  
 **Mox:** Myślałem, że chciałaś pomóc, Hannah.  
+
+> **🎬 Wstawka wideo:** `HnNe3sm6.mp4` (zapętlone)
+
 **Hannah:** Szukamy już całą wieczność! Zróbmy sobie przerwę!  
 **Mox:** Hannah!  
 **Nellie:** Niegrzeczna dziewczynka! Tak się nie traktuje mężczyzny.  
 **Hannah:** Hahaha! Mox to uwielbia!  
 **Mox:** Wcale nie!  
+
+> **🎬 Wstawka wideo:** `HnNe3sm7.mp4` (zapętlone)
+
 **Mox:** O cholera!  
 **Hannah:** Chyba chce być delikatna. Nie zna cię tak dobrze jak ja.  
 **Mox:** Hannah…  
 **Hannah:** Mox lubi ostrzej!  
+
+> **🎬 Wstawka wideo:** `HnNe3sm8.mp4` (zapętlone)
+
 **Hannah:** Uhu!  
 **Mox:** Ach, kurwa! Hannah!  
 **Nellie:** Cholera, dziewczyno! Ale z ciebie dzikuska!  
+
+> **🎬 Wstawka wideo:** `HnNe3sm9.mp4` (zapętlone)
+
 **Hannah:** Musisz mocno rżnąć tego kutasa!  
 **Mox:** Aaargh!  
 **Nellie:** Nie jestem pewna, czy mu się podoba… Daj, spróbuję.  
+
+> **🎬 Wstawka wideo:** `HnNe3sm10.mp4` (zapętlone)
+
 **Hannah:** Łał, Nellie!  
 **Nellie:** Musisz powoli, kochana. Nie ma co się spieszyć.  
+
+> **🎬 Wstawka wideo:** `HnNe3sm11.mp4` (zapętlone)
+
 **Mox:** To… przyjemne. Ale naprawdę musimy się pospieszyć.  
 **Hannah:** Widzisz! Lubi ostro!  
+
+> **🎬 Wstawka wideo:** `HnNe3sm12.mp4` (zapętlone)
+
 **Nellie:** O kurwa!  
 **Mox:** O kurwa!  
 **Hannah:** Pieprz ją, Mox! Rżnij ją bez opamiętania!  
+
+> **🎬 Wstawka wideo:** `HnNe3sm13.mp4` (zapętlone)
+
 **Mox:** Hannah, przestań!  
 **Nellie:** Nie! Nie przestawaj!  
 **Hannah:** Jeszcze nie dochodź! Ja też chcę dojść!  
+
+> **🎬 Wstawka wideo:** `HnNe3sm14.mp4` (zapętlone)
+
 **Mox:** Auć!  
 **Hannah:** Wylizuj mi cipkę, mamusiu Tashy!  
 **Nellie:** Mmmmm!  
+
+> **🎬 Wstawka wideo:** `HnNe3sm15.mp4` (zapętlone)
+
 **Hannah:** O słodki Jezu! Łaskocze mnie w cipkę!  
 **Mox:** Kurwa! Cipka Nellie zaciska się!  
 **Hannah:** Nie dochodź beze mnie!  
 **Mox:** Hannah! Zejdź ze mnie!  
 **Hannah:** Próbuję! Próbuję!  
+
+> **🎬 Wstawka wideo:** `HnNe3sm16.mp4`
+
 **Mox:** O kurwa…  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -59166,6 +66721,8 @@
 
 ## Common Event 462 — SCN - Ending
 
+> **🎬 Wstawka wideo:** `Ending1.mp4`
+
 **Narrator / mówca nieustalony:** Może dopiero wyprawa do Piekła i z powrotem pozwala naprawdę docenić tych, których kochamy.  
 **Narrator / mówca nieustalony:** A może zbliżają nas do siebie poświęcenia, na które się zdobywamy.  
 **Narrator / mówca nieustalony:** To zabawne, jak wszystko może się zmienić w jednej chwili…  
@@ -59174,14 +66731,26 @@
 **Narrator / mówca nieustalony:** A przeszłość wreszcie może spocząć.  
 **Narrator / mówca nieustalony:** Żaden człowiek nie jest samotną wyspą. Teraz już to rozumiem.  
 **Narrator / mówca nieustalony:** Pozostaje tylko pytanie… Co dalej?  
+
+> **🎬 Wstawka wideo:** `Ending2.mp4`
+
+> **🎬 Wstawka wideo:** `Ending3.mp4` (zapętlone)
+
 **Lillian:** Jaka szkoda…  
 **Lillian:** Prawo się zmienia, a twoi inwestorzy uciekają…  
 **Lillian:** Ludzie tacy jak ty i ja tracą swoje miejsce w tym świecie.  
+
+> **🎬 Wstawka wideo:** `Ending4.mp4`
+
+> **🎬 Wstawka wideo:** `Ending5.mp4` (zapętlone)
+
 **Mówca nieustalony (Bn):** Nie, moja droga… Ten świat potrzebuje właśnie takich ludzi jak my.  
 **Lillian:** Na co więc czekamy, panno Bancroft?  
 **Mówca nieustalony (Bn):** Czekaliśmy na ciebie, Lilith… Czekaliśmy na ciebie.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `Ending6.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -59270,12 +66839,20 @@
 
 ## Common Event 333 — SCN - Hannah Chloe Cave
 
+> **🎬 Wstawka wideo:** `HnChCv1.mp4` (zapętlone)
+
 **Hannah:** To ma być pocałunek? Wasze usta ledwie się stykają!  
 **Hannah:** …  
 **Hannah:** Agh! Pokażę ci, jak to się robi.  
+
+> **🎬 Wstawka wideo:** `HnChCv2.mp4` (zapętlone)
+
 **Chloe:** Aaa!  
 **Chloe:** Ojej!  
 **Chloe:** Hannah!  
+
+> **🎬 Wstawka wideo:** `HnChCv3.mp4` (zapętlone)
+
 **Chloe:** Eee… Mox?  
 **Hannah:** Cholera! Wygląda na to, że zaczyna mu stawać.  
 **Mox:** Hannah! Przestań tam patrzeć!  
@@ -59287,12 +66864,18 @@
 **Mox:** Nie ma mowy!  
 **Chloe:** Może powinniśmy skończyć tę grę w całowanie.  
 **Hannah:** To jeszcze nie koniec.  
+
+> **🎬 Wstawka wideo:** `HnChCv4.mp4` (zapętlone)
+
 **Chloe:** Hannah! Nie!  
 **Hannah:** Nie wymigasz się tak łatwo, Mox!  
 **Mox:** To nie jest częścią gry!  
 **Hannah:** Wprowadzam nowe zasady. Jeśli się podniecisz, pokaż nam swoje klejnoty!  
 **Chloe:** Ale, Hannah…  
 **Hannah:** Zobaczmy, co ma do pokazania.  
+
+> **🎬 Wstawka wideo:** `HnChCv5.mp4` (zapętlone)
+
 **Hannah:** Ale ładny siusiak.  
 **Chloe:** Wszystko w porządku, Mox?  
 **Mox:** Rzeczywiście lepiej, kiedy jest na wierzchu.  
@@ -59319,6 +66902,9 @@
 **Chloe:** Jak to działa?  
 **Mox:** Nigdy nie słyszałem o takiej pozycji.  
 **Hannah:** Aaargh!  
+
+> **🎬 Wstawka wideo:** `HnChCv6.mp4` (zapętlone)
+
 **Hannah:** Jeśli Chloe stchórzy, włóż go we mnie, a ja jej opiszę, jak to jest.  
 **Mox:** Co!? Hannah!  
 **Chloe:** Hannah! Włóż z powrotem ubrania!  
@@ -59326,31 +66912,58 @@
 **Chloe:** Nie rozumiem. Tak się nie gra w butelkę.  
 **Mox:** Zmyśla. Nie ma żadnych zasad.  
 **Hannah:** A właśnie, że są!  
+
+> **🎬 Wstawka wideo:** `HnChCv7.mp4` (zapętlone)
+
 **Mox:** Co do cholery?!  
 **Chloe:** Hannah! Nie!  
 **Hannah:** Włóż mi tego kutasa do cipki! Takie są zasady!  
+
+> **🎬 Wstawka wideo:** `HnChCv8.mp4`
+
 **Hannah:** Aaaa!  
 **Mox:** O cholera.  
+
+> **🎬 Wstawka wideo:** `HnChCv9.mp4` (zapętlone)
+
 **Hannah:** O mój Boże! Jest we mnie!  
 **Mox:** Hannah?  
 **Chloe:** Jakie to uczucie?  
 **Hannah:** To… przyjemne.  
 **Mox:** Dobrze… Już wiesz, jakie to uczucie. Skończyłaś?  
+
+> **🎬 Wstawka wideo:** `HnChCv10.mp4` (zapętlone)
+
 **Hannah:** Kiedy się rusza, jest jeszcze przyjemniej.  
 **Chloe:** Hannah! Nie! Uprawiasz z nim seks!  
 **Mox:** Jesteś taka ciasna… Ależ to przyjemne.  
+
+> **🎬 Wstawka wideo:** `HnChCv11.mp4` (zapętlone)
+
 **Chloe:** Co wy dwoje robicie?  
 **Hannah:** Jeszcze chwilkę… Chcesz wiedzieć, jakie to uczucie, prawda?  
+
+> **🎬 Wstawka wideo:** `HnChCv12.mp4` (zapętlone)
+
 **Chloe:** Mox?  
 **Hannah:** Chloe! Wchodzi naprawdę głęboko!  
 **Chloe:** O mój Boże.  
+
+> **🎬 Wstawka wideo:** `HnChCv13.mp4` (zapętlone)
+
 **Hannah:** Łaskocze… Przyjemnie łaskocze!  
 **Hannah:** Nigdy wcześniej tego nie czułam! Nawet ogórek nie dał mi takiego uczucia!  
 **Chloe:** To jej pierwszy raz…  
 **Hannah:** No dalej, Mox. Doprowadź mnie do orgazmu.  
 **Mox:** Próbuję!  
+
+> **🎬 Wstawka wideo:** `HnChCv14.mp4`
+
 **Hannah:** Czuję coś na plecach.  
 **Chloe:** Przynajmniej masz czystą twarz.  
+
+> **🎬 Wstawka wideo:** `HnChCv15.mp4`
+
 **Hannah:** /curse  
 **Mox:** Przepraszam… Nie sądziłem, że dojdę.  
 
@@ -59553,6 +67166,8 @@
 
 ## Common Event 370 — SCN - Amulet H
 
+> **🎬 Wstawka wideo:** `AmuletH.mp4` (zapętlone)
+
 **Mox:** To wygląda na coś wartościowego…  
 **Mox:** Chwila… To chyba to, czego szukała Lillian…  
 **Mox:** Brakowało jej dwóch takich amuletów…  
@@ -59662,6 +67277,8 @@
 
 ## Common Event 429 — SCN - Carol Chloe Basement
 
+> **🎬 Wstawka wideo:** `CaChBsmt1.mp4` (zapętlone)
+
 **Carol:** Ha! To świerszczyki!  
 **Chloe:** O mój Boże! W katedrze?  
 **Mox:** Heh. Ktoś się tu nieźle bawił.  
@@ -59670,6 +67287,9 @@
 **Carol:** Ale ta kobieta jest zarośnięta!  
 **Mox:** Muszą mieć całe dziesięciolecia.  
 **Chloe:** Tak… owłosiona.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt2.mp4` (zapętlone)
+
 **Mox:** Carol!  
 **Carol:** Wygolona!  
 **Chloe:** Taką lubię.  
@@ -59679,20 +67299,29 @@
 **Chloe:** Co sugerujesz, Carol?  
 **Carol:** Miło, że tu tak cicho…  
 **Mox:** Carol?  
+
+> **🎬 Wstawka wideo:** `CaChBsmt3.mp4` (zapętlone)
+
 **Chloe:** Łał!  
 **Mox:** Carol!  
 **Chloe:** Od jak dawna wy dwoje…?  
 **Mox:** No cóż… Niezbyt długo…  
 **Chloe:** A co z Hannah?  
+
+> **🎬 Wstawka wideo:** `CaChBsmt4.mp4` (zapętlone)
+
 **Carol:** Hannah też ma swoją kolej…  
 **Carol:** No już, wy dwoje. Nie wstydźcie się.  
-**Chloe:** Nie przeszkadza ci, że Hannah sypia z Mox?  
+**Chloe:** Nie przeszkadza ci, że Hannah sypia z Moxem?  
 **Carol:** Oczywiście. Żadna z nas nie chce zagarniać całej zabawy dla siebie. To byłoby niegrzeczne.  
 **Mox:** To tylko zabawa, Chloe.  
 **Chloe:** Mam… się rozebrać?  
 **Carol:** Wstydzisz się?  
 **Chloe:** Po prostu… Nigdy nie widziałaś mnie nago.  
 **Carol:** Mogę powiedzieć to samo… To pierwszy raz dla nas obojga.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt5.mp4` (zapętlone)
+
 **Carol:** Nieźle, dziewczyno! Piersi pięknie ci urosły.  
 **Chloe:** Tak myślisz?  
 **Carol:** Jasne. A Mox też je uwielbia.  
@@ -59701,6 +67330,9 @@
 **Carol:** Podobają ci się moje, Chloe?  
 **Chloe:** Wyglądają na takie miękkie.  
 **Carol:** Nie wstydź się. Dotknij ich.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt6.mp4` (zapętlone)
+
 **Chloe:** Wow! Są naprawdę miękkie.  
 **Mox:** Cholera… Widok was razem naprawdę mnie podnieca.  
 **Carol:** Podoba ci się przedstawienie?  
@@ -59708,8 +67340,14 @@
 **Chloe:** Podoba ci się, Mox?  
 **Mox:** Jak cholera.  
 **Carol:** No dalej, Chloe. Daj mu to, czego chce.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt7.mp4` (zapętlone)
+
 **Carol:** O rany! Czyż to nie raj?  
 **Carol:** Uroczo wyglądacie, ssąc moje sutki.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt8.mp4` (zapętlone)
+
 **Chloe:** Carol!?  
 **Carol:** Myślisz, że mam duże piersi? Zobacz mój tyłek.  
 **Mox:** Masz najlepszy tyłek, Carol.  
@@ -59717,48 +67355,92 @@
 **Mox:** To znaczy… Twój tyłek też mi się podoba, Chloe.  
 **Carol:** Nie każcie mamie czekać.  
 **Chloe:** Hę?  
+
+> **🎬 Wstawka wideo:** `CaChBsmt9.mp4` (zapętlone)
+
 **Carol:** Panie, zmiłuj się!  
 **Chloe:** Och!... To… niesamowite.  
 **Carol:** Wciśnij twarz w mój tyłek, Mox. Używaj języka.  
 **Chloe:** O kurwa.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt10.mp4` (zapętlone)
+
 **Mox:** Chcesz spróbować?  
 **Chloe:** Lizać tyłek Carol!?  
 **Carol:** Nie naciskaj na nią. Jest nieśmiała.  
 **Mox:** To znaczy… Tylko jeśli chcesz.  
 **Chloe:** Dam radę…  
+
+> **🎬 Wstawka wideo:** `CaChBsmt11.mp4` (zapętlone)
+
 **Carol:** O rany! Robi to równie dobrze jak ty, Mox.  
 **Mox:** Cholera! Ale daje czadu.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt12.mp4` (zapętlone)
+
 **Mox:** Jak było?  
 **Chloe:** Jestem taka napalona!  
 **Carol:** Daj chłopakowi robić swoje i chodź tu, dziewczyno. Mama pokaże ci kilka sztuczek.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt13.mp4` (zapętlone)
+
 **Chloe:** O Boże!  
 **Mox:** Cholera! Nie sądziłem, że to zobaczę.  
 **Chloe:** Jesteśmy takie niegrzeczne.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt14.mp4` (zapętlone)
+
 **Mox:** Cipka Carol jest taka ciepła.  
 **Chloe:** Carol, masz niesamowity język.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt15.mp4` (zapętlone)
+
 **Carol:** Daj jej trochę cukru, Mox. Nie pozwól, żebym skradła całe przedstawienie.  
 **Chloe:** Twoje piersi napierają na mnie… To takie… przyjemne.  
 **Mox:** Boże, ale jestem teraz twardy.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt16.mp4` (zapętlone)
+
 **Chloe:** Tak! Mox!  
 **Carol:** Tak trzymaj, dziewczyno.  
 **Mox:** Dobrze mi w tobie, Chloe.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt17.mp4` (zapętlone)
+
 **Carol:** Wygląda na to, że chłopak lubi twoją cipkę.  
 **Chloe:** O Boże. Jesteśmy takie niegrzeczne.  
 **Carol:** Po prostu dobrze się bawimy. Korzystaj z chwili.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt18.mp4` (zapętlone)
+
 **Carol:** O, Mox!  
 **Mox:** Nie zapomniałem o tobie, Carol.  
 **Chloe:** Czuję, jak cię rżnie… To takie niegrzeczne.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt19.mp4` (zapętlone)
+
 **Carol:** Rżnij mnie porządnie, Mox.  
 **Mox:** Uwielbiam cię rżnąć, Carol.  
 **Chloe:** Ale gorąco.  
 **Carol:** Och, Chloe. Wyglądasz dziś naprawdę uroczo.  
 **Chloe:** Och, Carol.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt20.mp4` (zapętlone)
+
 **Mox:** Jezu! Co za widok!  
 **Mox:** Wyglądacie tak seksownie, kiedy się całujecie.  
+
+> **🎬 Wstawka wideo:** `CaChBsmt21.mp4` (zapętlone)
+
 **Mox:** Twoja cipka drży, Chloe…  
 **Mox:** Chyba jej się podoba.  
 **Mox:** Nie wiem, jak długo jeszcze wytrzymam…  
 **Mox:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `CaChBsmt22.mp4`
+
+> **🎬 Wstawka wideo:** `CaChBsmt23.mp4`
+
 **Chloe:** Cholera! Nie wierzę, że to zrobiliśmy.  
 **Carol:** Dobrze się bawiłaś?  
 **Mox:** Ja na pewno!  
@@ -59982,50 +67664,110 @@
 
 ## Common Event 416 — SCN - Nellie Melissa Bunker2
 
+> **🎬 Wstawka wideo:** `NeMeTrap1.mp4` (zapętlone)
+
 **Nellie:** Wreszcie zaczynasz mówić do rzeczy.  
 **Melissa:** Dobry Boże! W takiej chwili?  
 **Mox:** Tak! Zaraz zostaniemy wybawcami North Santivy.  
 **Nellie:** Przekonaj mnie, że wszystko będzie dobrze, kochanie.  
 **Melissa:** Nie chcę mieć z tym nic wspólnego.  
 **Nellie:** A właśnie, że chcesz.  
+
+> **🎬 Wstawka wideo:** `NeMeTrap2.mp4` (zapętlone)
+
 **Nellie:** Jesteśmy w dupie! To chodźmy się pieprzyć!  
 **Mox:** Nie dostaniesz kutasa, dopóki nie przyznasz, że wszystko będzie dobrze.  
 **Melissa:** Przestań!  
+
+> **🎬 Wstawka wideo:** `NeMeTrap3.mp4`
+
 **Nellie:** Tak! Lubię ostro!  
+
+> **🎬 Wstawka wideo:** `NeMeTrap4.mp4` (zapętlone)
+
 **Mox:** Tylko bez kłótni, wy dwoje…  
 **Mox:** Lepiej się uśmiechnijcie; zaraz staniecie przed kamerą.  
+
+> **🎬 Wstawka wideo:** `NeMeTrap5.mp4` (zapętlone)
+
 **Nellie:** Zerżnij ją, Mox. Chcę patrzeć, jak się pieprzycie!  
 **Melissa:** Hej! Puść mnie!  
+
+> **🎬 Wstawka wideo:** `NeMeTrap6.mp4`
+
+> **🎬 Wstawka wideo:** `NeMeTrap7.mp4` (zapętlone)
+
 **Nellie:** O tak! Zerżnij mnie porządnie, kochanie!  
 **Melissa:** Ale z ciebie dziwka!  
+
+> **🎬 Wstawka wideo:** `NeMeTrap8.mp4` (zapętlone)
+
 **Nellie:** O tak! Jestem dziwką dla kutasa Mox!  
 **Mox:** Nie zazdrość, Melisso… Lepiej nie zniszcz sobie fryzury przed kamerami.  
 **Melissa:** Aaargh!  
+
+> **🎬 Wstawka wideo:** `NeMeTrap9.mp4`
+
+> **🎬 Wstawka wideo:** `NeMeTrap10.mp4` (zapętlone)
+
 **Nellie:** Dawaj, dziewczyno!  
 **Melissa:** Kurwa, tak!...  
+
+> **🎬 Wstawka wideo:** `NeMeTrap11.mp4` (zapętlone)
+
 **Mox:** Przestaniecie wreszcie marudzić?  
 **Melissa:** Jeśli te dranie uciekną, skopię ci tyłek, Mox.  
+
+> **🎬 Wstawka wideo:** `NeMeTrap12.mp4` (zapętlone)
+
 **Nellie:** I pomogę ci.  
 **Melissa:** Może chociaż w jednej sprawie się zgadzamy.  
+
+> **🎬 Wstawka wideo:** `NeMeTrap13.mp4` (zapętlone)
+
 **Nellie:** No dalej. Pocałuj go, a potem się pogódźmy.  
 **Mox:** Bez… kłótni… panie.  
 **Nellie:** Skosztuj… Wiesz, że chcesz.  
 **Melissa:** ...  
+
+> **🎬 Wstawka wideo:** `NeMeTrap14.mp4` (zapętlone)
+
 **Nellie:** Łał! Ale ma język!  
 **Mox:** Podoba ci się jej język? Powinnaś poczuć jej cipkę!  
 **Nellie:** Ach!... Tylko… Daj mi szybko wyhodować kutasa, a też spróbuję.  
 **Nellie:** Cholera!... Chyba smakuje jej to, co mam do zaoferowania.  
 **Mox:** A komu by się nie podobało?  
+
+> **🎬 Wstawka wideo:** `NeMeTrap15.mp4`
+
 **Nellie:** Cholera, kobieto! Nie tak ostro!  
 **Melissa:** Myślałam, że lubisz ostro.  
+
+> **🎬 Wstawka wideo:** `NeMeTrap16.mp4` (zapętlone)
+
 **Melissa:** Jak ci się podoba, kryminalistko?  
 **Mox:** Sądząc po jej drżącej cipce, chyba jej się podoba.  
+
+> **🎬 Wstawka wideo:** `NeMeTrap17.mp4` (zapętlone)
+
 **Melissa:** Boże… Naprawdę się dla mnie stara.  
+
+> **🎬 Wstawka wideo:** `NeMeTrap18.mp4` (zapętlone)
+
 **Mox:** To Nellie… Ona wie, jak zadowolić.  
+
+> **🎬 Wstawka wideo:** `NeMeTrap19.mp4` (zapętlone)
+
 **Melissa:** Tak! Tak! Zrób mi to, niegrzeczna dziewczynko!  
 **Mox:** O kurwa! To niesamowite!  
+
+> **🎬 Wstawka wideo:** `NeMeTrap20.mp4` (zapętlone)
+
 **Melissa:** Doprowadza mnie do orgazmu!  
 **Mox:** Cholera! Ja też!  
+
+> **🎬 Wstawka wideo:** `NeMeTrap21.mp4`
+
 **Nellie:** Cóż, przynajmniej zaliczę porządny seks, zanim odejdę.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -60435,10 +68177,15 @@
 
 ## Common Event 301 — SCN - Judy
 
+> **🎬 Wstawka wideo:** `JuSearch1.mp4`
+
 **Narrator / mówca nieustalony:** To coś ma świecić?  
 **Narrator / mówca nieustalony:** Ojej! Panie, miej nas w swojej opiece.  
 **Narrator / mówca nieustalony:** Hej! Wracaj!  
 **Narrator / mówca nieustalony:** Co to, do diabła, jest?  
+
+> **🎬 Wstawka wideo:** `JuSearch2.mp4` (zapętlone)
+
 **Arianna:** Aaaa!  
 **Mox:** Aaaa!  
 **Arianna:** Gdzie ja jestem?  
@@ -60535,9 +68282,14 @@
 
 ## Common Event 323 — SCN - Chloe Judy Attic
 
+> **🎬 Wstawka wideo:** `ChJuAt1.mp4` (zapętlone)
+
 **Mox:** Spokojnie, Chloe, mam cię.  
 **Chloe:** Nie puszczaj!  
 **Judy:** Podaj mi rękę. Wyciągnę cię.  
+
+> **🎬 Wstawka wideo:** `ChJuAt2.mp4` (zapętlone)
+
 **Chloe:** Dziękuję, że mnie uratowałeś.  
 **Mox:** Co tu robiłaś?  
 **Chloe:** Przyszłam tu tylko… się pomodlić.  
@@ -60549,6 +68301,9 @@
 **Judy:** Musimy naprawić zepsuty żyrandol. Pójdę powiedzieć ojcu, że trzeba go naprawić.  
 **Mox:** Zaraz zejdę. Chcę porozmawiać z Chloe na osobności.  
 **Judy:** Dobrze. Uważajcie tutaj na górze.  
+
+> **🎬 Wstawka wideo:** `ChJuAt3.mp4` (zapętlone)
+
 **Chloe:** Czemu chcesz ze mną porozmawiać na osobności?  
 **Mox:** Wiesz dlaczego, Chloe. Popełniłem błąd.  
 **Chloe:** Możesz żyć, jak chcesz, Mox. To Hannah wszystko skomplikowała.  
@@ -60563,6 +68318,11 @@
 **Chloe:** Chcę ci coś pokazać.  
 **Mox:** O co chodzi?  
 **Chloe:** /order  
+
+> **🎬 Wstawka wideo:** `ChJuAt4.mp4`
+
+> **🎬 Wstawka wideo:** `ChJuAt5.mp4` (zapętlone)
+
 **Mox:** Wow! Ale widok!  
 **Chloe:** Prawda, że wspaniale? Las Casula jest o tej porze roku przepiękny.  
 **Mox:** Rozumiem, czemu przychodzisz tu pomyśleć.  
@@ -60600,6 +68360,9 @@
 **Chloe:** Tak myślisz?  
 **Mox:** Oczywiście.  
 **Chloe:** Ty też niczego sobie.  
+
+> **🎬 Wstawka wideo:** `ChJuAt6.mp4`
+
 **Chloe:** Twoja nowa dziewczyna jest naprawdę ładna, Mox…  
 **Chloe:** Nie chcę tego zepsuć.  
 **Mox:** Erica?... Ona pomaga mi…  
@@ -60803,7 +68566,7 @@
 **Erica:** Wiesz… Jest tu całkiem przytulnie.  
 **Mox:** Chodź. Zanieśmy tę książkę ojcu Solomonowi.  
 **Erica:** Dokąd ten pośpiech?  
-**Chloe:** Co? Chcesz pieprzyć się z Mox w kościele?  
+**Chloe:** Co? Chcesz pieprzyć się z Moxem w kościele?  
 **Erica:** No dalej! Będzie ekscytująco!  
 **Chloe:** To znaczy… To chyba lekka przesada, nie?  
 **Mox:** Po prostu chodźmy.  
@@ -60820,46 +68583,93 @@
 
 ## Common Event 421 — SCN - Erica Chloe Attic
 
+> **🎬 Wstawka wideo:** `ChErAtc1.mp4` (zapętlone)
+
 **Erica:** No dalej! Szybciej.  
 **Chloe:** Cholera, dziewczyno! Ale cię to podnieca.  
 **Mox:** Na pewno?  
 **Chloe:** Tylko jeśli się tobą z nią podzieli.  
 **Erica:** Oczywiście!  
+
+> **🎬 Wstawka wideo:** `ChErAtc2.mp4` (zapętlone)
+
 **Erica:** O kurwa!  
 **Mox:** Ktoś idzie?  
 **Chloe:** Spokojnie. Dam znać, jeśli coś usłyszę.  
+
+> **🎬 Wstawka wideo:** `ChErAtc3.mp4` (zapętlone)
+
 **Erica:** Boże! To takie niewłaściwe!  
 **Mox:** Cholera… Szybciej, dojdź już.  
 **Erica:** Ugh! Tak się traktuje damę?  
+
+> **🎬 Wstawka wideo:** `ChErAtc4.mp4` (zapętlone)
+
 **Erica:** Właśnie tam! Pieprz mnie!  
 **Mox:** Tak!  
 **Chloe:** Cicho, wy dwoje! Nie chcemy, żeby nas przyłapano.  
+
+> **🎬 Wstawka wideo:** `ChErAtc5.mp4` (zapętlone)
+
 **Mox:** Podoba ci się, Erico?  
 **Erica:** Mocniej, Mox.  
 **Chloe:** Dawaj. Chcę swojej kolejki, zanim Ojciec zacznie nas szukać.  
+
+> **🎬 Wstawka wideo:** `ChErAtc6.mp4` (zapętlone)
+
 **Erica:** Ach! Tak! Daj mi porządnie!  
 **Mox:** No dalej, kochanie. Dojdź dla mnie.  
+
+> **🎬 Wstawka wideo:** `ChErAtc7.mp4` (zapętlone)
+
 **Chloe:** Cholera! Ale jej dajesz!  
 **Erica:** Kurwa! Dochodzę!  
+
+> **🎬 Wstawka wideo:** `ChErAtc8.mp4`
+
 **Erica:** To było zajebiście fantastyczne!  
 **Mox:** No dalej, Chloe. Teraz twoja kolej.  
+
+> **🎬 Wstawka wideo:** `ChErAtc9.mp4` (zapętlone)
+
 **Chloe:** Pieprz mnie mocno, tak jak Ericę.  
 **Erica:** To niebo, dziewczyno.  
+
+> **🎬 Wstawka wideo:** `ChErAtc10.mp4` (zapętlone)
+
 **Chloe:** O cholera!  
 **Erica:** Ale gorąco!  
 **Mox:** Wszystko w porządku, Chloe?  
 **Chloe:** Jest dobrze, Mox!  
+
+> **🎬 Wstawka wideo:** `ChErAtc11.mp4` (zapętlone)
+
 **Erica:** Nikt nie idzie. Daj jej porządnie.  
 **Chloe:** Dawaj, Mox. Pieprz mnie mocno.  
+
+> **🎬 Wstawka wideo:** `ChErAtc12.mp4` (zapętlone)
+
 **Chloe:** Tak!  
 **Mox:** Bierz mojego kutasa, Chloe.  
 **Erica:** Daj jej!  
+
+> **🎬 Wstawka wideo:** `ChErAtc13.mp4` (zapętlone)
+
 **Chloe:** Jestem blisko.  
 **Mox:** W porządku. Dojdź dla mnie.  
 **Chloe:** Usiądź na mnie!  
 **Mox:** Hę?  
 **Chloe:** Erico… Chcę cię skosztować!  
 **Erica:** O tak!  
+
+> **🎬 Wstawka wideo:** `ChErAtc14.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ChErAtc15.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ChErAtc16.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ChErAtc17.mp4`
+
 **Chloe:** Mox! Doszedłeś we mnie!  
 **Erica:** Szczęściara.  
 
@@ -60915,15 +68725,23 @@
 
 ## Common Event 422 — SCN - Brian reading
 
+> **🎬 Wstawka wideo:** `BrRead1.mp4` (zapętlone)
+
 **Mox:** Czy to właściwa książka?  
 **Brian:** To ta książka. Ale czy są w niej jakieś przydatne informacje?  
 **Erica:** A ta? Jest tu mowa o posągu noszonym przez czarownice.  
 **Chloe:** Posąg? Brzmi obiecująco.  
+
+> **🎬 Wstawka wideo:** `BrRead2.mp4` (zapętlone)
+
 **Brian:** ‘’Demony i poganie sprowadzają na siebie utratę łaski Niebios, czcząc fałszywego bożka.’’  
 **Judy:** To może oznaczać niemal wszystko. Jest tyle fałszywych bożków.  
 **Erica:** ‘’Plemię pogan, prowadzone przez kobiety i kierowane przez diabły z głębin, posługuje się Idolem Dusz, by sprowadzić armię upadłych.’’  
-**Erica:** Hmm… Czarownice z Casuli strzegły Toma Leolo. Może to o nich mowa jako o poganach w tej książce?  
+**Erica:** Hmm… Czarownice z Casuli strzegły Tomy Leolo. Może to o nich mowa jako o poganach w tej książce?  
 **Tasha:** Są tu jakieś ilustracje?  
+
+> **🎬 Wstawka wideo:** `BrRead3.mp4` (zapętlone)
+
 **Brian:** Poza tą nie ma żadnych ilustracji…  
 **Erica:** Wygląda na miejsce odprawiania rytuałów.  
 **Judy:** Ojej!  
@@ -61021,66 +68839,134 @@
 
 ## Common Event 450 — SCN - Andrea Chloe Hannah
 
+> **🎬 Wstawka wideo:** `HnChAdAtc1.mp4` (zapętlone)
+
 **Andrea:** Łał!  
 **Chloe:** Hannah! Uważaj!  
 **Andrea:** Cholera… Nieźle jej idzie.  
 **Mox:** Chyba się uczy.  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc2.mp4` (zapętlone)
+
 **Hannah:** Teraz ty, Chloe!  
 **Chloe:** /shock  
 **Hannah:** Dobrze smakuje! Zupełnie jak twoja mama!  
 **Chloe:** Obrzydliwe! Nie chcę wiedzieć, jak smakuje moja mama!  
 **Andrea:** No chodź, Hannah. Chcę spróbować słodkiej dziewczyny ze wsi.  
 **Mox:** To muszę zobaczyć.  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc3.mp4` (zapętlone)
+
 **Mox:** Och, tak… Przyjemnie.  
 **Hannah:** Liż ją! Liż, ślicznotko!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc4.mp4` (zapętlone)
+
 **Mox:** Nie szalej, Hannah.  
 **Hannah:** Chyba uczę się nowej techniki!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc5.mp4` (zapętlone)
+
 **Hannah:** Jestem cała rozpalona! Czuję to!  
 **Mox:** Daj jej odetchnąć.  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc6.mp4` (zapętlone)
+
 **Hannah:** Nie mogę zatrzymać bioder!  
 **Mox:** Cholera! Ale się w to wkręciłaś.  
 **Hannah:** Dochodzi mi!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc7.mp4`
+
 **Hannah:** Cholera! Twoja szefowa jest niezłą zabawową babką!  
 **Mox:** Uwierz mi, wiem.  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc8.mp4` (zapętlone)
+
 **Andrea:** Niezły haremik sobie urządziłeś, Mox.  
 **Chloe:** Kurwa! Ale jesteśmy niegrzeczne!  
 **Mox:** Uwielbiam, jak czuje się twoja cipka!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc9.mp4` (zapętlone)
+
 **Andrea:** Ciekawe, czy Chloe smakuje tak dobrze jak jej piegowata przyjaciółka.  
 **Chloe:** Jestem taka napalona!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc10.mp4` (zapętlone)
+
 **Mox:** Cholera, Chloe! Naprawdę chcesz kutasa!  
 **Chloe:** Daj mi to!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc11.mp4` (zapętlone)
+
 **Mox:** Kurwa, tak!  
 **Chloe:** Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc12.mp4`
+
 **Andrea:** Mogę spróbować?  
 **Chloe:** Proszę bardzo.  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc13.mp4` (zapętlone)
+
 **Andrea:** Mox, twój kutas jest przyjemny!  
 **Chloe:** Chyba Hannah wykorzystuje twoją nową technikę.  
 **Mox:** Szybko się uczy.  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc14.mp4` (zapętlone)
+
 **Andrea:** Jestem zazdrosna. Chętnie bym spróbowała.  
 **Chloe:** Na… Na pewno?  
 **Mox:** Chodź, Chloe. Pomogę ci.  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc15.mp4` (zapętlone)
+
 **Chloe:** O kurwa!  
 **Chloe:** Dwa języki w moich ciasnych dziurkach!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc16.mp4` (zapętlone)
+
 **Chloe:** Ale to niegrzeczne!...  
 **Chloe:** Uwielbiam to!  
 **Chloe:** Andrea jest taka seksowna!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc17.mp4` (zapętlone)
+
 **Andrea:** Och, Chloe! Łaskoczesz moją łechtaczkę!  
 **Mox:** O kurwa!  
 **Hannah:** Panna Andrea cię smakuje!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc18.mp4` (zapętlone)
+
 **Andrea:** Twoja młodzieńcza energia podnieca.  
 **Mox:** Ale gorąco!  
 **Hannah:** Podoba mi się twoje ciało! Jest takie seksowne!... Chcę je possać!  
 **Mox:** Possać?  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc19.mp4` (zapętlone)
+
 **Andrea:** O tak!…  
 **Andrea:** Cieszę się, że podoba wam się moje ciało, panie.  
 **Mox:** Chyba masz większe cycki niż mama Hannah.  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc20.mp4` (zapętlone)
+
 **Andrea:** Ich usta przyjemnie pieszczą moje sutki.  
 **Mox:** Widzę, że ci się podoba… Twoja cipka drży.  
 **Andrea:** Od dziesięcioleci nie dostawałam takiej uwagi od dziewczyn w ich wieku.  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc21.mp4` (zapętlone)
+
 **Andrea:** Cholera! Pieprz mnie!  
 **Mox:** Bierz, Andreo! Weź mojego kutasa!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc22.mp4` (zapętlone)
+
 **Andrea:** Doprowadź mnie do orgazmu! Spraw, żeby ta mamusia doszła!  
 **Mox:** Cholera! Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `HnChAdAtc23.mp4`
+
 **Hannah:** Ale gorąco!  
 **Chloe:** Ale przyjemnie w tym chłodnym wietrze.  
 **Andrea:** Gorąca porcja. Ale mam szczęście.  
@@ -61107,7 +68993,7 @@
 **Carol:** Owszem. A z tego, co słyszę, ty i Chloe też podziwialiście stąd widoki.  
 **Chloe:** Powinnam była wiedzieć, żeby ci nie mówić, Carol.  
 **Mox:** Haha. Cóż… Nie myli się.  
-**Carol:** Nie mogę powiedzieć, żeby moje igraszki z Mox były równie przytulne jak to miejsce.  
+**Carol:** Nie mogę powiedzieć, żeby moje igraszki z Moxem były równie przytulne jak to miejsce.  
 **Chloe:** Igraszki?  
 **Mox:** Och! Eee!...  
 **Carol:** Tak! Chłopak ostatnio zapewnia mi mnóstwo rozkoszy. Jesteśmy szczęściarami.  
@@ -61281,53 +69167,113 @@
 
 ## Common Event 353 — SCN - Nellie Shower Fuck
 
+> **🎬 Wstawka wideo:** `NeMcSwr1.mp4` (zapętlone)
+
 **Nellie:** Ależ z ciebie duży chłopiec.  
 **Mox:** Nie tak duży jak twój chłopak, Duncan.  
 **Nellie:** Ten mięśniak? Robię z nim, co chcę.  
 **Mox:** Mówisz mi to, co chcę usłyszeć?  
 **Nellie:** Może nigdy się nie dowiesz.  
+
+> **🎬 Wstawka wideo:** `NeMcSwr2.mp4` (zapętlone)
+
 **Mox:** Jak daleko mam się posunąć?  
 **Nellie:** Mówimy o seksie?  
 **Mox:** Ale z ciebie seksowna mamuśka.  
 **Nellie:** Myślisz, że o tym nie wiem?  
+
+> **🎬 Wstawka wideo:** `NeMcSwr3.mp4`
+
+> **🎬 Wstawka wideo:** `NeMcSwr4.mp4` (zapętlone)
+
 **Mox:** Chcesz tego?  
 **Nellie:** Może się przekonasz?  
 **Mox:** Nie powalisz mnie znowu na ziemię, prawda?  
 **Nellie:** Boi się małej staruszki?  
+
+> **🎬 Wstawka wideo:** `NeMcSwr5.mp4` (zapętlone)
+
 **Mox:** Może każę ci o to błagać.  
 **Nellie:** Teraz igrasz z ogniem.  
+
+> **🎬 Wstawka wideo:** `NeMcSwr6.mp4`
+
 **Nellie:** O kurwa!  
+
+> **🎬 Wstawka wideo:** `NeMcSwr7.mp4` (zapętlone)
+
 **Nellie:** Cholera! Z takim kutasem może nawet cieszę się, że mnie śledzisz.  
 **Mox:** Szpiegowanie Gildii robi z ciebie paranoiczkę.  
 **Nellie:** Mam wiele sekretów, Mox.  
+
+> **🎬 Wstawka wideo:** `NeMcSwr8.mp4` (zapętlone)
+
 **Mox:** Wygląda na to, że niektórymi sekretami chętnie się dzielisz.  
 **Nellie:** Minęło dużo czasu, Mox…  
 **Nellie:** Pieprz mnie tak, jakby naprawdę ci na tym zależało.  
+
+> **🎬 Wstawka wideo:** `NeMcSwr9.mp4` (zapętlone)
+
 **Nellie:** Ach! Tak! Pieprz moją cipkę!  
 **Mox:** O tak! Ale ciasno!  
 **Nellie:** Wbij we mnie tego kutasa!  
+
+> **🎬 Wstawka wideo:** `NeMcSwr10.mp4` (zapętlone)
+
 **Mox:** Kurwa! Zaciśnij tę cipkę.  
 **Nellie:** Cholera! Pieprz mnie!  
+
+> **🎬 Wstawka wideo:** `NeMcSwr11.mp4` (zapętlone)
+
 **Nellie:** Dawaj, Mox. Włóż go we mnie!  
 **Mox:** Powiedz mi, Nellie. Jesteś wrogiem?  
 **Nellie:** To by cię bardziej podnieciło?  
+
+> **🎬 Wstawka wideo:** `NeMcSwr12.mp4` (zapętlone)
+
 **Mox:** Chyba oboje pracujemy dla Andrei.  
 **Nellie:** Jeśli zawiodę, nie ma dla mnie ratunku, Mox…  
 **Nellie:** Robię to tylko dla siebie.  
+
+> **🎬 Wstawka wideo:** `NeMcSwr13.mp4` (zapętlone)
+
 **Nellie:** Kurwa! Ale dobrze!  
 **Nellie:** Wypełnij mnie tym kutasem, duży chłopcze!  
+
+> **🎬 Wstawka wideo:** `NeMcSwr14.mp4` (zapętlone)
+
 **Mox:** Cholera, Nellie! Czuję, jak drżysz.  
 **Nellie:** Jestem blisko… Nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `NeMcSwr15.mp4`
+
+> **🎬 Wstawka wideo:** `NeMcSwr16.mp4` (zapętlone)
+
 **Nellie:** Ależ to była jazda, Mox. Cholernie dobrze doprowadzasz kobietę do orgazmu.  
 **Mox:** Może zasługuję na twoje zaufanie.  
 **Nellie:** Może po prostu się odwdzięczę i będziemy kwita.  
+
+> **🎬 Wstawka wideo:** `NeMcSwr17.mp4` (zapętlone)
+
 **Mox:** O cholera! Ale przyjemnie…  
 **Mox:** Ależ pracujesz językiem! Cholera!  
+
+> **🎬 Wstawka wideo:** `NeMcSwr18.mp4` (zapętlone)
+
 **Mox:** Ależ głęboko!  
 **Mox:** No dalej, Nellie. Doprowadź mnie do orgazmu.  
+
+> **🎬 Wstawka wideo:** `NeMcSwr19.mp4` (zapętlone)
+
 **Mox:** O kurwa! O kurwa!  
 **Mox:** Ależ to niegrzeczne.  
+
+> **🎬 Wstawka wideo:** `NeMcSwr20.mp4` (zapętlone)
+
 **Mox:** Przygotuj się na mój wytrysk!  
+
+> **🎬 Wstawka wideo:** `NeMcSwr21.mp4`
+
 **Nellie:** Pyszne.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -61415,29 +69361,60 @@
 
 ## Common Event 363 — SCN - Melissa Brians Room
 
+> **🎬 Wstawka wideo:** `MeMcBrRm1.mp4` (zapętlone)
+
 **Melissa:** Zakładam, że te wszystkie rzeczy należą do ojca Solomona…  
 **Melissa:** Nie ma potrzeby grzebać w jego rzeczach osobistych.  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm2.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcBrRm2b.mp4` (zapętlone)
+
 **Melissa:** Ty dupku!  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm3.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcBrRm4.mp4` (zapętlone)
+
 **Mox:** Co, do cholery!? Myślałem, że dobrze się dogadujemy.  
 **Melissa:** Ale masz tupet!  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm5.mp4` (zapętlone)
+
 **Mox:** Hej!  
 **Melissa:** Posłuchaj! Nasz czas dobiega końca.  
 **Mox:** Co!? Nie odejdę z komisariatu.  
 **Melissa:** Kimura cię awansuje, a wtedy wylatujesz z wydziału.  
 **Mox:** Naprawdę!? Skąd wiesz?  
 **Melissa:** Po prostu wiem.  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `MeMcBrRm7.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcBrRm8.mp4` (zapętlone)
+
 **Mox:** Cholera, Melisso. Ale z ciebie dzikuska, co?  
 **Melissa:** Naprawdę paradujesz z erekcją w kościele?  
 **Mox:** Wygląda na to, że Brian ma pełne ręce roboty z przeciekającym dachem…  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm9.mp4` (zapętlone)
+
 **Mox:** Może pójdziemy o krok dalej w tej znajomości?  
 **Melissa:** Naprawdę nie masz za grosz wstydu.  
 **Mox:** Przyłapałem cię, Melisso. Nie zaprzeczysz swoim uczuciom.  
 **Melissa:** Ależ z ciebie arogant.  
 **Mox:** Po prostu się poddaj. Nikomu nie powiem.  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm10.mp4` (zapętlone)
+
 **Mox:** No jasne.  
 **Melissa:** Niezłego masz kutasa, panie Canmore.  
 **Mox:** Och, kochanie! Marzę o twoich cudownych ustach na moim kutasie, odkąd zobaczyłem, jak bawisz się łechtaczką…  
 **Mox:** To będzie niesamowite.  
+
+> **🎬 Wstawka wideo:** `MeMcBrRm11.mp4`
+
 **Mox:** Po co, do cholery, to zrobiłaś!?  
 **Melissa:** Ukryty sejf!...  
 **Melissa:** To tutaj Zephaniah musiał ukryć rzeczy, których policjanci nie znaleźli.  
@@ -61687,30 +69664,61 @@
 
 ## Common Event 453 — SCN - Melissa Heather Carol
 
+> **🎬 Wstawka wideo:** `MeHeCaBrm1.mp4`
+
+> **🎬 Wstawka wideo:** `MeMcBrRm8.mp4` (zapętlone)
+
 **Mox:** Nie ugryziesz mnie znowu w kutasa, prawda?  
 **Melissa:** Należało ci się.  
 **Mox:** Wiem.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm3.mp4` (zapętlone)
+
 **Mox:** Pomyliłem się co do ciebie, Melisso.  
 **Melissa:** Niby jak?  
 **Mox:** Potrzebuję cię.  
 **Melissa:** Oczywiście… Zawsze to wiedziałam.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm4.mp4` (zapętlone)
+
 **Melissa:** Och… Kurwa…  
 **Mox:** Tak, Melisso. Mój kutas jest cały twój.  
 **Melissa:** Zmieniłeś się, Mox.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm5.mp4` (zapętlone)
+
 **Mox:** Nie jestem taką samotną wyspą, za jaką się uważałem.  
 **Melissa:** Mox… Nie trać ducha… Jest w tobie coś wyjątkowego.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm6.mp4` (zapętlone)
+
 **Mox:** Lubisz, kiedy jestem taki pewny siebie, prawda?  
 **Melissa:** O Boże. Tak bardzo mnie to podnieca.  
 **Mox:** Mimo wielkiego tyłka i ogromnych cycków… lubisz czuć się malutka.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm7.mp4` (zapętlone)
+
 **Melissa:** Ale z ciebie dupek.  
 **Mox:** Ze wszystkich kobiet, które pieprzę, przy tobie dochodzę najmocniej.  
 **Melissa:** Pierdol się.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm8.mp4` (zapętlone)
+
 **Melissa:** Pieprz moją cipkę! Jestem twoja!  
 **Mox:** Tak, Melisso! Twoja cipka płonie!  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm9.mp4` (zapętlone)
+
 **Melissa:** Zapłodnij mnie! Wypełnij moje łono!  
 **Mox:** Tak, kurwa! Urodź mi dziecko, kochanie!  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm10.mp4` (zapętlone)
+
 **Heather:** Mox!?  
 **Carol:** No proszę. A jednak ten pokój nie jest pusty.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm11.mp4` (zapętlone)
+
 **Mox:** Co wy robicie? Gdzie Erica i Judy?  
 **Heather:** Cóż… Erica i Judy są w sypialni, a my tylko korzystaliśmy z toalety i…  
 **Mox:** Korzystaliście z toalety?  
@@ -61723,33 +69731,63 @@
 **Mox:** Panie… Nie mamy wiele czasu. Tasha i Brian pracują nad jakąś bronią.  
 **Carol:** To niech pracują…  
 **Carol:** No już. Przesuńcie się. To łóżko pomieści nas wszystkich.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm12.mp4` (zapętlone)
+
 **Heather:** Uwielbiam twoje ciało! Ćwiczysz?  
 **Melissa:** Na komisariacie mamy siłownię.  
 **Carol:** Ależ ma szczęście, że może dzielić łóżko z tak wysportowanymi kobietami.  
 **Mox:** Nie zamierzasz tu spać, prawda?  
 **Carol:** Oczywiście, że nie!  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm13.mp4` (zapętlone)
+
 **Carol:** Mam nadzieję, że nie masz nic przeciwko szybkiej przejażdżce, panno Bhatt.  
 **Mox:** Mam dość siły, żeby zadowolić was wszystkie.  
 **Carol:** To mój chłopak!  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm14.mp4` (zapętlone)
+
 **Mox:** Uwielbiam twój wielki tyłek, Carol.  
 **Carol:** Widzę.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm15.mp4` (zapętlone)
+
 **Melissa:** Ojej!  
 **Heather:** Masz takie silne, jędrne uda, Melisso.  
 **Mox:** Chyba Carol podoba się twój tyłek.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm16.mp4` (zapętlone)
+
 **Melissa:** Liże mi odbyt!  
 **Mox:** O tak, kurwa!  
 **Heather:** Ale zboczone!  
 **Melissa:** Ale z niej kobieta!  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm17.mp4` (zapętlone)
+
 **Heather:** Pieprz mnie, kochanie! Rżnij moją cipkę!  
 **Mox:** O, Heather!  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm18.mp4` (zapętlone)
+
 **Heather:** Masz takiego grubego kutasa! Pulsuje!  
 **Mox:** Ale mnie rozpalacie, panie.  
 **Heather:** Nie pozwól, żebyśmy odebrały twojej szefowej całą uwagę… To ona była pierwsza.  
 **Mox:** Doprowadzę was wszystkie do orgazmu.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm19.mp4` (zapętlone)
+
 **Mox:** Boże! Ale jesteście seksowne!  
 **Mox:** Długo tak nie wytrzymam.  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm20.mp4` (zapętlone)
+
 **Mox:** Kurwa! Dojdź dla mnie!...  
 **Mox:** Obryzgam was wszystkie spermą!  
+
+> **🎬 Wstawka wideo:** `MeHeCaBrm21.mp4`
+
 **Carol:** Cholera! Ale tego dużo!  
 **Melissa:** Ale gorąco!  
 **Heather:** To cudowne uczucie!  
@@ -61797,19 +69835,33 @@
 
 ## Common Event 436 — SCN - Heather Carol Lesbian
 
+> **🎬 Wstawka wideo:** `HeCaBthrm1.mp4` (zapętlone)
+
 **Mox:** Chcę cię pieprzyć tu i teraz.  
 **Heather:** Mox! Ale jesteś napalony!  
 **Mox:** Jak mam się powstrzymać przy tak seksownej bogini?  
 **Heather:** Zerżnij mnie, kochanie!  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm2.mp4` (zapętlone)
+
 **Heather:** O Boże! Pieprz mnie!  
 **Mox:** Daj mi tę młodą, ciasną cipkę!  
 **Heather:** Tak! Bierz!  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm3.mp4` (zapętlone)
+
 **Heather:** Kurwa! Oby ojciec nie słyszał.  
 **Mox:** Pewnie wrócił do biblioteki. Jesteśmy same.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm4.mp4` (zapętlone)
+
 **Heather:** Ojcze!?  
 **Mox:** Carol!  
 **Carol:** Ależ jesteście głośne.  
 **Heather:** Zamknij drzwi!  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm5.mp4` (zapętlone)
+
 **Carol:** Wygląda na to, że się pogodziłyście.  
 **Heather:** Obie chcemy tego samego.  
 **Carol:** Kutasa Mox?  
@@ -61817,52 +69869,108 @@
 **Carol:** Nie sądziłam, że będziesz zabawiał się z moją córką, zanim zabawisz się ze mną.  
 **Heather:** Może możemy to teraz nadrobić.  
 **Mox:** Podoba mi się, jak myślicie, panie.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm6.mp4` (zapętlone)
+
 **Carol:** Czyjś kutas ma teraz smak.  
 **Mox:** Ja pierdolę, zabieracie mnie do nieba.  
 **Heather:** Nie spuszczaj się za szybko.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm7.mp4` (zapętlone)
+
 **Mox:** Trudno, kiedy patrzę w twarze najgorętszych mamuś na świecie.  
 **Carol:** Ależ z tego chłopaka czaruś.  
 **Heather:** Zgadza się.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm8.mp4` (zapętlone)
+
 **Heather:** Założę się, że nasze córki nigdy nie przyjęły przy tobie takiej pozycji.  
 **Mox:** Cholera, macie bujną wyobraźnię.  
 **Carol:** Wiemy, jak zadowolić mężczyznę.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm9.mp4` (zapętlone)
+
 **Mox:** Ale przyjemnie!  
 **Carol:** Na co czekasz, Heather? Pocałuj go…  
 **Carol:** Mamusia ma ochotę na coś słodkiego.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm10.mp4` (zapętlone)
+
 **Carol:** Właśnie tego mi trzeba!  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm11.mp4` (zapętlone)
+
 **Carol:** Choć chętnie wydoiłabym tego kutasa do końca, chyba jesteśmy winne chłopakowi mały pokaz.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm12.mp4` (zapętlone)
+
 **Heather:** O, Carol!  
 **Mox:** Cholera!  
 **Heather:** Liże moją cipkę!  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm13.mp4` (zapętlone)
+
 **Mox:** Ale gorąco!  
 **Heather:** Ale gorąco!  
 **Mox:** Choć uwielbiam patrzeć na twoją piękną twarz, lepiej się jej odwdzięcz.  
 **Heather:** Och, tak… Oczywiście.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm14.mp4` (zapętlone)
+
 **Mox:** Ja pierdolę! Ale niesamowite!  
 **Carol:** Mmm… Ale… dobrze!  
 **Heather:** Mmm… Tak!  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm15.mp4` (zapętlone)
+
 **Mox:** Nie przejmuj się mną, Carol. Też się do was przyłączę.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm16.mp4` (zapętlone)
+
 **Mox:** Cholera! Ale przyjemnie…  
 **Mox:** Jest taka mokra…  
 **Mox:** A język Carol…  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm17.mp4` (zapętlone)
+
 **Mox:** Cholera! Cholera! Zaraz dojdę.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm18.mp4` (zapętlone)
+
 **Heather:** O nie, nie tak prędko.  
 **Carol:** Lepiej go pilnuj, Heather. Zaraz na nas wystrzeli i zepsuje zabawę.  
 **Heather:** Może Mox powinien chwilę odpocząć.  
 **Mox:** Odpocząć?  
 **Carol:** Mam idealny pomysł.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm19.mp4` (zapętlone)
+
 **Heather:** Carol!  
 **Carol:** Nie powstrzymuj tego, Heather!  
 **Mox:** Tak! Pieprzcie się nawzajem.  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm20.mp4` (zapętlone)
+
 **Heather:** Twoja cipka cudownie ociera się o moją.  
 **Carol:** Daj mi swoje soki, mamusiu!  
 **Mox:** Dłużej nie wytrzymam!  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm21.mp4` (zapętlone)
+
 **Carol:** Ja pierdolę! Pieprzy mnie!  
 **Heather:** Nie! Pieprzy mnie!  
 **Mox:** Nie wiem, którą z was pieprzę, ale jest cudownie!  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm22.mp4` (zapętlone)
+
 **Mox:** Ja pierdolę! Jestem zbyt wrażliwy… Zaraz dojdę.  
 **Carol:** Dojdź razem ze mną, kochanie!  
 **Heather:** Daj nam!  
+
+> **🎬 Wstawka wideo:** `HeCaBthrm23.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `HeCaBthrm24.mp4` (zapętlone)
+
 **Mox:** Chyba już wiem, gdzie podział się mój kutas.  
 **Carol:** Wygląda na to, że obie zostałyśmy porządnie wyrżnięte.  
 **Heather:** Mógłabym się do tego przyzwyczaić.  
@@ -62021,6 +70129,8 @@
 ---
 
 ## Common Event 382 — SCN - Show Toma Right Head
+
+> **🎬 Wstawka wideo:** `Toma-RightHead.mp4` (zapętlone)
 
 **Mox:** Cholera! Ten sen był prawdziwy!  
 **Mox:** To kolejny fragment tego bożka czarownic.  
@@ -62398,6 +70508,8 @@
 
 ## Common Event 361 — SCN - Show Toma Right Leg
 
+> **🎬 Wstawka wideo:** `Toma-RightLeg.mp4` (zapętlone)
+
 **Erica:** Co znalazłeś?  
 **Mox:** Wygląda na kolejny fragment artefaktu.  
 **Erica:** Cholera jasna! Kolejny bożek czarownic!  
@@ -62422,6 +70534,8 @@
 
 ## Common Event 410 — SCN - Kimberly Lillian Chapel
 
+> **🎬 Wstawka wideo:** `LiKiDC1.mp4` (zapętlone)
+
 **Lillian:** Mox… Nie spodziewałam się, że cię tu zobaczę.  
 **Mox:** Lillian!? Kimberly!?  
 **Kimberly:** Puść mnie! Nie masz prawa mnie tu przetrzymywać.  
@@ -62433,6 +70547,9 @@
 **Lillian:** Wystawiła cię, Mox. Wiem, że jesteś w to zamieszany.  
 **Mox:** Jestem detektywem, Lillian… I coś przede mną ukryłaś.  
 **Lillian:** Już nie jesteś.  
+
+> **🎬 Wstawka wideo:** `LiKiDC2.mp4` (zapętlone)
+
 **Lillian:** Może kobieta z takim zapałem mogłaby się przydać.  
 **Mox:** Nie musi się w to mieszać.  
 **Kimberly:** Pokaż mi, co ukrywasz.  
@@ -62440,75 +70557,135 @@
 **Mox:** Co zamierzasz zrobić?  
 **Kimberly:** Pokaż mi wszystko.  
 **Lillian:** Ależ niecierpliwa. Podoba mi się to.  
+
+> **🎬 Wstawka wideo:** `LiKiDC3.mp4` (zapętlone)
+
 **Lillian:** O tak! Chyba jej się podoba.  
 **Mox:** Dlaczego jej ufasz, Lillian? Nie sądzisz, że ryzykujesz?  
 **Lillian:** Mam dobrą intuicję do ludzi.  
+
+> **🎬 Wstawka wideo:** `LiKiDC4.mp4` (zapętlone)
+
 **Kimberly:** Nieźle, kobieto. Wiesz, jak ugościć gościa.  
-**Lillian:** Byłaś niegrzeczną dziewczynką. Zwłaszcza wobec Mox.  
+**Lillian:** Byłaś niegrzeczną dziewczynką. Zwłaszcza wobec Moxa.  
 **Kimberly:** Może powinnam mu to wynagrodzić.  
 **Lillian:** Myślałam o tym samym.  
+
+> **🎬 Wstawka wideo:** `LiKiDC5.mp4` (zapętlone)
+
 **Kimberly:** Co ty na to, partnerze? Chcesz usłyszeć moje przeprosiny?  
 **Mox:** Wystawiłaś mnie, Kimberly.  
 **Kimberly:** Biedactwo.  
 **Lillian:** No dalej. Weź jego kutasa do ust.  
+
+> **🎬 Wstawka wideo:** `LiKiDC6.mp4` (zapętlone)
+
 **Mox:** Nie możemy jej ufać. Chce tylko zdobyć materiał na reportaż.  
 **Lillian:** Nie pozwolę, by ktoś wbił mi nóż w plecy. Wystarczy, że mi zaufasz, Mox.  
+
+> **🎬 Wstawka wideo:** `LiKiDC7.mp4` (zapętlone)
+
 **Mox:** Ja… nie wiem, co robić.  
 **Lillian:** Pozwól, że trochę ci to rozjaśnię.  
+
+> **🎬 Wstawka wideo:** `LiKiDC8.mp4` (zapętlone)
+
 **Mox:** O kurwa!  
 **Lillian:** Właśnie tak! Oddaj gardło chłopakowi!  
 **Mox:** Lillian!  
 **Lillian:** Weź jego pulsującego kutasa do gardła i pokaż mu swoją lojalność.  
 **Mox:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `LiKiDC9.mp4` (zapętlone)
+
 **Kimberly:** Jestem taka niegrzeczna.  
 **Lillian:** Nie martw się, moja droga. Zbawienie samo się przed tobą otwiera.  
 **Mox:** Co teraz zrobisz?  
+
+> **🎬 Wstawka wideo:** `LiKiDC10.mp4` (zapętlone)
+
 **Lillian:** Bierz ją, Mox. Przyjmij jej przeprosiny.  
 **Kimberly:** Dawaj! Bierz moją cipkę!  
 **Mox:** Tak, Lillian.  
+
+> **🎬 Wstawka wideo:** `LiKiDC11.mp4` (zapętlone)
+
 **Kimberly:** Rżnij mnie! Pieprz moją cipkę!  
 **Lillian:** Poddaj się rozkoszy.  
 **Mox:** Jest tak dobrze.  
 **Kimberly:** Chcę tego wszystkiego… Chcę wszystkiego.  
 **Lillian:** Zasłuż na to, moja droga.  
+
+> **🎬 Wstawka wideo:** `LiKiDC12.mp4` (zapętlone)
+
 **Mox:** Napina i zaciska cipkę.  
 **Lillian:** Dobrze. Bardzo dobrze.  
 **Kimberly:** Chcę ścisnąć twojego kutasa! Chcę poczuć go w sobie!... Głęboko!  
+
+> **🎬 Wstawka wideo:** `LiKiDC13.mp4` (zapętlone)
+
 **Lillian:** Jesteś zwiastunem pokoju, mój ukochany.  
 **Mox:** Chcę ci pomóc.  
 **Lillian:** Ocal światy pogrążone w chaosie. Zostań ich zbawcą.  
 **Mox:** Kim… Kim jesteś?  
+
+> **🎬 Wstawka wideo:** `LiKiDC14.mp4` (zapętlone)
+
 **Lillian:** Sługą Pana. Sługą pokoju.  
 **Mox:** Jesteś taka piękna.  
 **Lillian:** Długo czekałam na uwielbienie moich dzieci.  
 **Lillian:** Każdą chwilę cenię sobie ponad wszystko.  
+
+> **🎬 Wstawka wideo:** `LiKiDC15.mp4` (zapętlone)
+
 **Mox:** Czy jestem twoim dzieckiem?  
 **Lillian:** Czujesz to w sobie. Wiesz, że to prawda.  
 **Mox:** Tak… Czuję to, Matko.  
 **Lillian:** Trzymano mnie z dala od ciebie. Ale wróciłam.  
 **Mox:** O Boże…  
+
+> **🎬 Wstawka wideo:** `LiKiDC16.mp4` (zapętlone)
+
 **Kimberly:** Jest tak dobrze.  
 **Lillian:** Rozkoszuj się, dziecko.  
 **Mox:** Cholera, Kim ma świetny tyłek. Kurwa!  
 **Lillian:** Słuchaj jego jęków rozkoszy, gdy bierze cię w tyłek.  
 **Kimberly:** Pięknie dobierasz słowa, Lillian.  
+
+> **🎬 Wstawka wideo:** `LiKiDC17.mp4` (zapętlone)
+
 **Lillian:** Rozumiem twoje potrzeby lepiej niż ktokolwiek.  
 **Kimberly:** Wierzę ci, kobieto.  
 **Lillian:** Wkrótce już nigdy nie poczujesz bólu. Wszelkie cierpienie dobiegnie końca.  
 **Mox:** Tak! Tak! Matko, tak!  
+
+> **🎬 Wstawka wideo:** `LiKiDC18.mp4` (zapętlone)
+
 **Kimberly:** Kurwa! To niesamowite uczucie!  
 **Lillian:** Koniec z tajemnicami, panno Foxx.  
 **Kimberly:** Ufam ci! Chcę zobaczyć wszystko!  
 **Mox:** Daj nam więcej, Lillian. Chcę zrozumieć.  
+
+> **🎬 Wstawka wideo:** `LiKiDC19.mp4` (zapętlone)
+
 **Lillian:** Toma Leolo jest kluczem. Wy dwoje przyniesiecie mi jego fragmenty.  
 **Kimberly:** Tak, Lillian!  
 **Mox:** Próbuję.  
+
+> **🎬 Wstawka wideo:** `LiKiDC20.mp4` (zapętlone)
+
 **Lillian:** Pan będzie zadowolony z twoich wysiłków. Pan będzie zadowolony z nas wszystkich.  
 **Kimberly:** Doprowadź mnie do orgazmu! Wsadź we mnie palce!  
 **Mox:** Taka… Cholernie… Ciasna!  
+
+> **🎬 Wstawka wideo:** `LiKiDC21.mp4` (zapętlone)
+
 **Lillian:** Poczujcie rozkosz, moi ukochani!  
 **Kimberly:** Czuję ją!  
 **Mox:** Dochodzę!  
+
+> **🎬 Wstawka wideo:** `LiKiDC22.mp4`
+
 **Kimberly:** Dobry Boże, jak się cieszę, że mnie przyłapano!  
 **Mox:** Cholera… To było niesamowite!  
 **Lillian:** Czy moje dzieci są szczęśliwe?  
@@ -62617,24 +70794,42 @@
 
 ## Common Event 454 — SCN - Daemalius Erica
 
+> **🎬 Wstawka wideo:** `ErArSlCrstl1.mp4`
+
 **Erica:** Gdzie ona jest!? Gdzie Madalyn!?  
 **Henry:** Daemalius!  
 **Arianna:** Nie!  
+
+> **🎬 Wstawka wideo:** `ErArSlCrstl2.mp4` (zapętlone)
+
 **Arianna:** Wynoś się z tego ciała! Natychmiast!  
 **Erica:** Anioł? Na Ziemi?  
 **Mox:** Kim ty, do cholery, jesteś?  
 **Erica:** Otworzyłem szczelinę do Piekła… A raczej zmuszono mnie, bym ją otworzył.  
 **Diana:** Madalyn zawarła sojusz z Lilith.  
 **Erica:** Suka! Oszukała mnie!  
+
+> **🎬 Wstawka wideo:** `ErArSlCrstl3.mp4` (zapętlone)
+
 **Drab:** Ani kroku dalej!  
 **Erica:** Demony?... Co to ma znaczyć!? Skąd macie te ciała?  
 **Drab:** Co!? Kim jesteś? Skąd się wziąłeś?  
+
+> **🎬 Wstawka wideo:** `ErArSlCrstl4.mp4` (zapętlone)
+
 **Erica:** Jestem Daemalius… Ludzie sprowadzili mnie na Ziemię setki lat temu.  
 **Drab:** Gadasz bez sensu. Szczelinę otwarto dopiero teraz.  
-**Drab:** Nie mogłeś tu być, zanim sprowadzono z powrotem Toma Leolo.  
+**Drab:** Nie mogłeś tu być, zanim sprowadzono z powrotem Tomę Leolo.  
 **Erica:** Toma Leolo?  
 **Drab:** Matka buduje armię. Jesteś z nami, czy mamy ci skopać tyłek?  
 **Erica:** To mój świat i tylko mój! Ta suka zginie!  
+
+> **🎬 Wstawka wideo:** `ErArSlCrstl5.mp4`
+
+> **🎬 Wstawka wideo:** `ErArSlCrstl6.mp4`
+
+> **🎬 Wstawka wideo:** `ErArSlCrstl7.mp4`
+
 **Erica:** Jak miło znów poczuć się młodo!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -63280,34 +71475,65 @@
 
 ## Common Event 486 — SCN - Chloe Bathroom
 
+> **🎬 Wstawka wideo:** `ChHeBtrm1.mp4` (zapętlone)
+
 **Chloe:** Och, Mox… Zobacz, co znalazłam.  
 **Mox:** Chloe, co ty robisz?  
 **Chloe:** Nie poznajesz ich? To majtki mojej mamy.  
 **Mox:** Naprawdę grzebiesz w brudnej bieliźnie?  
+
+> **🎬 Wstawka wideo:** `ChHeBtrm2.mp4` (zapętlone)
+
 **Chloe:** Nie wyglądam seksownie, Mox?  
 **Mox:** Chloe! Te majtki są brudne!  
 **Chloe:** A to cię kręci! Nie zaprzeczaj.  
 **Mox:** Ty niegrzeczna, niegrzeczna dziewczynko.  
 **Chloe:** Och, czuję się niegrzeczna.  
+
+> **🎬 Wstawka wideo:** `ChHeBtrm3.mp4` (zapętlone)
+
 **Chloe:** Podoba ci się ten zapach?...  
 **Chloe:** Och, Mox… Jesteś taki obrzydliwy… To mnie podnieca.  
+
+> **🎬 Wstawka wideo:** `ChHeBtrm4.mp4` (zapętlone)
+
 **Mox:** O kurwa! Tak!  
 **Chloe:** Podoba ci się, prawda?  
 **Mox:** Nie wiem, co w ciebie wstąpiło, ale podoba mi się to.  
+
+> **🎬 Wstawka wideo:** `ChHeBtrm5.mp4` (zapętlone)
+
 **Chloe:** Podoba ci się widok mnie w majtkach mojej seksownej mamy, Mox?  
 **Mox:** Są brudne, Chloe…  
 **Chloe:** Takie brudne! Czuję to!  
 **Mox:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `ChHeBtrm6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ChHeBtrm7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ChHeBtrm8.mp4` (zapętlone)
+
 **Chloe:** Pieprz mnie, Mox! Pieprz mnie!  
 **Mox:** Tak, Chloe! Weź mojego kutasa!  
+
+> **🎬 Wstawka wideo:** `ChHeBtrm9.mp4` (zapętlone)
+
 **Chloe:** Jestem niegrzeczną dziewczynką! Daj mi go!  
 **Mox:** Dojdź dla mnie, Chloe! Dojdź w majtki swojej mamy!  
 **Chloe:** O Boże!  
+
+> **🎬 Wstawka wideo:** `ChHeBtrm10.mp4`
+
+> **🎬 Wstawka wideo:** `ChHeBtrm11.mp4` (zapętlone)
+
 **Chloe:** Majtki mamy są całe mokre.  
 **Mox:** Myślę, że możemy je jeszcze bardziej zmoczyć.  
 **Chloe:** Daj mi go, Mox.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 210.
+
+> **🎬 Wstawka wideo:** `ChHeBtrm12.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -63679,6 +71905,14 @@
 
 ## Common Event 493 — SCN - Judy Preg
 
+> **🎬 Wstawka wideo:** `JuMcMnsKchn1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn1NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn2.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn2NP.mp4` (zapętlone)
+
 **Judy:** To było miłe.  
 **Mox:** Mam tego więcej.  
 **Mox:** Może powinniśmy powiedzieć Erice, że kolacja gotowa.  
@@ -63694,13 +71928,33 @@
 **Mox:** Zwłaszcza sutki mamusi.  
 **Judy:** Mhm, podobają ci się cycki mamusi?  
 **Mox:** Musisz pytać?  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn3NP.mp4` (zapętlone)
+
 **Judy:** Och, tak, cudownie.  
 **Judy:** Właśnie tak.  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn4NP.mp4` (zapętlone)
+
 **Judy:** Łaskocze! Uwielbiam to!  
 **Judy:** Robię się mokra.  
 **Judy:** Mox, bierz mnie!  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn5.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn5NP.mp4` (zapętlone)
+
 **Mox:** Podoba mi się ten widok.  
 **Judy:** Co ci się w nim tak podoba?  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn6.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn6NP.mp4` (zapętlone)
+
 **Mox:** Widzę, jaka jesteś piękna, Judy.  
 **Judy:** Mox!  
 
@@ -63709,18 +71963,43 @@
 **Mox:** Twój zaokrąglony brzuszek… pełne piersi…  
 **Mox:** Jesteś teraz cholernie seksowna.  
 **Judy:** Pieprz moją ciężarną cipkę!  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn7.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn7NP.mp4` (zapętlone)
+
 **Mox:** Ta przystawka naprawdę trafia w mój gust.  
 **Judy:** Dopiero zaczynamy.  
 **Judy:** Może pokażę ci, co cię omijało?  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn8.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn8NP.mp4` (zapętlone)
+
 **Mox:** Uwielbiam tę cipkę!  
 **Judy:** Uwielbiam tego kutasa!  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn9.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn9NP.mp4` (zapętlone)
+
 **Mox:** Wiesz co? Twój tyłek też wygląda świetnie.  
 **Judy:** Cieszę się, że podoba ci się to, co widzisz.  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn10.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn10NP.mp4` (zapętlone)
+
 **Judy:** Wchodzisz naprawdę głęboko.  
 **Mox:** To fenomenalne.  
 **Judy:** Mam pomysł.  
 **Mox:** Zamieniam się w słuch.  
 **Judy:** Przytrzymaj mnie, a ja uniosę nogi.  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn11.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn11NP.mp4` (zapętlone)
+
 **Judy:** O Panie, czuję się taka błogosławiona.  
 **Mox:** Imponujące, jak to robisz.  
 **Judy:** Podoba ci się, kiedy tak się ruszam?  
@@ -63728,25 +72007,49 @@
 
 > **Ścieżka warunkowa:** CAME INSIDE JUDY: wyłączony.
 
+> **🎬 Wstawka wideo:** `JuMcMnsKchn12.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn12NP.mp4` (zapętlone)
+
 **Mox:** Przez ostatnie miesiące twoje cycki bardzo urosły.  
 **Judy:** Czuję to… Jestem taka seksowna!  
 **Mox:** Twoja cipka jest dziś wyjątkowo ciasna.  
 **Judy:** Jestem taka napalona, Mox!  
 **Judy:** Możemy tak robić już zawsze?  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn13.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn13NP.mp4` (zapętlone)
+
 **Mox:** Wieczność to bardzo długo.  
 **Judy:** Mówię poważnie!  
 **Judy:** Teraz wszystko jest jak spełnienie marzeń.  
 **Mox:** Każdy sen musi się kiedyś skończyć.  
 **Mox:** Przynajmniej możemy zadbać o dobre zakończenie.  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn14.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn14NP.mp4` (zapętlone)
+
 **Judy:** Boże, nie sądziłam, że może być jeszcze intensywniej.  
 **Mox:** Idealnie się zgrywamy.  
 **Mox:** Dajmy z siebie wszystko.  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn15.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn15NP.mp4` (zapętlone)
+
 **Judy:** Oooch, kurwa!  
 **Mox:** Mam wrażenie, że zaraz udusisz mi kutasa.  
 **Mox:** Ruszaj się tak dalej.  
 **Judy:** Wiesz, że chcesz mi go dać.  
 **Mox:** Tak, chcę.  
 **Judy:** Dawaj! Spuść swoje nasienie na mnie!  
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn16.mp4`
+
+> **🎬 Wstawka wideo:** `JuMcMnsKchn16NP.mp4`
+
 **Mox:** To było niesamowite.  
 **Judy:** Tak bardzo cię kocham, Mox.  
 **Mox:** Ja też cię kocham, Judy.  
@@ -63917,17 +72220,25 @@
 
 ## Common Event 376 — SCN - Kimberly Solo
 
+> **🎬 Wstawka wideo:** `KiSrgFk1.mp4` (zapętlone)
+
 **Mox:** Kimberly!  
 **Kimberly:** Zajęty, Mox?  
 **Mox:** Śledzisz mnie?  
 **Kimberly:** Muszę wiedzieć, czy można ci ufać.  
 **Mox:** Co do cholery? Mogłaś zostać przyłapana.  
 **Kimberly:** Ale nie zostałam.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk2.mp4` (zapętlone)
+
 **Kimberly:** Ale bałagan. Ci ludzie nie mają szafy?  
 **Mox:** Nie mam pojęcia, po co trzymają tu ubrania razem z jedzeniem…  
 **Mox:** Cokolwiek tu jest, nie chcieli, żeby ktoś to znalazł.  
 **Kimberly:** Dlaczego tak mówisz?  
 **Mox:** Ktoś zapieczętował ten pokój. Dopiero ja go otworzyłem.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk3.mp4` (zapętlone)
+
 **Kimberly:** Stworzymy zgrany zespół, Mox.  
 **Mox:** Taka moja praca.  
 **Kimberly:** Nie mówisz mi wszystkiego, ale nie myśl, że tylko ja nie znam całej historii.  
@@ -63936,59 +72247,115 @@
 **Mox:** To wniosek z twojej kariery dziennikarskiej?  
 **Kimberly:** Jesteś taki młody… i słodki…  
 **Kimberly:** Podoba mi się to.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `KiSrgFk5.mp4` (zapętlone)
+
 **Mox:** Bawisz się mną, panno Foxx?  
 **Kimberly:** Chcę od ciebie czegoś więcej niż dobrego materiału.  
 **Mox:** A czego takiego?  
+
+> **🎬 Wstawka wideo:** `KiSrgFk6.mp4` (zapętlone)
+
 **Kimberly:** Może zgadniesz.  
 **Mox:** Nie boisz się, że nas przyłapią?  
 **Kimberly:** Mówiłeś, że ten pokój był zapieczętowany, prawda?...  
 **Kimberly:** Nikt nas tu nie szuka.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk7.mp4` (zapętlone)
+
 **Kimberly:** O kurwa! Tak!  
 **Kimberly:** Właśnie tego chcę…  
 **Kimberly:** Tak… To będzie idealne.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk8.mp4` (zapętlone)
+
 **Kimberly:** Wygląda na to, że ktoś jest zadowolony.  
 **Mox:** Ach! Jest wrażliwe.  
 **Kimberly:** Oby nie za bardzo.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk9.mp4` (zapętlone)
+
 **Mox:** Cholera! Jesteś w tym dobra…  
 **Mox:** Czuję tył twojego gardła.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk10.mp4` (zapętlone)
+
 **Mox:** Boże! Jesteś cholernie seksowna.  
 **Mox:** Ach! Ostrożnie. Zaraz doprowadzisz mnie do orgazmu.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk11.mp4` (zapętlone)
+
 **Kimberly:** Nie tak szybko, Mox. Chcę danie główne…  
 **Kimberly:** Włóż we mnie tego kutasa.  
 **Mox:** Z przyjemnością, panno Foxx.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk12.mp4` (zapętlone)
+
 **Kimberly:** O kurwa!  
 **Mox:** Cholera! Ale ciasno.  
 **Kimberly:** Podoba ci się moja ciasna cipka?  
 **Mox:** Mmm, tak. Jest idealna.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk13.mp4` (zapętlone)
+
 **Kimberly:** Ależ z ciebie niegrzeczny detektyw.  
 **Mox:** Zdarza mi się czasem łamać zasady.  
 **Kimberly:** Mówisz moim językiem, Mox.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk14.mp4` (zapętlone)
+
 **Mox:** Czego spodziewasz się tu znaleźć?  
 **Kimberly:** Sam mi powiedz.  
 **Mox:** Wierzysz w duchy?  
 **Kimberly:** Moja cipka zawróciła ci w głowie.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk15.mp4` (zapętlone)
+
 **Mox:** Poczekajmy i zobaczmy, co odbierzesz z tych nadajników.  
 **Kimberly:** Nie ma już odwrotu, Mox. Jesteśmy w tym razem.  
 **Mox:** Kurwa, cudownie cię czuć w środku.  
 **Kimberly:** Daj mi tego kutasa, Mox.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk16.mp4` (zapętlone)
+
 **Kimberly:** O Boże! Tak!  
 **Mox:** Weź go do ust!  
 **Kimberly:** Daj mi to!  
+
+> **🎬 Wstawka wideo:** `KiSrgFk17.mp4` (zapętlone)
+
 **Kimberly:** Wchodzisz tak głęboko!  
 **Mox:** Chcę poczuć każdy centymetr.  
 **Kimberly:** Zasłuż sobie na tę cipkę, Mox.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk18.mp4` (zapętlone)
+
 **Mox:** Jak powiedziałaś, Kimberly. Jesteśmy w tym razem.  
 **Mox:** Tak samo jak wszystkim innym zależy mi na rozwiązaniu tej zagadki.  
 **Kimberly:** Jestem twoją kobietą, Mox.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk19.mp4` (zapętlone)
+
 **Mox:** Kimura nigdy nie może się o tym dowiedzieć.  
 **Kimberly:** No jasne.  
 **Kimberly:** A teraz pieprz mnie porządnie.  
+
+> **🎬 Wstawka wideo:** `KiSrgFk20.mp4` (zapętlone)
+
 **Kimberly:** Kurwa, tak! Rżnij mnie głęboko!  
 **Mox:** Dawaj, Kimberly!  
+
+> **🎬 Wstawka wideo:** `KiSrgFk21.mp4` (zapętlone)
+
 **Kimberly:** Właśnie tak! Daj mi swoją spermę!  
 **Mox:** Gdzie chcesz?  
 **Kimberly:** Chcę ją wypić!  
 **Mox:** Już… podaję!  
+
+> **🎬 Wstawka wideo:** `KiSrgFk22.mp4`
+
 **Kimberly:** Ciepła i pyszna.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -64104,7 +72471,7 @@
 
 **Lillian:** /greet  
 **Mox:** /greet  
-**Lillian:** Znalazłeś kolejne kawałki Toma Leolo?  
+**Lillian:** Znalazłeś kolejne kawałki Tomy Leolo?  
 **Mox:** Jeszcze nie. Ale dam znać, jak tylko coś znajdę.  
 **Lillian:** Dobry chłopiec.  
 
@@ -64700,6 +73067,8 @@
 
 ## Common Event 432 — SCN - Ella Nellie Office
 
+> **🎬 Wstawka wideo:** `NeElMnsn1.mp4` (zapętlone)
+
 **Ella:** Spójrz na to.  
 **Nellie:** Ja pierdolę! Cały świat to widział?  
 **Mox:** Nie cały świat.  
@@ -64712,72 +73081,132 @@
 **Nellie:** Przyznaję się!  
 **Mox:** Cieszę się, że możecie się zbliżyć, czerpiąc radość z mojego cierpienia.  
 **Nellie:** Cierpienia?! Nie dramatyzuj.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn2.mp4` (zapętlone)
+
 **Nellie:** Ello, to wygląda ci na cierpienie?  
 **Mox:** Hej!  
 **Ella:** Hahaha! Znowu napalił się na moją cipkę.  
 **Nellie:** Nie byłabym taka pewna. Chyba chce czegoś innego.  
 **Ella:** Tak? Na przykład czego?  
 **Nellie:** Pokazu.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn3.mp4` (zapętlone)
+
 **Mox:** Jezu, Nellie! Tutaj? Teraz?  
+
+> **🎬 Wstawka wideo:** `NeElMnsn4.mp4` (zapętlone)
+
 **Ella:** Dawaj, dziewczyno!  
 **Nellie:** Cicho. Nie chcemy, żeby ludzie Duncana nas przyłapali.  
 **Mox:** To przestań.  
 **Ella:** Nie! Nie przestawaj!  
 **Nellie:** Zatkaj mnie, byczku. Mamusia cieknie.  
 **Mox:** Cóż… Skoro tak ładnie prosisz.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn5.mp4` (zapętlone)
+
 **Ella:** Przez ciebie zacznę krzyczeć.  
 **Nellie:** Chcesz, żeby nas przyłapali?  
 **Mox:** Cicho.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn6.mp4` (zapętlone)
+
 **Nellie:** Słyszałaś go. Lepiej bądź cicho.  
 **Ella:** O Boże!  
 **Nellie:** Cholera, tak trudno powstrzymać jęki, prawda?  
+
+> **🎬 Wstawka wideo:** `NeElMnsn7.mp4` (zapętlone)
+
 **Ella:** Nie sądziłam, że będę to robić, kiedy tu przyjechałam.  
 **Nellie:** O tak!  
 **Mox:** To was podnieca?  
 **Nellie:** O tak!  
+
+> **🎬 Wstawka wideo:** `NeElMnsn8.mp4` (zapętlone)
+
 **Ella:** Ale ryzykujemy!  
 **Nellie:** Daj jej swojego kutasa, Mox.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn9.mp4` (zapętlone)
+
 **Ella:** Podoba mi się twoja cipka, Nellie.  
 **Nellie:** O cholera!  
 **Mox:** Nie tak głośno.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn10.mp4` (zapętlone)
+
 **Ella:** Jak ci z tym, Nellie?  
 **Nellie:** Dam radę.  
 **Ella:** Pamiętaj… cicho.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn11.mp4` (zapętlone)
+
 **Nellie:** Dobry Boże!  
 **Mox:** Nellie! Ciii!  
 **Ella:** Tak!  
 **Nellie:** Ja pierdolę! Moja cipka!  
+
+> **🎬 Wstawka wideo:** `NeElMnsn12.mp4` (zapętlone)
+
 **Ella:** Rozciągnijmy tę dziwkarską cipkę!  
 **Nellie:** O, pieprz mnie!  
 **Mox:** Ella! Co ty jej robisz?  
 **Ella:** Sprawdzam jej granice.  
 **Nellie:** Wytrzymam!  
 **Mox:** O Boże. Ale z was dwie zboczone wariatki.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn13.mp4` (zapętlone)
+
 **Ella:** Pieprz mnie!  
 **Nellie:** Cholera! Cholera!  
 **Mox:** Tyle z naszego zachowywania ciszy.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn14.mp4` (zapętlone)
+
 **Ella:** Dojdź, dziewczyno!  
 **Nellie:** Dojdź! Chcę więcej kutasa!  
 **Ella:** Kurwa!  
+
+> **🎬 Wstawka wideo:** `NeElMnsn15.mp4`
+
 **Nellie:** Nie dajesz rady?  
 **Ella:** Heh. Dopiero się rozgrzewałam.  
 **Nellie:** Daj mi więcej kutasa!  
 **Mox:** Już się robi.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn16.mp4` (zapętlone)
+
 **Nellie:** Aaa!  
 **Mox:** Ciii!  
 **Ella:** Właśnie tak! Wypchaj tę sukę!  
 **Nellie:** O Boże! Za dużo!  
+
+> **🎬 Wstawka wideo:** `NeElMnsn17.mp4` (zapętlone)
+
 **Ella:** Mam przestać?  
 **Nellie:** Nie! Nie przestawaj!  
 **Ella:** Tak właśnie myślałam.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn18.mp4` (zapętlone)
+
 **Mox:** Miażdżysz mi kutasa!  
 **Nellie:** Prawie nie mogę tego wytrzymać!  
 **Ella:** Dalej, wy dwoje! Wytrzymajcie!  
+
+> **🎬 Wstawka wideo:** `NeElMnsn19.mp4` (zapętlone)
+
 **Nellie:** Nie dam rady!  
 **Mox:** Ja też nie!  
 **Ella:** Dojdź!  
+
+> **🎬 Wstawka wideo:** `NeElMnsn20.mp4`
+
 **Nellie:** Ja pierdolę! Gdzie się tego nauczyłaś?  
 **Ella:** Jestem profesjonalistką… A teraz pozwól, że wyliżę ten soczysty tyłek.  
+
+> **🎬 Wstawka wideo:** `NeElMnsn21.mp4` (zapętlone)
+
 **Nellie:** Naprawdę ją lubię.  
 **Mox:** Nie tylko ty.  
 
@@ -64815,6 +73244,8 @@
 ## Mapa 159 — Drugie biuro / event 16 / strona 1
 
 **Mox:** /find  
+
+> **🎬 Wstawka wideo:** `Fig-Ella.mp4` (zapętlone)
 
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
@@ -65046,6 +73477,8 @@
 
 ## Common Event 459 — SCN - Arianna Fuck
 
+> **🎬 Wstawka wideo:** `ArFrstTm1.mp4` (zapętlone)
+
 **Chloe:** Łał! Jest piękna.  
 **Judy:** Niesamowite.  
 **Nellie:** Cholera!  
@@ -65056,46 +73489,97 @@
 **Judy:** Możesz to przezwyciężyć! Wierzę w ciebie, Arianno.  
 **Hannah:** Nie stój tak, Mox. Uwiedź tę kobietę!  
 **Mox:** Wyzwanie… przyjęte.  
+
+> **🎬 Wstawka wideo:** `ArFrstTm2.mp4` (zapętlone)
+
 **Arianna:** O, Mox!  
 **Nellie:** Nie opieraj się, kochana.  
 **Judy:** Działa?  
+
+> **🎬 Wstawka wideo:** `ArFrstTm3.mp4` (zapętlone)
+
 **Arianna:** To… łaskocze.  
 **Lillian:** No dalej… Zrób to.  
+
+> **🎬 Wstawka wideo:** `ArFrstTm4.mp4` (zapętlone)
+
 **Mox:** Masz taką miękką skórę, Arianno.  
 **Arianna:** Mox! Dotykasz mojej piersi.  
 **Mox:** Podoba ci się?  
 **Arianna:** To… cudowne uczucie.  
+
+> **🎬 Wstawka wideo:** `ArFrstTm5.mp4` (zapętlone)
+
 **Mox:** Coś czujesz?  
 **Arianna:** Mój umysł się opiera… ale ciało chce więcej.  
+
+> **🎬 Wstawka wideo:** `ArFrstTm6.mp4` (zapętlone)
+
 **Lillian:** Jej skrzydła… Nie zmieniają się.  
 **Tasha:** Pieprz ją, Mox!  
+
+> **🎬 Wstawka wideo:** `ArFrstTm7.mp4` (zapętlone)
+
 **Mox:** Jesteś gotowa?  
 **Arianna:** Nie mogę tego powiedzieć… Nie potrafię… ale muszę.  
+
+> **🎬 Wstawka wideo:** `ArFrstTm8.mp4`
+
+> **🎬 Wstawka wideo:** `ArFrstTm9.mp4` (zapętlone)
+
 **Mox:** Cholera! Ale ciasno!  
 **Arianna:** Ach! Ach!  
 **Mox:** Wszystko w porządku?  
 **Arianna:** Nic mi nie jest…  
+
+> **🎬 Wstawka wideo:** `ArFrstTm10.mp4` (zapętlone)
+
 **Lillian:** Nie opieraj się, aniele!  
 **Nellie:** Poczuj tego kutasa!  
 **Arianna:** Jestem… taka niegrzeczna!  
 **Mox:** Owszem, Arianno… Odebrałem ci święte dziewictwo.  
 **Arianna:** O Boże!  
+
+> **🎬 Wstawka wideo:** `ArFrstTm11.mp4`
+
+> **🎬 Wstawka wideo:** `ArFrstTm12.mp4` (zapętlone)
+
 **Arianna:** Pieprz mnie!  
 **Mox:** O cholera!  
 **Lillian:** Działa!  
 **Nellie:** /excited  
+
+> **🎬 Wstawka wideo:** `ArFrstTm13.mp4` (zapętlone)
+
 **Arianna:** Wypełnij moją cipkę!  
 **Mox:** To niesamowite uczucie!  
 **Arianna:** Tak! Tak! Pieprz mnie mocniej!  
+
+> **🎬 Wstawka wideo:** `ArFrstTm14.mp4`
+
+> **🎬 Wstawka wideo:** `ArFrstTm15.mp4` (zapętlone)
+
 **Mox:** Kurwa!  
 **Arianna:** Daj mi tego kutasa! Daj mi swojego fiuta!  
+
+> **🎬 Wstawka wideo:** `ArFrstTm16.mp4` (zapętlone)
+
 **Mox:** Ach! Ach! Ale gorąca cipka!  
 **Arianna:** Serce wali mi jak szalone!  
+
+> **🎬 Wstawka wideo:** `ArFrstTm17.mp4` (zapętlone)
+
 **Arianna:** Czuję to! Czuję pożądanie!  
 **Mox:** Ja… Nie wytrzymam.  
+
+> **🎬 Wstawka wideo:** `ArFrstTm18.mp4` (zapętlone)
+
 **Arianna:** Daj mi swoje ludzkie nasienie, Mox!  
 **Mox:** Dochodzę!  
 **Arianna:** Tak!  
+
+> **🎬 Wstawka wideo:** `ArFrstTm19.mp4`
+
 **Mox:** Niesamowite!  
 **Lillian:** Udało jej się!  
 
@@ -65377,6 +73861,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Lillian.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -65391,6 +73877,8 @@
 ---
 
 ## Common Event 473 — SCN - Show Anachorismos
+
+> **🎬 Wstawka wideo:** `Anachorismos.mp4` (zapętlone)
 
 **Arianna:** /shocked  
 **Arianna:** Co to jest? Wzięłaś relikwię z Piekła?  
@@ -65431,57 +73919,101 @@
 
 ## Common Event 474 — SCN - Ella Arianna
 
+> **🎬 Wstawka wideo:** `ElAr3sm1.mp4` (zapętlone)
+
 **Arianna:** …  
 **Arianna:** Mmm…  
 **Mox:** Próbujesz uwieść demona? Cóż… Nie da się ukryć, że to podniecające.  
+
+> **🎬 Wstawka wideo:** `ElAr3sm2.mp4` (zapętlone)
+
 **Ella:** Może podkręcimy atmosferę? Co ty na to?  
 **Mox:** Robisz przedstawienie, Ello?  
 **Ella:** Niezupełnie o to mi chodziło…  
+
+> **🎬 Wstawka wideo:** `ElAr3sm3.mp4` (zapętlone)
+
 **Ella:** Oto on!  
 **Arianna:** Ojej! Ale jesteś odważna, Ello.  
 **Mox:** A co dokładnie masz na myśli?  
 **Ella:** Może jeszcze bardziej go podniecimy?  
+
+> **🎬 Wstawka wideo:** `ElAr3sm4.mp4` (zapętlone)
+
 **Mox:** Kurwa, ale cudownie.  
 **Arianna:** Och! Znowu to się dzieje! Robię się mokra między nogami.  
 **Ella:** Pozwól, że zmienię tę strużkę między twoimi nogami w prawdziwy strumień.  
+
+> **🎬 Wstawka wideo:** `ElAr3sm5.mp4` (zapętlone)
+
 **Arianna:** O, wow! Naprawdę wiesz, co robisz tym językiem, Ello!  
 **Mox:** Jej cipka jest równie niesamowita.  
 **Ella:** Mhm…  
+
+> **🎬 Wstawka wideo:** `ElAr3sm6.mp4` (zapętlone)
+
 **Mox:** Mogłbym tak cały dzień!  
 **Arianna:** Nie przestawaj, Ello, nie przestawaj.  
 **Ella:** …  
 **Arianna:** Mox… Też chcę spróbować.  
+
+> **🎬 Wstawka wideo:** `ElAr3sm7.mp4` (zapętlone)
+
 **Mox:** Jak ci się podoba ten kutas, demonico?  
 **Arianna:** Aleee dobrze!  
 **Arianna:** Nie przestawaj, Mox.  
+
+> **🎬 Wstawka wideo:** `ElAr3sm8.mp4` (zapętlone)
+
 **Mox:** Jak ci się podoba ocieranie łechtaczką o twarz demona, Ello?  
 **Ella:** To cholernie podniecające!  
 **Ella:** Podoba ci się, że cała cipka Arianny jest na twojej twarzy?  
 **Arianna:** O Boże, wszystko jest takie cudowne!  
 **Arianna:** Ale teraz mój tyłeczek też chciałby trochę uwagi…  
 **Mox:** Myślę, że da się to załatwić.  
+
+> **🎬 Wstawka wideo:** `ElAr3sm9.mp4` (zapętlone)
+
 **Arianna:** O kurwa!  
 **Mox:** Twój tyłek jest zajebiście przyjemny, Arianno!  
 **Arianna:** Całe ciało mi drży! Tyłek, cipka, piersi…  
 **Arianna:** Nie chcę, żeby to się skończyło.  
+
+> **🎬 Wstawka wideo:** `ElAr3sm10.mp4` (zapętlone)
+
 **Mox:** Cholera, ale ciasno!  
 **Arianna:** Wypełniaj mój tyłek swoim twardym kutasem, Mox!  
 **Mox:** Chcę, ale…  
 **Mox:** Ello, mam pomysł.  
+
+> **🎬 Wstawka wideo:** `ElAr3sm11.mp4` (zapętlone)
+
 **Mox:** To był świetny pomysł.  
 **Ella:** No jasne!  
+
+> **🎬 Wstawka wideo:** `ElAr3sm12.mp4` (zapętlone)
+
 **Ella:** Chyba Ariannie też się podoba.  
 **Arianna:** Jestem teraz taka szczęśliwa!  
 **Arianna:** Seks jest wspaniały!  
 **Ella:** Mox, może jeszcze trochę podkręcisz tę rozkosz?  
 **Mox:** Chyba dam sobie z tym radę.  
+
+> **🎬 Wstawka wideo:** `ElAr3sm13.mp4` (zapętlone)
+
 **Arianna:** Tak! Tak! Pieprz nas, Mox!  
 **Ella:** Słyszałeś ją, Mox!  
 **Mox:** Wasze cipki cudownie zaciskają się na moim kutasie!  
+
+> **🎬 Wstawka wideo:** `ElAr3sm14.mp4` (zapętlone)
+
 **Mox:** Gdyby to nigdy nie musiało się kończyć.  
 **Arianna:** Nigdy nie przestawaj!  
 **Mox:** Chciałbym nie musieć, ale…  
 **Mox:** Już nadchodzi!  
+
+> **🎬 Wstawka wideo:** `ElAr3sm15.mp4`
+
 **Mox:** Ależ to widok.  
 **Arianna:** Hmm, to było coś.  
 **Arianna:** Nie czuję teraz nic poza rozkoszą.  
@@ -65685,47 +74217,96 @@
 
 ## Common Event 388 — SCN - Lillian Erica Kitchen
 
+> **🎬 Wstawka wideo:** `LiErKtchMc1.mp4` (zapętlone)
+
 **Lillian:** Może napijemy się czegoś?  
 **Mox:** Och, eee… Ja nie bardzo…  
 **Lillian:** Nalegam.  
 **Erica:** Kieliszka?  
 **Lillian:** Coś w tym stylu.  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc2.mp4`
+
+> **🎬 Wstawka wideo:** `LiErKtchMc3.mp4` (zapętlone)
+
 **Mox:** Co do cholery?…  
 **Mox:** Lillian?  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc4.mp4`
+
+> **🎬 Wstawka wideo:** `LiErKtchMc5.mp4` (zapętlone)
+
 **Lillian:** Robiliście coś za moimi plecami.  
 **Erica:** Ja… nie wiem, co powiedzieć.  
 **Lillian:** Może nie dość jasno przedstawiłam wam swoje oczekiwania.  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc6.mp4` (zapętlone)
+
 **Lillian:** Jestem tu, by dawać wam rozkosz, a wy będziecie odwdzięczać mi się tym samym.  
 **Erica:** Oczywiście. Jesteś piękna.  
 **Lillian:** Z czasem docenicie mnie taką, jaka naprawdę jestem.  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc7.mp4` (zapętlone)
+
 **Erica:** Och! Lillian!  
 **Mox:** Tego chcesz, Lillian?  
 **Lillian:** Spójrz na nią, Mox. Zobacz, jak bardzo tego potrzebuje.  
 **Erica:** Mój tyłek… Jest w moim tyłku.  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc8.mp4` (zapętlone)
+
 **Mox:** Zawsze chętnie dam ci swojego kutasa.  
 **Lillian:** Grzeczny chłopiec. Chcę was oboje.  
 **Erica:** Tak, Lillian… Jestem twoja.  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc9.mp4`
+
+> **🎬 Wstawka wideo:** `LiErKtchMc10.mp4` (zapętlone)
+
 **Mox:** Mmmf!  
 **Erica:** Jezu, Lillian. Naprawdę się w to wkręciłaś.  
 **Lillian:** Spójrz, jaki jest bezradny… Smakuje twój tyłek… Jest niewolnikiem własnych żądz.  
 **Erica:** To… takie podniecające.  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc11.mp4`
+
+> **🎬 Wstawka wideo:** `LiErKtchMc12.mp4` (zapętlone)
+
 **Lillian:** Właśnie tak, Mox. Pieprz ją!  
 **Erica:** O, Mox!  
 **Mox:** Jesteś przepiękna.  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc13.mp4` (zapętlone)
+
 **Erica:** Jestem taka napalona. Potrzebuję twojego kutasa.  
 **Mox:** Twoja cipka jest cholernie gorąca.  
 **Lillian:** Nie przestawaj, dopóki nie dojdzie.  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc14.mp4` (zapętlone)
+
 **Lillian:** Poczuj rozkosz… Poczuj, jak znika cały ciężar poza tą chwilą.  
 **Erica:** Ale dobrze!  
 **Mox:** Kurwa…  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc15.mp4` (zapętlone)
+
 **Lillian:** Żyjesz dla tej chwili… Tak właśnie powinno być.  
 **Erica:** Pieprz mnie! Pieprz mnie mocno!  
 **Lillian:** Wkrótce spojrzysz na świat nowymi oczami.  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc16.mp4` (zapętlone)
+
 **Erica:** Zaraz dojdę!  
 **Mox:** Nie wytrzymam!  
 **Lillian:** Nie opieraj się!  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc17.mp4`
+
 **Erica:** Mox…  
 **Mox:** To było niesamowite.  
+
+> **🎬 Wstawka wideo:** `LiErKtchMc18.mp4` (zapętlone)
+
 **Lillian:** A teraz się napijemy…  
 **Lillian:** Za nową przyszłość.  
 **Erica:** Ale pięknie pachnie.  
@@ -65799,48 +74380,104 @@
 
 ## Common Event 415 — SCN - Andrea Solo Kitchen
 
+> **🎬 Wstawka wideo:** `AdKthFk1.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `AdKthFk2.mp4` (zapętlone)
+
 **Andrea:** To było nieuniknione od dawna, Mox…  
 **Andrea:** Dziś zaczyna się nowy rozdział.  
 **Mox:** Andrea!... Ktoś może nas zobaczyć!  
+
+> **🎬 Wstawka wideo:** `AdKthFk3.mp4` (zapętlone)
+
 **Andrea:** Oddasz mi swojego kutasa.  
 **Mox:** Eee… Tak jest, proszę pani.  
+
+> **🎬 Wstawka wideo:** `AdKthFk4.mp4` (zapętlone)
+
 **Andrea:** Słuchaj moich rozkazów, a zajdziesz daleko.  
 **Mox:** Wykonuję rozkazy, odkąd dołączyłem do komisariatu… Ale mam też własne pomysły.  
 **Andrea:** Nie znasz też wszystkich informacji… Zaufaj mojemu planowi, Mox.  
 **Mox:** Jeśli chcesz mojego kutasa… powiedz mi, czego nie wiem.  
+
+> **🎬 Wstawka wideo:** `AdKthFk5.mp4` (zapętlone)
+
 **Mox:** Hej!  
 **Mox:** Ugh!... Ale ciepło.  
+
+> **🎬 Wstawka wideo:** `AdKthFk6.mp4` (zapętlone)
+
 **Andrea:** Masz zdolności przywódcze. Będę ich od ciebie potrzebować…  
 **Andrea:** Ale, Mox…  
 **Andrea:** Nigdy więcej nie mów mi, co mogę, a czego nie mogę mieć.  
+
+> **🎬 Wstawka wideo:** `AdKthFk7.mp4` (zapętlone)
+
 **Andrea:** O Boże! Czemu to jest takie przyjemne?!  
 **Mox:** Cholera, Andreo! Jesteś taka gorąca i ciasna!  
+
+> **🎬 Wstawka wideo:** `AdKthFk8.mp4` (zapętlone)
+
 **Andrea:** Pieprz mnie, Mox!  
 **Mox:** Cholera!  
+
+> **🎬 Wstawka wideo:** `AdKthFk9.mp4`
+
+> **🎬 Wstawka wideo:** `AdKthFk10.mp4` (zapętlone)
+
 **Andrea:** Dawaj, kochanie! Pieprz moje ciało!  
 **Mox:** Boże, Andreo. Ale jesteś teraz gorąca.  
 **Andrea:** Ty też to czujesz, Mox! Pisze się nasza nowa przyszłość!  
+
+> **🎬 Wstawka wideo:** `AdKthFk11.mp4` (zapętlone)
+
 **Andrea:** Wkrótce rezydencja przejdzie na własność państwa, a dawni stronnicy Gildii znikną.  
 **Mox:** To ty wypędź Gildię, Andreo. Nie ukrywaj tego.  
+
+> **🎬 Wstawka wideo:** `AdKthFk12.mp4` (zapętlone)
+
 **Andrea:** Do jutra niesława Gildii przejdzie do historii.  
 **Mox:** Chcesz po prostu, żeby wszyscy o tym zapomnieli, prawda?  
 **Andrea:** Właśnie.  
+
+> **🎬 Wstawka wideo:** `AdKthFk13.mp4` (zapętlone)
+
 **Andrea:** Czeka nas świetlana przyszłość. Taka, w której nikt nie będzie wspominał o Gildii.  
 **Mox:** Powiedz… Jak wygląda przyszłość?  
 **Andrea:** Piękna, Mox… Piękna i przewidywalna.  
+
+> **🎬 Wstawka wideo:** `AdKthFk14.mp4` (zapętlone)
+
 **Andrea:** Pieprz mnie w tyłek, kochanie.  
 **Mox:** Mówisz poważnie?  
 **Andrea:** Nie mów, że zaniedbasz ten wielki, okrągły tyłeczek.  
 **Mox:** Masz gadane.  
+
+> **🎬 Wstawka wideo:** `AdKthFk15.mp4`
+
+> **🎬 Wstawka wideo:** `AdKthFk16.mp4` (zapętlone)
+
 **Andrea:** Tak! Tak! Pieprz mój tyłek!  
 **Mox:** Ależ pyszny tyłeczek!  
 **Andrea:** Ale z ciebie niegrzeczny, sprośny chłopiec!  
+
+> **🎬 Wstawka wideo:** `AdKthFk17.mp4` (zapętlone)
+
 **Mox:** Jest taki ciasny... i miękki!  
 **Andrea:** Dawaj! Nie hamuj się!  
+
+> **🎬 Wstawka wideo:** `AdKthFk18.mp4` (zapętlone)
+
 **Andrea:** Pieprz mnie! Ach! Tak!  
 **Mox:** O cholera! Ale dobrze!  
+
+> **🎬 Wstawka wideo:** `AdKthFk19.mp4` (zapętlone)
+
 **Andrea:** Spuść się w moim tyłku! Wypełnij go swoją spermą!  
 **Mox:** O Boże! Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `AdKthFk20.mp4`
+
 **Andrea:** Dobry Boże! Co za występ.  
 **Mox:** Cholera! Ale jazda.  
 
@@ -66318,37 +74955,78 @@
 
 ## Common Event 465 — SCN - Erica Tomb
 
+> **🎬 Wstawka wideo:** `ErTmbRd1.mp4` (zapętlone)
+
 **Mox:** Bogowie Casuli, napełnijcie mojego kutasa mocą, by otworzył tajemne przejście!  
 **Erica:** Naśmiewasz się z mojego pochodzenia?  
 **Mox:** Nie słuchajcie tej sceptycznej wiedźmy! Dajcie moc mojemu kutasowi!  
 **Erica:** Chcesz, żeby ten kutas zyskał moc? Wiem, czego mu trzeba.  
+
+> **🎬 Wstawka wideo:** `ErTmbRd2.mp4` (zapętlone)
+
 **Mox:** O tak! Te ciepłe usta są idealne!...  
 **Mox:** Ssij tego kutasa, Erico.  
+
+> **🎬 Wstawka wideo:** `ErTmbRd3.mp4` (zapętlone)
+
 **Mox:** Jeśli to nie otworzy przejścia, to już nie wiem, co może.  
+
+> **🎬 Wstawka wideo:** `ErTmbRd4.mp4` (zapętlone)
+
 **Erica:** Dobra, mądralo. Może mnie rozgrzejesz?… Trochę mi zimno.  
 **Mox:** Z przyjemnością.  
+
+> **🎬 Wstawka wideo:** `ErTmbRd5.mp4` (zapętlone)
+
 **Erica:** Och, Mox! Jesteś taki silny!...  
 **Erica:** Ależ to przyjemne!  
+
+> **🎬 Wstawka wideo:** `ErTmbRd6.mp4` (zapętlone)
+
 **Erica:** Tak! Tak! Spraw, by moja cipka ociekała wilgocią, kochanie!  
+
+> **🎬 Wstawka wideo:** `ErTmbRd7.mp4` (zapętlone)
+
 **Mox:** Jesteś piękna, Erico.  
 **Erica:** Pieprz mnie, Mox.  
+
+> **🎬 Wstawka wideo:** `ErTmbRd8.mp4` (zapętlone)
+
 **Mox:** Chyba się w tobie zakochałem.  
 **Erica:** To zerżnij mnie porządnie, kochasiu!  
+
+> **🎬 Wstawka wideo:** `ErTmbRd9.mp4` (zapętlone)
+
 **Erica:** Tak! Kurwa!  
 **Mox:** Masz cipkę anioła.  
 **Erica:** Sam coś o tym wiesz.  
+
+> **🎬 Wstawka wideo:** `ErTmbRd10.mp4` (zapętlone)
+
 **Mox:** Aż bije od ciebie gorąco.  
 **Erica:** Ale jestem rozpalona!  
 **Mox:** O tak, kurwa!  
 **Erica:** Boże, chcę więcej!  
+
+> **🎬 Wstawka wideo:** `ErTmbRd11.mp4` (zapętlone)
+
 **Mox:** Kurwa!  
 **Erica:** Dawaj! Chcę twojego kutasa!  
+
+> **🎬 Wstawka wideo:** `ErTmbRd12.mp4` (zapętlone)
+
 **Mox:** Ale jesteś napalona!  
 **Erica:** Chcesz dojść we mnie?... Jestem gotowa.  
 **Mox:** O kurwa… Ale podniecające.  
 **Erica:** Zrób mi dziecko!  
+
+> **🎬 Wstawka wideo:** `ErTmbRd13.mp4` (zapętlone)
+
 **Mox:** O cholera! Ale gorąco!  
 **Erica:** Pieprz mnie! Wypełnij mnie!  
+
+> **🎬 Wstawka wideo:** `ErTmbRd14.mp4` (zapętlone)
+
 **Mox:** Zaraz dojdę!  
 **Erica:** Zrób to!  
 
@@ -66358,9 +75036,14 @@
 
 > **Ścieżka warunkowa:** wybór «Skończ w środku».
 
+> **🎬 Wstawka wideo:** `ErTmbRd15.mp4`
+
 **Erica:** O cholera… Naprawdę to zrobiłeś.  
 **Mox:** Chcesz tego… prawda?  
 **Erica:** Tak, Mox… Chcę.  
+
+> **🎬 Wstawka wideo:** `ErTmbRd16.mp4`
+
 **Erica:** Cholera, ale to było niesamowite!  
 **Mox:** Masz owulację, prawda?  
 **Erica:** Wygląda na to, że tym razem nie będzie dziecka, Mox.  
@@ -66519,64 +75202,122 @@
 
 ## Common Event 366 — SCN - Nellie Melissa Sex
 
+> **🎬 Wstawka wideo:** `NeMeHw1.mp4` (zapętlone)
+
 **Mox:** Łał.  
 **Kobieta-popleczniczka:** Właśnie tak. Zrób mi przedstawienie…  
 **Kobieta-popleczniczka:** I postaraj się.  
+
+> **🎬 Wstawka wideo:** `NeMeHw2.mp4` (zapętlone)
+
 **Melissa:** Hej! Co robisz?  
 **Kobieta-popleczniczka:** O tak! Ssij te cycki!  
 **Melissa:** O Boże.  
+
+> **🎬 Wstawka wideo:** `NeMeHw3.mp4` (zapętlone)
+
 **Kobieta-popleczniczka:** Źle cię oceniłam, Nellie. Myślałam, że próbujesz odbić mi faceta, Duncana…  
 **Kobieta-popleczniczka:** Chyba podoba mi się ta twoja strona.  
 **Melissa:** Uwierzyła. Możesz już przestać.  
+
+> **🎬 Wstawka wideo:** `NeMeHw4.mp4` (zapętlone)
+
 **Nellie:** Jest już mokra, Phyllis.  
 **Melissa:** Cholera.  
 **Kobieta-popleczniczka:** Uuu! Dalej, Nellie! Bierz ją!  
+
+> **🎬 Wstawka wideo:** `NeMeHw5.mp4` (zapętlone)
+
 **Melissa:** Naprawdę musimy posuwać się tak daleko?  
 **Nellie:** Zaufaj mi… Daj się ponieść.  
 **Kobieta-popleczniczka:** Nie jestem fanką minety, ale nawet mnie to podnieca.  
 **Mox:** Fuj.  
+
+> **🎬 Wstawka wideo:** `NeMeHw6.mp4` (zapętlone)
+
 **Melissa:** O kurwa.  
 **Nellie:** Jesteś mokra, pani detektyw.  
 **Melissa:** Naprawdę musisz tak grać? Ona jest pijana.  
 **Nellie:** Przestań marudzić.  
+
+> **🎬 Wstawka wideo:** `NeMeHw7.mp4` (zapętlone)
+
 **Melissa:** O tak!  
 **Mox:** Cholera. Wciąga się w to.  
 **Kobieta-popleczniczka:** Niezłe ruchy, Nel!  
+
+> **🎬 Wstawka wideo:** `NeMeHw8.mp4` (zapętlone)
+
 **Melissa:** Chyba sobie żartujesz.  
 **Melissa:** O cholera. O cholera!  
+
+> **🎬 Wstawka wideo:** `NeMeHw9.mp4` (zapętlone)
+
 **Mox:** O rany! Ale to podniecające!  
 **Kobieta-popleczniczka:** Tak! Dawaj!  
 **Mox:** Cholera. Odwracają jej uwagę… Powinienem coś zrobić.  
+
+> **🎬 Wstawka wideo:** `NeMeHw10.mp4` (zapętlone)
+
 **Melissa:** Kurwa!  
 **Nellie:** O tak!  
 **Mox:** Cholera!... Kurde… Muszę się skupić…  
+
+> **🎬 Wstawka wideo:** `NeMeHw11.mp4` (zapętlone)
+
 **Melissa:** Naprawdę wiesz, co robisz.  
 **Nellie:** Nie pierwszy raz to robię.  
 **Mox:** Mogę ogłuszyć tę brzydką kobietę… Celny cios w szyję powinien wystarczyć.  
+
+> **🎬 Wstawka wideo:** `NeMeHw12.mp4` (zapętlone)
+
 **Nellie:** Dojdź, pani detektyw. Niech to zobaczy.  
 **Melissa:** Kurwa!  
 **Mox:** Cholera… Czy ona zaraz dojdzie?  
+
+> **🎬 Wstawka wideo:** `NeMeHw13.mp4` (zapętlone)
+
 **Melissa:** Jeszcze… Troszeczkę.  
 **Nellie:** O tak!  
+
+> **🎬 Wstawka wideo:** `NeMeHw14.mp4`
+
 **Nellie:** Podoba ci się… Vanesso?  
 **Melissa:** Uwierzyła. Puść mnie już.  
 **Nellie:** To jeszcze nie koniec.  
+
+> **🎬 Wstawka wideo:** `NeMeHw15.mp4` (zapętlone)
+
 **Melissa:** Mmmmm!  
 **Nellie:** O Boże!  
 **Mox:** To moja szansa…  
+
+> **🎬 Wstawka wideo:** `NeMeHw16.mp4` (zapętlone)
+
 **Nellie:** Kurwa!  
 **Kobieta-popleczniczka:** Łał!  
 **Mox:** … Chcę jeszcze chwilę popatrzeć.  
+
+> **🎬 Wstawka wideo:** `NeMeHw17.mp4` (zapętlone)
+
 **Nellie:** Jestem coraz bliżej!  
 **Kobieta-popleczniczka:** Dawaj! Haha!  
 **Melissa:** Mmm…  
+
+> **🎬 Wstawka wideo:** `NeMeHw18.mp4` (zapętlone)
+
 **Mox:** Hehe… Ale dają czadu.  
 **Nellie:** Zaraz dojdę!  
 **Mox:** Cholera. Muszę się skupić.  
+
+> **🎬 Wstawka wideo:** `NeMeHw19.mp4`
+
 **Nellie:** Wygląda na to, że dziś mam szczęście.  
 **Melissa:** Mmmmm!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `NeMeHw20.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -66634,43 +75375,82 @@
 
 ## Common Event 393 — SCN - Nellie MC Tied
 
+> **🎬 Wstawka wideo:** `NeMcTied1.mp4` (zapętlone)
+
 **Nellie:** Dawaj, rozwiążę cię.  
 **Mox:** Ale, Nellie. Zorientują się, że mi pomogłaś.  
 **Nellie:** Nie pozwolę im cię zabić.  
 **Mox:** Chodź ze mną. Możemy wyjść przez kościół.  
 **Nellie:** Muszę zostać. Nie mogę odejść, dopóki misja się nie skończy.  
 **Mox:** Ale Nellie…  
+
+> **🎬 Wstawka wideo:** `NeMcTied2.mp4` (zapętlone)
+
 **Nellie:** Spokojnie, Mox. Możesz mnie trochę poturbować, żeby wyglądało, że się szarpaliśmy.  
 **Mox:** Mówisz poważnie?!  
 **Nellie:** Muszę być spocona i posiniaczona, bo inaczej to mnie zastrzelą.  
 **Mox:** To szaleństwo.  
 **Nellie:** Ludzie Duncana nie wrócą przez jakiś czas. Mamy chwilę.  
+
+> **🎬 Wstawka wideo:** `NeMcTied3.mp4`
+
+> **🎬 Wstawka wideo:** `NeMcTied4.mp4` (zapętlone)
+
 **Nellie:** O tak!  
 **Mox:** Nellie… Rozwiąż mi ręce.  
 **Nellie:** Podoba mi się, gdy tak wyglądasz, Mox.  
 **Mox:** Cholera jasna, kobieto.  
+
+> **🎬 Wstawka wideo:** `NeMcTied5.mp4` (zapętlone)
+
 **Nellie:** Ta staruszka napędziła nam stracha. Duncan jest wściekły.  
 **Mox:** Czego ona chce od tych amuletów?  
 **Nellie:** Nie wiem. Ale Duncan ma dojścia… Dowie się.  
 **Mox:** Nellie… Rozwiąż mnie.  
+
+> **🎬 Wstawka wideo:** `NeMcTied6.mp4` (zapętlone)
+
 **Nellie:** O kurwa! Mox!  
 **Mox:** Szybciej!  
 **Nellie:** Mamy mnóstwo czasu.  
+
+> **🎬 Wstawka wideo:** `NeMcTied7.mp4` (zapętlone)
+
 **Nellie:** Cholera! Co to za węzeł?  
 **Mox:** Może gdybyś na chwilę przestała dosiadać mojego kutasa…  
 **Nellie:** Jest! Udało się!  
+
+> **🎬 Wstawka wideo:** `NeMcTied8.mp4` (zapętlone)
+
 **Nellie:** Pieprz mnie!  
 **Mox:** Cholera, Nellie! Ale jesteś ciasna!  
 **Nellie:** Musisz być ostrzejszy.  
+
+> **🎬 Wstawka wideo:** `NeMcTied9.mp4` (zapętlone)
+
 **Mox:** Nie zamierzam cię poturbować.  
 **Nellie:** Nie masz wyboru. A teraz pokaż pazur, kochanie!  
+
+> **🎬 Wstawka wideo:** `NeMcTied10.mp4` (zapętlone)
+
 **Mox:** Ja… Nie mogę!  
 **Nellie:** Dawaj! Przyłóż mi!  
 **Mox:** Nie!  
+
+> **🎬 Wstawka wideo:** `NeMcTied11.mp4` (zapętlone)
+
 **Nellie:** Cholera jasna, Mox! Zrób to!  
 **Mox:** Ja… dochodzę!  
+
+> **🎬 Wstawka wideo:** `NeMcTied12.mp4`
+
+> **🎬 Wstawka wideo:** `NeMcTied13.mp4`
+
 **Mox:** Ja… Wypełniłem cię.  
 **Nellie:** Co ja mam z tym zrobić? Powiedzieć im, że mnie zgwałciłeś?  
+
+> **🎬 Wstawka wideo:** `NeMcTied14.mp4` (zapętlone)
+
 **Oprych 1:** Koniec czasu, detektywie.  
 **Nellie:** Wróciliście?!  
 **Oprych 2:** Okazało się, że w jednej ze skrzyń mieliśmy zapasową broń.  
@@ -66833,6 +75613,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Andrea.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -66895,24 +75677,43 @@
 
 ## Common Event 431 — SCN - Kimberly Andrea Madalyn Demon
 
+> **🎬 Wstawka wideo:** `MlKiAdMcRift1.mp4` (zapętlone)
+
 **Mox:** Cholera! Cholera!... Co mam zrobić?...  
 **Mox:** Muszę odciągnąć Kimberly od tego potwora…  
 **Mox:** Albo… mógłbym wsadzić w nią kutasa…  
 **Mox:** Uratować Kimberly?...  
 **Mox:** Czy pieprzyć potworzycę…  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift2.mp4` (zapętlone)
+
 **Demon 1:** O tak! Będziesz tylko moja!  
 **Mox:** Kurwa! Ale dobrze!  
 **Demon 1:** Nie spiesz się, kochanie. Chcę cię mieć jeszcze przez długi, długi czas.  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift3.mp4` (zapętlone)
+
 **Mox:** Nie mogę się powstrzymać… Czemu tak trudno przestać?  
 **Demon 1:** Nie ma sensu się opierać. Oboje należycie do mnie.  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift4.mp4`
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift5.mp4` (zapętlone)
+
 **Mox:** Madalyn!  
 **Kimberly:** Panna Kimura? Co ona robi?  
 **Madalyn:** Otworzyłaś szczelinę. Sprytnie.  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift6.mp4` (zapętlone)
+
 **Andrea:** Ja pierdolę… To niesamowite!  
 **Mox:** Co jej zrobiłaś?  
 **Madalyn:** Skosztowała czegoś… co wywraca umysł na nice.  
 **Kimberly:** Gdzie jest Lillian?  
 **Madalyn:** Matki teraz tu nie ma. Podziwiam jednak pani lojalność, panno Foxx.  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift7.mp4` (zapętlone)
+
 **Mox:** Andreo!  
 **Madalyn:** Wygląda na to, że pani komisarz zna swoje miejsce.  
 **Mox:** O cholera!  
@@ -66920,35 +75721,78 @@
 **Madalyn:** Chcesz zobaczyć Matkę?  
 **Kimberly:** Tak… Chcę.  
 **Madalyn:** Najpierw trochę się zabawimy.  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift8.mp4` (zapętlone)
+
 **Kimberly:** Dobry Boże! Ja pierdolę!  
 **Madalyn:** Jest pani bardzo wrażliwa, panno Foxx.  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift9.mp4` (zapętlone)
+
 **Mox:** Zostaw ją w spokoju!  
 **Kimberly:** Nie! Nie słuchaj go! Włóż palce w moje dziurki!  
 **Madalyn:** Nasmaruj mu kutasa śliną, pani komisarz. Mam dla niego niezły kąsek.  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift10.mp4`
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift11.mp4` (zapętlone)
+
 **Kimberly:** Daj mi to, Mox!  
 **Madalyn:** Dobrze! Dobrze! Dawaj!  
 **Mox:** Ale ciasno!  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift12.mp4` (zapętlone)
+
 **Andrea:** Pani ciało jest oszałamiająco piękne, panno Foxx.  
 **Kimberly:** Dotykaj! Pieprz! Moje ciało jest do twojej dyspozycji!  
 **Andrea:** Moje też!  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift13.mp4` (zapętlone)
+
 **Kimberly:** Achhhh! Tak!  
 **Mox:** Ale przyjemnie czuję swojego kutasa!  
 **Andrea:** Pieprz moją cipkę!  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift14.mp4` (zapętlone)
+
 **Kimberly:** Połaskocz moją cipkę, kobieto!  
 **Andrea:** Ale z ciebie dziwka!  
 **Kimberly:** Chcę was! Chcę was oboje!  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift15.mp4` (zapętlone)
+
 **Andrea:** Wylizuj mi tyłek, piękna zdziro!  
 **Madalyn:** Traci pani nad sobą kontrolę, panno Kimura.  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift16.mp4` (zapętlone)
+
 **Andrea:** Żyję, by służyć kutasom! Żyję dla rozkoszy!  
 **Madalyn:** Tak jak wszyscy ludzie.  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift17.mp4` (zapętlone)
+
 **Madalyn:** Cóż za piękny widok.  
 **Andrea:** Cholera! Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift18.mp4`
+
 **Mox:** Chcę więcej!  
 **Madalyn:** Dawaj! Bierz od nich, co chcesz!  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift19.mp4` (zapętlone)
+
 **Mox:** Kurwa!  
 **Kimberly:** O Boże! Jej usta! Jej język jest w moim tyłku!  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift20.mp4` (zapętlone)
+
 **Mox:** Ale podniecające! Nie mogę się powstrzymać!  
 **Kimberly:** Zaraz znowu dojdę!  
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift21.mp4`
+
+> **🎬 Wstawka wideo:** `MlKiAdMcRift22.mp4` (zapętlone)
+
 **Madalyn:** To było przyjemne spotkanie. Ale mam jeszcze sprawy do załatwienia.  
 **Mox:** Co jest z Kimberly? Co z nią robisz?  
 **Madalyn:** Zabieram ją do Matki.  
@@ -66972,7 +75816,7 @@
 **Brian:** /order  
 **Demon 1:** Nie tak szybko!  
 **Demon 2:** Zapłacisz mi za to!  
-**Lillian:** Spokojnie. Kapłan wyprał Mox mózg. On nie rozumie, co się dzieje.  
+**Lillian:** Spokojnie. Kapłan wyprał Moxa mózg. On nie rozumie, co się dzieje.  
 **Mox:** To ty pierzesz Kimberly mózg!  
 **Demon 3:** Uciekła.  
 **Lillian:** Puśćcie ich. Kimberly rozumie, w jakiej jesteśmy sytuacji. Postąpi właściwie.  
@@ -66986,7 +75830,7 @@
 **Demon 1:** Oczywiście, że tak.  
 **Lillian:** Cieszę się, że tu jesteś, Mox. To świat pełen cierpienia…  
 **Lillian:** Mogę to naprawić.  
-**Mox:** Za pomocą Toma?  
+**Mox:** Za pomocą Tomy?  
 **Lillian:** Tak, kochanie. Toma wskaże drogę, a potępieni unikną wieczności cierpienia.  
 **Demon 3:** Tak, Matko! Nasze wyzwolenie jest blisko!  
 **Mox:** Cóż… To znaczy… Kto nie chciałby być wolny?  
@@ -66998,70 +75842,144 @@
 
 ## Common Event 434 — SCN - Lillian Demons Hell
 
+> **🎬 Wstawka wideo:** `LiDmnsHll1.mp4` (zapętlone)
+
 **Demon 1:** Rozkoszuj się, człowieku.  
 **Lillian:** Dobrze się tobą zajmą, Mox. Pozwól im.  
 **Mox:** Och… Tak! Zajmijcie się mną!  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll2.mp4` (zapętlone)
+
 **Demon 1:** Ma twardego kutasa i jest gotowy.  
 **Lillian:** Okażcie mu gościnność, dziewczęta.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll3.mp4` (zapętlone)
+
 **Demon 2:** Tak! Dajcie mi tego ludzkiego kutasa!  
 **Demon 1:** Ssij mojego cycka, człowieku.  
 **Lillian:** Nie hamuj się.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll4.mp4` (zapętlone)
+
 **Demon 3:** Wygląda smakowicie!  
 **Demon 2:** Ma cudownego kutasa!  
 **Demon 1:** Mam coś dla ciebie, kochanie.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll5.mp4` (zapętlone)
+
 **Demon 2:** Tak! Tak!  
 **Demon 1:** Pij! Wypij moje soki!  
 **Lillian:** Pozwól mu zlizać twoje soki. Niech nie uroni ani kropli.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll6.mp4` (zapętlone)
+
 **Demon 1:** Tak, matko! Wypije wszystko!  
 **Demon 2:** Dawno nie miałam w sobie tak dobrego ludzkiego kutasa.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll7.mp4` (zapętlone)
+
 **Lillian:** Rozkoszuj się, dziecko.  
 **Demon 1:** Chcę więcej! Chcę spłodzić potomstwo z tym człowiekiem!  
 **Lillian:** W swoim czasie.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll8.mp4` (zapętlone)
+
 **Lillian:** Smakowała ci jej cipka?  
 **Mox:** Jest taka pyszna… Chcę więcej.  
 **Lillian:** Można w niej pokochać więcej niż tylko jej smak.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll9.mp4` (zapętlone)
+
 **Demon 1:** Chcę go pieprzyć.  
 **Demon 3:** Siostra ma ciasny tyłek. Kutas chłopaka daje jej mnóstwo rozkoszy.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll10.mp4` (zapętlone)
+
 **Lillian:** Daj mu więcej. Bierz go, aż dojdziesz.  
 **Demon 1:** Dajcie go mnie! Teraz moja kolej!  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll11.mp4` (zapętlone)
+
 **Demon 1:** Tak! Daj mi swojego ludzkiego kutasa!  
 **Lillian:** Poczuj mój smak, Mox! Niech żądza cię ogarnie!  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll12.mp4` (zapętlone)
+
 **Demon 1:** Jego kutas rośnie we mnie! Ale czuję napływ krwi!  
 **Lillian:** Właśnie tak, Mox! Połknij to! Pozwól, by zawładnęło twoim ciałem!  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll13.mp4` (zapętlone)
+
 **Demon 1:** Działa! Wypełnia go twój płyn!  
 **Lillian:** Tak! Tak! Bierz!  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll14.mp4` (zapętlone)
+
 **Mox:** Chcę więcej!  
 **Lillian:** Spokojnie, Mox. Tyle wystarczy… Nie chcemy, żebyś zemdlał.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll15.mp4` (zapętlone)
+
 **Demon 1:** Rżnij mnie mocno! Wbijaj się we mnie swoim pulsującym kutasem!  
 **Lillian:** Bierz ją! Doprowadź ją do orgazmu!  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll16.mp4` (zapętlone)
+
 **Mox:** Kręci mi się w głowie!  
 **Lillian:** Dojdź, dziecko! Musisz go puścić!  
 **Demon 1:** Jak sobie życzysz.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll17.mp4`
+
 **Demon 1:** Ach! Tak!  
 **Mox:** Nie! Potrzebuję więcej cipki! Dajcie mi więcej!  
 **Lillian:** Odsuńcie od niego cipki. Słabnie…  
 **Lillian:** Mam lepszy pomysł.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll18.mp4` (zapętlone)
+
 **Mox:** Taka… miękka!  
 **Demon 3:** Chyba mu się podoba.  
 **Lillian:** Dajmy mu chwilę odpocząć.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll19.mp4` (zapętlone)
+
 **Demon 3:** Podoba ci się tyłek matki, człowieku?  
 **Mox:** Ale dobrze!  
 **Lillian:** Oddychaj, Mox.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll20.mp4` (zapętlone)
+
 **Mox:** Mój kutas jest niesamowity.  
 **Lillian:** Doprowadź go na skraj, ale nie pozwól mu dojść.  
 **Demon 3:** Tak, matko.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll21.mp4`
+
 **Demon 3:** Ups!  
 **Lillian:** Za bardzo zaryzykowałyśmy… Szybko, usiądź mu na twarzy.  
 **Demon 3:** Z przyjemnością.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll22.mp4` (zapętlone)
+
 **Lillian:** No dalej, Mox. Nie pozwól, by opuściło cię pożądanie.  
 **Demon 3:** Wchłania moje soki.  
 **Lillian:** Dobrze! Dobrze!  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll23.mp4` (zapętlone)
+
 **Lillian:** Nadal ma twardego kutasa.  
 **Demon 3:** Stracił kontrolę nad językiem.  
 **Lillian:** Dawaj, dziecko. Niech wszystko w niego spłynie.  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll24.mp4` (zapętlone)
+
 **Lillian:** Spuść się we mnie, Mox. Już czas.  
 **Demon 3:** Zaraz przez niego dojdę!  
 **Lillian:** Dawaj! Dojdź!  
+
+> **🎬 Wstawka wideo:** `LiDmnsHll25.mp4`
+
 **Mox:** Widzę gwiazdy.  
 **Demon 3:** Czy nie przesadziłyśmy?  
 **Lillian:** Nie… Nadal jest przytomny.  
@@ -67202,7 +76120,12 @@
 
 ## Common Event 443 — SCN - Lilith Reveal
 
+> **🎬 Wstawka wideo:** `LiRvl1.mp4`
+
 **Lilith:** Witaj, Mox.  
+
+> **🎬 Wstawka wideo:** `LiRvl2.mp4` (zapętlone)
+
 **Judy:** Mox!  
 **Mox:** Puść Judy!...  
 **Lilith:** Heh…  
@@ -67212,20 +76135,32 @@
 **Demon 1:** Zerżnijmy mu rozum!  
 **Lilith:** To nie będzie konieczne.  
 **Mox:** Ojciec Solomon tu przyjdzie, a wtedy pożałujesz.  
+
+> **🎬 Wstawka wideo:** `LiRvl3.mp4` (zapętlone)
+
 **Demon 2:** Oddaj ją nam, Matko.  
 **Demon 3:** Proszę! Chcę skosztować kobiety Bożej.  
 **Mox:** Zostaw ją w spokoju!  
 **Lilith:** Oczywiście zostawimy ją w spokoju. Nic złego jej się nie stanie.  
 **Demon 2:** Awww!  
+
+> **🎬 Wstawka wideo:** `LiRvl4.mp4` (zapętlone)
+
 **Lilith:** Mox, nie możesz pozwolić, by ten ksiądz znów się tu zbliżył.  
 **Mox:** Boisz się go.  
 **Lilith:** Chce, by zakonnica bezpiecznie wróciła do domu. Ty pewnie też tego chcesz.  
 **Mox:** Masz Tomę. Dałem ci to, czego potrzebowałaś, więc puść Judy.  
+
+> **🎬 Wstawka wideo:** `LiRvl5.mp4` (zapętlone)
+
 **Lilith:** Rozejrzyj się, Mox. To świat, który nazywamy domem od zarania dziejów.  
 **Mox:** Jest do dupy… Rozumiem.  
 **Lilith:** Wasz świat dostał fałszywą matkę. Bóg tego świata odebrał mi wszystko…  
 **Lilith:** Pora zakończyć to cierpienie.  
 **Mox:** Kim jesteś?  
+
+> **🎬 Wstawka wideo:** `LiRvl6.mp4` (zapętlone)
+
 **Lilith:** Jestem Lilith, prawdziwą matką ludzkości.  
 **Mox:** Lilith? Brzmi znajomo.  
 **Lilith:** Twój umysł jest czysty, nieskażony religiami tego świata.  
@@ -67243,9 +76178,15 @@
 **Lilith:** Bóg z góry patrzy na nas z wysoka, ale pod moim przewodnictwem raj może należeć do nas.  
 **Mox:** Chcesz wywrócić naszą cywilizację do góry nogami? Nikt tego nie poprze.  
 **Lilith:** Heh. Nie masz pojęcia, jaki świat zamierzam stworzyć… Pokażę wszystkim, czego im brakowało.  
+
+> **🎬 Wstawka wideo:** `LiRvl7.mp4`
+
 **Judy:** Co za rozkosz!  
 **Lilith:** Mam tego znacznie więcej.  
 **Brian:** Nie tak szybko, Lilith!  
+
+> **🎬 Wstawka wideo:** `LiRvl8.mp4` (zapętlone)
+
 **Demon 1:** Aaargh!  
 **Demon 2:** Boli!  
 **Demon 3:** Odwróć wzrok!  
@@ -67366,6 +76307,8 @@
 
 ## Common Event 446 — SCN - Lilith Ella
 
+> **🎬 Wstawka wideo:** `LiElHell1.mp4` (zapętlone)
+
 **Mox:** Ello!  
 **Ella:** Jeszcze jej nie zabijaj! Pozwól jej tak jeszcze chwilę!  
 **Lilith:** Nie powstrzymasz mnie, Mox.  
@@ -67388,44 +76331,92 @@
 **Lilith:** Nauczono cię nie dostrzegać własnego cierpienia. Gdy zaznasz prawdziwej rozkoszy, zrozumiesz.  
 **Mox:** Twój plan się nie uda. Świat tak nie może funkcjonować.  
 **Lilith:** Och, Mox. Czas, żebyś poznał prawdziwą rozkosz.  
+
+> **🎬 Wstawka wideo:** `LiElHell2.mp4`
+
+> **🎬 Wstawka wideo:** `LiElHell3.mp4` (zapętlone)
+
 **Ella:** Może i masz perwersyjne zdolności, ale nie lekceważ dziewczyny z kamerki.  
 **Lilith:** Ach! Co robisz? To… takie przyjemne!  
 **Mox:** Ello!  
 **Ella:** Nie stój tak, Mox. Znalazłam jej słaby punkt.  
 **Mox:** Co mam robić?!  
 **Ella:** Szybko! Ssij jej sutki!  
+
+> **🎬 Wstawka wideo:** `LiElHell4.mp4` (zapętlone)
+
 **Lilith:** Tak! Dotykaj mojego ciała! Od bardzo dawna nie czułam dotyku człowieka!  
+
+> **🎬 Wstawka wideo:** `LiElHell5.mp4` (zapętlone)
+
 **Lilith:** Naprawdę warto cię ocalić. Twój świat przyjmie mnie z otwartymi ramionami.  
+
+> **🎬 Wstawka wideo:** `LiElHell6.mp4` (zapętlone)
+
 **Mox:** Cholera! Nie mogę jej powstrzymać!  
 **Ella:** Tak, kurwa! Łaskocz moją cipkę swoimi demonicznymi mocami!  
+
+> **🎬 Wstawka wideo:** `LiElHell7.mp4` (zapętlone)
+
 **Mox:** Ella! Zrób coś! Ona wypierze nam mózgi!  
 **Ella:** Kurwa! Ale to przyjemne!  
+
+> **🎬 Wstawka wideo:** `LiElHell8.mp4`
+
 **Ella:** Mox! Pieprz jej cipkę! Mam plan!  
+
+> **🎬 Wstawka wideo:** `LiElHell9.mp4` (zapętlone)
+
 **Lilith:** Zerżnij mnie! Zerżnij mnie!  
 **Mox:** Działa!  
 **Ella:** No dalej, Morgan, dasz radę.  
+
+> **🎬 Wstawka wideo:** `LiElHell10.mp4` (zapętlone)
+
 **Lilith:** Jesteś świetny! Naprawdę świetny!  
 **Mox:** Cholera! Ma niesamowitą cipkę!  
 **Ella:** Nie dochodź! Nie przestawaj jej pieprzyć!  
+
+> **🎬 Wstawka wideo:** `LiElHell11.mp4`
+
+> **🎬 Wstawka wideo:** `LiElHell12.mp4` (zapętlone)
+
 **Lilith:** Niech to szlag! Jak ty to zrobiłeś?!  
 **Ella:** Poddaj się, potworze!  
 **Mox:** Nie wiem, jak długo jeszcze wytrzymam!  
+
+> **🎬 Wstawka wideo:** `LiElHell13.mp4` (zapętlone)
+
 **Ella:** No dalej, ojcze! Otwórz wreszcie ten cholerny portal!  
 **Lilith:** Jesteś niezły! Ale nie dorównasz mojemu dotykowi!  
+
+> **🎬 Wstawka wideo:** `LiElHell14.mp4` (zapętlone)
+
 **Ella:** Cholera! Cholera! Ale przyjemnie!  
 **Mox:** Całą siłą powstrzymuję się przed dojściem!  
 **Lilith:** Poddaj się rozkoszy! Tak powinien czuć się każdy człowiek! Jestem twoją matką! Jestem twoją wybawicielką!  
+
+> **🎬 Wstawka wideo:** `LiElHell15.mp4` (zapętlone)
+
 **Mox:** Nie wytrzymam! Chcę tej rozkoszy!  
 **Ella:** Za dużo! Chcę już tylko czuć rozkosz!  
 **Lilith:** Dobrze! Dobrze!  
+
+> **🎬 Wstawka wideo:** `LiElHell16.mp4` (zapętlone)
+
 **Lilith:** Jeszcze tylko chwila, a już nigdy nie zaznasz bólu.  
 **Ella:** Chcę tego! Nie chcę cierpieć!  
 **Mox:** Pomyśl o czymś innym, Mox… Nie pozwól jej wygrać.  
+
+> **🎬 Wstawka wideo:** `LiElHell17.mp4` (zapętlone)
+
 **Lilith:** Nie walcz z tym, Mox. Twoje biodra ci na to nie pozwolą.  
 **Ella:** Ma rację! Nie walczmy z tym!  
 **Mox:** Ech! Próbowaliśmy!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `LiElHell18.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -67632,9 +76623,9 @@
 **Mox:** Wszyscy wracać do rezydencji!  
 **Henry:** Jeszcze nie skończyliśmy.  
 **Mox:** Znajdę Ericę. Reszta do środka.  
-**Henry:** Diana… Dopilnuj, żeby Duncan nie uciekł. Idę z Mox.  
+**Henry:** Diana… Dopilnuj, żeby Duncan nie uciekł. Idę z Moxem.  
 **Diana:** Nie zgiń przez to, Henry.  
-**Hannah:** Ja też idę z Mox!  
+**Hannah:** Ja też idę z Moxem!  
 **Carol:** O nie, nie pójdziesz!  
 **Funkcjonariusz A:** No dalej, wszyscy! Musimy iść!  
 **Bobby:** /order  
@@ -67676,7 +76667,7 @@
 
 > **Ścieżka warunkowa:** Ext House Impressive ≥ 17.
 
-**Heather:** Jestem taka dumna z Mox. Stworzył sobie taki piękny dom.  
+**Heather:** Jestem taka dumna z Moxem. Stworzył sobie taki piękny dom.  
 
 > **Ścieżka warunkowa:** Ext House Impressive ≥ 17 → Int House Impressive ≥ 23.
 
@@ -67718,6 +76709,8 @@
 ---
 
 ## Common Event 351 — SCN - Interview
+
+> **🎬 Wstawka wideo:** `KiAdMcint.mp4` (zapętlone)
 
 **Kimberly:** Witamy ponownie w programie „Channel 4 Tonight”.  
 **Kimberly:** W studiu, by porozmawiać o śledztwie w sprawie Gildii Eclipse, jest z nami komisarz Kimura z North Santiva.  
@@ -67844,7 +76837,7 @@
 **Melissa:** Przepraszam za spóźnienie.  
 **Paul:** W samą porę. Za pięć minut wchodzimy na żywo.  
 **Kimberly:** Jak wygląda?  
-**Paul:** Zbliżenia na Mox.  
+**Paul:** Zbliżenia na Moxa.  
 **Melissa:** …  
 **Melissa:** Od tego zależą nasze posady. Jeśli coś pójdzie nie tak, wylecimy.  
 **Kimberly:** Rozbiłeś Gildię. Nie zwolnią cię po tej transmisji.  
@@ -67856,6 +76849,8 @@
 ---
 
 ## Common Event 419 — SCN - Interview Melissa
+
+> **🎬 Wstawka wideo:** `KiMeMcInt.mp4` (zapętlone)
 
 **Kimberly:** Oglądacie wieczorne wiadomości Channel 4, a dzisiejsza historia jest szokująca.  
 **Kimberly:** Są dziś z nami detektywi Canmore i Bhatt.  
@@ -67963,44 +76958,76 @@
 
 ## Common Event 420 — SCN - Kimberly Melissa Set
 
+> **🎬 Wstawka wideo:** `KiMeSet1.mp4` (zapętlone)
+
 **Kimberly:** Co powiesz, detektywie? Dasz mi spróbować?  
 **Melissa:** /shock  
 **Mox:** Cholera, Kimberly. Nie tracisz czasu.  
-**Melissa:** Moje życie seksualne z Mox to nie twoja sprawa.  
+**Melissa:** Moje życie seksualne z Moxem to nie twoja sprawa.  
 **Kimberly:** Dzielimy się jego kutasem. To jak najbardziej nasza wspólna sprawa.  
 **Melissa:** …  
 **Mox:** Ona nie kłamie.  
+
+> **🎬 Wstawka wideo:** `KiMeSet2.mp4` (zapętlone)
+
 **Melissa:** Może… trzeba to uczcić.  
 **Mox:** Podoba mi się, dokąd to zmierza.  
 **Kimberly:** Wiesz… Ta historia jeszcze się nie skończyła. Pisze się kolejny rozdział.  
 **Melissa:** Co masz na myśli?  
 **Kimberly:** W tej rezydencji jest coś, czego jeszcze nie odkryłaś.  
 **Mox:** Spokojnie, Kimberly. Bawimy się czy rozmawiamy o interesach?  
+
+> **🎬 Wstawka wideo:** `KiMeSet3.mp4` (zapętlone)
+
 **Melissa:** Dostaniesz swoją historię, Foxx. Nie martw się.  
 **Mox:** Chyba podobają jej się twoje cycki, detektywie.  
 **Melissa:** O Boże! Uwielbiam, kiedy mówisz sprośne rzeczy.  
+
+> **🎬 Wstawka wideo:** `KiMeSet4.mp4` (zapętlone)
+
 **Mox:** Wyobraź sobie, gdybyśmy wciąż były na antenie.  
 **Melissa:** Nie… O Boże…  
 **Mox:** Całe miasto patrzyłoby, jak się pieprzymy… Ależ to byłoby niegrzeczne.  
 **Melissa:** O, Mox!  
+
+> **🎬 Wstawka wideo:** `KiMeSet5.mp4` (zapętlone)
+
 **Kimberly:** Macie dość perwersyjne fantazje.  
 **Melissa:** Pieprz moją cipkę!  
 **Mox:** Bierz, niegrzeczna dziewczyno!  
+
+> **🎬 Wstawka wideo:** `KiMeSet6.mp4` (zapętlone)
+
 **Kimberly:** Zaczynam być zazdrosna.  
 **Melissa:** Pieprz ją! Chcę poczuć, jak rżniesz jej cipkę!  
 **Mox:** Z przyjemnością.  
+
+> **🎬 Wstawka wideo:** `KiMeSet7.mp4` (zapętlone)
+
 **Kimberly:** Tak, Mox! Pieprz mnie jak dziwkę!  
 **Melissa:** Jesteśmy dziwkami Mox!  
 **Mox:** Właśnie tak, panie! Oddawajcie cześć temu kutasowi!  
+
+> **🎬 Wstawka wideo:** `KiMeSet8.mp4` (zapętlone)
+
 **Kimberly:** Rżnij mnie, kochanie! Zmasakruj tę cipkę!  
 **Melissa:** Dawaj! Potrzebuję twojego kutasa!  
 **Mox:** Taka głodna.  
+
+> **🎬 Wstawka wideo:** `KiMeSet9.mp4` (zapętlone)
+
 **Melissa:** Tak!  
 **Kimberly:** O tak, kurwa!  
 **Mox:** Taka ciepła i ciasna!  
+
+> **🎬 Wstawka wideo:** `KiMeSet10.mp4` (zapętlone)
+
 **Kimberly:** Wymieszaj nasze soki swoim wielkim, grubym kutasem!  
 **Melissa:** Daj mi jej soki!  
 **Mox:** Właśnie tak. Podzielcie się, panie.  
+
+> **🎬 Wstawka wideo:** `KiMeSet11.mp4` (zapętlone)
+
 **Kimberly:** Weź to, czego naprawdę pragniesz, Mox.  
 **Melissa:** Panno Foxx!?  
 **Mox:** Co ty na to, Melisso? Chcesz poczuć mnie w tyłku?  
@@ -68008,26 +77035,51 @@
 **Kimberly:** Spójrz na ten duży, krągły, jędrny tyłek! Wiesz, że tego chcesz.  
 **Melissa:** Ale… Nie mogę.  
 **Mox:** Chcesz się przekonać?  
+
+> **🎬 Wstawka wideo:** `KiMeSet12.mp4` (zapętlone)
+
 **Melissa:** O, pieprz mnie! Ale cudownie!  
 **Kimberly:** Chyba tego chce.  
+
+> **🎬 Wstawka wideo:** `KiMeSet13.mp4` (zapętlone)
+
 **Mox:** Chcesz tego, Melisso?  
 **Melissa:** Ja… Tak.  
 **Kimberly:** Może jednak nie chce.  
 **Melissa:** Nie! Chcę tego! Włóż go w mój tyłek!  
 **Mox:** Jak sobie życzysz.  
+
+> **🎬 Wstawka wideo:** `KiMeSet14.mp4`
+
+> **🎬 Wstawka wideo:** `KiMeSet15.mp4` (zapętlone)
+
 **Melissa:** Achhh! Ale ciasno!  
 **Mox:** Cholera! Ale przyjemnie!  
 **Kimberly:** Masz takie jędrne, miękkie uda…  
 **Melissa:** O kurwa.  
+
+> **🎬 Wstawka wideo:** `KiMeSet16.mp4` (zapętlone)
+
 **Mox:** Podoba ci się, jak bawimy się twoim ciałem, Melisso?  
 **Melissa:** Jestem taką dziwką!  
 **Kimberly:** O Boże! Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `KiMeSet17.mp4` (zapętlone)
+
 **Melissa:** Rżnij mnie w tyłek! Mocno!  
 **Mox:** Tak! Tak! To niesamowite!  
 **Kimberly:** Doprowadź ją do orgazmu, kochanie!  
+
+> **🎬 Wstawka wideo:** `KiMeSet18.mp4` (zapętlone)
+
 **Mox:** Dojdź dla mnie, Melisso!  
 **Melissa:** Tak, kochanie! Tak! Chcę dla ciebie dojść!  
 **Kimberly:** Dłużej nie wytrzymam!  
+
+> **🎬 Wstawka wideo:** `KiMeSet19.mp4`
+
+> **🎬 Wstawka wideo:** `KiMeSet20.mp4`
+
 **Mox:** Czyż to nie piękny widok?  
 **Melissa:** Kurwa…  
 **Kimberly:** Och, tak! Uwielbiam to!  
@@ -68134,19 +77186,52 @@
 
 ## Common Event 448 — SCN - Studio Attack
 
+> **🎬 Wstawka wideo:** `StdoFght1.mp4`
+
+> **🎬 Wstawka wideo:** `StdoFght2.mp4`
+
+> **🎬 Wstawka wideo:** `StdoFght3.mp4`
+
+> **🎬 Wstawka wideo:** `StdoFght4.mp4` (zapętlone)
+
 **Brian:** Odesłałem cię z powrotem do Piekła!  
+
+> **🎬 Wstawka wideo:** `StdoFght5.mp4`
+
+> **🎬 Wstawka wideo:** `StdoFght6.mp4` (zapętlone)
+
 **Kimberly:** Mieszkańcy North Santiva, przychodzę dać wam wybór.  
 **Kimberly:** Jeśli cenicie swoje życie na Ziemi, natychmiast wyłączcie telewizory.  
 **Kimberly:** Nadszedł czas, by każdy wybrał własną przyszłość.  
+
+> **🎬 Wstawka wideo:** `StdoFght7.mp4`
+
+> **🎬 Wstawka wideo:** `StdoFght8.mp4` (zapętlone)
+
 **Tasha:** Pierdol się!  
 **Kimberly:** Co ty, do cholery, zrobiłeś?  
 **Brian:** Odesłałem cię do Piekła, demonie! Znikaj!  
 **Drab:** Kurwa! Kurwa!  
+
+> **🎬 Wstawka wideo:** `StdoFght9.mp4`
+
+> **🎬 Wstawka wideo:** `StdoFght10.mp4` (zapętlone)
+
 **Mox:** Odwróć wzrok! Nie patrz jej w oczy!  
 **Henry:** Ojcze! Zrób coś!  
 **Brian:** Aaargh!  
+
+> **🎬 Wstawka wideo:** `StdoFght11.mp4`
+
+> **🎬 Wstawka wideo:** `StdoFght12.mp4` (zapętlone)
+
 **Drab:** No proszę… Nowe ciało.  
 **Arianna:** Nie!  
+
+> **🎬 Wstawka wideo:** `StdoFght13.mp4`
+
+> **🎬 Wstawka wideo:** `StdoFght14.mp4` (zapętlone)
+
 **Erica:** Dokądś się wybierasz?  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
@@ -68395,6 +77480,8 @@
 
 ## Common Event 479 — SCN - Kimberly Live
 
+> **🎬 Wstawka wideo:** `KiLive1.mp4` (zapętlone)
+
 **Kimberly:** A gdybyśmy pieprzyli się na oczach całego miasta?... Ależ byłoby widowisko.  
 **Mox:** Ależ niegrzeczna dziennikarka.  
 **Kimberly:** Witajcie ponownie, mieszkańcy North Santiva. Już za chwilę gorące widowisko z udziałem waszego ulubionego detektywa!  
@@ -68405,48 +77492,94 @@
 **Mox:** O czym myśli ten twój niegrzeczny umysł?  
 **Kimberly:** Właśnie wyobrażam sobie, jak smakuje twój kutas.  
 **Mox:** Po co sobie wyobrażać, skoro możesz spróbować?  
+
+> **🎬 Wstawka wideo:** `KiLive2.mp4` (zapętlone)
+
 **Mox:** Ach, tak, dobre.  
 **Mox:** Pokaż widzom, jak bardzo podoba ci się ten kutas.  
+
+> **🎬 Wstawka wideo:** `KiLive3.mp4` (zapętlone)
+
 **Kimberly:** Mmm, to prawda. Cudownie dotyka mojej twarzy.  
 **Kimberly:** Założę się, że wielu naszych widzów chciałoby poczuć moją twarz w ten sposób.  
 **Mox:** Na pewno.  
 **Mox:** Jeśli ktoś się zastanawiał, to widok mojego kutasa na twarzy Kimberly Foxx jest niesamowity.  
 **Kimberly:** Równie niesamowity jak smak moich warg sromowych?  
 **Mox:** Przekonajmy się.  
+
+> **🎬 Wstawka wideo:** `KiLive4.mp4` (zapętlone)
+
 **Kimberly:** O Boże! Właśnie tak!  
 **Kimberly:** Jestem taka mokra.  
 **Kimberly:** Bierz mnie, detektywie. Pokaż im, jak pieprzy prawdziwy kutas.  
+
+> **🎬 Wstawka wideo:** `KiLive5.mp4`
+
+> **🎬 Wstawka wideo:** `KiLive6.mp4` (zapętlone)
+
 **Kimberly:** O tak, kurwa!  
 **Mox:** Uśmiechnij się do kamery.  
 **Kimberly:** Z takim kutasem we mnie to żaden problem!  
+
+> **🎬 Wstawka wideo:** `KiLive7.mp4` (zapętlone)
+
 **Mox:** Powinnaś zdać fanom relację z tego, jakie to uczucie.  
 **Kimberly:** Fantastycznie! Przerżnęłam w życiu niejednego przystojnego kutasa, panie, ale ten jest wyjątkowy.  
 **Kimberly:** Długość, obwód… twardość.  
 **Kimberly:** Z przyjemnością informuję: jeśli szukacie porządnego rżnięcia, wybierzcie detektywa Mox Canmore'a.  
+
+> **🎬 Wstawka wideo:** `KiLive8.mp4` (zapętlone)
+
 **Kimberly:** A ty, detektywie? Znalazłeś lepszą cipkę?  
 **Mox:** Trudne pytanie, panno Foxx. Śledztwo w sprawie twojej wciąż trwa.  
 **Mox:** Ale dowiesz się pierwsza, gdy tylko poznam wyniki.  
+
+> **🎬 Wstawka wideo:** `KiLive9.mp4` (zapętlone)
+
 **Kimberly:** Słyszeliście to prosto ze źródła.  
 **Kimberly:** Jeśli chcecie poznać odkrycia detektywa, zostańcie z nami.  
 **Mox:** Przy okazji pokażę widzom, jak elastyczny jest twój tyłek.  
 **Kimberly:** Dawaj! Trzeba być otwartym w sprawie śledztwa!  
+
+> **🎬 Wstawka wideo:** `KiLive10.mp4` (zapętlone)
+
 **Kimberly:** Ach, kurwa! Ale mnie rozciągasz!  
 **Mox:** Ale masz ciasny tyłek!  
+
+> **🎬 Wstawka wideo:** `KiLive11.mp4` (zapętlone)
+
 **Kimberly:** Jak myślisz? Wystarczająco elastyczny?  
 **Mox:** Muszę jeszcze to zbadać.  
 **Kimberly:** Pospiesz się! Nasi widzowie muszą znać prawdę!  
+
+> **🎬 Wstawka wideo:** `KiLive12.mp4` (zapętlone)
+
 **Kimberly:** A teraz? Masz już nowe informacje?  
 **Mox:** Jestem coraz bliżej!  
 **Kimberly:** Samo zbliżenie nie wystarczy! Potrzebują odpowiedzi!  
+
+> **🎬 Wstawka wideo:** `KiLive13.mp4` (zapętlone)
+
 **Kimberly:** Może powinieneś poszukać głębiej, detektywie.  
 **Mox:** Jeśli sięgnę głębiej, może być dla ciebie trochę za ostro.  
 **Kimberly:** Bzdura! Pokaż widzom, jak ciężko potrafisz pracować.  
+
+> **🎬 Wstawka wideo:** `KiLive14.mp4` (zapętlone)
+
 **Kimberly:** Cholera!  
 **Mox:** Wszystko w porządku?  
 **Kimberly:** Zamknij się i dalej porządnie rżnij mnie w tyłek!  
+
+> **🎬 Wstawka wideo:** `KiLive15.mp4` (zapętlone)
+
 **Mox:** Jestem gotowy ujawnić wyniki mojego śledztwa!  
 **Kimberly:** Pokaż paniom przed telewizorami to, czego potrzebują, detektywie Canmore!  
 **Kimberly:** Rozbryzgaj na mnie wyniki śledztwa!  
+
+> **🎬 Wstawka wideo:** `KiLive16.mp4`
+
+> **🎬 Wstawka wideo:** `KiLive17.mp4` (zapętlone)
+
 **Kimberly:** Tak! Ani kropli się nie zmarnowało.  
 **Mox:** Co mogę powiedzieć? Mam celne oko.  
 **Kimberly:** Widzowie na pewno czują się bezpieczniej, wiedząc, że tak sprawny kutas patroluje okolicę.  
@@ -68690,6 +77823,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Kimberly.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -68709,6 +77844,8 @@
 
 ## Common Event 348 — SCN - Kimberly Change
 
+> **🎬 Wstawka wideo:** `KmChr1.mp4` (zapętlone)
+
 **Mox:** Eee… Przepraszam. Jestem detektyw Canmore.  
 **Kimberly:** Pomyliłeś szatnie, przystojny detektywie.  
 **Kimberly:** Naprawdę zamierzasz tak wystąpić w wywiadzie?  
@@ -68721,6 +77858,9 @@
 **Mox:** Tak.  
 **Kimberly:** No proszę, jaki słodziak.  
 **Mox:** Może mi pani pomóc, panno Foxx?  
+
+> **🎬 Wstawka wideo:** `KmChr2.mp4` (zapętlone)
+
 **Kimberly:** Zobaczmy. Jak zmienić ten wygląd licealnego nieuka na coś bardziej profesjonalnego?  
 **Mox:** Założysz tę złotą sukienkę?  
 **Kimberly:** Tę starą sukienkę? W życiu!  
@@ -68728,12 +77868,18 @@
 **Kimberly:** We wszystkim mi ładnie, Mox. Mama nie nauczyła cię dobrych manier?  
 **Mox:** Nie to miałem na myśli…  
 **Kimberly:** Wiem, co będzie odpowiednie!  
+
+> **🎬 Wstawka wideo:** `KmChr3.mp4` (zapętlone)
+
 **Kimberly:** Proszę. Załóż to.  
 **Mox:** Co, tutaj?  
 **Kimberly:** Zostaw majtki na sobie, zboczeńcu.  
 **Mox:** Mam na imię Mox.  
 **Kimberly:** Dobrze, Mox. Zostaw majtki, ale załóż tę koszulę i spodnie.  
 **Mox:** Dobra. Daj mi je.  
+
+> **🎬 Wstawka wideo:** `KmChr4.mp4` (zapętlone)
+
 **Kimberly:** Widzę, że ktoś tu ćwiczy.  
 **Mox:** Och, heh. No. Chyba jestem w całkiem niezłej formie.  
 **Kimberly:** Lepiej mnie nie przyćmij, Mox.  
@@ -68742,39 +77888,66 @@
 **Mox:** Makijaż? Myślałem, że tylko dziewczyny go noszą.  
 **Kimberly:** Masz szczęście, że jesteś słodki, byczku.  
 **Kimberly:** Ubierz się, a potem cię obejrzymy.  
+
+> **🎬 Wstawka wideo:** `KmChr5.mp4` (zapętlone)
+
 **Kimberly:** Przystojny i profesjonalny, ale przede wszystkim… nudny.  
 **Mox:** Nuda to dobrze?  
 **Kimberly:** Nie musisz przyćmiewać gwiazdy.  
 **Mox:** Skoro tak mówisz.  
+
+> **🎬 Wstawka wideo:** `KmChr6.mp4` (zapętlone)
+
 **Kimberly:** Wielu chłopców dałoby się pokroić, żeby być teraz na twoim miejscu.  
 **Mox:** Nie wiem, ilu chłopakom spodobałoby się nakładanie makijażu.  
 **Kimberly:** Myślisz, że to miałam na myśli?  
 **Mox:** Próbuję być czarujący. Działa?  
 **Kimberly:** Nie rób sobie nadziei, detektywie Melonie.  
 **Mox:** Canmore.  
+
+> **🎬 Wstawka wideo:** `KmChr7.mp4` (zapętlone)
+
 **Kimberly:** No, to jest twarz stworzona do telewizji.  
 **Mox:** Tak. Zupełnie inaczej niż wcześniej.  
 **Kimberly:** Zaraz zaczynamy. Lepiej się ubiorę.  
 **Kimberly:** Nie podglądaj.  
+
+> **🎬 Wstawka wideo:** `KmChr8.mp4` (zapętlone)
+
 **Kimberly:** Powiedz mi, detektywie: jak długo zajmujesz się sprawą Gildii Zaćmienia?  
 **Mox:** Och, eee… Przeniesiono mnie z innej sprawy. Wciąż się uczę.  
 **Kimberly:** Aha, rozumiem.  
 **Mox:** Komisarz przekaże ci większość szczegółów.  
 **Kimberly:** Chce cię tu, bo dobrze zaprezentujesz się przed opinią publiczną. Wiesz o tym, prawda?  
 **Mox:** Tego się domyślałem.  
+
+> **🎬 Wstawka wideo:** `KmChr9.mp4` (zapętlone)
+
 **Kimberly:** Chodzą słuchy, że nie odnaleziono już tylko kilkudziesięciu członków.  
 **Mox:** Skąd masz te informacje?  
 **Kimberly:** Po dzisiejszym dniu to ty będziesz moim źródłem. Obyś był mądrzejszy, niż wskazuje na to twój wiek.  
 **Mox:** Nie martw się o mnie. Wiem wystarczająco dużo.  
+
+> **🎬 Wstawka wideo:** `KmChr10.mp4` (zapętlone)
+
 **Kimberly:** Widzę, że komisarz Kimura liczy na łatwe pytania. Ale uprzedzam: zamierzam wyciągnąć brudy.  
 **Mox:** Przy odrobinie szczęścia za miesiąc będzie po wszystkim.  
 **Kimberly:** Dobrze cię wyszkoliła.  
+
+> **🎬 Wstawka wideo:** `KmChr11.mp4` (zapętlone)
+
 **Kimberly:** Uważa, że wpłyniesz na opinię mieszkańców o policji w tym stanie…  
 **Kimberly:** Ale nic mi nie umyka. Nie zapominaj o tym.  
 **Mox:** Co ty mówisz?  
+
+> **🎬 Wstawka wideo:** `KmChr12.mp4` (zapętlone)
+
 **Kimberly:** Jeśli chcesz wpłynąć na ludzi, będziesz mnie potrzebować w swoim zespole.  
 **Mox:** Gramy do jednej bramki, panno Foxx. Wrogiem jest Gildia.  
 **Kimberly:** Jeśli to prawda, naszym wrogiem są teraz konsekwencje.  
+
+> **🎬 Wstawka wideo:** `KmChr13.mp4` (zapętlone)
+
 **Kimberly:** Razem możemy stworzyć świetny zespół, Mox.  
 **Mox:** Jestem tu, żeby ci pomóc. Zrobię, co w mojej mocy.  
 **Kimberly:** Ludzie mi ufają. Niech tak zostanie.  
@@ -68848,9 +78021,14 @@
 
 ## Common Event 386 — SCN - Andrea Kim 3some
 
+> **🎬 Wstawka wideo:** `KiAdChgRm1.mp4` (zapętlone)
+
 **Andrea:** Spóźniasz się.  
 **Kimberly:** Pani komisarz?!  
 **Mox:** Andrea! Właśnie się przebierałyśmy.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm2.mp4` (zapętlone)
+
 **Andrea:** Przebieracie się przy sobie? Może coś zaczyna się między wami rozwijać.  
 **Mox:** Cóż, eee…  
 **Kimberly:** Łączą nas wyłącznie sprawy zawodowe… Po prostu oszczędzałyśmy czas.  
@@ -68862,6 +78040,9 @@
 **Andrea:** O tak. Ufam wam obojgu.  
 **Kimberly:** Nie spodziewałam się pani tak wcześnie, panno Kimura.  
 **Andrea:** Cóż, skoro już tu jestem…  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm3.mp4` (zapętlone)
+
 **Andrea:** Może trochę… skomplikujemy sytuację.  
 **Mox:** Andreo?  
 **Kimberly:** Mówisz poważnie?  
@@ -68877,6 +78058,9 @@
 **Kimberly:** …  
 **Mox:** Co mogę powiedzieć, Kimberly? Chyba musimy nieco uatrakcyjnić tę ofertę.  
 **Kimberly:** Naprawdę?  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm4.mp4` (zapętlone)
+
 **Andrea:** Dostaniesz tego newsa.  
 **Kimberly:** Co skradziono?  
 **Andrea:** Coś wartego ponad dziesięć milionów.  
@@ -68884,53 +78068,106 @@
 **Mox:** Cholera. Nawet o tym nie wiedziałem.  
 **Andrea:** Wyobraź sobie, że to ty pierwsza podajesz tę wiadomość.  
 **Kimberly:** W takim razie… Lepiej wynagrodzę twój wysiłek.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm5.mp4` (zapętlone)
+
 **Andrea:** Och, tak! Panno Foxx! Ale z pani niegrzeczna dziewczynka.  
 **Mox:** Właśnie tak, kochanie. Daj pani komisarz to, czego potrzebuje.  
 **Andrea:** Po głosie gwiazdy telewizji można się było spodziewać tak wprawnego języka.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm6.mp4` (zapętlone)
+
 **Mox:** Jej cipka jest bardzo ciasna.  
 **Andrea:** Założę się, że uwielbia każdy centymetr.  
 **Mox:** Ależ jest mokra!  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm7.mp4` (zapętlone)
+
 **Andrea:** Jak ci smakuje, kochanie?  
 **Andrea:** Smakuje ci moja ciepła, soczysta i ociekająca sokami cipka?  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm8.mp4` (zapętlone)
+
 **Kimberly:** Andrea… Nie sądziłam, że jesteś taką niegrzeczną kobietą.  
 **Andrea:** Wiem, czego chcę, a ty mi to dajesz.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm9.mp4` (zapętlone)
+
 **Andrea:** Wygląda na to, że zarówno detektyw Canmore, jak i ja, dostajemy z tej relacji więcej, niż się spodziewaliśmy.  
 **Kimberly:** Ale głęboko mnie pieprzy!  
 **Andrea:** Chcę poczuć twoją cipkę.  
 **Kimberly:** Proszę, Andreo. Bierz, co chcesz.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm10.mp4` (zapętlone)
+
 **Kimberly:** Ach! Ojej!  
 **Andrea:** Cała mokra… Uwielbiam to.  
 **Mox:** Czyż nie jest ciepła, panno Kimura?  
 **Andrea:** Bardzo.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm11.mp4` (zapętlone)
+
 **Andrea:** Nieźle nas pani rozgrzała, panno Foxx. Spóźnimy się?  
 **Kimberly:** Nie… W porządku. Nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm12.mp4` (zapętlone)
+
 **Mox:** Ależ jesteście razem seksowne.  
 **Kimberly:** Kurwa. Ale jestem napalona.  
 **Andrea:** I wyraźnie Mox ma ochotę na więcej.  
 **Mox:** Och, eee… Z przyjemnością.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm13.mp4` (zapętlone)
+
 **Mox:** Ach! Mój kutas!...  
 **Mox:** Uważaj!  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm14.mp4` (zapętlone)
+
 **Andrea:** No dalej, Mox. Daj tej kobiecie swojego wielkiego kutasa.  
 **Kimberly:** Andreo?  
 **Andrea:** Usiądę ci na twarzy, kochanie. Doprowadzisz mnie do orgazmu.  
 **Mox:** No dalej, Kimberly. Jesteśmy w tym razem.  
 **Kimberly:** Cholera, ale z was perwersyjna para.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm15.mp4` (zapętlone)
+
 **Andrea:** O kurwa, pieprz mnie! Ale dobrze!  
 **Mox:** Tak! Co za cipka!  
 **Andrea:** Zawsze marzyłam, żeby usiąść na tej pięknej twarzy.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm16.mp4` (zapętlone)
+
 **Andrea:** Twarz Kimberly Foxx… przyciśnięta do mojego krocza… To zbyt wiele!  
 **Mox:** Liż tę cipkę, Kim.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm17.mp4` (zapętlone)
+
 **Andrea:** No dalej, Canmore. Dawaj!  
 **Mox:** Tak, Andreo!  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm18.mp4` (zapętlone)
+
 **Andrea:** Podobają ci się moje cycki, Mox?  
 **Mox:** Ale dobrze.  
 **Andrea:** Pieprz ją porządnie, Mox.  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm19.mp4` (zapętlone)
+
 **Mox:** Kurwa! Ale dobrze!  
 **Andrea:** Liż, Kimberly! Spijaj moje soki!  
 **Mox:** Cholera! Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm20.mp4` (zapętlone)
+
 **Andrea:** Zaraz trysnę jej na twarz.  
 **Mox:** Cholera, Andreo… Ale gorąco… Ja…  
 **Andrea:** Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `KiAdChgRm21.mp4`
+
+> **🎬 Wstawka wideo:** `KiAdChgRm22.mp4` (zapętlone)
+
 **Andrea:** Niezły wytrysk, Mox.  
 **Kimberly:** To nie pierwszy raz, kiedy mam tę przyjemność.  
 **Mox:** To było niesamowite, panie.  
@@ -68967,6 +78204,8 @@
 ---
 
 ## Common Event 389 — SCN - Interview 2
+
+> **🎬 Wstawka wideo:** `KiMcInterview.mp4` (zapętlone)
 
 **Kimberly:** Do naszego studia dołącza dziś detektyw Mox Canmore, który opowie o najnowszych zatrzymaniach członków Gildii Eclipse.  
 **Mox:** Miło mi gościć u pani, panno Foxx.  
@@ -69451,6 +78690,10 @@
 
 ## Common Event 495 — SCN - Erica Preg
 
+> **🎬 Wstawka wideo:** `ErFtMs1NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs1.mp4` (zapętlone)
+
 **Mox:** Trzeba dobrze wmasować balsam.  
 **Erica:** Mmm, twoje dłonie czynią cuda.  
 **Mox:** Dopiero zaczynam.  
@@ -69460,6 +78703,11 @@
 **Mox:** Nie chcemy, żebyś się przemęczała, skoro niedługo urodzi się dziecko.  
 **Erica:** Uważaj, Mox. Mogę to wykorzystać.  
 **Mox:** Nie będę narzekał.  
+
+> **🎬 Wstawka wideo:** `ErFtMs2NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs2.mp4` (zapętlone)
+
 **Mox:** Pamiętasz nasz pierwszy raz?  
 **Erica:** Jak mógłabym zapomnieć?  
 **Erica:** To była świetna zabawa.  
@@ -69468,28 +78716,73 @@
 **Erica:** Praca pokojówki wydaje się odległa o całe lata.  
 **Erica:** To wszystko wydaje się nierzeczywiste.  
 **Mox:** Zobaczmy, czy sprawię, że poczujesz coś innego.  
+
+> **🎬 Wstawka wideo:** `ErFtMs3NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs3.mp4` (zapętlone)
+
 **Erica:** Och, tak! Właśnie tam, kochanie.  
 **Erica:** Nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `ErFtMs4NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs4.mp4` (zapętlone)
+
 **Mox:** Jeśli tak cię podnieca masaż stóp, może powinienem robić to częściej.  
 **Erica:** Hehehe, nie będę narzekać.  
+
+> **🎬 Wstawka wideo:** `ErFtMs5NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs5.mp4` (zapętlone)
+
 **Erica:** Tak dobrze się przy tobie czuję, Mox.  
 **Erica:** Czas, żebym się odwdzięczyła.  
+
+> **🎬 Wstawka wideo:** `ErFtMs6NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs6.mp4` (zapętlone)
+
 **Mox:** Ach, to naprawdę przyjemne.  
 **Erica:** Pomaga to, że są świeżo umyte i natłuszczone.  
+
+> **🎬 Wstawka wideo:** `ErFtMs7NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs7.mp4` (zapętlone)
+
 **Mox:** Podoba mi się, że wyszło mi to na dobre.  
 **Erica:** A mnie podoba się, jaki jesteś twardy.  
+
+> **🎬 Wstawka wideo:** `ErFtMs8NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs8.mp4` (zapętlone)
+
 **Mox:** Tak przyjemnie suną po moim kutasie.  
 **Erica:** Cieszę się, że ci się podoba, kochanie.  
 **Erica:** Ale chyba wystarczy już tego smarowania, co?  
 **Mox:** Zgadzam się w stu procentach.  
+
+> **🎬 Wstawka wideo:** `ErFtMs9NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs9.mp4` (zapętlone)
+
 **Erica:** Miło po prostu się położyć i pozwolić ci działać.  
 **Mox:** Zawsze chętnie sprawię ci przyjemność.  
 **Mox:** Poza tym nie powinnaś się przemęczać.  
 **Mox:** Pozwól więc, że ja się tym zajmę.  
 **Erica:** Brzmi świetnie.  
+
+> **🎬 Wstawka wideo:** `ErFtMs10NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs10.mp4` (zapętlone)
+
 **Erica:** Och! Pieprz mnie, Mox!  
 **Mox:** Jesteś taka seksowna, Eriko!  
 **Erica:** Pieprz moją ciężarną cipkę!  
+
+> **🎬 Wstawka wideo:** `ErFtMs11NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs11.mp4` (zapętlone)
+
 **Erica:** Boże, czuję się teraz taka pełna życia.  
 **Mox:** Odzyskałaś siły?  
 **Erica:** Można tak powiedzieć.  
@@ -69497,24 +78790,50 @@
 **Mox:** To może zmienimy pozycję?  
 **Erica:** Co masz na myśli?  
 **Mox:** Chodź, usiądź.  
+
+> **🎬 Wstawka wideo:** `ErFtMs12NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs12.mp4` (zapętlone)
+
 **Erica:** To takie intymne.  
 **Erica:** Jakbyśmy byli teraz jedynymi ważnymi ludźmi na świecie.  
 **Mox:** Teraz tak właśnie jest.  
 **Erica:** Tak się cieszę, kiedy to mówisz.  
+
+> **🎬 Wstawka wideo:** `ErFtMs13NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs13.mp4` (zapętlone)
+
 **Mox:** Mnie teraz uszczęśliwia to, jak cudowna jest twoja cipka.  
 **Erica:** Tak? Założę się, że mogę sprawić, by było jeszcze lepiej.  
+
+> **🎬 Wstawka wideo:** `ErFtMs14.mp4` (zapętlone)
+
 **Mox:** Oooch…  
 **Erica:** Chyba tatusiowi się podoba.  
 **Mox:** Nie, tatuś nie lubi — tatuś uwielbia.  
 **Erica:** Hahahahaha!  
+
+> **🎬 Wstawka wideo:** `ErFtMs15NP.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `ErFtMs15.mp4` (zapętlone)
+
 **Mox:** Kurwa!  
 **Erica:** Właśnie tak, właśnie tak!  
 **Erica:** Mox!  
 **Mox:** Eriko, myślisz, że możemy zrobić krzywdę dziecku?  
 **Erica:** Dziecku nic nie będzie! Nawet nie waż się zwalniać!  
+
+> **🎬 Wstawka wideo:** `ErFtMs16.mp4` (zapętlone)
+
 **Erica:** Cholera, nie wierzę, że to mówię, ale nie wiem, ile jeszcze wytrzymam!  
 **Mox:** Lepiej wytrzymaj sporo, bo właśnie tyle zamierzam ci dać.  
 **Erica:** Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `ErFtMs17NP.mp4`
+
+> **🎬 Wstawka wideo:** `ErFtMs17.mp4`
+
 **Erica:** Kochanie, było cudownie.  
 **Mox:** Jeśli tak kończy się masaż stóp…  
 **Mox:** Możesz liczyć na znacznie więcej takich masaży.  
@@ -69755,73 +79074,145 @@
 
 ## Common Event 372 — SCN - Hannah Anal Cave
 
+> **🎬 Wstawka wideo:** `HnMcCve1.mp4` (zapętlone)
+
 **Mox:** Co się stało?  
 **Hannah:** Uważasz mnie za brzydką, bo jestem taka silna?  
 **Mox:** Co?! To nieprawda.  
 **Hannah:** To czemu uważasz, że jestem brzydka?  
+
+> **🎬 Wstawka wideo:** `HnMcCve2.mp4` (zapętlone)
+
 **Mox:** Hannah, jesteś przepiękna.  
 **Hannah:** Nawet z tymi wszystkimi wielkimi mięśniami?  
 **Mox:** … Nawet gdybyś potrafiła podnieść traktor, i tak uważałbym, że jesteś cholernie śliczna.  
 **Hannah:** Potrafię podnieść traktor. Chcesz zobaczyć?  
 **Mox:** Niezupełnie na to mam teraz ochotę.  
+
+> **🎬 Wstawka wideo:** `HnMcCve3.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `HnMcCve4.mp4` (zapętlone)
+
 **Hannah:** Mox! Co w ciebie wstąpiło?  
 **Hannah:** Podobają ci się moje cycki?  
+
+> **🎬 Wstawka wideo:** `HnMcCve5.mp4` (zapętlone)
+
 **Mox:** Nie ma w tobie nic, co mogłoby mi się nie podobać.  
 **Hannah:** To czemu wcześniej tego nie okazywałeś?  
 **Mox:** Właśnie okazuję.  
+
+> **🎬 Wstawka wideo:** `HnMcCve6.mp4` (zapętlone)
+
 **Hannah:** Och, Mox! Ale to przyjemne!  
 **Mox:** Może i jesteś twardą babką, ale masz wyjątkowo wrażliwą łechtaczkę.  
 **Hannah:** Co… Co zamierzasz zrobić?  
+
+> **🎬 Wstawka wideo:** `HnMcCve7.mp4` (zapętlone)
+
 **Mox:** Chcę się z tobą kochać, Hannah.  
 **Hannah:** Teraz brzmisz naprawdę głupio.  
 **Mox:** Co jest? Nie radzisz sobie z czułymi słówkami?  
 **Hannah:** To się nazywa pieprzenie, Mox… więc lepiej się do tego zabierz.  
+
+> **🎬 Wstawka wideo:** `HnMcCve8.mp4` (zapętlone)
+
 **Hannah:** Ach! No jasne!  
 **Mox:** Ale mocno na to reagujesz.  
 **Hannah:** To wyjątkowo przyjemne!  
 **Mox:** Czuję, jak drży.  
+
+> **🎬 Wstawka wideo:** `HnMcCve9.mp4` (zapętlone)
+
 **Hannah:** Naprawdę mnie rozpalasz.  
 **Mox:** Jesteś twardą dziewczyną?  
 **Hannah:** No jasne, że jestem twarda.  
+
+> **🎬 Wstawka wideo:** `HnMcCve10.mp4` (zapętlone)
+
 **Hannah:** O rany! Mój tyłek!  
 **Mox:** Jakie to uczucie?  
 **Hannah:** Wypełniasz mi obie dziurki… i to jest niesamowite!  
 **Mox:** Pomyślałem, że może ci się spodobać.  
+
+> **🎬 Wstawka wideo:** `HnMcCve11.mp4` (zapętlone)
+
 **Hannah:** Nigdy wcześniej niczego sobie nie wkładałam w tyłek.  
 **Mox:** Myślisz, że dasz radę?  
 **Hannah:** Ja… Dam radę ze wszystkim… Jestem Hannah Ray.  
+
+> **🎬 Wstawka wideo:** `HnMcCve12.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `HnMcCve13.mp4` (zapętlone)
+
 **Hannah:** O rany!  
 **Hannah:** Ojej. Ale to przyjemne.  
+
+> **🎬 Wstawka wideo:** `HnMcCve14.mp4` (zapętlone)
+
 **Hannah:** Nie wierzę, że liżesz moją małą, różową dziurkę.  
 **Hannah:** Co ty, do cholery, tam kombinujesz?  
+
+> **🎬 Wstawka wideo:** `HnMcCve15.mp4` (zapętlone)
+
 **Mox:** Jesteś już cała nasmarowana. Co ty na to?  
 **Hannah:** Zamierzasz wsadzić mi to do środka?  
 **Mox:** Chcesz spróbować?  
 **Hannah:** Czy będzie bolało?  
 **Mox:** Czy odrobina bólu kiedykolwiek cię powstrzymała?  
 **Hannah:** Dawaj, Mox. Wytrzymam.  
+
+> **🎬 Wstawka wideo:** `HnMcCve16.mp4`
+
+> **🎬 Wstawka wideo:** `HnMcCve17.mp4` (zapętlone)
+
 **Hannah:** O ja pierdolę! Rozciąga mi się odbyt!  
 **Mox:** O kurwa! Ale dobrze.  
 **Hannah:** Cholera, Mox! Chyba czuję, jak twój kutas drga mi w brzuchu!  
+
+> **🎬 Wstawka wideo:** `HnMcCve18.mp4` (zapętlone)
+
 **Mox:** Cholera, masz zajebiście słodki tyłek.  
 **Hannah:** Dawaj, Mox. Nie boję się!  
+
+> **🎬 Wstawka wideo:** `HnMcCve19.mp4` (zapętlone)
+
 **Hannah:** Ach! Kurwa! Kurwa! Kurwa!  
 **Mox:** Ale ciasno! Ale miękko!  
 **Hannah:** Klepnij mnie w tyłek i wypełnij moją dziurkę!  
+
+> **🎬 Wstawka wideo:** `HnMcCve20.mp4` (zapętlone)
+
 **Mox:** Masz taki piękny tyłeczek, Hannah!  
 **Hannah:** Nigdy wcześniej tak się nie czułam.  
 **Mox:** Chcesz, żebym przestał?  
 **Hannah:** Szybciej!  
+
+> **🎬 Wstawka wideo:** `HnMcCve21.mp4` (zapętlone)
+
 **Hannah:** Rżnij mnie, kochanie! Weź mój tyłeczek!  
 **Mox:** Ale dobrze! Ale dobrze!  
+
+> **🎬 Wstawka wideo:** `HnMcCve22.mp4` (zapętlone)
+
 **Mox:** Zaraz dojdę przez twój tyłek!  
 **Hannah:** Czuję, że nadchodzi!  
 **Mox:** Nie mogę się powstrzymać!  
+
+> **🎬 Wstawka wideo:** `HnMcCve23.mp4`
+
+> **🎬 Wstawka wideo:** `HnMcCve24.mp4` (zapętlone)
+
 **Hannah:** Gdzie się podział?  
 **Mox:** Hannah… Jest w twoim tyłku.  
 **Hannah:** Spuściłeś tam całe swoje nasienie?  
 **Mox:** Nie czujesz tego?  
 **Hannah:** Dużo się tam dzieje… Przed chwilą miałeś w środku swojego wielkiego kutasa!  
+
+> **🎬 Wstawka wideo:** `HnMcCve25.mp4`
+
+> **🎬 Wstawka wideo:** `HnMcCve26.mp4` (zapętlone)
+
 **Hannah:** Och, już widzę.  
 **Mox:** Jakim cudem zawsze kończysz cała umazana?  
 **Hannah:** Jest naprawdę ciepłe.  
@@ -69987,56 +79378,120 @@
 
 ## Common Event 442 — SCN - Blindfold Sex
 
+> **🎬 Wstawka wideo:** `HeCaHnChMl1.mp4` (zapętlone)
+
 **Mox:** Carol! Heather!...  
 **Mox:** Mają zawiązane oczy?  
 **Mox:** O cholera!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl2.mp4`
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl3.mp4` (zapętlone)
+
 **Madalyn:** Spójrz na to!  
 **Mox:** Pierdol się! Zniszczę to, zanim na to spojrzę!  
 **Madalyn:** Aaargh!  
 **Mox:** Zejdź ze mnie!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl4.mp4` (zapętlone)
+
 **Madalyn:** Dlaczego!? Nie jest nam potrzebny!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl5.mp4`
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl6.mp4` (zapętlone)
+
 **Hannah:** Mox! To ty!  
 **Mox:** Hannah, Madalyn tu jest!  
 **Hannah:** Skąd mam wiedzieć? Nic, kurwa, nie widzę!  
 **Chloe:** Dzięki Bogu, że Mox się zjawił. Potrzebuję kutasa!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl7.mp4` (zapętlone)
+
 **Hannah:** Mox nas uratuje!  
 **Chloe:** Uratuj nas, Mox!  
 **Mox:** Madalyn… Darowała im życie.  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl8.mp4` (zapętlone)
+
 **Hannah:** Chloe naprawdę umie lizać cipkę!  
 **Chloe:** Uwielbiam lizać cipki!  
 **Mox:** Hannah… To nie Chloe.  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl9.mp4` (zapętlone)
+
 **Carol:** Czuję, że ktoś ma ochotę na igraszki.  
 **Heather:** Ale kto to? Trudno stwierdzić, kiedy nic nie widać.  
 **Carol:** Jest taka pulchna i soczysta.  
 **Heather:** Ale z ciebie niegrzeczna!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl10.mp4` (zapętlone)
+
 **Madalyn:** Nie przybyłam zniszczyć twojego świata, Mox. Chcę ocalić własny.  
 **Heather:** Ależ ona smakuje!  
 **Carol:** No ba, że tak!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl11.mp4` (zapętlone)
+
 **Chloe:** Jestem taka napalona!  
 **Madalyn:** Gdyby to ode mnie zależało, już byś nie żył, Mox.  
 **Carol:** Dłużej nie wytrzymam! Muszę skosztować kolejnej cipki!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl12.mp4` (zapętlone)
+
 **Chloe:** Carol! To nie moja cipka!  
 **Hannah:** Wygląda na to, że mamusia lubi twój tyłek, Chloe.  
 **Mox:** Madalyn… Oszczędzisz mnie?  
 **Madalyn:** Takie rozkazy Matki, Mox.  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl13.mp4` (zapętlone)
+
 **Heather:** Ale gorąco! Aż boli mnie cipka!  
 **Chloe:** Boli cię cipka!? Moja zaraz eksploduje!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl14.mp4`
+
 **Carol:** Teraz moja kolej!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl15.mp4` (zapętlone)
+
 **Carol:** Dawaj mi tego kutasa, kochanie!  
 **Madalyn:** Twój świat zaraz się zmieni, Mox. Toma należy do nas i tym razem nikt nas nie powstrzyma.  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl16.mp4` (zapętlone)
+
 **Carol:** Jedno wiem na pewno! Chcę brać kutasa Mox każdego dnia!  
 **Madalyn:** Matka stworzy świat, którego pragniesz, siostro.  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl17.mp4` (zapętlone)
+
 **Carol:** Zerżnij mnie! Zerżnij mnie!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl18.mp4` (zapętlone)
+
 **Madalyn:** Bierz go! Możesz go używać, jak chcesz!  
 **Carol:** Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl19.mp4`
+
 **Hannah:** A teraz liż mnie!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl20.mp4`
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl21.mp4` (zapętlone)
+
 **Madalyn:** Mmph!  
 **Carol:** Dawaj, dziewczyno!  
 **Chloe:** Dalej, Hannah!  
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl22.mp4` (zapętlone)
+
 **Mox:** Kurwa! Zaraz dojdę!  
 **Heather:** Spuść się w niej, kochanie!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `HeCaHnChMl23.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -70093,31 +79548,66 @@
 
 ## Common Event 487 — SCN - Lillian Cave
 
+> **🎬 Wstawka wideo:** `LiCv1.mp4` (zapętlone)
+
 **Lillian:** Co my poczniemy? Może zginiemy tu razem.  
 **Mox:** Lillian?  
 **Lillian:** Daj spokój, Mox. Spędźmy nasze ostatnie chwile na odrobinie przyjemności.  
 **Mox:** Próbujesz mnie rozproszyć.  
+
+> **🎬 Wstawka wideo:** `LiCv2.mp4`
+
+> **🎬 Wstawka wideo:** `LiCv3.mp4` (zapętlone)
+
 **Lillian:** No i? Działa?  
 **Mox:** Cholera… Lillian.  
 **Mox:** Przestań…  
+
+> **🎬 Wstawka wideo:** `LiCv4.mp4` (zapętlone)
+
 **Lillian:** Tak naprawdę nie chcesz, żebym przestała.  
 **Mox:** Kurwa!  
 **Lillian:** Wiem, jak sprowadzić twoje myśli na właściwe tory.  
+
+> **🎬 Wstawka wideo:** `LiCv5.mp4`
+
+> **🎬 Wstawka wideo:** `LiCv6.mp4` (zapętlone)
+
 **Lillian:** Dobrze się spisałeś, Mox… Ale nie możesz za mną iść.  
 **Lillian:** Mam do wykonania zadanie daleko stąd, a twoje miejsce jest w North Santiva.  
+
+> **🎬 Wstawka wideo:** `LiCv7.mp4` (zapętlone)
+
 **Lillian:** Ale będę tęsknić za tymi twoimi ustami…  
+
+> **🎬 Wstawka wideo:** `LiCv8.mp4`
+
+> **🎬 Wstawka wideo:** `LiCv9.mp4` (zapętlone)
+
 **Mox:** Wiesz, że nie umiem ci się oprzeć, Lillian.  
 **Lillian:** Właśnie to chciałam usłyszeć.  
 **Lillian:** Jestem matką, której potrzebujesz.  
 **Mox:** Lillian… Zaczekaj.  
+
+> **🎬 Wstawka wideo:** `LiCv10.mp4` (zapętlone)
+
 **Lillian:** Wciąż ci mało, Mox?  
 **Mox:** To… Tak dobrze.  
+
+> **🎬 Wstawka wideo:** `LiCv11.mp4` (zapętlone)
+
 **Mox:** Cholera, naprawdę to czuję!  
 **Lillian:** Pozwól, by troski opuściły twoje ciało… Niech znikną wszystkie cierpienia tego świata.  
+
+> **🎬 Wstawka wideo:** `LiCv12.mp4` (zapętlone)
+
 **Lillian:** Uwielbiam twojego kutasa!  
 **Mox:** Kurwa! Ale dobrze!  
 **Lillian:** Daj mi swoją miłość!  
 **Mox:** Już nadchodzi!  
+
+> **🎬 Wstawka wideo:** `LiCv13.mp4`
+
 **Lillian:** Fantastycznie jak zawsze. Jesteś jedyny w swoim rodzaju, Mox.  
 **Mox:** Cholera, Lillian. To było niesamowite.  
 
@@ -70415,82 +79905,166 @@
 
 ## Common Event 457 — SCN - Erica Hell
 
+> **🎬 Wstawka wideo:** `ErHllOgy1.mp4`
+
+> **🎬 Wstawka wideo:** `ErHllOgy2.mp4` (zapętlone)
+
 **Mox:** Erica! To ja, Mox.  
 **Erica:** Gdzie ja jestem?  
 **Mox:** Jesteśmy w piekle… Dopuściłaś się bluźnierstwa…  
 **Mox:** Ale nie martw się… Zabierzemy cię z powrotem na Ziemię.  
 **Demon 1:** Więc taki jest plan?  
 **Melissa:** Mox… Mamy problem.  
+
+> **🎬 Wstawka wideo:** `ErHllOgy3.mp4` (zapętlone)
+
 **Demon 2:** Bluźniła?  
 **Demon 1:** Tak twierdzi ten ludzki samiec.  
 **Andrea:** O mój Boże!  
 **Ella:** Cofnij się!  
 **Mox:** Lilith nas tu przysłała! Przyszliśmy uratować Ericę.  
 **Demon 3:** Ale jej dusza jest już ocalona. Jest tutaj, więc czas na zabawę!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy4.mp4` (zapętlone)
+
 **Melissa:** Kurwa!  
 **Mox:** Opuśćcie mnie!  
 **Ella:** Mox!  
 **Nellie:** Natychmiast go opuśćcie!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy5.mp4` (zapętlone)
+
 **Demon 2:** Zbezcześciła świętą relikwię!  
 **Demon 1:** Ale niegrzecznie!  
 **Erica:** Anioł kazał mi to zrobić.  
 **Demon 3:** Naprawdę?  
+
+> **🎬 Wstawka wideo:** `ErHllOgy6.mp4`
+
+> **🎬 Wstawka wideo:** `ErHllOgy7.mp4` (zapętlone)
+
 **Andrea:** Panno Bhatt! Co w pani wstąpiło?!  
 **Melissa:** Pozwól mi possać twoje wielkie cycki, panno Kimura.  
 **Mox:** Och! Ale przyjemnie!  
 **Erica:** Wow! Ale mam gorącą cipkę!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy8.mp4` (zapętlone)
+
 **Demon 3:** Wylizuj moją cipkę, człowieku!  
 **Demon 2:** Chyba im się podoba.  
 **Mox:** Lilith nadchodzi… Nie mamy czasu na wygłupy.  
 **Demon 3:** Jesteś w piekle. Zawsze znajdzie się czas na niegrzeczne zabawy.  
+
+> **🎬 Wstawka wideo:** `ErHllOgy9.mp4` (zapętlone)
+
 **Andrea:** Te dziewczyny… Są takie seksowne.  
 **Mox:** Tak trudno się oprzeć!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy10.mp4` (zapętlone)
+
 **Erica:** O kurwa!  
 **Demon 3:** Uwielbiam, jak bardzo ci ludzie pragną rozkoszy.  
+
+> **🎬 Wstawka wideo:** `ErHllOgy11.mp4` (zapętlone)
+
 **Demon 2:** Potrafią docenić dobry smak, kiedy go poczują.  
 **Andrea:** O Boże…  
+
+> **🎬 Wstawka wideo:** `ErHllOgy12.mp4` (zapętlone)
+
 **Mox:** Kurwa! Masz takie seksowne cycki.  
 **Demon 3:** Jesteś jak napalony szczeniak. Oddawaj mi cześć, człowieku!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy13.mp4` (zapętlone)
+
 **Nellie:** Rżnij językiem mój tyłek, potworze!  
 **Demon 2:** Poczuj tę gorącą cipkę, ty zboczeńcu!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy14.mp4` (zapętlone)
+
 **Andrea:** Cholera! Cholera! Och, panno Bhatt!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy15.mp4` (zapętlone)
+
 **Ella:** Muszę sprawdzić, jaka jest ta zabawka! Jest cholernie wielka!  
 **Mox:** Ella! Nie! To skaże cię na piekło!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy16.mp4` (zapętlone)
+
 **Ella:** Mox! Co ty robisz?! Moja cipka musi być wypełniona!  
 **Mox:** Nie możesz użyć relikwii!  
 **Nellie:** Jest taka błyszcząca… i gładka.  
 **Erica:** Dobrze leży w cipce. Sama spróbuj.  
+
+> **🎬 Wstawka wideo:** `ErHllOgy17.mp4` (zapętlone)
+
 **Mox:** Weź mojego kutasa, Ello! Nie używaj relikwii!  
 **Ella:** Wypełnij mnie, Mox!  
 **Demon 3:** Spójrz na tych cudownych ludzi… Są tacy uroczy, kiedy się napalą.  
+
+> **🎬 Wstawka wideo:** `ErHllOgy18.mp4` (zapętlone)
+
 **Nellie:** Pocałuj mnie!  
 **Erica:** Nie! Mnie pocałuj!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy19.mp4` (zapętlone)
+
 **Demon 1:** Bierz mnie, człowieku! Dołącz do nas w piekle, a będziemy pieprzyć się przez całą wieczność!  
 **Erica:** Daj jej! Spodoba jej się!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy20.mp4` (zapętlone)
+
 **Demon 1:** Cholera! Ale to wielkie!  
 **Mox:** Przestań! Nie!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy21.mp4`
+
+> **🎬 Wstawka wideo:** `ErHllOgy22.mp4`
+
 **Demon 2:** Co zrobiłeś?!  
 **Demon 3:** Zatrzymaj go!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy23.mp4` (zapętlone)
+
 **Demon 3:** Choćbyś nie wiem jak próbował, nie zdołasz nas powstrzymać!  
 **Demon 2:** Twoja rasa jest zbyt słaba, a moja cipka zbyt ciasna!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy24.mp4` (zapętlone)
+
 **Andrea:** Zliż moją cipkę!  
 **Nellie:** Uwielbiam twoje cycki!  
 **Demon 3:** Posłuchaj ich! Pożera je żądza.  
 **Demon 2:** Ich miejsce jest w piekle, razem z nami!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy25.mp4`
+
+> **🎬 Wstawka wideo:** `ErHllOgy26.mp4` (zapętlone)
+
 **Demon 3:** Śmiesz krzywdzić moje siostry?! Powinnam zlasować ci mózg!  
 **Nellie:** Zlasuj nam mózgi!  
 **Andrea:** Chcę, żebyś wyprała mi mózg seksem!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy27.mp4` (zapętlone)
+
 **Erica:** Jestem taka niegrzeczna!  
 **Demon 3:** Dobrze! Poddaj się swoim pragnieniom!  
 **Erica:** O kurwa!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy28.mp4` (zapętlone)
+
 **Nellie:** Doprowadź nas do orgazmu, Mox!  
 **Andrea:** Skosztuj naszych cipek!  
 **Demon 3:** Pokaż nam swoje ludzkie nasienie!  
+
+> **🎬 Wstawka wideo:** `ErHllOgy29.mp4` (zapętlone)
+
 **Erica:** Muszę… Muszę je uratować!  
 **Nellie:** Dochodzę!  
 **Andrea:** Kurwa!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `ErHllOgy30.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -70894,47 +80468,118 @@
 
 ## Common Event 492 — SCN - Arianna Demons
 
+> **🎬 Wstawka wideo:** `ArDmnTest1.mp4` (zapętlone)
+
 **Mox:** Mógłbym przywyknąć do takiego widoku.  
+
+> **🎬 Wstawka wideo:** `ArDmnTest2.mp4` (zapętlone)
+
 **Mox:** Nie ma to jak patrzeć, jak dwa niegrzeczne demony się całują.  
+
+> **🎬 Wstawka wideo:** `ArDmnTest3.mp4` (zapętlone)
+
 **Mox:** Chyba działa. Arianna wygląda na profesjonalistkę.  
+
+> **🎬 Wstawka wideo:** `ArDmnTest4.mp4` (zapętlone)
+
 **Mox:** Ach, kurwa, uwielbiam czuć twoją cipkę, Arianno.  
+
+> **🎬 Wstawka wideo:** `ArDmnTest5.mp4` (zapętlone)
+
 **Mox:** Zaraz dojdę!  
+
+> **🎬 Wstawka wideo:** `ArDmnTest6.mp4`
+
+> **🎬 Wstawka wideo:** `ArDmnTest7.mp4` (zapętlone)
+
 **Mox:** To wspaniałe uczucie. Naprawdę potrafi wziąć go do ust.  
 **Arianna:** Może mogłabym się tego nauczyć…  
+
+> **🎬 Wstawka wideo:** `ArDmnTest8.mp4` (zapętlone)
+
 **Arianna:** Dobrze mi idzie, Mox?  
 **Mox:** Wygląda dobrze!  
+
+> **🎬 Wstawka wideo:** `ArDmnTest9.mp4` (zapętlone)
+
 **Mox:** Skup się na tym, co robisz. Wylizuj jej tyłek!  
 **Arianna:** Dam z siebie wszystko!  
+
+> **🎬 Wstawka wideo:** `ArDmnTest10.mp4`
+
+> **🎬 Wstawka wideo:** `ArDmnTest11.mp4` (zapętlone)
+
 **Arianna:** Chyba zaczynam łapać!  
 **Mox:** Świetnie. Chętnie bierze mojego kutasa do ust, więc chyba się zgadza!  
+
+> **🎬 Wstawka wideo:** `ArDmnTest12.mp4` (zapętlone)
+
 **Mox:** Kurwa, zaraz spuszczę się tej demonicy do gardła!  
 **Arianna:** Zrób to!  
+
+> **🎬 Wstawka wideo:** `ArDmnTest13.mp4`
+
+> **🎬 Wstawka wideo:** `ArDmnTest14.mp4` (zapętlone)
+
 **Demon 2:** Podobają ci się moje cycki, człowieku?  
 **Mox:** Są fantastyczne!  
 **Demon 2:** To dalej je pieprz.  
+
+> **🎬 Wstawka wideo:** `ArDmnTest15.mp4` (zapętlone)
+
 **Demon 2:** Właśnie tak, jedz moją cipkę, aniele!  
 **Mox:** Ona już nie jest aniołem.  
 **Demon 2:** Jeszcze się przekonamy.  
+
+> **🎬 Wstawka wideo:** `ArDmnTest16.mp4` (zapętlone)
+
 **Demon 2:** Idzie jej lepiej, niż myślałam.  
 **Demon 2:** Czas podkręcić tempo, nie sądzisz?  
 **Mox:** Jestem za.  
 **Demon 2:** Pokaż, jak bardzo podobają ci się moje cycki, przystojniaku.  
+
+> **🎬 Wstawka wideo:** `ArDmnTest17.mp4`
+
+> **🎬 Wstawka wideo:** `ArDmnTest18.mp4` (zapętlone)
+
 **Mox:** Uwielbiam, jakie miękkie są twoje piersi!  
 **Demon 2:** Rżnij je! Pieprz moje cycki!  
+
+> **🎬 Wstawka wideo:** `ArDmnTest19.mp4` (zapętlone)
+
 **Demon 2:** Dawaj, ty plugawy aniele!  
 **Mox:** Zaraz…  
 **Demon 2:** Dawaj! Chcę, żeby było na całej mojej twarzy!  
+
+> **🎬 Wstawka wideo:** `ArDmnTest20.mp4`
+
+> **🎬 Wstawka wideo:** `ArDmnTest21.mp4` (zapętlone)
+
 **Arianna:** Jak ci jest? Dobrze ci z jej cipką?  
 **Mox:** Jak cholera!  
 **Arianna:** Pieprz ją!  
+
+> **🎬 Wstawka wideo:** `ArDmnTest22.mp4` (zapętlone)
+
 **Arianna:** Właśnie tak! Jedz mnie, demonie!  
 **Mox:** Wow, Arianno! Ale się w to wkręciłaś!  
 **Arianna:** Nie mogę się powstrzymać! Potrzebuję tego, Mox!  
+
+> **🎬 Wstawka wideo:** `ArDmnTest23.mp4` (zapętlone)
+
 **Arianna:** Jestem taka mokra…  
 **Arianna:** Wylizuj!  
 **Mox:** Ale to jest cholernie podniecające.  
+
+> **🎬 Wstawka wideo:** `ArDmnTest24.mp4`
+
+> **🎬 Wstawka wideo:** `ArDmnTest25.mp4` (zapętlone)
+
 **Mox:** Rżnij ją w twarz, kochanie!  
 **Arianna:** Właśnie to robię! Rżnę ją w twarz!  
+
+> **🎬 Wstawka wideo:** `ArDmnTest26.mp4` (zapętlone)
+
 **Mox:** Uwielbiam rżnąć demony!  
 **Arianna:** Rżnij demonicę porządnie!  
 **Arianna:** Rżnij ją, aż nie będzie mogła znieść twojego kutasa!  
@@ -70943,6 +80588,8 @@
 **Arianna:** Ja też! Daj upust!  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 210.
+
+> **🎬 Wstawka wideo:** `ArDmnTest27.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -71027,11 +80674,11 @@
 **Evie:** Właśnie pomogłyśmy. Na pewno lepiej rozumiesz już demony.  
 **Arianna:** Och, chodziło mi o mój problem.  
 **Demon 3:** Jaki problem?  
-**Arianna:** Nie chcę skrzywdzić Mox, kiedy uprawiamy seks, i nie wiem, co zrobić z tymi uczuciami.  
+**Arianna:** Nie chcę skrzywdzić Moxa, kiedy uprawiamy seks, i nie wiem, co zrobić z tymi uczuciami.  
 **Demon 2:** Ha, ha, skrzywdzić go? Czy wy dwoje się z nami oszczędzaliście?  
 **Demon 3:** Może powinniśmy wszyscy zaliczyć jeszcze jedną rundkę…  
 **Arianna:** Proszę, potrzebuję odpowiedzi. Chyba chodzi o to uczucie, które ciągle teraz we mnie jest…  
-**Arianna:** O to, że pragnę Mox.  
+**Arianna:** O to, że pragnę Moxa.  
 **Demon 1:** Żądza jest u demonów czymś normalnym, mała.  
 **Arianna:** Nie, to coś innego! Wcześniej było dziko i erotycznie… Teraz jest jakoś inaczej, łagodniej…  
 **Arianna:** Po prostu chcę być blisko niego.  
@@ -71055,7 +80702,7 @@
 **Arianna:** Na pewno mogę coś zrobić?  
 **Evie:** Niestety nie.  
 **Evie:** Z drugiej strony ludzie dobrze znają się na takich sprawach.  
-**Evie:** Może zdołasz się z tym uporać razem z Mox.  
+**Evie:** Może zdołasz się z tym uporać razem z Moxem.  
 **Arianna:** Mox?  
 **Mox:** Arianno, może wrócimy do domu?  
 **Arianna:** Skoro tak uważasz…  
@@ -71593,6 +81240,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Arianna.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -72103,12 +81752,18 @@
 
 ## Common Event 458 — SCN - Hell Fight
 
+> **🎬 Wstawka wideo:** `DmlsFght1.mp4`
+
+> **🎬 Wstawka wideo:** `DmlsFght2.mp4` (zapętlone)
+
 **Bobby:** Hej! Zastrzelę cię! Nie zbliżaj się!  
 **Daemalius:** Jak myślisz, co się stanie?  
 **Bobby:** Nie zmuszaj mnie!  
 **Daemalius:** Przekonajmy się.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.
+
+> **🎬 Wstawka wideo:** `DmlsFght3.mp4`
 
 **Wybór gracza:**
 - Zakończ
@@ -72394,6 +82049,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Kimberly.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -72401,6 +82058,8 @@
 ## Mapa 039 — Test / event 5 / strona 1
 
 **Mox:** /success  
+
+> **🎬 Wstawka wideo:** `Fig-Melissa.mp4` (zapętlone)
 
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
@@ -72410,6 +82069,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Judy.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -72417,6 +82078,8 @@
 ## Mapa 039 — Test / event 7 / strona 1
 
 **Mox:** /find  
+
+> **🎬 Wstawka wideo:** `Fig-Chloe.mp4` (zapętlone)
 
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
@@ -72426,6 +82089,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Heather.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -72433,6 +82098,8 @@
 ## Mapa 039 — Test / event 9 / strona 1
 
 **Mox:** /find  
+
+> **🎬 Wstawka wideo:** `Fig-Hannah.mp4` (zapętlone)
 
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
@@ -72442,6 +82109,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Carol.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -72449,6 +82118,8 @@
 ## Mapa 039 — Test / event 11 / strona 1
 
 **Mox:** /find  
+
+> **🎬 Wstawka wideo:** `Fig-Nellie.mp4` (zapętlone)
 
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
@@ -72458,6 +82129,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Ella.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -72465,6 +82138,8 @@
 ## Mapa 039 — Test / event 13 / strona 1
 
 **Mox:** /find  
+
+> **🎬 Wstawka wideo:** `Fig-Erica.mp4` (zapętlone)
 
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
@@ -72474,6 +82149,8 @@
 
 **Mox:** /find  
 
+> **🎬 Wstawka wideo:** `Fig-Lillian.mp4` (zapętlone)
+
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
 ---
@@ -72481,6 +82158,8 @@
 ## Mapa 039 — Test / event 15 / strona 1
 
 **Mox:** /find  
+
+> **🎬 Wstawka wideo:** `Fig-Andrea.mp4` (zapętlone)
 
 *〔Wskazówka: Profil tej postaci jest już dostępny w albumie.〕*
 
@@ -74578,6 +84257,8 @@
 
 > **Ścieżka warunkowa:** Craft Can Succeed: wyłączony → wybór «Tak» → Crafted Bonus Profile: wyłączony.
 
+> **🎬 Wstawka wideo:** `Fig-Arianna.mp4` (zapętlone)
+
 **Wybór gracza:**
 - Zwykłe
 - Nagość
@@ -74585,6 +84266,12 @@
 - Anuluj
 
 > **Ścieżka warunkowa:** Craft Can Succeed: wyłączony → wybór «Tak».
+
+> **🎬 Wstawka wideo:** `Fig-Arianna.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Arianna-Nude.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `Fig-Arianna-Outfit.mp4` (zapętlone)
 
 **Narrator / mówca nieustalony:** Profil bonusowy Arianny  
 **Narrator / mówca nieustalony:** Brakuje ci przedmiotów potrzebnych do tego przepisu.  
@@ -74977,7 +84664,7 @@
 
 ## Mapa 209 — Menu główne / event 12 / strona 1
 
-**Narrator / mówca nieustalony:** Zdobądź Hannah numer telefonu, aby odblokować  
+**Narrator / mówca nieustalony:** Zdobądź numer telefonu Hannah, aby odblokować  
 
 ---
 
@@ -75001,7 +84688,7 @@
 
 ## Mapa 209 — Menu główne / event 20 / strona 1
 
-**Narrator / mówca nieustalony:** Zdobądź Carol numer telefonu, aby odblokować  
+**Narrator / mówca nieustalony:** Zdobądź numer telefonu Carol, aby odblokować  
 
 ---
 
@@ -75097,7 +84784,7 @@
 
 ## Mapa 209 — Menu główne / event 36 / strona 1
 
-**Narrator / mówca nieustalony:** Zdobądź Melissa numer telefonu, aby odblokować  
+**Narrator / mówca nieustalony:** Zdobądź numer telefonu Melissy, aby odblokować  
 
 ---
 
@@ -75266,5 +84953,29 @@
 ## Mapa 209 — Menu główne / event 72 / strona 1
 
 **Narrator / mówca nieustalony:** Znajdź 3 dodatki, aby odblokować  
+
+---
+
+## Mapa 049 — Strych / event 15 / strona 2
+
+> **Scena bez kwestii dialogowych** — poniżej wyłącznie wstawki wideo z tego eventu.
+
+> **🎬 Wstawka wideo:** `ChJuAt5.mp4` (zapętlone)
+
+---
+
+## Common Event 413 — SCN - Buffed Minion
+
+> **Scena bez kwestii dialogowych** — poniżej wyłącznie wstawki wideo z tego eventu.
+
+> **🎬 Wstawka wideo:** `MinJS.mp4` (zapętlone)
+
+---
+
+## Mapa 001 — PRZED EKRANEM TYTUŁOWYM / event 1 / strona 1
+
+> **Scena bez kwestii dialogowych** — poniżej wyłącznie wstawki wideo z tego eventu.
+
+> **🎬 Wstawka wideo:** `Logo.mp4`
 
 ---

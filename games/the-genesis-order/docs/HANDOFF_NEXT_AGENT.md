@@ -1,5 +1,37 @@
 # Handoff — The Genesis Order PL
 
+## 2026-10-31 (najnowsze) — R-13: dokończona odmiana imion (628 form przejrzanych, 22 poprawki)
+
+- **Zrobione:** przejrzałem wszystkie **628** form odłożonych przez R-09. **617 to poprawne mianowniki** (382 podmioty na początku klauzuli, 226 orzeczników po „jest/to/czy”, 17 czasowników z podmiotem) — nie wymagają zmiany. Realne błędy były w nazwie artefaktu **Toma Leolo** i w trzech napisach systemowych z dzierżawczym „’s”. Nowe narzędzie `tools/refine_name_declension.py` używa **tych samych tabel rządu co odmiana bohatera** (`hero_declension`) + rzeczowników (`kawałki`, `posąg`, `pomocą`, `użyciem`, `szukaniu`) + czasowników (`szuka`, `używały`, `strzegły`, `dopełni` → dopełniacz; `sprowadzić`, `zdobądź`, `złóż`, `zniszcz` → biernik) + czterech decyzji kuratorskich i trzech napisów („Zdobądź numer telefonu Melissy”).
+- **Wynik:** **22 rekordy** (12 wystąpień regułowych: `noun` 5, `verb` 4, `preposition` 3; plus 7 poprawek napisów/decyzji), 12 plików draftów, raport `translation/reports/declension_refine_v1.json`. Drugi przebieg: 0 zmian.
+- **Artefakty:** patch `d505ad9c…` (payload `1c13a40d…`, 39 917 tłumaczeń), Czytanka `fef67df9…` (4 403 wpisy, 4 397 rozdziałów; 16 plików różni się od poprzedniego wydania). Testy: `tests/test_name_declension_refine.py` (10) + pełny `unittest`: **230 OK**.
+- **Publikacja:** `TGO/translation/packages/` — patch `1j95-XovU33y_kfBXVq1GqPa5czaABL3z`, Czytanka `1yqIcRUGItXVCcG0zzO20BrLGaMGTmlpw` (+ sidecary `1hyI9s-rpPeEr6N4Kr17LytqBA7WdKT9a`, `1aAgI5Bii7AbusMuLY0SEJAj7-86fjns7`); poprzednie wydania w koszu.
+- **Do zrobienia:** (1) kolejne partie tekstu wymagają dopisywania form do tabel `VERB_CASES`/`NOUN_GENITIVE_GOVERNORS` w `refine_name_declension.py` — nie zgadywać; (2) 610 form mianownikowych zostaje świadomie; (3) imiona męskie na spółgłoskę i nazwiska nadal nietknięte (decyzja właściciela).
+
+## 2026-10-31 (najnowsze) — odmiana imienia bohatera w Czytance (`1Hero` → Mox w przypadkach)
+
+- **Zrobione:** `tools/hero_declension.py` (warstwa prezentacji Czytanki; drafty zachowują `1Hero`, bo gra podstawia imię gracza) + `tools/audit_hero_declension.py` (read-only raport decyzji) + `build_readalong.py` używa `decline_text()` zamiast `replace`. Reguły: przyimek jednoznaczny → przypadek; przyimek wieloznaczny + zamknięta lista wyjątków (`z` + źródło → dopełniacz, „chodzi o” → biernik); czasownik z zamkniętej tabeli; rzeczownik rządzący dopełniaczem („program Moxa”); wołacz/mianownik; **czasownik spoza tabeli = brak decyzji, nie zgadywanie**.
+- **Wynik:** 2 431 rekordów / 2 433 wystąpienia; **67** zmienionych (biernik 26, narzędnik 23, celownik 9, dopełniacz 7, miejscownik 2), 2 nierozstrzygnięte („Pamiętaj, 1Hero: …” — dwukropek po imieniu; „… a potem 1Hero zerżnął …” — mianownik poprawny). Czytanka przebudowana: **55** plików różni się (53 epizody + skrypt + README); w skrypcie 0 form „przyimek + Mox” i 0 `1Hero`. Nowy ZIP: 4 403 wpisy, SHA-256 `4a055e38362d2ee5db8b2f1ed4ce6ee7fff3950eabe010026941ba22c941718b`.
+- **Dokumenty:** ADR 004, R-12 w `EDITORIAL_DECISIONS.md`, wpis w `EXPERIMENT_LOG.md`, `reading/v1/README_PL.md` (nowy punkt o imieniu bohatera — generowany przez build). Testy: `tests/test_hero_declension.py` (14 testów), pełny `unittest`: **220 OK**.
+- **Publikacja:** `TGO/translation/packages/` — `TGO_readalong_PL_v1.zip` `1UhNAW0w38hZyFGIMyOey9c3jj1slXYo6` + sidecar `15vtzrZfOAjmxqKCU1IqNxCK5aSDT0cle`; poprzednie wydanie w koszu.
+- **Do zrobienia / uwagi:** (1) jeśli właściciel chce, te same reguły można rozszerzyć o kolejne czasowniki — dopisywanie do `VERB_CASES` w `hero_declension.py`, nie zgadywanie; (2) dwukropek po wołaczu („Pamiętaj, Mox: …”) wymaga poprawki heurystyki `_is_vocative`, jeśli takich kwestii będzie więcej; (3) 628 nierozstrzygniętych z R-09 (imiona żeńskie) i imiona męskie na spółgłoskę pozostają otwarte — patrz `declension_r09_report.json` i decyzja właściciela o niepoprawianiu ich „na siłę”.
+
+## 2026-10-31 (aktualizacja) — fragmenty Czytanki od właściciela mają już wstawki wideo
+
+- **Zrobione:** 12 plików z Drive `TGO/dostawy/` (`TGO1`…`TGO6`, `TG7`–`TG9`, `TGO10`…`TGO12`) to autorskie cięcia pliku matki (105 bloków, 93 nagłówki epizodów, 1 829 kwestii). `tools/annotate_reading_fragments.py` dopasował każdy blok do epizodu matki i wstawił **72** znaczniki `🎬 Wstawka wideo` w te same miejsca co w matce; 64 kwestie spoza matki zostały nietknięte i są w raporcie.
+- **Wejścia/wyjścia w Git:** `reading/fragments/source/` (dostawa 1:1) i `reading/fragments/v1/` (wynik), raport `translation/reports/tgo_reading_fragments_video_v1.json`, opis `reading/fragments/README_PL.md`. Testy: **205 OK**.
+- **Publikacja:** `TGO/translation/czytanka-fragmenty/` (`1akyDTXcVj3Cke-BbkMUojUEsBecyAj8i`): 12 plików wynikowych + `README_PL.md` + raport. Dostawa w `TGO/dostawy/` nietknięta.
+- **Do zrobienia:** (1) jeśli właściciel chce, podmienić pliki na Drive w miejscu (teraz dostawa jest nietknięta, wynik jest osobnym wydaniem), (2) ta sama metoda zadziała na kolejnych fragmentach — wystarczy wrzucić je do `source/` i uruchomić narzędzie, (3) uwaga: `TGO12.txt` nie ma ani jednej wstawki, bo jego 10 epizodów nie ma wideo w matce — to nie błąd narzędzia.
+
+## 2026-10-31 — wstawki wideo w Czytance
+
+- **Zrobione:** mechanizm wideo w TGO to `ysp.VideoPlayer` (`newVideo` + `playVideoById`, `setLoopById` = pętla). Skan 292 plików `www/data` dał **3 812** wywołań w **305** rozdziałach i **3 696** nazw plików; 24 nazwy (`BC-Ar-Bo*O2`, `BC-Ar-OT*O2`) nie mają pliku w tej kopii i są tylko adnotowane.
+- **Wydanie:** Czytanka v1 przebudowana ze znacznikami `🎬 Wstawka wideo`, nowy `reading/v1/index_movies_PL.md`, ZIP `9bab2a58…` (4 403 wpisy, 4 397 rozdziałów). Inwentarz śledzony w Git: `translation/reports/tgo_movie_calls_v1.json` (`284bfb04…`). Testy: **190 OK**.
+- **Do zrobienia:** (1) publikacja nowego ZIP-a Czytanki na Drive (poprzedni ID `1eUuZTR2LM1ZJtmYkUpQPecI4iwKjr_mv` jest nieaktualny), (2) dalsza praca redakcyjna/QA wg poniższego planu — audyt rodzaju pozostaje głównym zadaniem, (3) ewentualne rozróżnienie w Czytance krótkich wstawek (275 plików < 1,5 MB) od długich klipów scen, jeśli właściciel tego zechce.
+- **Uwaga:** `google_drive/tgo_source/` i `google_drive/TGO_FILES.csv` są poza Git; bez nich nie odtworzysz skanu ani builda Czytanki (wyniki są śledzone).
+
+---
+
 ## Najważniejsze na następną sesję — 2026-10-30 (po przeglądzie wąskiej kolejki i trzech rodzin sygnałów)
 
 **Zadanie:** kontynuować kontekstowy audyt rodzaju w The Genesis Order. Wąska kolejka jest **przejrzana w całości** (102 hipotezy → 70 korekt, 31 potwierdzeń, 1 odłożenie, plus jedna korekta sąsiedniej kwestii), ale to nie koniec audytu: **28 409 rekordów nie ma żadnego sygnału**, a 396 z 618 wcześniejszych automatycznych zmian nie ma decyzji. Właściciel oczekuje pracy systemowej i konkretnych uzasadnień, nie hurtowych zamian; MT słownikowe/regułowe/statystyczne jest zabronione, decyduje LLM w kontekście sceny.

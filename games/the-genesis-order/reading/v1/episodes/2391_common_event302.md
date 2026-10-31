@@ -1,5 +1,7 @@
 ## Common Event 302 — SCN - Oracle
 
+> **🎬 Wstawka wideo:** `Oracle.mp4` (zapętlone)
+
 **Mox:** Co to za rzecz?  
 **Judy:** Ja... Nigdy czegoś takiego nie widziałam. Nie wiem, co to może być.  
 **Mox:** Cokolwiek to jest, drżało i poruszało się samo.  

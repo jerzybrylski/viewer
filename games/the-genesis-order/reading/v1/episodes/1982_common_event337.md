@@ -1,23 +1,52 @@
 ## Common Event 337 — SCN - Melissa Shower
 
+> **🎬 Wstawka wideo:** `MeShr1.mp4` (zapętlone)
+
 **Mox:** O cholera! Melissa zaraz będzie brała prysznic.  
 **Mox:** Cholera, ma naprawdę świetne ciało.  
 **Mox:** Nie powinienem jej podglądać… Muszę zgłosić to przełożonym.  
+
+> **🎬 Wstawka wideo:** `MeShr2.mp4` (zapętlone)
+
 **Mox:** Cholera!  
 **Mox:** Cholera! Nie mogę podglądać swojej szefowej…  
 **Mox:** Chociaż technicznie rzecz biorąc, to ona pierwsza podglądała mnie.  
 **Mox:** Czy jesteśmy teraz kwita?  
+
+> **🎬 Wstawka wideo:** `MeShr3.mp4` (zapętlone)
+
 **Mox:** O rany!  
 **Mox:** Szkoda, że potrafi być taką suką w pracy. Zarywałbym ją, gdybym nie znał jej apodyktycznej strony.  
+
+> **🎬 Wstawka wideo:** `MeShr4.mp4` (zapętlone)
+
 **Mox:** Ma niesamowite cycki. Nic dziwnego, że wszyscy funkcjonariusze docinają mi, że dla niej pracuję.  
 **Mox:** Tak naprawdę jest niezłą laską.  
+
+> **🎬 Wstawka wideo:** `MeShr5.mp4` (zapętlone)
+
 **Mox:** Ile jeszcze zobaczę?  
+
+> **🎬 Wstawka wideo:** `MeShr6.mp4` (zapętlone)
+
 **Mox:** Czy się odwróci?  
+
+> **🎬 Wstawka wideo:** `MeShr7.mp4` (zapętlone)
+
 **Mox:** O rany! Jaki tyłek!  
 **Mox:** Chciałbym zanurzyć twarz w tym biuście.  
+
+> **🎬 Wstawka wideo:** `MeShr8.mp4` (zapętlone)
+
 **Mox:** Cholera! Widzę za dużo.  
 **Mox:** Tego widoku nie zapomnę do końca życia.  
+
+> **🎬 Wstawka wideo:** `MeShr9.mp4` (zapętlone)
+
 **Mox:** Muszę przestać. Jak spojrzę jej w oczy po czymś takim?  
+
+> **🎬 Wstawka wideo:** `MeShr10.mp4` (zapętlone)
+
 **Mox:** Cholera… Za dużo zobaczyłem. Jeśli to zgłoszę, będę wyglądał na winnego.  
 
 > **Ścieżka warunkowa:** SCENE START - MapID = 37.

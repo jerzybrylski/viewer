@@ -1,5 +1,9 @@
 ## Common Event 317 — SCN - Henry Diana Fight
 
+> **🎬 Wstawka wideo:** `DiHrFight1.mp4`
+
+> **🎬 Wstawka wideo:** `DiHrFight2.mp4` (zapętlone)
+
 **Diana:** Czemu za nami idziesz?  
 **Mox:** Właśnie wybierałem się na spacer.  
 **Henry:** Bzdura! Kto cię przysłał?  

@@ -1,5 +1,7 @@
 ## Common Event 369 — SCN - Zeph Writing
 
+> **🎬 Wstawka wideo:** `ZephWrite.mp4` (zapętlone)
+
 **Postać niezależna:** W wizjach ujrzałem swoje przeznaczenie. Modlitwy do Boga objawiły mi mój los.  
 **Postać niezależna:** Anioł Pański przyszedł do mnie nocą.  
 **Postać niezależna:** Biskupi nie widzą tych wizji. Być może zepsucie dotarło na najwyższe szczeble Kościoła.  

@@ -1,38 +1,82 @@
 ## Common Event 464 — SCN - Andrea Toma
 
+> **🎬 Wstawka wideo:** `AdTmaBgDk1.mp4` (zapętlone)
+
 **Mox:** To ta z kutasem!  
 **Andrea:** Wszystko w porządku?  
 **Mox:** Daj mi chwilę… Już sobie przypominam.  
 **Andrea:** Twój kutas! Ale wielki!  
 **Mox:** Tak… Tak… Już prawie.  
 **Andrea:** O cholera! Ale kutas!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk2.mp4`
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk3.mp4` (zapętlone)
+
 **Andrea:** Wygląda na to, że mam właściwy fragment tej statuy.  
 **Mox:** Boże, ale jesteś seksowna! Chcę zerżnąć to apetyczne ciało mamuśki!  
 **Andrea:** Chodź po swoje, kochasiu.  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk4.mp4` (zapętlone)
+
 **Mox:** Kurwa!  
 **Andrea:** Cholera, ale jest wielki!  
 **Mox:** Muszę zerżnąć tę cipkę!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk5.mp4`
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk6.mp4` (zapętlone)
+
 **Andrea:** Och, Mox! Kurwa!  
 **Mox:** Tak! Tak! Bierz mojego kutasa, kobieto!  
 **Andrea:** Jest cholernie wielki!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk7.mp4` (zapętlone)
+
 **Mox:** Twoja cipka jest taka głęboka, a mój kutas taki wielki!  
 **Andrea:** Daj mi wszystko! Rżnij mnie, aż moje łono ulegnie!  
 **Mox:** Tak!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk8.mp4` (zapętlone)
+
 **Andrea:** Zerżnij mnie! Zerżnij mnie!  
 **Mox:** Twoje ciało jest takie seksowne! Twoja cipka taka ciasna!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk9.mp4` (zapętlone)
+
 **Andrea:** Jak ty się w ogóle we mnie mieścisz? Rozciągasz mnie!  
 **Mox:** Ściśnij mojego kutasa tą mokrą, ciepłą cipką!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk10.mp4` (zapętlone)
+
 **Andrea:** Bierz mnie, Mox!  
 **Mox:** Jesteś moja, kochanie!  
 **Andrea:** Tak!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk11.mp4` (zapętlone)
+
 **Andrea:** Zasłużyłeś, kochanie. Zasłużyłeś na moją cipkę!  
 **Mox:** Czuję każdy twój centymetr! Wypełniam cię całą!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk12.mp4` (zapętlone)
+
 **Andrea:** O Boże! O Boże, tak!  
 **Mox:** Bierz! Mojego! Kutasa!  
 **Andrea:** Ugh! Kurwa!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk13.mp4` (zapętlone)
+
 **Mox:** Cholera! Długo już nie wytrzymam.  
 **Andrea:** Daj mi swoją spermę, kochanie!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk14.mp4`
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk15.mp4`
+
 **Andrea:** Pyszne!  
+
+> **🎬 Wstawka wideo:** `AdTmaBgDk16.mp4` (zapętlone)
+
 **Mox:** Ile kosztował cię ten kamień?  
 **Andrea:** Nie martw się tym, Mox… Morgan potrzebowała pieniędzy.  
 **Mox:** Wygląda na to, że tworzyliście zgrany duet… Ale to już koniec, prawda, Andreo?  

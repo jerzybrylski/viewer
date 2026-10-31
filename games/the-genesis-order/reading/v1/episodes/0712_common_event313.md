@@ -1,5 +1,7 @@
 ## Common Event 313 — SCN - Erica Diner
 
+> **🎬 Wstawka wideo:** `ErMcDiner.mp4` (zapętlone)
+
 **Erica:** To jak często kupujesz porno?  
 **Mox:** Co!? Nie… Rozmawiałem z właścicielką sklepu…  
 **Mox:** Zna Madalyn.  

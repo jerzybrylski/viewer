@@ -1,5 +1,7 @@
 ## Common Event 335 — SCN - Nellie Interrogation
 
+> **🎬 Wstawka wideo:** `NoMcInt.mp4` (zapętlone)
+
 **Mox:** Skąd masz ten artefakt?  
 **Nellie:** Nie powiem ci.  
 **Mox:** Został skradziony. To nie stawia cię w dobrym świetle…  

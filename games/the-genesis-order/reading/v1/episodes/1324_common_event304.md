@@ -1,5 +1,7 @@
 ## Common Event 304 — SCN - Hannah Meet
 
+> **🎬 Wstawka wideo:** `HaIntro1.mp4`
+
 **Narrator / mówca nieustalony:** Hej! Może najpierw zapukasz?  
 **Narrator / mówca nieustalony:** Dlaczego tak głośno oglądasz telewizję?  
 **Narrator / mówca nieustalony:** A gdzie twoje ubrania?  
@@ -12,6 +14,9 @@
 **Narrator / mówca nieustalony:** A teraz inne wieści: eksperci ds. zdrowia ujawniają kolejne szokujące skutki uboczne  
 **Narrator / mówca nieustalony:** tego, co określa się mianem „wirusa seksu”.  
 **Narrator / mówca nieustalony:** Omówimy siedem oznak, że możesz już być zarażony.  
+
+> **🎬 Wstawka wideo:** `HaIntro2.mp4` (zapętlone)
+
 **Hannah:** Zaprosiłeś już Chloe na randkę, Mox?  
 **Mox:** Mówiłem ci, Hannah. Byłem zajęty.  
 **Hannah:** Czego się boisz?  
@@ -32,11 +37,19 @@
 **Mox:** Nie wierz we wszystko, co pokazują w wiadomościach.  
 **Hannah:** Wiesz, Mox… Ostatnio mam większą ochotę na igraszki.  
 **Mox:** Hannah!  
+
+> **🎬 Wstawka wideo:** `HaIntro3.mp4` (zapętlone)
+
 **Hannah:** No chodź, Mox. Zaspokójmy cię i skończmy z tą twoją posuchą.  
 **Mox:** Naprawdę mówisz poważnie?  
 **Hannah:** No jasne! Zasmakuj w soczystej cipce Hannah Ray!  
 **Mox:** Ja… nie wiem, co powiedzieć.  
 **Hannah:** Nie proszę, żebyś cokolwiek mówił.  
+
+> **🎬 Wstawka wideo:** `HaIntro4.mp4` (zapętlone)
+
+> **🎬 Wstawka wideo:** `HaIntro5.mp4` (zapętlone)
+
 **Hannah:** Ale z ciebie naiwniak!  
 **Mox:** Hej! To boli!  
 **Hannah:** Stracisz szansę u Chloe, jeśli będziesz się zabawiał z jej najlepszą przyjaciółką.  

@@ -1,0 +1,1764 @@
+{
+  "master": "games/the-genesis-order/reading/v1/chronological_script_PL.md",
+  "fragments": "games/the-genesis-order/reading/fragments/source",
+  "files": 12,
+  "markers_total": 72,
+  "unmatched_total": 64,
+  "reports": [
+    {
+      "file": "TGO1.txt",
+      "bytes_in": 4390,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": null,
+          "matched_by": "brak kwestii",
+          "dialogs": 0,
+          "matched": 0,
+          "markers": 0,
+          "error": "nie dopasowano epizodu"
+        },
+        {
+          "header": "Common Event 300 — SCN - Opening",
+          "episode": "Common Event 300 — SCN - Opening",
+          "matched_by": "nagłówek",
+          "dialogs": 17,
+          "matched": 17,
+          "markers": 1
+        },
+        {
+          "header": "Mapa 033 — Wschodnie skrzydło / event 18 / strona 1",
+          "episode": "Mapa 033 — Wschodnie skrzydło / event 18 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 8,
+          "matched": 8,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 034 — Biuro Melissy / event 4 / strona 1",
+          "episode": "Mapa 034 — Biuro Melissy / event 4 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 34,
+          "matched": 34,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 033 — Wschodnie skrzydło / event 20 / strona 1",
+          "episode": "Mapa 033 — Wschodnie skrzydło / event 20 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 7,
+          "matched": 7,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 003 — Mapa świata / event 22 / strona 1",
+          "episode": "Mapa 003 — Mapa świata / event 22 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 1,
+          "matched": 1,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 003 — Mapa świata / event 1 / strona 1",
+          "episode": "Mapa 003 — Mapa świata / event 1 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 1,
+          "matched": 1,
+          "markers": 0
+        }
+      ],
+      "markers": [
+        {
+          "line": 5,
+          "marker": "> **🎬 Wstawka wideo:** `Opening.mp4`",
+          "master_line": 21,
+          "episode": "Common Event 300 — SCN - Opening"
+        }
+      ],
+      "unmatched_dialogs": [],
+      "markers_inserted": 1,
+      "bytes_out": 4335
+    },
+    {
+      "file": "TGO2.txt",
+      "bytes_in": 11999,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": null,
+          "matched_by": "brak kwestii",
+          "dialogs": 0,
+          "matched": 0,
+          "markers": 0,
+          "error": "nie dopasowano epizodu"
+        },
+        {
+          "header": "Mapa 006 — Kościół / event 5 / strona 1",
+          "episode": "Mapa 006 — Kościół / event 5 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 17,
+          "matched": 17,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 020 — Hol wejściowy / event 8 / strona 1",
+          "episode": "Mapa 020 — Hol wejściowy / event 8 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 45,
+          "matched": 45,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 021 — Kaplica / event 13 / strona 1",
+          "episode": "Mapa 021 — Kaplica / event 13 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 16,
+          "matched": 16,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 022 — Magazyn / event 5 / strona 1",
+          "episode": "Mapa 022 — Magazyn / event 5 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 7,
+          "matched": 7,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 301 — SCN - Judy",
+          "episode": "Common Event 301 — SCN - Judy",
+          "matched_by": "nagłówek",
+          "dialogs": 9,
+          "matched": 9,
+          "markers": 2
+        },
+        {
+          "header": "Mapa 022 — Magazyn / event 7 / strona 1",
+          "episode": "Mapa 022 — Magazyn / event 7 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 2,
+          "matched": 2,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 021 — Kaplica / event 14 / strona 1",
+          "episode": "Mapa 021 — Kaplica / event 14 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 2,
+          "matched": 2,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 302 — SCN - Oracle",
+          "episode": "Common Event 302 — SCN - Oracle",
+          "matched_by": "nagłówek",
+          "dialogs": 24,
+          "matched": 9,
+          "markers": 1
+        },
+        {
+          "header": "Mapa 020 — Hol wejściowy / event 10 / strona 1",
+          "episode": "Mapa 020 — Hol wejściowy / event 10 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 90,
+          "matched": 89,
+          "markers": 0
+        }
+      ],
+      "markers": [
+        {
+          "line": 108,
+          "marker": "> **🎬 Wstawka wideo:** `JuSearch1.mp4`",
+          "master_line": 68180,
+          "episode": "Common Event 301 — SCN - Judy"
+        },
+        {
+          "line": 112,
+          "marker": "> **🎬 Wstawka wideo:** `JuSearch2.mp4` (zapętlone)",
+          "master_line": 68187,
+          "episode": "Common Event 301 — SCN - Judy"
+        },
+        {
+          "line": 136,
+          "marker": "> **🎬 Wstawka wideo:** `Oracle.mp4` (zapętlone)",
+          "master_line": 52603,
+          "episode": "Common Event 302 — SCN - Oracle"
+        }
+      ],
+      "unmatched_dialogs": [
+        {
+          "line": 148,
+          "speaker": "Judy",
+          "text": "Mox. Nadal uważam, że grozi nam niebezpieczeństwo."
+        },
+        {
+          "line": 149,
+          "speaker": "Mox",
+          "text": "Co się stało?"
+        },
+        {
+          "line": 150,
+          "speaker": "Judy",
+          "text": "To... Miewam takie sny..."
+        },
+        {
+          "line": 151,
+          "speaker": "Mox",
+          "text": "Chyba czujesz się tu samotna... sama."
+        },
+        {
+          "line": 152,
+          "speaker": "Judy",
+          "text": "Może masz rację. Ale ostatnio coś się wydarzyło..."
+        },
+        {
+          "line": 153,
+          "speaker": "Judy",
+          "text": "Nie potrafię tego dokładnie określić..."
+        },
+        {
+          "line": 154,
+          "speaker": "Judy",
+          "text": "Ale nad tym miastem zapadł mrok. Czuję to."
+        },
+        {
+          "line": 155,
+          "speaker": "Mox",
+          "text": "Jeśli coś się wydarzy, zadzwoń do nas, a przyjdziemy z pomocą."
+        },
+        {
+          "line": 156,
+          "speaker": "Judy",
+          "text": "Jesteś bardzo miły."
+        },
+        {
+          "line": 157,
+          "speaker": "Mox",
+          "text": "Nie ma za co."
+        },
+        {
+          "line": 158,
+          "speaker": "Mox",
+          "text": "Jeśli nie masz nic przeciwko, powinienem już iść."
+        },
+        {
+          "line": 159,
+          "speaker": "Judy",
+          "text": "Och, na pewno masz napięty grafik."
+        },
+        {
+          "line": 160,
+          "speaker": "Mox",
+          "text": "Takie życie śledczego."
+        },
+        {
+          "line": 161,
+          "speaker": "Judy",
+          "text": "Do widzenia, Mox."
+        },
+        {
+          "line": 162,
+          "speaker": "Mox",
+          "text": "Do zobaczenia, siostro Judy."
+        },
+        {
+          "line": 236,
+          "speaker": "Brian",
+          "text": "Nie każ im na siebie czekać."
+        }
+      ],
+      "markers_inserted": 3,
+      "bytes_out": 11890
+    },
+    {
+      "file": "TGO3.txt",
+      "bytes_in": 4015,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": null,
+          "matched_by": "brak kwestii",
+          "dialogs": 0,
+          "matched": 0,
+          "markers": 0,
+          "error": "nie dopasowano epizodu"
+        },
+        {
+          "header": "Mapa 012 — Dom bohatera / event 21 / strona 1",
+          "episode": "Mapa 012 — Dom bohatera / event 21 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 2,
+          "matched": 2,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 303 — SCN - Heather Home",
+          "episode": "Common Event 303 — SCN - Heather Home",
+          "matched_by": "nagłówek",
+          "dialogs": 8,
+          "matched": 7,
+          "markers": 4
+        },
+        {
+          "header": "Mapa 012 — Dom bohatera / event 35 / strona 1",
+          "episode": "Mapa 012 — Dom bohatera / event 35 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 1,
+          "matched": 1,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 027 — Wewnątrz / event 65 / strona 1",
+          "episode": "Mapa 027 — Wewnątrz / event 65 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 54,
+          "matched": 54,
+          "markers": 0
+        }
+      ],
+      "markers": [
+        {
+          "line": 10,
+          "marker": "> **🎬 Wstawka wideo:** `HeHomesale1.mp4` (zapętlone)",
+          "master_line": 16331,
+          "episode": "Common Event 303 — SCN - Heather Home"
+        },
+        {
+          "line": 11,
+          "marker": "> **🎬 Wstawka wideo:** `HeHomesale2.mp4` (zapętlone)",
+          "master_line": 16335,
+          "episode": "Common Event 303 — SCN - Heather Home"
+        },
+        {
+          "line": 13,
+          "marker": "> **🎬 Wstawka wideo:** `HeHomesale3.mp4` (zapętlone)",
+          "master_line": 16340,
+          "episode": "Common Event 303 — SCN - Heather Home"
+        },
+        {
+          "line": 15,
+          "marker": "> **🎬 Wstawka wideo:** `HeHomesale4.mp4` (zapętlone)",
+          "master_line": 16345,
+          "episode": "Common Event 303 — SCN - Heather Home"
+        }
+      ],
+      "unmatched_dialogs": [
+        {
+          "line": 16,
+          "speaker": "Mox",
+          "text": "Jak zawsze piękny."
+        }
+      ],
+      "markers_inserted": 4,
+      "bytes_out": 4162
+    },
+    {
+      "file": "TGO4.txt",
+      "bytes_in": 4858,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": null,
+          "matched_by": "brak kwestii",
+          "dialogs": 0,
+          "matched": 0,
+          "markers": 0,
+          "error": "nie dopasowano epizodu"
+        },
+        {
+          "header": "Mapa 012 — Dom bohatera / event 51 / strona 1",
+          "episode": "Mapa 012 — Dom bohatera / event 51 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 2,
+          "matched": 1,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 009 — Farma / event 7 / strona 1",
+          "episode": "Mapa 009 — Farma / event 7 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 4,
+          "matched": 4,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 304 — SCN - Hannah Meet",
+          "episode": "Common Event 304 — SCN - Hannah Meet",
+          "matched_by": "nagłówek",
+          "dialogs": 42,
+          "matched": 42,
+          "markers": 5
+        },
+        {
+          "header": "Mapa 023 — Dom na farmie / event 6 / strona 1",
+          "episode": "Mapa 023 — Dom na farmie / event 6 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 17,
+          "matched": 16,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 009 — Farma / event 8 / strona 1",
+          "episode": "Mapa 009 — Farma / event 8 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 13,
+          "matched": 13,
+          "markers": 0
+        }
+      ],
+      "markers": [
+        {
+          "line": 21,
+          "marker": "> **🎬 Wstawka wideo:** `HaIntro1.mp4`",
+          "master_line": 31113,
+          "episode": "Common Event 304 — SCN - Hannah Meet"
+        },
+        {
+          "line": 33,
+          "marker": "> **🎬 Wstawka wideo:** `HaIntro2.mp4` (zapętlone)",
+          "master_line": 31128,
+          "episode": "Common Event 304 — SCN - Hannah Meet"
+        },
+        {
+          "line": 53,
+          "marker": "> **🎬 Wstawka wideo:** `HaIntro3.mp4` (zapętlone)",
+          "master_line": 31151,
+          "episode": "Common Event 304 — SCN - Hannah Meet"
+        },
+        {
+          "line": 58,
+          "marker": "> **🎬 Wstawka wideo:** `HaIntro4.mp4` (zapętlone)",
+          "master_line": 31159,
+          "episode": "Common Event 304 — SCN - Hannah Meet"
+        },
+        {
+          "line": 58,
+          "marker": "> **🎬 Wstawka wideo:** `HaIntro5.mp4` (zapętlone)",
+          "master_line": 31161,
+          "episode": "Common Event 304 — SCN - Hannah Meet"
+        }
+      ],
+      "unmatched_dialogs": [
+        {
+          "line": 8,
+          "speaker": "Mox",
+          "text": "Nie mogę tego otworzyć."
+        },
+        {
+          "line": 84,
+          "speaker": "Hannah",
+          "text": "Wiem, że ci się podobam."
+        }
+      ],
+      "markers_inserted": 5,
+      "bytes_out": 5017
+    },
+    {
+      "file": "TGO5.txt",
+      "bytes_in": 5485,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": null,
+          "matched_by": "brak kwestii",
+          "dialogs": 0,
+          "matched": 0,
+          "markers": 0,
+          "error": "nie dopasowano epizodu"
+        },
+        {
+          "header": "Mapa 019 — Rezydencja / event 18 / strona 1",
+          "episode": "Mapa 019 — Rezydencja / event 18 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 9,
+          "matched": 9,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 305 — SCN - Lillian",
+          "episode": "Common Event 305 — SCN - Lillian",
+          "matched_by": "nagłówek",
+          "dialogs": 49,
+          "matched": 49,
+          "markers": 3
+        },
+        {
+          "header": "Mapa 026 — Wejście / event 4 / strona 1",
+          "episode": "Mapa 026 — Wejście / event 4 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 4,
+          "matched": 4,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 019 — Rezydencja / event 19 / strona 1",
+          "episode": "Mapa 019 — Rezydencja / event 19 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 21,
+          "matched": 21,
+          "markers": 0
+        }
+      ],
+      "markers": [
+        {
+          "line": 16,
+          "marker": "> **🎬 Wstawka wideo:** `Li-Meet1.mp4`",
+          "master_line": 25784,
+          "episode": "Common Event 305 — SCN - Lillian"
+        },
+        {
+          "line": 19,
+          "marker": "> **🎬 Wstawka wideo:** `Li-Meet2.mp4` (zapętlone)",
+          "master_line": 25790,
+          "episode": "Common Event 305 — SCN - Lillian"
+        },
+        {
+          "line": 63,
+          "marker": "> **🎬 Wstawka wideo:** `Li-Meet3.mp4`",
+          "master_line": 25837,
+          "episode": "Common Event 305 — SCN - Lillian"
+        }
+      ],
+      "unmatched_dialogs": [],
+      "markers_inserted": 3,
+      "bytes_out": 5527
+    },
+    {
+      "file": "TGO6.txt",
+      "bytes_in": 6245,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": null,
+          "matched_by": "brak kwestii",
+          "dialogs": 0,
+          "matched": 0,
+          "markers": 0,
+          "error": "nie dopasowano epizodu"
+        },
+        {
+          "header": "Mapa 004 — Apartamenty / event 29 / strona 1",
+          "episode": "Mapa 004 — Apartamenty / event 29 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 8,
+          "matched": 8,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 306 — SCN - Erica Jon Meet",
+          "episode": "Common Event 306 — SCN - Erica Jon Meet",
+          "matched_by": "nagłówek",
+          "dialogs": 9,
+          "matched": 9,
+          "markers": 1
+        },
+        {
+          "header": "Mapa 004 — Apartamenty / event 29 / strona 2",
+          "episode": "Mapa 004 — Apartamenty / event 29 / strona 2",
+          "matched_by": "nagłówek",
+          "dialogs": 28,
+          "matched": 24,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 032 — Recepcja / event 15 / strona 1",
+          "episode": "Mapa 032 — Recepcja / event 15 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 7,
+          "matched": 7,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 035 — Pokój przesłuchań / event 4 / strona 1",
+          "episode": "Mapa 035 — Pokój przesłuchań / event 4 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 5,
+          "matched": 5,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 307 — SCN - Interragation",
+          "episode": "Common Event 307 — SCN - Interragation",
+          "matched_by": "nagłówek",
+          "dialogs": 41,
+          "matched": 41,
+          "markers": 3
+        },
+        {
+          "header": "Mapa 035 — Pokój przesłuchań / event 5 / strona 1",
+          "episode": "Mapa 035 — Pokój przesłuchań / event 5 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 9,
+          "matched": 8,
+          "markers": 0
+        }
+      ],
+      "markers": [
+        {
+          "line": 17,
+          "marker": "> **🎬 Wstawka wideo:** `JoChMc.mp4` (zapętlone)",
+          "master_line": 11973,
+          "episode": "Common Event 306 — SCN - Erica Jon Meet"
+        },
+        {
+          "line": 86,
+          "marker": "> **🎬 Wstawka wideo:** `ErInt1.mp4` (zapętlone)",
+          "master_line": 23383,
+          "episode": "Common Event 307 — SCN - Interragation"
+        },
+        {
+          "line": 95,
+          "marker": "> **🎬 Wstawka wideo:** `ErInt2.mp4`",
+          "master_line": 23395,
+          "episode": "Common Event 307 — SCN - Interragation"
+        },
+        {
+          "line": 100,
+          "marker": "> **🎬 Wstawka wideo:** `ErInt3.mp4` (zapętlone)",
+          "master_line": 23403,
+          "episode": "Common Event 307 — SCN - Interragation"
+        }
+      ],
+      "unmatched_dialogs": [
+        {
+          "line": 47,
+          "speaker": "Mox",
+          "text": "Nie! Muszę cię przesłuchać."
+        },
+        {
+          "line": 48,
+          "speaker": "Erica",
+          "text": "To zadawaj pytania."
+        },
+        {
+          "line": 49,
+          "speaker": "Mox",
+          "text": "Na komisariacie. To dobrowolne... Ale naprawdę byłbym wdzięczny za rozmowę."
+        },
+        {
+          "line": 56,
+          "speaker": "Erica",
+          "text": "Dobrze. Pójdę z tobą."
+        },
+        {
+          "line": 141,
+          "speaker": "Mox",
+          "text": "Lepiej żebym dotarł do domu Heather. Nie chcę spóźnić się na kolację."
+        }
+      ],
+      "markers_inserted": 4,
+      "bytes_out": 6303
+    },
+    {
+      "file": "TG7.txt",
+      "bytes_in": 18217,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": null,
+          "matched_by": "brak kwestii",
+          "dialogs": 0,
+          "matched": 0,
+          "markers": 0,
+          "error": "nie dopasowano epizodu"
+        },
+        {
+          "header": "Mapa 024 — Przedsionek / event 5 / strona 1",
+          "episode": "Mapa 024 — Przedsionek / event 5 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 29,
+          "matched": 28,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 308 — SCN - Dinner",
+          "episode": "Common Event 308 — SCN - Dinner",
+          "matched_by": "nagłówek",
+          "dialogs": 76,
+          "matched": 74,
+          "markers": 1
+        },
+        {
+          "header": "Mapa 025 — Kuchnia / event 4 / strona 1",
+          "episode": "Mapa 025 — Kuchnia / event 4 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 23,
+          "matched": 23,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 016 — Dom Heather / event 32 / strona 1",
+          "episode": "Mapa 016 — Dom Heather / event 32 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 5,
+          "matched": 5,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 013 — Centrum handlowe / event 37 / strona 1",
+          "episode": "Mapa 013 — Centrum handlowe / event 37 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 20,
+          "matched": 20,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 031 — Sklep XXX / event 5 / strona 1",
+          "episode": "Mapa 031 — Sklep XXX / event 5 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 43,
+          "matched": 43,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 309 — SCN - Hannah Magazine",
+          "episode": "Common Event 309 — SCN - Hannah Magazine",
+          "matched_by": "nagłówek",
+          "dialogs": 10,
+          "matched": 10,
+          "markers": 1
+        },
+        {
+          "header": "Mapa 031 — Sklep XXX / event 10 / strona 1",
+          "episode": "Mapa 031 — Sklep XXX / event 10 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 14,
+          "matched": 14,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 310 — SCN - Chloe Flashback",
+          "episode": "Common Event 310 — SCN - Chloe Flashback",
+          "matched_by": "nagłówek",
+          "dialogs": 10,
+          "matched": 10,
+          "markers": 1
+        },
+        {
+          "header": "Mapa 031 — Sklep XXX / event 10 / strona 2",
+          "episode": "Mapa 031 — Sklep XXX / event 10 / strona 2",
+          "matched_by": "nagłówek",
+          "dialogs": 23,
+          "matched": 22,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 013 — Centrum handlowe / event 44 / strona 1",
+          "episode": "Mapa 013 — Centrum handlowe / event 44 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 40,
+          "matched": 40,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 028 — Sypialnia / event 6 / strona 2",
+          "episode": "Mapa 028 — Sypialnia / event 6 / strona 2",
+          "matched_by": "nagłówek",
+          "dialogs": 27,
+          "matched": 27,
+          "markers": 0
+        }
+      ],
+      "markers": [
+        {
+          "line": 40,
+          "marker": "> **🎬 Wstawka wideo:** `Dinner.mp4` (zapętlone)",
+          "master_line": 42187,
+          "episode": "Common Event 308 — SCN - Dinner"
+        },
+        {
+          "line": 234,
+          "marker": "> **🎬 Wstawka wideo:** `HnMag.mp4` (zapętlone)",
+          "master_line": 36907,
+          "episode": "Common Event 309 — SCN - Hannah Magazine"
+        },
+        {
+          "line": 268,
+          "marker": "> **🎬 Wstawka wideo:** `ChFb.mp4`",
+          "master_line": 37537,
+          "episode": "Common Event 310 — SCN - Chloe Flashback"
+        }
+      ],
+      "unmatched_dialogs": [
+        {
+          "line": 33,
+          "speaker": "Chloe",
+          "text": "Chodź, jedzenie stygnie."
+        },
+        {
+          "line": 46,
+          "speaker": "Heather",
+          "text": "Mieliśmy szczęście. Bank musiał pozbyć się tej nieruchomości, a ja jako pierwsza zauważyłam okazję."
+        },
+        {
+          "line": 108,
+          "speaker": "Heather",
+          "text": "Ciągle próbuję namówić Moxa, żeby poszedł ze mną na siłownię. Może Hannah lepiej pójdzie z wyrobieniem mu formy."
+        },
+        {
+          "line": 283,
+          "speaker": "Tasha",
+          "text": "Spotkałaś Madalyn?"
+        }
+      ],
+      "markers_inserted": 3,
+      "bytes_out": 17977
+    },
+    {
+      "file": "TG8.txt",
+      "bytes_in": 11603,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": "Common Event 103 — VOICE MC",
+          "matched_by": "pierwsza kwestia (jednoznaczna)",
+          "dialogs": 1,
+          "matched": 1,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 013 — Centrum handlowe / event 41 / strona 1",
+          "episode": "Mapa 013 — Centrum handlowe / event 41 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 17,
+          "matched": 2,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 013 — Centrum handlowe / event 40 / strona 1",
+          "episode": "Mapa 013 — Centrum handlowe / event 40 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 4,
+          "matched": 3,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 031 — Sklep XXX / event 14 / strona 1",
+          "episode": "Mapa 031 — Sklep XXX / event 14 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 6,
+          "matched": 6,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 015 — Magazyn / event 21 / strona 1",
+          "episode": "Mapa 015 — Magazyn / event 21 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 48,
+          "matched": 48,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 031 — Sklep XXX / event 7 / strona 3",
+          "episode": "Mapa 031 — Sklep XXX / event 7 / strona 3",
+          "matched_by": "nagłówek",
+          "dialogs": 8,
+          "matched": 8,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 312 — SCN - Madalyns Past",
+          "episode": "Common Event 312 — SCN - Madalyns Past",
+          "matched_by": "nagłówek",
+          "dialogs": 14,
+          "matched": 14,
+          "markers": 1
+        },
+        {
+          "header": "Mapa 031 — Sklep XXX / event 7 / strona 4",
+          "episode": "Mapa 031 — Sklep XXX / event 7 / strona 4",
+          "matched_by": "nagłówek",
+          "dialogs": 12,
+          "matched": 11,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 013 — Centrum handlowe / event 47 / strona 1",
+          "episode": "Mapa 013 — Centrum handlowe / event 47 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 15,
+          "matched": 14,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 313 — SCN - Erica Diner",
+          "episode": "Common Event 313 — SCN - Erica Diner",
+          "matched_by": "nagłówek",
+          "dialogs": 52,
+          "matched": 50,
+          "markers": 1
+        }
+      ],
+      "markers": [
+        {
+          "line": 118,
+          "marker": "> **🎬 Wstawka wideo:** `MadalynPast.mp4`",
+          "master_line": 37134,
+          "episode": "Common Event 312 — SCN - Madalyns Past"
+        },
+        {
+          "line": 174,
+          "marker": "> **🎬 Wstawka wideo:** `ErMcDiner.mp4` (zapętlone)",
+          "master_line": 21113,
+          "episode": "Common Event 313 — SCN - Erica Diner"
+        }
+      ],
+      "unmatched_dialogs": [
+        {
+          "line": 9,
+          "speaker": "Postać niezależna",
+          "text": "Czasem znajduję rzeczy na ziemi. Mam kiepski wzrok, więc muszę podejść naprawdę blisko, żeby je zobaczyć."
+        },
+        {
+          "line": 10,
+          "speaker": "Postać niezależna",
+          "text": "Moi znajomi wpadli do mnie, ale dom był tak brzydki, że nie chcieli zostać."
+        },
+        {
+          "line": 11,
+          "speaker": "Postać niezależna",
+          "text": "O tej porze roku ziemia bywa twarda."
+        },
+        {
+          "line": 12,
+          "speaker": "Postać niezależna",
+          "text": "Przy Dick's kręcił się jakiś wściekły facet."
+        },
+        {
+          "line": 13,
+          "speaker": "Postać niezależna",
+          "text": "Wyglądasz, jakbyś miał wirusa seksu. Trzymaj się z daleka."
+        },
+        {
+          "line": 14,
+          "speaker": "Postać niezależna",
+          "text": "Trafiła mi się zardzewiała zabawka na ziemi, w cieniu drzewa. Zardzewiałe przedmioty czasem trudno zauważyć."
+        },
+        {
+          "line": 15,
+          "speaker": "Postać niezależna",
+          "text": "Mówią, że w lesie można znaleźć fajne artefakty."
+        },
+        {
+          "line": 16,
+          "speaker": "Postać niezależna",
+          "text": "Widziałem kogoś wynoszącego śmieci przy apartamentowcu. Co on, do cholery, wyprawiał?"
+        },
+        {
+          "line": 17,
+          "speaker": "Postać niezależna",
+          "text": "W wiadomościach mówili o wirusie seksu. Brzmi przerażająco."
+        },
+        {
+          "line": 18,
+          "speaker": "Postać niezależna",
+          "text": "Gdybym się tak nie wstydził, poszedłbym do sklepu porno. Słyszałem, że Lisa Stonewell ma coś nowego."
+        },
+        {
+          "line": 19,
+          "speaker": "Postać niezależna",
+          "text": "Lubię dzwonić do ludzi z komórki. Też tak robisz?"
+        },
+        {
+          "line": 21,
+          "speaker": "Postać niezależna",
+          "text": "Zgubiłem figurkę w lesie. Miała być prezentem dla mojej córki!"
+        },
+        {
+          "line": 22,
+          "speaker": "Mox",
+          "text": "Może uda mi się ją dla ciebie znaleźć."
+        },
+        {
+          "line": 23,
+          "speaker": "Postać niezależna",
+          "text": "Jeśli ją znajdziesz, hojnie cię wynagrodzę."
+        },
+        {
+          "line": 24,
+          "speaker": "Mox",
+          "text": "/solve"
+        },
+        {
+          "line": 32,
+          "speaker": "Wybór gracza",
+          "text": "Tak"
+        },
+        {
+          "line": 145,
+          "speaker": "Tasha",
+          "text": "Chciałabym powiedzieć ci więcej, panie detektywie."
+        },
+        {
+          "line": 162,
+          "speaker": "Mox",
+          "text": "Masz dziś pracować?"
+        },
+        {
+          "line": 200,
+          "speaker": "Erica",
+          "text": "Ale z ciebie pracoholik."
+        },
+        {
+          "line": 225,
+          "speaker": "Mox",
+          "text": "No i ładnie się ośmieszyłeś, Mox."
+        }
+      ],
+      "markers_inserted": 2,
+      "bytes_out": 11478
+    },
+    {
+      "file": "TG9.txt",
+      "bytes_in": 11125,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": null,
+          "matched_by": "brak kwestii",
+          "dialogs": 0,
+          "matched": 0,
+          "markers": 0,
+          "error": "nie dopasowano epizodu"
+        },
+        {
+          "header": "Mapa 030 — Restauracja / event 11 / strona 1",
+          "episode": "Mapa 030 — Restauracja / event 11 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 2,
+          "matched": 1,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 009 — Farma / event 30 / strona 1",
+          "episode": "Mapa 009 — Farma / event 30 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 8,
+          "matched": 8,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 041 — Stodoła / event 11 / strona 1",
+          "episode": "Mapa 041 — Stodoła / event 11 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 22,
+          "matched": 22,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 041 — Stodoła / event 14 / strona 1",
+          "episode": "Mapa 041 — Stodoła / event 14 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 4,
+          "matched": 4,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 041 — Stodoła / event 15 / strona 1",
+          "episode": "Mapa 041 — Stodoła / event 15 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 4,
+          "matched": 4,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 041 — Stodoła / event 49 / strona 1",
+          "episode": "Mapa 041 — Stodoła / event 49 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 1,
+          "matched": 1,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 011 — Siłownia / event 9 / strona 2",
+          "episode": "Mapa 011 — Siłownia / event 9 / strona 2",
+          "matched_by": "nagłówek",
+          "dialogs": 37,
+          "matched": 37,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 314 — SCN - Heather Workout",
+          "episode": "Common Event 314 — SCN - Heather Workout",
+          "matched_by": "nagłówek",
+          "dialogs": 71,
+          "matched": 70,
+          "markers": 16
+        },
+        {
+          "header": "Mapa 011 — Siłownia / event 16 / strona 1",
+          "episode": "Mapa 011 — Siłownia / event 16 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 41,
+          "matched": 41,
+          "markers": 0
+        }
+      ],
+      "markers": [
+        {
+          "line": 119,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout1.mp4` (zapętlone)",
+          "master_line": 15677,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 125,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout2.mp4` (zapętlone)",
+          "master_line": 15686,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 130,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout3.mp4` (zapętlone)",
+          "master_line": 15694,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 134,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout4.mp4` (zapętlone)",
+          "master_line": 15701,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 139,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout5.mp4` (zapętlone)",
+          "master_line": 15709,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 145,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout6.mp4` (zapętlone)",
+          "master_line": 15718,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 149,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout7.mp4` (zapętlone)",
+          "master_line": 15725,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 153,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout8.mp4` (zapętlone)",
+          "master_line": 15732,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 156,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout9.mp4` (zapętlone)",
+          "master_line": 15738,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 162,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout10.mp4` (zapętlone)",
+          "master_line": 15747,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 166,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout11.mp4` (zapętlone)",
+          "master_line": 15754,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 171,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout12.mp4` (zapętlone)",
+          "master_line": 15762,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 174,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout13.mp4` (zapętlone)",
+          "master_line": 15768,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 177,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout14.mp4` (zapętlone)",
+          "master_line": 15774,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 182,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout15.mp4` (zapętlone)",
+          "master_line": 15782,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        },
+        {
+          "line": 185,
+          "marker": "> **🎬 Wstawka wideo:** `HeWorkout16.mp4` (zapętlone)",
+          "master_line": 15788,
+          "episode": "Common Event 314 — SCN - Heather Workout"
+        }
+      ],
+      "unmatched_dialogs": [
+        {
+          "line": 4,
+          "speaker": "Wybór gracza",
+          "text": "Nie wiem. Ale się dowiem."
+        },
+        {
+          "line": 186,
+          "speaker": "Mox",
+          "text": "Gdybym cię nie znała, pomyślałbym, że próbujesz mi zaimponować."
+        }
+      ],
+      "markers_inserted": 16,
+      "bytes_out": 11823
+    },
+    {
+      "file": "TGO10.txt",
+      "bytes_in": 9384,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": "Common Event 025 — NPC system",
+          "matched_by": "pierwsza kwestia (jednoznaczna)",
+          "dialogs": 2,
+          "matched": 2,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 041 — Stodoła / event 22 / strona 1",
+          "episode": "Mapa 041 — Stodoła / event 22 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 24,
+          "matched": 23,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 009 — Farma / event 43 / strona 1",
+          "episode": "Mapa 009 — Farma / event 43 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 15,
+          "matched": 15,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 041 — Stodoła / event 31 / strona 1",
+          "episode": "Mapa 041 — Stodoła / event 31 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 24,
+          "matched": 24,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 315 — SCN - Hannah Legjob",
+          "episode": "Common Event 315 — SCN - Hannah Legjob",
+          "matched_by": "nagłówek",
+          "dialogs": 55,
+          "matched": 54,
+          "markers": 15
+        },
+        {
+          "header": "Mapa 041 — Stodoła / event 32 / strona 1",
+          "episode": "Mapa 041 — Stodoła / event 32 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 50,
+          "matched": 49,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 143 — CALL Hannah",
+          "episode": "Common Event 143 — CALL Hannah",
+          "matched_by": "nagłówek",
+          "dialogs": 6,
+          "matched": 6,
+          "markers": 0
+        }
+      ],
+      "markers": [
+        {
+          "line": 89,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn1.mp4` (zapętlone)",
+          "master_line": 33038,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 95,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn2.mp4`",
+          "master_line": 33047,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 95,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn3.mp4` (zapętlone)",
+          "master_line": 33049,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 100,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn4.mp4` (zapętlone)",
+          "master_line": 33057,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 105,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn5.mp4`",
+          "master_line": 33065,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 105,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn6.mp4` (zapętlone)",
+          "master_line": 33067,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 112,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn7.mp4` (zapętlone)",
+          "master_line": 33077,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 115,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn8.mp4` (zapętlone)",
+          "master_line": 33083,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 120,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn9.mp4` (zapętlone)",
+          "master_line": 33091,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 123,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn10.mp4` (zapętlone)",
+          "master_line": 33097,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 128,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn11.mp4` (zapętlone)",
+          "master_line": 33105,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 131,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn12.mp4` (zapętlone)",
+          "master_line": 33111,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 137,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn13.mp4`",
+          "master_line": 33120,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 140,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn14.mp4`",
+          "master_line": 33126,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        },
+        {
+          "line": 141,
+          "marker": "> **🎬 Wstawka wideo:** `HnChBarn15.mp4`",
+          "master_line": 33130,
+          "episode": "Common Event 315 — SCN - Hannah Legjob"
+        }
+      ],
+      "unmatched_dialogs": [
+        {
+          "line": 34,
+          "speaker": "Mox",
+          "text": "Gotowe! Wcale nie było tak trudno."
+        },
+        {
+          "line": 116,
+          "speaker": "Hannah",
+          "text": "Potrzebne i to jeszcze jak! Musimy sprawić, żeby ci opadł, zanim mama wróci."
+        },
+        {
+          "line": 158,
+          "speaker": "Mox",
+          "text": "Szybko wróciłaś z farmy krów."
+        }
+      ],
+      "markers_inserted": 15,
+      "bytes_out": 9962
+    },
+    {
+      "file": "TGO11.txt",
+      "bytes_in": 15235,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": null,
+          "matched_by": "brak kwestii",
+          "dialogs": 0,
+          "matched": 0,
+          "markers": 0,
+          "error": "nie dopasowano epizodu"
+        },
+        {
+          "header": "Mapa 009 — Farma / event 1 / strona 2",
+          "episode": "Mapa 009 — Farma / event 1 / strona 2",
+          "matched_by": "nagłówek",
+          "dialogs": 19,
+          "matched": 19,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 003 — Mapa świata / event 22 / strona 7",
+          "episode": "Mapa 003 — Mapa świata / event 22 / strona 7",
+          "matched_by": "nagłówek",
+          "dialogs": 21,
+          "matched": 21,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 004 — Apartamenty / event 52 / strona 1",
+          "episode": "Mapa 004 — Apartamenty / event 52 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 30,
+          "matched": 30,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 026 — Wejście / event 15 / strona 1",
+          "episode": "Mapa 026 — Wejście / event 15 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 13,
+          "matched": 13,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 043 — Na wschód od wejścia / event 18 / strona 1",
+          "episode": "Mapa 043 — Na wschód od wejścia / event 18 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 45,
+          "matched": 44,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 026 — Wejście / event 15 / strona 2",
+          "episode": "Mapa 026 — Wejście / event 15 / strona 2",
+          "matched_by": "nagłówek",
+          "dialogs": 1,
+          "matched": 1,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 042 — Na zachód od wejścia / event 19 / strona 1",
+          "episode": "Mapa 042 — Na zachód od wejścia / event 19 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 35,
+          "matched": 34,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 026 — Wejście / event 17 / strona 1",
+          "episode": "Mapa 026 — Wejście / event 17 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 6,
+          "matched": 6,
+          "markers": 0
+        },
+        {
+          "header": "Common Event 316 — SCN - Lillian Erica Mast",
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast",
+          "matched_by": "nagłówek",
+          "dialogs": 39,
+          "matched": 39,
+          "markers": 16
+        },
+        {
+          "header": "Mapa 026 — Wejście / event 19 / strona 1",
+          "episode": "Mapa 026 — Wejście / event 19 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 43,
+          "matched": 42,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 004 — Apartamenty / event 58 / strona 1",
+          "episode": "Mapa 004 — Apartamenty / event 58 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 9,
+          "matched": 8,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 005 — Channel 4 / event 37 / strona 1",
+          "episode": "Mapa 005 — Channel 4 / event 37 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 2,
+          "matched": 1,
+          "markers": 0
+        }
+      ],
+      "markers": [
+        {
+          "line": 215,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast1.mp4`",
+          "master_line": 49730,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 215,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast2.mp4` (zapętlone)",
+          "master_line": 49732,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 218,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast3.mp4`",
+          "master_line": 49738,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 220,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast4.mp4`",
+          "master_line": 49743,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 220,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast5.mp4` (zapętlone)",
+          "master_line": 49745,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 224,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast6.mp4` (zapętlone)",
+          "master_line": 49752,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 227,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast7.mp4` (zapętlone)",
+          "master_line": 49758,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 229,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast8.mp4` (zapętlone)",
+          "master_line": 49763,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 232,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast9.mp4`",
+          "master_line": 49769,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 235,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast10.mp4`",
+          "master_line": 49775,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 235,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast11.mp4` (zapętlone)",
+          "master_line": 49777,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 242,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast12.mp4` (zapętlone)",
+          "master_line": 49787,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 244,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast13.mp4` (zapętlone)",
+          "master_line": 49792,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 247,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast14.mp4` (zapętlone)",
+          "master_line": 49798,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 250,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast15.mp4` (zapętlone)",
+          "master_line": 49804,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        },
+        {
+          "line": 253,
+          "marker": "> **🎬 Wstawka wideo:** `LiErMast16.mp4`",
+          "master_line": 49810,
+          "episode": "Common Event 316 — SCN - Lillian Erica Mast"
+        }
+      ],
+      "unmatched_dialogs": [
+        {
+          "line": 127,
+          "speaker": "Mox",
+          "text": "Miałoby sens, że Madalyn używała nieoficjalnych sprzedaży, by zdobyć pieniądze nie do namierzenia."
+        },
+        {
+          "line": 172,
+          "speaker": "Zakapturzona postać",
+          "text": "Służba przynosi pokój wszystkim."
+        },
+        {
+          "line": 305,
+          "speaker": "Mox",
+          "text": "Ten głaz jest naprawdę ciężki. Nie podniosę go gołymi rękami."
+        },
+        {
+          "line": 320,
+          "speaker": "Mox",
+          "text": "Ta metalowa skrzynka jest zamknięta zardzewiałą kłódką i łańcuchem. Nawet gdybym miał klucz, pewnie by nie pasował."
+        },
+        {
+          "line": 327,
+          "speaker": "Postać niezależna",
+          "text": "Czasem widuję porzucone skrzynie ze skarbami. Jeśli znajdziesz klucz, możesz je otworzyć!"
+        }
+      ],
+      "markers_inserted": 16,
+      "bytes_out": 15740
+    },
+    {
+      "file": "TGO12.txt",
+      "bytes_in": 5434,
+      "newline": "CRLF",
+      "blocks": [
+        {
+          "header": null,
+          "episode": null,
+          "matched_by": "brak kwestii",
+          "dialogs": 0,
+          "matched": 0,
+          "markers": 0,
+          "error": "nie dopasowano epizodu"
+        },
+        {
+          "header": "Common Event 144 — CALL Erica",
+          "episode": "Common Event 144 — CALL Erica",
+          "matched_by": "nagłówek",
+          "dialogs": 6,
+          "matched": 6,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 013 — Centrum handlowe / event 49 / strona 1",
+          "episode": "Mapa 013 — Centrum handlowe / event 49 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 8,
+          "matched": 8,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 030 — Restauracja / event 11 / strona 1",
+          "episode": "Mapa 030 — Restauracja / event 11 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 3,
+          "matched": 2,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 005 — Channel 4 / event 43 / strona 1",
+          "episode": "Mapa 005 — Channel 4 / event 43 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 1,
+          "matched": 1,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 014 — Sklep / event 44 / strona 1",
+          "episode": "Mapa 014 — Sklep / event 44 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 2,
+          "matched": 2,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 042 — Na zachód od wejścia / event 28 / strona 1",
+          "episode": "Mapa 042 — Na zachód od wejścia / event 28 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 4,
+          "matched": 4,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 011 — Siłownia / event 22 / strona 1",
+          "episode": "Mapa 011 — Siłownia / event 22 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 5,
+          "matched": 4,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 045 — Strefa szafek / event 10 / strona 1",
+          "episode": "Mapa 045 — Strefa szafek / event 10 / strona 1",
+          "matched_by": "nagłówek",
+          "dialogs": 1,
+          "matched": 1,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 045 — Strefa szafek / event 10 / strona 2",
+          "episode": "Mapa 045 — Strefa szafek / event 10 / strona 2",
+          "matched_by": "nagłówek",
+          "dialogs": 11,
+          "matched": 11,
+          "markers": 0
+        },
+        {
+          "header": "Mapa 031 — Sklep XXX / event 8 / strona 3",
+          "episode": "Mapa 031 — Sklep XXX / event 8 / strona 3",
+          "matched_by": "nagłówek",
+          "dialogs": 49,
+          "matched": 45,
+          "markers": 0
+        }
+      ],
+      "markers": [],
+      "unmatched_dialogs": [
+        {
+          "line": 29,
+          "speaker": "Wybór gracza",
+          "text": "Niebieski"
+        },
+        {
+          "line": 63,
+          "speaker": "Wybór gracza",
+          "text": "Zapłać $20 za członkostwo"
+        },
+        {
+          "line": 93,
+          "speaker": "Tasha",
+          "text": "Znowu pan, detektywie?"
+        },
+        {
+          "line": 104,
+          "speaker": "Mox",
+          "text": "Ty też byłaś w Cape Vedra?"
+        },
+        {
+          "line": 118,
+          "speaker": "Henry",
+          "text": "Jestem na wakacjach."
+        },
+        {
+          "line": 125,
+          "speaker": "Tasha",
+          "text": "Coś nie tak, panie detektywie? Nie wie pan, że Gildia upada?"
+        }
+      ],
+      "markers_inserted": 0,
+      "bytes_out": 5290
+    }
+  ]
+}

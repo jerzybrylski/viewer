@@ -1,5 +1,7 @@
 ## Common Event 389 — SCN - Interview 2
 
+> **🎬 Wstawka wideo:** `KiMcInterview.mp4` (zapętlone)
+
 **Kimberly:** Do naszego studia dołącza dziś detektyw Mox Canmore, który opowie o najnowszych zatrzymaniach członków Gildii Eclipse.  
 **Mox:** Miło mi gościć u pani, panno Foxx.  
 **Kimberly:** Ostatnim razem mówił pan, że w mieście nie ma żadnej aktywności Gildii. Czy nadal tak jest? Bardzo nam zależy, by nasze spokojne miasteczko takim pozostało.  

@@ -1,5 +1,7 @@
 ## Common Event 406 — SCN - Kimberly Clip
 
+> **🎬 Wstawka wideo:** `KiScandal.mp4` (zapętlone)
+
 **Kimberly:** Zgadza się, mieszkańcy North Santiva. Nasz detektyw wplątał się w skandal seksualny.  
 **Kimberly:** Tuż przed rozbiciem Gildii detektyw Canmore spędza dni, tworząc recenzje zabawek erotycznych na Lustagramie.  
 

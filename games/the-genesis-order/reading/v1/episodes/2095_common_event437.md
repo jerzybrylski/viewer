@@ -1,5 +1,7 @@
 ## Common Event 437 — SCN - Kimberly Erica Andrea
 
+> **🎬 Wstawka wideo:** `AdErKiDrnks1.mp4` (zapętlone)
+
 **Erica:** Wow! Pyszne… Smakuje jak truskawki.  
 **Kimberly:** Och, tak. Pamiętam ten napój… To rodzinny sekret, jeśli dobrze pamiętam.  
 **Andrea:** Zgadza się, panno Foxx.  
@@ -18,59 +20,115 @@
 **Erica:** Jak myślisz, co powinnyśmy zrobić, żeby przełamać lody?  
 **Kimberly:** Mam pomysł.  
 **Andrea:** Oczywiście zabawimy się z chłopakiem.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks2.mp4` (zapętlone)
+
 **Erica:** Tak bardzo chcę tego kutasa!  
 **Kimberly:** Ja też!  
 **Andrea:** Zobaczymy, czy poradzi sobie z nami trzema.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks3.mp4` (zapętlone)
+
 **Mox:** Rodzinny sekret?  
 **Andrea:** Nie zawiedź moich gości, Mox… Nasza przyszłość od tego zależy.  
 **Mox:** Co ty, do cholery, planujesz?  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks4.mp4` (zapętlone)
+
 **Kimberly:** Pieprz mnie, Mox!  
 **Erica:** Panno Kimura… Nie spodziewałam się tego po pani.  
 **Andrea:** Podoba ci się?  
 **Erica:** Tak! Bardzo!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks5.mp4` (zapętlone)
+
 **Mox:** Jesteś bardzo niegrzeczna, Kimberly.  
 **Kimberly:** Muszę się pieprzyć!  
 **Erica:** Nie zapominaj o mnie, Mox.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks6.mp4` (zapętlone)
+
 **Mox:** Masz cudownie mokrą cipkę.  
 **Kimberly:** Komisarz, wylizuj mu jaja!  
 **Erica:** Jestem taka napalona!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks7.mp4` (zapętlone)
+
 **Kimberly:** Tak! Ale z niej zboczuszka. Taka dziwka.  
 **Erica:** Wszystkie jesteśmy dziwkami!  
 **Kimberly:** No dalej, dziewczyno. Twoja kolej.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks8.mp4` (zapętlone)
+
 **Erica:** Dawaj! Weź moje ciało!  
 **Mox:** Ale ciasno!  
 **Erica:** Uwielbiam to!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks9.mp4` (zapętlone)
+
 **Erica:** Moje sutki… aż mrowią z rozkoszy!  
 **Mox:** Ale to cholernie podniecające!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks10.mp4` (zapętlone)
+
 **Andrea:** Cóż za smakowici goście! Tak chętni, by sprawiać przyjemność.  
 **Kimberly:** Ma pani niesamowite cycki, panno Kimura!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks11.mp4` (zapętlone)
+
 **Andrea:** Pobawcie się nimi, kochane. Jestem cała wasza.  
 **Mox:** Cholera, Andreo!  
 **Kimberly:** Może zdołam odwdzięczyć się w pyszny sposób.  
 **Andrea:** Pokaż, co potrafisz, panno Foxx.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks12.mp4` (zapętlone)
+
 **Kimberly:** Wylizuj moje soki, panno Kimura!  
 **Mox:** Nawet bez drinka jest mokra jak diabli.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks13.mp4` (zapętlone)
+
 **Kimberly:** Dobrze, że tu przyszłam… Andrea jest niesamowita!  
 **Mox:** Podoba ci się, że liże ci cipkę?  
 **Kimberly:** Tak! Tak!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks14.mp4`
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks15.mp4` (zapętlone)
+
 **Erica:** Rżnij mnie w tyłek, kochanie!  
 **Kimberly:** Cholera, ale jest seksowna.  
 **Andrea:** Tak… Jest.  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks16.mp4` (zapętlone)
+
 **Mox:** Jej tyłek jest niesamowity!  
 **Kimberly:** Mmm! Ale pyszne!  
 **Erica:** Daj mi to!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks17.mp4` (zapętlone)
+
 **Kimberly:** Wow! Patrz, jak dają czadu.  
 **Mox:** Ale dobrze!  
 **Andrea:** Spuść się w jej tyłku, Mox.  
 **Mox:** Hę?  
 **Andrea:** Wystrzel w jej tyłku.  
 **Kimberly:** Andrea jest taka perwersyjna!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks18.mp4` (zapętlone)
+
 **Erica:** Dawaj! Spuść się w moim tyłku!  
 **Mox:** Dochodzę! Dochodzę!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks19.mp4`
+
 **Andrea:** Zjedz to, panno Foxx.  
 **Kimberly:** Mam zlizać spermę z tyłka Eriki?  
 **Andrea:** Wygląda apetycznie… prawda?  
 **Kimberly:** O tak!  
+
+> **🎬 Wstawka wideo:** `AdErKiDrnks20.mp4` (zapętlone)
+
 **Erica:** Ale niegrzecznie!  
 **Andrea:** Dobrze! Dobrze!  
 **Mox:** O kurwa.  

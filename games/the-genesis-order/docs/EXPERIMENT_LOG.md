@@ -658,3 +658,178 @@ Poprawiono 25 rekordów, głównie formy `powinienem/powinnam` (w tym po dwa oso
 **Artefakty:** patch `247d972b439493fbd74e1386e4344dcdabebcc8901e2bb1e5b076cd839f41b28` (payload `954690d3…`); Czytanka `767175173730fd8279ce4a0bdcb991464aac163da72df6f5dfd1de919f69f107`.
 
 **Testy:** 173 OK. Audyt nieukończony.
+
+## 2026-10-31 — wstawki wideo: statyczny skaner i znaczniki w Czytance
+
+**Cel:** oznaczyć w Czytance PL miejsca scenariusza, w których gra uruchamia krótki klip wideo (1–2 s), wraz z nazwą pliku (np. `AdChng1.mp4`).
+
+**Zrobione (sandbox, bez uruchamiania gry):**
+- nowe narzędzie `tools/scan_movie_calls.py` czyta wyłącznie `www/data/CommonEvents.json` i `Map*.json` (katalog albo ZIP, np. oryginalny `data.zip`) i zapisuje inwentarz `tgo-movie-calls-v1`: pozycja `command_index`, mapa/event/strona, nazwa pliku, dowód (fragment polecenia), rozróżnienie `confirmed` / `dynamic` / `candidate`;
+- `tools/build_readalong.py` dostał `--movie-calls` i wstawia w Czytance znacznik `> **🎬 Wstawka wideo:** \`plik\`` dokładnie w miejscu polecenia (przed pierwszą kwestią po nim), a także generuje `index_movies_PL.md`; sceny zawierające wyłącznie klip (bez tekstu) też trafiają do Czytanki;
+- argument dynamiczny (np. `playMovie($gameVariables.value(12))`) jest opisany jako „nazwa nieustalona statycznie” — narzędzie nie zgaduje pliku;
+- nowa ścieżka intakena Windows: `tools/intake/SCAN_MOVIES_TGO.ps1` + `URUCHOM_SKAN_WIDEO.bat` + `INSTRUKCJA_WIDEO.txt` (tylko odczyt, wynik to jeden mały JSON).
+
+**Weryfikacja w sandboxie:** `test_movie_calls.py` (13 testów) oraz pełny przebieg `build_readalong.py` na syntetycznym `www/data` i prawdziwym korpusie: 4 394 epizody, 2/2 znaczniki wstawione, ZIP i sidecar zapisane. Cały pakiet testów: **185 OK**.
+
+**Rozstrzygnięte w tym samym dniu** — patrz wpis „skan na danych gry” poniżej. Powyższe narzędzia zostały użyte na rzeczywistym `data.zip`; mechanizmem okazało się API `ysp.VideoPlayer`, a znaczniki są już wstawione do wydania Czytanki.
+
+**Ograniczenia:** skan jest statyczny i obejmuje wyłącznie polecenia z `www/data`; wywołania z kodu JS/pluginów oraz klipy uruchamiane wyłącznie warunkowo w runtime mogą pozostać poza inwentarzem. Gry nie uruchamiano; plików wideo nie kopiowano i nie dołączono do repo.
+
+## 2026-10-31 — skan wstawek wideo na danych gry i wydanie Czytanki ze znacznikami
+
+**Wejścia (z Google Drive, przez connector):**
+- `data.zip` — pełne `www/data` z instalacji. Drive file ID `1jvwrMJKqQDq28q2EVLb_B4jO7w6po_Sw`, 3 299 615 B, SHA-256 `c9deca5c733cbbc92306e41a8afa0157e38758283a9c7662960349f9b9fd5842`. ZIP poprawny (CRC), 306 wpisów, rozpakowany do ignorowanego `google_drive/tgo_source/`.
+- `TGO_DIAGNOSTIC_20261028_191643.zip` — inwentarz instalacji z 2026-10-28 (Drive ID `1gwWlg0ywzYY8k0gjWDi77iTNGl70zmaL`, 263 365 B). Użyto wyłącznie `TGO_FILES.csv` (17 694 wpisów; lista plików, bez zawartości). SHA-256 CSV `186941a3b7801cefeb981fa4032d26f0fa64197313376bb0dbfa54f2e6dfcec5`.
+
+**Ustalenie mechanizmu (POTWIERDZONE):** filmy odtwarza wtyczka `ysp.VideoPlayer` wołana z poleceń skryptowych: `newVideo('Nazwa', slot)` + `playVideoById(slot)`, opcjonalnie `setLoopById(slot)`. `loadVideo` to preload, a `stopVideoById` / `releaseVideo` / `isReady` to sterowanie i odpytywanie — nie są oznaczane jako start odtwarzania. Każdy z 3 812 bloków odtwarzania zawiera `newVideo` i `play` w jednym bloku `355`+`655`.
+
+**Pomiar:** 292 pliki JSON, 470 493 polecenia, **3 812** wywołań w **305** rozdziałach (2 678 Common Events, 1 134 mapy), **3 188** zapętlone, **3 696** różnych nazw plików; 0 wywołań dynamicznych, 0 kandydatów do przeglądu (`ysp` jest jedynym mechanizmem). Katalog `www/movies`: 7 354 pozycje (7 352 `.mp4`, 2 `.webm`); warianty `-l` to niska jakość, więc unikalnych klipów HQ jest 3 678. Rozmiary użytych klipów 0,62–44,45 MB (mediana 2,02 MB); 275 nazw ma plik < 1,5 MB.
+
+**Rozbieżność danych:** 24 nazwy w poleceniach nie mają pliku w tej kopii — `BC-Ar-Bo1O2`…`BC-Ar-Bo15O2` i `BC-Ar-OT1O2`…`BC-Ar-OT9O2` (pliki bez sufiksu `O2` istnieją). Oznaczone w Czytance adnotacją „pliku nie ma w inwentarzu tej kopii”; nazw nie zmieniono.
+
+**Wydanie Czytanki:** przebudowa z `--movie-calls` i numeracją dziedziczoną z v1. Kontrola odtwarzalności: build **bez** znaczników jest identyczny z wydaniem v1 we wszystkich 4 394 epizodach i pełnym skrypcie (różnica tylko w `README_PL.md`). Wydanie ze znacznikami: **4 397** rozdziałów (4 136 map + 261 Common Events; 3 nowe rozdziały to sceny z klipem i bez dialogu, na końcu z jawną adnotacją), **3 812** znaczników, nowy `index_movies_PL.md` (3 696 plików). ZIP: 4 403 wpisy, SHA-256 `9bab2a587449701605c15f1418ab2e2a1af423e8159cac5a0b2c63f5d734e80b`. Inwentarz śledzony w Git: `translation/reports/tgo_movie_calls_v1.json`, 1 047 435 B, SHA-256 `284bfb04d901e0667411a5077ca1d12a8246f5eeaffb60d8f8d364893d1ba55c`.
+
+**Testy:** `tests/test_movie_calls.py` (17 testów) + pełny `unittest`: **190 OK**. `tests/test_patch_artifacts.py` zaktualizowany o nowe liczby (4 397 epizodów / 4 403 wpisy).
+
+**Ograniczenia:** skan jest statyczny i obejmuje wyłącznie polecenia eventów; stan slotów odtwarzany jest w obrębie strony eventu, bez ewaluacji warunków i runtime. Gry nie uruchamiano, filmów nie kopiowano, patcha nie zmieniano.
+
+## 2026-10-31 — fragmenty Czytanki od właściciela: wstawki wideo dopisane do TGO1–TGO12
+
+**Wejścia (Google Drive, przez connector):** folder `TGO/dostawy/` (ID `1OzLwZyMo4ygfNFI6U_g9HGvU9Xnwh7WF`), 12 plików `.txt`:
+`TGO1.txt` (`1NUihCbOUQ3JouWVsamfJtQ0dWnLZpGBg`, 4 390 B), `TGO2.txt` (`1aEBXYbLnE_325PHxRBvHxGRc0Y_eAMUU`, 11 999 B),
+`TGO3.txt` (`1NGA6QcffnhmcioP22z5PVOWKgWVxqo2k`, 4 015 B), `TGO4.txt` (`1v5bOGJieJ2qNNnBbtm2kU8GenYYKD6ne`, 4 858 B),
+`TGO5.txt` (`18Fpkgh2TqrB8Czh2ET88cKKCiYD-c2_a`, 5 485 B), `TGO6.txt` (`1rX-Au0Rz9wwLJCeprVgsv5Jlki3jD_If`, 6 245 B),
+`TG7.txt` (`1jQEMoiyoqFYeSPYd8sp_aZ_cvJh0Hgdg`, 18 217 B), `TG8.txt` (`1RMqUhgWm-ijlKWvBFxd50Bw_CXXjU0ks`, 11 603 B),
+`TG9.txt` (`1BoVAA9V15f-e7gESuRbLdF1IGkMPgpUO`, 11 125 B), `TGO10.txt` (`1-qOcAc9Ex53S3Rw4dUumOmv4frZU2fIz`, 9 384 B),
+`TGO11.txt` (`1v4RXKPsuXS4tegYw655tSDX_sFwHqaYu`, 15 235 B), `TGO12.txt` (`1QU_s-bYuDaudvg83YAFJ20u0ljUjSVwS`, 5 434 B).
+
+**POTWIERDZONE (struktura dostawy):** to autorskie cięcia pliku matki, nie ciągłe wycinki — 105 bloków, w tym 93 z nagłówkiem `## ...`
+i 12 preambuł (kwestie przed pierwszym nagłówkiem). Wszystkie 93 nagłówki występują w `chronological_script_PL.md` dokładnie raz,
+więc nagłówek jest jednoznaczną kotwicą epizodu. Kolejność bloków odpowiada kolejności w pliku matce; nazwy `TG7`–`TG9`
+(bez „O”) zachowano 1:1 z dostawą.
+
+**Zrobione (sandbox, bez uruchamiania gry):**
+- nowe narzędzie `tools/annotate_reading_fragments.py`: parsuje plik matkę na epizody (nagłówek, kwestie, linie znaczników wideo),
+  dopasowuje kwestie bloku przez `difflib.SequenceMatcher` po normalizacji (białe znaki, cudzysłowy, myślniki, wielokropek)
+  i wstawia znacznik wyłącznie tam, gdzie w matce stoi on między dwiema dopasowanymi kwestiami albo między nagłówkiem epizodu
+  a pierwszą kwestią;
+- znaczniki kopiowane są **bajt w bajt z pliku matki** (z `(zapętlone)` i adnotacją o brakującym pliku, jeśli tam jest) — narzędzie
+  nie wymyśla nazw plików wideo;
+- kwestie spoza matki (redakcje właściciela, opcje wyboru, linie NPC) pozostają nietknięte i trafiają do raportu;
+- zachowany styl zakończeń linii (wszystkie 12 plików CRLF), kolejność i treść linii; dodawane są tylko linie znaczników i puste
+  linie wymagane przez Markdown;
+- odmowa pracy, gdy katalog wyjściowy albo raport już istnieją (ta sama reguła co w innych narzędziach).
+
+**Wynik:** **72** wstawki w 12 plikach (TGO1 1, TGO2 3, TGO3 4, TGO4 5, TGO5 3, TGO6 4, TG7 3, TG8 2, TG9 16, TGO10 15,
+TGO11 16, TGO12 0), 1 765/1 829 kwestii dopasowanych, 64 kwestie spoza matki (27 nie występuje w matce, 37 w innych epizodach).
+`TGO12.txt` jest bajt w bajt identyczny ze źródłem — **żaden z 10 epizodów tego fragmentu nie ma wstawki wideo w matce**
+(sprawdzone w matce, nie założone).
+
+**Kontrole:** (1) każda z 72 wstawek stoi między dwiema *sąsiednimi* kwestiami pliku matki — w całej dostawie nie ma przypadku,
+w którym znacznik przeskakuje pominiętą kwestię; (2) suma znaczników w 93 objętych epizodach matki = 72 = liczba wstawek
+w plikach wynikowych; (3) podobieństwo bloków wynikowych do epizodów matki: mediana 0,94, 66/93 bloków ≥ 0,90,
+a rozbieżności to wyłącznie redakcje właściciela (np. „Jak zawsze piękny.” vs „piękna.” w matce); (4) żadna niepusta linia
+źródła nie zginęła.
+
+**Testy:** `tests/test_reading_fragments.py` (15 testów: wstawianie początkowe/śródblokowe/końcowe, zachowanie CRLF,
+kwestie redakcyjne, brak nadpisania, brak pliku matki, dane repo). Pełny `unittest`: **205 OK**.
+
+**Publikacja na Google Drive (nowa reguła: nowe pliki w `TGO/translation/`):** katalog `TGO/translation/czytanka-fragmenty/` (`1akyDTXcVj3Cke-BbkMUojUEsBecyAj8i`, rodzic `1bqtMBsYdL3N7ngTQ-4Tyb4XuJv3oAWHE`). Wgrane: 12 plików wynikowych (TGO1 `1jtMiXHLNznyd1sy5e8SK3qxNPJztyvHr`, TGO2 `1_KnjSUsxwyZ-XHyTefpZfLEAQecPT5B7`, TGO3 `1rrbOKPIt9MJqD-bsDuO0wSV_ewwoM2k7`, TGO4 `1n-553ADBUBt9PUi3Bwij1fTeXPHfS9Qs`, TGO5 `1FvMeAuG4vxhtchcCrccJOXsTvn4-aNcm`, TGO6 `1VXQ3BgMaED_81wa44gen-74zNUx1HdQ3`, TG7 `13rUSVhMKVdttlJ-bblaJM83rxY-oVX6f`, TG8 `1Tkfr2pqpGLfVpmIeGs8uyR8q2JAiKzBv`, TG9 `1EOvT7M4fbh5bFWIf3A9YmikZz2jklPZf`, TGO10 `11TocJ0Rvbxhg0_yTNSFAjkmA-r3W2YMp`, TGO11 `1eCu8Ivdv9czQYU9P38_ZdVFNrzOQROf6`, TGO12 `1jMvXX4h1yQpklMQveiStx892VVRqKPQm`), `README_PL.md` (`1F1oObgKaqOTENugva8mHNR4zYXfP-3c1`) i raport (`1clpC3WGPfIMSu03BTqmn27BmhHzqgKyK`). Pliki w `TGO/dostawy/` pozostały nietknięte — nie było nadpisania dostawy właściciela.
+
+**Ograniczenia:** dopasowanie jest statyczne i nie ocenia warunków gry; wstawek ze scen nieobecnych we fragmencie nie ma
+gdzie oznaczyć. Gry nie uruchamiano, plików wideo nie kopiowano. Pliki na Drive pozostawiono bez zmian — wynik jest osobnym
+wydaniem (`reading/fragments/v1/`), nie nadpisaniem dostawy.
+
+---
+
+## 2026-10-31 — odmiana imienia bohatera w Czytance (`1Hero` → Mox w przypadkach)
+
+**Cel:** usunąć błąd fleksyjny widoczny w Czytance — mianownik `Mox` tam, gdzie polszczyzna wymaga formy zależnej
+(„z Mox”, „dla Mox”, „dzięki Mox”). Drafty zostają z `1Hero`, bo gra podstawia tam imię gracza.
+
+**Metoda (statyczna, bez uruchamiania gry):** nowy moduł `tools/hero_declension.py` (reguły: przyimek jednoznaczny →
+przypadek; przyimek wieloznaczny + zamknięta lista wyjątków; czasownik z zamkniętej tabeli; rzeczownik rządzący
+dopełniaczem; wołacz/mianownik; brak decyzji = mianownik + wpis `unresolved`). `build_readalong.py` używa
+`hero_declension.decline_text()` w miejscu dawnego `str.replace("1Hero", "Mox")`. Audyt
+`tools/audit_hero_declension.py` policzył decyzje na 417 draftach **przed** przebudową Czytanki.
+
+**Wynik [POTWIERDZONE]:** 2 431 rekordów / 2 433 wystąpienia `1Hero`; wołacz 1 892, mianownik 472, biernik 26,
+narzędnik 23, celownik 9, dopełniacz 7, miejscownik 2, brak decyzji 2 → **67 rekordów zmienionych** w Czytance.
+Przebudowa `reading/v1/`: **55** plików różni się od poprzedniego wydania (53 epizody + pełny skrypt + README),
+a w całym skrypcie **każda** zmieniona linia dotyczy `Mox`. Nowy ZIP: 4 403 wpisy, 4 397 rozdziałów,
+SHA-256 `4a055e38362d2ee5db8b2f1ed4ce6ee7fff3950eabe010026941ba22c941718b` (poprzedni `9bab2a58…`).
+
+**Kontrole:** (1) `grep` po przyimkach (`do, dla, z, o, przy, dzięki, za, w, na, przez, między…`) + `Mox` w pełnym
+skrypcie → **0** trafień; (2) w skrypcie **0** placeholderów `1Hero`; (3) w draftach **0** form `Moxa/Moxowi/Moxem/Moxie`
+(test `test_drafts_keep_placeholder`); (4) test `ReportTest` pilnuje liczb 2 431 / 2 433 / 67 / 2, żeby raport nie rozjechał
+się z Czytanką; (5) ręczne przejrzenie wszystkich 67 zmian — m.in. „Zgłaszam Moxa”, „program Moxa”,
+„Nie bądź niemiła dla Moxa”, „wolę zostać z Moxem”, „dzięki Moxowi”, „Chodzi o Moxa”.
+
+**Testy:** nowy `tests/test_hero_declension.py` (14 testów: tabela form, przyimki jednoznaczne i wieloznaczne,
+czasowniki, wołacz/mianownik, czasownik spoza tabeli → brak decyzji, wiele wystąpień, znaczniki `\c[n]`,
+brak formy „przyimek + Mox” w Czytance, spójność raportu, drafty z placeholderem). Pełny `unittest`: **220 OK**.
+
+**Ograniczenia [NIEZNANE]:** heurystyka wołacza myli się przy „Pamiętaj, 1Hero: …” (dwukropek po imieniu) — zostawione
+jako mianownik; czasu przeszłego czasownika nie rozpoznaje się morfologicznie, tylko po zamkniętej tabeli, więc nowe
+konstrukcje w przyszłych partiach wymagają dopisania formy do tabeli (zgadywanie jest wyłączone).
+[NIEZWERYFIKOWANE] odbiór w grze: te formy dotyczą wyłącznie Czytanki — gra podstawia imię gracza w runtime.
+
+**Publikacja:** ZIP Czytanki i sidecar w `TGO/translation/packages/` (`1FYzfQsDJKBaI_GBjlA8qhtS9I9h5_5KM`):
+`TGO_readalong_PL_v1.zip` `1UhNAW0w38hZyFGIMyOey9c3jj1slXYo6`, `.sha256` `15vtzrZfOAjmxqKCU1IqNxCK5aSDT0cle`;
+poprzednie wydanie (`15uMSEutxHXuzbb9kvGFmotoQLPqLzH7v`, `1vhcfpr8YdjXq0V13CZ7vfAYqu2YeoR2C`) przeniesione do kosza.
+
+---
+
+## 2026-10-31 — dokończenie odmiany imion (R-13): przegląd 628 form i 22 poprawki
+
+**Cel:** zamknąć otwarty punkt R-09 — 628 wystąpień imion zostawionych „do przejrzenia” — i naprawić realne błędy
+fleksyjne, których nie dało się wtedy rozstrzygnąć.
+
+**Metoda (statyczna):** dla każdego z 628 wystąpień odczytałem najbliższe słowo rządzące w klauzuli
+(`hero_declension._words_before`, ta sama granica klauzuli co przy odmianie bohatera) i policzyłem klasy:
+
+| Klasa | Wystąpienia | Ocena |
+|---|---:|---|
+| początek klauzuli (podmiot) | 382 | mianownik poprawny |
+| rzeczownik/zaimek/przysłówek (orzecznik po „jest”, „to”, „czy”, „chyba”) | 226 | mianownik poprawny |
+| czasownik spoza tabeli | 17 | mianownik poprawny (podmiot: „jeśli Andrea dowie się…”, „Dokąd poszła Melissa?”) |
+| rząd z tabeli R-09 | 3 | do poprawy („z Toma Leolo”, „chodzi o Toma Leolo”) |
+
+Wniosek: **617/628 to poprawne mianowniki** — nie ma tam czego „naprawiać”. Realny błąd siedział w innym miejscu:
+nazwa artefaktu **Toma Leolo** (deklinowana jak imię żeńskie — „Toma została zniszczona”) stała w mianowniku po
+rzeczownikach i czasownikach rządzących dopełniaczem/biernikiem, a trzy napisy systemowe straciły angielski
+dzierżawczy „’s” („Get Melissa’s phone number” → „Zdobądź Melissa numer telefonu”).
+
+**Narzędzie [POTWIERDZONE]:** `tools/refine_name_declension.py` — importuje tabele rządu z `hero_declension`
+(przyimki jednoznaczne, przyimek domyślny z wyjątkami „z + źródło” i „chodzi o”, zamknięta lista czasowników)
+i dokłada własne: rzeczowniki rządzące dopełniaczem (`kawałki`, `posąg`, `pomocą`, `użyciem`, `fragmentów`,
+`szukaniu`) oraz czasowniki z korpusu (`szuka`, `używały`, `strzegły`, `dopełni` → dopełniacz; `sprowadzić`,
+`zdobądź`, `złóż`, `zniszcz`, `uratuj` → biernik). Cztery zdania wymagały decyzji redakcyjnej
+(`CURATED_OVERRIDES`), trzy napisy systemowe — poprawki szyku i dopełniacza (`NATIVE_OVERRIDES`).
+
+**Wynik [POTWIERDZONE]:** **22 rekordy / 12 wystąpień regułowych + 7 napisów kuratorskich** w 12 plikach draftów;
+rozkład: `noun:*` 5, `verb:*` 4, `preposition:*` 3 (`preposition_default:z` 2, `preposition:o+chodzi` 1).
+Drugi przebieg: **0 zmian** (idempotencja). Przykłady: „kawałki Tomy Leolo”, „Za pomocą Tomy?”, „Szuka Tomy Leolo?”,
+„z Tomą Leolo”, „o Tomę Leolo”, „strzegły Tomy Leolo”, „używały Tomy”, „dopełni Tomy Leolo”, „sprowadzono z powrotem
+Tomę Leolo”, „Żadna Toma nie jest warta utraty życia”, „Zdobądź numer telefonu Melissy”, „…Tomy i amuletów…”.
+
+**Przebudowa artefaktów:** patch `TGO_PL_translation_patch_POC_v0.1.1.zip` (3 748 049 B,
+SHA-256 `d505ad9c4e9ca99ef622f127c648a5aa8a4b8ec812098831ad3ec1e4fec2cbdb`, payload
+`1c13a40d338fc19b81a6730aa4374108c746a2cf8dac0c77237415c3b6def216`, 39 917 tłumaczeń, 238 fingerprintów —
+`fingerprints_sha256` bez zmian); Czytanka `TGO_readalong_PL_v1.zip` (3 384 425 B,
+SHA-256 `fef67df994a050da16038a6f5a35101663e00a54a2a044fda6f4f8390a3097fb`; 16 plików różni się od poprzedniego
+wydania: pełny skrypt + 9 epizodów + README-i epizodów z napisami systemowymi).
+
+**Kontrole:** (1) ręcznie przejrzałem **wszystkie 22 zmiany** przed zapisem; (2) `diff` skryptu Czytanki pokazuje
+wyłącznie poprawione zdania; (3) `tests/test_name_declension_refine.py` (10 testów: reguły, decyzje kuratorskie,
+napisy systemowe, brak zmian przy nierozstrzygalnym rządzie, idempotencja, obecność form w korpusie, spójność raportu,
+obecność poprawek w Czytance); (4) wpis w rejestrze `gender_review_decisions.jsonl` dla zmienionego zdania dostał nowy
+fingerprint z adnotacją R-13 (ustalenie rodzaju bez zmian); (5) pełny `unittest`: **230 OK**.
+
+**Ograniczenia [NIEZWERYFIKOWANE]:** runtime nietestowany; odmiana mianownikowa 610 wystąpień zostaje świadomie
+(m.in. „Żaden/Toma” poza jednym zdaniem, gdzie poprawiono rodzaj). Nowe konstrukcje wymagają dopisania formy do tabeli
+albo decyzji redakcyjnej — narzędzie nigdy nie zgaduje.
+
+**Publikacja:** `TGO/translation/packages/` — patch `1j95-XovU33y_kfBXVq1GqPa5czaABL3z` (+ sidecar
+`1hyI9s-rpPeEr6N4Kr17LytqBA7WdKT9a`), Czytanka `1yqIcRUGItXVCcG0zzO20BrLGaMGTmlpw` (+ sidecar
+`1aAgI5Bii7AbusMuLY0SEJAj7-86fjns7`); poprzednie wydania przeniesione do kosza.

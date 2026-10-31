@@ -1,0 +1,389 @@
+---
+
+## Mapa 024 — Przedsionek / event 5 / strona 1
+
+**Heather:** /greet  
+**Carol:** /greet  
+**Carol:** Miło cię widzieć, Mox.  
+**Mox:** Cześć, panno Ray.  
+**Hannah:** /greet  
+**Chloe:** Hannah! Udało ci się dotrzeć!  
+**Hannah:** Co na kolację? Umieram z głodu.  
+**Carol:** Hannah Ray! Zachowuj się przyzwoicie.  
+**Heather:** Rozgośćcie się, tylko nakryję do stołu.  
+**Carol:** Pomogę ci, Heather.  
+**Carol:** Gratuluję domu, Mox. Wyrosłeś na prawdziwego mężczyznę.  
+**Mox:** Nie dałbym rady bez Heather.  
+**Carol:** Chętnie posłucham o tym przy kolacji.  
+**Hannah:** No dobrze, Mox. Zaprosisz nas do swojego nowego domu?  
+**Mox:** Na razie jest w nim trochę pusto.  
+**Chloe:** Nie ma pośpiechu. Wiem, że jesteś zajęty.  
+**Hannah:** Nie ma mowy! Musisz urządzić imprezę!  
+**Chloe:** Hannah! Nie naciskaj.  
+**Mox:** Hannah ma rację. Chcę wam pokazać nowe mieszkanie.  
+**Mox:** Ale dopiero, gdy będzie gotowe.  
+**Heather:** Kolacja gotowa.  
+**Hannah:** /excited  
+**Chloe:** Nie powiedziałaś jej, że byłam w kościele, prawda?  
+**Mox:** Nie. Nic nie mówiłem Hannah.  
+**Mox:** Spotykasz się z siostrą Judy?  
+**Chloe:** Po prostu… Ufam jej.  
+**Mox:** Wiesz, możesz do mnie przyjść, jeśli będziesz potrzebować pomocy.  
+**Chloe:** Nic mi nie jest. Nie potrzebuję pomocy…  
+**Chloe:** Chodź, jedzenie stygnie.  
+
+---
+
+
+## Common Event 308 — SCN - Dinner
+
+> **🎬 Wstawka wideo:** `Dinner.mp4` (zapętlone)
+
+**Carol:** Co za wspaniała kolacja.  
+**Hannah:** Tak! Dziękuję, pani Wilson. Świetnie pani gotuje.  
+**Heather:** Dziękuję, drogie panie.  
+**Mox:** Heather, dziękuję, że pomogłaś mi znaleźć mój pierwszy dom.  
+**Carol:** No więc, o co chodzi? Dostałeś podwyżkę, Mox?  
+**Mox:** Nie, żadnej podwyżki…  
+**Heather:** Mieliśmy szczęście. Bank musiał pozbyć się tej nieruchomości, a ja jako pierwsza zauważyłam okazję.  
+**Hannah:** A może znajdziesz też dom dla mnie?  
+**Carol:** A jak zamierzasz za to zapłacić, młoda damo?  
+**Chloe:** Może złożymy się razem na mieszkanie w centrum.  
+**Heather:** Oj, Chloe. To niebezpieczna okolica.  
+**Hannah:** Nie wiem, czy zniosę życie w wielkim mieście.  
+**Chloe:** To była tylko propozycja.  
+**Carol:** No to opowiadaj, Mox. Masz jakieś nowe, ekscytujące historie?  
+**Hannah:** Tak! Prowadzisz jakieś śledztwo w sprawie morderstw?  
+**Heather:** Morderstwa!? Chyba nie.  
+**Mox:** Wiesz, nie mogę za dużo mówić o pracy… Ale zdradzę, że mam nową sprawę.  
+**Chloe:** Ktoś włamał się do kościoła?  
+**Mox:** A, to? Szef kazał mi zbadać hałasy dochodzące z kościoła.  
+**Mox:** Okazało się, że po budynku biegało dzikie zwierzę.  
+**Hannah:** Brzmi nudno. A gdzie te wszystkie morderstwa?  
+**Carol:** Co to było za zwierzę? Szop? Kojot?  
+**Mox:** Eee… Kot.  
+**Heather:** Ale emocje.  
+**Mox:** Jest jeszcze ta druga sprawa…  
+**Mox:** Pamiętacie, co wydarzyło się na Uniwersytecie Saint Dame?  
+**Chloe:** Co?!  
+**Heather:** Prowadzisz śledztwo w sprawie morderstw na Uniwersytecie Saint Dame?  
+**Carol:** Czemu policja z North Santiva miałaby prowadzić sprawę na drugim końcu stanu?  
+**Mox:** Kobietę powiązaną z tymi zbrodniami widziano tutaj, w North Santiva.  
+**Chloe:** Madalyn?  
+**Mox:** Znasz jej imię?  
+**Hannah:** Co!? Szukacie jej? Co o niej wiecie? Gdzie ona jest?  
+**Mox:** To nic takiego. Pewnie już dawno stąd wyjechała…  
+**Mox:** Nie powinienem o tym mówić.  
+**Heather:** Mam nadzieję, że na siebie uważasz.  
+**Carol:** Rzadko słyszy się o morderczyni.  
+**Chloe:** Nie tylko mordowała — porywała ludzi.  
+**Heather:** Ta kobieta… Była przełożoną zakonnic przy kościele.  
+**Chloe:** Tak. Poznałam ją, kiedy studiowałam na SDU. Miałam szczęście, że udało mi się stamtąd wydostać.  
+**Hannah:** Chętnie zobaczyłabym, jak ta kobieta próbuje mnie porwać. Dałabym jej niezły wycisk!  
+**Mox:** Nie miałem pojęcia, że spotkałaś Madalyn. Chodziłaś do kaplicy na zajęcia z ekonomii?  
+**Chloe:** To nic takiego. Po prostu ją widziałam, tyle.  
+**Carol:** Po skandalu seksualnym na Uniwersytecie East State i morderstwach na Saint Dame zaczynam się zastanawiać, co się dzieje z naszym systemem edukacji.  
+**Hannah:** Dlatego mówię: niech diabli wezmą studia.  
+**Carol:** Jaki masz plan, Hannah? Poślubić bogacza?  
+**Hannah:** Myślisz, że bogacz nie chciałby takiej dziewczyny ze wsi jak ja?  
+**Chloe:** Małej?  
+**Hannah:** No co? Nie jestem gruba!  
+**Heather:** Bardzo bym chciała, żebyś chodziła do tej samej szkoły co Chloe.  
+**Chloe:** Rozumiemy, mamo.  
+**Heather:** Tylko mówię...  
+**Carol:** Myślę, że to byłoby cudowne. Nauka też ci się przyda, młoda damo.  
+**Hannah:** Och, mamo. Tobie nic z tego nie było potrzebne.  
+**Carol:** Jeśli chcesz spędzić całe życie na farmie, proszę bardzo.  
+**Chloe:** W sumie brzmi całkiem fajnie.  
+**Hannah:** Ha! Chcesz codziennie wstawać o świcie i harować jak wół?  
+**Carol:** Hannah! Ty się przecież nie przemęczasz.  
+**Chloe:** Mogę się przyzwyczaić.  
+**Hannah:** To może ty i Mox przyjdziecie jutro do mnie i pomożecie mi w obowiązkach?  
+**Carol:** Tylko nie próbuj się wymigać od swojej części pracy, młoda damo.  
+**Chloe:** Mogę pomóc.  
+**Heather:** Och! To brzmi jak dobra zabawa.  
+**Hannah:** A ty, Mox, też musisz przyjść. Jest sobota, nie możesz pracować.  
+**Chloe:** Chcesz ze mną iść, Mox?  
+**Mox:** Eee… Chyba mógłbym.  
+**Hannah:** Nawet nie próbuj się wykręcić!  
+**Carol:** Hannah! Zachowuj się.  
+**Heather:** Ciągle próbuję namówić Moxa, żeby poszedł ze mną na siłownię. Może Hannah lepiej pójdzie z wyrobieniem mu formy.  
+**Mox:** Hej! Jestem w świetnej formie!  
+**Carol:** Owszem. Przystojny z niego facet, jeśli mogę tak powiedzieć.  
+**Hannah:** Mamo! Nie mów tak o nim.  
+**Heather:** Tylko się droczę. Wszyscy wiemy, że Mox to ciacho.  
+**Carol:** Hahaha.  
+**Mox:** Dajcie spokój, dziewczyny, rumienię się.  
+**Chloe:** Boże. Co z wami jest nie tak?  
+
+---
+
+## Mapa 025 — Kuchnia / event 4 / strona 1
+
+**Heather:** Ktoś ma ochotę na deser?  
+**Carol:** Och, nie wcisnę już ani kęsa.  
+**Hannah:** Chyba odpuszczę.  
+**Chloe:** Nie chcesz dokładki?  
+**Hannah:** Wieczór jest jeszcze młody. Może wyskoczymy po coś do miasta?  
+**Chloe:** Nie wiem. Nie chcę wracać zbyt późno.  
+**Hannah:** No chodź, Mox. Idziesz z nami!  
+**Carol:** Czyli Heather i ja nie jesteśmy zaproszone?  
+**Hannah:** Mamo!  
+**Heather:** Pod warunkiem, że Mox pójdzie z wami i dopilnuje, żebyście były bezpieczne.  
+**Mox:** Dobrze. Ale nie siedźcie zbyt długo.  
+**Carol:** Dokąd się wybieracie?  
+**Hannah:** Dokąd idziemy, Mox?  
+**Mox:** Spokojnie. Znam bezpieczne miejsce, gdzie możemy trochę posiedzieć.  
+**Heather:** Bawcie się dobrze, a Carol i ja pogadamy sobie o dzieciach.  
+**Hannah:** Dziękuję za kolację, pani Wilson!  
+**Heather:** Ty i twoja mama zawsze jesteście mile widziane, Hannah.  
+**Hannah:** Zrobisz dziś jakiś ruch?  
+**Mox:** Nie rób mi wstydu, Hannah.  
+**Hannah:** Co?! Próbuję ci pomóc.  
+**Mox:** Nie potrzebuję pomocy.  
+**Hannah:** Jak sobie życzysz, przystojniaku.  
+**Mox:** To będzie długa noc.  
+
+---
+
+## Mapa 016 — Dom Heather / event 32 / strona 1
+
+**Chloe:** Dokąd chciałeś iść, Mox?  
+**Hannah:** Chodźmy do pasażu handlowego przy apartamentach.  
+**Chloe:** Chcesz zjeść w Dick’s?  
+**Mox:** Właśnie o tym myślałem. Hannah może tam dostać więcej jedzenia.  
+**Hannah:** Tak, chodźmy zobaczyć. 
+
+---
+
+## Mapa 013 — Centrum handlowe / event 37 / strona 1
+
+**Chloe:** Ależ dziś wieczorem jest tu tłoczno.  
+**Mox:** W każdy piątek wieczorem jest tak samo.  
+**Chloe:** Hannah? Chodź tu!  
+**Hannah:** Nie mam ochoty iść do Dick’s Grill.  
+**Mox:** Myślałem, że masz ochotę na deser.  
+**Hannah:** Zachowajmy się niegrzecznie.  
+**Chloe:** /shock  
+**Chloe:** Nie ma mowy! Nie wejdę do sklepu z pornografią!  
+**Mox:** Hannah. Co ty robisz?  
+**Hannah:** Chcę wejść do sklepu z porno.  
+**Chloe:** Po to chciałaś tu przyjść? Serio?  
+**Hannah:** Nie chcesz zobaczyć, co jest w środku?  
+**Chloe:** To miejsce jest obrzydliwe. Co z tobą nie tak?  
+**Hannah:** Nie bądź taką pruderyjną świętoszką.  
+**Mox:** Nie możemy po prostu pójść do restauracji?  
+**Hannah:** Przestańcie zachowywać się jak dzieci.  
+**Mox:** No cholera.  
+**Chloe:** Cholera, Hannah.  
+**Mox:** Chyba powinniśmy za nią wejść.  
+**Chloe:** Ale wstyd. Mam nadzieję, że nikt mnie nie zobaczy.  
+
+---
+
+
+## Mapa 031 — Sklep XXX / event 5 / strona 1
+
+**Henry:** Na razie, Tasho.  
+**Tasha:** Uważaj na siebie, Henry.  
+**Henry:** Przepraszam.  
+**Tasha:** Czegoś szukasz?  
+**Mox:** Och, przyszliśmy tylko, bo…  
+**Hannah:** Nigdy wcześniej nie byłam w sklepie porno!  
+**Tasha:** To twoje dziewczyny?  
+**Mox:** Och, eee… Tylko przyjaciółki.  
+**Tasha:** Tylko przyjaciółki? Może wam udało się uniknąć infekcji.  
+**Chloe:** Infekcji?  
+**Hannah:** Krąży wirus przenoszony drogą płciową.  
+**Mox:** Nie wierzę w takie bzdury.  
+**Tasha:** Ruda ma rację. To prawdziwa sprawa.  
+**Hannah:** Jestem Hannah.  
+**Tasha:** Cześć, Hannah. Podoba mi się twój styl.  
+**Hannah:** Dziękuję, mieszczucho.  
+**Tasha:** Mów mi Tasha.  
+**Hannah:** To moja najlepsza przyjaciółka Chloe.  
+**Chloe:** /greet  
+**Tasha:** A kto to ten przystojniak?  
+**Chloe:** To Mox.  
+**Tasha:** Nie wierzę, że nie zaliczasz tych seksownych dziewczyn, które tu przyprowadziłeś.  
+**Mox:** Hej! To był pomysł Hannah.  
+**Tasha:** Może dildo? Albo para kajdanek?  
+**Hannah:** Mox już ma kajdanki.  
+**Mox:** /shock  
+**Mox:** Nie mam.  
+**Mox:** Jestem detektywem.  
+**Tasha:** Mam nadzieję, że nie przyszedłeś mnie aresztować.  
+**Mox:** Mam się martwić?  
+**Tasha:** Może wam trojgu przydałby się dobry eliksir miłosny.  
+**Chloe:** Sprzedajesz eliksiry miłosne?  
+**Tasha:** Najlepszy interes w mieście. Biorę je prosto od producenta.  
+**Mox:** Nie, dziękujemy. Tylko się rozglądamy.  
+**Hannah:** Myślę, że Chloe powinna kupić eliksir miłosny.  
+**Chloe:** Hej! A czemu nie ty? To ty się tym interesujesz.  
+**Hannah:** Wcale nie! Chciałam tylko zobaczyć.  
+**Tasha:** Możesz się opierać, ile chcesz. Odkąd pojawił się wirus, ten sklep przeżywa oblężenie.  
+**Chloe:** To naprawdę istnieje?  
+**Tasha:** Nie słuchaj swojego detektywa. Wirus naprawdę istnieje i jeśli jeszcze się nim nie zaraziłaś, wkrótce to nastąpi.  
+**Mox:** Dobra, koniec tych strasznych opowieści. Chodźmy stąd.  
+**Hannah:** O mój Boże! Popatrzcie na te magazyny!  
+**Tasha:** Co cię interesuje? Mamy tu wszystko.  
+
+---
+
+
+## Common Event 309 — SCN - Hannah Magazine
+
+> **🎬 Wstawka wideo:** `HnMag.mp4` (zapętlone)
+
+**Hannah:** Co to, do cholery, jest bukkake?  
+**Tasha:** To wtedy, kiedy ktoś oblewa ci twarz ogromną ilością spermy.  
+**Chloe:** Co do cholery?!  
+**Tasha:** Wytrysk… To sperma. Nie macie internetu?  
+**Mox:** Hannah, chodźmy.  
+**Hannah:** Co myślisz, Chloe? Uważasz, że dobrze bym wyglądała z twarzą oblepioną spermą?  
+**Chloe:** Hannah! Tak nie wolno!  
+**Tasha:** Żartujesz, dziewczyno? Gęsta, biała sperma na tej ślicznej buzi byłaby niesamowicie podniecająca.  
+**Hannah:** Haha! Ojej. Czuję się niegrzeczna.  
+**Chloe:** Jesteś niegrzeczna. Musisz przestać.  
+
+---
+
+## Mapa 031 — Sklep XXX / event 10 / strona 1
+
+**Tasha:** Daj zgadnę. Jesteś wierząca, Chloe?  
+**Chloe:** To nie twoja sprawa.  
+**Hannah:** Chodziła na Uniwersytet Saint Dame. To porządna dziewczyna.  
+**Tasha:** Tak? Przeżyłaś SDU?  
+**Chloe:** Jeśli o to pytasz, nie zostałam porwana.  
+**Tasha:** Szczerze… Brzmi cholernie podniecająco. Ksiądz i jego niewolnice seksualne. Ależ perwersja.  
+**Chloe:** Co!? Zwariowałaś?  
+**Tasha:** Hahaha.  
+**Chloe:** To nie jest śmieszne. Ludzie zginęli.  
+**Tasha:** Skąd wiesz? Co ty, do cholery, widziałaś?  
+**Chloe:** Ja… Nie mogę o tym mówić.  
+**Hannah:** W porządku. Możesz mi powiedzieć, Chloe. Jestem twoją najlepszą przyjaciółką.  
+**Mox:** Co się stało, Chloe? Coś się wydarzyło?  
+**Chloe:** Wszystko zaczęło się, kiedy odwiedziłam kaplicę…  
+
+---
+
+## Common Event 310 — SCN - Chloe Flashback
+
+> **🎬 Wstawka wideo:** `ChFb.mp4`
+
+**Narrator / mówca nieustalony:** Na początku zbliżyłem się do jednej z zakonnic.  
+**Narrator / mówca nieustalony:** Była miła i pomocna…  
+**Narrator / mówca nieustalony:** Ale potem ich spotkałem.  
+**Narrator / mówca nieustalony:** Z kim się spotkałeś?  
+**Narrator / mówca nieustalony:** Ksiądz i ta kobieta…  
+**Narrator / mówca nieustalony:** Madalyn.  
+**Narrator / mówca nieustalony:** Oceniała mnie, a potem przedstawiła księdzu.  
+**Narrator / mówca nieustalony:** Wiedziałem, że coś jest nie tak.  
+**Narrator / mówca nieustalony:** Po skończeniu szkoły czytałem o komnacie...  
+**Narrator / mówca nieustalony:** I o okropnościach, które rozegrały się pod kaplicą.  
+
+---
+
+## Mapa 031 — Sklep XXX / event 10 / strona 2
+
+**Tasha:** Spotkałaś Madalyn?  
+**Mox:** Wiesz, kim ona jest?  
+**Tasha:** Bardzo dobrze.  
+**Chloe:** Kłamiesz.  
+**Tasha:** Uciekła do Cape Vedra. Do niedawna tam mieszkałam.  
+**Tasha:** Dopiero później zrozumiałam, co się dzieje.  
+**Tasha:** Zabiła księdza z kościoła w Cape Vedra.  
+**Hannah:** Wygląda na to, że Madalyn to całkiem znana seryjna morderczyni.  
+**Chloe:** Na samą myśl o niej przechodzą mnie ciarki.  
+**Tasha:** Masz szczęście, że nie uległaś jej urokowi.  
+**Mox:** Wygląda na to, że ty też miałaś szczęście.  
+**Tasha:** Można tak powiedzieć.  
+**Chloe:** Chodź, Hannah.  
+**Hannah:** Ooo! Przecież noc dopiero się zaczęła!  
+**Mox:** Nie musimy jutro wcześnie wstać?  
+**Hannah:** Z samego rana!  
+**Hannah:** Hej! Zaczekaj!  
+**Mox:** Często tu pracujesz?  
+**Tasha:** To mój sklep.  
+**Mox:** Chętnie dowiem się czegoś o Madalyn, jeśli zechcesz się podzielić informacjami.  
+**Tasha:** Może mogę ci pomóc.  
+**Mox:** Później pogadamy, Tasho.  
+**Tasha:** Cześć, Mox.  
+
+---
+
+## Mapa 013 — Centrum handlowe / event 44 / strona 1
+
+**Hannah:** Nie bądź takim dzieciakiem.  
+**Chloe:** Nie zamierzam kupować żadnych pism pornograficznych.  
+**Mox:** Nie kłóćcie się, panie.  
+**Hannah:** Przyjdziesz jutro rano. Prawda, Chloe?  
+**Chloe:** Tak. Przyjdę, jak tylko wstanę.  
+**Hannah:** Tylko nie śpij do południa!  
+**Chloe:** Na razie, Mox.  
+**Mox:** Do zobaczenia jutro, Chloe.  
+**Hannah:** Spokojnie, Mox. Przełamiemy jej opór.  
+**Mox:** O czym ty mówisz?  
+**Hannah:** Jutro zaliczysz trochę akcji.  
+**Mox:** Hannah!  
+**Hannah:** Trzeba ci kogoś znaleźć do łóżka.  
+**Mox:** Co planujesz na jutro?  
+**Hannah:** Zobaczysz.  
+**Mox:** Nie wpędź nas w kłopoty.  
+**Hannah:** Nic nie obiecuję.  
+**Mox:** Ciekawe, co ona planuje…  
+**Arianna:** Co się stało, Mox? Wyglądasz na zmartwionego.  
+**Mox:** Och, nie martwię się. Po prostu…  
+**Mox:** Arianno… Mówiłaś, że możesz mi pomóc.  
+**Arianna:** Zgadza się! Jestem bardzo pomocna.  
+**Mox:** Co mnie jutro czeka?  
+**Arianna:** Hmm. Widzę, że wcześnie wstaniesz.  
+**Mox:** No… I co dalej?  
+**Arianna:** O nie!  
+**Mox:** Co jest!? Co widzisz?  
+**Arianna:** Coś bardzo niepokojącego.  
+**Mox:** Komuś grozi niebezpieczeństwo?  
+**Arianna:** Zaatakują cię!  
+**Mox:** /shock  
+**Arianna:** Tyle udręki na twojej twarzy! Tak niewypowiedziane czyny!  
+**Mox:** O mój Boże!  
+**Arianna:** Poza tym pogoda będzie ładna.  
+**Mox:** Czekaj! Wróć do tego! Co jeszcze widziałaś?  
+**Arianna:** Nie mogę powiedzieć nic więcej. Może rano wszystko stanie się jaśniejsze.  
+**Mox:** No i teraz jeszcze bardziej boję się jutra.  
+**Arianna:** Oczyść umysł, Mox. To, co ma nadejść, jest wolą Pana.  
+**Mox:** Nie jestem pewien, czy dobrze się czuję, kiedy jesteś w pobliżu.  
+**Arianna:** Nie martw się, Mox. Wskażę ci drogę.  
+
+---
+
+## Mapa 028 — Sypialnia / event 6 / strona 2
+
+**Arianna:** Dzień dobry, śpiochu.  
+**Mox:** Arianno?...  
+**Arianna:** Naprawdę lubisz sobie pospać.  
+**Mox:** O cholera! Zaspałem!  
+**Mox:** Hannah będzie wściekła!  
+**Arianna:** Nie martw się. Będzie na farmie, kiedy tam dotrzesz.  
+**Narrator / mówca nieustalony:** Jeśli nie jesteś zbyt zmęczona po farmie, spotkajmy się na siłowni!  
+**Mox:** Cholera. Nie znoszę, że ciągle zbywam Heather.  
+**Mox:** Od miesięcy prosi, żebym z nią poćwiczył.  
+**Arianna:** Coś nie tak, Mox? Potrzebujesz treningu?  
+**Mox:** Chyba jestem całkiem nieźle zbudowany.  
+**Arianna:** Ta kobieta bardzo cię kocha. Powinieneś spędzać z nią więcej czasu.  
+**Mox:** Ona mnie kocha?  
+**Arianna:** Kupiła ci ten dom, prawda?  
+**Mox:** Cóż… Pomogła mi go kupić…  
+**Mox:** Masz rację. Powinienem spędzać z nią więcej czasu.  
+**Mox:** Zawsze była przy mnie, cokolwiek się działo.  
+**Arianna:** Czuję, że od dawna jesteście sobie bliscy.  
+**Mox:** Pomogła mi przetrwać trudne chwile, kiedy byłem dzieckiem.  
+**Arianna:** Masz szczęście, że masz bliskich.  
+**Mox:** Tak pochłania mnie praca… Zaniedbuję przez to relacje z bliskimi.  
+**Mox:** Skoro mowa o pracy… Muszę spotkać się z tą Tashą.  
+**Mox:** Jeśli zdobędzie dla mnie jakieś informacje o Madalyn, może zaimponuję Melissie i pozwoli mi wznowić śledztwo.  
+**Arianna:** Twoje zaangażowanie w tę sprawę jest i błogosławieństwem, i przekleństwem.  
+**Mox:** Wygląda na to, że mnie rozgryzłaś, Arianno.  
+**Arianna:** Powinieneś się cieszyć, że jestem tu, by ci pomóc.  
+**Arianna:** Czeka cię ważny dzień. Lepiej ruszaj.  
+*〔Wskazówka: Tasha ma dla ciebie nowe informacje.〕*

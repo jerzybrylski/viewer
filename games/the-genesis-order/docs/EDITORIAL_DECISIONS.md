@@ -155,6 +155,7 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 | R-07 | Placeholdery | **rozstrzygnięte: przywrócone angielskie** — wykonane |
 | R-08 | `TEXT`/`TEKST` (TEST MAP) | **rozstrzygnięte: przywrócony `TEXT`** — wykonane |
 | R-09 | Odmiana imion | **rozstrzygnięte: ujednolicić odmianę** — wykonane w 380 rekordach (patrz wyżej) |
+| R-13 | Dokończenie odmiany imion | **wykonane 2026-10-31** — 22 rekordy (Toma Leolo, napisy systemowe), 610 form świadomie w mianowniku |
 | R-10 | `WoNoChurch` | **rozstrzygnięte: bez zmian** — „WoNo — kościół” |
 | R-11 | Fonty | **POTWIERDZONE W GRZE** — polskie znaki, opcje PL i zawijanie tekstu działają |
 
@@ -180,3 +181,25 @@ Ten plik zbiera **wszystkie miejsca, w których dwa źródła w repo mówią co 
 - **Uzupełnienie 2026-10-30 (orzeczniki):** przymiotnik po `jestem/jesteś/będę/czuję się` bierze rodzaj mówcy (lub adresata), ale **tylko** gdy nie rządzi nim rzeczownik — „jestem jedyną osobą” zostaje, bo „osoba” jest żeńska niezależnie od mówcy. Pary przymiotnikowe są zamkniętą, przejrzaną listą.
 
 - **Uzupełnienie 2026-10-30:** tryb warunkowy (`bym/byś` + czasownik) traktowany jak zwykła 1./2. osoba; „sam/sama” podmieniane wyłącznie w zdaniu mówcy (inaczej rodzaj zależy od podmiotu); złożenia `we-`/`ze-` mają jawną tabelę tematów (`weszła ↔ wszedł`).
+
+---
+
+## Imię bohatera w Czytance (2026-10-31) — decyzja wykonawcza (R-12)
+
+- **Problem:** `1Hero` to w grze placeholder imienia gracza; polskie zdania stawiają go po przyimkach i czasownikach wymagających przypadka („z 1Hero”, „dla 1Hero”, „dzięki 1Hero”). W draftach nie da się tego naprawić, bo w grze jest zmienna nazwa.
+- **Decyzja:** w Czytance bohater nazywa się **Mox** i jest odmieniany; drafty zachowują `1Hero` bez zmian. Odmiana jest warstwą prezentacji (`tools/hero_declension.py`), nie edycją tłumaczenia.
+- **Reguły:** przyimek jednoznaczny > przyimek wieloznaczny z zamkniętą listą wyjątków (`z` + źródło → dopełniacz, „chodzi o” → biernik) > czasownik z tabeli (`chroń`, `pomóc`, `słuchaj`, `znasz`, `pomogłam`…) > rzeczownik rządzący dopełniaczem („program Moxa”) > wołacz/mianownik. Czasownik spoza tabeli = brak decyzji, nie zgadywanie.
+- **Czego nie robimy:** nie odmieniamy `1Hero` w tekście gry, nie ruszamy imion żeńskich (R-09) ani męskich na spółgłoskę; nie poprawiamy przypadków, których nie da się rozstrzygnąć składniowo.
+- **Wynik:** 67/2 433 wystąpień zmienionych w Czytance (biernik 26, narzędnik 23, celownik 9, dopełniacz 7, miejscownik 2), 2 nierozstrzygnięte („Pamiętaj, 1Hero: …” — dwukropek psuje heurystykę wołacza; „…a potem 1Hero zerżnął…” — mianownik, poprawny). Raport: `translation/reports/hero_declension_v1.json`.
+- **Status:** [POTWIERDZONE] 55 zmienionych plików Czytanki, 0 form „przyimek + Mox”, 0 placeholderów w skrypcie, testy `test_hero_declension.py` (14 testów); [NIEZWERYFIKOWANE] odbiór całości w grze — gra podstawia imię gracza, więc te formy dotyczą wyłącznie Czytanki.
+
+---
+
+## Dokończenie odmiany imion (2026-10-31) — decyzja wykonawcza (R-13)
+
+- **Punkt wyjścia:** R-09 zostawił **628** wystąpień imion bez zmian jako „do przejrzenia”. Przejrzałem je wszystkie (`tools/audit_hero_declension.py` dla bohatera, skan rządzących słów dla imion): **617** to poprawne mianowniki — podmiot na początku klauzuli (382), orzecznik po „jest/to/czy” (226), kilka orzeczeń z orzeczeniem imiennym. Nie ma tam czego poprawiać.
+- **Co było błędne:** garstka miejsc, w których rzeczownik, czasownik lub przyimek rządzi przypadkiem, a imię stało w mianowniku — wszystkie dotyczą nazwy artefaktu **Toma Leolo** (deklinowanej jak imię żeńskie: „Toma została zniszczona”) oraz trzech napisów systemowych z angielskim dzierżawczym „’s”.
+- **Decyzja:** narzędzie `tools/refine_name_declension.py` (R-13) rozszerza tabele rządu R-09 o te same reguły, których używa odmiana bohatera (przyimki jednoznaczne i domyślne z wyjątkami, zamknięta lista czasowników, rzeczowniki rządzące dopełniaczem) i dodaje `NATIVE_OVERRIDES` / `CURATED_OVERRIDES` dla czterech zdań wymagających decyzji redakcyjnej.
+- **Czego nie robimy:** nie odmieniamy imion męskich na spółgłoskę ani nazwisk; nie ruszamy form, których przypadek nie jest rozstrzygnięty (610 wystąpień zostaje w mianowniku); nie zmieniamy treści poza formą imienia (wyjątek: szyk napisu „Zdobądź numer telefonu Melissy”).
+- **Wynik:** **22 rekordy / 12 wystąpień** regułowych + 7 napisów kuratorskich w 12 plikach: `noun:*` 5, `verb:*` 4 (`szuka`, `używały`, `strzegły`, `dopełni`), `preposition:*` 3 (`z` 2, „chodzi o” 1). Drugi przebieg: **0 zmian** (idempotencja).
+- **Status:** [POTWIERDZONE] ręcznie przejrzane wszystkie 22 zmiany, odbudowany patch i Czytanka, testy `test_name_declension_refine.py` (10 testów), pełny `unittest`: **230 OK**; [NIEZWERYFIKOWANE] odbiór w grze (runtime nietestowany).

@@ -1,31 +1,60 @@
 ## Common Event 340 — SCN - Secret Room
 
+> **🎬 Wstawka wideo:** `MlScrRm1.mp4`
+
 **Mox:** Wyglądają na stare rzeźby.  
 **Mox:** Od bardzo dawna nikt tu nie sprzątał.  
+
+> **🎬 Wstawka wideo:** `MlScrRm2.mp4` (zapętlone)
+
 **Melissa:** To bunkier Gildii. Widzieliśmy już podobne.  
 **Mox:** Skąd wiesz?  
+
+> **🎬 Wstawka wideo:** `MlScrRm3.mp4`
+
 **Melissa:** To spis inwentarza…  
 **Melissa:** Wszystko tutaj jest kradzione.  
+
+> **🎬 Wstawka wideo:** `MlScrRm4.mp4`
+
 **Mox:** Co do cholery?!  
+
+> **🎬 Wstawka wideo:** `MlScrRm5.mp4` (zapętlone)
+
 **Melissa:** Cholera! Musiałeś uruchomić jakąś pułapkę.  
 **Mox:** Nic nie dotykałem.  
 **Melissa:** Jest tu dość miejsca. Może uda nam się przecisnąć z powrotem.  
+
+> **🎬 Wstawka wideo:** `MlScrRm6.mp4` (zapętlone)
+
 **Melissa:** Cholera, nie widzę, czy wejście jest zamknięte.  
 **Melissa:** Pomóż mi się przedostać.  
 **Mox:** Jak?  
 **Melissa:** Przepchnij mnie!  
 **Mox:** Dobra, już.  
+
+> **🎬 Wstawka wideo:** `MlScrRm7.mp4` (zapętlone)
+
 **Melissa:** Mocniej!  
 **Mox:** Próbuję!  
+
+> **🎬 Wstawka wideo:** `MlScrRm8.mp4` (zapętlone)
+
 **Melissa:** /curse  
 **Mox:** Co widzisz?  
 **Melissa:** Jesteśmy uwięzieni. Główne wejście jest zablokowane.  
 **Mox:** /curse  
 **Melissa:** Pomóż mi wrócić. Musimy znaleźć wyjście.  
+
+> **🎬 Wstawka wideo:** `MlScrRm9.mp4` (zapętlone)
+
 **Mox:** Aaargh!  
 **Melissa:** Użyj trochę siły!  
 **Mox:** To nie takie łatwe!  
 **Melissa:** Co sugerujesz?  
+
+> **🎬 Wstawka wideo:** `MlScrRm10.mp4` (zapętlone)
+
 **Mox:** No cóż, nie tak miało to wyglądać.  
 **Melissa:** Znajdźmy wyjście z tej pułapki…  
 **Melissa:** I niczego nie ruszaj.  

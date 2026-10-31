@@ -1,8 +1,13 @@
 ## Common Event 323 — SCN - Chloe Judy Attic
 
+> **🎬 Wstawka wideo:** `ChJuAt1.mp4` (zapętlone)
+
 **Mox:** Spokojnie, Chloe, mam cię.  
 **Chloe:** Nie puszczaj!  
 **Judy:** Podaj mi rękę. Wyciągnę cię.  
+
+> **🎬 Wstawka wideo:** `ChJuAt2.mp4` (zapętlone)
+
 **Chloe:** Dziękuję, że mnie uratowałeś.  
 **Mox:** Co tu robiłaś?  
 **Chloe:** Przyszłam tu tylko… się pomodlić.  
@@ -14,6 +19,9 @@
 **Judy:** Musimy naprawić zepsuty żyrandol. Pójdę powiedzieć ojcu, że trzeba go naprawić.  
 **Mox:** Zaraz zejdę. Chcę porozmawiać z Chloe na osobności.  
 **Judy:** Dobrze. Uważajcie tutaj na górze.  
+
+> **🎬 Wstawka wideo:** `ChJuAt3.mp4` (zapętlone)
+
 **Chloe:** Czemu chcesz ze mną porozmawiać na osobności?  
 **Mox:** Wiesz dlaczego, Chloe. Popełniłem błąd.  
 **Chloe:** Możesz żyć, jak chcesz, Mox. To Hannah wszystko skomplikowała.  
@@ -28,6 +36,11 @@
 **Chloe:** Chcę ci coś pokazać.  
 **Mox:** O co chodzi?  
 **Chloe:** /order  
+
+> **🎬 Wstawka wideo:** `ChJuAt4.mp4`
+
+> **🎬 Wstawka wideo:** `ChJuAt5.mp4` (zapętlone)
+
 **Mox:** Wow! Ale widok!  
 **Chloe:** Prawda, że wspaniale? Las Casula jest o tej porze roku przepiękny.  
 **Mox:** Rozumiem, czemu przychodzisz tu pomyśleć.  
@@ -65,6 +78,9 @@
 **Chloe:** Tak myślisz?  
 **Mox:** Oczywiście.  
 **Chloe:** Ty też niczego sobie.  
+
+> **🎬 Wstawka wideo:** `ChJuAt6.mp4`
+
 **Chloe:** Twoja nowa dziewczyna jest naprawdę ładna, Mox…  
 **Chloe:** Nie chcę tego zepsuć.  
 **Mox:** Erica?... Ona pomaga mi…  

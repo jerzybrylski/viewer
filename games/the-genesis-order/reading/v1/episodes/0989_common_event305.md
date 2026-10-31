@@ -1,8 +1,13 @@
 ## Common Event 305 — SCN - Lillian
 
+> **🎬 Wstawka wideo:** `Li-Meet1.mp4`
+
 **Narrator / mówca nieustalony:** Dobry wieczór. Pani Lillian Wilkes, jak mniemam?  
 **Narrator / mówca nieustalony:** Musisz być z zespołu śledczego…  
 **Narrator / mówca nieustalony:** Proszę. Wejdź do środka.  
+
+> **🎬 Wstawka wideo:** `Li-Meet2.mp4` (zapętlone)
+
 **Melissa:** Jestem detektyw Bhatt, a to mój asystent, pan Canmore.  
 **Lillian:** Wiem, że ma pan zadanie do wykonania, ale proszę uszanować mój czas.  
 **Lillian:** Śmierć mojego ojca była trudna dla mnie i całej rodziny.  
@@ -47,6 +52,9 @@
 **Lillian:** Chciałabym wiedzieć więcej.  
 **Lillian:** Czegokolwiek od niego chciała, teraz to już koniec.  
 **Lillian:** Chciałabym tylko móc się z nim pożegnać.  
+
+> **🎬 Wstawka wideo:** `Li-Meet3.mp4`
+
 **Narrator / mówca nieustalony:** Chodź, dziecko. Zadbam o twoje potrzeby.  
 **Narrator / mówca nieustalony:** Żegnajcie, detektywi.  
 

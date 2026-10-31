@@ -4393,3 +4393,6 @@ sequence	episode	kind	map_id	event_id	page_number	map_rank	chronology_basis	titl
 4392	4392_map209_event070_page01.md	map	209	70	1	234	first potential map reachability; condition evaluation omitted	Map 209 event 70 page 1
 4393	4393_map209_event071_page01.md	map	209	71	1	234	first potential map reachability; condition evaluation omitted	Map 209 event 71 page 1
 4394	4394_map209_event072_page01.md	map	209	72	1	234	first potential map reachability; condition evaluation omitted	Map 209 event 72 page 1
+4395	4395_map049_event015_page02.md	map	49	15	2	147	first potential map reachability; condition evaluation omitted	Map 49 event 15 page 2
+4396	4396_common_event413.md	common_event		413			first statically observed common-event call; conditional call order uncertain	Common Event 413 SCN - Buffed Minion
+4397	4397_map001_event001_page01.md	map	1	1	1	222	first potential map reachability; condition evaluation omitted	Map 1 event 1 page 1

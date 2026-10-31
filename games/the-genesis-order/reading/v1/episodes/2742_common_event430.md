@@ -1,5 +1,7 @@
 ## Common Event 430 — SCN - Hannah Heather Gator
 
+> **🎬 Wstawka wideo:** `HnHeGtr1.mp4` (zapętlone)
+
 **Hannah:** Nie trzeba mnie ratować! Pomóżcie mi zanieść mojego nowego zwierzaka.  
 **Mox:** Związałaś mu pysk?  
 **Hannah:** To nie było łatwe.  
@@ -7,16 +9,27 @@
 **Hannah:** To się nazywa zapasy!  
 **Mox:** Nie możesz trzymać aligatora jako zwierzaka.  
 **Hannah:** Jeszcze jak mogę! Muszę go tylko wytresować.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr2.mp4`
+
+> **🎬 Wstawka wideo:** `HnHeGtr3.mp4` (zapętlone)
+
 **Hannah:** /curse  
 **Mox:** Nie było szans, żebyśmy odtransportowali to coś na twoją farmę.  
 **Heather:** A czym byś go karmiła?  
 **Hannah:** Cóż… Mam kozę.  
 **Mox:** Hannah!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr4.mp4` (zapętlone)
+
 **Hannah:** Mox! Robi ci się namiot w spodniach jak żabie przy lampie na owady!  
 **Heather:** Haha. Och, Hannah, umiesz dobrać słowa.  
 **Mox:** Hej! Ale mnie podnieciłaś.  
 **Hannah:** Podoba ci się myśl o dwóch nagich kobietach w lesie?  
 **Mox:** Nie to miałem na myśli.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr5.mp4` (zapętlone)
+
 **Hannah:** Popatrz, Heather! Stoi mu!  
 **Heather:** Wygląda na to, że nie masz jeszcze dość atrakcji na dziś, co, Mox?  
 **Mox:** To znaczy… Jest zimno… Nie wiem, co powiedzieć.  
@@ -31,48 +44,104 @@
 **Heather:** Co się stało? To tylko zabawa… Prawda?  
 **Mox:** To znaczy…  
 **Hannah:** No jasne! To tylko zabawa!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr6.mp4` (zapętlone)
+
 **Hannah:** Juhuu! Dawaj!  
 **Heather:** Nie tracisz czasu, co, Hannah?  
 **Mox:** Hannah!  
-**Hannah:** Teraz moja kolej! Chcę ujeżdżać Mox!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr7.mp4` (zapętlone)
+
+**Hannah:** Teraz moja kolej! Chcę ujeżdżać Moxa!  
 **Mox:** To nie zawody!  
 **Heather:** Jak sama powiedziała — teraz nasza kolej.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr8.mp4` (zapętlone)
+
 **Mox:** O tak. Ten dzień robi się coraz lepszy.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr9.mp4` (zapętlone)
+
 **Mox:** Kolejny widok, którego nigdy nie sądziłem, że zobaczę.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr10.mp4` (zapętlone)
+
 **Hannah:** Panno Heather!  
 **Heather:** Co jest, Hannah? Nie dajesz rady?  
 **Hannah:** Nigdy nie pomyślałam, żeby cię pocałować.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr11.mp4` (zapętlone)
+
 **Heather:** Podobało ci się?  
 **Mox:** Mnie na pewno.  
 **Hannah:** A myślałam, że zapasy z aligatorem będą dziś najbardziej szaloną rzeczą, jaką zrobię.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr12.mp4` (zapętlone)
+
 **Hannah:** Hahaha! No, teraz jest zabawa!  
 **Mox:** Ujeżdżaj ją, kowbojko!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr13.mp4` (zapętlone)
+
 **Hannah:** Wylizuj moją cipkę, Heather!  
 **Mox:** Ja pierdolę! Ale niesamowite!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr14.mp4` (zapętlone)
+
 **Heather:** Boże, Hannah! Twoja cipka jest taka pyszna!  
 **Hannah:** Haha! Pannie Heather smakuje moja cipka!  
 **Mox:** Ja pierdolę! Przez was aż pulsuje mi kutas!  
 **Hannah:** Pieprz moje cycki! Rżnij moją cipkę!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr15.mp4` (zapętlone)
+
 **Hannah:** To takie przyjemne!  
 **Mox:** To niesamowite!  
 **Heather:** Odpręż się, Hannah. Polizę cię, a chłopak doprowadzi cię do końca.  
+
+> **🎬 Wstawka wideo:** `HnHeGtr16.mp4` (zapętlone)
+
 **Hannah:** O rany! Co za uczucie!  
 **Mox:** Kurwa! Ale gorąco!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr17.mp4` (zapętlone)
+
 **Hannah:** Nos Heather jest w moim tyłku!  
 **Mox:** A ja jestem w twojej cipce!  
 **Hannah:** Zaraz dojdę!  
 **Mox:** Skończ jej na twarzy!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr18.mp4`
+
+> **🎬 Wstawka wideo:** `HnHeGtr19.mp4` (zapętlone)
+
 **Hannah:** O rany! Ale z ciebie zboczeniec, Mox!  
 **Heather:** Bierz mnie, kochanie! Poczuj Hannah na mojej twarzy i spuść się w mojej cipce!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr20.mp4` (zapętlone)
+
 **Hannah:** Muszę być naprawdę pyszna!  
 **Heather:** Och, Mox! Rżnij mnie mocno!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr21.mp4` (zapętlone)
+
 **Heather:** Tak!  
 **Hannah:** Ale seksownie!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr22.mp4` (zapętlone)
+
 **Hannah:** Naprawdę zalejesz ją spermą?  
 **Heather:** Tak! Wypełnij moją cipkę!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr23.mp4`
+
 **Mox:** Ja pierdolę… Chyba nigdy tak mocno nie doszedłem.  
 **Heather:** Ale mnie wypełniłeś. Czuję to.  
 **Hannah:** Ja też chcę!  
+
+> **🎬 Wstawka wideo:** `HnHeGtr24.mp4` (zapętlone)
+
 **Heather:** Ach! Ostrożnie, Hannah. Jestem tam bardzo wrażliwa.  
 **Mox:** Ale z was niegrzeczne dziewczyny.  
 **Heather:** Podoba ci się?  

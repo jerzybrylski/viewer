@@ -1,13 +1,21 @@
 ## Common Event 358 — SCN - Hannah Chloe Eat
 
+> **🎬 Wstawka wideo:** `ChHnMcEO1.mp4` (zapętlone)
+
 **Chloe:** Ach!... Ach!  
 **Chloe:** Hannah! Źle to robisz.  
 **Mox:** Co wy dwoje robicie?  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO2.mp4`
+
 **Chloe:** Mox!?  
 **Hannah:** Jak się tu dostałeś?  
 **Mox:** Co się dzieje?  
 **Hannah:** My tylko… uprawiałyśmy seks.  
 **Chloe:** Wcale nie!  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO3.mp4` (zapętlone)
+
 **Chloe:** Hannah… mi pomagała.  
 **Hannah:** Miałam doprowadzić Chloe do orgazmu, ale wtedy wparowałeś.  
 **Mox:** Liżesz ją?  
@@ -15,9 +23,15 @@
 **Chloe:** Pokazywała mi tylko… pewną technikę.  
 **Mox:** Naprawdę? A jaka to technika, Hannah?  
 **Hannah:** Już ci pokażę!  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO4.mp4` (zapętlone)
+
 **Chloe:** Ach! Hannah! Przestań!  
 **Mox:** Hannah! Tak nie powinno się tego robić!  
 **Chloe:** Łaskocze! Zejdź ze mnie!  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO5.mp4` (zapętlone)
+
 **Hannah:** Cholera, Chloe! Staram się, jak mogę!  
 **Chloe:** Nie podoba mi się! Robisz to źle.  
 **Hannah:** Skąd wiesz?!  
@@ -28,13 +42,22 @@
 **Hannah:** A właśnie, że trudne!  
 **Mox:** Zdejmij spodnie. Pokażę ci, jakie to powinno być uczucie.  
 **Hannah:** Skoro nalegasz.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO6.mp4` (zapętlone)
+
 **Hannah:** Cholera, chłopcze! Naprawdę masz dobrą technikę.  
 **Chloe:** Widzisz, Hannah? Nie robi ci bąbelków językiem.  
 **Hannah:** Przysięgam, myślałam, że trzeba dmuchać.  
 **Chloe:** Nie, nie. Używa języka… Liże cię.  
 **Hannah:** Prosto w łechtaczkę! Ale przyjemnie.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO7.mp4` (zapętlone)
+
 **Chloe:** Wow. Naprawdę się w to wkręcasz.  
 **Hannah:** Cicho! Daj mi się skupić.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO8.mp4`
+
 **Mox:** Widzisz, Chloe?  
 **Chloe:** Łał!  
 **Hannah:** Przyznam, ma talent do smakowania taco.  
@@ -45,16 +68,28 @@
 **Hannah:** Pozwól chłopakowi użyć swojej magii! Może poprawi ci humor.  
 **Chloe:** Och… Dobrze.  
 **Mox:** Odpręż się, Chloe. Spodoba ci się.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO9.mp4` (zapętlone)
+
 **Chloe:** Ach! Och!  
 **Hannah:** Podoba ci się?  
 **Chloe:** Ale przyjemnie… Cudowne uczucie.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO10.mp4` (zapętlone)
+
 **Hannah:** Chcę zobaczyć, jak dochodzisz.  
 **Chloe:** Hannah!  
 **Hannah:** Dawaj, Chloe! Dojdź!  
 **Chloe:** O rany!... Ale dobrze!  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO11.mp4`
+
 **Hannah:** Jak było?  
 **Chloe:** Było wspaniale!  
 **Mox:** Widzisz, Hannah? Tak się to robi.  
+
+> **🎬 Wstawka wideo:** `ChHnMcEO12.mp4` (zapętlone)
+
 **Mox:** Hannah!  
 **Chloe:** Nie! Hannah! Nie!  
 **Chloe:** Złaź! Przestań!  

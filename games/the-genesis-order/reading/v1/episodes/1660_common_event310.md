@@ -1,5 +1,7 @@
 ## Common Event 310 — SCN - Chloe Flashback
 
+> **🎬 Wstawka wideo:** `ChFb.mp4`
+
 **Narrator / mówca nieustalony:** Na początku zbliżyłem się do jednej z zakonnic.  
 **Narrator / mówca nieustalony:** Była miła i pomocna…  
 **Narrator / mówca nieustalony:** Ale potem ich spotkałem.  

@@ -1,9 +1,14 @@
 ## Common Event 301 — SCN - Judy
 
+> **🎬 Wstawka wideo:** `JuSearch1.mp4`
+
 **Narrator / mówca nieustalony:** To coś ma świecić?  
 **Narrator / mówca nieustalony:** Ojej! Panie, miej nas w swojej opiece.  
 **Narrator / mówca nieustalony:** Hej! Wracaj!  
 **Narrator / mówca nieustalony:** Co to, do diabła, jest?  
+
+> **🎬 Wstawka wideo:** `JuSearch2.mp4` (zapętlone)
+
 **Arianna:** Aaaa!  
 **Mox:** Aaaa!  
 **Arianna:** Gdzie ja jestem?  

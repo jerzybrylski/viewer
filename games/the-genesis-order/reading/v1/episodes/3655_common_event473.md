@@ -1,5 +1,7 @@
 ## Common Event 473 — SCN - Show Anachorismos
 
+> **🎬 Wstawka wideo:** `Anachorismos.mp4` (zapętlone)
+
 **Arianna:** /shocked  
 **Arianna:** Co to jest? Wzięłaś relikwię z Piekła?  
 **Ella:** Jest taka śliczna.  

@@ -1,5 +1,7 @@
 ## Common Event 405 — SCN - Girls Dinner
 
+> **🎬 Wstawka wideo:** `ErJuMcChHnElDinner.mp4` (zapętlone)
+
 **Hannah:** Masz ładne włosy, Ello.  
 **Ella:** Podoba ci się?  
 **Judy:** Różowy to taki ładny kolor.  
@@ -56,7 +58,7 @@
 **Chloe:** Kiedy wszyscy skończą jeść, możemy przenieść się z rozmową do salonu.  
 **Erica:** Brzmi dobrze.  
 **Ella:** Kolacja była pyszna.  
-**Judy:** Dzięki Mox.  
+**Judy:** Dzięki Moxowi.  
 **Hannah:** Lepiej schowajmy alkohol. Nie chcemy, żeby Heather wiedziała, że piliśmy.  
 
 <sub>Źródłowe ID (przykłady): tgo:custom_dialogue:4a7a65a2ca4ea0232ee8, tgo:custom_dialogue:219a5fbdd8153d66b90b, tgo:custom_dialogue:f191f78bfbbe83851523, tgo:custom_dialogue:20dae6793892983617d8, tgo:custom_dialogue:4dd4e124c487e8bee5e5, tgo:custom_dialogue:d67cd814123622945816, tgo:custom_dialogue:56961f90b843d4fcf048, tgo:custom_dialogue:43cf14d1115890cd6240</sub>

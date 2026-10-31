@@ -1,0 +1,144 @@
+## Common Event 144 — CALL Erica
+
+**Erica:** /greet  
+**Mox:** Chcesz wpaść do mnie?  
+**Erica:** Chcesz się spotkać, Mox?  
+**Mox:** Jeśli masz chwilę, wpadnij.  
+**Erica:** Już do ciebie jadę.  
+**Erica:** Ktoś tu mieszka?... To chyba nie to miejsce. 
+*〔Wskazówka: Ta biedna kobieta przestraszyła się twojego domu. Spróbuj urządzić go ładniej.〕*
+
+---
+
+## Mapa 013 — Centrum handlowe / event 49 / strona 1
+
+**Henry:** Znalazłem w lesie więcej dowodów.  
+**Diana:** Widać, że Gildia nadal działa w tej okolicy.  
+**Mox:** Hej. To ten facet, który rozmawiał wczoraj z Tashą.  
+**Diana:** Duncan nie tylko się ukrywa. Przyjechał tu w jakimś celu.  
+**Henry:** Coraz mniej wierzę, że znajdziemy go tutaj.  
+**Diana:** Pokaż, co znalazłeś.  
+**Henry:** Spotkajmy się w lesie o zmierzchu.  
+**Diana:** Do zobaczenia, Henry.  
+
+---
+
+## Mapa 030 — Restauracja / event 11 / strona 1
+
+**Postać niezależna:** Moja żona mnie zdradza! Jaką koszulę ma na sobie ten drań?  
+**Wybór gracza:** Niebieski
+**Postać niezależna:** Skopię mu tyłek!  
+
+---
+
+## Mapa 005 — Channel 4 / event 43 / strona 1
+
+**Postać niezależna:** Miałeś rację. Jesteś całkiem niezłym detektywem. Oto nagroda.  
+
+---
+
+## Mapa 014 — Sklep / event 44 / strona 1
+
+**Mox:** /fail  
+**Mox:** Nie potrafię skoczyć na tyle wysoko, żeby tego dosięgnąć.  
+
+---
+
+## Mapa 042 — Na zachód od wejścia / event 28 / strona 1
+
+**Zakapturzona postać:** /greet  
+**Mox:** /greet  
+**Zakapturzona postać:** Zakopałem posąg pod drzewem, ale zapomniałem gdzie.  
+**Zakapturzona postać:** Na terenie rezydencji można znaleźć wiele rzeczy.  
+
+---
+
+## Mapa 011 — Siłownia / event 22 / strona 1
+
+> **Ścieżka warunkowa:** Erica went back to work: wyłączony.
+
+**Postać niezależna:** Jeśli chcesz korzystać ze wszystkich udogodnień, musisz wykupić karnet.  
+**Mox:** Ile kosztuje karnet?  
+**Postać niezależna:** Dwadzieścia dolarów miesięcznie.  
+**Wybór gracza:** Zapłać $20 za członkostwo
+**Postać niezależna:** Dziękujemy za zapisanie się. Masz teraz dostęp do szatni.  
+
+---
+
+## Mapa 045 — Strefa szafek / event 10 / strona 1
+
+**Mox:** Słyszę coś na szafce. Ale nie doskoczę tak wysoko, by to dosięgnąć.  
+*〔Wskazówka: Znalazłeś parę butów do skakania! Możesz teraz skakać, by dosięgać różnych rzeczy!〕*
+
+---
+
+## Mapa 045 — Strefa szafek / event 10 / strona 2
+
+**Mox:** Halo?  
+**Ella:** Kto to?  
+**Mox:** To ja, Mox.  
+**Ella:** Znalazłeś mój telefon!  
+**Mox:** Owszem. Był na szafce.  
+**Ella:** Głupia ja. Pewnie go tam zgubiłam.  
+**Ella:** Spotkajmy się w barze, tam go od ciebie odbiorę.  
+**Mox:** Dick's Grill?  
+**Ella:** Tak, ten.  
+**Mox:** Jasne.  
+**Ella:** /thanks  
+
+---
+
+## Mapa 031 — Sklep XXX / event 8 / strona 3
+
+**Tasha:** Znowu pan, detektywie?  
+**Mox:** Tylko wpadłem na chwilę.  
+**Henry:** To twoja znajoma, Tasho?  
+**Tasha:** Prowadzi śledztwo w sprawie Madalyn.  
+**Henry:** Madalyn?  
+**Tasha:** Jest tutaj, w North Santiva, prawda?  
+**Mox:** Eee… Tego nie wiemy.  
+**Henry:** Co jest, do cholery? Ona mnie śledzi?  
+**Mox:** Skąd znasz Madalyn?  
+**Tasha:** Henry nieźle się z nią bawił.  
+**Henry:** To nie jego sprawa.  
+**Mox:** Ty też byłaś w Cape Vedra?  
+**Henry:** Ile mu powiedziałaś, Tasho?  
+**Tasha:** Przestań się martwić.  
+**Mox:** Słyszałem te niewiarygodne opowieści.  
+**Tasha:** Widzisz? Nawet mi nie wierzy.  
+**Mox:** To morderczyni. Dopadnę ją.  
+**Henry:** To ty prowadzisz sprawę Madalyn Rose?  
+**Mox:** Eee… Tak. To ja.  
+**Henry:** Powodzenia, stary. Przyda ci się.  
+**Mox:** Możesz mi coś doradzić?  
+**Henry:** Nigdy jej nie złapiesz…  
+**Henry:** Nawet jeśli ją znajdziesz, nie pozwoli ci wygrać.  
+**Mox:** Nie boję się starej kobiety. Nawet jeśli jest opętana przez demona.  
+**Mox:** Ale powiedz mi: co cię sprowadza do North Santiva?  
+**Henry:** Jestem na wakacjach.  
+**Tasha:** Wygląda na to, że dobrze się dogadaliście.  
+**Mox:** O co chodzi? Coś kombinujecie.  
+**Tasha:** Jeśli o to pytasz, nie przyszliśmy tu po Madalyn.  
+**Mox:** Możesz być trochę bardziej pomocna?  
+**Tasha:** Rozbijemy Gildię Eclipse.  
+**Mox:** Naprawdę mówisz poważnie?  
+**Tasha:** Coś nie tak, panie detektywie? Nie wie pan, że Gildia upada?  
+**Mox:** Gildia rozpada się przez wewnętrzne konflikty.  
+**Tasha:** A jak myślisz, kto podpalił lont?  
+**Mox:** Mów dalej.  
+**Tasha:** Jeśli chcesz nam pomóc, odwróć uwagę Madalyn.  
+**Mox:** Nie jestem tu, żeby ci pomagać. Jeśli coś wiesz, lepiej mi powiedz.  
+**Tasha:** Wiesz już wystarczająco dużo.  
+**Mox:** Nie chcesz chyba znaleźć się po złej stronie prawa, co?  
+**Tasha:** Ale słodko wyglądasz, kiedy mi grozisz. Ile masz lat?  
+**Mox:** Co!? Mam 27 lat!  
+**Tasha:** O niczym nie decydujesz. Robisz to tylko, żeby zaimponować szefowej.  
+**Mox:** Skąd…? Hej, to nie twoja sprawa.  
+**Tasha:** Wygląda na to, że doszliśmy do porozumienia.  
+**Mox:** Znajdę Madalyn.  
+**Tasha:** Mam nadzieję, że ją znajdziesz, Mox. Naprawdę mam taką nadzieję.  
+**Mox:** Na razie, Tasho.  
+**Mox:** Podsłuchałem, jak rozmawiali o spotkaniu w lesie. Powinienem ich śledzić i sprawdzić, czego się dowiem.  
+
+---
+

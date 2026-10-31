@@ -1,5 +1,7 @@
 ## Common Event 306 — SCN - Erica Jon Meet
 
+> **🎬 Wstawka wideo:** `JoChMc.mp4` (zapętlone)
+
 **Mox:** Jestem detektywem Canmore'em. Możesz mówić mi Mox.  
 **Jon:** Cóż, Mox, jeśli chodzi o skargę na hałas, spóźniłeś się jakieś trzy godziny.  
 **Mox:** Szukam Eriki Abraham.  

@@ -1,5 +1,7 @@
 ## Common Event 414 — SCN - Heather Kiss Ants
 
+> **🎬 Wstawka wideo:** `HeMcBYKs.mp4` (zapętlone)
+
 **Ella:** Wygląda na to, że ktoś jest pod wrażeniem.  
 **Chloe:** Aaargh!  
 

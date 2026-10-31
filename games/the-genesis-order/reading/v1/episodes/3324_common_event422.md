@@ -1,14 +1,22 @@
 ## Common Event 422 — SCN - Brian reading
 
+> **🎬 Wstawka wideo:** `BrRead1.mp4` (zapętlone)
+
 **Mox:** Czy to właściwa książka?  
 **Brian:** To ta książka. Ale czy są w niej jakieś przydatne informacje?  
 **Erica:** A ta? Jest tu mowa o posągu noszonym przez czarownice.  
 **Chloe:** Posąg? Brzmi obiecująco.  
+
+> **🎬 Wstawka wideo:** `BrRead2.mp4` (zapętlone)
+
 **Brian:** ‘’Demony i poganie sprowadzają na siebie utratę łaski Niebios, czcząc fałszywego bożka.’’  
 **Judy:** To może oznaczać niemal wszystko. Jest tyle fałszywych bożków.  
 **Erica:** ‘’Plemię pogan, prowadzone przez kobiety i kierowane przez diabły z głębin, posługuje się Idolem Dusz, by sprowadzić armię upadłych.’’  
-**Erica:** Hmm… Czarownice z Casuli strzegły Toma Leolo. Może to o nich mowa jako o poganach w tej książce?  
+**Erica:** Hmm… Czarownice z Casuli strzegły Tomy Leolo. Może to o nich mowa jako o poganach w tej książce?  
 **Tasha:** Są tu jakieś ilustracje?  
+
+> **🎬 Wstawka wideo:** `BrRead3.mp4` (zapętlone)
+
 **Brian:** Poza tą nie ma żadnych ilustracji…  
 **Erica:** Wygląda na miejsce odprawiania rytuałów.  
 **Judy:** Ojej!  

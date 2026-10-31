@@ -1,10 +1,21 @@
 ## Common Event 303 — SCN - Heather Home
 
+> **🎬 Wstawka wideo:** `HeHomesale1.mp4` (zapętlone)
+
 **Heather:** No już, weź to, kochanie. Jest twoje.  
+
+> **🎬 Wstawka wideo:** `HeHomesale2.mp4` (zapętlone)
+
 **Mox:** Dzięki, Heather. Tak wiele dla mnie zrobiłaś.  
 **Heather:** Oczywiście, kochanie. Jesteś moim dużym chłopcem.  
+
+> **🎬 Wstawka wideo:** `HeHomesale3.mp4` (zapętlone)
+
 **Heather:** O! Ale masz mięśnie!  
 **Mox:** Cholera! Nie oszczędzasz się, co?  
+
+> **🎬 Wstawka wideo:** `HeHomesale4.mp4` (zapętlone)
+
 **Heather:** Powiedziałabym, że całkiem dobrze o siebie dbam. Co ty na to?  
 **Mox:** Jak zawsze piękna.  
 **Heather:** To mój chłopak.  

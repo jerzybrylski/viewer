@@ -1,5 +1,7 @@
 ## Common Event 307 — SCN - Interragation
 
+> **🎬 Wstawka wideo:** `ErInt1.mp4` (zapętlone)
+
 **Melissa:** Kiedy poznałaś Charlesa Wilkesa?  
 **Erica:** Dopiero niedawno zaczęłam dla niego pracować.  
 **Mox:** Ale byłaś przy nim przez co najmniej kilka tygodni przed jego śmiercią, prawda?  
@@ -9,11 +11,17 @@
 **Melissa:** Czyli nigdy nie mieszkałaś z nimi w rezydencji?  
 **Erica:** Jestem podejrzana?  
 **Melissa:** Na razie nie...  
+
+> **🎬 Wstawka wideo:** `ErInt2.mp4`
+
 **Narrator / mówca nieustalony:** Wróćmy do tej kobiety.  
 **Narrator / mówca nieustalony:** Mówiłem… Nie znałem jej.  
 **Narrator / mówca nieustalony:** Czy może ją pani opisać?  
 **Narrator / mówca nieustalony:** Była wysoka i dojrzała, ale wciąż piękna.  
 **Narrator / mówca nieustalony:** Czy słyszała pani kiedyś nazwisko Madalyn Rose?  
+
+> **🎬 Wstawka wideo:** `ErInt3.mp4` (zapętlone)
+
 **Erica:** Tak.  
 **Mox:** To ona!  
 **Erica:** Co się dzieje? Kim ona jest?  

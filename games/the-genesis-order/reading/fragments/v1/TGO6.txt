@@ -1,0 +1,153 @@
+
+## Mapa 004 — Apartamenty / event 29 / strona 1
+
+**Jon:** Wisisz mi czynsz, młoda damo!  
+**Jon:** To już trzeci miesiąc z rzędu!  
+**Erica:** Mówiłam, że w przyszłym tygodniu zapłacę czynsz. Muszę tylko odebrać wypłatę.  
+**Jon:** Wisisz mi za trzy miesiące, młoda damo!  
+**Erica:** Wiem!  
+**Mox:** /greet  
+**Mox:** Wszystko w porządku?  
+**Jon:** A ty, do cholery, kim jesteś?  
+
+---
+
+## Common Event 306 — SCN - Erica Jon Meet
+
+> **🎬 Wstawka wideo:** `JoChMc.mp4` (zapętlone)
+
+**Mox:** Jestem detektywem Canmore'em. Możesz mówić mi Mox.  
+**Jon:** Cóż, Mox, jeśli chodzi o skargę na hałas, spóźniłeś się jakieś trzy godziny.  
+**Mox:** Szukam Eriki Abraham.  
+**Jon:** Ma kłopoty?  
+**Erica:** O co, do cholery, chodzi?  
+**Jon:** Nawet jeśli trafisz do więzienia, nadal będziesz mi winna pieniądze.  
+**Mox:** Eriko?  
+**Erica:** Spadaj, Jon.  
+**Jon:** Masz tydzień, Eriko.  
+
+---
+
+## Mapa 004 — Apartamenty / event 29 / strona 2
+
+**Mox:** Przepraszam, że przeszkadzam.  
+**Erica:** Czemu tu jesteś? Chodzi o Charlesa?  
+**Mox:** Jesteś pokojówką w rezydencji Wilkesów?  
+**Erica:** Na razie…  
+**Erica:** Nie wiem, jak długo jeszcze, skoro rezydencja ma nowego właściciela.  
+**Mox:** Rozmawialiśmy z Lillian.  
+**Erica:** Co ja mam z tym wspólnego? Myślałam, że umarł na zawał serca.  
+**Mox:** Bardziej interesuje nas jego żona.  
+**Erica:** Żona Charlesa?  
+**Mox:** Znałaś ją?  
+**Erica:** Zatrudniła mnie… Ale nie powiedziałabym, że ją znałam.  
+**Mox:** Mamy powody sądzić, że jest poszukiwaną przestępczynią.  
+**Erica:** Mówisz poważnie?  
+**Mox:** Cóż… To znaczy, może.  
+**Erica:** Co? Jesteś tu nowy?  
+**Mox:** /shock  
+**Mox:** Nie! Muszę cię przesłuchać.  
+**Erica:** To zadawaj pytania.  
+**Mox:** Na komisariacie. To dobrowolne… Ale naprawdę byłbym wdzięczny za rozmowę.  
+**Erica:** Mam wybór?  
+**Mox:** Na razie tak.  
+**Erica:** Ta kobieta była szalona. Ale nie wiem, czy zabiłaby własnego męża.  
+**Mox:** Masz czas, żeby porozmawiać na komisariacie? To niedaleko.  
+**Erica:** Wiem, gdzie jest komisariat.  
+**Mox:** Moja szefowa chętnie usłyszy, co masz do powiedzenia.  
+**Erica:** Dobrze. Pójdę z tobą.  
+**Mox:** Świetnie!  
+**Mox:** /order  
+
+---
+
+## Mapa 032 — Recepcja / event 15 / strona 1
+
+**Melissa:** Erica Abraham?  
+**Erica:** /greetback  
+**Mox:** Zgodziła się z nami porozmawiać.  
+**Melissa:** Zapiszmy to w protokole…  
+**Melissa:** /order  
+**Erica:** Jestem podejrzana?  
+**Mox:** Spokojnie. Po prostu jest trochę surowa.  
+
+---
+
+## Mapa 035 — Pokój przesłuchań / event 4 / strona 1
+
+**Melissa:** Proszę. Proszę usiąść.  
+**Erica:** Ile to jeszcze potrwa?  
+**Mox:** Może pani wyjść, ale…  
+**Melissa:** Mam tylko kilka pytań. To nie potrwa długo.  
+**Erica:** Postaram się pomóc najlepiej jak potrafię.  
+
+---
+
+## Common Event 307 — SCN - Interragation
+
+> **🎬 Wstawka wideo:** `ErInt1.mp4` (zapętlone)
+
+**Melissa:** Kiedy poznałaś Charlesa Wilkesa?  
+**Erica:** Dopiero niedawno zaczęłam dla niego pracować.  
+**Mox:** Ale byłaś przy nim przez co najmniej kilka tygodni przed jego śmiercią, prawda?  
+**Melissa:** Próbujemy ustalić, z kim zadawał się pan Wilkes.  
+**Erica:** Widziałam go tylko przez chwilę. Była tam jednak pewna kobieta… jego żona.  
+**Erica:** Większość czasu spędzała z nim. Nie wiem jednak, kim była.  
+**Melissa:** Czyli nigdy nie mieszkałaś z nimi w rezydencji?  
+**Erica:** Jestem podejrzana?  
+**Melissa:** Na razie nie...  
+
+> **🎬 Wstawka wideo:** `ErInt2.mp4`
+
+**Narrator / mówca nieustalony:** Wróćmy do tej kobiety.  
+**Narrator / mówca nieustalony:** Mówiłem… Nie znałem jej.  
+**Narrator / mówca nieustalony:** Czy może ją pani opisać?  
+**Narrator / mówca nieustalony:** Była wysoka i dojrzała, ale wciąż piękna.  
+**Narrator / mówca nieustalony:** Czy słyszała pani kiedyś nazwisko Madalyn Rose?  
+
+> **🎬 Wstawka wideo:** `ErInt3.mp4` (zapętlone)
+
+**Erica:** Tak.  
+**Mox:** To ona!  
+**Erica:** Co się dzieje? Kim ona jest?  
+**Melissa:** Jak wyglądała ich relacja?  
+**Erica:** Z tej dwójki to Madalyn zdawała się wszystkim kierować.  
+**Erica:** Nie wiem, jak to działało. Myślałam jednak, że była jakąś kapłanką sekty.  
+**Mox:** Dlaczego tak uważasz?  
+**Erica:** Urządzili w rezydencji coś w rodzaju kościoła dla osób z niepełnosprawnościami.  
+**Melissa:** Nazywasz to sektą?  
+**Erica:** Całe to miejsce przyprawia mnie o dreszcze. Tamta dwójka zachowywała się bardzo dziwnie.  
+**Melissa:** Chyba mamy już to, czego potrzebujemy.  
+**Erica:** Powiedz mi. Kim była Madalyn?  
+**Mox:** Jeśli to ta osoba, o której myślimy, ma na sumieniu poważne rzeczy.  
+**Melissa:** Muszę cię ostrzec, Erico…  
+**Melissa:** Madalyn Rose jest poszukiwana za morderstwo i porwanie.  
+**Erica:** O mój Boże.  
+**Mox:** Lillian Wilkes powiedziała nam, że Madalyn manipulowała Charlesem.  
+**Erica:** To ma sens. Właśnie to widziałam…  
+**Erica:** Owinęła go sobie wokół palca.  
+**Melissa:** Jeśli przypomnisz sobie coś, co pomoże nam ją znaleźć, daj nam znać.  
+**Erica:** Mogę bezpiecznie dalej pracować w rezydencji? Naprawdę potrzebuję pieniędzy.  
+**Mox:** Ktoś na miejscu mógłby pomóc w śledztwie.  
+**Melissa:** Sama musisz zdecydować, ale osobiście nie sądzę, by miała tam wrócić.  
+**Melissa:** Pewnie wykorzystała Charlesa dla pieniędzy, a teraz zniknęła.  
+**Mox:** Tego nie wiemy. Mogła tam być z wielu różnych powodów.  
+**Melissa:** Na dziś koniec.  
+**Melissa:** Odprowadź pannę Abraham do wyjścia.  
+
+---
+
+## Mapa 035 — Pokój przesłuchań / event 5 / strona 1
+
+**Erica:** Masz rację. Jest nie do wytrzymania.  
+**Mox:** Nie chce dalej drążyć sprawy Wilkesa.  
+**Erica:** A co pan myśli? Myśli pan, że Madalyn chodziło tylko o pieniądze?  
+**Mox:** Nie wiem. Ale chciałbym ją dorwać.  
+**Erica:** Cóż… Jeśli znajdę coś więcej, dam znać.  
+**Mox:** /thanks  
+**Mox:** /order  
+**Mox:** Odprowadzę panią do wyjścia.  
+
+**Mox:** Lepiej żebym dotarł do domu Heather. Nie chcę spóźnić się na kolację.  
+*〔Wskazówka: Heather czeka na ciebie w swoim domu razem z Carol i Chloe.〕*
+

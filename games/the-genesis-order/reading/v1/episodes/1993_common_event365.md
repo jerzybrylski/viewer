@@ -1,5 +1,7 @@
 ## Common Event 365 — SCN - Andrea Changes
 
+> **🎬 Wstawka wideo:** `AdChng1.mp4` (zapętlone)
+
 **Andrea:** No? Mów.  
 **Mox:** Eee… Na ciele ojca Zephaniaha znaleziono DNA Madalyn.  
 **Andrea:** Kto?  
@@ -7,13 +9,22 @@
 **Mox:** Madalyn z jakiegoś powodu zabija księży… i z jakiegoś powodu zabiła Charlesa.  
 **Andrea:** Wygląda na to, że masz niewiele poszlak.  
 **Mox:** Jeszcze nie. Ale na pewno coś znajdę.  
+
+> **🎬 Wstawka wideo:** `AdChng2.mp4` (zapętlone)
+
 **Mox:** Och, eee…  
 **Andrea:** Dowiedziałeś się czegoś nowego o powiązaniach Charlesa z Gildią?  
 **Mox:** Cóż… Nic nowego. Ale wciąż to sprawdzam.  
+
+> **🎬 Wstawka wideo:** `AdChng3.mp4` (zapętlone)
+
 **Andrea:** Jeśli czegoś się dowiesz, najpierw przyjdź do mnie.  
 **Mox:** A co z Melissą?  
 **Andrea:** Oboje powinniście rozmawiać o tej sprawie tylko ze mną…  
 **Andrea:** Jestem z nią powiązana w sposób, o którym nie mogę mówić.  
+
+> **🎬 Wstawka wideo:** `AdChng4.mp4` (zapętlone)
+
 **Mox:** Andreo!  
 **Andrea:** Co się stało, Mox?  
 **Mox:** Po prostu…  
@@ -24,10 +35,19 @@
 **Andrea:** Dotknij ich.  
 **Mox:** Serio?  
 **Andrea:** Nie mam nic przeciwko temu, żeby się nimi pochwalić… Nikt nas przecież nie widzi.  
+
+> **🎬 Wstawka wideo:** `AdChng5.mp4` (zapętlone)
+
 **Mox:** Cholera, Andreo. Są świetne.  
 **Andrea:** Wiedziałam, że ci się spodobają.  
+
+> **🎬 Wstawka wideo:** `AdChng6.mp4` (zapętlone)
+
 **Andrea:** Efekt zdrowego trybu życia.  
 **Mox:** Niewiele kobiet w twoim wieku może pochwalić się takim biustem.  
+
+> **🎬 Wstawka wideo:** `AdChng7.mp4` (zapętlone)
+
 **Andrea:** Dość tych igraszek. Dalej, Mox…  
 **Andrea:** Wiem już wszystko, co muszę.  
 **Andrea:** Jeśli chcesz zbadać sprawę tego księdza, proszę bardzo…  

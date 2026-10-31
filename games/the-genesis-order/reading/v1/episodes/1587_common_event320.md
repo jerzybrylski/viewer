@@ -1,5 +1,7 @@
 ## Common Event 320 — SCN - Ella Diner
 
+> **🎬 Wstawka wideo:** `ElDicks.mp4` (zapętlone)
+
 **Ella:** Bardzo dziękuję za znalezienie mojego telefonu.  
 **Mox:** Cieszę się, że mogłem pomóc.  
 **Ella:** Nie przeglądałeś mojego telefonu, prawda?  

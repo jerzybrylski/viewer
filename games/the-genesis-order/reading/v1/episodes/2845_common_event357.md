@@ -1,5 +1,7 @@
 ## Common Event 357 — SCN - Heather Chloe Handjob
 
+> **🎬 Wstawka wideo:** `HeChHj1.mp4` (zapętlone)
+
 **Chloe:** Cholera. Zapomniałam, jaki jest duży.  
 **Mox:** Nie zrób sobie krzywdy.  
 **Chloe:** Czy będzie bolało?  
@@ -7,12 +9,23 @@
 **Chloe:** Ile zajmie ci… dojście?  
 **Mox:** To zależy.  
 **Chloe:** No to jazda…  
+
+> **🎬 Wstawka wideo:** `HeChHj2.mp4`
+
+> **🎬 Wstawka wideo:** `HeChHj3.mp4` (zapętlone)
+
 **Heather:** Chloe! Nie chciałam…  
 **Chloe:** Mamo! Co jest, do cholery?! Nie umiesz zapukać?  
 **Heather:** Ja tylko… Myślałam…  
 **Chloe:** Argh!!! Idę do Hannah!  
+
+> **🎬 Wstawka wideo:** `HeChHj4.mp4`
+
 **Heather:** Chloe! Zaczekaj!  
 **Mox:** No cholera.  
+
+> **🎬 Wstawka wideo:** `HeChHj5.mp4` (zapętlone)
+
 **Heather:** Bardzo przepraszam, kochanie. Nie wiedziałam, że jesteście… tak blisko.  
 **Mox:** Heather… To nie tak… My tylko…  
 **Heather:** Spokojnie, skarbie. Nie musisz się tłumaczyć.  
@@ -23,11 +36,17 @@
 **Heather:** Serio?  
 **Mox:** Wiem, że to brzmi dziwnie. Ale… ona jest taka…  
 **Mox:** Nie ma żadnego doświadczenia.  
+
+> **🎬 Wstawka wideo:** `HeChHj6.mp4` (zapętlone)
+
 **Heather:** No proszę, jakie to słodkie…  
 **Heather:** Ale nie robisz tego bezinteresownie.  
 **Mox:** Heather?  
 **Heather:** Zepsułam wam zabawę, prawda?  
 **Mox:** Co robisz?  
+
+> **🎬 Wstawka wideo:** `HeChHj7.mp4` (zapętlone)
+
 **Heather:** Chodź, kochanie. Zajmę się tobą.  
 **Mox:** Co?!  
 **Heather:** Śmiało. Możesz dotykać.  
@@ -37,6 +56,9 @@
 **Heather:** Nie jesteś już małym chłopcem. Nie bój się tak.  
 **Mox:** Ale…  
 **Heather:** Żadnych ale, młody człowieku. Dotknij mnie… wszystko w porządku.  
+
+> **🎬 Wstawka wideo:** `HeChHj8.mp4` (zapętlone)
+
 **Heather:** No i?  
 **Mox:** To… przyjemne.  
 **Heather:** Tylko przyjemne?  
@@ -46,21 +68,36 @@
 **Heather:** Nigdy nie patrzyłeś na mnie jak na obiekt pożądania.  
 **Mox:** Nie.  
 **Heather:** Już dobrze, kochanie.  
+
+> **🎬 Wstawka wideo:** `HeChHj9.mp4` (zapętlone)
+
 **Heather:** Muszę przyznać, że tak szybko dorosłeś, że nie wiedziałam, jak zareagować…  
 **Heather:** Bardzo się do ciebie przywiązałam.  
 **Mox:** Ale…  
 **Heather:** Już dobrze, Mox. Teraz już wszystko w porządku.  
+
+> **🎬 Wstawka wideo:** `HeChHj10.mp4` (zapętlone)
+
 **Heather:** No proszę. Nie wyobrażałam sobie ładniejszego kutasa.  
 **Mox:** Podoba ci się?  
 **Heather:** Oczywiście!  
 **Mox:** Masz niesamowite ciało, Heather.  
+
+> **🎬 Wstawka wideo:** `HeChHj11.mp4` (zapętlone)
+
 **Heather:** Dotknij go, Mox. Możesz.  
 **Mox:** Mam takie mieszane uczucia.  
 **Heather:** Odpuść. Po prostu skup się na chwili.  
 **Mox:** To jest… takie niewłaściwe.  
 **Heather:** Ale wcale nie. Widzę, że jakaś część ciebie wie, że to właściwe.  
+
+> **🎬 Wstawka wideo:** `HeChHj12.mp4`
+
 **Mox:** Heather! Tak szybko doszedłem… Nie wiedziałem…  
 **Heather:** W porządku, Mox. To było ekscytujące.  
+
+> **🎬 Wstawka wideo:** `HeChHj13.mp4` (zapętlone)
+
 **Heather:** Popatrz na mnie, kochanie.  
 **Mox:** …  
 **Heather:** Wszystko dobrze.  

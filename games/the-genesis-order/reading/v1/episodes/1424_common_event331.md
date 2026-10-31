@@ -1,5 +1,7 @@
 ## Common Event 331 — SCN - Carol Blowjob
 
+> **🎬 Wstawka wideo:** `CaBrnBj1.mp4` (zapętlone)
+
 **Carol:** /shock  
 **Mox:** Co? Przecież kazałaś mi go pokazać.  
 **Carol:** Nie sądziłam, że będziesz sztywny jak martwa wiewiórka zimą!  
@@ -9,10 +11,16 @@
 **Mox:** Nie narzekam. Zaufaj mi.  
 **Carol:** Zadowalasz się sam?  
 **Mox:** Nie to miałem na myśli!  
+
+> **🎬 Wstawka wideo:** `CaBrnBj2.mp4` (zapętlone)
+
 **Carol:** Wiesz… Skoro żadne z nas nie szuka związku, może mogłabym wyświadczyć ci przysługę.  
 **Mox:** Carol?  
 **Carol:** Po prostu nie mogę pozwolić, żebyś wyszedł, zanim się tym nie zajmę.  
 **Mox:** Co sugerujesz?  
+
+> **🎬 Wstawka wideo:** `CaBrnBj3.mp4` (zapętlone)
+
 **Carol:** No dalej, Mox. Jesteśmy sami.  
 **Carol:** To lepsze niż robienie sobie dobrze, prawda?  
 **Mox:** No… Oczywiście… Ale…  
@@ -20,16 +28,28 @@
 **Mox:** Nie zostawiłbym cię samej, Carol.  
 **Carol:** Mam trochę więcej doświadczenia niż ty, skarbie…  
 **Carol:** Pamiętaj o mnie, gdy jakaś młoda laska będzie wisiała ci na ramieniu.  
+
+> **🎬 Wstawka wideo:** `CaBrnBj4.mp4` (zapętlone)
+
 **Mox:** O kurwa!  
 **Mox:** Nie mogę uwierzyć, że to robimy.  
+
+> **🎬 Wstawka wideo:** `CaBrnBj5.mp4` (zapętlone)
+
 **Mox:** To takie przyjemne.  
 **Mox:** Ach… Ach… Nie tak szybko.  
+
+> **🎬 Wstawka wideo:** `CaBrnBj6.mp4` (zapętlone)
+
 **Carol:** Znam cię lepiej, niż ci się wydaje, Mox.  
 **Mox:** Cholera, Carol.  
 **Carol:** To nie był pierwszy raz, kiedy byłeś niegrzeczny.  
 **Mox:** Ja… nie wiem, o czym mówisz.  
 **Carol:** Myślałeś, że nie zauważyłam, że zniknęły mi majtki?  
 **Mox:** Co!? To było chyba całe dekady temu!  
+
+> **🎬 Wstawka wideo:** `CaBrnBj7.mp4` (zapętlone)
+
 **Carol:** Nie musisz się tłumaczyć. Mówię tylko, że wiem, co rozpaliło w tobie iskrę.  
 **Mox:** Nie miałem pojęcia, że o tym wiesz.  
 **Carol:** No… I co o tym myślałeś?  
@@ -42,11 +62,20 @@
 **Mox:** Szczerze… Wciąż pamiętam ten zapach.  
 **Mox:** Uwielbiałem go.  
 **Carol:** To musi być spełnienie marzeń.  
+
+> **🎬 Wstawka wideo:** `CaBrnBj8.mp4` (zapętlone)
+
 **Mox:** O tak! Właśnie tak!  
 **Mox:** Byłem młody… Waliłem konia do wszystkiego.  
 **Mox:** W końcu byłem napalonym chłopakiem.  
+
+> **🎬 Wstawka wideo:** `CaBrnBj9.mp4` (zapętlone)
+
 **Mox:** Cholera. Nie wiem, ile jeszcze wytrzymam.  
 **Mox:** Zaraz doprowadzisz mnie do orgazmu!  
+
+> **🎬 Wstawka wideo:** `CaBrnBj10.mp4`
+
 **Carol:** Mogłeś mnie najpierw ostrzec, wiesz?  
 **Mox:** Próbowałem!...  
 **Mox:** Przepraszam, Carol.  

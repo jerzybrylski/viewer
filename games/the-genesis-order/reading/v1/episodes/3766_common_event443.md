@@ -1,6 +1,11 @@
 ## Common Event 443 — SCN - Lilith Reveal
 
+> **🎬 Wstawka wideo:** `LiRvl1.mp4`
+
 **Lilith:** Witaj, Mox.  
+
+> **🎬 Wstawka wideo:** `LiRvl2.mp4` (zapętlone)
+
 **Judy:** Mox!  
 **Mox:** Puść Judy!...  
 **Lilith:** Heh…  
@@ -10,20 +15,32 @@
 **Demon 1:** Zerżnijmy mu rozum!  
 **Lilith:** To nie będzie konieczne.  
 **Mox:** Ojciec Solomon tu przyjdzie, a wtedy pożałujesz.  
+
+> **🎬 Wstawka wideo:** `LiRvl3.mp4` (zapętlone)
+
 **Demon 2:** Oddaj ją nam, Matko.  
 **Demon 3:** Proszę! Chcę skosztować kobiety Bożej.  
 **Mox:** Zostaw ją w spokoju!  
 **Lilith:** Oczywiście zostawimy ją w spokoju. Nic złego jej się nie stanie.  
 **Demon 2:** Awww!  
+
+> **🎬 Wstawka wideo:** `LiRvl4.mp4` (zapętlone)
+
 **Lilith:** Mox, nie możesz pozwolić, by ten ksiądz znów się tu zbliżył.  
 **Mox:** Boisz się go.  
 **Lilith:** Chce, by zakonnica bezpiecznie wróciła do domu. Ty pewnie też tego chcesz.  
 **Mox:** Masz Tomę. Dałem ci to, czego potrzebowałaś, więc puść Judy.  
+
+> **🎬 Wstawka wideo:** `LiRvl5.mp4` (zapętlone)
+
 **Lilith:** Rozejrzyj się, Mox. To świat, który nazywamy domem od zarania dziejów.  
 **Mox:** Jest do dupy… Rozumiem.  
 **Lilith:** Wasz świat dostał fałszywą matkę. Bóg tego świata odebrał mi wszystko…  
 **Lilith:** Pora zakończyć to cierpienie.  
 **Mox:** Kim jesteś?  
+
+> **🎬 Wstawka wideo:** `LiRvl6.mp4` (zapętlone)
+
 **Lilith:** Jestem Lilith, prawdziwą matką ludzkości.  
 **Mox:** Lilith? Brzmi znajomo.  
 **Lilith:** Twój umysł jest czysty, nieskażony religiami tego świata.  
@@ -41,9 +58,15 @@
 **Lilith:** Bóg z góry patrzy na nas z wysoka, ale pod moim przewodnictwem raj może należeć do nas.  
 **Mox:** Chcesz wywrócić naszą cywilizację do góry nogami? Nikt tego nie poprze.  
 **Lilith:** Heh. Nie masz pojęcia, jaki świat zamierzam stworzyć… Pokażę wszystkim, czego im brakowało.  
+
+> **🎬 Wstawka wideo:** `LiRvl7.mp4`
+
 **Judy:** Co za rozkosz!  
 **Lilith:** Mam tego znacznie więcej.  
 **Brian:** Nie tak szybko, Lilith!  
+
+> **🎬 Wstawka wideo:** `LiRvl8.mp4` (zapętlone)
+
 **Demon 1:** Aaargh!  
 **Demon 2:** Boli!  
 **Demon 3:** Odwróć wzrok!  

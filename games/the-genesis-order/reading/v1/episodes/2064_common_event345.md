@@ -1,6 +1,11 @@
 ## Common Event 345 — SCN - Andrea Dinner
 
+> **🎬 Wstawka wideo:** `AnDnr1.mp4`
+
 **Mox:** Widzę, że masz wyrobiony gust artystyczny.  
+
+> **🎬 Wstawka wideo:** `AnDnr2.mp4` (zapętlone)
+
 **Mox:** Szczególnie podoba mi się to dzieło. Baletnica w jednej z odmian pozy attitude?  
 **Andrea:** Bardzo dobrze, Mox. Widzę, że masz pewne obycie z kulturą.  
 **Mox:** Haha, niektórzy powiedzieliby, że jestem człowiekiem kultury. A może po prostu zgadłem.  
@@ -11,11 +16,19 @@
 **Andrea:** Cechy, które z czasem zanikają.  
 **Mox:** Nie powiedziałbym. Uważam, że masz naturalny wdzięk silnej, dojrzałej kobiety.  
 **Mox:** Jestem pewien, że w odpowiednich okolicznościach także potrafiłabyś wykazać się wigorem.  
+
+> **🎬 Wstawka wideo:** `AnDnr3.mp4` (zapętlone)
+
 **Andrea:** Widać, że wciąż jesteś młody.  
 **Andrea:** Będę musiała mieć na ciebie oko.  
 **Mox:** Ty tu rządzisz.  
 **Andrea:** Choć uwielbiam dzielić się z tobą moją pasją, nie pozwólmy, by kolacja wystygła.  
 **Mox:** Prowadź.  
+
+> **🎬 Wstawka wideo:** `AnDnr4.mp4`
+
+> **🎬 Wstawka wideo:** `AnDnr5.mp4` (zapętlone)
+
 **Andrea:** Miło mieć towarzystwo przy kolacji. Ostatni raz miałam gości, gdy odwiedziła mnie córka.  
 **Mox:** Masz dzieci?  
 **Andrea:** Syna i córkę. Właściwie oboje są mniej więcej w twoim wieku.  
@@ -27,6 +40,9 @@
 **Andrea:** Całkiem możliwe?  
 **Mox:** Musiałbym najpierw spróbować, żeby się upewnić.  
 **Andrea:** Hahaha, naprawdę jesteś odważny, co?  
+
+> **🎬 Wstawka wideo:** `AnDnr6.mp4` (zapętlone)
+
 **Andrea:** Najpierw zaglądasz do zastrzeżonych akt Gildii Eclipse, a potem flirtujesz ze swoją przełożoną.  
 **Andrea:** Jeśli się nie pilnujesz, możesz wkrótce wpaść w niezłe tarapaty, Mox.  
 **Mox:** Przepraszam, że przeglądałem akta Gildii.  
@@ -44,6 +60,9 @@
 **Andrea:** Co daje ci podstawy, by tak sądzić?  
 **Mox:** Cóż… nie mogę z całą pewnością ujawnić źródła… Wciąż to badam.  
 **Andrea:** Rozumiem.  
+
+> **🎬 Wstawka wideo:** `AnDnr7.mp4` (zapętlone)
+
 **Andrea:** Wbrew temu, co słyszeliście, z przyjemnością informuję, że Gildia wkrótce przejdzie do historii.  
 **Andrea:** Ich istnienie było zniewagą dla świata sztuki. Na szczęście udało mi się ich pokonać.  
 **Mox:** Pracowałaś nad sprawą Gildii?  
@@ -57,6 +76,9 @@
 **Mox:** To nie mogło być łatwe do zorganizowania.  
 **Andrea:** Wymagało to sporo pracy. W końcu odnieśliśmy sukces i poprosiliśmy o pomoc agencje federalne.  
 **Andrea:** Teraz Gildia jest w rozsypce.  
+
+> **🎬 Wstawka wideo:** `AnDnr8.mp4` (zapętlone)
+
 **Andrea:** Ludzi niepokoją jednak wszystkie doniesienia na temat Gildii.  
 **Andrea:** Dlatego jutro udzielę wywiadu dla Channel 4 News.  
 **Andrea:** Gildia dogorywa. Głośne aresztowania w całym stanie wywołały plotki i strach wśród ludzi.  
@@ -71,6 +93,9 @@
 **Mox:** Ja? Przecież oficjalnie nawet nie pracuję nad tą sprawą… Czemu mam być jej twarzą?  
 **Andrea:** Bo jesteś przystojny, spokojny i pewny siebie, Mox. Sama twoja obecność doda ludziom otuchy.  
 **Mox:** Zaraz, czyli mam tam po prostu dobrze wyglądać przed kamerami?  
+
+> **🎬 Wstawka wideo:** `AnDnr9.mp4` (zapętlone)
+
 **Andrea:** Te wyraziste rysy. Ta męska twarz.  
 **Andrea:** Kamera cię pokocha. Publiczność też.  
 **Andrea:** Masz też zapał, jakiego rzadko się widuje. Wiem, że mnie nie zawiedziesz.  
@@ -79,6 +104,9 @@
 **Mox:** Oczywiście.  
 **Mox:** Chętnie pomogę służyć interesowi publicznemu.  
 **Andrea:** I to chciałam usłyszeć, Mox.  
+
+> **🎬 Wstawka wideo:** `AnDnr10.mp4` (zapętlone)
+
 **Andrea:** Jeśli dobrze pójdzie, kto wie — może wyniknie z tego coś więcej.  
 **Mox:** Coś więcej?  
 **Andrea:** Masz potencjał, Mox. To może być dopiero początek długiej kariery.  

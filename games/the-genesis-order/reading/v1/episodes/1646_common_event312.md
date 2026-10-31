@@ -1,5 +1,7 @@
 ## Common Event 312 — SCN - Madalyns Past
 
+> **🎬 Wstawka wideo:** `MadalynPast.mp4`
+
 **Narrator / mówca nieustalony:** Madalyn nie jest demonem. Jej matka była człowiekiem, a ojciec demonem.  
 **Narrator / mówca nieustalony:** Ta historia robi się coraz ciekawsza.  
 **Narrator / mówca nieustalony:** Myślisz, że oszalałem, ale Madalyn potrafi zatruwać umysły.  

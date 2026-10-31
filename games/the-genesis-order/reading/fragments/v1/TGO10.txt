@@ -1,0 +1,253 @@
+
+**Postać niezależna:** W sklepie spożywczym kupisz seksowne zdjęcia! Ależ wspaniały świat!  
+**Postać niezależna:** W szatni dzwoni telefon, który nie chce przestać.  
+
+---
+
+## Mapa 041 — Stodoła / event 22 / strona 1
+
+**Mox:** Cholera… Jest dość ciężka.  
+**Hannah:** Pchaj, Mox! Pchaj!  
+**Carol:** Uważaj na plecy.  
+**Mox:** /success  
+**Hannah:** /excited  
+**Hannah:** /success  
+**Carol:** Dobrze, że mamy w pobliżu silnego faceta.  
+**Chloe:** Wow! Imponujące.  
+**Carol:** Och, to stara błyskotka Casuli.  
+**Hannah:** Znajdujemy je tu cały czas.  
+**Chloe:** Czy to cenne?  
+**Carol:** Pewnie nie. Ale słyszałam, że w tych okolicach trafiają się złote.  
+**Mox:** Masz rację. Niektóre potrafią być drogie. Tak słyszałem.  
+**Chloe:** Wow! Poszukajmy złotych!  
+**Carol:** Spokojnie, Chloe. Potrzebujemy licencji, żeby zbierać te stare zabawki.  
+**Hannah:** Więcej zarobimy na warzywach i zbożu. Ale skoro tak ci się podoba, możesz to mieć, Mox.  
+**Mox:** Dzięki. Może znam licencjonowanego handlarza, który to kupi.  
+**Mox:** Dzięki.  
+**Carol:** Dobra. Czas załadować resztę bel.  
+**Hannah:** Dalej, silny człowieku. Wynoś bele ze stodoły, a my załadujemy je na ciężarówkę.  
+**Chloe:** Potrzebujesz pomocy?  
+**Mox:** Poradzę sobie. Możesz pomóc Hannah na zewnątrz.  
+**Carol:** Dzięki, Mox.  
+*〔Wskazówka: Wypchnij bele siana ze stodoły, żeby można je było załadować na ciężarówkę.〕*
+
+**Mox:** Gotowe! Wcale nie było tak trudno.  
+
+---
+
+## Mapa 009 — Farma / event 43 / strona 1
+
+**Mox:** To była ostatnia bela siana.  
+**Carol:** /thanks  
+**Hannah:** /success  
+**Chloe:** To wszystko?  
+**Hannah:** Teraz zaczyna się ciężka robota.  
+**Carol:** Zawiozę ten ładunek na pobliską farmę krów…  
+**Carol:** Hannah, posprzątaj całe luźne siano w stodole.  
+**Hannah:** Wszystko będzie posprzątane, zanim wrócisz.  
+**Carol:** Słońce jest już wysoko. Lepiej ruszajmy.  
+**Chloe:** Dam sobie radę.  
+**Carol:** Dzięki, Chloe!  
+**Hannah:** No dalej, wy dwoje. Czeka nas gorąca robota.  
+**Chloe:** Co mamy robić?  
+**Hannah:** Musimy zgrabić całe luźne siano z podłogi stodoły.  
+**Hannah:** /order  
+
+---
+
+## Mapa 041 — Stodoła / event 31 / strona 1
+
+**Mox:** Cholera, robi się tu gorąco.  
+**Chloe:** Naprawdę musieliśmy zamykać drzwi stodoły?  
+**Hannah:** Nie możemy tu wpuścić przeciągu, bo siano rozniesie się wszędzie…  
+**Hannah:** Nie chcesz przecież grabić cały dzień, prawda?  
+**Mox:** Tu jest jak w piecu.  
+**Hannah:** To zrób coś z tym.  
+**Chloe:** Na przykład?  
+**Hannah:** O wiele lepiej.  
+**Chloe:** Hannah!  
+**Mox:** Serio? Teraz się rozbieramy?  
+**Hannah:** To gospodarstwo, Mox. Zdejmij tę cholerną koszulkę i wracaj do roboty.  
+**Chloe:** Chyba myślałam, że będzie zabawniej.  
+**Mox:** Skończmy to wreszcie, żeby móc się czegoś napić.  
+**Mox:** W sumie… Tak jest chłodniej.  
+**Chloe:** /shock  
+**Chloe:** Ojej…  
+**Hannah:** Co za ciacho!  
+**Hannah:** Teraz twoja kolej, Chloe.  
+**Chloe:** Nie zdejmę koszulki!  
+**Hannah:** Masz przecież stanik, nie?  
+**Chloe:** Nie o to chodzi!  
+**Mox:** Mogę dokończyć. Możesz poczekać na zewnątrz na chłodnym wietrze.  
+**Hannah:** Nie! Ona też ma pracować!  
+**Chloe:** Po prostu otwórz drzwi stodoły.  
+
+---
+
+## Common Event 315 — SCN - Hannah Legjob
+
+> **🎬 Wstawka wideo:** `HnChBarn1.mp4` (zapętlone)
+
+**Hannah:** No, teraz jest jeszcze fajniej!  
+**Chloe:** Hannah! Jesteś topless!  
+**Mox:** /worry  
+**Hannah:** Ja zdjęłam koszulkę… Mox też zdjął…  
+**Hannah:** Zdejmuj, dziewczyno! Pokaż cycki!  
+**Chloe:** Ja… Ja… Muszę iść.  
+
+> **🎬 Wstawka wideo:** `HnChBarn2.mp4`
+> **🎬 Wstawka wideo:** `HnChBarn3.mp4` (zapętlone)
+
+**Hannah:** /curse  
+**Mox:** To był twój wielki plan, Hannah?  
+**Hannah:** Czemu tak boi się pokazać cycki?  
+**Mox:** Chloe jest inna niż ty. Nie rozbierze się do naga tylko dlatego, że ma na to ochotę.  
+**Hannah:** Wy, mieszczuchy, wszyscy jesteście tacy sami. Panikujecie na widok kawałka skóry.  
+
+> **🎬 Wstawka wideo:** `HnChBarn4.mp4` (zapętlone)
+
+**Hannah:** Mox! Co ukrywasz?  
+**Mox:** Ja… Eee…  
+**Hannah:** Stoi ci!  
+**Mox:** Czego się spodziewałaś?  
+**Hannah:** To prawda! Widzisz kawałek skóry i już rzucasz się do akcji!  
+
+> **🎬 Wstawka wideo:** `HnChBarn5.mp4`
+> **🎬 Wstawka wideo:** `HnChBarn6.mp4` (zapętlone)
+
+**Hannah:** O rany.  
+**Mox:** Hannah! Po co, do cholery, to zrobiłaś?  
+**Hannah:** Nie żartujesz, co?  
+**Mox:** O cholera.  
+**Hannah:** Mama zaraz wróci, a tobie już staje!  
+**Mox:** Daj mi chwilę.  
+**Hannah:** Jesteś beznadziejny, Mox.  
+
+> **🎬 Wstawka wideo:** `HnChBarn7.mp4` (zapętlone)
+
+**Hannah:** No dalej. Wyjmij go.  
+**Mox:** Hannah?  
+**Hannah:** Nie waż się na mnie patrzeć. Zachowaj się dla Chloe. Jasne?  
+
+> **🎬 Wstawka wideo:** `HnChBarn8.mp4` (zapętlone)
+
+**Mox:** To niepotrzebne…  
+**Hannah:** Potrzebne i to jeszcze jak! Musimy sprawić, żeby ci opadł, zanim mama wróci.  
+**Mox:** Naprawdę to robisz?  
+**Hannah:** Cholera, Mox. Powinieneś był przespać się z Chloe.  
+**Hannah:** Zabije mnie, jeśli się o tym dowie.  
+
+> **🎬 Wstawka wideo:** `HnChBarn9.mp4` (zapętlone)
+
+**Hannah:** Nie patrzysz na mnie, prawda?  
+**Mox:** Ja… Eee… Nie…  
+**Hannah:** Przysięgam na Jezusa, jeśli się we mnie zakochasz, ogłuszę cię.  
+
+> **🎬 Wstawka wideo:** `HnChBarn10.mp4` (zapętlone)
+
+**Hannah:** Co tak długo?  
+**Mox:** Twoje nogi… Są takie gładkie.  
+**Hannah:** Może i jestem dziewczyną ze wsi, ale mam w sobie trochę damy.  
+**Mox:** Eee… Może szybciej.  
+**Hannah:** Robisz się wybredny?  
+
+> **🎬 Wstawka wideo:** `HnChBarn11.mp4` (zapętlone)
+
+**Mox:** O tak!  
+**Hannah:** Nie podglądaj!  
+**Mox:** Po prostu… nie przestawaj.  
+
+> **🎬 Wstawka wideo:** `HnChBarn12.mp4` (zapętlone)
+
+**Mox:** Zaraz dojdę.  
+**Hannah:** No to kończ!  
+**Mox:** Co mam zrobić?  
+**Hannah:** Po prostu dojdź!  
+**Mox:** Na… ciebie?  
+**Hannah:** Nie boję się ubrudzić.  
+
+> **🎬 Wstawka wideo:** `HnChBarn13.mp4`
+
+**Hannah:** Co tu się, na miłość boską, dzieje?!  
+**Mox:** Cholera… Było dobrze.  
+**Hannah:** Gdzie ty to wszystko trzymałeś?  
+
+> **🎬 Wstawka wideo:** `HnChBarn14.mp4`
+
+**Hannah:** Nadal jest ciepłe…  
+
+> **🎬 Wstawka wideo:** `HnChBarn15.mp4`
+
+**Hannah:** Hej, Mox. Popatrz na mnie…  
+**Hannah:** Ale jestem umazana spermą!  
+**Mox:** Hannah!?  
+
+---
+
+## Mapa 041 — Stodoła / event 32 / strona 1
+
+**Carol:** Czemu zamknęłaś drzwi stodoły?  
+**Hannah:** Mamo!  
+**Mox:** Carol!  
+**Carol:** Hannah! Załóż koszulkę!  
+**Hannah:** Było gorąco, mamo! Cała się spociłam!  
+**Carol:** To otwórz te cholerne drzwi.  
+**Carol:** Gdzie jest Chloe?  
+**Mox:** Eee. Musiała szybko wyjść.  
+**Hannah:** Tak, dosłownie musiała biec.  
+**Mox:** Szybko wróciłaś z farmy krów.  
+**Carol:** Farma krów jest zamknięta.  
+**Hannah:** Mówisz poważnie?  
+**Carol:** Gospodarstwo było puste, a oni zatrudnili archeologów.  
+**Hannah:** Prowadzą wykopaliska?  
+**Carol:** Artefakty.  
+**Mox:** Naprawdę? Rolnik zamienił farmę w stanowisko archeologiczne?  
+**Carol:** Nie pierwszy w okolicy, który tak zrobił.  
+**Hannah:** Niech sobie kopią. Zwykła, poczciwa kukurydza też jest w porządku.  
+**Carol:** Skoro mowa o kukurydzy, lepiej szybko naprawmy traktor. Niedługo żniwa.  
+**Hannah:** Może podczas żniw poszukamy złotych artefaktów.  
+**Carol:** Teraz chcesz polować na skarby?  
+**Hannah:** Jeśli możemy znaleźć złoto, czemu nie?  
+**Mox:** Ilu znasz rolników, którzy zamieniają swoje ziemie w wykopaliska?  
+**Carol:** Cóż, już kilku.  
+**Mox:** Zawsze wiedziałem, że to rezerwat Casuli. Wygląda jednak na to, że mieszkamy na ważnym stanowisku archeologicznym.  
+**Carol:** Zawsze słyszałam, że za czasów rdzennych mieszkańców stało tu wielkie miasto.  
+**Hannah:** A teraz uprawiamy tu ziemię.  
+**Carol:** Zawsze znajdowałam na tej ziemi artefakty…  
+**Carol:** Po każdych żniwach znajduję ich coraz więcej. To się nie kończy.  
+**Hannah:** Nigdy nie znalazłam złotego. Dla mnie to zwykłe kamienie.  
+**Carol:** Hannah, w ogóle nie doceniasz historii, prawda?  
+**Hannah:** Gdyby historia była złotem, bardzo by mnie interesowała!  
+**Carol:** Kończ już, Hannah. I zostaw otwarte drzwi stodoły.  
+**Carol:** Zaraz się tu ugotujesz.  
+**Hannah:** Tak, mamo.  
+**Hannah:** Przepraszam, że dziś wszystko zepsułam.  
+**Mox:** W porządku, Hannah. Miło, że się o mnie troszczysz, ale zostaw Chloe w spokoju. Przechodzi teraz trudny okres.  
+**Hannah:** Masz rację, Mox. Zadzwonię do niej i spróbuję się pogodzić.  
+**Mox:** Od bardzo dawna jesteście najlepszymi przyjaciółkami…  
+**Mox:** Myślę, że Chloe dobrze zrobiłoby poznanie łagodniejszej strony Hannah Ray.  
+**Hannah:** Myślisz, że mnie na to stać?  
+**Mox:** Zaopiekowałaś się mną.  
+**Hannah:** Oczywiście.  
+**Mox:** Bądź przy Chloe.  
+**Hannah:** Wiesz, Mox. Może to nie jest odpowiedni moment dla ciebie i Chloe…  
+**Hannah:** Ale jeśli potrzebujesz ramienia do wypłakania się albo małego masażu, zadzwoń do mnie.  
+**Mox:** A co z tobą, Hannah? Gdzie twój chłopak?  
+**Hannah:** Żaden facet sobie ze mną nie poradzi.  
+**Mox:** Jak sobie życzysz.  
+**Hannah:** Na razie, Mox.  
+
+*〔Wskazówka: Ktoś próbuje się z tobą skontaktować. Jak tam zasięg telefonu?〕*
+---
+
+## Common Event 143 — CALL Hannah
+
+**Hannah:** /greet  
+**Mox:** Hannah, wpadniesz do mnie?  
+**Hannah:** Potrzebujesz czułości i troski, Mox?  
+**Mox:** Chętnie się z tobą spotkam.  
+**Hannah:** Już do ciebie jadę.  
+**Hannah:** To niemożliwe. Ten dom wygląda na opuszczony.  
+*〔Wskazówka: Ta biedna kobieta przestraszyła się twojego domu. Spróbuj urządzić go ładniej.〕*
+
+

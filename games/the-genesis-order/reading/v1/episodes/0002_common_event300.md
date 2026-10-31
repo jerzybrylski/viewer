@@ -1,5 +1,7 @@
 ## Common Event 300 — SCN - Opening
 
+> **🎬 Wstawka wideo:** `Opening.mp4`
+
 **Narrator / mówca nieustalony:** Spóźnił się pan, panie Canmore.  
 **Narrator / mówca nieustalony:** Puść ją, doktorze Nucleo! Twoje rządy zła dobiegły końca!  
 **Narrator / mówca nieustalony:** Wręcz przeciwnie. Bomba wybuchnie za mniej niż pięć minut,  

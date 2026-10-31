@@ -1,13 +1,21 @@
 ## Common Event 334 — SCN - Nellie Bobby Jon
 
+> **🎬 Wstawka wideo:** `NeBoJoObMc1.mp4` (zapętlone)
+
 **Bobby:** Nie wypieraj się. Wiemy, że masz skradziony artefakt.  
 **Nellie:** A gdzie, do cholery, miałabym go trzymać? Pod sukienką?  
 **Jon:** Informuję, że mam licencję na zakup artefaktów.  
 **Bobby:** Nie na zakup kradzionych artefaktów.  
 **Nellie:** Nie wiem, o czym mówisz.  
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc2.mp4` (zapętlone)
+
 **Mox:** Hej! Wiem, że Jon ma licencję. Mogę za niego ręczyć.  
 **Bobby:** Co ty tu, u diabła, robisz?  
 **Jon:** Zapewniam panów, że wszystko tutaj jest legalne.  
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc3.mp4` (zapętlone)
+
 **Bobby:** A co z tym kielichem, który ta pani wyrzuciła w krzaki, gdy podjechaliśmy?  
 **Nellie:** Nie mam pojęcia, co to jest.  
 **Bobby:** Jasne, że nie.  
@@ -19,11 +27,21 @@
 **Bobby:** Skoro ten złoty kielich został skradziony, muszę zabrać go ze sobą na komisariat.  
 **Bobby:** Szkoda, że nie uda ci się go sprzedać, mała.  
 **Nellie:** Mam na imię Nellie, dupku!  
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc4.mp4`
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc5.mp4` (zapętlone)
+
 **Bobby:** Nie myśl, że wyjdę stąd bez ciebie, Nellie!  
 **Nellie:** Zejdź ze mnie!  
 **Mox:** Hej! Spokojnie, Bobby!  
 **Funkcjonariusz B:** Odsuń się! Jest aresztowana!  
 **Jon:** To jakiś absurd.  
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc6.mp4`
+
+> **🎬 Wstawka wideo:** `NeBoJoObMc7.mp4` (zapętlone)
+
 **Bobby:** Aaargh!  
 **Funkcjonariusz B:** Wszystko w porządku?  
 **Mox:** Nie wydaje mi się, żebyś sobie pomagała, panienko.  

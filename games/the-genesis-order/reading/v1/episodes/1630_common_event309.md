@@ -1,5 +1,7 @@
 ## Common Event 309 — SCN - Hannah Magazine
 
+> **🎬 Wstawka wideo:** `HnMag.mp4` (zapętlone)
+
 **Hannah:** Co to, do cholery, jest bukkake?  
 **Tasha:** To wtedy, kiedy ktoś oblewa ci twarz ogromną ilością spermy.  
 **Chloe:** Co do cholery?!  
